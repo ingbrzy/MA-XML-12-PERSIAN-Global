@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arr_prompt_label">
+        <item>مناسب</item>
+        <item>طولانی</item>
+        <item>بسیار طولانی</item>
+    </string-array>
+    <string-array name="arr_sedentary_reminder">
+        <item>وقت تحرک است!</item>
+        <item>اطلاعات بیشتر</item>
+        <item>کمی آب خورده و پیاده روی کنید.</item>
+        <item>اطلاعات بیشتر</item>
+        <item>از پله‌های چند طبقه بالا و پایین بروید</item>
+        <item>اطلاعات بیشتر</item>
+        <item>طولانی مدت ننشینید</item>
+        <item>اطلاعات بیشتر</item>
+    </string-array>
+    <string-array name="arr_time_label">
+        <item>۱ ساعت</item>
+        <item>۲ ساعت</item>
+    </string-array>
+    <string-array name="energy_unit">
+        <item>" کیلو کالری"</item>
+        <item>" کیلوژول"</item>
+    </string-array>
+    <string-array name="length_unit">
+        <item>" سانتی‌متر"</item>
+        <item>" متر"</item>
+        <item>" کیلومتر"</item>
+    </string-array>
+    <string-array name="pager_titles">
+        <item>روز</item>
+        <item>هفته</item>
+        <item>ماه</item>
+    </string-array>
+    <string-array name="run_in_background_state">
+        <item>بدون محدودیت</item>
+        <item>محدود کردن فعالیت پس‌زمینه</item>
+        <item>توقف پس از ۱۰ دقیقه</item>
+        <item>هرگز</item>
+    </string-array>
+    <string-array name="speed_unit">
+        <item>" ک.م/س"</item>
+        <item>" م/س"</item>
+    </string-array>
+    <string-array name="temperature_unit">
+        <item>℃</item>
+        <item>F°</item>
+    </string-array>
+    <string-array name="week">
+        <item>یک‌شنبه</item>
+        <item>دوشنبه</item>
+        <item>سه‌شنبه</item>
+        <item>چهارشنبه</item>
+        <item>پنج‌شنبه</item>
+        <item>جمعه</item>
+        <item>شنبه</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>یکشنبه</item>
+        <item>دوشنبه</item>
+        <item>سه‌شنبه</item>
+        <item>چهارشنبه</item>
+        <item>پنج‌شنبه</item>
+        <item>جمعه</item>
+        <item>شنبه</item>
+    </string-array>
+</resources>

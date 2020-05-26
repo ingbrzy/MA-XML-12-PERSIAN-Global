@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="all_month_str">
+        <item>ژانویه</item>
+        <item>فوریه</item>
+        <item>مارس</item>
+        <item>آوریل</item>
+        <item>می</item>
+        <item>جون</item>
+        <item>جولای</item>
+        <item>آگوست</item>
+        <item>سپتامبر</item>
+        <item>اکتبر</item>
+        <item>نوامبر</item>
+        <item>دسامبر</item>
+    </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>امشب</item>
+        <item>فردا</item>
+        <item>آخر هفته</item>
+        <item>هفته بعد</item>
+        <item>ماه آینده</item>
+        <item>انتخاب تاریخ</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>پاسخ</item>
+        <item>پاسخ به همه</item>
+        <item>بازارسال</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>ریز</item>
+        <item>کوچک</item>
+        <item>عادی</item>
+        <item>بزرگ</item>
+        <item>خیلی بزرگ</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>به تازگی مشاهده شده</item>
+        <item>فرمت</item>
+        <item>نام</item>
+        <item>فرستنده</item>
+        <item>تاریخ دریافت</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>سیستم</item>
+        <item>پر استفاده</item>
+        <item>همه پوشه‌ها</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>پیام جدیدتر</item>
+        <item>پیام قدیمی‌تر</item>
+        <item>صندوق دریافتی</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>نشانی:</item>
+        <item>تلفن:</item>
+        <item>نام:</item>
+        <item>ایمیل:</item>
+        <item>تلفن همراه:</item>
+        <item>WeChat:</item>
+        <item>فکس:</item>
+        <item>کد پستی:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>تشکر,</item>
+        <item>با احترام</item>
+        <item>ارسال شده از</item>
+        <item>ایمیل اصلی</item>
+        <item>ارسال شده از</item>
+        <item>ارسال شده از</item>
+        <item>از</item>
+        <item>این ایمیل</item>
+        <item>سلب مسئولیت</item>
+        <item>سلب مسئولیت ایمیل</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">برای تازه‌سازی پایین بکشید</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">با موفقیت تازه‌سازی شد</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">در حال تازه سازی…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">برای تازه سازی رها کنید</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">به پایان صفحه رسیدید</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">به پایان صفحه رسیدید</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">چند لحظه صبر کنید…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">موارد بارگذاری نشدند</string>
+</resources>

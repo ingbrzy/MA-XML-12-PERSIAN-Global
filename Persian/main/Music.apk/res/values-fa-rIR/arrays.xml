@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recommendation_desc_week">
+        <item>پیشنهادات یکشنبه</item>
+        <item>پیشنهادات دوشنبه</item>
+        <item>پیشنهادات سه‌شنبه</item>
+        <item>پیشنهادات چهارشنبه</item>
+        <item>پیشنهادات پنج‌شنبه</item>
+        <item>پیشنهادات جمعه</item>
+        <item>پیشنهادات شنبه</item>
+    </string-array>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zman</string>
+    <string name="first_settings_default_camera_title">همرسانی بدون ابرداده به صورت پیش‌فرض</string>
+    <string name="first_settings_default_location_subtitle">حذف اطلاعات موقعیت از عکس‌های همرسانی شده</string>
+    <string name="first_settings_default_location_title">همرسانی بدون اطلاعات موقعیت مکانی به صورت پیش‌فرض</string>
+    <string name="first_settings_share_enable">افزودن نشان «همرسانی امن»</string>
+    <string name="first_settings_share_enable_subtitle">مواردی که در WeChat همرسانی می‌کنید با یک نشان MIUI نمایان خواهند شد</string>
+    <string name="first_settings_subtitle">در اینجا گزینه‌های همرسانی امن برای شما فراهم است:</string>
+    <string name="first_settings_title">حافظت از حریم خصوصی شما</string>
+    <string name="once_settings_camera_ttile">همرسانی بدون ابرداده</string>
+    <string name="once_settings_location_title">همرسانی بدون اطلاعات موقعیت مکانی</string>
+    <string name="once_settings_subtitle">موارد انتخاب شده را چگونه می‌خواهید همرسانی کنید؟</string>
+    <string name="once_settings_title">حفاظت از حریم خصوصی</string>
+    <string name="settings_camera_subtitle_no">بدو ابرداده</string>
+    <string name="settings_image_camera_summary">مدل دستگاه، ابرداده و غیره</string>
+    <string name="settings_location_subtitle_no">بدون اطلاعات مکانی</string>
+    <string name="settings_share_enable_summary">مواردی که در WeChat همرسانی می‌کنید با یک نشان MIUI نمایان خواهند شد</string>
+    <string name="settings_share_info">در اینجا گزینه‌های همرسانی امن برای مواردی که از گالری و مدیریت فایل همرسانی می‌شوند در دسترسند:</string>
+    <string name="settings_show_detail">نمایش جزئیات</string>
+    <string name="settings_tip">برای دیدن گزینه‌های بیشتر به گالری > تنظیمات بروید</string>
+    <string name="settings_title">همرسانی امن</string>
+    <string name="text_done">تأیید</string>
+    <string name="text_security">حریم خصوصی</string>
+</resources>

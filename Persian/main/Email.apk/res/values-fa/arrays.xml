@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="calendar_remind_string_array">
+        <item>Tonight</item>
+        <item>Tomorrow</item>
+        <item>Weekend</item>
+        <item>Next week</item>
+        <item>Next month</item>
+        <item>Pick date</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>پاسخ</item>
+        <item>پاسخ به همه</item>
+        <item>انتقال</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>خیلی کوچک</item>
+        <item>کوچک</item>
+        <item>نرمال</item>
+        <item>بزرگ</item>
+        <item>خیلی بزرگ</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>اخیرا مشاهده شده</item>
+        <item>قالب</item>
+        <item>نام</item>
+        <item>فرستنده</item>
+        <item>تاریخ دریافت</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>سیستم</item>
+        <item>پراستفاده</item>
+        <item>همه پوشه ها</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>پیام جدیدتر</item>
+        <item>پیام قدیمی تر</item>
+        <item>صندوق پستی</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>آدرس:</item>
+        <item>تلفن:</item>
+        <item>نام:</item>
+        <item>ایمیل:</item>
+        <item>تلفن همراه:</item>
+        <item>WeChat:</item>
+        <item>فکس:</item>
+        <item>کد پستی:</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>تشکر,</item>
+        <item>با احترام</item>
+        <item>ارسال شده از</item>
+        <item>پست الکترونیکی اصلی</item>
+        <item>ارسال شده از</item>
+        <item>ارسال شده از</item>
+        <item>از</item>
+        <item>این ایمیل</item>
+        <item>سلب مسئولیت</item>
+        <item>سلب مسئولیت ایمیل</item>
+    </string-array>
+</resources>
