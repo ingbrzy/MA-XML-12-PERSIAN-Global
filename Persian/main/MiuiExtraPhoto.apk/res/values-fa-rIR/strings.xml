@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="doc_photo_adjust_section_title">Drag to adjust</string>
+    <string name="doc_photo_cancel">Cancel</string>
+    <string name="doc_photo_confirm">Exit</string>
+    <string name="doc_photo_doc_photo_title">Edit document</string>
+    <string name="doc_photo_enhance_bin">B&amp;W</string>
+    <string name="doc_photo_enhance_color">Enhanced</string>
+    <string name="doc_photo_enhance_none">Original</string>
+    <string name="doc_photo_idcard_alert_msg">Discard all changes and exit the editor?</string>
+    <string name="doc_photo_idcard_emblem">Back</string>
+    <string name="doc_photo_idcard_mode_title">ID card</string>
+    <string name="doc_photo_idcard_portrait">Front</string>
+    <string name="doc_photo_not_support">"Can't edit this image as a document"</string>
+    <string name="doc_photo_view_effect">Preview</string>
+    <string name="extra_photo_common_permission_name">Bokeh</string>
     <string name="extra_photo_common_save_fail">ذخیره نشد</string>
     <string name="extra_photo_common_saving">در حال ذخیره کردن…</string>
+    <string name="extra_photo_common_transition_image_view">tag_transition_view</string>
+    <string name="extra_photo_common_transition_menu_view">tag_transition_view_menu</string>
     <string name="motion_photo_cancel">لغو</string>
     <string name="motion_photo_re_pick_title">عکس زنده</string>
     <string name="motion_photo_save_fail">ذخیره نشد</string>
@@ -30,4 +46,5 @@
     <string name="refocus_type_relighting_small_face">نورپردازی استودیویی روی عکس‌هایی که چهره‌ها فضای بیشتری نسبت به اینجا می‌گیرند کار می‌کند.</string>
     <string name="refocus_type_static">میزان تاری</string>
     <string name="refocus_type_video">دنباله نور</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

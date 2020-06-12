@@ -103,6 +103,7 @@
     <string name="app_name">مجوزها</string>
     <string name="background_location_access_reminder_notification_content">این برنامه همیشه می‌تواند به موقعیت مکانی شما دسترسی داشته باشد. برای تغییر ضربه بزنید.</string>
     <string name="background_location_access_reminder_notification_title">%s از موقعیت مکانی شما استفاده می‌کرده است</string>
+    <string name="current_permission_template">%1$s(%2$d/%3$d)</string>
     <string name="default_permission_description">انجام اقدامات ناشناخته</string>
     <string name="grant_dialog_button_allow">اجازه دادن</string>
     <string name="grant_dialog_button_allow_always">همیشه اجازه داده شود</string>
@@ -154,6 +155,7 @@
     <string name="screen_overlay_button">باز کردن تنظیمات</string>
     <string name="screen_overlay_message">برای تغییر این مجوز، شما باید همپوشانی نمایشگر را در تنظیمات > برنامه‌ها خاموش کنید.</string>
     <string name="screen_overlay_title">همپوشانی صفحه شناسایی شد</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="virtual_reject_notice_content">یک پاسخ خالی به برنامه ارسال شد تا از اطلاعات شخصی شما محافظت شود</string>
     <string name="virtual_reject_notice_title_calendar">دسترسی به سالنامه توسط %1$s</string>
     <string name="virtual_reject_notice_title_calllog">دسترسی به تاریخچه تماس توسط %1$s</string>

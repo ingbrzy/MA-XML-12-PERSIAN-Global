@@ -28,7 +28,7 @@
     <string name="find_device_error_server">خطای سرور (%s).</string>
     <string name="find_device_error_unknown">خطای نامشخص (%s).</string>
     <string name="find_device_noise_title">هشدار یافتن دستگاه</string>
-    <string name="find_device_notice">با رفتن به &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> دستگاه خود را مکان‌یابی، قفل یا بازیابی کنید.</string>
+    <string name="find_device_notice">با رفتن به &lt;b&gt;&lt;font color=#0099FF&gt;i.mi.com&lt;/font&gt;&lt;/b&gt; دستگاه خود را مکان‌یابی، قفل یا بازیابی کنید.</string>
     <string name="find_device_notice_sms_alert">اگر سیم‌کارت خود را تغییر دهید، برای فعال کردن این کارایی ممکن است پیام کوتاه دیگری به‌طور خودکار ارسال شود.</string>
     <string name="find_device_stop_noise">برای بی‌صدا کردن روی تأیید ضربه بزنید</string>
     <string name="find_device_storage_corrupted">حافظه یافتن دستگاه خراب شده است. دستگاه شما اکنون ایمن نیست.</string>
@@ -51,6 +51,7 @@
     <string name="phone_locked_account_email">، ایمیل‌های مرتبط: %s</string>
     <string name="phone_locked_account_phone">، شماره تلفن مرتبط: %s</string>
     <string name="return_to_call">بازگشت به تماس</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_on_empty_captcha">کد امنیتی نمیتواند خالی باشد</string>
     <string name="stop_on_empty_password">گذرواژه نمیتواند خالی باشد</string>
     <string name="sys_notification_async_open_failed_content">ضربه زده تا تلاش دوباره یا لغو شود.</string>

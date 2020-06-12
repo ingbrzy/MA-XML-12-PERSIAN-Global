@@ -23,7 +23,7 @@
     <string name="camera_introduction">می‌توانید از دوربین برای گرفتن عکس‌ها و ضبط ویدئوها استفاده کنید.</string>
     <string name="carrier_introduction">به منظور ارائه خدمات بهتر به شما، دستگاه شما ممکن است به صورت دوره‌ای اطلاعات نسخه دستگاه، داده‌های شناسایی دستگاه (شامل IMEI/IMSI/MSISDN/نشانی MAC، MEID/ICCID) و اطلاعات موقعیت تقریبی شما (شامل شناسه ایستگاه پایه) را از طریق Wi-Fi، شبکه اینترنت همراه و یا پیامک رایگان به شرکت مخابراتی ارسال کند. شرکت مخابراتی متعهد می‌شود که اطلاعات مربوطه را فقط به منظور بهبود کیفیت خدمات یا ارائه خدمات یا فناوری‌های سفارشی‌شده تجزیه و تحلیل کرده و اطلاعات مربوطه به هر شکلی که شخص شما را شناسایی کند را برای هیچ سوم‌شخصی فاش نخواهد کرد. توضیحات شرکت مخابراتی مشخص مناط اعتبار است. درباره هزینه استفاده از این خدمات با شرکت مخابراتی خود مشورت کنید.</string>
     <string name="clock_introduction">از این برنامه می‌توانید برای دیدن زمان و همچنین استفاده از زمان‌سنج، ساعت جهانی، کرنومتر، تنظیم هشدار و موارد بیشتر استفاده کنید.</string>
-    <string name="close_location_service_setting">می‌توانید انتخاب کنید که دسترسی به موقعیت را در تنظیمات > تنظیمات بیشتر > حریم خصوصی خاموش کرده و یا در امنیت مجوزها را برای برنامه‌های خاص محدود کنید.</string>
+    <string name="close_location_service_setting">می‌توانید انتخاب کنید که دسترسی به موقعیت را در تنظیمات &gt; تنظیمات بیشتر &gt; حریم خصوصی خاموش کرده و یا در امنیت مجوزها را برای برنامه‌های خاص محدود کنید.</string>
     <string name="cm_terms_content">جهت ارتقای ارائه خدمات به شما، اپراتور شبکه موبایل منتخبتان ممکن است داده‌های شخصی شما و اطلاعات درباره این دستگاه را به سرورهای خود با استفاده از شبکه‌های Wi-Fi یا اتصال اینترنت همراه بارگذاری کند. این اطلاعات تنها برای اهداف آماری در جهت ارتقای کیفیت خدمات و ارائه محتواهای شخصی سازی شده بیشتر استفاده خواهند شد. این اطلاعات برای شناسایی شخص شما استفاده نشده و برای سوم‌شخص‌ها فاش نخواهد شد.</string>
     <string name="cm_terms_title">قرارداد اپراتور شبکه موبایل</string>
     <string name="compass_introduction">از این برنامه می‌توانید برای مسیریابی و همچنین نمایش مختصات، فشار جو و ارتفاع استفاده کنید.</string>
@@ -36,14 +36,15 @@
     <string name="content_introduction">مرکز محتوا خدمات و محتواها را از چندین کانال گردآوری می‌کند. در اینجا شما می‌توانید به خواندن مقالات، تماشای ویدئوها، دیدن موارد ویژه روز و دریافت محتواهای پیشنهاد شده بپردازید.</string>
     <string name="continue_to_enable_accessibility">دو انگشت خود را پایین نگه داشته تا دسترسی‌پذیری فعال شود.</string>
     <string name="data_traffic_enable_dialog_title">در صورت متصل نبودن به Wi-Fi، دستگاه شما از اینترنت همراه استفاده خواهد کرد. استفاده از اینترنت همراه ممکن است هزینه‌های اضافی در پی داشته باشد.</string>
-    <string name="desc_extra_fingerprint" />
-    <string name="desc_extra_international_fingerprint" />
+    <string name="desc_extra_fingerprint"></string>
+    <string name="desc_extra_international_fingerprint"></string>
     <string name="desc_fingerprint">برای باز کردن قفل دستگاه، تأیید معاملات پرداخت Mi یا برای ورود به سیستم برنامه‌ها و خدمات، از اثر انگشت خود استفاده کنید.</string>
     <string name="desc_international_fingerprint">از اثر انگشت خود برای بازکردن قفل دستگاه، ورود به برنامه‌ها و یا خدمات استفاده کنید.</string>
     <string name="diagnose_report">ارسال داده‌های عیب‌یابی برای مکان‌یابی و تحلیل اشکالات سیستم و بهبود تجربه کاربر. چنین داده‌هایی ممکن است حاوی اطلاعات شخصی (مانند: IP، موقعیت و غیره) باشند</string>
     <string name="disageement_abnormal_download">در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این خدمات استفاده کنید.</string>
     <string name="disagree">انصراف</string>
     <string name="disagreement_abnormal_running">در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این برنامه استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که از این برنامه استفاده نکرده و یا مجوزها را در تنظیمات محدود کنید.</string>
+    <string name="disagreement_abnormal_running_fast_pairing">"If you don't agree to grant such permissions, you won't be able to use this app. You can choose to restrict permissions in the Settings in such cases."</string>
     <string name="disagreement_donnot_use_application">در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این برنامه استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که از این برنامه استفاده نکنید.</string>
     <string name="disagreement_donnot_use_product">در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این محصولات استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که از این محصولات استفاده نکنید.</string>
     <string name="disagreement_donnot_use_service">در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این خدمات استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که از این خدمات استفاده نکنید.</string>
@@ -57,6 +58,7 @@
     <string name="enable_accessibility_dialog_negative_btn">لغو</string>
     <string name="enable_accessibility_dialog_positive_btn">تأیید</string>
     <string name="fast_application_introduction">چارچوب برنامه‌های فوری به شما اجازه تولید و ارائه خدمات را در برنامه‌های فوری می‌دهد.</string>
+    <string name="fast_pairing_introduction">Mi Link allows your device to connect to Bluetooth devices nearby. To be able to find devices nearby, allow Mi Link to connect to the internet.</string>
     <string name="font_hint_large">اندازه متن پیش‌فرض</string>
     <string name="font_hint_normal">افزایش اندازه متن</string>
     <string name="framework_introduction">چارچوب خدمات Mi به شما اجازه استفاده از حساب Mi، Mi Push، آمار Mi و MIUI BI را می‌دهد.</string>
@@ -176,6 +178,7 @@
     <string name="service_name_content_center">مرکز محتوا</string>
     <string name="service_name_download">دانلودها</string>
     <string name="service_name_fast_application">چارچوب برنامه‌های فوری</string>
+    <string name="service_name_fast_pairing">Mi Link</string>
     <string name="service_name_game">افزونه بازی‌ها</string>
     <string name="service_name_google_service">توضیحات خدمات Google</string>
     <string name="service_name_location">خدمات بر پایه موقعیت</string>
@@ -185,7 +188,8 @@
     <string name="service_name_screen_recording">ضبط نمایشگر</string>
     <string name="service_name_security">امنیت</string>
     <string name="service_name_service_framework">چارچوب خدمات Mi</string>
-    <string name="service_policy">&lt;Data>&lt;a href=%1$s>سیاست حفظ حریم خصوصی&lt;/a > ما را خوانده و بپذیرید.&lt;/Data></string>
+    <string name="service_policy">&lt;Data&gt;&lt;a href=%1$s&gt;سیاست حفظ حریم خصوصی&lt;/a &gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>
+    <string name="service_policy_download">&lt;Data&gt;Before using our services, read and agree to &amp;lt;a href=%1$s&amp;gt;Xunlei Privacy Policy&amp;lt;/a &amp;gt;.&lt;/Data&gt;</string>
     <string name="service_privacy_index">سیاست حفظ حریم خصوصی</string>
     <string name="servicestate_title">توضیحات خدمات پایه‌ای</string>
     <string name="setting_locale">درحال تنظیم ناحیه…</string>

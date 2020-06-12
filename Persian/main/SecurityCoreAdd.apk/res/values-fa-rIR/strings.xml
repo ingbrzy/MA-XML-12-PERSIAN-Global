@@ -6,6 +6,33 @@
 پیام‌ها تنها در فضای دوم نمایش داده خواهند شد."</string>
     <string name="PrivacyContactDes2">"اگر از پیام‌های خصوصی در فضای نخست استفاده کردید،
 این ویژگی در فضای دوم نیز به صورت خودکار افزوده خواهد شد."</string>
+    <string name="abc_action_bar_home_description">پیمایش به صفحه اصلی</string>
+    <string name="abc_action_bar_up_description">رفتن به بالا</string>
+    <string name="abc_action_menu_overflow_description">گزینه‌های بیشتر</string>
+    <string name="abc_action_mode_done">تمام</string>
+    <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+    <string name="abc_activitychooserview_choose_application">انتخاب برنامه</string>
+    <string name="abc_capital_off">خاموش</string>
+    <string name="abc_capital_on">روشن</string>
+    <string name="abc_menu_alt_shortcut_label">‎Alt+‎</string>
+    <string name="abc_menu_ctrl_shortcut_label">‎Ctrl+‎</string>
+    <string name="abc_menu_delete_shortcut_label">حذف</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">‎Function+‎</string>
+    <string name="abc_menu_meta_shortcut_label">‎Meta+‎</string>
+    <string name="abc_menu_shift_shortcut_label">‎Shift+‎</string>
+    <string name="abc_menu_space_shortcut_label">فاصله</string>
+    <string name="abc_menu_sym_shortcut_label">‎Sym+‎</string>
+    <string name="abc_prepend_shortcut_label">منو+</string>
+    <string name="abc_search_hint">جستجو…‏</string>
+    <string name="abc_searchview_description_clear">پاک کردن پُرسمان</string>
+    <string name="abc_searchview_description_query">درخواست جستجو</string>
+    <string name="abc_searchview_description_search">جستجو</string>
+    <string name="abc_searchview_description_submit">ارسال پُرسمان</string>
+    <string name="abc_searchview_description_voice">جستجوی گفتاری</string>
+    <string name="abc_shareactionprovider_share_with">هم‌رسانی با</string>
+    <string name="abc_shareactionprovider_share_with_application">هم‌رسانی با %s</string>
+    <string name="abc_toolbar_collapse_description">کوچک کردن</string>
     <string name="about_ent_mode">درباره حالت شرکتی</string>
     <string name="activate_ent_mode">فعال‌سازی حالت شرکتی</string>
     <string name="add_finger_print">افزودن اثر انگشت</string>
@@ -61,6 +88,7 @@
 تا هر زمانی امکان نمایش وجود داشته باشد"</string>
     <string name="contact_us">تماس با ما</string>
     <string name="continueButton">ادامه</string>
+    <string name="copy">کپی</string>
     <string name="createANewSpace">یک فضای مجزا بر روی گوشی خود ایجاد کنید.</string>
     <string name="createUserFail">ایجاد نشد</string>
     <string name="create_app_icon_failed">آیکون ایجاد نشد</string>
@@ -70,7 +98,7 @@
     <string name="create_work_space">ایجاد فضای کار</string>
     <string name="creating_app_icon">درحال ایجاد آیکون…</string>
     <string name="cta_declaration_agree_and_continue">پذیرفتن</string>
-    <string name="cta_declaration_message_format" formatted="false">پیش از استفاده از حالت شرکتی شما باید &lt;font color=%s>&lt;a href=%s>%s&lt;/a>&lt;/font> ما را خوانده و بپذیرید. برای فعال‌سازی حالت شرکتی دستگاه شما نیاز به اتصال به اینترنت دارد. آیا می‌پذیرید؟</string>
+    <string name="cta_declaration_message_format" formatted="false">پیش از استفاده از حالت شرکتی شما باید &lt;font color=%s&gt;&lt;a href=%s&gt;%s&lt;/a&gt;&lt;/font&gt; ما را خوانده و بپذیرید. برای فعال‌سازی حالت شرکتی دستگاه شما نیاز به اتصال به اینترنت دارد. آیا می‌پذیرید؟</string>
     <string name="cta_declaration_title">شرایط و ضوابط</string>
     <string name="current_space">فضای کنونی</string>
     <string name="dataSafe">استفاده از فضای دوم مانند داشتن دو دستگاه است.</string>
@@ -98,13 +126,6 @@
     <string name="dual_animation">اجرای انیمیشن</string>
     <string name="dual_animation_description">نمایش انیمیشن هنگامی که برنامه‌های همزاد درحال اجرا هستند</string>
     <string name="enable">روشن</string>
-    <string name="encrypt_space_delete_dialog_click_message">*در صورتی که نیاز به انتقال داده‌ها ندارید، %s</string>
-    <string name="encrypt_space_delete_dialog_click_message_action">فضای دوم را اکنون حذف و ایجاد کنید.</string>
-    <string name="encrypt_space_delete_dialog_message">آماده انجام به‌روزرسانی سیستم هستید. پس از به‌روزرسانی، داده‌های فضای دوم ناسازگار خواهند شد. برای پیش‌گیری، همه داده‌ها را به فضای نخست انتقال داده، فضای دوم را حذف کرده و دوباره ایجاد کنید.</string>
-    <string name="encrypt_space_delete_dialog_positive_text">انتقال داده‌ها</string>
-    <string name="encrypt_space_delete_dialog_title">توجه</string>
-    <string name="encrypt_space_delete_notification_message">فضای دوم خود را حذف کرده و یکی دیگر ایجاد کنید تا دستگاه خود را با موفقیت به‌روز کنید.</string>
-    <string name="encrypt_space_delete_notification_title">فضای دوم</string>
     <string name="ent_activating">درحال فعال‌سازی…</string>
     <string name="ent_activation">فعال‌سازی</string>
     <string name="ent_activation_hint">برای فعال‌سازی حالت شرکتی، کد شرکتی خود را در ادامه کد مجوز وارد کنید. پس از آن، خدمات شرکتی سفارشی فعال خواهند شد.</string>
@@ -149,6 +170,7 @@
     <string name="err_unknown">خطای نامشخص</string>
     <string name="err_volume_not_enough">فضای ذخیره‌ سازی کافی وجود ندارد</string>
     <string name="exit_private_space">تعویض</string>
+    <string name="expand_button_title">پیشرفته</string>
     <string name="experience_more_features">دستگاهی را افزوده تا همه ویژگی‌ها را ببینید</string>
     <string name="facebook_login">ورود با استفاده از فیسبوک</string>
     <string name="facebook_send">همرسانی در فیس‌بوک</string>
@@ -188,7 +210,6 @@
     <string name="guide_pwd_detail_title">"از داده‌های خود محافظت کنید
 از صفحه قفل وارد فضای دوم شوید"</string>
     <string name="guide_setting_guide_title">مدیریت فضای دوم</string>
-    <string name="guide_start_ads_text">یک سطح کاملاً جدیدی از امنیت</string>
     <string name="guide_start_text">دو فضا. یک دستگاه.</string>
     <string name="has_created_second_space">"اکنون می‌توانید فضای دوم را باز کنید.
 دو فضا. یک دستگاه."</string>
@@ -226,6 +247,14 @@
     <string name="master_clear_not_available_ep">شما مجاز به بازنشانی به تنظیمات کارخانه یا برداشتن مجوز خود نیستید. با سرپرست خود تماس بگیرید.</string>
     <string name="menu_item_about_privacy_title">سیاست حفظ حریم خصوصی</string>
     <string name="messageData">پیام‌ها</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="more_settings">بیشتر</string>
     <string name="msg_switch_file">این فایل‌ها در فضای نخست پس از انتقال حذف شوند؟</string>
     <string name="msg_switch_file_second">این فایل‌ها در فضای دوم پس از انتقال حذف شوند؟</string>
@@ -241,6 +270,7 @@
     <string name="next_setp">بعدی</string>
     <string name="no_match_repate_scanner">اثرات انگشت مطابق یافت نشدند. دوباره اسکن کنید</string>
     <string name="normal_app">فضای نخست</string>
+    <string name="not_set">تنظیم نشده است</string>
     <string name="not_support_air_space">این ویژگی روی گوشی شما مورد پشتیبانی نیست</string>
     <string name="not_support_multiple_users">فضای چندگانه مورد پشتیبانی نیست</string>
     <string name="notificationSetPassword">تنظیم گذرواژه</string>
@@ -256,13 +286,13 @@
     <string name="openPasswordGuard">تنظیم گذرواژه فضای دوم</string>
     <string name="openSuccess">روشن شد</string>
     <string name="opened">روشن</string>
-    <string name="optimize_now">بهینه‌سازی</string>
     <string name="other">سایر</string>
     <string name="otherSettings">سایر تنظیمات</string>
     <string name="passWordGuardSummary">با استفاده از یک گذرواژه از صفحه قفل وارد فضای دوم شوید</string>
     <string name="passwordProtect">گذرواژه</string>
     <string name="please_diff_finger_print">"مطمئن شوید اثر انگشت‌های متفاوت در فضای نخست و فضای دوم استفاده می‌شوند.
 درغیر این صورت شما نمی‌توانید از صفحه قفل وارد فضای دوم شوید."</string>
+    <string name="preference_copied">«%1$s» در کلیپ‌بورد کپی شد.</string>
     <string name="privacyContactsSummary">نمایش موارد خصوصی در فضای دوم</string>
     <string name="privacyContactsTitle">مخاطبین و پیام‌های خصوصی</string>
     <string name="privacy_password_fingerprint_dialog_message">انگشت خود را برروی حسگر قرار دهید</string>
@@ -279,8 +309,6 @@
     <string name="remove_button">حذف</string>
     <string name="remove_button_time">حذف (%d ثانیه)</string>
     <string name="remove_second_space_msg">تمامی داده‌های برنامه فضای دوم پس از حذف فضای دوم از بین خواهند رفت. فضای دوم حالا حذف شود؟</string>
-    <string name="remove_user_click_message">*در صورتی که مورد مهمی در فضای دوم ندارید، %s</string>
-    <string name="remove_user_click_message_action">اکنون می‌توانید فضای دوم را حذف کرده و دستگاه خود را راه‌اندازی دوباره کنید.</string>
     <string name="removingSpace">در حال حذف…</string>
     <string name="repeat_scanner_fingerprint">دوباره بیافزایید</string>
     <string name="reset_passwd_success">گذرواژه با موفقیت دوباره تنظیم شد</string>
@@ -304,15 +332,8 @@
     <string name="scanner_fingerprint_tips_desc">اثر انگشت موجود را انتخاب کرده تا وارد فضای دوم شوید. شما نمی‌توانید از آن در فضای نخست استفاده کنید.</string>
     <string name="scanner_fingerprint_tips_title">با اثر انگشت موجود وارد فضای دوم شوید</string>
     <string name="scanner_second_space_fingerprint">اسکن اثر انگشت فضای دوم</string>
-    <string name="sdcardfs_dialog_message">یک فایل سیستمی جدید در این به‌روزرسانی معرفی شده است. داده‌های قدیمی ممکن است با آن سازگار نباشند. برای حل این مشکل، مراحل زیر را رفته تا به‌روزرسانی را نصب کنید. دستگاه شما هنگام این به‌روزرسانی دو بار راه‌اندازی خواهد شد.</string>
-    <string name="sdcardfs_dialog_title">به‌روزرسانی مهم</string>
-    <string name="sdcradfs_dialog_in_owner_message">"یک فایل سیستمی جدید در به‌روزرسانی جدید معرفی شده است. داده‌های قدیمی ممکن است با آن سازگار نباشند. برای به‌روزرسانی، موارد را از فضای دوم انتقال داده، دستگاه خود را دوباره راه‌اندازی کرده وفضای دوم را دوباره ایجاد کنید.
-اگر به‌روز نکنید، برنامه‌های همزاد ممکن است به خوبی کار نکنند."</string>
-    <string name="sdcradfs_dialog_in_owner_title">فضای دوم</string>
-    <string name="sdcradfs_dialog_in_sec_message">"برای به‌روزرسانی، باید فضای دوم خود را حذف کرده و سپس دوباره آن را ایجاد کنید. داده‌های داده‌ها را از فضای دوم به فضای نخست انتقال داده و دستگاه خود را دوباره راه‌اندازی کرده تا به‌روزرسانی کامل شود.
-در صورتی که به‌روز نکنید، برنامه‌های همزاد ممکن است به درستی کار نکنند."</string>
-    <string name="sdcradfs_dialog_in_sec_title">به‌روزرسانی مهم</string>
-    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
+    <string name="search_menu_title">جستجو</string>
     <string name="search_result_text">برنامه‌ای یافت نشد</string>
     <string name="secondSpace">فضای دوم</string>
     <string name="second_owner_finger_print">اثر انگشت فضای دوم</string>
@@ -321,6 +342,8 @@
     <string name="second_space_desktop_tips_dialog_title">به‌روزرسانی مهم</string>
     <string name="second_space_finger_printf_desc">افزودن اثر انگشت مخصوص ورود به فضای دوم</string>
     <string name="second_space_finger_printf_title">اثر انگشت فضای دوم</string>
+    <string name="secondspace_homepage">"Set a designated screen lock for Second space.
+Separate and secure your data."</string>
     <string name="select_existed_fingerprint">انتخاب اثر انگشت</string>
     <string name="serNameSummary">فضای دوم</string>
     <string name="setSecondSpacePassword">تنظیم گذرواژه فضای دوم</string>
@@ -378,7 +401,6 @@
     <string name="space_create_guide_title_1">از حریم خصوصی خود حفاظت کنید</string>
     <string name="space_create_guide_title_2">در هر زمانی ایجاد کنید</string>
     <string name="space_create_guide_title_3">کاملاً بی‌خطر</string>
-    <string name="space_created_success">فضای دوم با موفقیت ایجاد شد</string>
     <string name="space_deleted">این فضا حذف شده است</string>
     <string name="space_des_default">فضا با داده‌های رمزگذاری شده جدا شده است</string>
     <string name="space_finger_sub_text">اثر انگشت فضای دوم را تنظیم کرده تا سریع‌تر تعویض کنید</string>
@@ -390,10 +412,11 @@
     <string name="start_new_fingerprint_tips">"از اثر انگشت فضای دوم استفاده کرده
 تا از صفحه قفل وارد فضای دوم شوید"</string>
     <string name="start_setting_guide_desc_title">چند چیز برای راه‌اندازی وجود دارد</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_xspace_alert_content">همه برنامه‌های همزاد به همراه حساب‌ها و داده‌های برنامه‌شان حذف خواهند شد. پس از به‌کارگیری این تغییر دستگاه شما دوباره راه‌اندازی خواهد شد.</string>
     <string name="stop_xspace_alert_title">حذف حساب برنامه‌های همزاد</string>
+    <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="summary_switch_apps_settings">انتخاب همه برنامه‌هایی که در فضای کنونی استفاده شدند</string>
-    <string name="support_desc">خدمات امنیت توسط Spaces Mobile ارائه شده است</string>
     <string name="sure_to_use">تأیید</string>
     <string name="switchDataSummary">انتقال موارد بین فضاها</string>
     <string name="switch_apps_settings">تنظیمات برنامه</string>
@@ -441,6 +464,8 @@
     <string name="undo_success">با باطل شد</string>
     <string name="use_google_open">بیدار شدن با استفاده از دستیار Google</string>
     <string name="use_xiaoai_open">بیدار شدن با استفاده از Mi AI</string>
+    <string name="v7_preference_off">خاموش</string>
+    <string name="v7_preference_on">روشن</string>
     <string name="wating">چند لحظه صبر کنید…</string>
     <string name="weibo_send">ارسال به Weibo</string>
     <string name="weixin_pay">پرداخت WeChat</string>

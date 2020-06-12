@@ -76,4 +76,8 @@
         <item quantity="other">%s خدمات با فضای ابری Xiaomi همگام‌سازی خواهند شد</item>
         <item quantity="one">%s خدمات با فضای ابری Xiaomi همگام‌سازی خواهد شد</item>
     </plurals>
+    <plurals name="select_no_more_than">
+        <item quantity="other">"Can't select more than %d items"</item>
+        <item quantity="one">"Can't select more than %d item"</item>
+    </plurals>
 </resources>

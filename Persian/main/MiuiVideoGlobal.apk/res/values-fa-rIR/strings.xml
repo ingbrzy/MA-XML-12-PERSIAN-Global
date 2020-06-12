@@ -1,15 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="Earlier">زودتر</string>
+    <string name="HA_AFFILIATE_ID">1268</string>
+    <string name="HA_APP_KEY">MIV-DgUIBwwPBgw</string>
+    <string name="HA_DOMAIN">mivideo</string>
+    <string name="HA_DOMAIN_TEST">test</string>
+    <string name="HA_SERVICE_ID">PLAY</string>
     <string name="This_week">این هفته</string>
     <string name="Today">امروز</string>
     <string name="Yesterday">دیروز</string>
+    <string name="abc_action_bar_home_description">پیمایش به صفحه اصلی</string>
+    <string name="abc_action_bar_up_description">پیمایش به بالا</string>
+    <string name="abc_action_menu_overflow_description">گزینه‌های بیشتر</string>
+    <string name="abc_action_mode_done">تمام</string>
+    <string name="abc_activity_chooser_view_see_all">مشاهده همه</string>
+    <string name="abc_activitychooserview_choose_application">انتخاب برنامه</string>
+    <string name="abc_capital_off">خاموش</string>
+    <string name="abc_capital_on">روشن</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_menu_alt_shortcut_label">‎Alt+‎</string>
+    <string name="abc_menu_ctrl_shortcut_label">‎Ctrl+‎</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">‎Function+‎</string>
+    <string name="abc_menu_meta_shortcut_label">‎Meta+‎</string>
+    <string name="abc_menu_shift_shortcut_label">‎Shift+‎</string>
+    <string name="abc_menu_space_shortcut_label">کلید فاصله</string>
+    <string name="abc_menu_sym_shortcut_label">‎Sym+‎</string>
+    <string name="abc_prepend_shortcut_label">منو+</string>
+    <string name="abc_search_hint">جستجو…</string>
+    <string name="abc_searchview_description_clear">پاک کردن عبارت جستجو</string>
+    <string name="abc_searchview_description_query">عبارت جستجو</string>
+    <string name="abc_searchview_description_search">جستجو</string>
+    <string name="abc_searchview_description_submit">ارسال عبارت جستجو</string>
+    <string name="abc_searchview_description_voice">جستجوی گفتاری</string>
+    <string name="abc_shareactionprovider_share_with">اشتراک‌گذاری با</string>
+    <string name="abc_shareactionprovider_share_with_application">اشتراک‌گذاری با %s</string>
+    <string name="abc_toolbar_collapse_description">کوچک کردن</string>
     <string name="account_bind_secure_email_title">افزودن ایمیل بازیابی</string>
     <string name="account_bind_secure_phone_title">افزودن شماره تلفن بازیابی</string>
     <string name="account_crop_user_avatar">بریدن عکس</string>
     <string name="account_empty_user_name">نام کاربری حساب Mi خود را وارد کنید</string>
     <string name="account_error_all_space_user_name">نام مستعار نمی‌تواند فقط حاوی فاصله باشد</string>
-    <string name="account_error_invalid_user_name">نام نمی‌تواند حاوی &lt;, >, یا / باشد</string>
+    <string name="account_error_invalid_user_name">نام نمی‌تواند حاوی &lt;, &gt;, یا / باشد</string>
     <string name="account_error_longer_user_name">نام نباید بیشتر از ۲۰ کاراکتر داشته باشد</string>
     <string name="account_error_shorter_user_name">نام باید بیشتر از ۲ کاراکتر داشته باشد</string>
     <string name="account_error_user_birthday">زادروزی که وارد کرده‌اید نامعتبر است</string>
@@ -39,6 +83,10 @@
     <string name="action_update_phone">تغییر شماره تلفن</string>
     <string name="activate_email_notice">مطمئن شوید که حساب خود را ظرف ۲۴ ساعت فعال می‌کنید</string>
     <string name="activity_not_found_notice">برنامه یافت نمی‌شود</string>
+    <string name="ad_buy">Purchase</string>
+    <string name="ad_download">Download</string>
+    <string name="ad_join">Join community</string>
+    <string name="ad_more">More</string>
     <string name="add_to_trust_device">این دستگاه مورد اعتماد است</string>
     <string name="agree">پذیرفتن</string>
     <string name="ai_animation_music_text">موسیقی متن AI</string>
@@ -68,8 +116,49 @@
     <string name="cancel_choose">لغو انتخاب</string>
     <string name="cancel_subscribe_tips">دنبال نشود؟</string>
     <string name="canceled">لغو شد</string>
+    <string name="cast_ad_label">آگهی</string>
+    <string name="cast_casting_to_device">‏درحال ارسال محتوا به %1$s</string>
+    <string name="cast_closed_captions">زیرنویس ناشنوایان</string>
+    <string name="cast_closed_captions_unavailable">زیرنویس ناشنوانایان دردسترس نیست</string>
+    <string name="cast_connecting_to_device">درحال اتصال به %1$s</string>
+    <string name="cast_disconnect">قطع ارتباط</string>
+    <string name="cast_expanded_controller_ad_image_description">تصویری که هنگام نمایش آگهی در گیرنده محتوی نشان داده می‌شود</string>
+    <string name="cast_expanded_controller_ad_in_progress">آگهی درحال اجرا...</string>
+    <string name="cast_expanded_controller_background_image">عکس روی جلد آلبوم</string>
+    <string name="cast_expanded_controller_live_stream_indicator">پخش جریانی مستقیم</string>
+    <string name="cast_expanded_controller_loading">درحال بار کردن…</string>
+    <string name="cast_expanded_controller_skip_ad_label">رد کردن آگهی</string>
+    <string name="cast_expanded_controller_skip_ad_text">‏%1$d دیگر می‌توانید آگهی را رد کنید…</string>
+    <string name="cast_forward">به جلو</string>
+    <string name="cast_forward_10">ده ثانیه به جلو</string>
+    <string name="cast_forward_30">سی ثانیه به جلو</string>
+    <string name="cast_mute">بی‌صدا کردن</string>
+    <string name="cast_notification_connected_message">متصل به %1$s</string>
+    <string name="cast_notification_connecting_message">درحال اتصال به %1$s</string>
+    <string name="cast_notification_default_channel_name">ارسال محتوا</string>
+    <string name="cast_notification_disconnect">قطع ارتباط</string>
+    <string name="cast_pause">مکث</string>
+    <string name="cast_play">پخش</string>
+    <string name="cast_rewind">عقب بردن</string>
+    <string name="cast_rewind_10">ده ثانیه به عقب</string>
+    <string name="cast_rewind_30">سی ثانیه به عقب</string>
+    <string name="cast_seek_bar">بازپخش جستجوی کنترل</string>
+    <string name="cast_skip_next">پرش به مورد بعدی</string>
+    <string name="cast_skip_prev">پرش به مورد قبلی</string>
+    <string name="cast_stop">توقف</string>
+    <string name="cast_stop_live_stream">توقف پخش جریانی زنده</string>
+    <string name="cast_tracks_chooser_dialog_audio">صوتی</string>
+    <string name="cast_tracks_chooser_dialog_cancel">لغو</string>
+    <string name="cast_tracks_chooser_dialog_closed_captions">زیرنویس ناشنوایان</string>
+    <string name="cast_tracks_chooser_dialog_default_track_name">ردیابی %1$d</string>
+    <string name="cast_tracks_chooser_dialog_none">هیچ‌کدام</string>
+    <string name="cast_tracks_chooser_dialog_ok">تأیید</string>
+    <string name="cast_tracks_chooser_dialog_subtitles">زیرنویس‌ها</string>
+    <string name="cast_unmute">باصدا</string>
     <string name="change_activate_email">تغییر نشانی ایمیل</string>
     <string name="change_password">تغییر گذرواژه</string>
+    <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="check_nothing">شما هنوز هیج موردی را انتخاب نکرده‌اید</string>
     <string name="choose">انتخاب</string>
     <string name="choose_to_signin">بله</string>
@@ -80,6 +169,33 @@
     <string name="cloud_online_switch_close_time">می‌توانید پیشنهادات محتوای شخصی‌سازی شده خود را در %s روشن کنید</string>
     <string name="cloud_online_switch_open_time">نمایش پیشنهادات محتوای شخصی‌سازی شده</string>
     <string name="collect_diagnosis_log">جمع‌آوری رخدادها</string>
+    <string name="com.crashlytics.android.build_id">ec71a063-3031-4779-b62b-ab7779274c23</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b&gt;facebook.com/device&lt;/b&gt; and enter the code shown above.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_smart_device_instructions">To connect your account, open the Facebook app on your mobile device and check for notifications.</string>
+    <string name="com_facebook_smart_device_instructions_or">- OR -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+    <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+    <string name="com_mixpanel_android_close">Close</string>
+    <string name="com_mixpanel_android_done">Done</string>
+    <string name="com_mixpanel_android_notification_image">Image not displayed</string>
     <string name="com_permission_desc">ویدئوی Mi نمی‌تواند به ویدئوهای شما روی دستگاهتان دسترسی داشته باشد. اجازه دسترسی را در تنظیمات بدهید.</string>
     <string name="com_permission_title">نیازمند مجوز است</string>
     <string name="comment_model_add_comment">افزودن نظر</string>
@@ -105,6 +221,24 @@
     <string name="comment_model_send_forbid_tips">حساب تعلیق شد</string>
     <string name="comment_model_send_success">با موفقیت ارسال شد</string>
     <string name="common_cancel">لغو</string>
+    <string name="common_google_play_services_enable_button">فعال کردن</string>
+    <string name="common_google_play_services_enable_text">‏تا وقتی سرویس‌های Google Play را فعال نکنید، %1$s کار نمی‌کند.</string>
+    <string name="common_google_play_services_enable_title">‏‫فعال کردن سرویس‌های Google Play</string>
+    <string name="common_google_play_services_install_button">نصب</string>
+    <string name="common_google_play_services_install_text">‏%1$s بدون خدمات Google Play که در دستگاه شما وجود ندارد اجرا نمی‌شود.</string>
+    <string name="common_google_play_services_install_title">‏دریافت سرویس‌های Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">‏قابلیت دسترسی خدمات Google Play</string>
+    <string name="common_google_play_services_notification_ticker">‏خطا در خدمات Google Play</string>
+    <string name="common_google_play_services_unknown_issue">‏%1$s برای استفاده از خدمات Google Play با مشکل روبرو است. لطفاً دوباره امتحان کنید.</string>
+    <string name="common_google_play_services_unsupported_text">‏%1$s بدون خدمات Google Play که در دستگاه شما پشتیبانی نمی‌شود، اجرا نخواهد شد.</string>
+    <string name="common_google_play_services_update_button">به‌روزرسانی</string>
+    <string name="common_google_play_services_update_text">‏تاز مانی که سرویس‌های Google Play را به‌روزرسانی نکنید، %1$s اجرا نمی‌شود.</string>
+    <string name="common_google_play_services_update_title">‏‫به‌روزرسانی سرویس‌های Google Play</string>
+    <string name="common_google_play_services_updating_text">‏%1$s بدون سرویس‌های Google Play که درحال حاضر درحال به‌روزرسانی هستند، کار نمی‌کند.</string>
+    <string name="common_google_play_services_wear_update_text">‏نسخه جدید سرویس‌های Google Play نیاز است. به‌زودی به‌طور خودکار به‌روزرسانی می‌شود.</string>
+    <string name="common_open_on_phone">باز کردن در تلفن</string>
+    <string name="common_signin_button_text">ورود به سیستم</string>
+    <string name="common_signin_button_text_long">‏ورود به سیستم با Google‎</string>
     <string name="confirm_activate_email">تأیید شده</string>
     <string name="confirm_bundled_phone_dialog_title">تأیید شماره تلفن مرتبط</string>
     <string name="confirm_new_pwd">گذرواژه جدید را تایید کنید</string>
@@ -112,12 +246,15 @@
     <string name="content">محتوا</string>
     <string name="content_can_not_null">بازخوردهای بدون توضیح ارسال نمی‌شوند.</string>
     <string name="data_empty">هیچ موردی اینجا نیست</string>
+    <string name="day">day</string>
+    <string name="default_web_client_id">144285974528-0s4d24nm35j65v8dde47naur9f0p32ff.apps.googleusercontent.com</string>
+    <string name="define_roundedimageview"></string>
     <string name="description">توضیحات</string>
     <string name="diagnosis_log_send_failed">رخدادها ارسال نشدند. دوباره تلاش کنید.</string>
     <string name="diagnosis_log_sent_format">"رخدادها با موفقیت ارسال شدند.
 شناسه%s
 این کد را به مسئول مربوطه ارسال کنید."</string>
-    <string name="dialog_privacy_info_new2">برای امکان استفاده از خدمات آن، شما باید بپذیرید که %1$s اطلاعات شخصی شما را جمع‌آوری، پردازش و استفاده خواهد کرد. زدن روی \"پذیرفتن\" در زیر، به منزله خواندن و پذیرفتن &lt;a href=\"%2$s\">سیاست حفظ حریم خصوصی&lt;/a> ما توسط شما تلقی می‌شود.</string>
+    <string name="dialog_privacy_info_new2">برای امکان استفاده از خدمات آن، شما باید بپذیرید که %1$s اطلاعات شخصی شما را جمع‌آوری، پردازش و استفاده خواهد کرد. زدن روی \"پذیرفتن\" در زیر، به منزله خواندن و پذیرفتن &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما توسط شما تلقی می‌شود.</string>
     <string name="dialog_privacy_title">مجوز</string>
     <string name="dialog_revoke_privacy_info_new2">پس از باطل کردن مجوز، این برنامه جمع‌آوری داده‌ها را متوقف کرده و همه داده‌های مرتبط را از سرورهای ما حذف خواهد کرد. این کار ممکن است باعث گردد برنامه عملاً غیر قابل استفاده شود. در هر صورت مجوز باطل شود؟</string>
     <string name="dialog_revoke_privacy_title">ابطال مجوز</string>
@@ -125,11 +262,47 @@
     <string name="do_not_show_again">دوباره نمایش داده نشود</string>
     <string name="empty_channels">مدیریت کانال‌ها</string>
     <string name="empty_subscribe">شما هنوز مشترک جایی نشده‌اید.</string>
+    <string name="error_details">Unexpected error</string>
     <string name="error_dup_binded_email">این نشانی ایمیل در حال حاضر با یک حساب Mi دیگر مرتبط است.</string>
     <string name="error_invalid_bind_address">نشانی ایمیلی که وارد کردید نامعتبر است.</string>
     <string name="exceed_binded_phone_times_notice">این شماره تلفن در حال حاضر با یک حساب Mi دیگر مرتبط است.</string>
     <string name="exit">خروج</string>
+    <string name="exo_controls_fastforward_description">جلو بردن سریع</string>
+    <string name="exo_controls_fullscreen_description">حالت تمام‌صفحه</string>
+    <string name="exo_controls_next_description">آهنگ بعدی</string>
+    <string name="exo_controls_pause_description">مکث</string>
+    <string name="exo_controls_play_description">پخش</string>
+    <string name="exo_controls_previous_description">آهنگ قبلی</string>
+    <string name="exo_controls_repeat_all_description">تکرار همه</string>
+    <string name="exo_controls_repeat_off_description">تکرار هیچ‌کدام</string>
+    <string name="exo_controls_repeat_one_description">یکبار تکرار</string>
+    <string name="exo_controls_rewind_description">عقب بردن</string>
+    <string name="exo_controls_shuffle_description">درهم</string>
+    <string name="exo_controls_stop_description">توقف</string>
+    <string name="exo_download_completed">بارگیری کامل شد</string>
+    <string name="exo_download_description">بارگیری</string>
+    <string name="exo_download_downloading">درحال بارگیری</string>
+    <string name="exo_download_failed">بارگیری نشد</string>
+    <string name="exo_download_notification_channel_name">بارگیری‌ها</string>
+    <string name="exo_download_removing">حذف بارگیری‌ها</string>
+    <string name="exo_item_list">%1$s،‏ %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f مگابیت در ثانیه</string>
+    <string name="exo_track_mono">مونو</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_selection_auto">خودکار</string>
+    <string name="exo_track_selection_none">هیچ‌کدام</string>
+    <string name="exo_track_selection_title_audio">صوتی</string>
+    <string name="exo_track_selection_title_text">نوشتار</string>
+    <string name="exo_track_selection_title_video">ویدیو</string>
+    <string name="exo_track_stereo">استریو</string>
+    <string name="exo_track_surround">صدای فراگیر</string>
+    <string name="exo_track_surround_5_point_1">صدای فراگیر ۵.۱</string>
+    <string name="exo_track_surround_7_point_1">صدای فراگیر ۷٫۱</string>
+    <string name="exo_track_unknown">نامشخص</string>
+    <string name="explore">Discover</string>
     <string name="explore_on_mi_video">در ویدئوی Mi موارد بیشتری را بیابید</string>
+    <string name="facebook_application_id"></string>
+    <string name="facebook_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="failed_dup_secure_phone_number">این شماره تلفن در حال حاضر با یک حساب Mi دیگر مرتبط است</string>
     <string name="failed_to_fetch_data">اطلاعات بارگذاری نشد.</string>
     <string name="favor_online_video">ویدئوها</string>
@@ -139,6 +312,7 @@
     <string name="favorite_cancel_success">با موفقیت از موارد پسندیده حذف شد</string>
     <string name="favorite_fail">موارد پسندیده افزوده نشد. دوباره تلاش کنید.</string>
     <string name="favorite_success">با موفقیت به موارد پسندیده افزوده شد</string>
+    <string name="fcm_fallback_notification_channel_label">موارد دیگر</string>
     <string name="feedback">بازخورد</string>
     <string name="feedback_activity_title">بازخورد</string>
     <string name="feedback_contact_empty">اطلاعات تماس خود را وارد کنید</string>
@@ -156,6 +330,7 @@
     <string name="feedback_text_empty_toast">ابتدا بازخورد خود را وارد کنید.</string>
     <string name="find_psw">گذرواژه را فراموش کرده‌ام</string>
     <string name="finish">انجام شد</string>
+    <string name="firebase_database_url">https://global-video-5cd70.firebaseio.com</string>
     <string name="for_diagnosis_usage_only">رخدادها فقط برای عیب‌یابی استفاده خواهند شد.</string>
     <string name="for_you">برای شما</string>
     <string name="friday">جمعه</string>
@@ -187,6 +362,8 @@
     <string name="galleryplus_gallery_video_adjust_hint">فقط ویدئوهای ۹۶۰ فریم در ثانیه پشتیبانی می‌شوند</string>
     <string name="galleryplus_gallery_video_adjust_text">تنظیم کردن</string>
     <string name="galleryplus_gallery_video_default_music_text">خودکار</string>
+    <string name="galleryplus_gallery_video_icon_is_8k">8K</string>
+    <string name="galleryplus_gallery_video_icon_is_record_log">LOG</string>
     <string name="galleryplus_gallery_video_item3_default_text">احساسات</string>
     <string name="galleryplus_gallery_video_item4_default_text">طلوع</string>
     <string name="galleryplus_gallery_video_item5_default_text">خاطرات</string>
@@ -201,7 +378,7 @@
     <string name="galleryplus_gallery_view_tags">نمایش علامت</string>
     <string name="galleryplus_is_higher_definition">پیش‌نمایش HD باز شد</string>
     <string name="galleryplus_permission_content">به ویدئوی Mi مجوزهای لازم را داده تا بتوانید از این ویژگی استفاده کنید.</string>
-    <string name="galleryplus_permission_content2">"برای امکان استفاده از این ویژگی به تنظیمات > برنامه‌ها > ویدئوی Mi > مجوزهای برنامه رفته و به ویدئوی Mi اجازه انجام کارهای زیر را بدهید:
+    <string name="galleryplus_permission_content2">"برای امکان استفاده از این ویژگی به تنظیمات &gt; برنامه‌ها &gt; ویدئوی Mi &gt; مجوزهای برنامه رفته و به ویدئوی Mi اجازه انجام کارهای زیر را بدهید:
 
 ۱. دسترسی به حافظه
 ۲. دسترسی به شناسه دستگاه"</string>
@@ -238,10 +415,16 @@
     <string name="galleryplus_vp_videoview_error_button">فهمیدم</string>
     <string name="galleryplus_vp_videoview_error_text_unknown">یک خطای بازپخش رخ داد</string>
     <string name="galleryplus_vp_videoview_error_title">این ویدئو پخش نمی‌شود</string>
+    <string name="gcm_defaultSenderId">144285974528</string>
     <string name="get_back_pwd">درحال بازنشانی گذرواژه</string>
     <string name="get_ph_ticket">دریافت کد</string>
     <string name="get_phone_bind_exceed_limit">شما می‌توانید تا ۳ حساب Mi را با یک شماره تلفن مرتبط کنید.</string>
     <string name="get_phone_verifycode_exceed_limit">کدهای تأیید زیادی برای این شماره فرستاده شده است. ۲۴ ساعت منتظر مانده و دوباره تلاش کنید.</string>
+    <string name="google_api_key">AIzaSyBmWA13ZtMoPDvgTFVtmG4anqKADZ_XnNg</string>
+    <string name="google_app_id">1:144285974528:android:6b926accc3bd9e5a7918e5</string>
+    <string name="google_application_id"></string>
+    <string name="google_crash_reporting_api_key">AIzaSyBmWA13ZtMoPDvgTFVtmG4anqKADZ_XnNg</string>
+    <string name="google_storage_bucket">global-video-5cd70.appspot.com</string>
     <string name="goto_sign_up">ایجاد حساب</string>
     <string name="have_learned">فهمیدم</string>
     <string name="hidden_channels">کانال‌های زیر در صفحه اصلی نمایش داده نخواهند شد.</string>
@@ -249,6 +432,8 @@
     <string name="history">تاریخچه</string>
     <string name="history_local_video">محلی</string>
     <string name="history_online_video">آنلاین</string>
+    <string name="hot">Popular</string>
+    <string name="id_namespace">hungama</string>
     <string name="identity">شناسایی</string>
     <string name="inconsistent_pwd">گذرواژه‌ها یکسان نیستند</string>
     <string name="init_channels">بازیابی به پیش‌فرض</string>
@@ -258,12 +443,13 @@
     <string name="isornot_your_mi_account">آیا این حساب کاربری Mi شماست؟</string>
     <string name="issue">اشکال</string>
     <string name="just_a_second">چند لحظه صبر کنید…</string>
-    <string name="language_later_setting_tips">شما می‌توانید تنظیمات زبان خود را در نمایه > زبان تغییر دهید.</string>
+    <string name="language_later_setting_tips">شما می‌توانید تنظیمات زبان خود را در نمایه &gt; زبان تغییر دهید.</string>
     <string name="language_select_tips">"زمان ترجیحی خود را برای ویدئوها
 انتخاب کنید"</string>
-    <string name="language_setting_tips">تنظیمات زبان خود را انتخاب کرده تا پیشنهادات محتوایی مربوط‌تری دریافت کنید. شما می‌توانید تنظیمات زبان را در نمایه > زبان تغییر دهید.</string>
-    <string name="language_setting_tips_dialog">تنظیمات زبان برای محتوا را می‌توانید در حساب > زبان انتخاب کنید.</string>
+    <string name="language_setting_tips">تنظیمات زبان خود را انتخاب کرده تا پیشنهادات محتوایی مربوط‌تری دریافت کنید. شما می‌توانید تنظیمات زبان را در نمایه &gt; زبان تغییر دهید.</string>
+    <string name="language_setting_tips_dialog">تنظیمات زبان برای محتوا را می‌توانید در حساب &gt; زبان انتخاب کنید.</string>
     <string name="later">بعداً</string>
+    <string name="library_roundedimageview_libraryDescription">A fast ImageView (and Drawable) that supports rounded corners (and ovals or circles) based on the original example from Romain Guy.</string>
     <string name="live_now">زنده</string>
     <string name="live_title">زنده</string>
     <string name="live_tv_title">تلویزیون زنده</string>
@@ -310,7 +496,7 @@
     <string name="lv_confirm_unhide_videos">ویدئوها آشکار شوند؟</string>
     <string name="lv_deleting">در حال حذف…</string>
     <string name="lv_device_list">دستگاه‌ها</string>
-    <string name="lv_device_list_seaching">&lt;دستگاهی برای نمایش وجود ندارد></string>
+    <string name="lv_device_list_seaching">&lt;دستگاهی برای نمایش وجود ندارد&gt;</string>
     <string name="lv_do_not_show_this_again">دوباره نمایش داده نشود</string>
     <string name="lv_favor">موارد پسندیده</string>
     <string name="lv_find_new_version">یک به‌روزرسانی در دسترس است</string>
@@ -374,7 +560,7 @@
     <string name="lv_subtitle_onlinesub_loading">درحال بارگذاری زیرنویس…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">درحال بارگذاری زیرنویس…</string>
     <string name="lv_subtitle_onlinesub_right_declare">توضیحات سلب مسئولیت</string>
-    <string name="lv_subtitle_onlinesub_right_declare_content">زیرنویس‌ها را &lt;br/>&lt;br/>از &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a> دریافت کنید.&lt;br/>&lt;br/>همه زیرنویس‌های آنلاین توسط &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a> ارائه شده‌اند.</string>
+    <string name="lv_subtitle_onlinesub_right_declare_content">زیرنویس‌ها را &lt;br/&gt;&lt;br/&gt;از &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt; دریافت کنید.&lt;br/&gt;&lt;br/&gt;همه زیرنویس‌های آنلاین توسط &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt; ارائه شده‌اند.</string>
     <string name="lv_subtitle_onlinesub_save_failed">زیرنویس افزوده نشد</string>
     <string name="lv_subtitle_onlinesub_save_success">زیرنویس با موفقیت افزوده شد</string>
     <string name="lv_subtitle_onlinesub_search_keyword">برای جستجو کلیدواژه‌ها را وارد کنید</string>
@@ -409,12 +595,39 @@
     <string name="moment_tab_whatsapp">واتساپ</string>
     <string name="moment_title_my_videos">ویدئوهای من</string>
     <string name="monday">دوشنبه</string>
+    <string name="month">month</string>
     <string name="more">بیشتر</string>
+    <string name="mr_button_content_description">دکمه فرستادن</string>
+    <string name="mr_cast_button_connected">دکمه فرستادن. متصل</string>
+    <string name="mr_cast_button_connecting">دکمه فرستادن. درحال اتصال</string>
+    <string name="mr_cast_button_disconnected">دکمه فرستادن. اتصال قطع شد</string>
+    <string name="mr_cast_dialog_title_view_placeholder">No info available</string>
+    <string name="mr_chooser_searching">درحال پیدا کردن دستگاه‌ها</string>
+    <string name="mr_chooser_title">ارسال محتوا به</string>
+    <string name="mr_controller_album_art">عکس روی جلد آلبوم</string>
+    <string name="mr_controller_casting_screen">صفحه ارسال محتوا</string>
+    <string name="mr_controller_close_description">بستن</string>
+    <string name="mr_controller_collapse_group">کوچک کردن</string>
+    <string name="mr_controller_disconnect">قطع اتصال</string>
+    <string name="mr_controller_expand_group">بزرگ کردن</string>
+    <string name="mr_controller_no_info_available">اطلاعاتی دردسترس نیست</string>
+    <string name="mr_controller_no_media_selected">رسانه‌ای انتخاب نشده است</string>
+    <string name="mr_controller_pause">مکث</string>
+    <string name="mr_controller_play">پخش</string>
+    <string name="mr_controller_stop">توقف</string>
+    <string name="mr_controller_stop_casting">توقف ارسال محتوا</string>
+    <string name="mr_controller_volume_slider">لغزنده میزان صدا</string>
+    <string name="mr_dialog_device_header">Cast to a device</string>
+    <string name="mr_dialog_route_header">Play on a group</string>
+    <string name="mr_system_route_name">سیستم</string>
+    <string name="mr_user_route_category_name">دستگاه‌ها</string>
+    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
     <string name="my_favorite_channels">کانال‌های مورد پسند من</string>
     <string name="my_feedback_title">بازخورد من</string>
     <string name="need_update_app">ویدئوی Mi را به‌روز کرده تا از همه ویژگی‌های آن استفاده کنید</string>
     <string name="network_connect_info">به شبکه متصل نشد. تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید.</string>
     <string name="network_failed">به شبکه متصل نشد</string>
+    <string name="new_channel_tip">Take a look at new channels!</string>
     <string name="next">بعدی</string>
     <string name="nick_name">نام مستعار</string>
     <string name="no_account">وارد حساب نشده است</string>
@@ -435,7 +648,6 @@
     <string name="notification_open_tip">روشن کرده تا اعلان‌ها را دریافت کنید</string>
     <string name="notify_apk_installed">با موفقیت دانلود شد</string>
     <string name="ok">تأیید</string>
-    <string name="order_alphabet">به ترتیب حروف الفبا</string>
     <string name="order_recently_subscribe">اشتراکات تازه</string>
     <string name="order_recently_updated">به‌تازگی به‌روز شده</string>
     <string name="ovp_alert_dialog_download_install_task">درحال دانلود افزونه HD…</string>
@@ -531,8 +743,10 @@
     <string name="passport_account_name">"حساب: %1$s "</string>
     <string name="passport_activate_token_expired">کد تایید منقضی شد. دوباره تلاش کنید.</string>
     <string name="passport_area_code_title">کد ناحیه</string>
+    <string name="passport_auth_title"></string>
     <string name="passport_bad_authentication">نام کاربری یا گذرواژه معتبر است</string>
     <string name="passport_barcode_add_account_prompt">برای افزودن یک حساب، بعد از وارد شدن کد QR را دوباره اسکن کنید.</string>
+    <string name="passport_can_not_receive_verification_code">"Can't receive verification code?"</string>
     <string name="passport_captcha_title">کد امنیتی</string>
     <string name="passport_checking_account">درحال بررسی گذرواژه…</string>
     <string name="passport_close">بستن</string>
@@ -557,7 +771,7 @@
     <string name="passport_error_unknown">خطای نامشخص</string>
     <string name="passport_error_user_agreement_error">ابتدا همه شرایط و ضوابط را بپذیرید</string>
     <string name="passport_error_user_name">نام کاربری وارد شده نامعتبر است</string>
-    <string name="passport_forget_password"><u>گذرواژه را فراموش کرده‌ام</u></string>
+    <string name="passport_forget_password">گذرواژه را فراموش کرده‌ام</string>
     <string name="passport_get_verify_code">دریافت کد</string>
     <string name="passport_getting_verify_code">چند لحظه صبر کنید…</string>
     <string name="passport_identification_expired">زمان کد تایید به پایان رسید. از نو آغاز کنید.</string>
@@ -601,8 +815,8 @@
     <string name="passport_unknow_error">یک خطای نامشخص روی داد</string>
     <string name="passport_unknow_host_network_error">تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید</string>
     <string name="passport_unknow_network_error">خطای شبکه رخ داده است</string>
-    <string name="passport_user_agreement_link">&lt;Data>من &lt;a href=\"%1$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%2$s\">سیاست حفظ حریم خصوصی&lt;/a> Xiaomi را خوانده و می‌پذیریم.&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">&lt;Data>من اسناد زیر را خوانده و می‌پذیرم: &lt;a href=\"%1$s\">توافقنامه کاربر&lt;/a> و &lt;a href=\"%4$s\">سیاست حفظ حریم خصوصی&lt;/a> Xiaomi، &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_link">&lt;Data&gt;من &lt;a href=\"%1$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; Xiaomi را خوانده و می‌پذیریم.&lt;/Data&gt;</string>
+    <string name="passport_user_agreement_link_more">&lt;Data&gt;من اسناد زیر را خوانده و می‌پذیرم: &lt;a href=\"%1$s\"&gt;توافقنامه کاربر&lt;/a&gt; و &lt;a href=\"%4$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; Xiaomi، &lt;a href=\"%2$s\"&gt;\"%3$s\"&lt;/a&gt;.&lt;/Data&gt;</string>
     <string name="passport_user_id_intro">گذرواژه را برای %1$s وارد کنید</string>
     <string name="passport_v_code_error">کد تایید اشتباه است</string>
     <string name="passport_vcode_notification_title">تاییدیه ورود شما کامل نشده است</string>
@@ -615,6 +829,7 @@
     <string name="passport_wrong_phone_number_format">فرمت شماره تلفنی که وارد کرده اید نامعتبر است</string>
     <string name="passport_wrong_vcode">کدی را که وارد کرده‌اید اشتباه است</string>
     <string name="passport_wrong_voice">کدی را که وارد کرده‌اید اشتباه است</string>
+    <string name="password_toggle_content_description">Show password</string>
     <string name="permission_continue">ادامه</string>
     <string name="permission_info">"ویدئوی Mi برای انجام کارهای زیر نیاز به دسترسی به شماره IMEI دستگاه شما دارد:
  
@@ -705,7 +920,7 @@
     <string name="plus_player_subtitle_local_add_success">زیرنویس با موفقیت افزوده شد</string>
     <string name="plus_player_subtitle_no_file">هیچ زیرنویسی اینجا نیست.</string>
     <string name="plus_player_subtitle_online">زیرنویس آنلاین</string>
-    <string name="plus_player_subtitle_online_declare_content">یک گام تا جستجو برای &lt;br/>زیرنویس در پایگاه داده &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a> قرار دارید. &lt;br/>تمام زیرنویس‌ها توسط &lt;a href=\"http://www.opensubtitles.org\">opensubtitles.org&lt;/a> ارائه شده‌اند.</string>
+    <string name="plus_player_subtitle_online_declare_content">یک گام تا جستجو برای &lt;br/&gt;زیرنویس در پایگاه داده &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt; قرار دارید. &lt;br/&gt;تمام زیرنویس‌ها توسط &lt;a href=\"http://www.opensubtitles.org\"&gt;opensubtitles.org&lt;/a&gt; ارائه شده‌اند.</string>
     <string name="plus_player_subtitle_online_declare_title">توضیحات سلب مسئولیت</string>
     <string name="plus_player_subtitle_online_download_fail">زیرنویس‌ها دانلود نشدند</string>
     <string name="plus_player_subtitle_online_download_start">درحال دانلود زیرنویس‌ها…</string>
@@ -760,6 +975,7 @@
     <string name="plus_sort_type_time">زمان</string>
     <string name="plus_tab_gallery">پوشه‌ها</string>
     <string name="plus_tab_time">جدول زمانی</string>
+    <string name="project_id">global-video-5cd70</string>
     <string name="psw_hint">گذرواژه</string>
     <string name="psw_sign_in">ورود با استفاده از گذرواژه</string>
     <string name="pull_to_refresh_from_bottom_pull_label">برای تازه‌سازی به سمت بالا بکشید…</string>
@@ -771,6 +987,8 @@
     <string name="push_message_switch">اعلان‌های فشاری</string>
     <string name="push_message_tips">برای دریافت اعلان فشاری روشن کنید</string>
     <string name="pw_channels">کانال‌ها</string>
+    <string name="qq_application_id"></string>
+    <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="read_and_agree">پذیرفتن</string>
     <string name="recommend_channels">کانال‌های پیشنهادی</string>
     <string name="recommend_online_switch">پیشنهادات آنلاین</string>
@@ -798,7 +1016,16 @@
     <string name="restart_phone_bind_title">تغییر تلفن بازیابی</string>
     <string name="restore_channel_list">به پیش‌فرض بازیابی شود؟</string>
     <string name="retry">تلاش دوباره</string>
+    <string name="reveal">Rotate</string>
+    <string name="reveal_tip">Rotate your device for better viewing experience</string>
     <string name="revoke">ابطال</string>
+    <string name="s1">ذخیره تصویر</string>
+    <string name="s2">به آگهی اجازه داده شود تصویر را در گالری تصویر ذخیره کند؟</string>
+    <string name="s3">پذیرفتن</string>
+    <string name="s4">نپذیرفتن</string>
+    <string name="s5">ایجاد رویداد تقویم</string>
+    <string name="s6">به آگهی اجازه داده شود رویداد تقویم ایجاد کند؟</string>
+    <string name="s7">آگهی آزمایشی</string>
     <string name="same_new_and_old_pwd">با گذرواژه کنونی نمی‌تواند یکی باشد</string>
     <string name="saturday">شنبه</string>
     <string name="save">ذخیره</string>
@@ -810,6 +1037,7 @@
     <string name="search_choose_voice_language">زبانی که برای جستجوی صوتی استفاده می‌شود را انتخاب کنید</string>
     <string name="search_hot_words">عمومی</string>
     <string name="search_key_not_null">درخواست‌های جستجوی نمی‌توانند خالی باشند</string>
+    <string name="search_menu_title">جستجو</string>
     <string name="selectall">انتخاب همه</string>
     <string name="selectnull">لغو انتخاب همه</string>
     <string name="send_diagnosis_log">ارسال رخدادها</string>
@@ -820,6 +1048,8 @@
     <string name="share">همرسانی</string>
     <string name="share_fail">همرسانی نشد. تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید.</string>
     <string name="share_success">با موفقیت همرسانی شد</string>
+    <string name="share_ugc_content">Take a look at %1$s! #%2$s (%3$s)</string>
+    <string name="share_ugc_join">Join</string>
     <string name="share_ugc_waitting">درحال ایجاد پیوند…</string>
     <string name="show_the_location">انواع اعلان‌ها</string>
     <string name="sign_in">درحال ورود</string>
@@ -832,6 +1062,25 @@
     <string name="sns_bind_limit">تلاش‌ها بیش از حد بودند. راه‌های دیگر را برای ورود انتخاب کنید.</string>
     <string name="sns_sign_in">راه‌های دیگر برای ورود</string>
     <string name="source">"منبع: "</string>
+    <string name="srl_component_falsify">"%s falsify area,
+ Represents the height[%.1fdp] of drag at run time,
+ It does not show anything."</string>
+    <string name="srl_content_empty">The content view in SmartRefreshLayout is empty. Do you forget to add it in xml layout file?</string>
+    <string name="srl_footer_failed">Load Failed</string>
+    <string name="srl_footer_finish">Load Success</string>
+    <string name="srl_footer_loading">Loading…</string>
+    <string name="srl_footer_nothing">No More Data</string>
+    <string name="srl_footer_pulling">Pull Up To Load More</string>
+    <string name="srl_footer_refreshing">Wait For Refreshing…</string>
+    <string name="srl_footer_release">Release To Load More</string>
+    <string name="srl_header_failed">Refresh Failed</string>
+    <string name="srl_header_finish">Refresh Success</string>
+    <string name="srl_header_loading">Wait For Loading…</string>
+    <string name="srl_header_pulling">Pull Down To Refresh</string>
+    <string name="srl_header_refreshing">Refreshing…</string>
+    <string name="srl_header_release">Release To Refresh</string>
+    <string name="srl_header_secondary">Release To Second Floor</string>
+    <string name="srl_header_update">"'Last Update' M-d HH:mm"</string>
     <string name="storage_external_sdcard">کارت SD</string>
     <string name="storage_internal_sdcard">حافظه داخلی</string>
     <string name="submit">ارسال</string>
@@ -882,6 +1131,7 @@
     <string name="ticket_sign_in">ورود با پیامک</string>
     <string name="title_publisher">سازندگان</string>
     <string name="title_subscribe">اشتراک‌ها</string>
+    <string name="toast_no_data">"This item isn't available now. Come back later."</string>
     <string name="toast_request_too_frequently">عجله نکنید!</string>
     <string name="toast_share_failed">همرسانی نشد. چند دقیقه صبر کرده و دوباره تلاش کنید.</string>
     <string name="today">امروز</string>
@@ -938,6 +1188,22 @@
     <string name="vp_replay">بازپخش</string>
     <string name="vp_upcoming_auto_play">پخش خودکار</string>
     <string name="vp_upcoming_title">برنامه بعدی</string>
+    <string name="wechat_application_id"></string>
+    <string name="wechat_scope"></string>
+    <string name="wechat_state"></string>
     <string name="wednesday">چهارشنبه</string>
+    <string name="weibo_application_id"></string>
+    <string name="weibo_redirect_uri"></string>
+    <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
+    <string name="xiaomi_update_sdk_connect_download_manager_fail">Connect Download Manager failed, please check the Download Manager state in the Application Management.</string>
+    <string name="xiaomi_update_sdk_dialog_message">"Introducing version %1$s
+Size: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_message_diff">"Introducing version %1$s
+Delta update size: %2$s"</string>
+    <string name="xiaomi_update_sdk_dialog_title">%1$s update!</string>
+    <string name="xiaomi_update_sdk_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
+    <string name="year">year</string>
     <string name="yesterday">دیروز</string>
 </resources>

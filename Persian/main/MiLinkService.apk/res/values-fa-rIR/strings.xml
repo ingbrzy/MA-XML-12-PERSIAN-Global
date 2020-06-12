@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="actionbar_button_up_description">بازگشت</string>
+    <string name="app_name">clientSDK</string>
     <string name="app_pkg_name">com.milink.service</string>
     <string name="app_ver_code">۱</string>
     <string name="app_ver_name">۱.۰</string>
@@ -66,7 +67,7 @@
     <string name="help_page_text_15">ویژگی Miracast در دستگاه‌های مختلف</string>
     <string name="help_page_text_16">تلویزیون Mi/فراتاب Mi</string>
     <string name="help_page_text_17">"شما می‌توانید بدون نیاز به روشن کردن Miracast به‌صورت دستی، موارد را از گوشی Mi خود بر روی بیشتر مدل‌های تلویزیون Mi دارای بلوتوث بیافکنید.
-در صورت نیاز به روشن کردن دکمه [MENU] را فشرده و برنامه‌های من > بازتاباندن > Miracast را انتخاب کنید."</string>
+در صورت نیاز به روشن کردن دکمه [MENU] را فشرده و برنامه‌های من &gt; بازتاباندن &gt; Miracast را انتخاب کنید."</string>
     <string name="help_page_text_17_1">پشتیبانی مشتریان Xiaomi: ۴۰۰-۱۰۰-۵۶۷۸</string>
     <string name="help_page_text_18">تلویزیون سامسونگ</string>
     <string name="help_page_text_19">ابتدا مطمئن شوید کارایی Miracast توسط دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید دکمه [SOURCE] روی کنترل از راه دور را زده و سپس \"آینه کردن تصویر (Screen Mirroring)\" را انتخاب کنید. این ویژگی به صورت پیش‌فرض در مدل‌های مختلف روشن است.</string>
@@ -78,31 +79,31 @@
     <string name="help_page_text_25">ابتدا مطمئن شوید کارایی Miracast توسط دستگاه شما پشتیبانی می‌شود. این ویژگی به صورت پیش‌فرض در مدل‌های مختلف روشن است.</string>
     <string name="help_page_text_26">پشتیبانی مشتریان Philips: ۴۰۰-۸۸۰-۰۰۰۸</string>
     <string name="help_page_text_27">TPV</string>
-    <string name="help_page_text_28">ابتدا مطمئن شوید کارایی Miracast توسط دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید دکمه [MENU] روی کنترل از راه دور را زده و سپس تنظیمات > اتصال > شبکه > صفحات چندگانه را انتخاب کنید.</string>
+    <string name="help_page_text_28">ابتدا مطمئن شوید کارایی Miracast توسط دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید دکمه [MENU] روی کنترل از راه دور را زده و سپس تنظیمات &gt; اتصال &gt; شبکه &gt; صفحات چندگانه را انتخاب کنید.</string>
     <string name="help_page_text_29">پشتیبانی مشتریان TPV: ۴۰۰-۸۸۷-۸۰۰۷</string>
     <string name="help_page_text_30">Hisense</string>
-    <string name="help_page_text_31">ابتدا مطمئن شوید کارایی Miracast توسط دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید دکمه [SMART] روی کنترل از راه دور را زده و سپس بازتاباندن > نمایشگر بی‌سیم را انتخاب کنید. برخی مدل‌ها نیز از بازتاباندن بازی‌ها پشتیبانی می‌کنند: Hi Cast > Cast games > Android.</string>
+    <string name="help_page_text_31">ابتدا مطمئن شوید کارایی Miracast توسط دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید دکمه [SMART] روی کنترل از راه دور را زده و سپس بازتاباندن &gt; نمایشگر بی‌سیم را انتخاب کنید. برخی مدل‌ها نیز از بازتاباندن بازی‌ها پشتیبانی می‌کنند: Hi Cast &gt; Cast games &gt; Android.</string>
     <string name="help_page_text_32">پشتیبانی مشتریان Hisense: ۴۰۰-۶۱۱-۱۱۱۱</string>
     <string name="help_page_text_33">Skyworth</string>
-    <string name="help_page_text_34">ابتدا مطمئن شوید کارایی Miracast در دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید برنامه‌ها > بازتاباندن > دستگاه‌های اندرویدی > Miracast را انتخاب کنید.</string>
+    <string name="help_page_text_34">ابتدا مطمئن شوید کارایی Miracast در دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید برنامه‌ها &gt; بازتاباندن &gt; دستگاه‌های اندرویدی &gt; Miracast را انتخاب کنید.</string>
     <string name="help_page_text_35">پشتیبانی مشتریان Skyworth: ۹۵۱۰۵۵۵۵</string>
     <string name="help_page_text_36">Sony</string>
-    <string name="help_page_text_37">بتدا مطمئن شوید کارایی Miracast توسط دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید دکمه [SOURCE] روی کنترل از راه دور را زده و سپس \"آینه کردن تصویر (Screen Mirroring)\" را انتخاب کنید. در برخی از مدل‌ها این ویژگی را می توانید در شبکه‌ها > Wi-Fi بی‌واسطه روشن کنید. این ویژگی به صورت پیش‌فرض در مدل‌های مختلف روشن است.</string>
+    <string name="help_page_text_37">بتدا مطمئن شوید کارایی Miracast توسط دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید دکمه [SOURCE] روی کنترل از راه دور را زده و سپس \"آینه کردن تصویر (Screen Mirroring)\" را انتخاب کنید. در برخی از مدل‌ها این ویژگی را می توانید در شبکه‌ها &gt; Wi-Fi بی‌واسطه روشن کنید. این ویژگی به صورت پیش‌فرض در مدل‌های مختلف روشن است.</string>
     <string name="help_page_text_38">پشتیبانی مشتریان Sony: ۴۰۰-۸۱۰-۹۰۰۰</string>
     <string name="help_page_text_39">Panasonic</string>
-    <string name="help_page_text_40">ابتدا مطمئن شوید کارایی Miracast در دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید برنامه‌ها برنامه‌ها > آینه کردن تصویر (Screen Mirroring) را انتخاب کنید.</string>
+    <string name="help_page_text_40">ابتدا مطمئن شوید کارایی Miracast در دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید برنامه‌ها برنامه‌ها &gt; آینه کردن تصویر (Screen Mirroring) را انتخاب کنید.</string>
     <string name="help_page_text_41">پشتیبانی مشتریان Panasonic: ۴۰۰-۸۸۱-۱۳۱۵</string>
     <string name="help_page_text_42">Changhong</string>
     <string name="help_page_text_43">تنظیمات تلویزیون خود را بررسی کرده تا مطمئن شوید نمایشگر خارجی شما از کارایی Miracast پشتیبانی می‌کند.</string>
     <string name="help_page_text_44">پشتیبانی مشتریان Changhong: ۴۰۰-۸۱۱-۱۶۶۶</string>
     <string name="help_page_text_45">TCL</string>
-    <string name="help_page_text_46">ابتدا مطمئن شوید کارایی Miracast در دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید برنامه‌ها برنامه‌ها > نمایش بی‌سیم را انتخاب کنید.</string>
+    <string name="help_page_text_46">ابتدا مطمئن شوید کارایی Miracast در دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید برنامه‌ها برنامه‌ها &gt; نمایش بی‌سیم را انتخاب کنید.</string>
     <string name="help_page_text_47">پشتیبانی مشتریان TCL: ۴۰۰-۸۱۲-۳۴۵۶</string>
     <string name="help_page_text_48">AODIN</string>
-    <string name="help_page_text_49">ابتدا مطمئن شوید کارایی Miracast در دستگاه شما پشتیبانی می‌شود. برای روشن کردن این ویژگی به برنامه‌های من > نمایش بی‌سیم بروید.</string>
+    <string name="help_page_text_49">ابتدا مطمئن شوید کارایی Miracast در دستگاه شما پشتیبانی می‌شود. برای روشن کردن این ویژگی به برنامه‌های من &gt; نمایش بی‌سیم بروید.</string>
     <string name="help_page_text_50">پشتیبانی مشتریان AODIN: ۴۰۰-۸۱۰-۵۸۵۸</string>
     <string name="help_page_text_51">LeEco</string>
-    <string name="help_page_text_52">ابتدا مطمئن شوید کارایی Miracast در دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید این ویژگی را در تنظیمات > شبکه‌ها > صفحات چندگانه > نمایش بی‌سیم رونش کنید.</string>
+    <string name="help_page_text_52">ابتدا مطمئن شوید کارایی Miracast در دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید این ویژگی را در تنظیمات &gt; شبکه‌ها &gt; صفحات چندگانه &gt; نمایش بی‌سیم رونش کنید.</string>
     <string name="help_page_text_53">پشتیبانی مشتریان LeEco: ۱۰۱۰۹۰۰۰</string>
     <string name="help_page_text_55">"اگر نمی‌توانید به شبکه متصل شوید، مطمئن شوید نمایشگر خارجی شما از ویژگی Miracast پشتیبانی کرده و روشن است. در برخی از مدل‌ها، این ویژگی نمایش بی‌سیم (Wireless Display)، آینه کردن تصویر (Screen Mirroring) و یا صفحات چندگانه (Multiple screens) نام دارد. اطلاعات زیر را خوانده تا درباره چگونگی روشن کردن Miracast بیشتر بدانید.
 ۴. در صورت رویارویی با هرگونه اشکال، با استفاده از برنامه \"خدمات و بازخوردها\" می‌توانید آن‌ها را گزارش کنید."</string>
@@ -113,20 +114,41 @@
     <string name="notification_rc_title">دستیار تلویزیون Xiaomi</string>
     <string name="notification_show_more">برای دیدن ویژگی‌های بیشتر ضربه بزنید</string>
     <string name="privacy_agree">پذیرفتن</string>
-    <string name="privacy_text_1">"&lt;Data>به بازتاباندن خوش آمدید! بازتاباندن همان افکندن موارد صفحه نمایش گوشی روی یک نمایشگر خارجی بزرگ‌تر است.
-ما بر اساس قوانین و مقررات مربوطه و سیاست حفظ حریم خصوصی از اطلاعات شخصی شما محافظت می‌کنیم. برخی ویژگی‌ها توسط یک ارائه دهنده خدمات سوم‌شخص LeEco ارائه شده‌اند. پیش از استفاده از این ویژگی &lt;a href=%2$s>اعلامیه حقوقی HappyCast&lt;/a> و &lt;a href=%1$s>سیاست حفظ حریم خصوصی HappyCast&lt;/a> را خوانده و بپذیرید.
-برای کارکرد عادی، این برنامه نیاز به اتصال به اینترنت و مجوزهای زیر برای گردآوری اطلاعات شخصی شما دارد.&lt;/Data>"</string>
-    <string name="privacy_text_2">"&lt;Data>در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این برنامه استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که این برنامه را حذف، از حساب خارج و یا مجوزها را در تنظیمات محدود کنید.
-پیش از استفاده از این ویژگی &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.&lt;/Data>"</string>
+    <string name="privacy_detail">&lt;Data&gt;&amp;#35831;&amp;#24744;&amp;#21516;&amp;#24847;&amp;#24212;&amp;#29992;&amp;#32852;&amp;#32593;&amp;#21450;&amp;#20197;&amp;#19978;&amp;#24517;&amp;#35201;&amp;#26435;&amp;#38480;&amp;#65292;&amp;#38405;&amp;#35835;&amp;#24182;&amp;#21516;&amp;#24847;&amp;#25105;&amp;#20204;&amp;#30340;&amp;lt;a href=%1$s&amp;gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&amp;lt;/a&amp;gt;&amp;#19982;&amp;lt;a href=%2$s&amp;gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&amp;lt;/a&amp;gt;&amp;#65292;&amp;#20102;&amp;#35299;&amp;#24744;&amp;#30340;&amp;#29992;&amp;#25143;&amp;#26435;&amp;#30410;&amp;#21450;&amp;#30456;&amp;#20851;&amp;#20351;&amp;#29992;&amp;#25968;&amp;#25454;&amp;#30340;&amp;#22788;&amp;#29702;&amp;#26041;&amp;#27861;&amp;#12290;&lt;/Data&gt;</string>
+    <string name="privacy_detail_extra">&lt;Data&gt;&amp;#37096;&amp;#20998;&amp;#25237;&amp;#23631;&amp;#21151;&amp;#33021;&amp;#26377;&amp;#31532;&amp;#19977;&amp;#26041;&amp;#20844;&amp;#21496;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#25552;&amp;#20379;&amp;#25903;&amp;#25345;&amp;#65292;&amp;#35831;&amp;#24744;&amp;#21516;&amp;#26102;&amp;#38405;&amp;#35835;&amp;#24182;&amp;#21516;&amp;#24847;&amp;lt;a href=%1$s&amp;gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&amp;lt;/a&amp;gt;&amp;#19982;&amp;lt;a href=%2$s&amp;gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
+    <string name="privacy_explain">欢迎使用投屏，您可使用本应用将手机画面实时同步至电视/电视盒子/投影等大屏设备。在使用本应用的过程中，我们将联网并向您申请以下权限：</string>
+    <string name="privacy_link_1">http://cdn.hpplay.com.cn/xm/lbprivacy/index.html?langType=en</string>
+    <string name="privacy_link_2">http://cdn.hpplay.com.cn/xm/lbservice/index.html?langType=en</string>
+    <string name="privacy_negative">退出</string>
+    <string name="privacy_permission_ble">开启/关闭蓝牙</string>
+    <string name="privacy_permission_ble_desc">使用蓝牙扫描附近可投屏的设备</string>
+    <string name="privacy_permission_location">获取设备的位置信息</string>
+    <string name="privacy_permission_location_desc">获取附近可投屏的设备信息</string>
+    <string name="privacy_permission_necessary">必要权限</string>
+    <string name="privacy_permission_necessary_desc">用于该应用的基本服务与功能</string>
+    <string name="privacy_permission_nfc">NFC</string>
+    <string name="privacy_permission_nfc_desc">使用NFC关联您要投屏的设备</string>
+    <string name="privacy_permission_optional">可选权限</string>
+    <string name="privacy_permission_optional_desc">用于附加功能，将在您使用相关功能时向您申请</string>
+    <string name="privacy_permission_wlan">开启/关闭WLAN</string>
+    <string name="privacy_permission_wlan_desc">使用WLAN扫描附近可投屏的设备</string>
+    <string name="privacy_positive">同意</string>
+    <string name="privacy_text_1">"&lt;Data&gt;به بازتاباندن خوش آمدید! بازتاباندن همان افکندن موارد صفحه نمایش گوشی روی یک نمایشگر خارجی بزرگ‌تر است.
+ما بر اساس قوانین و مقررات مربوطه و سیاست حفظ حریم خصوصی از اطلاعات شخصی شما محافظت می‌کنیم. برخی ویژگی‌ها توسط یک ارائه دهنده خدمات سوم‌شخص LeEco ارائه شده‌اند. پیش از استفاده از این ویژگی &lt;a href=%2$s&gt;اعلامیه حقوقی HappyCast&lt;/a&gt; و &lt;a href=%1$s&gt;سیاست حفظ حریم خصوصی HappyCast&lt;/a&gt; را خوانده و بپذیرید.
+برای کارکرد عادی، این برنامه نیاز به اتصال به اینترنت و مجوزهای زیر برای گردآوری اطلاعات شخصی شما دارد.&lt;/Data&gt;"</string>
+    <string name="privacy_text_2">"&lt;Data&gt;در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این برنامه استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که این برنامه را حذف، از حساب خارج و یا مجوزها را در تنظیمات محدود کنید.
+پیش از استفاده از این ویژگی &lt;a href=%1$s&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=%2$s&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;"</string>
     <string name="privacy_text_pemission">"　　•دسترسی و ذخیره تصاویر دستگاه شما به منظور افکندن این موارد روی نمایشگر‌های خارجی
 　　•ضبط همه تماس‌ها و صداها به منظور پخش صدا روی دستگاه‌های خارجی
 　　•دسترسی به شماره تلفن، IMEI و IMSI برای شناسایی دستگاه شما
 　　•دسترسی به موقعیت شما برای یافتن دستگاه‌های نزدیک"</string>
+    <string name="privacy_title">用户须知</string>
     <string name="private_protect">پنهان کردن موارد خصوصی</string>
     <string name="san_wait_msg_1">بازتاباندن بی‌سیم را در دستگاه هدف روشن کنید</string>
     <string name="san_wait_msg_2">جستجو برای دستگاه‌ها ممکن است کمی طول بکشد…</string>
     <string name="san_wait_msg_3">دستگاه‌های خارجی اگر به همان شبکه که گوشی شما وصل است متصل شوند آسان‌تر پیدا می‌شوند</string>
     <string name="san_wait_msg_4">در صورت نیافتن دستگاه \"راهنما\" را ببینید</string>
+    <string name="sdk_name">lebo</string>
     <string name="small_window">کوچک‌سازی پنجره</string>
     <string name="small_window_not_supported">برنامه هنگام بازتاباندن کوچک نمی‌شود</string>
     <string name="status_bar_in_casting">درحال بازتاباندن…</string>

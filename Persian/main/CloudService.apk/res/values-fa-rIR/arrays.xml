@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="korea_permission_group_tags">
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="korea_permission_groups">
+        <item>android.permission-group.PHONE</item>
+        <item>android.permission-group.SMS</item>
+        <item>android.permission-group.CONTACTS</item>
+        <item>android.permission-group.CALENDAR</item>
+        <item>android.permission-group.STORAGE</item>
+    </string-array>
     <string-array name="korea_permission_groups_descriptions">
         <item>برای شناسایی موارد همگام‌سازی شده</item>
         <item>برای همگام‌سازی پیام‌ها</item>
@@ -26,9 +40,21 @@
         <item>پشتیبان‌گیری از تنظیمات سیستم</item>
         <item>یافتن دستگاه</item>
     </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm">
+        <item>android.permission.READ_PHONE_STATE</item>
+        <item>android.permission-group.LOCATION</item>
+    </string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
         <item>برای شناسایی دستگاه شما</item>
         <item>برای مکان‌یابی دستگاه شما و تعویض به حالت گم شده</item>
+    </string-array>
+    <string-array name="privacy_dialog_sync_runtime_perm">
+        <item>android.permission-group.CALENDAR</item>
+        <item>android.permission.READ_SMS</item>
+        <item>android.permission.READ_MMS</item>
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.WRITE_CONTACTS</item>
+        <item>android.permission-group.STORAGE</item>
     </string-array>
     <string-array name="privacy_dialog_sync_runtime_perm_desc">
         <item>برای همگام‌سازی رویدادها</item>
@@ -137,6 +163,10 @@
         <item>همگام‌سازی تنظیمات Wi-Fi با فضای ابری Xiaomi</item>
         <item>روشن کردن همگام‌سازی</item>
         <item>WLAN;wifi;Wi-Fi;فضای ابری;همگام‌سازی;خدمات فضای ابری;فضای ابری Xiaomi</item>
+    </string-array>
+    <string-array name="user_detail_fixed_item_click_action">
+        <item>action_view_cloud_data</item>
+        <item>action_view_storage_detail</item>
     </string-array>
     <string-array name="user_detail_fixed_items">
         <item>دیدن موارد همگام‌سازی شده</item>

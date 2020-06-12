@@ -52,6 +52,10 @@
         <item quantity="other">%1$d روز به عقب</item>
         <item quantity="one">%1$d روز به عقب</item>
     </plurals>
+    <plurals name="folder_terms">
+        <item quantity="other">%1$s folders</item>
+        <item quantity="one">%1$s folder</item>
+    </plurals>
     <plurals name="format_move_notes_out_folder">
         <item quantity="other">%1$s یادداشت از پوشه حذف شد</item>
         <item quantity="one">%1$s یادداشت از پوشه حذف شد</item>
@@ -83,6 +87,10 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">هم اکنون</item>
         <item quantity="one">هم اکنون</item>
+    </plurals>
+    <plurals name="note_terms">
+        <item quantity="other">%1$s notes</item>
+        <item quantity="one">%1$s note</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d دقیقه پیش</item>
@@ -119,6 +127,10 @@
     <plurals name="todo_event_description_days_later">
         <item quantity="other">تا %1$d روز آینده</item>
         <item quantity="one">تا %1$d روز آینده</item>
+    </plurals>
+    <plurals name="todo_terms">
+        <item quantity="other">%1$s条便签</item>
+        <item quantity="one">%1$s条便签</item>
     </plurals>
     <plurals name="word_count">
         <item quantity="other">%d کاراکتر</item>

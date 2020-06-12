@@ -76,6 +76,7 @@
     <string name="activate_popup_title_manual">فعال‌سازی %s</string>
     <string name="activate_popup_title_new_sim_card">فعال‌سازی دوباره %s</string>
     <string name="activate_popup_title_register_account">ایحاد حساب Mi</string>
+    <string name="activate_sms_postfix">This SMS is used to activate your Mi service</string>
     <string name="activate_status_desc_acquire_phone_number">درحال تأیید شماره تلفن…</string>
     <string name="activate_status_desc_acquire_phone_number_server_error">هنگام تأیید شماره تلفن خطای سرور رخ داد</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info">شماره تلفن تأیید نشد</string>
