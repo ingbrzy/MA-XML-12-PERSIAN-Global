@@ -27,8 +27,10 @@
     <string name="abc_shareactionprovider_share_with">هم‌رسانی با</string>
     <string name="abc_shareactionprovider_share_with_application">هم‌رسانی با %s</string>
     <string name="abc_toolbar_collapse_description">کوچک کردن</string>
+    <string name="copy">کپی</string>
     <string name="exo_controls_fastforward_description">جلو بردن سریع</string>
     <string name="exo_controls_fullscreen_description">حالت تمام‌صفحه</string>
+    <string name="exo_controls_hide">پنهان کردن کنترل‌های پخش‌کننده</string>
     <string name="exo_controls_next_description">آهنگ بعدی</string>
     <string name="exo_controls_pause_description">مکث</string>
     <string name="exo_controls_play_description">پخش</string>
@@ -37,8 +39,11 @@
     <string name="exo_controls_repeat_off_description">تکرار هیچ‌کدام</string>
     <string name="exo_controls_repeat_one_description">یکبار تکرار</string>
     <string name="exo_controls_rewind_description">عقب بردن</string>
-    <string name="exo_controls_shuffle_description">درهم</string>
+    <string name="exo_controls_show">نمایش کنترل‌های پخش‌کننده</string>
+    <string name="exo_controls_shuffle_off_description">پخش درهم خاموش</string>
+    <string name="exo_controls_shuffle_on_description">پخش درهم روشن</string>
     <string name="exo_controls_stop_description">توقف</string>
+    <string name="exo_controls_vr_description">حالت واقعیت مجازی</string>
     <string name="exo_download_completed">بارگیری کامل شد</string>
     <string name="exo_download_description">بارگیری</string>
     <string name="exo_download_downloading">درحال بارگیری</string>
@@ -49,6 +54,10 @@
     <string name="exo_track_bitrate">%1$.2f مگابیت در ثانیه</string>
     <string name="exo_track_mono">مونو</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">بدیل</string>
+    <string name="exo_track_role_closed_captions">زیرنویس ناشنوایان</string>
+    <string name="exo_track_role_commentary">شرح و نقد</string>
+    <string name="exo_track_role_supplementary">تکمیلی</string>
     <string name="exo_track_selection_auto">خودکار</string>
     <string name="exo_track_selection_none">هیچ‌کدام</string>
     <string name="exo_track_selection_title_audio">صوتی</string>
@@ -60,6 +69,8 @@
     <string name="exo_track_surround_7_point_1">صدای فراگیر ۷٫۱</string>
     <string name="exo_track_unknown">نامشخص</string>
     <string name="expand_button_title">پیشرفته</string>
+    <string name="not_set">تنظیم نشده است</string>
+    <string name="preference_copied">«%1$s» در بریده‌دان کپی شد.</string>
     <string name="search_menu_title">جستجو</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>

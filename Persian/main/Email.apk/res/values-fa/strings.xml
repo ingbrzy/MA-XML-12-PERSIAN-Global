@@ -3,6 +3,33 @@
     <string name="SMTP_independent_verification_text">تایید مستقل SMTP</string>
     <string name="SMTP_password_text">رمز عبور</string>
     <string name="SMTP_username_text">نام کاربری</string>
+    <string name="abc_action_bar_home_description">پیمایش به صفحه اصلی</string>
+    <string name="abc_action_bar_up_description">رفتن به بالا</string>
+    <string name="abc_action_menu_overflow_description">گزینه‌های بیشتر</string>
+    <string name="abc_action_mode_done">تمام</string>
+    <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
+    <string name="abc_activitychooserview_choose_application">انتخاب برنامه</string>
+    <string name="abc_capital_off">خاموش</string>
+    <string name="abc_capital_on">روشن</string>
+    <string name="abc_menu_alt_shortcut_label">‎Alt+‎</string>
+    <string name="abc_menu_ctrl_shortcut_label">‎Ctrl+‎</string>
+    <string name="abc_menu_delete_shortcut_label">حذف</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">‎Function+‎</string>
+    <string name="abc_menu_meta_shortcut_label">‎Meta+‎</string>
+    <string name="abc_menu_shift_shortcut_label">‎Shift+‎</string>
+    <string name="abc_menu_space_shortcut_label">فاصله</string>
+    <string name="abc_menu_sym_shortcut_label">‎Sym+‎</string>
+    <string name="abc_prepend_shortcut_label">منو+</string>
+    <string name="abc_search_hint">جستجو…‏</string>
+    <string name="abc_searchview_description_clear">پاک کردن پُرسمان</string>
+    <string name="abc_searchview_description_query">درخواست جستجو</string>
+    <string name="abc_searchview_description_search">جستجو</string>
+    <string name="abc_searchview_description_submit">ارسال پُرسمان</string>
+    <string name="abc_searchview_description_voice">جستجوی گفتاری</string>
+    <string name="abc_shareactionprovider_share_with">هم‌رسانی با</string>
+    <string name="abc_shareactionprovider_share_with_application">هم‌رسانی با %s</string>
+    <string name="abc_toolbar_collapse_description">کوچک کردن</string>
     <string name="account_duplicate_dlg_message_fmt">"        شما در حال حاضر از این نام کاربری برای حساب \"%s \" استفاده می کنید."</string>
     <string name="account_duplicate_dlg_title">حساب تکراری</string>
     <string name="account_name_toast">حسابی با همین نام از قبل وجود دارد</string>
@@ -28,7 +55,7 @@
     <string name="account_settings_incoming_summary">نام کاربری و رمز عبور و سایر تنظیمات سرور</string>
     <string name="account_settings_login_dialog_content_fmt">"The username or password for %s is incorrect.
          Do you want to update them now?"</string>
-    <string name="account_settings_login_dialog_reason_fmt">"نتوانست وارد%1$s  شود. سرور گفت:  %2$s "</string>
+    <string name="account_settings_login_dialog_reason_fmt" formatted="false">"نتوانست وارد%s  شود. سرور گفت:  %s "</string>
     <string name="account_settings_login_dialog_title">نمی توان وارد شد</string>
     <string name="account_settings_mail_check_frequency_label">فرکانس</string>
     <string name="account_settings_mibill_resolve_label">مدیریت صورت حساب ها به طور خودکار</string>
@@ -279,6 +306,7 @@
     <string name="conversation_item_mark_unread">خوانده نشده</string>
     <string name="conversation_photo_welcome_text">برای انتخاب یک مکالمه تصویر فرستنده را لمس کنید.</string>
     <string name="copied">کپی شد</string>
+    <string name="copy">کپی</string>
     <string name="copy_email">کپی آدرس ایمیل</string>
     <string name="copy_number">کپی کردن شماره تلفن</string>
     <string name="create_action">جدید</string>
@@ -354,6 +382,7 @@
     "</string>
     <string name="exchange_name">شرکت</string>
     <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
+    <string name="expand_button_title">پیشرفته</string>
     <string name="expand_recipient_details">گسترش اطلاعات گیرنده</string>
     <string name="fail_get_email_message">Get message failed.</string>
     <string name="failed">عدم امکان بارگذاری تصویر</string>
@@ -551,6 +580,7 @@
     <string name="no_conversations">پیامی وجود ندارد</string>
     <string name="no_mails">فاقد ایمیل.</string>
     <string name="no_matched_attachment">هیچ نتیجه ای یافت نشد.</string>
+    <string name="not_set">تنظیم نشده است</string>
     <string name="not_subject">(بدون موضوع)</string>
     <string name="not_synced_title">حساب همگام سازی نشد</string>
     <string name="notification_action_archive">بایگانی</string>
@@ -642,6 +672,7 @@
     <string name="policy_screen_timeout">برای صفحه قفل باید دستگاه غیرفعال باشد</string>
     <string name="policy_text_truncation">محدود کردن اندازه متن ایمیل</string>
     <string name="pop3_name">POP3</string>
+    <string name="preference_copied">«%1$s» در بریده‌دان کپی شد.</string>
     <string name="preference_eas_tips">برای راه اندازی ایمیل سرور روی \"Activate\" ضربه بزنید.</string>
     <string name="preference_imap_tips" />
     <string name="preference_pop_tips">در POP3، پیوست ها به صورت خودکار با ایمیل دریافت می شوند. این ممکن است باعث افزایش مصرف داده تلفن همراه شود.</string>
@@ -701,7 +732,7 @@
     <string name="reply">پاسخ</string>
     <string name="reply_add_bodycontent">Add quick reply text to the message content?</string>
     <string name="reply_all">پاسخ به همه</string>
-    <string name="reply_attribution">"در %1$s ،  %2$s  نوشت:"</string>
+    <string name="reply_attribution" formatted="false">"در %s ،  %s  نوشت:"</string>
     <string name="report_phishing">گزارش فیشینگ</string>
     <string name="report_spam">گزارش اسپم</string>
     <string name="request_entity_large">فایل خیلی بزرگ است</string>
@@ -715,6 +746,7 @@
     <string name="saving">ذخیره کردن...</string>
     <string name="sdcard_cannot_use">نمی توان از کارت SD استفاده کرد</string>
     <string name="search_hint">جستجوی پست</string>
+    <string name="search_menu_title">جستجو</string>
     <string name="search_result">"نتایج "</string>
     <string name="search_tabs_name_all">همه</string>
     <string name="search_tabs_name_recipient">گیرنده</string>
@@ -771,6 +803,7 @@
     <string name="str_select_none">عدم انتخاب همه</string>
     <string name="subject_and_snippet">%1$s — %2$s</string>
     <string name="subject_hint">موضوع</string>
+    <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="sync_error">قادر به همگام سازی نبود.</string>
     <string name="sync_error_message">دستگاه شما فضای ذخیره سازی کافی برای همگام سازی ندارد.</string>
     <string name="system_account_create_failed">قادر به ایجاد حساب نمی باشد. دوباره امتحان کن.</string>
@@ -813,6 +846,8 @@
     <string name="upload_log_title">Send logs to help us improve WPS Mail</string>
     <string name="upload_log_yes">Send</string>
     <string name="uploading_logs">فقط چند ثانیه…</string>
+    <string name="v7_preference_off">خاموش</string>
+    <string name="v7_preference_on">روشن</string>
     <string name="validation_failed_prompt">"نمی تواند حساب را تایید کند, چک کنید تنظیمات سرور را برای %s "</string>
     <string name="via_domain">"از طریق %1$s "</string>
     <string name="view_more_conversations">مشاهده مکالمات بیشتر</string>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_search_earth">
+        <item>زمین</item>
+        <item>تصاویر زمینه/تصاویر زمینه فوق‌العاده/زمین</item>
+        <item>زمین;تصاویر زمینه فوق‌العاده;ویرایش زمین;تصویر زمینه</item>
+    </string-array>
+    <string-array name="settings_search_mars">
+        <item>سیاره سرخ</item>
+        <item>تصاویر زمینه/تصاویر زمینه فوق‌العاده/سیاره سرخ</item>
+        <item>مریخ;ویرایش مریخ;تصاویر زمینه فوق‌العاده;تصویر زمینه</item>
+    </string-array>
+    <string-array name="settings_search_superwp">
+        <item>تصاویر زمینه فوق‌العاده</item>
+        <item>تصاویر زمینه/تصاویر زمینه فوق‌العاده</item>
+        <item>تصاویر زمینه فوق‌العاده;تصویر زمینه;تصویر زمینه پویا;تصویر زمینه سه بعدی</item>
+    </string-array>
+</resources>

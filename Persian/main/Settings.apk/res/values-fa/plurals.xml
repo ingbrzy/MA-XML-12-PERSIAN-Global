@@ -16,25 +16,25 @@
         <item quantity="other">%1$d برنامه به دستگاهتان دسترسی کامل دارد</item>
         <item quantity="one">%1$d برنامه به دستگاهتان دسترسی کامل دارد</item>
     </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
-        <item quantity="other">تأخیر فوق‌العاده کوتاه (%1$d میلی‌ثانیه)</item>
-        <item quantity="one">تأخیر فوق‌العاده کوتاه (%1$d میلی‌ثانیه)</item>
+    <plurals name="accessibilty_autoclick_delay_unit_second">
+        <item quantity="other">%1$s ثانیه</item>
+        <item quantity="one">%1$s ثانیه</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
-        <item quantity="other">تأخیر طولانی (%1$d میلی‌ثانیه)</item>
-        <item quantity="one">تأخیر طولانی (%1$d میلی‌ثانیه)</item>
+        <item quantity="other">طولانی (%1$s ثانیه)</item>
+        <item quantity="one">طولانی (%1$s ثانیه)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_medium_delay">
+        <item quantity="other">متوسط (%1$s ثانیه)</item>
+        <item quantity="one">متوسط (%1$s ثانیه)</item>
     </plurals>
     <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
-        <item quantity="other">تأخیر کوتاه (%1$d میلی‌ثانیه)</item>
-        <item quantity="one">تأخیر کوتاه (%1$d میلی‌ثانیه)</item>
+        <item quantity="other">کوتاه (%1$s ثانیه)</item>
+        <item quantity="one">کوتاه (%1$s ثانیه)</item>
     </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
-        <item quantity="other">تأخیر بسیار طولانی (%1$d میلی‌ثانیه)</item>
-        <item quantity="one">تأخیر بسیار طولانی (%1$d میلی‌ثانیه)</item>
-    </plurals>
-    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
-        <item quantity="other">تأخیر بسیار کوتاه (%1$d میلی‌ثانیه)</item>
-        <item quantity="one">تأخیر بسیار کوتاه (%1$d میلی‌ثانیه)</item>
+    <plurals name="app_link_open_always_summary">
+        <item quantity="other">برنامه درخواست دارد %d پیوند را مدیریت کند</item>
+        <item quantity="one">برنامه درخواست دارد %d پیوند را مدیریت کند</item>
     </plurals>
     <plurals name="app_notification_listing_summary_others">
         <item quantity="other">برای %d برنامه خاموش است</item>
@@ -116,6 +116,10 @@
         <item quantity="other">%s ساعت</item>
         <item quantity="one">%s ساعت</item>
     </plurals>
+    <plurals name="interact_across_profiles_number_of_connected_apps">
+        <item quantity="other">%d برنامه متصل شد</item>
+        <item quantity="one">%d برنامه متصل شد</item>
+    </plurals>
     <plurals name="location_app_permission_summary_location_on">
         <item quantity="other">%1$d برنامه از%2$d برنامه به مکان شما دسترسی دارند</item>
         <item quantity="one">%1$d برنامه از%2$d برنامه به مکان شما دسترسی دارند</item>
@@ -135,6 +139,10 @@
     <plurals name="lockpassword_password_requires_nonletter">
         <item quantity="other">باید حداقل %d نویسه غیرحرف داشته باشد</item>
         <item quantity="one">باید حداقل %d نویسه غیرحرف داشته باشد</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonnumerical">
+        <item quantity="other">باید حداقل %d نویسه غیرعددی داشته باشد</item>
+        <item quantity="one">باید حداقل %d نویسه غیرعددی داشته باشد</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
         <item quantity="other">باید حداقل %d عدد داشته باشد</item>
@@ -188,13 +196,13 @@
         <item quantity="other">%1$d محدودیت</item>
         <item quantity="one">%1$d محدودیت</item>
     </plurals>
-    <plurals name="notification_few_channel_count_summary">
-        <item quantity="other">%1$d کانال اعلان.</item>
-        <item quantity="one">%1$d کانال اعلان.</item>
-    </plurals>
     <plurals name="notification_group_summary">
         <item quantity="other">%d دسته</item>
         <item quantity="one">%d دسته</item>
+    </plurals>
+    <plurals name="notification_history_count">
+        <item quantity="other">%d اعلان</item>
+        <item quantity="one">%d اعلان</item>
     </plurals>
     <plurals name="notification_summary">
         <item quantity="other">خاموش برای %d برنامه</item>
@@ -240,13 +248,17 @@
         <item quantity="other">%1$d سرویس چاپ روشن است</item>
         <item quantity="one">%1$d سرویس چاپ روشن است</item>
     </plurals>
+    <plurals name="priority_conversation_count">
+        <item quantity="other">%d مکالمه اولویت‌دار</item>
+        <item quantity="one">%d مکالمه اولویت‌دار</item>
+    </plurals>
     <plurals name="restricted_app_summary">
         <item quantity="other">‏محدود کردن مصرف باتری برای %1$d برنامه</item>
         <item quantity="one">‏محدود کردن مصرف باتری برای %1$d برنامه</item>
     </plurals>
     <plurals name="runtime_permissions_additional_count">
-        <item quantity="other">%d مجوز اضافی</item>
-        <item quantity="one">%d مجوز اضافی</item>
+        <item quantity="other">%d اجازه‌های تکمیلی</item>
+        <item quantity="one">%d اجازه تکمیلی</item>
     </plurals>
     <plurals name="runtime_permissions_summary">
         <item quantity="other">‏%1$d از %2$d اجازه اعطا شد</item>
@@ -260,13 +272,13 @@
         <item quantity="other">%1$d تنظیم اثر انگشت</item>
         <item quantity="one">%1$d تنظیم اثر انگشت</item>
     </plurals>
+    <plurals name="see_all_apps_title">
+        <item quantity="other">‏مشاهده کل %1$d برنامه</item>
+        <item quantity="one">‏مشاهده کل %1$d برنامه</item>
+    </plurals>
     <plurals name="settings_suggestion_header_summary_hidden_items">
         <item quantity="other">‏نمایش %d مورد پنهان</item>
         <item quantity="one">‏نمایش %d مورد پنهان</item>
-    </plurals>
-    <plurals name="show_bluetooth_devices">
-        <item quantity="other">%1$d دستگاه متصل</item>
-        <item quantity="one">%1$d دستگاه متصل</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">اکنون %1$d قدم با برنامه‌نویس شدن فاصله دارید.</item>
@@ -337,16 +349,28 @@
         <item quantity="one">کد پین سیم‌کارت اشتباه است، %d بار دیگر می‌توانید تلاش کنید.</item>
     </plurals>
     <plurals name="zen_mode_bypassing_apps_subtext">
-        <item quantity="other">اعلان‌های %1$d برنامه می‌تواند «مزاحم نشوید» را نادیده بگیرد</item>
-        <item quantity="one">اعلان‌های %1$d برنامه می‌تواند «مزاحم نشوید» را نادیده بگیرد</item>
+        <item quantity="other">%s می‌تواند وقفه ایجاد کند</item>
+        <item quantity="one">%s می‌تواند وقفه ایجاد کند</item>
+    </plurals>
+    <plurals name="zen_mode_contacts_count">
+        <item quantity="other">%d مخاطب</item>
+        <item quantity="one">%d مخاطب</item>
+    </plurals>
+    <plurals name="zen_mode_conversations_count">
+        <item quantity="other">%d مکالمه</item>
+        <item quantity="one">%d مکالمه</item>
     </plurals>
     <plurals name="zen_mode_duration_summary_time_hours">
         <item quantity="other">%d ساعت</item>
         <item quantity="one">%d ساعت</item>
     </plurals>
+    <plurals name="zen_mode_other_sounds_summary">
+        <item quantity="other">%s می‌تواند وقفه ایجاد کند</item>
+        <item quantity="one">%s می‌تواند وقفه ایجاد کند</item>
+    </plurals>
     <plurals name="zen_mode_settings_summary_on">
-        <item quantity="other">%d مورد فعال شد</item>
-        <item quantity="one">%d مورد فعال شد</item>
+        <item quantity="other">%d زمان‌بندی تنظیم شد</item>
+        <item quantity="one">%d زمان‌بندی تنظیم شد</item>
     </plurals>
     <plurals name="zen_mode_sound_summary_summary_off_info">
         <item quantity="other">%d زمان‌بندی می‌تواند به‌طور خودکار روشن شود</item>

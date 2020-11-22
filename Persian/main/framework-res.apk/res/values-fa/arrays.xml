@@ -2,7 +2,7 @@
 <resources>
     <string-array name="emailAddressTypes">
         <item>خانه</item>
-        <item>محل کار</item>
+        <item>کاری</item>
         <item>سایر موارد</item>
         <item>سفارشی</item>
     </string-array>
@@ -24,7 +24,7 @@
     <string-array name="phoneTypes">
         <item>خانه</item>
         <item>تلفن همراه</item>
-        <item>محل کار</item>
+        <item>کاری</item>
         <item>نمابر محل کار</item>
         <item>نمابر خانه</item>
         <item>پی‌جو</item>
@@ -43,7 +43,7 @@
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
         <item>خانه</item>
-        <item>محل کار</item>
+        <item>کاری</item>
         <item>سایر موارد</item>
         <item>سفارشی</item>
     </string-array>

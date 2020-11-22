@@ -30,12 +30,12 @@
     <string name="permlab_downloadWithoutNotification">بارگیری فایل‌ها بدون اطلاع</string>
     <string name="permlab_seeAllExternal">‏مشاهدهٔ همه بارگیری‌ها در حافظهٔ USB</string>
     <string name="root_downloads">بارگیری‌ها</string>
-    <string name="wifi_recommended_body" formatted="false">"‏شروع بارگیری %s  سبب کم شدن طول عمر باتری و/یا استفاده بیش از حد از اتصال داده تلفن همراه می‌شود که بسته به قرارداد ارائه داده شما ممکن است از طرف اپراتور تلفن هزینه‌هایی برای شما در نظر گرفته شود. 
+    <string name="wifi_recommended_body">"‏شروع بارگیری %1$s  سبب کم شدن طول عمر باتری و/یا استفاده بیش از حد از اتصال داده تلفن همراه می‌شود که بسته به قرارداد ارائه داده شما ممکن است از طرف اپراتور تلفن هزینه‌هایی برای شما در نظر گرفته شود. 
 
-%s را لمس کنید تا در اتصال بعدی به شبکه Wi-Fi، این بارگیری شروع شود."</string>
+%2$s را لمس کنید تا در اتصال بعدی به شبکه Wi-Fi، این بارگیری شروع شود."</string>
     <string name="wifi_recommended_title">برای بارگیری در فرصتی دیگر در صف گذاشته شود؟</string>
-    <string name="wifi_required_body" formatted="false">"‏برای تکمیل این بارگیری %s  باید از Wi-Fi استفاده کنید. در اتصال بعدی به شبکه Wi-Fi و برای شروع بارگیری، 
+    <string name="wifi_required_body">"‏برای تکمیل این بارگیری %1$s  باید از Wi-Fi استفاده کنید. در اتصال بعدی به شبکه Wi-Fi و برای شروع بارگیری، 
 
-لمس%s  کنید."</string>
+لمس%2$s  کنید."</string>
     <string name="wifi_required_title">بارگیری برای شبکه اپراتور بسیار بزرگ است</string>
 </resources>

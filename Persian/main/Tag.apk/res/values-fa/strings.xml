@@ -8,7 +8,7 @@
     <string name="empty_tag_prompt">این نشان خالی است.</string>
     <string name="external_storage_permission_denied">این برنامه برای دسترسی به فایل‌ها، باید به مجوز «فضای ذخیره‌سازی خارجی» دسترسی پیدا کند. می‌توانید مجوز «نشان‌گذاری» را در «تنظیمات» مدیریت کنید</string>
     <string name="import_vcard">وارد کردن ^1</string>
-    <string name="mime_display_name">‏داده‌های نشان NFC</string>
+    <string name="mime_display_name">‏داده‌های نشان «ارتباط میدان نزدیک» (NFC)</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="tag_empty">نشان خالی</string>
     <string name="tag_unknown">نوع نشان ناشناس</string>

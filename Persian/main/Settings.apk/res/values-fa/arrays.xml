@@ -10,7 +10,7 @@
         <item>مقیاس پویانمایی 10 برابر</item>
     </string-array>
     <string-array name="apn_auth_entries">
-        <item>هیچ‌کدام</item>
+        <item>خالی</item>
         <item>PAP</item>
         <item>CHAP</item>
         <item>‏PAP یا CHAP</item>
@@ -78,10 +78,10 @@
         <item>مکان</item>
         <item>دریافت آمار استفاده</item>
         <item>صدادار/بی‌صدا کردن میکروفن</item>
-        <item>نمایش تست</item>
+        <item>نمایش پنجره خبری</item>
         <item>فرستادن رسانه</item>
         <item>‏فعال کردن VPN</item>
-        <item>نوشتن تصویرزمینه</item>
+        <item>نوشتن کاغذدیواری</item>
         <item>ساختار دستیار</item>
         <item>عکس‌ صفحه‌نمایش دستیار</item>
         <item>خواندن وضعیت تلفن</item>
@@ -145,10 +145,10 @@
         <item>کنترل مکان پرقدرت</item>
         <item>دریافت آمار استفاده</item>
         <item>صدادار/بی‌صدا کردن میکروفن</item>
-        <item>نمایش تست</item>
+        <item>نمایش پنجره خبری</item>
         <item>فرستادن رسانه</item>
         <item>‏فعال کردن VPN</item>
-        <item>نوشتن تصویرزمینه</item>
+        <item>نوشتن کاغذدیواری</item>
         <item>ساختار دستیار</item>
         <item>عکس‌ صفحه‌نمایش دستیار</item>
         <item>خواندن وضعیت تلفن</item>
@@ -206,6 +206,7 @@
         <item>1xRTT</item>
         <item>IS95B</item>
         <item>IS95A</item>
+        <item>NR</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>استفاده از انتخاب سیستم (پیش‌فرض)</item>
@@ -262,8 +263,6 @@
         <item>صوت Qualcomm® aptX™</item>
         <item>صوت Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>فعال کردن کدک‌های اختیاری</item>
-        <item>غیرفعال کردن کدک‌های اختیاری</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>استفاده از انتخاب سیستم (پیش‌فرض)</item>
@@ -272,8 +271,6 @@
         <item>صوت Qualcomm® aptX™</item>
         <item>صوت Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>فعال کردن کدک‌های اختیاری</item>
-        <item>غیرفعال کردن کدک‌های اختیاری</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -293,6 +290,16 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bluetooth_map_version_values">
+        <item>map12</item>
+        <item>map13</item>
+        <item>map14</item>
+    </string-array>
+    <string-array name="bluetooth_map_versions">
+        <item>‏MAP نسخه ۱.۲ (پیش‌فرض)</item>
+        <item>‏MAP نسخه ۱.۳</item>
+        <item>‏MAP نسخه ۱.۴</item>
+    </string-array>
     <string-array name="bluetooth_max_connected_audio_devices">
         <item>استفاده از پیش‌فرض سیستم: %1$d</item>
         <item>1</item>
@@ -305,7 +312,7 @@
         <item>۲ دقیقه</item>
         <item>۵ دقیقه</item>
         <item>۱ ساعت</item>
-        <item>بدون مهلت زمانی</item>
+        <item>بدون درنگ</item>
     </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>غیرفعال</item>
@@ -314,16 +321,23 @@
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
         <item>پیش‌فرض</item>
-        <item>هیچ‌کدام</item>
+        <item>خالی</item>
         <item>نمای کلی</item>
         <item>سایه‌دار</item>
         <item>برآمده</item>
         <item>فرورفته</item>
     </string-array>
+    <string-array name="captioning_font_size_selector_summaries">
+        <item>اندازه نوشتار خیلی کوچک</item>
+        <item>اندازه نوشتار کوچک</item>
+        <item>اندازه نوشتار پیش‌فرض</item>
+        <item>اندازه نوشتار بزرگ</item>
+        <item>اندازه نوشتار خیلی بزرگ</item>
+    </string-array>
     <string-array name="captioning_font_size_selector_titles">
         <item>بسیار کوچک</item>
         <item>کوچک</item>
-        <item>عادی</item>
+        <item>پیش‌فرض</item>
         <item>بزرگ</item>
         <item>بسیار بزرگ</item>
     </string-array>
@@ -334,7 +348,7 @@
         <item>٪۱۰۰</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>استفاده از پیش‌فرض‌های برنامه</item>
+        <item>تنظیم‌شده توسط برنامه</item>
         <item>سفید در سیاه</item>
         <item>سیاه در سفید</item>
         <item>زرد در سیاه</item>
@@ -401,8 +415,14 @@
         <item>۱۰ دقیقه</item>
         <item>۳۰ دقیقه</item>
     </string-array>
+    <string-array name="eap_ocsp_type">
+        <item>راستی‌آزمایی نشود</item>
+        <item>درخواست وضعیت گواهی</item>
+        <item>نیاز به وضعیت گواهی</item>
+        <item>نیاز به همه وضعیت‌های گواهی غیرقابل‌اطمینان</item>
+    </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>هیچ‌کدام</item>
+        <item>خالی</item>
         <item>Logcat</item>
         <item>‏Systrace (تصاویر گرافیکی)</item>
         <item>‏فراخوانی پشته در glGetError</item>
@@ -440,14 +460,14 @@
         <item>طولانی</item>
     </string-array>
     <string-array name="mvno_type_entries">
-        <item>هیچ‌کدام</item>
+        <item>خالی</item>
         <item>SPN</item>
         <item>IMSI</item>
         <item>GID</item>
         <item>ICCID</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>هیچ‌کدام</item>
+        <item>خالی</item>
         <item>480p</item>
         <item>‏480p (ایمن)</item>
         <item>720p</item>
@@ -484,11 +504,17 @@
         <item>LTE/TDSCDMA/GSM/WCDMA</item>
         <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
         <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
-    </string-array>
-    <string-array name="preferred_network_mode_choices_world_mode">
-        <item>جهانی</item>
-        <item>LTE / CDMA</item>
-        <item>LTE / GSM / UMTS</item>
+        <item>‏فقط NR</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
     </string-array>
     <string-array name="proc_stats_memory_states">
         <item>عادی</item>
@@ -624,7 +650,7 @@
         <item>MIDI</item>
     </string-array>
     <string-array name="vpn_proxy_settings">
-        <item>هیچ‌کدام</item>
+        <item>خالی</item>
         <item>دستی</item>
     </string-array>
     <string-array name="vpn_states">
@@ -632,7 +658,7 @@
         <item>آماده سازی...</item>
         <item>در حال اتصال...</item>
         <item>متصل شد</item>
-        <item>وقفه زمانی</item>
+        <item>درنگ</item>
         <item>ناموفق</item>
     </string-array>
     <string-array name="vpn_types_long">
@@ -642,6 +668,9 @@
         <item>‏IPSec VPN با کلیدهای از قبل به اشتراک گذاشته شده و احراز هویت Xauth</item>
         <item>‏IPSec VPN با گواهی و احراز هویت Xauth</item>
         <item>‏IPSec VPN دارای گواهی و احراز هویت دوگانه</item>
+        <item>‏IKEv2/IPSec VPN دارای گواهی و احراز هویت گذرواژه/ نام کاربری</item>
+        <item>‏IKEv2/IPSec VPN با کلیدهای ازپیش مشترک‌شده</item>
+        <item>‏IKEv2/IPSec VPN دارای گواهی</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>Wi-Fi</item>
@@ -684,31 +713,22 @@
         <item>پین از این دستگاه</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
-        <item>هیچ‌کدام</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries_with_sim_auth">
-        <item>هیچ‌کدام</item>
         <item>MSCHAPV2</item>
         <item>GTC</item>
-        <item>سیم کارت</item>
+        <item>سیم‌کارت</item>
         <item>AKA</item>
         <item>"AKA'"</item>
-    </string-array>
-    <string-array name="wifi_phase2_entries">
-        <item>هیچ‌کدام</item>
-        <item>PAP</item>
-        <item>MSCHAP</item>
-        <item>MSCHAPV2</item>
-        <item>GTC</item>
     </string-array>
     <string-array name="wifi_privacy_entries">
         <item>‏استفاده از MAC تصادفی (پیش‌فرض)</item>
         <item>‏استفاده از MAC دستگاه</item>
     </string-array>
     <string-array name="wifi_proxy_settings">
-        <item>هیچ‌کدام</item>
+        <item>خالی</item>
         <item>دستی</item>
         <item>پیکربندی خودکار پروکسی</item>
     </string-array>
@@ -739,13 +759,19 @@
         <item>در حال اتصال به %1$s…</item>
         <item>در حال راستی‌آزمایی با %1$s...</item>
         <item>‏درحال دریافت نشانی IP از %1$s…</item>
-        <item>متصل شد به %1$s</item>
+        <item>به %1$s متصل شد</item>
         <item>معلق</item>
         <item>اتصال قطع شد از %1$s...</item>
         <item>اتصال قطع شد</item>
         <item>ناموفق</item>
         <item>مسدود شده</item>
         <item>جلوگیری موقت از اتصال ضعیف</item>
+    </string-array>
+    <string-array name="wifi_ttls_phase2_entries">
+        <item>PAP</item>
+        <item>MSCHAP</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>پویانمایی خاموش</item>

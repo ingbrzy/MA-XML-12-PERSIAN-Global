@@ -5,8 +5,8 @@
         <item quantity="one">%1$s پیشنهاد تکمیل خودکار</item>
     </plurals>
     <plurals name="bugreport_countdown">
-        <item quantity="other">تا %d ثانیه دیگر عکس صفحه‌نمایش برای گزارش اشکال گرفته می‌شود.</item>
-        <item quantity="one">تا %d ثانیه دیگر عکس صفحه‌نمایش برای گزارش اشکال گرفته می‌شود.</item>
+        <item quantity="other">تا %d ثانیه دیگر نماگرفت برای گزارش اشکال گرفته می‌شود.</item>
+        <item quantity="one">تا %d ثانیه دیگر نماگرفت برای گزارش اشکال گرفته می‌شود.</item>
     </plurals>
     <plurals name="duration_days_relative">
         <item quantity="other">%d روز پیش</item>
@@ -103,14 +103,6 @@
     <plurals name="ssl_ca_cert_warning">
         <item quantity="other">مراجع صدور گواهی نصب شدند</item>
         <item quantity="one">مرجع صدور گواهی نصب شد</item>
-    </plurals>
-    <plurals name="wifi_available">
-        <item quantity="other">‏شبکه‌ Wi-Fi در دسترس</item>
-        <item quantity="one">‏شبکه Wi-Fi در دسترس</item>
-    </plurals>
-    <plurals name="wifi_available_detailed">
-        <item quantity="other">‏شبکه‌ Wi-Fi باز در دسترس</item>
-        <item quantity="one">‏شبکه Wi-Fi باز در دسترس</item>
     </plurals>
     <plurals name="zen_mode_duration_hours">
         <item quantity="other">‏%d ساعت</item>

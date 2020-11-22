@@ -95,7 +95,7 @@
     <string name="accessibility_desc_recent_apps">نمای کلی.</string>
     <string name="accessibility_desc_settings">تنظیمات</string>
     <string name="accessibility_desc_work_lock">صفحه حالت قفل نمایه کاری</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">این ویژگی آزمایشی است و ممکن است عملکرد را تحت تأثیر قرار دهد.</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">تصحیح رنگ به شما امکان می‌دهد نحوه نمایش رنگ‌ها را در دستگاهتان تنظیم کنید</string>
     <string name="accessibility_display_daltonizer_preference_title">تصحیح رنگ</string>
     <string name="accessibility_divider">تقسیم‌کننده صفحه</string>
     <string name="accessibility_ethernet_connected">اترنت متصل شد.</string>
@@ -245,12 +245,42 @@
     <string name="accessibility_wimax_two_bars">‏WiMAX دارای دو نوار است.</string>
     <string name="accessibility_work_mode">حالت کار</string>
     <string name="accessibility_zero_bars">بدون میله.</string>
+    <string name="accessor_expires_text">تاریخ انقضای کرایه %s</string>
+    <string name="accessor_info_title">داده‌های هم‌رسانی برنامه‌ها</string>
+    <string name="accessor_no_description_text">برنامه هیچ توضیحی ارائه نکرده است.</string>
     <string name="active_input_method_subtypes">روش‌های ورودی فعال</string>
     <string name="activity_launch_on_secondary_display_failed_text">برنامه از راه‌اندازی در نمایشگرهای ثانویه پشتیبانی نمی‌کند.</string>
     <string name="activity_not_found">برنامه در دستگاه شما نصب نیست</string>
+    <string name="adb_device_fingerprint_title_format">اثرانگشت دستگاه: %1$s</string>
+    <string name="adb_device_forget">فراموش شود</string>
     <string name="adb_keys_warning_message">‏دسترسی به اشکال‌زدایی USB از تمام رایانه‌هایی که قبلاً مجاز دانسته‌اید لغو شود؟</string>
+    <string name="adb_pair_method_code_summary">دستگاه‌های جدید را با استفاده از کد شش رقمی مرتبط کنید</string>
+    <string name="adb_pair_method_code_title">مرتبط کردن دستگاه با کد مرتبط‌سازی</string>
+    <string name="adb_pair_method_qrcode_summary">‏دستگاه‌های جدید را بااستفاده از اسکنر کد QR مرتبط کنید</string>
+    <string name="adb_pair_method_qrcode_title">‏مرتبط کردن دستگاه با کد QR</string>
+    <string name="adb_paired_devices_title">دستگاه‌های مرتبط‌شده</string>
+    <string name="adb_pairing_device_dialog_failed_msg">مطمئن شوید که دستگاه به همان شبکه متصل باشد.</string>
+    <string name="adb_pairing_device_dialog_failed_title">مرتبط‌سازی ناموفق</string>
+    <string name="adb_pairing_device_dialog_pairing_code_label">‏کد مرتبط‌سازی Wi‑Fi</string>
+    <string name="adb_pairing_device_dialog_title">مرتبط کردن با دستگاه</string>
+    <string name="adb_qrcode_pairing_device_failed_msg">‏مرتبط کردن دستگاه انجام نشد. یا کد QR اشتباه بوده است، یا دستگاه به همان شبکه متصل نیست.</string>
     <string name="adb_warning_message">‏اشکال‌زدایی USB فقط برای اهداف برنامه‌نویسی در نظر گرفته شده است. از آن برای رونوشت‌برداری داده بین رایانه و دستگاهتان، نصب برنامه‌ها در دستگاهتان بدون اعلان و خواندن داده‌های گزارش استفاده کنید.</string>
     <string name="adb_warning_title">‏اشکال‌زدایی USB انجام شود؟</string>
+    <string name="adb_wireless_connection_failed_message">مطمئن شوید که %1$s به شبکه درستی متصل شده باشد</string>
+    <string name="adb_wireless_connection_failed_title">اتصال ناموفق</string>
+    <string name="adb_wireless_device_connected_summary">درحال‌حاضر متصل</string>
+    <string name="adb_wireless_device_details_title">جزئیات دستگاه</string>
+    <string name="adb_wireless_error">خطا</string>
+    <string name="adb_wireless_ip_addr_preference_title">‏نشانی IP و درگاه</string>
+    <string name="adb_wireless_list_empty_off">برای مشاهده و استفاده از دستگاه‌های در دسترس، اشکال‌زدایی بی‌سیم را روشن کنید</string>
+    <string name="adb_wireless_no_network_msg">‏لطفاً به شبکه Wi-Fi متصل شوید</string>
+    <string name="adb_wireless_qrcode_pairing_description">‏دستگاه را ازطریق Wi‑Fi و با اسکن کردن کد QR مرتبط کنید</string>
+    <string name="adb_wireless_qrcode_pairing_title">‏اسکن کد QR</string>
+    <string name="adb_wireless_qrcode_summary">‏دستگاه را ازطریق Wi‑Fi و با اسکن کردن کد QR مرتبط کنید</string>
+    <string name="adb_wireless_settings">اشکال‌زدایی بی‌سیم</string>
+    <string name="adb_wireless_verifying_qrcode_text">مرتبط‌سازی دستگاه…</string>
+    <string name="adbwifi_warning_message">اشکال‌زدایی بی‌سیم فقط برای اهداف برنامه‌نویسی در نظر گرفته شده است. از آن برای کپی کردن داده بین رایانه و دستگاهتان، نصب برنامه‌ها در دستگاهتان بدون اعلان، و خواندن داده‌های گزارش استفاده کنید.</string>
+    <string name="adbwifi_warning_title">اشکال‌زدایی بی‌سیم انجام شود؟</string>
     <string name="add_tile">افزودن کاشی</string>
     <string name="adjust_button_width">تنظیم پهنای دکمه</string>
     <string name="airplane_mode">حالت هواپیما</string>
@@ -266,6 +296,8 @@
     <string name="app_label">رابط کاربر سیستم</string>
     <string name="app_name">Keyguard</string>
     <string name="app_process_limit_title">محدودیت پردازش در پس‌زمینه</string>
+    <string name="auto_connect_disable">اتصال خودکار خاموش است</string>
+    <string name="available_via_app">در دسترس ازطریق %1$s</string>
     <string name="available_via_carrier">‏در دسترس ازطریق %1$s</string>
     <string name="available_via_passpoint">‏در دسترس از طریق %1$s</string>
     <string name="battery">باتری</string>
@@ -273,7 +305,8 @@
     <string name="battery_detail_switch_summary">عملکرد و اطلاعات پس‌زمینه را کاهش می‌دهد</string>
     <string name="battery_detail_switch_title">بهینه‌سازی باتری</string>
     <string name="battery_info_status_charging">در حال شارژ شدن</string>
-    <string name="battery_info_status_charging_lower">درحال شارژ شدن</string>
+    <string name="battery_info_status_charging_fast">درحال شارژ شدن سریع</string>
+    <string name="battery_info_status_charging_slow">درحال شارژ شدن آهسته</string>
     <string name="battery_info_status_discharging">شارژ نمی‌شود</string>
     <string name="battery_info_status_full">پر</string>
     <string name="battery_info_status_not_charging">به برق وصل شده‌ است، درحال‌حاضر شارژ نمی‌شود</string>
@@ -289,6 +322,8 @@
     <string name="battery_saver_notification_text">عملکرد و اطلاعات پس‌زمینه را کاهش می‌دهد</string>
     <string name="battery_saver_notification_title">بهینه‌سازی باتری روشن است.</string>
     <string name="battery_saver_start_action">بهینه‌سازی باتری را روشن کنید</string>
+    <string name="blob_expires_text">تاریخ انقضا %s</string>
+    <string name="blob_id_text">شناسه داده‌های هم‌رسانی‌شده: %d</string>
     <string name="block">مسدود کردن همه اعلان‌ها</string>
     <string name="bluetooth_a2dp_profile_summary_connected">به رسانه صوتی متصل شد</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">استفاده برای رسانه صوتی</string>
@@ -311,9 +346,11 @@
     <string name="bluetooth_disable_absolute_volume_summary">درصورت وجود مشکل در صدا با دستگاه‌های راه دور مثل صدای بلند ناخوشایند یا عدم کنترل صدا، ویژگی میزان صدای کامل بلوتوث را غیرفعال کنید.</string>
     <string name="bluetooth_disconnected">اتصال قطع شد</string>
     <string name="bluetooth_disconnecting">در حال قطع اتصال...</string>
+    <string name="bluetooth_enable_gabeldorsche">‏فعال کردن Gabeldorsche</string>
+    <string name="bluetooth_enable_gabeldorsche_summary">‏دسته ویژگی Gabeldorsche، بلوتوث را فعال می‌کند.</string>
     <string name="bluetooth_headset_profile_summary_connected">به تلفن صوتی متصل شد</string>
     <string name="bluetooth_headset_profile_summary_use_for">استفاده برای تلفن صوتی</string>
-    <string name="bluetooth_hearing_aid_profile_summary_connected">متصل به سمعک‌ها</string>
+    <string name="bluetooth_hearing_aid_profile_summary_connected">به سمعک متصل شد</string>
     <string name="bluetooth_hearing_aid_profile_summary_use_for">استفاده برای سمعک‌ها</string>
     <string name="bluetooth_hearingaid_left_battery_level">چپ - %1$s شارژ باتری</string>
     <string name="bluetooth_hearingaid_left_pairing_message">درحال مرتبط‌سازی با سمعک چپ…</string>
@@ -351,7 +388,7 @@
     <string name="bluetooth_profile_pbap">اشتراک‌گذاری مخاطب</string>
     <string name="bluetooth_profile_pbap_summary">استفاده برای اشتراک‌گذاری مخاطب</string>
     <string name="bluetooth_profile_sap">دسترسی سیم‌کارت</string>
-    <string name="bluetooth_sap_profile_summary_connected">‏متصل به SAP</string>
+    <string name="bluetooth_sap_profile_summary_connected">‏به SAP متصل شد</string>
     <string name="bluetooth_sap_profile_summary_use_for">استفاده برای دسترسی سیم‌کارت</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample">بیت‌های بلوتوث صوتی در هر نمونه</string>
     <string name="bluetooth_select_a2dp_codec_bits_per_sample_dialog_title">"راه‌اندازی کدک صوتی بلوتوثی
@@ -369,8 +406,11 @@
     <string name="bluetooth_select_a2dp_codec_type">کدک بلوتوث صوتی</string>
     <string name="bluetooth_select_a2dp_codec_type_dialog_title">"راه‌اندازی کدک صوتی بلوتوثی
 انتخاب"</string>
+    <string name="bluetooth_select_a2dp_codec_type_help_info">«خاکستری» به این معناست که تلفن یا هدست از آن پشتیبانی نمی‌کند</string>
     <string name="bluetooth_select_avrcp_version_dialog_title">‏انتخاب نسخه AVRCP بلوتوث</string>
     <string name="bluetooth_select_avrcp_version_string">‏نسخه AVRCP بلوتوث</string>
+    <string name="bluetooth_select_map_version_dialog_title">‏انتخاب نسخه MAP بلوتوث</string>
+    <string name="bluetooth_select_map_version_string">‏نسخه MAP بلوتوث</string>
     <string name="bluetooth_show_devices_without_names">نمایش دستگاه‌های بلوتوث بدون نام</string>
     <string name="bluetooth_show_devices_without_names_summary">‏دستگاه‌های بلوتوث بدون نام (فقط نشانی‌های MAC) نشان داده خواهند شد</string>
     <string name="bluetooth_talkback_bluetooth">بلوتوث</string>
@@ -390,13 +430,17 @@
     <string name="bugreport_in_power">میان‌بر گزارش مشکل</string>
     <string name="bugreport_in_power_summary">نمایش دکمه‌ای در منوی روشن/خاموش برای گرفتن گزارش اشکال</string>
     <string name="button_convert_fbe">پاک کردن و تبدیل…</string>
+    <string name="cached_apps_freezer_device_default">پیش‌فرض دستگاه</string>
+    <string name="cached_apps_freezer_disabled">غیرفعال</string>
+    <string name="cached_apps_freezer_enabled">فعال</string>
+    <string name="cached_apps_freezer_reboot_dialog_text">برای اعمال این تغییر، دستگاهتان باید راه‌اندازی مجدد شود. اکنون راه‌اندازی مجدد کنید یا لغو کنید.</string>
     <string name="camera_hint">انگشتتان را از نماد دوربین تند بکشید</string>
     <string name="camera_label">باز کردن دوربین</string>
     <string name="cancel">لغو</string>
     <string name="car_lockscreen_disclaimer_text">‏کاملاً از شرایط رانندگی آگاه باشید و همیشه قوانین مربوطه را رعایت کنید. مسیرها ممکن است غیردقیق، ناقص، ناکامل، خطرناک، نامناسب، ممنوع یا مستلزم عبور از تقسیمات کشوری باشند. اطلاعات کسب و کار نیز ممکن است غیردقیق یا ناکامل باشند. داده‌ها بی‌درنگ نیستند و دقت مکان نمی‌تواند تضمین شود. هنگام رانندگی دستگاه همراه را در دست نگیرید یا از برنامه‌هایی که ویژه Android Auto نیستند استفاده نکنید.</string>
     <string name="car_lockscreen_disclaimer_title">با ایمنی برانید</string>
     <string name="category_personal">شخصی</string>
-    <string name="category_work">محل کار</string>
+    <string name="category_work">کاری</string>
     <string name="charge_length_format">%1$s قبل</string>
     <string name="choose_profile">انتخاب نمایه</string>
     <string name="clear_adb_keys">‏لغو مجوزهای اشکال‌زدایی USB</string>
@@ -455,6 +499,8 @@
     <string name="debug_monitoring_category">نظارت</string>
     <string name="debug_networking_category">شبکه</string>
     <string name="debug_view_attributes">فعال کردن نمایش بازبینی ویژگی</string>
+    <string name="delete_blob_confirmation_text">مطمئن هستید می‌خواهید این داده‌های هم‌رسانی‌شده را حذف کنید؟</string>
+    <string name="delete_blob_text">حذف داده‌های هم‌رسانی‌شده</string>
     <string name="demo_mode">حالت نمایشی رابط کاربری سیستم</string>
     <string name="description_direction_left">لغزاندن به چپ برای %s.</string>
     <string name="description_direction_up">لغزاندن به بالا برای %s.</string>
@@ -473,7 +519,7 @@
     <string name="disable_overlays_summary">‏همیشه از GPU در ترکیب صفحه استفاده شود</string>
     <string name="disable_vpn">‏غیرفعال کردن VPN</string>
     <string name="disabled">غیر فعال شد</string>
-    <string name="disabled_by_admin">غیرفعال‌شده توسط سرپرست</string>
+    <string name="disabled_by_admin">توسط سرپرست غیرفعال شده</string>
     <string name="disabled_by_admin_summary_text">توسط سرپرست سیستم کنترل می‌شود</string>
     <string name="disconnect_vpn">‏قطع اتصال VPN</string>
     <string name="dnd_is_off">«مزاحم نشوید» خاموش است</string>
@@ -489,6 +535,8 @@
     <string name="empty_shade_text">اعلانی موجود نیست</string>
     <string name="enable_adb">‏اشکال‌زدایی USB</string>
     <string name="enable_adb_summary">‏با اتصال USB، حالت اشکال‌زدایی فعال شود</string>
+    <string name="enable_adb_wireless">اشکال‌زدایی بی‌سیم</string>
+    <string name="enable_adb_wireless_summary">‏حالت اشکال‌زدایی کردن وقتی Wi‑Fi متصل است</string>
     <string name="enable_bluetooth_confirmation_ok">روشن کردن</string>
     <string name="enable_bluetooth_message">برای مرتبط کردن صفحه‌کلید با رایانه لوحی، ابتدا باید بلوتوث را روشن کنید.</string>
     <string name="enable_bluetooth_title">بلوتوث روشن شود؟</string>
@@ -500,7 +548,11 @@
     <string name="enable_opengl_traces_title">‏فعال کردن ردیابی‌های OpenGL</string>
     <string name="enable_terminal_summary">فعال کردن ترمینال برنامه‌ کاربردی که دسترسی به برنامه محلی را پیشنهاد می‌کند</string>
     <string name="enable_terminal_title">ترمینال محلی</string>
-    <string name="enabled_by_admin">فعال‌شده توسط سرپرست</string>
+    <string name="enable_verbose_vendor_logging">فعال کردن گزارش طولانی فروشنده</string>
+    <string name="enable_verbose_vendor_logging_summary">شامل گزارشات اشکال تکمیلی ورود به سیستم فروشنده ویژه دستگاه می‌شود که ممکن است دربرگیرنده اطلاعات خصوصی، استفاده بیشتر از باتری، و/یا استفاده بیشتر از فضای ذخیره‌سازی باشد.</string>
+    <string name="enabled_by_admin">توسط سرپرست فعال شده</string>
+    <string name="enhanced_connectivity">اتصال بهبودیافته</string>
+    <string name="enhanced_connectivity_summary">ویژگی «اتصال بهبودیافته» را فعال می‌کند.</string>
     <string name="ethernet_label">اترنت</string>
     <string name="expand_button_title">پیشرفته</string>
     <string name="expanded_header_battery_charged">شارژ کامل شد</string>
@@ -542,6 +594,7 @@
     <string name="hdcp_checking_title">‏بررسی HDCP</string>
     <string name="headset">هدست</string>
     <string name="help_feedback_label">راهنما و بازخورد</string>
+    <string name="help_label">راهنما و بازخورد</string>
     <string name="hidden_notifications_cancel">نه متشکرم</string>
     <string name="hidden_notifications_setup">راه‌اندازی</string>
     <string name="hidden_notifications_text">قبل از باز کردن قفل آنها را مشاهده کنید</string>
@@ -558,6 +611,7 @@
     <string name="ims_reg_status_not_registered">ثبت نشده است</string>
     <string name="ims_reg_status_registered">ثبت‌شده</string>
     <string name="ims_reg_title">‏وضعیت ثبت IMS</string>
+    <string name="imsi_protection_warning">این شبکه شناسه یکتایی را دریافت می‌کند که می‌توان از آن برای ردیابی مکان دستگاه استفاده کرد. <annotation id="url">بیشتر بدانید</annotation></string>
     <string name="inactive_app_active_summary">فعال. برای تغییر حالت ضربه بزنید.</string>
     <string name="inactive_app_inactive_summary">غیرفعال. برای تغییر حالت ضربه بزنید.</string>
     <string name="inactive_apps_title">برنامه‌های آماده به‌کار</string>
@@ -661,6 +715,7 @@
     <string name="keyguard_sim_puk_locked_message">‏سیم‌کارت با PUK قفل شده است.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">درحال باز کردن قفل سیم‌کارت...</string>
     <string name="keyguard_unlock">برای باز کردن قفل سریع به بالا بکشید</string>
+    <string name="keywords_adb_wireless">‏ADB (پل اشکال‌زدایی Android)، اشکال‌زدایی کردن، برنامه‌نویس</string>
     <string name="kg_enter_confirm_pin_hint">تأیید کد پین دلخواه</string>
     <string name="kg_failed_attempts_almost_at_erase_profile">%1$d تلاش ناموفق برای باز کردن قفل تلفن داشته‌اید. پس از %2$d تلاش ناموفق دیگر، نمایه کاری پاک می‌شود که با آن همه داده‌های نمایه حذف می‌شود.</string>
     <string name="kg_failed_attempts_almost_at_erase_user">%1$d تلاش ناموفق برای باز کردن قفل تلفن داشته‌اید. پس از %2$d تلاش ناموفق دیگر، این کاربر پاک می‌شود که با آن همه داده‌های کاربر حذف می‌شود.</string>
@@ -716,7 +771,7 @@
     <string name="kg_wrong_pattern">الگوی اشتباه</string>
     <string name="kg_wrong_pin">پین اشتباه</string>
     <string name="label_view">مشاهده</string>
-    <string name="launch_defaults_none">هیچ پیش‌فرضی تنظیم نشده است</string>
+    <string name="launch_defaults_none">پیش‌فرضی تنظیم نشده است</string>
     <string name="launch_defaults_some">بعضی پیش‌فرض‌ها تنظیم شده‌اند</string>
     <string name="left_icon">نماد چپ</string>
     <string name="left_keycode">کدکلید چپ</string>
@@ -740,7 +795,9 @@
     <string name="media_projection_action_text">اکنون شروع شود</string>
     <string name="media_projection_dialog_text">%s شروع به ضبط هر چیزی می‌کند که در صفحه‌نمایش شما نمایش داده می‌شود.</string>
     <string name="media_projection_remember_text">دوباره نشان داده نشود</string>
-    <string name="media_transfer_this_device_name">این دستگاه</string>
+    <string name="media_transfer_this_device_name">بلندگوی تلفن</string>
+    <string name="media_transfer_wired_device_name">دستگاه صوتی سیمی</string>
+    <string name="media_transfer_wired_usb_device_name">هدفون سیمی</string>
     <string name="menu_ime">تغییردهنده صفحه‌کلید</string>
     <string name="mobile_data">داده تلفن همراه</string>
     <string name="mobile_data_always_on">داده تلفن همراه همیشه فعال باشد</string>
@@ -808,7 +865,7 @@
     <string name="mr_cast_button_connected">دکمه فرستادن. متصل</string>
     <string name="mr_cast_button_connecting">دکمه فرستادن. درحال اتصال</string>
     <string name="mr_cast_button_disconnected">دکمه فرستادن. اتصال قطع شد</string>
-    <string name="mr_cast_dialog_title_view_placeholder">اطلاعاتی دردسترس نیست</string>
+    <string name="mr_cast_dialog_title_view_placeholder">اطلاعاتی در دسترس نیست</string>
     <string name="mr_chooser_searching">درحال پیدا کردن دستگاه‌ها</string>
     <string name="mr_chooser_title">ارسال محتوا به</string>
     <string name="mr_controller_album_art">عکس روی جلد آلبوم</string>
@@ -817,7 +874,7 @@
     <string name="mr_controller_collapse_group">کوچک کردن</string>
     <string name="mr_controller_disconnect">قطع اتصال</string>
     <string name="mr_controller_expand_group">بزرگ کردن</string>
-    <string name="mr_controller_no_info_available">اطلاعاتی دردسترس نیست</string>
+    <string name="mr_controller_no_info_available">اطلاعاتی در دسترس نیست</string>
     <string name="mr_controller_no_media_selected">رسانه‌ای انتخاب نشده است</string>
     <string name="mr_controller_pause">مکث</string>
     <string name="mr_controller_play">پخش</string>
@@ -919,25 +976,28 @@
 
 "<b>سطح ۰</b>" 
 - همه اعلان‌های این برنامه مسدود است"</string>
-    <string name="power_remaining_charging_duration_only">%1$s تا شارژ شدن کامل باقی مانده است</string>
+    <string name="power_remaining_charging_duration_only">%1$s مانده تا شارژ کامل</string>
     <string name="power_remaining_duration_only">تقریباً %1$s شارژ باقی مانده است</string>
     <string name="power_remaining_duration_only_enhanced">براساس مصرفتان، تقریباً %1$s شارژ باقی مانده است</string>
     <string name="power_remaining_duration_only_shutdown_imminent">ممکن است تلفن به‌زودی خاموش شود</string>
     <string name="power_remaining_duration_shutdown_imminent">ممکن است تلفن به‌زودی خاموش شود (%1$s)</string>
     <string name="power_remaining_less_than_duration">کمتر از %1$s شارژ باقی مانده است (%2$s)</string>
-    <string name="power_remaining_less_than_duration_only">کمتر از %1$s باقی مانده</string>
+    <string name="power_remaining_less_than_duration_only">کمتر از %1$s شارژ باقی مانده است</string>
     <string name="power_remaining_more_than_subtext">بیش از %1$s شارژ باقی مانده است (%2$s)</string>
-    <string name="power_remaining_only_more_than_subtext">بیش از %1$s باقی مانده است</string>
+    <string name="power_remaining_only_more_than_subtext">بیش از %1$s شارژ باقی مانده است</string>
     <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
-    <string name="power_suggestion_extend_battery">افزایش عمر باتری پس از %1$s</string>
+    <string name="power_suggestion_battery_run_out">ممکن است باتری %1$s تمام شود</string>
     <string name="preference_copied">«%1$s» در کلیپ‌بورد کپی شد.</string>
     <string name="preference_summary_default_combination">%1$s / %2$s</string>
+    <string name="private_dns_broken">‏سرور DNS خصوصی قابل دسترسی نیست</string>
     <string name="private_dns_mode_off">خاموش</string>
     <string name="private_dns_mode_opportunistic">خودکار</string>
     <string name="private_dns_mode_provider">‏نام میزبان ارائه‌دهنده DNS خصوصی</string>
     <string name="private_dns_mode_provider_failure">متصل نشد</string>
     <string name="private_dns_mode_provider_hostname_hint">‏نام میزبان ارائه‌دهنده DNS خصوصی را وارد کنید</string>
     <string name="process_kernel_label">‏سیستم عامل Android</string>
+    <string name="profile_connect_timeout_subtext">مشکل در اتصال. دستگاه را خاموش و دوباره روشن کنید</string>
+    <string name="profile_info_settings_title">اطلاعات نمایه</string>
     <string name="profile_owned_footer">شاید نمایه کنترل شود</string>
     <string name="qs_dnd_keep">حفظ شود</string>
     <string name="qs_dnd_prompt_app">برنامه‌ای (%s) «مزاحم نشوید» را روشن کرد.</string>
@@ -1077,7 +1137,7 @@
     <string name="screenshot_saving_text">عکس صفحه‌نمایش ذخیره شد.</string>
     <string name="screenshot_saving_ticker">در حال ذخیره عکس صفحه‌نمایش...</string>
     <string name="screenshot_saving_title">در حال ذخیره عکس صفحه‌نمایش...</string>
-    <string name="search_menu">جستجوی تنظیمات</string>
+    <string name="search_menu">تنظیمات جستجو</string>
     <string name="search_menu_title">جستجو</string>
     <string name="select_application">انتخاب برنامه</string>
     <string name="select_logd_size_dialog_title">انتخاب اندازه‌ ثبت‌کننده در حافظه موقت ثبت</string>
@@ -1091,6 +1151,12 @@
     <string name="select_webview_provider_dialog_title">تنظیم اجرای وب‌نما</string>
     <string name="select_webview_provider_title">اجرای وب‌نما</string>
     <string name="select_webview_provider_toast_text">این انتخاب دیگر معتبر نیست. دوباره امتحان کنید.</string>
+    <string name="shared_data_delete_failure_text">هنگام حذف داده‌های هم‌رسانی‌شده خطایی رخ داد.</string>
+    <string name="shared_data_no_accessors_dialog_text">هیچ اجاره‌ای برای این داده‌های هم‌رسانی‌شده درخواست نشده است. می‌خواهید آن را حذف کنید؟</string>
+    <string name="shared_data_no_blobs_text">هیچ داده هم‌رسانی‌شده‌ای برای این کاربر وجود ندارد.</string>
+    <string name="shared_data_query_failure_text">هنگام واکشی داده‌های هم‌رسانی‌شده خطایی رخ داد. دوباره امتحان کنید.</string>
+    <string name="shared_data_summary">مشاهده و تغییر داده‌های هم‌رسانی‌شده</string>
+    <string name="shared_data_title">داده‌های هم‌رسانی‌شده</string>
     <string name="show_all_anrs">نمایش موارد «برنامه پاسخ نمی‌دهد» پس‌زمینه</string>
     <string name="show_all_anrs_summary">نمایش گفتگوی \"برنامه پاسخ نمی‌دهد\" برای برنامه‌های پس‌زمینه</string>
     <string name="show_battery_percentage">نمایش درصد شارژ باتری جاسازی شده</string>
@@ -1154,6 +1220,7 @@
     <string name="status_bar_use_physical_keyboard">صفحه‌کلید فیزیکی</string>
     <string name="status_bar_work">نمایه کاری</string>
     <string name="status_unavailable">در دسترس نیست</string>
+    <string name="storage_category">فضای ذخیره‌سازی</string>
     <string name="stream_accessibility">دسترس‌پذیری</string>
     <string name="stream_alarm">زنگ ساعت</string>
     <string name="stream_bluetooth_sco">بلوتوث</string>
@@ -1166,16 +1233,18 @@
     <string name="strict_mode">حالت شدید فعال شد</string>
     <string name="strict_mode_summary">چشمک زدن صفحه هنگام انجام عملیات طولانی توسط برنامه‌ها در رشته اصلی</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
+    <string name="summary_separator">" / "</string>
     <string name="switch_bar_off">خاموش</string>
     <string name="switch_bar_on">روشن</string>
     <string name="system_ui_tuner">تنظیم‌کننده واسط کاربری سیستم</string>
+    <string name="tap_to_renew_subscription_and_connect">برای تمدید اشتراک و متصل شدن، ضربه بزنید</string>
     <string name="tap_to_sign_up">برای ثبت‌نام ضربه بزنید</string>
     <string name="tether_settings_title_all">اشتراک‌گذاری اینترنت و نقطه اتصال قابل‌حمل</string>
     <string name="tether_settings_title_bluetooth">اشتراک‌گذاری اینترنت با بلوتوث</string>
     <string name="tether_settings_title_usb">‏اشتراک‌گذاری اینترنت با USB</string>
     <string name="tether_settings_title_usb_bluetooth">اشتراک‌گذاری اینترنت</string>
     <string name="tether_settings_title_wifi">نقطه اتصال قابل حمل</string>
-    <string name="tethering_hardware_offload">شتاب سخت‌افزاری اتصال به اینترنت با تلفن همراه</string>
+    <string name="tethering_hardware_offload">شتاب سخت‌افزاری اشتراک‌گذاری اینترنت</string>
     <string name="tethering_hardware_offload_summary">استفاده از شتاب سخت‌افزاری اشتراک‌گذاری اینترنت درصورت دردسترس بودن</string>
     <string name="tethering_settings_not_available">تنظیمات اشتراک‌گذاری اینترنت برای این کاربر در دسترس نیست</string>
     <string name="thermal_shutdown_dialog_message">"تلفنتان خیلی گرم شده بود، بنابراین خاموش شد تا خنک شود. اکنون تلفنتان عملکرد معمولش را دارد.
@@ -1257,19 +1326,39 @@
     <string name="use_mtp_button_title">‏نصب به‌عنوان دستگاه پخش رسانه (MTP)</string>
     <string name="use_ptp_button_title">‏تصب به‌عنوان دوربین (PTP)</string>
     <string name="use_system_language_to_select_input_method_subtypes">استفاده از زبان‌های سیستم</string>
+    <string name="user_add_profile_item_summary">می‌توانید از حساب خود دسترسی به برنامه‌ها و محتوا را محدود کنید</string>
+    <string name="user_add_profile_item_title">نمایه محدود شده</string>
     <string name="user_add_user">افزودن کاربر</string>
+    <string name="user_add_user_item_summary">کاربران دارای برنامه‌ها و محتوای متعلق به خود هستند</string>
+    <string name="user_add_user_item_title">کاربر</string>
+    <string name="user_add_user_message_long">"‏با ایجاد کاربران بیشتر، می‌توانید این دستگاه را با دیگران به‌اشتراک بگذارید. هر کاربر فضای مخصوص به خودش را دارد که می‌تواند آن را با برنامه‌ها، کاغذدیواری و موارد دیگر سفارشی کند. همچنین کاربران می‌توانند تنظیماتی در دستگاه ایجاد کنند، مانند تنظیمات Wi-Fi، که بر تنظیمات بقیه اثر دارد.
+
+وقتی کاربر جدیدی اضافه می‌کنید، آن شخص باید فضای خودش را تنظیم کند.
+
+هر کاربر می‌تواند برنامه‌ها را برای سایر کاربران به‌روزرسانی کند. دسترس‌پذیری، تنظیمات، و سرویس‌ها قابل‌انتقال به کاربر جدید نیستند."</string>
     <string name="user_add_user_message_short">"وقتی کاربر جدیدی اضافه می‌کنید آن فرد باید فضای خودش را تنظیم کند.
 
 هر کاربری می‌تواند برنامه‌ها را برای همه کاربران دیگر به‌روزرسانی کند."</string>
     <string name="user_add_user_title">کاربر جدیدی اضافه می‌کنید؟</string>
+    <string name="user_add_user_type_title">افزودن</string>
     <string name="user_guest">مهمان</string>
+    <string name="user_info_settings_title">اطلاعات کاربر</string>
     <string name="user_logout_notification_action">خروج کاربر از سیستم</string>
     <string name="user_logout_notification_text">خروج کاربر فعلی از سیستم</string>
     <string name="user_logout_notification_title">خروج کاربر از سیستم</string>
+    <string name="user_need_lock_message">قبل از ایجاد یک نمایه محدود، باید یک قفل صفحه را برای محافظت از برنامه‌ها و داده‌های شخصی خود تنظیم کنید.</string>
+    <string name="user_new_profile_name">نمایه جدید</string>
     <string name="user_new_user_name">کاربر جدید</string>
     <string name="user_remove_user_message">همه برنامه‌ها و داده‌های این کاربر حذف می‌شود.</string>
     <string name="user_remove_user_remove">حذف</string>
     <string name="user_remove_user_title">کاربر حذف شود؟</string>
+    <string name="user_set_lock_button">تنظیم قفل</string>
+    <string name="user_setup_button_setup_later">اکنون نه</string>
+    <string name="user_setup_button_setup_now">اکنون تنظیم شود</string>
+    <string name="user_setup_dialog_message">مطمئن شوید شخص در دسترس است تا دستگاه را بگیرد و فضایش را تنظیم کند</string>
+    <string name="user_setup_dialog_title">هم اکنون کاربر تنظیم شود؟</string>
+    <string name="user_setup_profile_dialog_message">اکنون نمایه را تنظیم می‌کنید؟</string>
+    <string name="user_switch_to_user">رفتن به %s</string>
     <string name="v7_preference_off">خاموش</string>
     <string name="v7_preference_on">روشن</string>
     <string name="verify_apps_over_usb_summary">‏برنامه‌های نصب‌شده ازطریق ADB/ADT را ازنظر رفتار مخاطره‌آمیز بررسی کنید.</string>
@@ -1295,7 +1384,7 @@
     <string name="wifi_cant_connect">برقراری اتصال ممکن نیست</string>
     <string name="wifi_cant_connect_to_ap">برقراری اتصال به «%1$s» ممکن نیست</string>
     <string name="wifi_check_password_try_again">گذرواژه را بررسی و دوباره امتحان کنید</string>
-    <string name="wifi_connected_no_internet">متصل، بدون اینترنت</string>
+    <string name="wifi_connected_no_internet">عدم اتصال به اینترنت</string>
     <string name="wifi_disabled_by_recommendation_provider">اتصال ناموفق به دلیل شبکه با کیفیت پایین</string>
     <string name="wifi_disabled_generic">غیرفعال شد</string>
     <string name="wifi_disabled_network_failure">‏پیکربندی IP انجام نشد</string>
@@ -1304,6 +1393,8 @@
     <string name="wifi_disconnected">اتصال قطع شد</string>
     <string name="wifi_display_certification">گواهینامه نمایش بی‌سیم</string>
     <string name="wifi_display_certification_summary">نمایش گزینه‌ها برای گواهینامه نمایش بی‌سیم</string>
+    <string name="wifi_enhanced_mac_randomization">‏تصادفی‌سازی MAC بهبودیافته برای Wi-Fi</string>
+    <string name="wifi_enhanced_mac_randomization_summary">‏اگر این حالت فعال باشد، هر بار این دستگاه به شبکه‌ای متصل شود که تصادفی‌سازی MAC در آن فعال است، ممکن است نشانی MAC آن تغییر کند.</string>
     <string name="wifi_fail_to_scan">اسکن شبکه‌ها امکان‌پذیر نیست</string>
     <string name="wifi_is_off">‏Wi-Fi خاموش است</string>
     <string name="wifi_limited_connection">اتصال محدود</string>
@@ -1311,11 +1402,12 @@
     <string name="wifi_no_internet">بدون دسترسی به اینترنت</string>
     <string name="wifi_no_internet_no_reconnect">اتصال به‌صورت خودکار انجام نمی‌شود</string>
     <string name="wifi_not_in_range">در محدوده نیست</string>
+    <string name="wifi_passpoint_expired">منقضی‌شده</string>
     <string name="wifi_remembered">ذخیره‌شده</string>
     <string name="wifi_scan_throttling">‏محدود کردن اسکن کردن Wi‑Fi</string>
     <string name="wifi_scan_throttling_summary">تخلیه باتری راکاهش می‌دهد و عملکرد شبکه را بهبود می‌بخشد</string>
-    <string name="wifi_security_none">هیچ‌کدام</string>
-    <string name="wifi_status_mac_randomized">‏ویژگی تصادفی‌سازی MAC فعال است</string>
+    <string name="wifi_security_none">خالی</string>
+    <string name="wifi_status_mac_randomized">‏ویژگی MAC تصادفی است</string>
     <string name="wifi_status_no_internet">عدم دسترسی به اینترنت</string>
     <string name="wifi_status_sign_in_required">ورود به سیستم لازم است</string>
     <string name="wifi_unmetered_label">محدودنشده</string>

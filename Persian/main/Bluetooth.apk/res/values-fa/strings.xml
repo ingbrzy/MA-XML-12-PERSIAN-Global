@@ -135,7 +135,6 @@
     <string name="upload_fail_cancel">بستن</string>
     <string name="upload_fail_line1">فایل به \"%1$s\" ارسال نشد.</string>
     <string name="upload_fail_line1_2">فایل: %1$s</string>
-    <string name="upload_fail_ok">دوباره امتحان کنید</string>
     <string name="upload_line1">به: \"%1$s\"</string>
     <string name="upload_line3">نوع فایل: %1$s (%2$s)</string>
     <string name="upload_line5">در حال ارسال فایل...</string>
