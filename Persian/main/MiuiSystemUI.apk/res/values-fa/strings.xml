@@ -695,7 +695,6 @@
     <string name="keyguard_missing_sim_instructions_long">سیم‌کارت موجود نیست یا قابل خواندن نیست. یک سیم‌کارت وارد کنید.</string>
     <string name="keyguard_missing_sim_message">سیم‌کارت درون تلفن نیست.</string>
     <string name="keyguard_missing_sim_message_short">سیم‌کارت موجود نیست</string>
-    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">شبکه قفل شد</string>
     <string name="keyguard_password_enter_password_code">برای بازکردن قفل، گذرواژه را وارد کنید</string>
     <string name="keyguard_password_enter_pin_code">کد پین را وارد کنید</string>
@@ -815,14 +814,12 @@
 
 برای اطلاعات بیشتر، با سرپرست سیستم تماس بگیرید."</string>
     <string name="monitoring_description_ca_cert_settings">باز کردن اعتبارنامه مورداعتماد</string>
-    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">مرجع گواهینامه‌ای در این دستگاه نصب شده است. ممکن است ترافیک امن شبکه شما پایش یا تغییر داده شود.</string>
     <string name="monitoring_description_do_body">سرپرست سیستم شما می‌تواند تنظیمات، دسترسی شرکتی، برنامه‌ها، داده‌های مرتبط با دستگاه و اطلاعات مکان دستگاه شما را مدیریت کند و بر آن‌ها نظارت داشته باشد.</string>
     <string name="monitoring_description_do_body_vpn">به %1$s وصل شده‌اید، که می‌تواند فعالیت شبکه شما را (ازجمله رایانامه‌‌ها، برنامه‌‌ها و وب‌سایت‌ها) کنترل کند.</string>
     <string name="monitoring_description_do_header_generic">%1$s دستگاه شما را مدیریت می‌کند.</string>
     <string name="monitoring_description_do_header_with_name">%1$s با استفاده از %2$s دستگاهتان را مدیریت می‌کند.</string>
     <string name="monitoring_description_do_learn_more">بیشتر بدانید</string>
-    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">سازمان شما مرجع گواهینامه‌ای در نمایه کاری شما نصب کرده است. ممکن است ترافیک امن شبکه شما پایش یا تغییر داده شود.</string>
     <string name="monitoring_description_managed_profile_named_vpn">نمایه کاری شما به %1$s متصل است، که می‌تواند فعالیت شما در شبکه (ازجمله رایانامه‌ها، برنامه‌ها و وب‌سایت‌ها) را پایش کند.</string>
     <string name="monitoring_description_management">"دستگاه شما تحت مدیریت سازمان شما است.
@@ -854,7 +851,6 @@
 
 همچنین به VPN متصل هستید که می‌تواند بر فعالیت شبکه شما نظارت داشته باشد."</string>
     <string name="monitoring_description_vpn_settings">‏باز کردن تنظیمات VPN</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">گواهینامه‌های مرکز صدور گواهی</string>
     <string name="monitoring_subtitle_network_logging">گزارش‌گیری از شبکه</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -995,7 +991,6 @@
     <string name="private_dns_mode_provider">‏نام میزبان ارائه‌دهنده DNS خصوصی</string>
     <string name="private_dns_mode_provider_failure">متصل نشد</string>
     <string name="private_dns_mode_provider_hostname_hint">‏نام میزبان ارائه‌دهنده DNS خصوصی را وارد کنید</string>
-    <string name="process_kernel_label">‏سیستم عامل Android</string>
     <string name="profile_connect_timeout_subtext">مشکل در اتصال. دستگاه را خاموش و دوباره روشن کنید</string>
     <string name="profile_info_settings_title">اطلاعات نمایه</string>
     <string name="profile_owned_footer">شاید نمایه کنترل شود</string>

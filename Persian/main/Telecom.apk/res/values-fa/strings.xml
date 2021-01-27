@@ -477,7 +477,6 @@
     <string name="private_dns_mode_provider">‏نام میزبان ارائه‌دهنده DNS خصوصی</string>
     <string name="private_dns_mode_provider_failure">متصل نشد</string>
     <string name="private_dns_mode_provider_hostname_hint">‏نام میزبان ارائه‌دهنده DNS خصوصی را وارد کنید</string>
-    <string name="process_kernel_label">‏سیستم عامل Android</string>
     <string name="profile_connect_timeout_subtext">مشکل در اتصال. دستگاه را خاموش و دوباره روشن کنید</string>
     <string name="profile_info_settings_title">اطلاعات نمایه</string>
     <string name="remaining_length_format">%1$s باقی مانده است</string>
