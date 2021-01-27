@@ -8,11 +8,6 @@
         <item>Next month</item>
         <item>Pick date</item>
     </string-array>
-    <string-array name="compose_modes">
-        <item>پاسخ</item>
-        <item>پاسخ به همه</item>
-        <item>انتقال</item>
-    </string-array>
     <string-array name="general_preference_text_zoom_summary_array">
         <item>خیلی کوچک</item>
         <item>کوچک</item>

@@ -45,9 +45,6 @@
     <plurals name="empty_folder_dialog_message">
         <item quantity="other">%1$dپیام برای همیشه پاک شود</item>
     </plurals>
-    <plurals name="move_conversation">
-        <item quantity="other">حرکت %1$d مکالمات</item>
-    </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">نمایش%1$dپیام جدید</item>
     </plurals>

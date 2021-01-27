@@ -72,6 +72,18 @@
         <item quantity="other">%d ویدئو</item>
         <item quantity="one">%d ویدئو</item>
     </plurals>
+    <plurals name="s_double_tap_backward">
+        <item quantity="other">برای بازگشت %d دفیفه دوبار ضربه بزنید</item>
+        <item quantity="one">برای بازگشت %d دقیقه دوبار ضربه بزنید</item>
+    </plurals>
+    <plurals name="s_double_tap_forward">
+        <item quantity="other">برای سریع رفتن به جلو %d دقیقه دوبار ضربه بزنید</item>
+        <item quantity="one">برای سریع رفتن به جلو %d دقیقه دوبار ضربه بزنید</item>
+    </plurals>
+    <plurals name="s_forward_tip">
+        <item quantity="other">%1$s ثانیه</item>
+        <item quantity="one">%1$s ثانیه</item>
+    </plurals>
     <plurals name="subscriber">
         <item quantity="other">%s مشترک</item>
         <item quantity="one">%s مشترک</item>

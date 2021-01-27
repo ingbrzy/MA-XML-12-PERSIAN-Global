@@ -58,6 +58,9 @@
     <string name="friday">جمعه</string>
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
+    <string name="geometry_summary">اشکال، نور و رنگ‌ها</string>
+    <string name="geometry_super_wallpaper_label">هندسه</string>
+    <string name="geometry_title">هندسه</string>
     <string name="install_failed">نصب نشد</string>
     <string name="mars_position_content_0">"This region contains cliffs, mesas, and wide flat valleys, which are believed to have been caused by debris-covered glaciers. Clay minerals have also been detected here, which are of great interest in the search for evidence of life on ancient Mars.
 
@@ -77,9 +80,25 @@ Mawrth Vallis"</string>
     <string name="mars_super_wallpaper_label">mars</string>
     <string name="mars_title">سیاره سرخ</string>
     <string name="midnight">شب</string>
-    <string name="miuix_appcompat_cloud_state_disabled">همگام‌سازی با فضای ابری خاموش است</string>
-    <string name="miuix_appcompat_cloud_state_finished">با موفقیت با فضای ابری همگام‌سازی شد</string>
-    <string name="miuix_appcompat_cloud_state_syncing">درحال همگام‌سازی با فضای ابری…</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
+    <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
+    <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">بیشتر</string>
+    <string name="miuix_appcompat_cancel_description">لغو</string>
+    <string name="miuix_appcompat_confirm_description">تأیید</string>
+    <string name="miuix_appcompat_delete_description">حذف</string>
+    <string name="miuix_appcompat_deselect_all_description">لغو انتخاب همه</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">لغو</string>
+    <string name="miuix_appcompat_search_input_description">جستجو</string>
+    <string name="miuix_appcompat_select_all_description">انتخاب همه</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">برای تازه‌سازی پایین بکشید</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">با موفقیت تازه‌سازی شد</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">در حال تازه سازی…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">برای تازه سازی رها کنید</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">به پایان صفحه رسیدید</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">به پایان صفحه رسیدید</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">چند لحظه صبر کنید…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">موارد بارگذاری نشدند</string>
     <string name="monday">دوشنبه</string>
     <string name="monday_short">دوشنبه</string>
     <string name="monday_shortest">دوشنبه</string>
@@ -188,6 +207,7 @@ Mawrth Vallis"</string>
     <string name="time_picker_dialog_title">تنظیم زمان</string>
     <string name="time_picker_label_hour">ساعت</string>
     <string name="time_picker_label_minute">دقیقه</string>
+    <string name="title_system_wallpaper_resource">تصاویر زمینه سیستم</string>
     <string name="today">امروز</string>
     <string name="tomorrow">فردا</string>
     <string name="tuesday">سه‌شنبه</string>
@@ -204,6 +224,9 @@ Mawrth Vallis"</string>
     <string name="wallpaper_setting_super_wallpaper_banner_title">تصاویر زمینه فوق‌العاده</string>
     <string name="wallpaper_setting_super_wallpaper_more_button_text">بیشتر</string>
     <string name="wallpaper_setting_title">تصویر زمینه</string>
+    <string name="weather_summary">اطلاعات آب و هوای محلی</string>
+    <string name="weather_super_wallpaper_label">آب و هوا</string>
+    <string name="weather_title">آب و هوا</string>
     <string name="wednesday">چهارشنبه</string>
     <string name="wednesday_short">چهارشنبه</string>
     <string name="wednesday_shortest">چهارشنبه</string>

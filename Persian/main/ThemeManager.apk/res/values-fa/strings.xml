@@ -77,6 +77,7 @@
     <string name="exo_track_surround_5_point_1">صدای فراگیر ۵.۱</string>
     <string name="exo_track_surround_7_point_1">صدای فراگیر ۷٫۱</string>
     <string name="exo_track_unknown">نامشخص</string>
+    <string name="fcm_fallback_notification_channel_label">موارد دیگر</string>
     <string name="s1">ذخیره تصویر</string>
     <string name="s2">به آگهی اجازه داده شود تصویر را در گالری تصویر ذخیره کند؟</string>
     <string name="s3">پذیرفتن</string>

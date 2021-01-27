@@ -44,14 +44,11 @@
     <string name="account_security_title">امنیت دستگاه</string>
     <string name="account_set_up_change_type_note">اگر شما نیاز به تعویض بین تنظیمات POP3 و IMAP دارید، حساب خود را حذف کنید و یک حساب جدید با تنظیمات مورد نظر خود ایجاد کنید.</string>
     <string name="account_settings_action">تنظیمات حساب</string>
-    <string name="account_settings_background_attachments_label">دانلود پیوست ها</string>
     <string name="account_settings_background_attachments_summary">دانلود فایل ضمیمه با استفاده از WLAN</string>
     <string name="account_settings_data_usage">تنظیمات همگام سازی</string>
     <string name="account_settings_description_label">نام حساب</string>
     <string name="account_settings_edit_quick_responses_label">پاسخ سریع</string>
     <string name="account_settings_edit_quick_responses_summary">ویرایش پیام کوتاه برای چسباندن به ایمیل</string>
-    <string name="account_settings_enforced_label">سیاست ها</string>
-    <string name="account_settings_enforced_summary">خیر</string>
     <string name="account_settings_incoming_summary">نام کاربری و رمز عبور و سایر تنظیمات سرور</string>
     <string name="account_settings_login_dialog_content_fmt">"The username or password for %s is incorrect.
          Do you want to update them now?"</string>
@@ -64,9 +61,6 @@
     <string name="account_settings_notify_label">اعلان های ایمیل</string>
     <string name="account_settings_notify_summary">وقتی ایمیل جدید می آید اعلان نمایش داده شود</string>
     <string name="account_settings_param">تنظیمات حساب</string>
-    <string name="account_settings_policies">سیاست های امنیتی</string>
-    <string name="account_settings_retry_label">تلاش همگام سازی</string>
-    <string name="account_settings_retry_summary">برای همگامسازی حساب لمس کنید</string>
     <string name="account_settings_ringtone">صدای اعلان</string>
     <string name="account_settings_servers">تنظیمات سرور</string>
     <string name="account_settings_summary">دفعات همگام سازی، اعلان ها و غیره.</string>
@@ -76,12 +70,8 @@
     <string name="account_settings_sync_contacts_summary">همگام سازی مخاطبین برای این حساب</string>
     <string name="account_settings_sync_email_enable">ایمیل همگام سازی</string>
     <string name="account_settings_sync_email_summary">ایمیل همگام سازی برای این حساب</string>
-    <string name="account_settings_unsupported_label">سیاست های پشتیبانی نشده</string>
-    <string name="account_settings_unsupported_summary">هیچ کدام</string>
     <string name="account_settings_using_ringtone">آهنگ های زنگ</string>
     <string name="account_settings_vibrate_when_label">لرزش</string>
-    <string name="account_setup_account_type_instructions">این چه نوع حساب است؟</string>
-    <string name="account_setup_account_type_title">راه اندازی حساب</string>
     <string name="account_setup_address_label">ایمیل</string>
     <string name="account_setup_autodiscover_dlg_authfail_message">تایید کنید که نام کاربری و رمز عبور و حساب تنظیمات صحیح هستند.</string>
     <string name="account_setup_autodiscover_dlg_authfail_title">قادر به راه اندازی حساب نیست</string>
@@ -96,7 +86,6 @@
     <string name="account_setup_creating_account_msg">"    ایجاد حساب …"</string>
     <string name="account_setup_deleting_account_msg">"    Removing account…"</string>
     <string name="account_setup_exchange_certificate_title">مجوز مشتری</string>
-    <string name="account_setup_exchange_device_id_label">شناسه دستگاه تلفن همراه</string>
     <string name="account_setup_exchange_no_certificate">هیچ کدام</string>
     <string name="account_setup_failed_certificate_inaccessible">گواهی نامعتبر است و یا غیر قابل دسترس می باشد.</string>
     <string name="account_setup_failed_certificate_required">مجوز مشتری مورد نیاز است. آیا می خواهید برای اتصال به سرور از مجوز مشتری استفاده کنید؟</string>
@@ -113,7 +102,6 @@
     <string name="account_setup_failed_dlg_server_message_fmt">"نمی تواند اتصال به سرور را برقرار کرد. 
 (%s)"</string>
     <string name="account_setup_failed_dlg_title">قادر به راه اندازی حساب نیست</string>
-    <string name="account_setup_failed_dlg_todo1">Set account as shown below or try signing in with EXCHANGE.</string>
     <string name="account_setup_failed_dlg_todo2">Set account as shown below</string>
     <string name="account_setup_failed_dlg_unknown_auth_message">Unknown error.</string>
     <string name="account_setup_failed_ioerror">اتصال به سرور را نمی توان باز کرد.</string>
@@ -160,10 +148,6 @@
     <string name="account_setup_outgoing_port_label">پورت</string>
     <string name="account_setup_outgoing_require_login_label">لازم است وارد شوید</string>
     <string name="account_setup_outgoing_smtp_server_label">سرور SMTP</string>
-    <string name="account_setup_security_policies_required_fmt">"         The server %s requires that you allow it to remotely control
-         some security features of your Android device. Do you want to finish setting up this
-         account?"</string>
-    <string name="account_setup_security_required_title">مدیریت امنیت از راه دور</string>
     <string name="account_setup_server_acc_manager_title">حساب ها</string>
     <string name="account_setup_username_password_toast">"        آدرس ایمیل و رمز عبور معتبر را تایپ کنید."</string>
     <string name="account_sync_off">همگام سازی حساب خاموش است.</string>
@@ -173,19 +157,16 @@
     <string name="add_account">اضافه کردن حساب</string>
     <string name="add_attachment">افزودن پیوست</string>
     <string name="add_calendar">یادآوری</string>
-    <string name="add_label">افزودن پوشه</string>
     <string name="add_pre_message_attachments">افزودن پیوست های پیش-پیام؟</string>
     <string name="add_pre_message_attachments_no">اضافه نکن</string>
     <string name="add_pre_message_attachments_yes">افزودن</string>
     <string name="add_star">Favorite</string>
     <string name="allread">خواندن همه</string>
     <string name="always_bcc_myself">همیشه Bcc به خود</string>
-    <string name="always_show_images">همیشه تصاویر از این فرستنده نشان داده شود</string>
     <string name="app_name">پست</string>
     <string name="archive">بایگانی</string>
     <string name="archived">آرشیو شد</string>
     <string name="att_download_failed_content">پیوست این پیام را نمی توان دانلود کرد.</string>
-    <string name="att_download_failed_network_slow">Connection speed too slow, try again later</string>
     <string name="att_download_failed_permission_denied">"Don't have permissions to access external storage"</string>
     <string name="att_download_failed_title">نمی تواند پیوست را دانلود کرد</string>
     <string name="att_file_not_exists">s% پیدا نشد</string>
@@ -256,7 +237,6 @@
     <string name="collapse_recipient_details">بستن جزئیات گیرنده</string>
     <string name="colon">:</string>
     <string name="compose">نوشتن پیام</string>
-    <string name="compose_attachment_number_limit">"Can't add more than 10 attachments"</string>
     <string name="compose_picturesexceedlimits">پیغام نباید از 5 تصویر در-خط بیشتر باشد</string>
     <string name="compose_send">ارسال</string>
     <string name="compose_sent">نامه فرستاده شد</string>
@@ -277,8 +257,6 @@
     <string name="contact_edit_set_phone_contact">ویرایش مخاطبین تلفن</string>
     <string name="contact_edit_title_phone_contact">لیست مخاطبین تلفن</string>
     <string name="contact_in_filter_title">Sender</string>
-    <string name="contact_info_string">"نمایش اطلاعات تماس برای %1$s "</string>
-    <string name="contact_info_string_default">نمایش اطلاعات تماس</string>
     <string name="contact_list_add_btn">افزودن</string>
     <string name="contact_list_search_hint">جستجوی مخاطبین</string>
     <string name="contact_list_title">مخاطبین</string>
@@ -326,14 +304,12 @@
     <string name="device_admin_label">ایمیل</string>
     <string name="device_not_activiey_lint1">مدیریت دستگاه فعال نشده است</string>
     <string name="device_not_activiey_lint2">سرویس صندوق پست با تعویض کار نمی کند</string>
-    <string name="dialog_account_auto_sync_setting_no_open">"Can't auto-receive new messages. Sync is off."</string>
     <string name="dialog_change_sync_lookback">The mail received %s ago will be deleted automatically. Tap to change.</string>
     <string name="dialog_insufficient_space_on_external">پیوست را نمی توان دانلود کرد. فضای کافی در حافظه خارجی وجود ندارد.</string>
     <string name="dialog_insufficient_space_on_internal">فضای کافی در حافظه داخلی وجود ندارد.</string>
     <string name="disable_admin_warning">"WARNING: Deactivating the Email app's authority
          to administer your device will delete all email accounts that require it, along with their
          email, contacts, calendar events, and other data."</string>
-    <string name="discard">دور انداختن</string>
     <string name="discard_drafts">پیش نویس را دور بریزید</string>
     <string name="dismiss_tip_hover_text">رد کردن یک نکته</string>
     <string name="disturb_switch">مزاحم نشوید</string>
@@ -348,7 +324,6 @@
     <string name="downlaod_confirm_download">دانلود</string>
     <string name="downlaod_nonWifi_confirm_message">با استفاده از اتصال داده تلفن همراه این پیوست دانلود شود؟</string>
     <string name="downlaod_nonWifi_confirm_title">اين پيوست دانلود شود؟</string>
-    <string name="download_again">دانلود دوباره</string>
     <string name="download_before_sharing">" دانلود تمام نشده است."</string>
     <string name="download_cancel_confirm_message">دانلود متوقف خواهد شد</string>
     <string name="download_cancel_confirm_title">اين پيوست دانلود شود؟</string>
@@ -425,21 +400,15 @@
     <string name="gmail_login_confirm_to_use_proxy">استفاده از سرور پروکسی برای دسترسی به حساب Gmail؟</string>
     <string name="gmail_login_failed_non_proxy_title">"Couldn't access Gmail server"</string>
     <string name="gmail_server_authorization_deleted">"Couldn't authenticate account. Try adding this account again."</string>
-    <string name="gmail_web_login_go">تایید</string>
-    <string name="gmail_web_login_required_message">ورود به Gmail</string>
     <string name="header_category_account">حساب ها</string>
     <string name="header_category_general">@string/header_label_general_preferences</string>
-    <string name="header_category_other">بازخورد</string>
     <string name="header_label_general_preferences">عمومی</string>
     <string name="help_and_info">راهنما</string>
     <string name="hide_elided">▼پنهان کردن متن نقل قول</string>
-    <string name="hint_quick_reply_all">پاسخ به همه</string>
     <string name="imap_name">IMAP</string>
     <string name="imap_password_error">رمز عبور برای سرور پست الکترونیکی ورودی صحیح نیست</string>
     <string name="info_actionbar_normal_detail">Details</string>
     <string name="info_item_hide">Hide</string>
-    <string name="info_switch_summary">View top news</string>
-    <string name="info_switch_title">Inbox news</string>
     <string name="inline_picture_deleted">دانلود عکس های از دست رفته…</string>
     <string name="input_password_prompt">رمز عبور خود را وارد کنید</string>
     <string name="invalid_recipient">"آدرس %s  نامعتبر است."</string>
@@ -486,16 +455,6 @@
         Accepted:
         %s
     "</string>
-    <string name="meeting_allday">"
-        When:
-        %s
-        (all day)
-    "</string>
-    <string name="meeting_allday_recurring">"
-        When:
-        %s
-        (all day, recurring)
-    "</string>
     <string name="meeting_canceled">"
         Canceled:
         %s
@@ -504,25 +463,12 @@
         Declined:
         %s
     "</string>
-    <string name="meeting_recurring">"
-        When:
-        %s
-        (recurring)
-    "</string>
     <string name="meeting_tentative">"
         Tentative:
         %s
     "</string>
     <string name="meeting_updated">"
         Updated:
-        %s
-    "</string>
-    <string name="meeting_when">"
-        When:
-        %s
-    "</string>
-    <string name="meeting_where">"
-        Where:
         %s
     "</string>
     <string name="megabytes">%s MB</string>
@@ -538,22 +484,17 @@
     <string name="menu_folder_options">گزینه های همگام سازی</string>
     <string name="menu_move_to">حرکت به</string>
     <string name="menu_move_to_inbox">انتقال به صندوق پستی</string>
-    <string name="menu_photo_save_all">ذخیره همه</string>
-    <string name="menu_photo_share">به اشتراک گذاری</string>
-    <string name="menu_photo_share_all">به اشتراک گذاری همه</string>
     <string name="menu_resend_all">همه مجددا ارسال شوند</string>
     <string name="menu_search">جستجو</string>
     <string name="menu_settings">تنظیمات</string>
     <string name="merged_mailbox_compose_select_account">حساب را انتخاب کنید</string>
     <string name="message_compose_insert_quick_response_list_title">درج پاسخ سریع</string>
     <string name="message_decode_error">پیام رمزگشایی نشد</string>
-    <string name="message_details_title">جزئیات پیام</string>
     <string name="message_discarded">پیش نویس دور انداخته شد</string>
     <string name="message_invite_accept">بله</string>
     <string name="message_invite_calendar_view">مشاهده در تقویم</string>
     <string name="message_invite_decline">نه</string>
     <string name="message_invite_tentative">شاید</string>
-    <string name="message_invite_title">دعوت تقویم</string>
     <string name="message_saved">پیام به عنوان پیش نویس ذخیره شد.</string>
     <string name="message_view_attachment_background_load">"One or more attachments in your
         forwarded message will be downloaded prior to sending."</string>
@@ -562,7 +503,6 @@
     <string name="mibill_privacy_policy_description">اجازه به کیف پول برای تجزیه و تحلیل و مدیریت صورت حساب شما به طور خودکار. این ویژگی به صورت پیش فرض برای آدرس ایمیل های مربوط به کار خاموش است.</string>
     <string name="mibill_privacy_policy_link">با استفاده از این ویژگی شما با <a href="https://www.mipay.com/res/doc/eula/email.html">Terms of Service</a> ما موافقت می کنید</string>
     <string name="mibill_privacy_policy_title">مدیریت صورت حساب ها به طور خودکار</string>
-    <string name="more_context">بیشتر</string>
     <string name="move_to_selection_dialog_title">انتقال به پوشه دیگر</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="mute">بی صدا</string>
@@ -591,7 +531,6 @@
     <string name="notification_action_undo_archive">آرشیو شد</string>
     <string name="notification_action_undo_delete">حذف شد</string>
     <string name="notification_action_undo_remove_label">حذف برچسب</string>
-    <string name="notification_exchange_calendar_added">" تقویم تعویض اضافه شده"</string>
     <string name="oauth_error_description">تایید اعتبار انجام نشد</string>
     <string name="oauth_gmail_login_notify">رمز عبور و نام کاربری حساب Google خود را در صفحه ثبت نام زیر وارد کنید.</string>
     <string name="oauth_login_continue">ادامه</string>
@@ -639,16 +578,12 @@
     <string name="permission_read_attachment_desc">اجازه می دهد تا برنامه برای خواندن ایمیل های شما پیوست</string>
     <string name="permission_read_attachment_label">خواندن فایل پیوست</string>
     <string name="phone">تلفن</string>
-    <string name="photo_load_failed">عدم امکان بارگذاری تصویر</string>
     <string name="photo_view_count">%1$d %2$d</string>
-    <string name="please_fill_in_your_mailbox_information2">اطلاعات صندوق پستی خود را وارد کنید</string>
     <string name="policy_app_blacklist">رفع اجازه برنامه های تایین شده</string>
     <string name="policy_app_whitelist">فقط اجازه به برنامه های تایید شده</string>
     <string name="policy_bluetooth_restricted">محدود کردن استفاده از بلوتوث</string>
-    <string name="policy_calendar_age">محدود کردن تعداد رویدادهای همگام سازی شده تقویم</string>
     <string name="policy_dont_allow_attachments">عدم اجازه به پیوست ها</string>
     <string name="policy_dont_allow_browser">عدم اجازه به مرورگرها</string>
-    <string name="policy_dont_allow_camera">جلوگیری از استفاده از دوربین این دستگاه</string>
     <string name="policy_dont_allow_consumer_email">عدم اجازه به ایمیل های مصرف کننده</string>
     <string name="policy_dont_allow_html">عدم اجازه به ایمیل HTML</string>
     <string name="policy_dont_allow_internet_sharing">عدم اجازه به اشتراک گذاری اینترنت</string>
@@ -660,28 +595,19 @@
     <string name="policy_dont_allow_unsigned_installers">"Don't allow unsigned app
         installers"</string>
     <string name="policy_dont_allow_wifi">WLAN را مجاز نکنید</string>
-    <string name="policy_email_age">محدود کردن تعداد ایمیل های همگام سازی شده</string>
     <string name="policy_html_truncation">محدود کردن حجم ایمیل های HTML</string>
-    <string name="policy_password_expiration">تنظیم انقضاء برای کلمات عبور</string>
-    <string name="policy_password_history">محدود کردن استفاده از کلمه های عبور جدید</string>
     <string name="policy_require_encryption">رمزگذاری دستگاه لازم است</string>
     <string name="policy_require_manual_sync_roaming">هنگام رومینگ فقط اجازه همگام سازی دستی داده شود</string>
-    <string name="policy_require_password">رمز دستگاه نیاز است</string>
     <string name="policy_require_sd_encryption">رمزگذاری کارت SD لازم است</string>
     <string name="policy_require_smime">"پیام های  SMIME لازم است"</string>
-    <string name="policy_screen_timeout">برای صفحه قفل باید دستگاه غیرفعال باشد</string>
     <string name="policy_text_truncation">محدود کردن اندازه متن ایمیل</string>
     <string name="pop3_name">POP3</string>
     <string name="preference_copied">«%1$s» در بریده‌دان کپی شد.</string>
     <string name="preference_eas_tips">برای راه اندازی ایمیل سرور روی \"Activate\" ضربه بزنید.</string>
     <string name="preference_imap_tips" />
     <string name="preference_pop_tips">در POP3، پیوست ها به صورت خودکار با ایمیل دریافت می شوند. این ممکن است باعث افزایش مصرف داده تلفن همراه شود.</string>
-    <string name="preference_sender_image_description">نمایش تصاویر نمایه در کنار نام فرستنده در صندوق پستی</string>
-    <string name="preference_sender_image_title">نمایش تصاویر نمایه در صندوق پستی</string>
     <string name="preferences_signature_dialog_title">امضا</string>
-    <string name="preferences_signature_summary_not_set">هیچ کدام</string>
     <string name="preferences_signature_title">امضا</string>
-    <string name="preview_attachment">پیش نمایش</string>
     <string name="previous_action">قبلی</string>
     <string name="print">چاپ</string>
     <string name="prompt_title">بی درنگ</string>
@@ -710,8 +636,6 @@
     <string name="quick_3">من این را خوانده و بعدا با شما تماس می گیریم.</string>
     <string name="quick_4">بیایید یک جلسه برای بحث در مورد این مساله تشکیل دهیم.</string>
     <string name="quick_reply_dialog_title">یک پاسخ انتخاب کنید</string>
-    <string name="quick_reply_hint_bcc">(در BCC)</string>
-    <string name="quick_reply_hint_cc">(در سی سی)</string>
     <string name="quick_responses_empty_view">بدون پاسخ سریع</string>
     <string name="quoted_text">شامل متن نقل قول</string>
     <string name="quoted_text_label">متن نقل قول</string>
@@ -724,7 +648,6 @@
     <string name="reduce_the_receiving_frequencye_title">همگام سازی با تناوب کمتر</string>
     <string name="refresh">تازه کردن</string>
     <string name="refreshing">تازه کردن...</string>
-    <string name="refreshing_done">انجام شد</string>
     <string name="release_to_refresh">رها کردن برای تازه سازی</string>
     <string name="remove_account">حذف حساب</string>
     <string name="remove_folder">"حذف از %1$s "</string>
@@ -738,13 +661,10 @@
     <string name="request_entity_large">فایل خیلی بزرگ است</string>
     <string name="respond_inline">"   پاسخ خطی"</string>
     <string name="save_action">ذخیره کردن</string>
-    <string name="save_attachment">ذخیره کردن</string>
     <string name="save_draft_failed">عدم موفقیت در ذخیره پیش نویس</string>
     <string name="save_power_summary">Set power saving time</string>
     <string name="save_power_title">Battery saver</string>
     <string name="saved">"ذخیره شد %s "</string>
-    <string name="saving">ذخیره کردن...</string>
-    <string name="sdcard_cannot_use">نمی توان از کارت SD استفاده کرد</string>
     <string name="search_hint">جستجوی پست</string>
     <string name="search_menu_title">جستجو</string>
     <string name="search_result">"نتایج "</string>
@@ -753,11 +673,7 @@
     <string name="search_tabs_name_sender">فرستنده</string>
     <string name="search_tabs_name_subject">موضوع</string>
     <string name="search_txt_size_limit_prompt">عبارات جستجو باید بیشتر از 3 کاراکتر باشد</string>
-    <string name="security_changed_ticker_fmt">"            Account \"%s\" changed its security settings; no user
-            action is required."</string>
     <string name="security_needed_ticker_fmt">"            حساب \"%s \" نیاز به روز رسانی تنظیمات امنیتی دارد."</string>
-    <string name="security_notification_content_change_title">"Security policies have
-         changed"</string>
     <string name="security_notification_content_unsupported_title">"Security policies can't be
          met"</string>
     <string name="security_notification_content_update_title">بروز رسانی های امنیتی مورد نیاز است</string>
@@ -791,7 +707,6 @@
 
 
 %s"</string>
-    <string name="silent_ringtone">بی صدا</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
     <string name="single_new_message_notification_title">%1$s: %2$s</string>
@@ -807,13 +722,6 @@
     <string name="sync_error">قادر به همگام سازی نبود.</string>
     <string name="sync_error_message">دستگاه شما فضای ذخیره سازی کافی برای همگام سازی ندارد.</string>
     <string name="system_account_create_failed">قادر به ایجاد حساب نمی باشد. دوباره امتحان کن.</string>
-    <string name="system_folders_sent_dlg">انتخاب پوشه موارد ارسال شده سرور خود</string>
-    <string name="system_folders_sent_summary">انتخاب پوشه موارد ارسال شده سرور خود</string>
-    <string name="system_folders_sent_title">پوشه موارد ارسال شده</string>
-    <string name="system_folders_title">پوشه های سیستم</string>
-    <string name="system_folders_trash_dlg">انتخاب پوشه سطل زباله سرور خود</string>
-    <string name="system_folders_trash_summary">انتخاب پوشه سطل زباله سرور خود</string>
-    <string name="system_folders_trash_title">پوشه سطل زباله</string>
     <string name="tablet">لوح رایانه</string>
     <string name="tap_to_configure">برای تنظیم کردن لمس کنید.</string>
     <string name="tap_to_enable_sync">لمس برای روشن کردن.</string>
@@ -837,8 +745,6 @@
     <string name="undo">باطل کردن</string>
     <string name="unread_string">مکالمه خوانده نشد</string>
     <string name="unzip_file_failed">قادر به بازکردن فایل نیست</string>
-    <string name="update_date_format_templete">HH:mm aa, MMMM dd</string>
-    <string name="updated_at">تازه شده در %1$s</string>
     <string name="upload_log">لاگ های آپلود</string>
     <string name="upload_log_failed">"Couldn't send logs"</string>
     <string name="upload_log_no">انصراف</string>
@@ -848,8 +754,6 @@
     <string name="uploading_logs">فقط چند ثانیه…</string>
     <string name="v7_preference_off">خاموش</string>
     <string name="v7_preference_on">روشن</string>
-    <string name="validation_failed_prompt">"نمی تواند حساب را تایید کند, چک کنید تنظیمات سرور را برای %s "</string>
-    <string name="via_domain">"از طریق %1$s "</string>
     <string name="view_more_conversations">مشاهده مکالمات بیشتر</string>
     <string name="wait_for_manual_sync_body">"این حساب برای همگامی خودکار تنظیم نشده است. 
 برای همگام سازی یک بار ایمیل "<b>Sync Now</b> را لمس کنید، یا برای تنظیم این حساب برای همگام سازی خودکار ایمیل <b>Change Sync Settings</b> را لمس کنید.</string>

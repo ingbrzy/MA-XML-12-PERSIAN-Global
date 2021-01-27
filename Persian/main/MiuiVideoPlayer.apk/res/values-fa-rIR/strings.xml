@@ -67,6 +67,7 @@
     <string name="auth_fail_warning">مهلت تمام شد. دوباره وارد شوید.</string>
     <string name="auto_play_next_off">پخش خودکار خاموش است</string>
     <string name="auto_play_next_on">پخش خودکار روشن است</string>
+    <string name="back_to_mainpage">یافتن</string>
     <string name="before_yestoday">۲ روز پیش</string>
     <string name="bind_sign_in_title">افزودن حساب Mi</string>
     <string name="cancel">لغو</string>
@@ -124,7 +125,7 @@
 شناسه%s
 این کد را به مسئول مربوطه ارسال کنید."</string>
     <string name="dialog_privacy_info_new2">برای امکان استفاده از خدمات آن، شما باید بپذیرید که %1$s اطلاعات شخصی شما را جمع‌آوری، پردازش و استفاده خواهد کرد. زدن روی \"پذیرفتن\" در زیر، به منزله خواندن و پذیرفتن &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> ما توسط شما تلقی می‌شود.</string>
-    <string name="dialog_privacy_info_new3">برای اینکه بتوانید از این سرویس استفاده کنید، باید %1$sرا جمع آوری، پردازش و استفاده از اطلاعات شخصی خود را مطابق با سیاست حفظ حریم خصوصی مجاز کنید. با ضربه زدن روی «پذیرفتن» در زیر، شما با &lt;a href=%2$s> سیاست حفظ حریم خصوصی &lt;/a> و &lt;a href=%3$s> توافق‌نامه کاربر، موافقت می‌کنید&lt;/a>.</string>
+    <string name="dialog_privacy_info_new3">برای استفاده از این خدمات لازم است تا بر اساس سیاست حفظ حریم خصوصی به %1$s اجازه گردآوری، پردازش و استفاده از اطلاعات شخصی خود را بدهید. با زدن روی «پذیرفتن» در زیر شما &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> و &lt;a href=%3$s>توافق‌نامه کاربر&lt;/a> Xiaomi را می‌پذیرید. &lt;br/>&lt;br/>زدن روی «پذیرفتن» نیز به ویدئوی Mi اجازه دسترسی به فهرست برنامه‌های نصب شده روی دستگاه شما را می‌دهد. با این مجوز، ویدئوی Mi امکان همرسانی موارد، دانستن این‌که برنامه‌ای روی دستگاه شما نصب است یا نه، کدام نسخه از برنامه نصب بوده و آیا برنامه‌ای امن است یا نه را خواهد داشت.</string>
     <string name="dialog_privacy_title">مجوز</string>
     <string name="dialog_revoke_privacy_info_new2">پس از باطل کردن مجوز، این برنامه جمع‌آوری داده‌ها را متوقف کرده و همه داده‌های مرتبط را از سرورهای ما حذف خواهد کرد. این کار ممکن است باعث گردد برنامه عملاً غیر قابل استفاده شود. در هر صورت مجوز باطل شود؟</string>
     <string name="dialog_revoke_privacy_title">ابطال مجوز</string>
@@ -161,6 +162,7 @@
     <string name="favorite_cancel_success">با موفقیت از موارد پسندیده حذف شد</string>
     <string name="favorite_fail">موارد پسندیده افزوده نشد. دوباره تلاش کنید.</string>
     <string name="favorite_success">با موفقیت به موارد پسندیده افزوده شد</string>
+    <string name="fcm_push_title">ویدئوهای پرطرفدار</string>
     <string name="feedback">بازخورد</string>
     <string name="feedback_activity_title">بازخورد</string>
     <string name="feedback_contact_empty">اطلاعات تماس خود را وارد کنید</string>
@@ -486,6 +488,9 @@
     <string name="notification_bar_player_subtitle">نمایش پخش کننده کوچک‌سازی شده در کرکره اعلان</string>
     <string name="notification_bar_player_title">کوچک کردن پخش کننده</string>
     <string name="notification_open_tip">روشن کرده تا اعلان‌ها را دریافت کنید</string>
+    <string name="notification_recall_action">روشن کردن</string>
+    <string name="notification_recall_desc">ویدئوی Mi می‌تواند درباره ویدئوها و اشتراک‌های پرطرفدار شما را آگاه کند.</string>
+    <string name="notification_recall_title">روشن کردن اعلان‌ها</string>
     <string name="notify_apk_installed">با موفقیت دانلود شد</string>
     <string name="ok">تأیید</string>
     <string name="order_alphabet">به ترتیب حروف الفبا</string>
@@ -684,6 +689,7 @@
     <string name="permission_storage">حافظه</string>
     <string name="permission_storage_desc">برای دسترسی به موارد، ذخیره فایل‌ها، نمایش و پخش ویدئوهای محلی</string>
     <string name="permission_title">نیازمند مجوز است</string>
+    <string name="pgc_push_title">اشتراک‌ها</string>
     <string name="phone_bind_too_many">این شماره تلفن با چندین حساب Mi در یک دوره کوتاه مرتبط بوده است. از شماره دیگری استفاده کنید.</string>
     <string name="phone_hint">شماره تلفن</string>
     <string name="phone_num_use_for">شماره تلفن استفاده شده است برای:</string>
