@@ -1,136 +1,133 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string-array name="alphabet_table">
-<item>A</item>
-<item>B</item>
-<item>C</item>
-<item>D</item>
-<item>E</item>
-<item>F</item>
-<item>G</item>
-<item>H</item>
-<item>I</item>
-<item>J</item>
-<item>K</item>
-<item>L</item>
-<item>M</item>
-<item>N</item>
-<item>O</item>
-<item>P</item>
-<item>Q</item>
-<item>R</item>
-<item>S</item>
-<item>T</item>
-<item>U</item>
-<item>V</item>
-<item>W</item>
-<item>X</item>
-<item>Y</item>
-<item>Z</item>
-<item>\#</item>
-</string-array>
-<string-array name="alphabet_table_with_starred">
-<item>!</item>
-<item>A</item>
-<item>B</item>
-<item>C</item>
-<item>D</item>
-<item>E</item>
-<item>F</item>
-<item>G</item>
-<item>H</item>
-<item>I</item>
-<item>J</item>
-<item>K</item>
-<item>L</item>
-<item>M</item>
-<item>N</item>
-<item>O</item>
-<item>P</item>
-<item>Q</item>
-<item>R</item>
-<item>S</item>
-<item>T</item>
-<item>U</item>
-<item>V</item>
-<item>W</item>
-<item>X</item>
-<item>Y</item>
-<item>Z</item>
-<item>\#</item>
-</string-array>
-<string-array name="attachment_chooser">
-<item>دوربین</item>
-<item>گالری</item>
-</string-array>
-<string-array name="contact_entries">
-<item>نام</item>
-<item>نام مستعار</item>
-<item>تلفن</item>
-<item>ایمیل</item>
-<item>شرکت</item>
-<item>IM</item>
-<item>تلفن SIP</item>
-<item>زادروز</item>
-<item>وب‌سایت</item>
-<item>نشانی</item>
-<item>یادداشت</item>
-</string-array>
-<string-array name="contact_values">
-<item>vnd.android.cursor.item/name</item>
-<item>vnd.android.cursor.item/nickname</item>
-<item>vnd.android.cursor.item/phone_v2</item>
-<item>vnd.android.cursor.item/email_v2</item>
-<item>vnd.android.cursor.item/organization</item>
-<item>vnd.android.cursor.item/im</item>
-<item>vnd.android.cursor.item/sip_address</item>
-<item>vnd.android.cursor.item/contact_event</item>
-<item>vnd.android.cursor.item/website</item>
-<item>vnd.android.cursor.item/postal-address_v2</item>
-<item>vnd.android.cursor.item/note</item>
-</string-array>
-<string-array name="first_guide_contents">
-<item>به یادداشت‌ها خوش آمدید!</item>
-<item>یادداشت برداری</item>
-<item>می‌توانید از متن، تصاویر و ضبط صدا در یادداشت‌های خود استفاده کنید. مجموعه‌ای از سبک‌ها و فونت‌ها دستخط ساده شما را خیره‌کننده خواهد کرد.</item>
-<item>بازبینه‌ها و یادآوری‌ها هنگامی که به ابزارهای ابتدایی و مؤثر برای برنامه‌ریزی سفر یا تهیه فهرست خرید نیاز دارید به کمک شما می‌آیند.</item>
-<item>همرسانی یادداشت‌ها</item>
-<item>در یادداشت‌ها می‌توانید به صورت خودکار طومارهای عکس صفحه ایجاد کرده و آن‌ها را با دوستان خود همرسانی کنید.</item>
-<item>ایجاد پوشه و جابجایی بین آن‌ها</item>
-<item>پیکان زیر را زده تا پوشه جدید ایجاد کرده یا بین پوشه‌های موجود تعویض کنید.</item>
-</string-array>
-<string-array name="first_guide_images">
-<item>guide_first_00</item>
-<item>guide_first_01</item>
-<item>guide_first_02</item>
-<item>guide_first_03</item>
-<item>guide_first_04</item>
-<item/>
-</string-array>
-<string-array name="folder_operations">
-<item>تغییر نام</item>
-<item>حذف</item>
-</string-array>
-<string-array name="font_size_names">
-<item>کوچک</item>
-<item>متوسط</item>
-<item>بزرگ</item>
-<item>خیلی بزرگ</item>
-</string-array>
-<string-array name="note_sort_way">
-<item>بر اساس تاریخ ایجاد</item>
-<item>بر اساس تاریخ تغییر</item>
-</string-array>
-<string-array name="second_guide_contents">
-<item>یادداشت‌های صوتی</item>
-<item>با استفاده از موتور گفتار به نوشتار درون‌برنامه‌ای صداهای ضبط شده خود را به یادداشت‌ها ضمیمه کنید.</item>
-</string-array>
-<string-array name="second_guide_contents_pad_or_inter">
-<item>یادداشت‌های صوتی</item>
-<item>حالا می‌توانید یادداشت‌های صوتی ایجاد کنید. کافیست روی آیکون آن زده، صدای خود را ضبط کرده و فایل صوتی را داخل یادداشت ذخیره کنید.</item>
-</string-array>
-<string-array name="second_guide_images">
-<item>guide_second_00</item>
-<item/>
-</string-array>
+    <string-array name="alphabet_table">
+        <item>ا</item>
+        <item>ب</item>
+        <item>پ</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>چ</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ز</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>ژ</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ک</item>
+        <item>گ</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>و</item>
+        <item>ه</item>
+        <item>ی</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>پ</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>چ</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ز</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>ژ</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ک</item>
+        <item>گ</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>و</item>
+        <item>ه</item>
+        <item>ی</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="attachment_chooser">
+        <item>دوربین</item>
+        <item>گالری</item>
+    </string-array>
+    <string-array name="common_folder_operations">
+        <item>新建</item>
+        <item>重命名</item>
+        <item>删除</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>نام</item>
+        <item>نام مستعار</item>
+        <item>تلفن</item>
+        <item>ایمیل</item>
+        <item>شرکت</item>
+        <item>IM</item>
+        <item>تلفن SIP</item>
+        <item>زادروز</item>
+        <item>وب‌سایت</item>
+        <item>نشانی</item>
+        <item>یادداشت</item>
+    </string-array>
+    <string-array name="first_guide_contents">
+        <item>به یادداشت‌ها خوش آمدید!</item>
+        <item>یادداشت برداری</item>
+        <item>می‌توانید از متن، تصاویر و ضبط صدا در یادداشت‌های خود استفاده کنید. مجموعه‌ای از سبک‌ها و فونت‌ها دستخط ساده شما را خیره‌کننده خواهد کرد.</item>
+        <item>بازبینه‌ها و یادآوری‌ها هنگامی که به ابزارهای ابتدایی و مؤثر برای برنامه‌ریزی سفر یا تهیه فهرست خرید نیاز دارید به کمک شما می‌آیند.</item>
+        <item>هم‌رسانی یادداشت‌ها</item>
+        <item>در یادداشت‌ها می‌توانید به صورت خودکار طومارهای عکس صفحه ایجاد کرده و آن‌ها را با دوستان خود هم‌رسانی کنید.</item>
+        <item>ایجاد پوشه و جابجایی بین آن‌ها</item>
+        <item>پیکان زیر را زده تا پوشه جدید ایجاد کرده یا بین پوشه‌های موجود تعویض کنید.</item>
+    </string-array>
+    <string-array name="folder_operations">
+        <item>تغییر نام</item>
+        <item>حذف</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>کوچک</item>
+        <item>متوسط</item>
+        <item>بزرگ</item>
+        <item>خیلی بزرگ</item>
+    </string-array>
+    <string-array name="note_sort_way">
+        <item>بر اساس تاریخ ایجاد</item>
+        <item>بر اساس تاریخ تغییر</item>
+    </string-array>
+    <string-array name="second_guide_contents">
+        <item>یادداشت‌های صوتی</item>
+        <item>با استفاده از موتور گفتار به نوشتار درون‌برنامه‌ای صداهای ضبط شده خود را به یادداشت‌ها ضمیمه کنید.</item>
+    </string-array>
+    <string-array name="second_guide_contents_pad_or_inter">
+        <item>یادداشت‌های صوتی</item>
+        <item>حالا می‌توانید یادداشت‌های صوتی ایجاد کنید. کافیست روی آیکون آن زده، صدای خود را ضبط کرده و فایل صوتی را داخل یادداشت ذخیره کنید.</item>
+    </string-array>
+    <string-array name="system_folder_operations">
+        <item>新建</item>
+    </string-array>
 </resources>

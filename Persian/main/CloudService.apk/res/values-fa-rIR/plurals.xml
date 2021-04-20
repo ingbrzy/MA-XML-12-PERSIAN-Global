@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="cloud_space_full_gallery_notification_content_title">
+        <item quantity="other">%s مورد همگام‌سازی نمی‌شود</item>
+        <item quantity="one">%s مورد همگام‌سازی نمی‌شود</item>
+    </plurals>
     <plurals name="dirty_blocklist_count">
-        <item quantity="other">%d مورد در لیست سیاه</item>
-        <item quantity="one">%d مورد در لیست سیاه</item>
+        <item quantity="other">%d مورد در فهرست سیاه</item>
+        <item quantity="one">%d مورد در فهرست سیاه</item>
     </plurals>
     <plurals name="dirty_browser_count">
         <item quantity="other">%d مورد مرورگر</item>
@@ -36,6 +40,10 @@
         <item quantity="other">%d یادداشت</item>
         <item quantity="one">%d یادداشت</item>
     </plurals>
+    <plurals name="dirty_note_count_v2">
+        <item quantity="other">%d یادداشت</item>
+        <item quantity="one">%d یادداشت</item>
+    </plurals>
     <plurals name="dirty_personalAssistant_count">
         <item quantity="other">%d ورودی قفسه برنامه</item>
         <item quantity="one">%d ورودی قفسه برنامه</item>
@@ -56,6 +64,14 @@
         <item quantity="other">%d شبکه Wi-Fi</item>
         <item quantity="one">%d شبکه Wi-Fi</item>
     </plurals>
+    <plurals name="dirty_wlan_count_china">
+        <item quantity="other">%d WLAN networks</item>
+        <item quantity="one">%d WLAN network</item>
+    </plurals>
+    <plurals name="error_screen_pwd_next_retry_time">
+        <item quantity="other">تلاش دوباره در %d ثانیه</item>
+        <item quantity="one">تلاش دوباره در %d ثانیه</item>
+    </plurals>
     <plurals name="items_unsynced">
         <item quantity="other">موارد در انتظار همگام‌سازی: %d</item>
         <item quantity="one">موارد در انتظار همگام‌سازی: %d</item>
@@ -73,11 +89,27 @@
         <item quantity="one">تا %d دقیقه دیگه همگام‌سازی ادامه داده می‌شود</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
-        <item quantity="other">%s خدمات با فضای ابری Xiaomi همگام‌سازی خواهند شد</item>
-        <item quantity="one">%s خدمات با فضای ابری Xiaomi همگام‌سازی خواهد شد</item>
+        <item quantity="other">%s گونه خدمات با فضای ابری Xiaomi همگام‌سازی خواهند شد</item>
+        <item quantity="one">%s گونه خدمت با فضای ابری Xiaomi همگام‌سازی خواهد شد</item>
     </plurals>
     <plurals name="select_no_more_than">
-        <item quantity="other">"Can't select more than %d items"</item>
-        <item quantity="one">"Can't select more than %d item"</item>
+        <item quantity="other">بیش از %d مورد انتخاب نمی‌شود</item>
+        <item quantity="one">بیش از %d مورد انتخاب نمی‌شود</item>
+    </plurals>
+    <plurals name="share_sdk_invitation_some_people_accepted">
+        <item quantity="other">دعوت‌نامه توسط %d نفر پذیرفته شده است</item>
+        <item quantity="one">دعوت‌نامه توسط %d نفر پذیرفته شده است</item>
+    </plurals>
+    <plurals name="time_format_day">
+        <item quantity="other">%1$s روز</item>
+        <item quantity="one">%1$s روز</item>
+    </plurals>
+    <plurals name="time_format_hour">
+        <item quantity="other">%1$s ساعت</item>
+        <item quantity="one">%1$s ساعت</item>
+    </plurals>
+    <plurals name="time_format_min">
+        <item quantity="other">%1$s دقیقه</item>
+        <item quantity="one">%1$s دقیقه</item>
     </plurals>
 </resources>

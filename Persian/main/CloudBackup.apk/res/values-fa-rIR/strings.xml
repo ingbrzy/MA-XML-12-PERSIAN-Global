@@ -1,32 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">پیمایش به صفحه اصلی</string>
-    <string name="abc_action_bar_up_description">رفتن به بالا</string>
-    <string name="abc_action_menu_overflow_description">گزینه‌های بیشتر</string>
-    <string name="abc_action_mode_done">تمام</string>
-    <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
-    <string name="abc_activitychooserview_choose_application">انتخاب برنامه</string>
-    <string name="abc_capital_off">خاموش</string>
-    <string name="abc_capital_on">روشن</string>
-    <string name="abc_menu_alt_shortcut_label">‎Alt+‎</string>
-    <string name="abc_menu_ctrl_shortcut_label">‎Ctrl+‎</string>
-    <string name="abc_menu_delete_shortcut_label">حذف</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">‎Function+‎</string>
-    <string name="abc_menu_meta_shortcut_label">‎Meta+‎</string>
-    <string name="abc_menu_shift_shortcut_label">‎Shift+‎</string>
-    <string name="abc_menu_space_shortcut_label">فاصله</string>
-    <string name="abc_menu_sym_shortcut_label">‎Sym+‎</string>
-    <string name="abc_prepend_shortcut_label">منو+</string>
-    <string name="abc_search_hint">جستجو…‏</string>
-    <string name="abc_searchview_description_clear">پاک کردن پُرسمان</string>
-    <string name="abc_searchview_description_query">درخواست جستجو</string>
-    <string name="abc_searchview_description_search">جستجو</string>
-    <string name="abc_searchview_description_submit">ارسال پُرسمان</string>
-    <string name="abc_searchview_description_voice">جستجوی گفتاری</string>
-    <string name="abc_shareactionprovider_share_with">هم‌رسانی با</string>
-    <string name="abc_shareactionprovider_share_with_application">هم‌رسانی با %s</string>
-    <string name="abc_toolbar_collapse_description">کوچک کردن</string>
     <string name="about_to_recover">چند لحظه صبر کنید…</string>
     <string name="app_is_running">برنامه درحال اجراست…</string>
     <string name="app_name">پشتیبان‌گیری فضای ابری</string>
@@ -37,18 +10,32 @@
     <string name="back_up_task_in_process">در حال پشتیبان‌گیری…</string>
     <string name="back_up_task_unfinished">پشتیبان‌گیری نشد</string>
     <string name="backing_up_to_micloud">در حال پشتیبان‌گیری…</string>
-    <string name="backup_failed_reason_cloud_space_not_enough">فضای ذخیره‌سازی در فضای ابری Xiaomi کافی نیست. طرح خود را ارتقا داده و یا فضای ذخیره‌سازی را آزاد کنید.</string>
+    <string name="backup_action_buy_cloud_space">فضای ذخیره‌سازی بیشتری بگیرید</string>
+    <string name="backup_action_check_network">تنظیمات شبکه را بررسی کنید</string>
+    <string name="backup_action_clean_disk_space">آزاد کردن فضا</string>
+    <string name="backup_action_retry_now">تلاش دوباره</string>
+    <string name="backup_failed_reason_cloud_space_not_enough">فضای ذخیره‌سازی در فضای ابری برای ذخیره این نسخه پشتیبان کافی نیست. طرح خود را ارتقا داده یا فضای ذخیره‌سازی ابری را آزاد کنید.</string>
     <string name="backup_failed_reason_disk_space_not_enough">فضای ذخیره‌سازی کافی نیست. ابتدا حافظه را آزاد کنید.</string>
-    <string name="backup_failed_reason_network_error">خطای شبکه. چند دقیقه صبر کرده سپس دوباره تلاش کنید.</string>
+    <string name="backup_failed_reason_network_error">تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید</string>
     <string name="backup_finished_notification_content">از برنامه‌های صفحه اصلی، تنظیمات سیستم و غیره پشتیبان گیری شد.</string>
     <string name="backup_now">اکنون پشتیبان‌گیری شود</string>
     <string name="backup_progress_percent_unit">%</string>
+    <string name="backup_remind_buy_cloud_space">ارتقا طرح فضای ابری شما</string>
+    <string name="backup_remind_clean_disk_space">آزادسازی فضای ذخیره‌سازی</string>
+    <string name="backup_remind_cloud_space_cost">اندازه پشتیبان‌گیری: %s</string>
     <string name="backup_size">اندازه: %s</string>
     <string name="backup_stopped_msg">پشتیبان‌گیری کنونی روی نسخه پیشین بازنویسی خواهد شد. برای نمایش ضربه بزنید.</string>
     <string name="backup_stopped_title">پشتیبان‌گیری مکث شد</string>
     <string name="backup_success">با موفقیت پشتیبان‌گیری شد</string>
     <string name="backup_successfully">با موفقیت پشتیبان‌گیری شد</string>
     <string name="backup_to_cloud">پشتیبان‌گیری از برنامه</string>
+    <string name="backup_warning_reason_cloud_space_not_enough">پشتیبان‌گیری نمی‌شود</string>
+    <string name="backup_warning_reason_disk_space_not_enough">"فضای ذخیره‌سازی کافی نیست
+پشتیبان‌گیری انجام نمی‌شود"</string>
+    <string name="backup_warning_reason_network_error">"خطای شبکه
+پشتیبان‌گیری نمی‌شود"</string>
+    <string name="backup_warning_reason_no_server_response">"اتصال قطع شد
+تلاش دوباره"</string>
     <string name="btn_back">بازگشت</string>
     <string name="btn_continue">ادامه</string>
     <string name="btn_restore_abort">لغو</string>
@@ -61,6 +48,7 @@
     <string name="btn_retry">بررسی دوباره</string>
     <string name="btn_skip">رد شدن از این مرحله</string>
     <string name="button_cancel">لغو</string>
+    <string name="button_confirm">فهمیدم</string>
     <string name="button_delete">حذف</string>
     <string name="button_next">بعدی</string>
     <string name="can_not_backup_in_lite_mode">در حالت ساده نمی‌توان پشتیبان‌گیری کرد</string>
@@ -94,7 +82,7 @@
 *  MIUI and system settings 
 Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</string>
     <string name="cloud_back_up_frequence_choice_title">زمان‌بندی پشتیبان‌گیری</string>
-    <string name="cloud_back_up_frequence_long">هر ۷ روز</string>
+    <string name="cloud_back_up_frequence_long">هر %d روز</string>
     <string name="cloud_back_up_frequence_short">هرروز</string>
     <string name="cloud_back_up_ok_btn">تأیید</string>
     <string name="cloud_back_up_opening">چند لحظه صبر کنید…</string>
@@ -105,6 +93,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup">پشتیبان‌گیری‌های فضای ابری</string>
     <string name="cloud_backup_derail_size_summary">اندازه: %s</string>
     <string name="cloud_backup_detail_frequence">زمان‌بندی پشتیبان‌گیری</string>
+    <string name="cloud_backup_detail_frequence_every_7_day">پشتیبان گیری هر %d روز</string>
+    <string name="cloud_backup_detail_frequence_every_day">پشتیبان‌گیری روزانه</string>
     <string name="cloud_backup_detail_manage">مدیریت پشتیبان‌گیری‌ها</string>
     <string name="cloud_backup_detail_state">پشتیبان‌گیری‌های خودکار</string>
     <string name="cloud_backup_detail_state_summary">ایجاد پشتیبان‌گیری‌های فضای ابری Xiaomi به صورت خودکار هنگام اتصال به Wi-Fi.</string>
@@ -124,8 +114,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="confirm_restore">بازیابی</string>
     <string name="confirm_restore_summary">صفحه اصلی شما دوباره اجرا خواهد شد. برنامه‌های پشتیبان‌گیری شده به صورت خودکار دانلود خواهند شد.</string>
     <string name="confirm_restore_title">بازیابی</string>
-    <string name="copy">کپی</string>
-    <string name="customization">سفارشی‌سازی</string>
+    <string name="customization"><u>سفارشی‌سازی</u></string>
     <string name="date_format">yyyy/MM/dd HH:mm:ss</string>
     <string name="deskclock_backup">ساعت زنگ‌دار</string>
     <string name="desktop_downloading">در حال دانلود</string>
@@ -159,10 +148,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="error_num_placeholder">--</string>
     <string name="error_retry_later">کار به انجام نرسید. چند دقیقه صبر رکده و دوباره تلاش کنید…</string>
     <string name="error_unknown">خطایی اتفاق افتاد</string>
-    <string name="expand_button_title">پیشرفته</string>
     <string name="get_device_id_error">شناسه دستگاه دریافت نشد</string>
-    <string name="help_and_feedback">Help and feedback</string>
-    <string name="hint_restore_cross_space">در صورت انتقال موارد بین فضاها ممکن است چیدمان صفحه اصلی به درستی نمایش داده نشود.</string>
+    <string name="help_and_feedback">راهنمایی و بازخورد</string>
     <string name="home_hint_global_launcher">لانچر POCO</string>
     <string name="home_hint_other_launcher">لانچر دیگر</string>
     <string name="home_restore_error">صفحه اصلی بازیابی نشد</string>
@@ -176,36 +163,30 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="menu_item_sort">مرتب‌سازی براساس</string>
     <string name="menu_item_sort_name">نام</string>
     <string name="menu_item_sort_size">اندازه</string>
-    <string name="miui_device_name">Android</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
-    <string name="msg_alert_cancel_restore">درحال بازیابی موارد. متوقف شود؟</string>
+    <string name="msg_alert_cancel_restore">مواردی از فضای ابری Xiaomi بازیابی شده‌اند. لغو شود؟</string>
     <string name="msg_alert_restore_error">موارد از فضای ابری Xiaomi بازیابی نشدند. دوباره تلاش کنید.</string>
-    <string name="msg_restore_start_with_metered_network">"صفحه اصلی شما دوباره اجرا خواهد شد. برنامه‌های پشتیبان‌گیری شده به صورت خودکار دانلود خواهند شد. &lt;br /&gt;&lt;b&gt;&lt;font color='red'&gt;%s فایل‌ها دانلود خواهند شد.&lt;/font&gt;&lt;/b&gt;"</string>
+    <string name="msg_restore_start_with_metered_network">"صفحه اصلی شما دوباره اجرا خواهد شد. برنامه‌های پشتیبان‌گیری شده به صورت خودکار دانلود خواهند شد. &lt;br />&lt;b>&lt;font color='red'>%s فایل‌ها دانلود خواهند شد.&lt;/font>&lt;/b>"</string>
     <string name="msg_restore_with_metered_network_hint">در صورتی که اقدام به بازیابی این موارد کنید، از اینترنت همراه برای دانلود کردن استفاده خواهد شد.</string>
-    <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'&gt;&lt;b&gt;%s&lt;/b&gt;&lt;/font&gt; فایل‌ها دانلود خواهند شد."</string>
+    <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> فایل‌ها دانلود خواهند شد."</string>
     <string name="network_error">اتصال به شبکه</string>
     <string name="no_account">وارد حساب Mi نشده‌اید.</string>
     <string name="no_backup">هیچ پشتیبان‌گیری در فضای ابری Xiaomi وجود ندارد.</string>
-    <string name="not_set">تنظیم نشده است</string>
     <string name="notification_channel_remind">یادآور</string>
     <string name="notification_channel_service">خدمات</string>
     <string name="open_backup_switch">کلید وضیعت پشتیبان‌گیری را تغییر دهید</string>
     <string name="other_device_main_space">فضای نخست</string>
     <string name="other_device_second_space">فضای دوم</string>
-    <string name="preference_copied">«%1$s» در بریده‌دان کپی شد.</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
+    <string name="pc_mode_not_support_restore_warning">در حالت رایانه موارد بازیابی نمی‌شوند. حالت رایانه را خاموش کرده و سپس دوباره تلاش کنید.</string>
     <string name="process_whole_recovery">در حال بازیابی «%s»</string>
+    <string name="provision_back">بازگشت</string>
     <string name="provision_background_restore_more_data">بازیابی موارد بیشتر در پس‌زمینه</string>
     <string name="provision_error_connect_msg">شبکه را آزمایش کرده و دوباره تلاش کنید. نسخه‌های پشتیبان هنگامی که دستگاه شما آفلاین باشد در دسترس نیستند.</string>
     <string name="provision_error_connect_title">وصل نمی‌شود</string>
+    <string name="provision_next">بعدی</string>
     <string name="provision_restore_data">درحال بازیابی موارد</string>
-    <string name="provision_restore_item_backup_name_with_size">%1$s %2$s</string>
+    <string name="provision_skip_underline">رد شدن</string>
     <string name="query_restore_description">بازیابی برنامه‌های صفحه اصلی و تنظیمات با استفاده از این نسخه پشتیبان. این کار باعث بازنویسی اطلاعات برنامه‌های تکراری که ازپیش برروی این دستگاه نصب شده بودند می‌شود. برنامه‌هایی که در نسخه پشتیبان نبوده باشند به آخرین صفحه اصلی جابجا خواهند شد.</string>
     <string name="query_restore_summary">یک نسخه پشتیبان فضای ابری Xiaomi برای این دستگاه یافت شد. برنامه‌های صفحه اصلی و تنظیمات بازیابی شوند یا می‌خواهید به عنوان یک دستگاه نو استفاده کرده و نسخه‌های پشتیبان پیشین فضای ابری Xiaomi پاک شوند؟</string>
     <string name="recover_home_settings">بازیابی تنظیمات صفحه اصلی</string>
@@ -222,7 +203,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="restore_app_order_retry_desc">"به شبکه وصل نشد.
 تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید."</string>
     <string name="restore_app_order_search_hint">موارد را برای تنظیم اولیت جستجو کنید</string>
-    <string name="restore_app_order_search_input_high_light">"&lt;font color='#ff0800'&gt;%s&lt;/font&gt;"</string>
     <string name="restore_app_order_search_installed">برنامه‌های این دستگاه</string>
     <string name="restore_app_order_search_normal">برنامه‌های با اولویت عادی</string>
     <string name="restore_app_order_search_prior">برنامه‌های با اولویت بالا</string>
@@ -243,18 +223,17 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="restore_home_failed">صفحه اصلی بازیابی نشد.</string>
     <string name="restore_home_screen_apps">بازیابی از نسخه‌های پشتیبان فضای ابری</string>
     <string name="restore_init_description">آغاز ضبط</string>
-    <string name="restore_network_pause">%s (برای ادامه ضربه بزنید)</string>
+    <string name="restore_network_pause">برای صرفه‌جویی در مصرف باتری مکث شده است. برای ادامه ضربه بزنید.</string>
     <string name="restore_network_unconnect">%s (در انتظار اتصال)</string>
     <string name="restore_task_cancelling">درحال لغو…</string>
     <string name="restore_task_in_process">در حال بازیابی…</string>
     <string name="restore_task_unfinished">بازیابی نشد</string>
     <string name="restore_unfinished">درحال بازیابی. بعداً دوباره تلاش کنید</string>
     <string name="restoring_data">درحال بازیابی داده‌ها…</string>
-    <string name="restoring_file_title_no_progress">درحال بازیابی فایل‌ها…</string>
+    <string name="restoring_file_title_no_progress">درحال بازیابی برنامه‌ها…</string>
     <string name="restoring_home_screen_apps">درحال بازیابی از فضای ابری Xiaomi…</string>
     <string name="restoring_settings">درحال بازیابی تنظیمات…</string>
     <string name="retry">تلاش دوباره</string>
-    <string name="search_menu_title">جستجو</string>
     <string name="selected">انتخاب شده</string>
     <string name="self_device_main_space">فضای نخست این گوشی</string>
     <string name="self_device_second_space">فضای دوم این گوشی</string>
@@ -262,11 +241,9 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="size_unknown">اندازه نامشخص</string>
     <string name="start_backup_to_micloud">پشتیبان‌گیری از برنامه‌ها در فضای ابری Xiaomi</string>
     <string name="start_recover">بازیابی %s</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_unit_gb">%s گیگابایت</string>
     <string name="storage_unit_mb">%s مگابایت</string>
     <string name="success_open_cloudbackup">پشتیبان‌گیری برای برنامه‌های صفحه اصلی روشن شد</string>
-    <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="title_alert_cancel_restore">توقف بازیابی</string>
     <string name="title_alert_restore_error">بازیابی نشد</string>
     <string name="title_restore_with_current_network">استفاده از اتصال کنونی برای دانلود فایل‌ها</string>
@@ -275,7 +252,5 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="try_continue">برای ادامه ضربه بزنید</string>
     <string name="unselected">انتخاب نشده</string>
     <string name="unsupported_home">MIUI را به آخرین نسخه به‌روزرسانی کنید.</string>
-    <string name="v7_preference_off">خاموش</string>
-    <string name="v7_preference_on">روشن</string>
     <string name="wait_icon_download">درحال دانلود آیکون‌های برنامه‌ها</string>
 </resources>

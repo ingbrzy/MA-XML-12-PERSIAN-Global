@@ -4,33 +4,74 @@
         <item>مرد</item>
         <item>زن</item>
     </string-array>
-    <string-array name="passport_alphabet_table">
-        <item>\#</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
-        <item>O</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
+    <string-array name="settings_search_account_and_authority_global">
+        <item>حساب‌ها</item>
+        <item>حساب‌های سوم شخص را اضافه و مدیریت کنید</item>
+        <item>مجوز;حساب;حساب Mi;افزودن;جفت شدن;Xiaomi;مشاهده;SNS;فیس‌بوک;Google</item>
+    </string-array>
+    <string-array name="settings_search_account_and_authority_non_global">
+        <item>حساب‌ها</item>
+        <item>حساب‌های سوم شخص را اضافه و مدیریت کنید</item>
+        <item>مجوز;حساب;حساب Mi;افزودن;جفت شدن;Xiaomi;مشاهده;SNS;WeChat;QQ;Weibo</item>
+    </string-array>
+    <string-array name="settings_search_change_password">
+        <item>تغییر گذرواژه</item>
+        <item>تغییر گذرواژه حساب Mi</item>
+        <item>تغییر;گذرواژه;Xiaomi;حساب Mi;حساب</item>
+    </string-array>
+    <string-array name="settings_search_help_center">
+        <item>راهنمایی</item>
+        <item>از حساب Mi کمک و پشتیبانی دریافت کنید</item>
+        <item>Xiaomi;حساب;حساب Mi;پشتیبانی;مشاهده</item>
+    </string-array>
+    <string-array name="settings_search_login_2_step_verify">
+        <item>تأیید ۲ مرحله‌ای</item>
+        <item>تأیید ۲ مرحله‌ای را برای حساب Mi خود تنظیم کنید</item>
+        <item>ورود به سیستم;ورود به سیستم دو مرحله‌ای;تایید;حساب;حساب Mi;تنظیمات</item>
+    </string-array>
+    <string-array name="settings_search_login_and_security">
+        <item>ورود به سیستم و امنیت</item>
+        <item>شماره تلفن و ایمیل بازیابی، مدیریت گذرواژه</item>
+        <item>حساب;امنیت;ورود به سیستم; Xiaomi;حساب Mi;شماره تلفن;ایمیل;تغییر;رمز عبور;افزودن;جفت شدن</item>
+    </string-array>
+    <string-array name="settings_search_manage_device">
+        <item>دستگاه‌ها</item>
+        <item>مدیریت دستگاه‌های وابسته با حساب Mi خود</item>
+        <item>دستگاه‌;مدیریت;ورود به سیستم;وارد شدن;فهرست دستگاه;حساب Mi;حساب</item>
+    </string-array>
+    <string-array name="settings_search_payment_information">
+        <item>اطلاعات پرداخت</item>
+        <item>مشاهده و مدیریت اطلاعات پرداخت</item>
+        <item>پرداخت;اطلاعات;Xiaomi;حساب Mi;حساب</item>
+    </string-array>
+    <string-array name="settings_search_privacy_policy">
+        <item>سیاست حفظ حریم خصوصی</item>
+        <item>مشاهده سیاست حفظ حریم خصوصی حساب Mi</item>
+        <item>Xiaomi;حساب;حساب Mi;حریم خصوصی;سیاست;مشاهده</item>
+    </string-array>
+    <string-array name="settings_search_security_email_address">
+        <item>ایمیل بازیابی</item>
+        <item>افزودن ایمیل بازیابی</item>
+        <item>امنیت;ایمیل;Xiaomi;حساب;حساب Mi;افزودن;جفت شدن</item>
+    </string-array>
+    <string-array name="settings_search_security_phone_number">
+        <item>شماره بازیابی</item>
+        <item>افزودن شماره بازیابی</item>
+        <item>امنیت;حساب;حساب Mi;تلفن;Xiaomi;شماره تلفن;افزودن;جفت شدن</item>
+    </string-array>
+    <string-array name="settings_search_system_ad">
+        <item>تبلیغات</item>
+        <item>مدیریت آگهی‌های سیستم</item>
+        <item>سیستم;آگهی‌ها;Xiaomi;حساب;حساب Mi;تنظیمات</item>
+    </string-array>
+    <string-array name="settings_search_user_information">
+        <item>اطلاعات حساب</item>
+        <item>عکس نمایه خود را مشاهده کرده و اطلاعات حساب را مدیریت کنید</item>
+        <item>حساب;اطلاعات;شخصی;عکس نمایه;نام;Xiaomi;شناسه;حساب Mi;نمایش;تنظیمات</item>
+    </string-array>
+    <string-array name="settings_search_user_protocol">
+        <item>توافق‌نامه کاربر</item>
+        <item>مشاهده توافقنامه کاربر حساب Mi</item>
+        <item>Xiaomi;حساب;حساب Mi;کاربر;توافقنامه;مشاهده</item>
     </string-array>
 </resources>

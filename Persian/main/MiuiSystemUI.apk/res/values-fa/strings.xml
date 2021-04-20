@@ -100,6 +100,8 @@
     <string name="accessibility_divider">تقسیم‌کننده صفحه</string>
     <string name="accessibility_ethernet_connected">اترنت متصل شد.</string>
     <string name="accessibility_ethernet_disconnected">اترنت قطع شد.</string>
+    <string name="accessibility_face_dialog_face_icon">نماد چهره</string>
+    <string name="accessibility_fingerprint_dialog_fingerprint_icon">نماد اثر انگشت</string>
     <string name="accessibility_gps_acquiring">‏دستیابی به GPS.</string>
     <string name="accessibility_gps_enabled">‏GPS فعال شد.</string>
     <string name="accessibility_home">صفحهٔ اصلی</string>
@@ -322,6 +324,38 @@
     <string name="battery_saver_notification_text">عملکرد و اطلاعات پس‌زمینه را کاهش می‌دهد</string>
     <string name="battery_saver_notification_title">بهینه‌سازی باتری روشن است.</string>
     <string name="battery_saver_start_action">بهینه‌سازی باتری را روشن کنید</string>
+    <string name="biometric_dialog_authenticated">راستی‌آزمایی‌شده</string>
+    <string name="biometric_dialog_confirm">تأیید</string>
+    <string name="biometric_dialog_credential_attempts_before_wipe">دوباره امتحان کنید. تلاش %1$d از %2$d.</string>
+    <string name="biometric_dialog_credential_too_many_attempts">"تلاش‌های نادرست بسیاری انجام شده است.
+پس از %d ثانیه دوباره امتحان کنید."</string>
+    <string name="biometric_dialog_empty_space_description">برای لغو راستی‌آزمایی ضربه بزنید</string>
+    <string name="biometric_dialog_face_icon_description_authenticated">چهره احراز هویت شد</string>
+    <string name="biometric_dialog_face_icon_description_authenticating">درحال جستجوی چهره</string>
+    <string name="biometric_dialog_face_icon_description_confirmed">تأیید شد</string>
+    <string name="biometric_dialog_face_icon_description_idle">لطفاً دوباره امتحان کنید</string>
+    <string name="biometric_dialog_failed_attempts_now_wiping_device">تلاش‌های نادرست بسیار زیادی انجام شده است. داده‌های این دستگاه حذف خواهد شد.</string>
+    <string name="biometric_dialog_failed_attempts_now_wiping_profile">تلاش‌های اشتباه بسیار زیادی انجام شده است. این نمایه کاری و داده‌های آن‌ حذف خواهند شد.</string>
+    <string name="biometric_dialog_failed_attempts_now_wiping_user">تلاش‌های اشتباه بسیار زیادی انجام شده است. این کاربر حذف خواهد شد.</string>
+    <string name="biometric_dialog_last_attempt_before_wipe_dialog_title">داده‌هایتان حذف خواهد شد</string>
+    <string name="biometric_dialog_last_password_attempt_before_wipe_device">اگر در تلاش بعدی‌ گذرواژه نادرستی وارد کنید، داده‌های این دستگاه حذف خواهد شد.</string>
+    <string name="biometric_dialog_last_password_attempt_before_wipe_profile">اگر در تلاش بعدی‌ گذرواژه نادرستی وارد کنید، نمایه کاری شما و داده‌های آن حذف خواهند شد.</string>
+    <string name="biometric_dialog_last_password_attempt_before_wipe_user">اگر در تلاش بعدی گذرواژه نادرستی وارد کنید، این کاربر حذف خواهد شد.</string>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_device">اگر در تلاش بعدی الگوی نادرستی وارد کنید، داده‌های این دستگاه حذف خواهد شد.</string>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_profile">اگر در تلاش بعدی الگوی نادرستی وارد کنید، داده‌های نمایه کاری شما و داده‌های آن حذف خواهد شد.</string>
+    <string name="biometric_dialog_last_pattern_attempt_before_wipe_user">اگر در تلاش بعدی‌ الگوی نادرستی وارد کنید، این کاربر حذف خواهد شد.</string>
+    <string name="biometric_dialog_last_pin_attempt_before_wipe_device">اگر در تلاش بعدی‌ پین نادرستی وارد کنید، داده‌های این دستگاه حذف خواهد شد.</string>
+    <string name="biometric_dialog_last_pin_attempt_before_wipe_profile">اگر در تلاش بعدی‌ پین نادرستی وارد کنید، نمایه کاری شما و داده‌های آن حذف خواهند شد.</string>
+    <string name="biometric_dialog_last_pin_attempt_before_wipe_user">اگر در تلاش بعدی‌ پین نادرستی وارد کنید، این کاربر حذف خواهد شد.</string>
+    <string name="biometric_dialog_now_wiping_dialog_dismiss">رد کردن</string>
+    <string name="biometric_dialog_tap_confirm">برای تکمیل، روی تأیید ضربه بزنید</string>
+    <string name="biometric_dialog_try_again">امتحان مجدد</string>
+    <string name="biometric_dialog_use_password">استفاده از گذرواژه</string>
+    <string name="biometric_dialog_use_pattern">استفاده از الگو</string>
+    <string name="biometric_dialog_use_pin">استفاده از پین</string>
+    <string name="biometric_dialog_wrong_password">گذرواژه اشتباه است</string>
+    <string name="biometric_dialog_wrong_pattern">الگو اشتباه است</string>
+    <string name="biometric_dialog_wrong_pin">پین اشتباه است</string>
     <string name="blob_expires_text">تاریخ انقضا %s</string>
     <string name="blob_id_text">شناسه داده‌های هم‌رسانی‌شده: %d</string>
     <string name="block">مسدود کردن همه اعلان‌ها</string>
@@ -562,7 +596,9 @@
     <string name="experimental">آزمایشی</string>
     <string name="external_source_trusted">مجاز</string>
     <string name="external_source_untrusted">مجاز نیست</string>
+    <string name="face_dialog_looking_for_face">درحال جستجوی شما…</string>
     <string name="failed_to_open_app_settings_toast">تنظیمات %1$s بازنشد</string>
+    <string name="fingerprint_dialog_touch_sensor">حسگر اثر انگشت را لمس کنید</string>
     <string name="fingerprint_not_recognized">شناسایی نشد</string>
     <string name="force_allow_on_external">اجازه اجباری به برنامه‌های دستگاه ذخیره خارجی</string>
     <string name="force_allow_on_external_summary">بدون توجه به مقادیر آشکار، هر برنامه‌ای را برای نوشتن در حافظه خارجی واجد شرایط می‌کند</string>
@@ -695,6 +731,7 @@
     <string name="keyguard_missing_sim_instructions_long">سیم‌کارت موجود نیست یا قابل خواندن نیست. یک سیم‌کارت وارد کنید.</string>
     <string name="keyguard_missing_sim_message">سیم‌کارت درون تلفن نیست.</string>
     <string name="keyguard_missing_sim_message_short">سیم‌کارت موجود نیست</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">شبکه قفل شد</string>
     <string name="keyguard_password_enter_password_code">برای بازکردن قفل، گذرواژه را وارد کنید</string>
     <string name="keyguard_password_enter_pin_code">کد پین را وارد کنید</string>
@@ -710,6 +747,7 @@
     <string name="keyguard_plugged_in">درحال شارژ شدن</string>
     <string name="keyguard_plugged_in_charging_fast">شارژ سریع</string>
     <string name="keyguard_plugged_in_charging_slowly">شارژ آهسته</string>
+    <string name="keyguard_retry">برای امتحان مجدد، انگشتتان را تند به بالا بکشید</string>
     <string name="keyguard_sim_locked_message">سیم‌کارت قفل شد.</string>
     <string name="keyguard_sim_puk_locked_message">‏سیم‌کارت با PUK قفل شده است.</string>
     <string name="keyguard_sim_unlock_progress_dialog_message">درحال باز کردن قفل سیم‌کارت...</string>
@@ -814,12 +852,14 @@
 
 برای اطلاعات بیشتر، با سرپرست سیستم تماس بگیرید."</string>
     <string name="monitoring_description_ca_cert_settings">باز کردن اعتبارنامه مورداعتماد</string>
+    <string name="monitoring_description_ca_cert_settings_separator">" "</string>
     <string name="monitoring_description_ca_certificate">مرجع گواهینامه‌ای در این دستگاه نصب شده است. ممکن است ترافیک امن شبکه شما پایش یا تغییر داده شود.</string>
     <string name="monitoring_description_do_body">سرپرست سیستم شما می‌تواند تنظیمات، دسترسی شرکتی، برنامه‌ها، داده‌های مرتبط با دستگاه و اطلاعات مکان دستگاه شما را مدیریت کند و بر آن‌ها نظارت داشته باشد.</string>
     <string name="monitoring_description_do_body_vpn">به %1$s وصل شده‌اید، که می‌تواند فعالیت شبکه شما را (ازجمله رایانامه‌‌ها، برنامه‌‌ها و وب‌سایت‌ها) کنترل کند.</string>
     <string name="monitoring_description_do_header_generic">%1$s دستگاه شما را مدیریت می‌کند.</string>
     <string name="monitoring_description_do_header_with_name">%1$s با استفاده از %2$s دستگاهتان را مدیریت می‌کند.</string>
     <string name="monitoring_description_do_learn_more">بیشتر بدانید</string>
+    <string name="monitoring_description_do_learn_more_separator">" "</string>
     <string name="monitoring_description_managed_profile_ca_certificate">سازمان شما مرجع گواهینامه‌ای در نمایه کاری شما نصب کرده است. ممکن است ترافیک امن شبکه شما پایش یا تغییر داده شود.</string>
     <string name="monitoring_description_managed_profile_named_vpn">نمایه کاری شما به %1$s متصل است، که می‌تواند فعالیت شما در شبکه (ازجمله رایانامه‌ها، برنامه‌ها و وب‌سایت‌ها) را پایش کند.</string>
     <string name="monitoring_description_management">"دستگاه شما تحت مدیریت سازمان شما است.
@@ -851,6 +891,7 @@
 
 همچنین به VPN متصل هستید که می‌تواند بر فعالیت شبکه شما نظارت داشته باشد."</string>
     <string name="monitoring_description_vpn_settings">‏باز کردن تنظیمات VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">گواهینامه‌های مرکز صدور گواهی</string>
     <string name="monitoring_subtitle_network_logging">گزارش‌گیری از شبکه</string>
     <string name="monitoring_subtitle_vpn">VPN</string>
@@ -991,6 +1032,7 @@
     <string name="private_dns_mode_provider">‏نام میزبان ارائه‌دهنده DNS خصوصی</string>
     <string name="private_dns_mode_provider_failure">متصل نشد</string>
     <string name="private_dns_mode_provider_hostname_hint">‏نام میزبان ارائه‌دهنده DNS خصوصی را وارد کنید</string>
+    <string name="process_kernel_label">‏سیستم عامل Android</string>
     <string name="profile_connect_timeout_subtext">مشکل در اتصال. دستگاه را خاموش و دوباره روشن کنید</string>
     <string name="profile_info_settings_title">اطلاعات نمایه</string>
     <string name="profile_owned_footer">شاید نمایه کنترل شود</string>

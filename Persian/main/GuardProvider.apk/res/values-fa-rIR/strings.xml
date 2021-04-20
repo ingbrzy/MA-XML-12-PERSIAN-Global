@@ -9,8 +9,8 @@
     <string name="Mi">Mi</string>
     <string name="Tencent">Tencent</string>
     <string name="app_name">بخش‌های امنیتی MIUI</string>
-    <string name="avast_dialog_cloudscan"></string>
-    <string name="avast_dialog_dbupdate"></string>
+    <string name="avast_dialog_cloudscan" />
+    <string name="avast_dialog_dbupdate" />
     <string name="avast_dialog_header">این ویژگی شناسه دستگاه شما را رمزگذاری کرده و به سرورهای Avast می‌فرستد (%s).</string>
     <string name="avast_dialog_policy">سیاست حفظ حریم خصوصی</string>
     <string name="avast_dialog_title">سیاست حفظ حریم خصوصی Avast</string>
@@ -29,14 +29,12 @@
     <string name="avast_virus_type_trjan_description">این ویروس یک تروجان است. یک بدافزاری است که برای دسترسی از راه دور غیرمجاز دستگاه کاربر طراحی شده است. تروجان‌ها معمولاْ همانند ویروس‌ها قابلیت تکثیر خود را ندارند؛ اما به هرحال می‌توانند سایر بدافزارها را هدایت کرده تا روی دستگاه شما نصب شده، اطلاعات را دزدیده و یا باعث انجام سایر فعالیت‌های مخرب بشوند.</string>
     <string name="avast_virus_type_unknown_description">نوع ناشناخته‌ای از آلودگی.</string>
     <string name="avast_virus_type_worm_description">این ویروس یک کرم است. یک بدافزار مستقل که خود را تکثیر کرده تا در سایر دستگاه‌ها نیز شیوع پیدا کند. از ویژگی‌های جابجایی فایل‌ها و اطلاعات سیستم شما (مانند شبکه) سواستفاده می‌کند. می‌تواند بدون هیچگونه اقدام انسانی سفر کند. کرم‌ها تقریباْ همیشه حداقل باعث برخی آسیب به شبکه می‌شوند.</string>
-    <string name="avl_dialog_cloudscan"></string>
-    <string name="avl_dialog_dbupdate"></string>
+    <string name="avl_dialog_cloudscan" />
+    <string name="avl_dialog_dbupdate" />
     <string name="avl_dialog_header">این ویژگی شناسه دستگاه شما را رمزگذاری کرده و به سرورهای AVL می‌فرستد (%s).</string>
     <string name="avl_dialog_policy">سیاست حفظ حریم خصوصی</string>
     <string name="avl_dialog_title">سیاست حفظ حریم خصوصی AVL</string>
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
-    <string name="common_ids_permission_label">Avast common ids permission</string>
-    <string name="default_sdcard_volume_path"></string>
     <string name="hello_world">سلام دنیا!</string>
     <string name="menu_settings">تنظیمات</string>
     <string name="tencent_dialog_cloudscan">بارگذاری و اسکن نام‌ها و اطلاعات برنامه‌هایی که از تعاریف ویروس آنلاین استفاده می‌کنند.</string>

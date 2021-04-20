@@ -93,6 +93,11 @@
         <item>Wallpaper/Super wallpapers/Rings of Saturn</item>
         <item>Planet;Saturn;Super wallpaper;Wallpaper</item>
     </string-array>
+    <string-array name="settings_search_snowmountain">
+        <item>قله‌های برفی</item>
+        <item>تصویر زمینه/تصاویر زمینه فوق‌العاده/قله‌های برفی</item>
+        <item>زمین؛کوه‌ها؛تصویر زمینه فوق‌العاده؛تصویر زمینه</item>
+    </string-array>
     <string-array name="settings_search_superwp">
         <item>تصاویر زمینه فوق‌العاده</item>
         <item>تصاویر زمینه/تصاویر زمینه فوق‌العاده</item>

@@ -52,10 +52,6 @@
         <item quantity="other">%1$d روز به عقب</item>
         <item quantity="one">%1$d روز به عقب</item>
     </plurals>
-    <plurals name="folder_terms">
-        <item quantity="other">%1$s folders</item>
-        <item quantity="one">%1$s folder</item>
-    </plurals>
     <plurals name="format_move_notes_out_folder">
         <item quantity="other">%1$s یادداشت از پوشه حذف شد</item>
         <item quantity="one">%1$s یادداشت از پوشه حذف شد</item>
@@ -84,17 +80,29 @@
         <item quantity="other">در %d دقیقه</item>
         <item quantity="one">در ۱ دقیقه</item>
     </plurals>
+    <plurals name="item_terms">
+        <item quantity="other">%1$s مورد</item>
+        <item quantity="one">%1$s مورد</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">هم اکنون</item>
         <item quantity="one">هم اکنون</item>
     </plurals>
-    <plurals name="note_terms">
-        <item quantity="other">%1$s notes</item>
-        <item quantity="one">%1$s note</item>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d مورد انتخاب شد</item>
+        <item quantity="one">%d مورد انتخاب شد</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">۱ دقیقه پیش</item>
+    </plurals>
+    <plurals name="pc_notes_search_result">
+        <item quantity="other">%1$s یادداشت یافت شد</item>
+        <item quantity="one">%1$s یادداشت یافت شد</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">%1$s کار یافت شد</item>
+        <item quantity="one">%1$s کار یافت شد</item>
     </plurals>
     <plurals name="record_last_ten_seconds_reminder">
         <item quantity="other">%d ثانیه مانده</item>
@@ -129,11 +137,11 @@
         <item quantity="one">تا %1$d روز آینده</item>
     </plurals>
     <plurals name="todo_terms">
-        <item quantity="other">%1$s条便签</item>
-        <item quantity="one">%1$s条便签</item>
+        <item quantity="other">%1$s کار</item>
+        <item quantity="one">%1$s کار</item>
     </plurals>
     <plurals name="word_count">
-        <item quantity="other">%d کاراکتر</item>
-        <item quantity="one">%d کاراکتر</item>
+        <item quantity="other">%d نویسه</item>
+        <item quantity="one">%d نویسه</item>
     </plurals>
 </resources>

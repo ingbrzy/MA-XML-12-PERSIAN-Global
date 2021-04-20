@@ -21,36 +21,15 @@
     <string name="Setting_lock">تنظیمات</string>
     <string name="Settings_title_anti_spam">تنظیمات فهرست سیاه</string>
     <string name="Settings_title_anti_virus">تنظیمات اسکن امنیتی</string>
+    <string name="Settings_title_anti_virus_kddi">تنظیمات اسکن امنیتی</string>
     <string name="Settings_title_garbage_cleanup">تنظیمات پاک‌سازی کننده</string>
     <string name="Settings_title_network_assistants">تنظیمات مصرف اینترنت همراه</string>
     <string name="Settings_title_power_center">تنظیمات بهینه‌سازی باتری</string>
-    <string name="abc_action_bar_home_description">پیمایش به صفحه اصلی</string>
-    <string name="abc_action_bar_up_description">رفتن به بالا</string>
-    <string name="abc_action_menu_overflow_description">گزینه‌های بیشتر</string>
-    <string name="abc_action_mode_done">تمام</string>
-    <string name="abc_activity_chooser_view_see_all">دیدن همه</string>
-    <string name="abc_activitychooserview_choose_application">انتخاب برنامه</string>
-    <string name="abc_capital_off">خاموش</string>
-    <string name="abc_capital_on">روشن</string>
-    <string name="abc_menu_alt_shortcut_label">‎Alt+‎</string>
-    <string name="abc_menu_ctrl_shortcut_label">‎Ctrl+‎</string>
-    <string name="abc_menu_delete_shortcut_label">حذف</string>
-    <string name="abc_menu_enter_shortcut_label">enter</string>
-    <string name="abc_menu_function_shortcut_label">‎Function+‎</string>
-    <string name="abc_menu_meta_shortcut_label">‎Meta+‎</string>
-    <string name="abc_menu_shift_shortcut_label">‎Shift+‎</string>
-    <string name="abc_menu_space_shortcut_label">فاصله</string>
-    <string name="abc_menu_sym_shortcut_label">‎Sym+‎</string>
-    <string name="abc_prepend_shortcut_label">منو+</string>
-    <string name="abc_search_hint">جستجو…‏</string>
-    <string name="abc_searchview_description_clear">پاک کردن پُرسمان</string>
-    <string name="abc_searchview_description_query">درخواست جستجو</string>
-    <string name="abc_searchview_description_search">جستجو</string>
-    <string name="abc_searchview_description_submit">ارسال پُرسمان</string>
-    <string name="abc_searchview_description_voice">جستجوی گفتاری</string>
-    <string name="abc_shareactionprovider_share_with">هم‌رسانی با</string>
-    <string name="abc_shareactionprovider_share_with_application">هم‌رسانی با %s</string>
-    <string name="abc_toolbar_collapse_description">کوچک کردن</string>
+    <string name="abnormal_consume_disable_autostart">محدود کردن آغاز خودکار</string>
+    <string name="abnormal_consume_disable_autostart_toast">آغاز خودکار با موفقیت محدود شد</string>
+    <string name="abnormal_consume_set_hidemode">استفاده از بهینه‌ساز باتری با این برنامه</string>
+    <string name="abnormal_consume_type_cpu">مصرف بالای CPU</string>
+    <string name="abnormal_consume_type_wakelock">سیستم نمی‌تواند به خواب برود</string>
     <string name="about_autostart">درباره راه‌اندازی خودکار</string>
     <string name="ac_enter_applock">ورود به قفل برنامه</string>
     <string name="ac_firstUseApplock_subTitle">استفاده از ابزارهای بهتر امنیتی سطح سیستم</string>
@@ -76,7 +55,6 @@
 "</string>
     <string name="access_control_need_to_unlock_nofingerprint">گذرواژه قفل برنامه را وارد کنید</string>
     <string name="accessibility_gameboosterservice_description">روشن کرده تا هنگام بازی کردن تماس‌های ورودی WeChat ساکت شوند</string>
-    <string name="accessibility_service_description"></string>
     <string name="action_button_text_100">بهینه‌سازی</string>
     <string name="action_button_text_60">اصلاح</string>
     <string name="action_button_text_60_80">اصلاح</string>
@@ -85,6 +63,7 @@
     <string name="action_source_sms_title">پیام‌های مسدود شده</string>
     <string name="activity_title_antispam">فهرست سیاه</string>
     <string name="activity_title_antivirus">اسکن امنیتی</string>
+    <string name="activity_title_antivirus_kddi">اسکن امنیتی</string>
     <string name="activity_title_apps_manager">برنامه‌ها</string>
     <string name="activity_title_auto_start_manager">راه‌اندازی خودکار</string>
     <string name="activity_title_create_shortcut">مدیریت میانبرها</string>
@@ -103,6 +82,7 @@
     <string name="activity_title_virus_settings">تنظیمات</string>
     <string name="activity_title_white_list">موارد استثناء</string>
     <string name="ad_btn_default_text">اطلاعات بیشتر</string>
+    <string name="ad_floating_window_title">بستن پنجره‌ی شناور برای قفل گشایی</string>
     <string name="ad_split_screen_title">برای گشودن قفل از تجزیه نمایشگر خارج شوید</string>
     <string name="ad_update_time">آخرین به‌روزرسانی در %s</string>
     <string name="ad_update_time_unKnown">آخرین به‌روزرسانی: نامشخص</string>
@@ -121,7 +101,7 @@
     <string name="add_whitelist">افزودن به استثناها</string>
     <string name="address">نشانی</string>
     <string name="address_choose_hint">%1$s، %2$s، و %3$d مناطق دیگر</string>
-    <string name="adjust_sms_cmd">قالب پیامک یکسان‌سازی</string>
+    <string name="adjust_sms_cmd"><u>قالب پیامک یکسان‌سازی</u></string>
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">بیش از یک ماه پیش به‌روزرسانی شد</string>
     <string name="adjust_traffic_carrier_summary_more_oneweek_before">بیش از یک هفته پیش به‌روزرسانی شد</string>
     <string name="adjust_traffic_carrier_summary_oneweek_before">۱ هفته پیش به‌روزرسانی شد</string>
@@ -130,10 +110,6 @@
     <string name="adjust_traffic_carrier_summary_yesterday">دیروز در ساعت %s به‌روزرسانی شد</string>
     <string name="adjust_traffic_data">تنظیم مصرف اینترنت همراه</string>
     <string name="after_the_lock_screen">برنامه‌های قفل همراه با صفحه</string>
-    <string name="alarm_headsup_bottom">小米手机抢红包就是快</string>
-    <string name="alarm_lock_screen_summary">一大波红包雨在路上...</string>
-    <string name="alarm_lockscreen_btn">开始抢红包</string>
-    <string name="alarm_setting_title">红包闹钟设置</string>
     <string name="alert_back_diving_mode_summary">حالت همه‌جانبه خاموش شود؟</string>
     <string name="alert_back_diving_mode_title">حالت همه‌جانبه</string>
     <string name="alert_back_milink_hangup_tips_content">بازتاباندن هنگام قطع تماس از بین نمی‌رود. برای بیدار کردن صفحه می‌توانید دکمه روشن/خاموش را بزنید.</string>
@@ -166,15 +142,18 @@
     <string name="antivirus_none_engine_dialog_ok">تأیید</string>
     <string name="antivirus_not_wlan">شما به Wi-Fi متصل نیستید. استفاده از اینترنت همراه ممکن است هزینه‌های اضافی در پی داشته باشد. در هر صورت ادامه یابد؟</string>
     <string name="antivirus_privacy_dialog_cloudscan">آپلود نام و جزئیات برنامه‌ها</string>
-    <string name="antivirus_privacy_dialog_cloudscan_description">آپلود و اسکن کردن نام برنامه‌ها و جزئیات آنها با استفاده از تعاریف ویروس آنلاین.</string>
+    <string name="antivirus_privacy_dialog_cloudscan_description">برای شناسایی و خنثی‌سازی بیشتر ویروس‌ها، نام و ویژگی‌های بسته برنامه‌ها را بارگذاری می‌کنیم تا با استفاده از یک موتور ابر اسکن شوند.</string>
     <string name="antivirus_privacy_dialog_ok">تأیید</string>
-    <string name="antivirus_privacy_dialog_summary">این ویژگی شناسه دستگاه شما را رمزگذاری کرده و به سرورهای Avast، AVL و Tencent می‌فرستد (%s).</string>
+    <string name="antivirus_privacy_dialog_summary"><Data>این ویژگی توسط موتور ضد ویروس سوم شخص ارائه شده است. برای آگاهی بیشتر، &lt;a href=\"%1$s\">توافق‌نامه مجوز&lt;/a> ارائه شده توسط سوم شخص را بخوانید.</Data></string>
+    <string name="antivirus_privacy_dialog_summary_kddi"><Data>هنگام انجام اسکن امنیتی، مدل دستگاه و نتایج اسکن شما در سرورهای %1$s بارگذاری شده و بر اساس &lt;a href=\"%2$s\">شرایط و ضوابط&lt;/a> مربوطه مورد استفاده قرار خواهند گرفت.&lt;br/>&lt;br/>پیش از انجام اسکن‌های امنیتی شرایط و ضوابط %3$s را خوانده و بپذیرید.&lt;br/>&lt;br/>چنانچه نپذیرید که داده‌ها در سرورهای %4$s بارگذاری شوند، همچنان می‌توانید از مصادیق ویروس ذخیره شده محلی دستگاه خود استفاده کنید.</Data></string>
     <string name="antivirus_privacy_dialog_summary_link">سیاست حفظ حریم خصوصی</string>
     <string name="antivirus_privacy_dialog_title">سیاست حفظ حریم خصوصی</string>
+    <string name="antivirus_privacy_dialog_title_kddi">شرایط و ضوابط</string>
     <string name="antivirus_sec_network_unavailable">امنیت نمی‌تواند به‌روزرسانی شود، زیرا شما اتصال اینترنت را محدود کرده‌اید. به امنیت دستگاه اجازه اتصال به اینترنت داده شود؟</string>
+    <string name="antivirus_third_privacy_title">سیاست حفظ حریم خصوصی سوم‌شخص</string>
     <string name="antivirus_toast_already_update">به روز</string>
     <string name="antivirus_toast_network_unavailable">به شبکه متصل نشد</string>
-    <string name="antivirus_toast_update_failed">به‌روزرسانی نشد</string>
+    <string name="antivirus_toast_update_failed">سرورهای ما مشغولند. چند دقیقه صبر کرده سپس دوباره تلاش کنید.</string>
     <string name="antivirus_toast_update_success">با موفقیت به‌روز شد</string>
     <string name="antivirus_toast_updating">در حال به‌روزرسانی…</string>
     <string name="antivirus_update_btn_contiue">ادامه</string>
@@ -293,8 +272,8 @@
     <string name="app_behavior_start_from_notification_single">این برنامه توسط یک اعلان اجرا شده بوده است</string>
     <string name="app_behavior_start_from_recent">%1s از صفحه موارد تازه اجرا شده بوده است</string>
     <string name="app_behavior_start_from_recent_single">این برنامه از صفحه موارد تازه اجرا شده بوده است</string>
-    <string name="app_behavior_start_from_widget">%1s was launched by a widget</string>
-    <string name="app_behavior_start_from_widget_single">This app was launched by a widget</string>
+    <string name="app_behavior_start_from_widget">%1s توسط یک ابزارک اجرا شده بوده است</string>
+    <string name="app_behavior_start_from_widget_single">این برنامه توسط یک ابزارک اجرا شده بوده است</string>
     <string name="app_behavior_storage">%1s به فایل‌ها دسترسی یا آن‌ها را ذخیره کرد</string>
     <string name="app_behavior_storage_bg">%1s در پس‌زمینه به فایل‌ها دسترسی یافت یا آن‌ها را ذخیره کرد</string>
     <string name="app_behavior_storage_bg_single">این برنامه در پس‌زمینه به فایل‌ها دسترسی یافت یا آن‌ها را ذخیره کرد</string>
@@ -405,10 +384,10 @@
     <string name="app_manager_reset_app_preferences_button">بازنشانی برنامه‌ها</string>
     <string name="app_manager_reset_app_preferences_desc">"این کار باعث تنظیم دوباره همه تنظیمات برای موارد زیر خواهد شد:
 
-"برنامه‌های غیرفعال"
-"اعلان‌های غیرفعال برنامه‌ها"
-"برنامه‌های پیش‌فرض"
-"محدودیت‌های داده‌های پس‌زمینه برای برنامه‌ها"
+"<li>برنامه‌های غیرفعال</li>"
+"<li>اعلان‌های غیرفعال برنامه‌ها</li>"
+"<li>برنامه‌های پیش‌فرض</li>"
+"<li>محدودیت‌های داده‌های پس‌زمینه برای برنامه‌ها</li>"
 
 شما هیچ داده برنامه‌ای را از دست نخواهید داد."</string>
     <string name="app_manager_reset_app_preferences_title">تنظیمات برنامه دوباره تنظیم شود؟</string>
@@ -458,18 +437,11 @@
     <string name="app_permission_use_neccesary">مجوزهای لازم</string>
     <string name="app_permission_use_no_neccesary">مجوزهای اختیاری</string>
     <string name="app_permission_use_title">مجوزها</string>
-    <string name="app_right">小米公司官方出品</string>
     <string name="app_running_tip_dialog_negative">لغو</string>
     <string name="app_running_tip_dialog_positive">تأیید</string>
     <string name="app_running_tip_dialog_text">با خروج از %1$s از اجرای آن در پس‌زمینه جلوگیری کنید. این کار سرعت دستگاه شما را افزایش داده و مصرف برق آن را نیز کاهش می‌دهد.</string>
     <string name="app_running_tip_dialog_title">خروج از برنامه</string>
     <string name="app_running_tip_uninstall">حذف این برنامه</string>
-    <string name="app_statusbar_audio_now">Recording audio</string>
-    <string name="app_statusbar_camera_now">Taking photos</string>
-    <string name="app_statusbar_location_now">Location</string>
-    <string name="app_summary">"微信/QQ/米聊抢红包神器
-支持个人红包与群红包
-春节红包活动，不错过每一个红包"</string>
     <string name="app_usage_never">هرگز استفاده نشده</string>
     <string name="app_usage_recently">به‌تازگی استفاده شده</string>
     <string name="app_version">نسخه:</string>
@@ -479,9 +451,16 @@
     <string name="application_item_already_permission">مجاز</string>
     <string name="application_item_disable">محدود شده</string>
     <string name="applock_add_account">افزودن</string>
+    <string name="applock_add_account_ignore">اکنون نه</string>
+    <string name="applock_add_account_ignore_with_seconds">اکنون نه (%ds)</string>
     <string name="applock_add_account_info">حساب Mi خود را افزوده تا در صورت فراموشی گذرواژه بتوانید آن را دوباره تنظیم کنید.</string>
     <string name="applock_add_account_setting">حساب و حریم خصوصی</string>
+    <string name="applock_add_account_tips">اگر حساب Mi را فراموش کنید، می‌توانید قفل برنامه خود را بازیابی کنید.</string>
+    <string name="applock_add_account_title">افزودن حساب Mi خود</string>
+    <string name="applock_already_add_account">حساب کنونی: %s</string>
     <string name="applock_app_recommend_lock_title">برنامه‌های زیر را می‌توانید قفل کنید</string>
+    <string name="applock_bind_account_dialog_content">حساب Mi شما تنها راه بازیابی قفل برنامه درصورت فراموش کردن آن است. برای افزودن حساب Mi خود وارد سیستم شوید.</string>
+    <string name="applock_bind_account_dialog_title">افزودن حساب Mi خود</string>
     <string name="applock_bind_account_title">گذرواژه را فراموش کرده‌ام</string>
     <string name="applock_close_dialog_summary">تمام برنامه‌های پنهان آشکار شده، میان‌برهای صفحه اصلی بازگردانده شده و گذرواژه قفل برنامه حذف خواهد شد. قفل برنامه خاموش شود؟</string>
     <string name="applock_close_dialog_title">قفل برنامه خاموش شود؟</string>
@@ -491,6 +470,8 @@
     <string name="applock_function_base_settings">قفل برنامه</string>
     <string name="applock_function_pwd_settings">گذرواژه</string>
     <string name="applock_go_to">تنظیمات</string>
+    <string name="applock_guide_notification_summary">با قفل برنامه از حریم خصوصی خود حفاظت کنید</string>
+    <string name="applock_guide_notification_title">افراد دیگر می‌توانند اطلاعات حساس را روی صفحه شما ببینند</string>
     <string name="applock_guide_open_applock">روشن کردن</string>
     <string name="applock_guide_tip1">چندین نوع گذرواژه وجود دارد. قفل برنامه‌ها را با اثر انگشت، مشخصات چهره و یا وارد کردن گذرواژه خود باز کنید.</string>
     <string name="applock_guide_tip1_global">قفل برنامه‌ها را با اثر انگشت، مشخصات چهره و یا وارد کردن گذرواژه خود باز کنید.</string>
@@ -507,8 +488,18 @@
     <string name="applock_header_text_less_than_half">خیلی کوچک است. کمی بیشتر بکشید.</string>
     <string name="applock_lock_all">قفل همه</string>
     <string name="applock_login_and_add_account">ورود به سیستم و افزودن</string>
-    <string name="applock_not_add_account">اکنون نه</string>
+    <string name="applock_no_account_login">شما به سیستم حساب Mi خود وارد نشده‌اید</string>
+    <string name="applock_not_add_account"><u>اکنون نه</u></string>
     <string name="applock_not_login_account">وارد نشده‌اید</string>
+    <string name="applock_operate_faceunlock_summary">باز کردن قفل برنامه با استفاده از نگاه کردن به صفحه</string>
+    <string name="applock_operate_faceunlock_title">استفاده از مشخصات چهره</string>
+    <string name="applock_operate_fingerprint_summary">قفل برنامه از افزودن چندین اثر انگشت پشتیبانی می‌کند</string>
+    <string name="applock_operate_fingerprint_title">از اثر انگشت خود استفاده کنید</string>
+    <string name="applock_operate_hidenoti_summary">قفل برنامه می‌تواند این کار را برای برنامه‌های محافظت شده انجام دهد</string>
+    <string name="applock_operate_hidenoti_title">می‌خواهید اعلان های حساس را پنهان کنید؟</string>
+    <string name="applock_recommend_tips">%s کاربر از این برنامه‌ها محافظت می‌کنند</string>
+    <string name="applock_recommend_title">انتخاب برنامه‌ها</string>
+    <string name="applock_set_complete">استفاده از قفل برنامه</string>
     <string name="applock_set_password_title">تغییر نوع گذرواژه</string>
     <string name="applock_settings_unlock_all_toast">گشودن قفل همه برنامه‌ها</string>
     <string name="applock_toast_tip">قفل برنامه با موفقیت تأیید شد</string>
@@ -616,7 +607,7 @@
     <string name="banner_optimizemanage_summary">آزادسازی حافظه</string>
     <string name="banner_red_money_assist_button">روشن کردن</string>
     <string name="banner_red_money_assist_summary">پاکت‌های سرخ را سریع‌تر باز کنید</string>
-    <string name="battery_and_property">باتری و کارایی</string>
+    <string name="battery_and_property">باتری</string>
     <string name="battery_can_use_time">%s مانده</string>
     <string name="battery_capacity_title">ظرفیت باتری</string>
     <string name="battery_charge_estimating">درحال محاسبه</string>
@@ -663,10 +654,6 @@
     <string name="battery_temperature_title">دما</string>
     <string name="begin_date">تاریخ بازنشانی مصرف</string>
     <string name="best_booster_status">سرعت بازی کردن درحال حاضر در عالی‌ترین سطح ممکن است.</string>
-    <string name="best_warning_dialog_button">我知道了</string>
-    <string name="best_warning_dialog_message">"温馨提示：使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～"</string>
-    <string name="best_warning_dialog_message1">"使用小米红包助手后，会提升您抢红包的速度。但如果您手太快，姿势太迅猛，每次都率先抢到红包，&lt;font color='#e56255'&gt;有一定几率会被微信误认为使用了自动抢红包插件&lt;/font&gt;，影响您后面使用红包功能。所以，有时候，高抬贵手略控制节奏，抢红包风味更佳。红包虽好，可不要贪多哟～～"</string>
-    <string name="best_warning_dialog_title">温馨提示</string>
     <string name="bg_network_exception_title">اتصال پس‌زمینه محدود شد</string>
     <string name="bill_limit_notification_text_format">کارت: %1$s | موجودی: %2$s CNY</string>
     <string name="bill_limit_notification_title">موجودی ناکافی</string>
@@ -681,8 +668,8 @@
     <string name="bl_no_block_call">تماس مسدود شده‌ای وجود ندارد.</string>
     <string name="bl_no_block_sms">هیچ پیام مسدود شده‌ای نیست.</string>
     <string name="blacklist_prefix_add_hint">مسدود کردن تمام شماره‌هایی که با این پیشوند آغاز می‌شوند</string>
-    <string name="block_message_number">پیام: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
-    <string name="block_phone_number">تماس: &lt;font color=#5fab1b&gt;%d&lt;/font&gt;</string>
+    <string name="block_message_number">پیام: &lt;font color=#5fab1b>%d&lt;/font></string>
+    <string name="block_phone_number">تماس: &lt;font color=#5fab1b>%d&lt;/font></string>
     <string name="boost_done">با موفقیت افزایش یافت</string>
     <string name="boost_stop">خاموش کردن افزایش سرعت</string>
     <string name="booster_immediately">افزایش</string>
@@ -693,6 +680,7 @@
     <string name="boot_time">در %1$s روشن شود</string>
     <string name="boot_time_day">در %1$d روز در %2$s روشن شود</string>
     <string name="boot_time_day_tomorrow">فردا %1$s روشن شود</string>
+    <string name="bottom_func_guide_default_text">سایر ویژگی‌ها</string>
     <string name="btn_back">بازگشت</string>
     <string name="btn_finish_diagnostic">تأیید</string>
     <string name="btn_start_diagnostic">آزمایش شبکه</string>
@@ -710,8 +698,6 @@
     <string name="btn_text_quick_save_power">خنک کردن</string>
     <string name="btn_text_quick_scan">اسکن</string>
     <string name="btn_text_stop">توقف</string>
-    <string name="business_have_hongbao">来自%1$s的一个红包</string>
-    <string name="business_lucky_warning">企业红包</string>
     <string name="button_background_connection">اجازه دادن</string>
     <string name="button_block_calls_from_cantacts">رفع انسداد</string>
     <string name="button_block_calls_from_strangers">رفع انسداد</string>
@@ -762,19 +748,16 @@
     <string name="card_main_applock_summary">از برنامه‌های انتخاب شده با گذرواژه محافظت کنید.</string>
     <string name="card_main_applock_title">قفل برنامه</string>
     <string name="card_main_deepclean_action">پاک‌سازی</string>
-    <string name="card_main_deepclean_facebook_title">Facebook cleaner</string>
     <string name="card_main_deepclean_qq_title">پاکسازی کننده QQ</string>
     <string name="card_main_deepclean_summary">حذف فایل‌های غیرضروری</string>
     <string name="card_main_deepclean_title">پاک‌سازی عمیق</string>
     <string name="card_main_deepclean_wechat_action">پاک‌سازی</string>
     <string name="card_main_deepclean_wechat_summary">حافظه پنهان WeChat را پاک کرده تا فضای بیشتری آزاد شود</string>
     <string name="card_main_deepclean_wechat_title">حافظه پنهان WeChat</string>
-    <string name="card_main_deepclean_whatsapp_title">WhatsApp cleaner</string>
     <string name="card_main_gamebooster_summary">ثبات اتصال را برای بازی‌ها افزایش می‌دهد</string>
     <string name="card_main_gamebooster_title">افزاینده سرعت بازی</string>
     <string name="card_main_hbassistant_summary">از این ابزار استفاده کنید تا عیدی‌ها را سریع‌تر بگیرید</string>
     <string name="card_main_hbassistant_title">دستیار عیدی</string>
-    <string name="card_main_hwtest_title">Hardware test</string>
     <string name="card_main_monthreport_action">مشاهده</string>
     <string name="card_main_netcheck_action">آزمایش</string>
     <string name="card_main_netcheck_summary">آزمایش اتصال برای اشکالات شبکه</string>
@@ -787,31 +770,41 @@
     <string name="card_main_private_space_summary">استفاده از فضای دوم مانند داشتن ۲ دستگاه است</string>
     <string name="card_main_private_space_title">فضای دوم</string>
     <string name="card_main_sectool_title">ابزار</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">ایجاد</string>
     <string name="card_main_xspace_summary">ایجاد حساب دوگانه برای هر برنامه‌ای</string>
     <string name="card_main_xspace_title">برنامه‌های همزاد</string>
     <string name="card_tc_failed">درجه‌بندی نشد</string>
     <string name="cd_back">بازگشت</string>
-    <string name="celcius_symbol">℃</string>
+    <string name="charger_detect_button_ok">فهمیدم</string>
+    <string name="charger_detect_info1">بررسی کنید آیا آداپتور برق و کابل به درستی وصل شده‌اند.</string>
+    <string name="charger_detect_info2">اگر از آداپتورها و کابل‌های برق غیر استاندارد یا قدیمی استفاده می‌کنید، ممکن است شارژ نیز کند انجام شود.</string>
+    <string name="charger_detect_no_remind">دوباره نمایش داده نشود</string>
+    <string name="charger_detect_title">شارژ شدن کند انجام می‌شود</string>
     <string name="charging_text_battery_full_time">"آخرین شارژ "</string>
     <string name="charging_text_battery_nearly_full">تقریباً کامل شارژ شده است</string>
     <string name="charging_text_battery_perfect">کاملا شارژ شده است</string>
     <string name="choose">انتخاب</string>
     <string name="choose_gs_show_way">انتخاب جهت صفحه اصلی</string>
     <string name="clean_immediately">پاک‌سازی</string>
+    <string name="clean_master_icon_recall_button_text">افزودن</string>
+    <string name="clean_master_icon_recall_dialog_button_negative">خیر، سپاسگزارم</string>
+    <string name="clean_master_icon_recall_dialog_button_positive">افزودن</string>
+    <string name="clean_master_icon_recall_dialog_summary">افزودن میان‌بر صفحه اصلی برای پاک‌سازی زباله‌ها در هر زمانی که نیاز دارید.</string>
+    <string name="clean_master_icon_recall_dialog_title">پاک‌سازی سریع‌تر زباله‌ها</string>
+    <string name="clean_master_icon_recall_hint">افزودن میان‌بر صفحه اصلی</string>
+    <string name="clean_master_icon_recall_summary">افزودن میان‌بر صفحه اصلی برای پاک‌سازی زباله‌ها در هر زمانی که نیاز دارید.</string>
+    <string name="clean_master_icon_recall_title">پاک‌سازی سریع‌تر زباله‌ها</string>
+    <string name="clean_master_icon_recall_toast_text">میان‌بر صفحه اصلی برای پاکسازی کننده با موفقیت افزوده شد</string>
     <string name="cleaned">پاک‌سازی شد</string>
     <string name="clear_garbage">زباله‌ها را پاک کرده تا فضا باز شود</string>
     <string name="clear_immediately">اکنون پاک شود</string>
     <string name="close">بستن</string>
     <string name="close_callwait">غیرفعال</string>
-    <string name="close_lucky_money_dialog_ok">确认关闭</string>
-    <string name="close_lucky_money_dialog_summary">确定关闭红包助手？关闭后将无法收到红包助手为您发来的红包特别提醒，可能会导致您错过红包。如您想关闭悬浮窗，可在更多设置进行关闭。</string>
-    <string name="close_lucky_money_dialog_title">关闭红包助手</string>
     <string name="cmcc_app_check_dialog_message">جهت اتمام تعمیر دستگاه خود را دوباره راه‌اندازی کنید.</string>
     <string name="cmcc_app_check_dialog_negative">بعداً</string>
     <string name="cmcc_app_check_dialog_positive">راه‌اندازی دوباره</string>
     <string name="cmcc_app_check_dialog_title">سیستم تعمیر شد</string>
-    <string name="cmd_lucky_float">摇一摇</string>
     <string name="confirmSecondSpacePassword">گذرواژه فضای دوم را تأیید کنید</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">درحال افزودن حساب Mi</string>
     <string name="confirm_fingerprint_msg">اثر انگشت خود را تأیید کنید</string>
@@ -824,13 +817,11 @@
     <string name="continue_install">نصب</string>
     <string name="convenient_mode">باز کردن قفل همه برنامه‌ها به صورت یکجا</string>
     <string name="convenient_summary">گذرواژه را یک بار وارد کرده تا قفل همه برنامه‌ها را باز کنید</string>
-    <string name="copy">کپی</string>
     <string name="cpu_usage_android_system">سیستم اندروید</string>
     <string name="cpu_usage_process_run_time_little_time">کمتر از ۱ دقیقه</string>
     <string name="cpu_usage_view_action_btn_text">برای مشاهده ضربه بزنید</string>
     <string name="create_gamebooster_destop">میان‌بر صفحه اصلی با موفقیت ایجاد شد</string>
     <string name="create_shortcut">یک میانبر صفحه اصلی برای افزاینده سرعت بازی ایجاد کنید</string>
-    <string name="create_table_thirddesktop">CREATE TABLE THIRD_DESKTOP( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, application_name TEXT NOT NULL, type INTEGER NOT NULL );</string>
     <string name="cta_HIPS_Perm_Location_Desc">برای نمایش هشدارهای نخستین زلزله مربوط به موقعیت شما</string>
     <string name="cta_agree_desc">برای امکان استفاده از خدمات ما، به این برنامه اجازه اتصال به اینترنت را داده و مجوزهای فهرست شده در بالا را بدهید.</string>
     <string name="cta_close_dialog_cancel">لغو</string>
@@ -899,7 +890,6 @@
     <string name="delete_from_manual_item_white_list">حذف از موارد استثنا</string>
     <string name="delete_input">حذف</string>
     <string name="deleted_apps">برنامه‌های حذف شده</string>
-    <string name="demo_number">241</string>
     <string name="descx_quick_scan_cancel">اسکن لغو شد</string>
     <string name="descx_quick_scan_preparation">چند لحظه صبر کنید…</string>
     <string name="detail_app_button">اطلاعات برنامه</string>
@@ -912,12 +902,9 @@
     <string name="dialog_app_roaming_title">%1$s نمی‌تواند از رومینگ اینترنت همراه استفاده کند</string>
     <string name="dialog_change_package_type_summary">تغییر نوع طرح اینترنت هرماه تمام تنظیمات مصرف اینترنت همراه (مانند سقف اینترنت همراه) را به مقادیر پیش‌فرضشان بازنشانی می‌کند. نوع طرح اینترنت همراه تغییر یابد؟</string>
     <string name="dialog_change_package_type_title">تغییر نوع طرح اینترنت همراه</string>
-    <string name="dialog_msg_auto_start_declare">ممکن است برخی از برنامه‌ها به اشتباه اعلام کنند که MIUI از راه‌اندازی آنها جلوگیری کرده است. مجوزهای داده شده به هر یک از برنامه‌ها را در تنظیمات &gt; برنامه‌ها بررسی کنید.</string>
+    <string name="dialog_msg_auto_start_declare">ممکن است برخی از برنامه‌ها به اشتباه اعلام کنند که MIUI از راه‌اندازی آنها جلوگیری کرده است. مجوزهای داده شده به هر یک از برنامه‌ها را در تنظیمات > برنامه‌ها بررسی کنید.</string>
     <string name="dialog_msg_stop_virus_scan">اسکن امنیتی پیش از پایان متوقف شود؟</string>
     <string name="dialog_no_longer_alert">دوباره نمایش داده نشود</string>
-    <string name="dialog_remobe_luckymoney_cancle">使用单发版</string>
-    <string name="dialog_remobe_luckymoney_ok">前往开启</string>
-    <string name="dialog_remove_luckymoney">当前MIUI版本已支持系统级红包助手，是否卸载单发版，并前往手机管家开启更快更稳定的小米红包助手？</string>
     <string name="dialog_restrict_all_mobile_summary">اتصال اینترنت همراه %s پس از این برای همه برنامه‌ها محدود خواهد شد.</string>
     <string name="dialog_restrict_all_mobile_title">محدود کردن اتصال اینترنت همراه %s</string>
     <string name="dialog_restrict_all_wlan_summary">اتصال Wi-Fi پس از این برای همه برنامه‌ها محدود خواهد شد.</string>
@@ -957,13 +944,17 @@
     <string name="dlg_import_blacklist">در حال افزودن…</string>
     <string name="dlg_import_whitelist">در حال افزودن…</string>
     <string name="dlg_keyword_ok">ذخیره</string>
-    <string name="dlg_message_not_open_stranger_identify">برای فعال کردن این قابلیت، به تنظیمات &gt; تلفن بروید.</string>
+    <string name="dlg_message_not_open_stranger_identify">برای فعال کردن این قابلیت، به تنظیمات > تلفن بروید.</string>
     <string name="dlg_move_to_white">افزودن به موارد استثنا</string>
     <string name="dlg_no_block">"انسداد این شماره تلفن لغو شود؟
 به موارد استثنا افزوده خواهد شد. اما مواردی که پیش‌تر مسدود شده بودند در تاریخچه تماس نشان داده نخواهند شد."</string>
     <string name="dlg_no_block_ok">لغو انسداد</string>
     <string name="dlg_not_block_call">انسداد شماره‌های انتخاب شده لغو شود؟ آن‌ها به موارد استثنا افزوده خواهند شد. ولی موارد مسدود شده پیشین در تاریخچه تماس نشان داده نخواهند شد.</string>
     <string name="dlg_not_block_sms">انسداد شماره‌های انتخاب شده لغو شود؟ آن‌ها به موارد استثنا افزوده خواهند شد. ولی موارد مسدود شده پیشین در صندق ورودی پیام‌ها نشان داده نخواهند شد.</string>
+    <string name="dlg_onlie_service_summary">خاموش کردن خدمات آنلاین دسترسی به برخی ویژگی‌ها را غیر ممکن می‌سازد. در هر صورت خاموش شود؟</string>
+    <string name="dlg_open_online_service_pos_text">روشن کردن</string>
+    <string name="dlg_open_online_service_summary">در صورت خاموش بودن خدمات آنلاین، برخی از ویژگی‌ها در دسترس نخواهند بود. اکنون خدمات آنلاین روشن شوند؟</string>
+    <string name="dlg_open_online_service_title">خدمات آنلاین</string>
     <string name="dlg_remove_address_blacklist">این منطقه از فهرست سیاه خارج شود؟</string>
     <string name="dlg_remove_address_whitelist">این موقعیت از فهرست موارد استثنا خارج شود؟</string>
     <string name="dlg_remove_blacklist">این شماره‌ها از فهرست سیاه پاک شوند؟</string>
@@ -988,9 +979,6 @@
     <string name="dlg_white_address_antispam_message">این منطقه به موارد استثنا افزوده شود؟</string>
     <string name="dlg_white_antispam_hint">موارد استثناء</string>
     <string name="dlg_white_antispam_message">این شماره به موارد استثنا افزوده شود؟</string>
-    <string name="dnd_mode_type">勿扰方式</string>
-    <string name="dnd_no_everything">不进行提醒</string>
-    <string name="dnd_no_sound">仅屏蔽声音</string>
     <string name="dns_exception_summary">بررسی تنظیمات DNS روتر</string>
     <string name="dns_exception_title">بررسی تنظیمات DNS</string>
     <string name="do_clean">درحال پاک کردن…</string>
@@ -1002,8 +990,8 @@
     <string name="doze_optimization_title">کنترل‌های لمسی بهینه شده</string>
     <string name="dual_setting_simcard1">سیم‌کارت ۱</string>
     <string name="dual_setting_simcard2">سیم‌کارت ۲</string>
+    <string name="ellipsis">…</string>
     <string name="email">ایمیل</string>
-    <string name="empty_activity_title">" "</string>
     <string name="empty_app">بدون برنامه</string>
     <string name="empty_title_auto_start_list">هیچ برنامه‌ای نمی‌تواند راه‌اندازی خودکار شود.</string>
     <string name="empty_title_garbage_virus_white_list">نتایج را در فهرست نگه داشته تا در اسکن بعدی رد شوند</string>
@@ -1014,117 +1002,7 @@
     <string name="empty_title_root_apps">هیچ برنامه‌ای دسترسی ریشه‌ای ندارد.</string>
     <string name="enable_extreme_power_save_mode">بهینه‌ساز بی‌نهایت باتری</string>
     <string name="enable_network">ابتدا شبکه را روشن کنید</string>
-    <string name="enter">进入</string>
     <string name="every_day">هرروز</string>
-    <string name="ew_alert_arrive_location">Seismic wave arrived in %s</string>
-    <string name="ew_alert_dial_text">"Call emergency
-contact"</string>
-    <string name="ew_alert_earthquake_center_title">Epicenter</string>
-    <string name="ew_alert_earthquake_distance">"You're %s km away from the epicenter"</string>
-    <string name="ew_alert_earthquake_feel_little">Slight shaking</string>
-    <string name="ew_alert_earthquake_feel_max">Severe</string>
-    <string name="ew_alert_earthquake_feel_middle">Strong</string>
-    <string name="ew_alert_earthquake_feel_none">Not sensible</string>
-    <string name="ew_alert_earthquake_feel_normal">Moderate</string>
-    <string name="ew_alert_earthquake_feel_title">Estimated intensity</string>
-    <string name="ew_alert_earthquake_level_title">Estimated magnitude</string>
-    <string name="ew_alert_emergency_text">"Show
-medical card"</string>
-    <string name="ew_alert_help_earthquake_title">Seismic wave arrived</string>
-    <string name="ew_alert_help_place_navigation">Navigate</string>
-    <string name="ew_alert_help_place_text">If necessary, go to the nearest shelter to ensure safety and get the necessary assistance.</string>
-    <string name="ew_alert_help_place_title">Nearby shelter</string>
-    <string name="ew_alert_help_safe_title">Avoid danger</string>
-    <string name="ew_alert_help_tips">"Keep calm and stay alert. Stay away from hanging objects, don't take the elevator. Find a safe space, drop, cover, and hold on."</string>
-    <string name="ew_alert_no_contact">Set an emergency contact in Security &gt; Earthquake warning first</string>
-    <string name="ew_alert_no_emergency">Add your medical data in Security &gt; Earthquake warning</string>
-    <string name="ew_alert_text_from">Data provided by %s</string>
-    <string name="ew_app_name">Earthquake warning</string>
-    <string name="ew_app_name_exercise">Earthquake warning (Demo)</string>
-    <string name="ew_app_name_test">Earthquake warning (Beta)</string>
-    <string name="ew_app_name_test_run">Earthquake warning (Trial)</string>
-    <string name="ew_arrive_text_tips">Seismic wave arrived: %s</string>
-    <string name="ew_button_confirm">Agree</string>
-    <string name="ew_button_exit">"Don't agree"</string>
-    <string name="ew_china_version_first_start_network_msg">&lt;Data&gt;"This feature provides you with earthquake warning functionality. It will notify you about upcoming earthquakes and play warning sound. You'll be able to find the nearest shelter, call your emergency contact, and present your medical card if required. &amp;lt;br&amp;gt;We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies. &amp;lt;br&amp;gt;To be able to work normally, this feature requires the following permissions in order to collect your personal information: &amp;lt;br&amp;gt;&amp;#8226; Location info: &amp;lt;br&amp;gt;For accessing your location and providing accurate earthquake warnings. &amp;lt;br&amp;gt;If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use this feature. You can choose to turn this feature off or not turn it on in such cases. &amp;lt;br&amp;gt;You must read and agree to our &amp;lt;a href=\"http://api.sec.miui.com/res/docs/disclaimer/privacy/earthquake_alert?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Privacy Policy&amp;lt;/a&amp;gt; before using this feature."&lt;/Data&gt;</string>
-    <string name="ew_close">Turn off alert</string>
-    <string name="ew_emergency_allergy">Allergies</string>
-    <string name="ew_emergency_basic_info">Basic info</string>
-    <string name="ew_emergency_birthday">Date of birth</string>
-    <string name="ew_emergency_blood_type">Blood type</string>
-    <string name="ew_emergency_choose">Select</string>
-    <string name="ew_emergency_delete_all">Delete all medical info</string>
-    <string name="ew_emergency_delete_text">Delete all medical info now?</string>
-    <string name="ew_emergency_delete_title">Delete</string>
-    <string name="ew_emergency_detail_info">Details</string>
-    <string name="ew_emergency_edit_text">Edit</string>
-    <string name="ew_emergency_edit_title">Medical card</string>
-    <string name="ew_emergency_idcard">ID</string>
-    <string name="ew_emergency_input">Enter</string>
-    <string name="ew_emergency_input_allergy">List your allergies</string>
-    <string name="ew_emergency_input_medical">List your conditions and treatments</string>
-    <string name="ew_emergency_input_medicine">"List the medicines you've been taking"</string>
-    <string name="ew_emergency_medical">Medical conditions</string>
-    <string name="ew_emergency_medicine">Active medication</string>
-    <string name="ew_emergency_name">Name</string>
-    <string name="ew_emergency_organ_donation">Are you an organ donation volunteer?</string>
-    <string name="ew_emergency_privacy">"Privacy statement: The info you provide here will only be used for emergency cases and stored on your device. We won't upload this info to our servers."</string>
-    <string name="ew_emergency_recent_medicine">Recent active medication</string>
-    <string name="ew_emergency_title">Medical card</string>
-    <string name="ew_first_start_network_title">Terms and conditions</string>
-    <string name="ew_guide_law_agree">Agree</string>
-    <string name="ew_guide_law_done">Got it</string>
-    <string name="ew_guide_law_exit">"Don't agree"</string>
-    <string name="ew_guide_law_text">"This feature provides you with earthquake warning functionality. You must understand that the earthquake warning information is provided by a third party early warning agency. Xiaomi doesn't oversee third party agencies and doesn't have any control over them. Xiaomi doesn't promise or guarantee the accuracy, validity, and timeliness of earthquake warning information, nor does it guarantee that the earthquake warning service will meet all your needs. You must understand that this feature is provided for your reference only. You are solely responsible for the risks and consequences of any actions you perform based on the information provided by this feature."</string>
-    <string name="ew_guide_law_title">Disclaimer</string>
-    <string name="ew_guide_next_text">Next</string>
-    <string name="ew_guide_play_audio">Play warning sound</string>
-    <string name="ew_guide_play_audio_last">Play warning sound (%ds)</string>
-    <string name="ew_guide_statement_text">&lt;Data&gt;"This disclaimer applies to all users (hereinafter referred to as you) who turn on the earthquake warning feature. By agreeing to this disclaimer, you enter into a legally binding contract with Xiaomi Inc. and its affiliates (hereinafter referred to as Xiaomi). You acknowledge that you have read all the contents of this disclaimer, and you fully understand and agree to all the terms and conditions of this disclaimer; otherwise, you should turn off the earthquake warning feature immediately.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Special statement&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; The earthquake warning functionality is available in selected regions now (&amp;lt;a href=\"https://sec-cdn.static.xiaomi.net/secStatic/groups/miui-sec/common/quake-warn/dist/index.html?region=%1$s&amp;amp;lang=%2$s\"&amp;gt;Tap to view&amp;lt;/a&amp;gt;). More regions will be available soon.&amp;lt;br&amp;gt; &amp;lt;b&amp;gt;Disclaimer&amp;lt;/b&amp;gt;&amp;lt;br&amp;gt; Earthquake warning features are provided by Xiaomi in the Security app. You must understand that the earthquake warning information is provided by the government early warning agencies. Xiaomi doesn't oversee such agencies and doesn't have any control over them.&amp;lt;br&amp;gt; Xiaomi doesn't promise or guarantee the accuracy, validity, and timeliness of earthquake warning information, nor does it guarantee that the earthquake warning service will meet all your needs.&amp;lt;br&amp;gt; Receiving earthquake warning information requires you to keep your device connected to the mobile network. Third party communication line failures, technical problems, network or terminal equipment failures, system instability, and other various force majeure events might prevent you from receiving earthquake warning information. Xiaomi shall not bear any responsibility for any losses caused by such events.&amp;lt;br&amp;gt; You must understand that this feature is provided for your reference only. The warning you receive might come seconds before the onset of an earthquake. You are solely responsible for the risks and consequences of any actions you perform based on the information provided by this feature.&amp;lt;br&amp;gt;"&lt;/Data&gt;</string>
-    <string name="ew_guide_tips_1">"You'll be notified about upcoming earthquakes and hear warning sound"</string>
-    <string name="ew_guide_tips_2">Information and warning sound will be updated during the earthquake</string>
-    <string name="ew_guide_tips_3">"You'll be able to find the nearest shelter, call your emergency contact, and present your medical card if required"</string>
-    <string name="ew_guide_title">View demo</string>
-    <string name="ew_list_all">All</string>
-    <string name="ew_list_empty_text">No warnings here yet</string>
-    <string name="ew_list_not_receive_tips">*Epicenter is far from you. You might not sense the earthquake.</string>
-    <string name="ew_list_receive">Received</string>
-    <string name="ew_list_receive_distance">Epicenter is %s km away from you</string>
-    <string name="ew_list_receive_time">Start time: %s</string>
-    <string name="ew_list_receive_time_title">Start time</string>
-    <string name="ew_list_title">Warnings</string>
-    <string name="ew_main_close_text">"You won't be able to receive up-to-date info about this earthquake if you turn off the alert. Turn off anyway?"</string>
-    <string name="ew_main_close_title">Attention</string>
-    <string name="ew_main_contact_change">Change</string>
-    <string name="ew_main_contact_change_dialog_content">"You can change or delete your emergency contact. You won't be able to use your emergency contact if you delete it."</string>
-    <string name="ew_main_contact_change_dialog_title">Change emergency contact</string>
-    <string name="ew_main_contact_delete">Delete</string>
-    <string name="ew_main_contact_summary">Added: %s</string>
-    <string name="ew_main_contact_tips">Contact this person during emergencies</string>
-    <string name="ew_main_contact_title">Emergency contact</string>
-    <string name="ew_main_detail_title">Settings</string>
-    <string name="ew_main_emergency_tips">Record your basic medical info to always have it at hand</string>
-    <string name="ew_main_emergency_title">Medical card</string>
-    <string name="ew_main_open_tips">"This feature will notify you about upcoming earthquakes and play warning sound. You'll also be provided with the information about emergency services after the emergency countdown stops."</string>
-    <string name="ew_main_open_title">Receive alerts and get help</string>
-    <string name="ew_main_place_tips">Learn where the nearest emergency shelter is whenever you need one</string>
-    <string name="ew_main_place_title">Emergency shelters nearby</string>
-    <string name="ew_main_setting_show_desc">Demo</string>
-    <string name="ew_main_setting_warning_desc">Learn more</string>
-    <string name="ew_main_settings">Settings</string>
-    <string name="ew_main_warning_list">View warnings</string>
-    <string name="ew_main_warning_list_tips">View</string>
-    <string name="ew_main_warning_list_title">Warning history</string>
-    <string name="ew_push_message">Estimated intensity: %s. Expect slight shaking near you.</string>
-    <string name="ew_push_title">Earthquake warning for %s</string>
-    <string name="ew_safe_place_no_maps_tips">"Can't search now. Install Baidu Maps or Amap first."</string>
-    <string name="ew_setting_desc_message">"The system estimates earthquake intensity based on the magnitude of the earthquake, the location of the epicenter, and the distance from you. The greater the intensity of the earthquake, the more devastation the earthquake might bring to your location. When the estimated intensity is greater than 2.0, you'll receive a strong earthquake warning; when the estimated intensity is lower than 2.0, you can choose to receive system notifications."</string>
-    <string name="ew_setting_desc_title">About estimated intensity</string>
-    <string name="ew_setting_more_title">Learn more about earthquake warnings</string>
-    <string name="ew_setting_normal_push_message">For earthquakes with intensity lower than 2.0</string>
-    <string name="ew_setting_normal_push_title">Receive system notifications</string>
-    <string name="ew_setting_strong_push_message">For earthquakes with intensity of 2.0 and higher</string>
-    <string name="ew_setting_strong_push_title">Warn about strong earthquakes (On by default)</string>
     <string name="examination_score_100">همه‌چیز خوب به‌نظر می‌رسد!</string>
     <string name="examination_score_60_0">اکنون اسکن شود</string>
     <string name="examination_score_80_100">چند مورد را می‌توان بهینه‌سازی کرد</string>
@@ -1135,47 +1013,20 @@ medical card"</string>
     <string name="exception_notify_message">به دلیل یک خطا آمار اینترنت همراه محاسبه نشد. دوباره راه‌اندازی کرده تا بازیابی شود.</string>
     <string name="exception_titile">خطایی رخ داد</string>
     <string name="exit">خروج</string>
+    <string name="exit_dialog_exit">خروج</string>
     <string name="exit_dialog_garbage_clean_message">مقدار زباله دستگاه شما بیش از %s است. زباله‌ها پاک‌سازی شوند؟</string>
+    <string name="exit_dialog_garbage_clean_message_new"><Data>پاک‌سازی کننده می‌تواند آزاد شود&lt;font color=#0099ff>%s&lt;/font> از فضای ذخیره‌سازی اکنون پاک شود؟</Data></string>
     <string name="exit_dialog_garbage_clean_positive_button">پاک‌سازی</string>
-    <string name="exit_dialog_garbage_clean_title">پاک‌سازی زباله‌ها</string>
+    <string name="exit_dialog_garbage_clean_title">آزادسازی فضای ذخیره‌سازی</string>
     <string name="exit_dialog_homepage_optimise_message">امتیاز کارایی دستگاه شما زیر ۸۰ است. اکنون بهینه‌سازی شود؟</string>
+    <string name="exit_dialog_release_memory_positive_button">بستن</string>
+    <string name="exit_dialog_release_memory_title"><Data>بالابردن سرعت دستگاه خود توسط &lt;font color=#0099ff>%d%%&lt;/font></Data></string>
     <string name="exit_dialog_release_storage_message">بیش از ۸۰% حافظه دستگاه شما اشغال شده است. با حذف برنامه‌هایی که هرگز استفاده نمی‌کنید فضا را آزاد کنید.</string>
     <string name="exit_dialog_release_storage_positive_button">آزاد کردن فضا</string>
     <string name="exit_dialog_release_storage_title">آزاد کردن فضا</string>
     <string name="exit_dialog_scan_message">امتیاز کارایی دستگاه شما زیر ۷۵ است. اکنون بهینه‌سازی شود؟</string>
     <string name="exit_dialog_scan_positive_button">بهینه‌سازی</string>
     <string name="exit_dialog_scan_title">بهینه‌سازی کارایی</string>
-    <string name="exo_controls_fastforward_description">جلو بردن سریع</string>
-    <string name="exo_controls_fullscreen_description">حالت تمام‌صفحه</string>
-    <string name="exo_controls_next_description">آهنگ بعدی</string>
-    <string name="exo_controls_pause_description">مکث</string>
-    <string name="exo_controls_play_description">پخش</string>
-    <string name="exo_controls_previous_description">آهنگ قبلی</string>
-    <string name="exo_controls_repeat_all_description">تکرار همه</string>
-    <string name="exo_controls_repeat_off_description">تکرار هیچ‌کدام</string>
-    <string name="exo_controls_repeat_one_description">یکبار تکرار</string>
-    <string name="exo_controls_rewind_description">عقب بردن</string>
-    <string name="exo_controls_shuffle_description">درهم</string>
-    <string name="exo_controls_stop_description">توقف</string>
-    <string name="exo_download_completed">بارگیری کامل شد</string>
-    <string name="exo_download_description">بارگیری</string>
-    <string name="exo_download_downloading">درحال بارگیری</string>
-    <string name="exo_download_failed">بارگیری نشد</string>
-    <string name="exo_download_notification_channel_name">بارگیری‌ها</string>
-    <string name="exo_download_removing">حذف بارگیری‌ها</string>
-    <string name="exo_item_list">%1$s،‏ %2$s</string>
-    <string name="exo_track_mono">مونو</string>
-    <string name="exo_track_selection_auto">خودکار</string>
-    <string name="exo_track_selection_none">هیچ‌کدام</string>
-    <string name="exo_track_selection_title_audio">صوتی</string>
-    <string name="exo_track_selection_title_text">نوشتار</string>
-    <string name="exo_track_selection_title_video">ویدیو</string>
-    <string name="exo_track_stereo">استریو</string>
-    <string name="exo_track_surround">صدای فراگیر</string>
-    <string name="exo_track_surround_5_point_1">صدای فراگیر ۵.۱</string>
-    <string name="exo_track_surround_7_point_1">صدای فراگیر ۷٫۱</string>
-    <string name="exo_track_unknown">نامشخص</string>
-    <string name="expand_button_title">پیشرفته</string>
     <string name="extreme_power_save_mode_card_summary">برای صرفه‌جویی در مصرف باتری، بهینه‌ساز بی‌نهایت باتری را هنگام کم بودن آن روشن کنید.</string>
     <string name="extreme_power_save_mode_title">بهینه‌ساز بی‌نهایت باتری</string>
     <string name="face_unlock_be_on_the_screen">دستگاه را جلوی صورت خود بگیرید</string>
@@ -1193,14 +1044,6 @@ medical card"</string>
     <string name="face_unlock_verity_dialog_summary">تأیید مشخصات چهره</string>
     <string name="face_unlock_verity_dialog_title_failed">شما شناسایی نشدید</string>
     <string name="face_unlock_verity_dialog_title_succeed">با موفقیت تأیید شد</string>
-    <string name="fast_open">速抢模式</string>
-    <string name="fast_open_dialog_message">开启速抢模式后，当您收到红包时，系统将自动打开抢红包页面，抢红包更快更方便。</string>
-    <string name="fast_open_dialog_message_summary">注意：建议关闭导航类、视频类、游戏类应用的速抢模式，以免影响应用的正常操作。手机锁屏状态下不会进行红包速抢。</string>
-    <string name="fast_open_dialog_ok">开启</string>
-    <string name="fast_open_list_not_open_title">禁止在%s个应用中速抢</string>
-    <string name="fast_open_list_open_title">允许在%s个应用中速抢</string>
-    <string name="fast_open_noti_summary">%s给你发来一个红包</string>
-    <string name="fast_open_summary">开启速抢模式后，收到红包新消息将打断当前使用应用切换到抢红包窗口。</string>
     <string name="finger_remind_message">ابتدا اثر انگشت خود را بیافزایید. ضربه زده تا تنظیمات باز شود.</string>
     <string name="fingerprint_identify_msg">روشن کردن باز کردن قفل با اثر انگشت</string>
     <string name="fingerprint_not_identified_msg">اثر انگشت خوانده نشد. گذرواژه خود را وارد کنید</string>
@@ -1226,12 +1069,11 @@ medical card"</string>
     <string name="firewall_network_restrict_notify_mobile">اینترنت همراه</string>
     <string name="firewall_partial">اجازه به برخی برنامه‌ها برای اتصال با استفاده از روش زیر</string>
     <string name="firewall_restrict_all">محدود کردن اتصال برای همه برنامه‌ها با استفاده از روش زیر</string>
-    <string name="firewall_restrict_android_dialog_content">برای اطمینان از اینکه دستگاه شما به‌طور عادی کار می‌کند، تعدادی برنامه‌های سیستم اندروید همچنان به اینترنت متصل خواهند بود. این برنامه‌ها از اینترنت همراه گوشی شما استفاده خواهند کرد و ممکن است هزینه اندکی از سوی شرکت مخابراتی شما محاسبه شود.</string>
+    <string name="firewall_restrict_android_dialog_content">برای اطمینان از اینکه دستگاه شما به‌طور عادی کار می‌کند، تعدادی برنامه‌های سیستم Android همچنان به اینترنت متصل خواهند بود. این برنامه‌ها از اینترنت همراه گوشی شما استفاده خواهند کرد و ممکن است هزینه اندکی از سوی شرکت مخابراتی شما محاسبه شود.</string>
     <string name="firewall_restrict_android_dialog_title">توجه</string>
     <string name="firewall_restrict_data">محدود کردن مصرف اینترنت همراه</string>
     <string name="firewall_restrict_notify_title">%s نمی‌تواند از شبکه استفاده کند</string>
     <string name="firewall_restrict_wlan">محدود کردن استفاده از اتصال Wi-Fi</string>
-    <string name="firewall_rule_group_title_roaming">Overseas roaming</string>
     <string name="firewall_system_title">مصرف اینترنت همراه برای برنامه‌های سیستمی</string>
     <string name="firewall_temp_rule_reason">%2$s اتصال اینترنت را برای %1$s محدود کرد</string>
     <string name="firewall_wifi">Wi-Fi</string>
@@ -1279,10 +1121,14 @@ medical card"</string>
     <string name="first_aid_scanning_item4">درحال بررسی اشکالات باتری…</string>
     <string name="first_aid_scanning_item5">درحال بررسی سایر اشکالات…</string>
     <string name="first_aid_stop_scan">توقف اسکن کردن</string>
+    <string name="first_settings_default_camera_title">همرسانی بدون ابرداده به صورت پیش‌فرض</string>
+    <string name="first_settings_default_location_subtitle">حذف اطلاعات موقعیت از عکس‌های همرسانی شده</string>
+    <string name="first_settings_default_location_title">همرسانی بدون اطلاعات موقعیت مکانی به صورت پیش‌فرض</string>
+    <string name="first_settings_share_enable">افزودن نشان «همرسانی امن»</string>
+    <string name="first_settings_share_enable_subtitle">مواردی که در WeChat همرسانی می‌کنید با یک نشان MIUI نمایان خواهند شد</string>
+    <string name="first_settings_subtitle">در اینجا گزینه‌های همرسانی امن برای شما فراهم است:</string>
+    <string name="first_settings_title">حافظت از حریم خصوصی شما</string>
     <string name="five_percent_total_pkg">%s (۵%% اینترنت همراه ماهانه)</string>
-    <string name="float_window">桌面悬浮窗</string>
-    <string name="float_window_summary">支持快速跳转至摇一摇与咻一咻页面</string>
-    <string name="float_window_tips">小米手机就是快！</string>
     <string name="fod_authentication_shift_button">لغو</string>
     <string name="fod_button_finger">استفاده از اثر انگشت</string>
     <string name="fod_button_password">گذرواژه را وارد کنید</string>
@@ -1292,9 +1138,9 @@ medical card"</string>
     <string name="forbid_autobright_summary">روشنایی خودکار هنگام بازی کردن خاموش شده و پس از پایان به حالت پیشین باز خواهد گشت</string>
     <string name="forbid_autobright_title">ثابت کردن روشنایی صفحه</string>
     <string name="foreground_traffic">پیش‌زمینه %s</string>
-    <string name="forget_password_button_text">گذرواژه را فراموش کرده‌ام</string>
+    <string name="forget_password_button_text"><u>گذرواژه را فراموش کرده‌ام</u></string>
     <string name="forget_password_button_text_normal">گذرواژه را فراموش کرده‌ام</string>
-    <string name="forget_pattern">گذرواژه را فراموش کرده‌ام</string>
+    <string name="forget_pattern"><u>گذرواژه را فراموش کرده‌ام</u></string>
     <string name="forground_network_optimization_summary">پهنای باند بیشتری به بازی‌های در حال اجرا در پیش‌زمینه می‌دهد</string>
     <string name="forground_network_optimization_title">اولویت پهنای باند</string>
     <string name="free_send_net_booster">افزایش سرعت شبکه رایگان</string>
@@ -1306,12 +1152,16 @@ medical card"</string>
     <string name="free_time_traffic_settings">سقف اینترنت همراه غیراوج</string>
     <string name="free_time_traffic_title">سقف اینترنت همراه غیراوج را وارد کنید</string>
     <string name="free_traffic_settings">تنظیمات مصرف اینترنت همراه غیر اوج</string>
+    <string name="function_auto_reject_detail">"درباره این ویژگی:
+۱. هنگام بازی کردن، تمام تماس‌های دریافتی به سیم‌کارت بدون خدمات اینترنت همراه به صورت خودکار رد خواهند شد.
+۲. اعلان‌ها درباره تماس‌های از دست رفته را خواهید دید و برای طرف مقابل پیامی بخش خواهد شد که می‌گوید شما در حال حاضر مشغول هستید.
+۳. این ویژگی فقط توسط شرکت‌های مخابری در چین پشتیبانی می‌شوند."</string>
+    <string name="function_auto_reject_title">تماس‌های VoLTE با سیم‌کارت‌های بدون سرویس داده را رد کنید</string>
     <string name="function_close">خاموش</string>
     <string name="function_gwsd_detail">"درباره این ویژگی:
- ۱. تما‌س‌های دریافتی به سیم‌کارت اینترنت همراه شما اتصال اینترنت همراه را قطع نخواهد کرد. فقط زمانی تماس شما قطع می‌شود که شما به تماس پاسخ دهید.
- ۲. هنگام روشن بودن این ویژگی، تماس‌گیرنده پشت خط انتظار قرار نخواهد گرفت. تماس‌های دریافتی در صورت پاسخ ندادن پس از ۶ ثانیه قطع خواهند شد.
- ۳. این ویژگی فقط برای سیم‌کارت‌های اینترنت همراه کار خواهد کرد. تماس‌های سیم‌کارت اصلی شما اتصال اینترنت همرا را قطع خواهد کرد.
- ۴. این ویژگی فقط توسط China Mobile و China Unicom مورد پشتیبانی است."</string>
+ ۱. هنگامی که از اینترنت همراه سیم‌کارت داده یا سیم‌کارت عادی متصل به یک شبکه VoLTE استفاده کنید، اتصال شما توسط تماس ورودی تا زمانی که به آن پاسخ ندهید قطع نخواهد شد.
+ ۲. هنگام روشن بودن این ویژگی، طرف مقابل صدای بوق تماس به شما را نخواهد شنید، مگر آن که از یک سیم‌کارت عادی استفاده کنید. تماس‌های ورودی پس از ۷ تا ۱۰ ثانیه عدم فعالیت به صورت خودکار رد خواهند شد.
+ ۳. سیم‌کارت‌های داده صادر شده توسط China Mobile و China Unicom مورد پشتیبانی هستند. سیم‌کارت‌های عادی صادر شده توسط China Mobile، China Unicom و China Telecom نیز مورد پشتیبانی قرار دارند."</string>
     <string name="function_gwsd_title">اجازه ندادن به تماس‌های دریافتی برای قطع اینترنت همراه سیم‌کارت</string>
     <string name="function_shield_auto_bright">خاموش کردن روشنایی خودکار</string>
     <string name="function_shield_eye_shield">خاموش کردن حالت مطالعه</string>
@@ -1336,8 +1186,6 @@ medical card"</string>
     <string name="game_booster_title">افزایش سرعت</string>
     <string name="game_bootser_tab_settings">تنظیمات افزایش دهنده سرعت</string>
     <string name="game_else_function">سایر</string>
-    <string name="game_manual_record_setting_king">王者荣耀</string>
-    <string name="game_manual_record_setting_peace">和平精英</string>
     <string name="game_manual_record_setting_setting">درباره این ویژگی</string>
     <string name="game_manual_record_setting_title">لحظات کلیدی</string>
     <string name="game_more_improve">فعالیت‌های پس‌زمینه و سرعت دانلود را محدود کرده تا در باتری و پهنای باند برای بازی کردن صرفه‌جویی کنید</string>
@@ -1393,6 +1241,19 @@ medical card"</string>
     <string name="gb_ad_game_size">مگابایت</string>
     <string name="gb_add_game_hint">افزودن موارد از فهرست برنامه‌ها</string>
     <string name="gb_add_game_loading_tips">چند لحظه صبر کنید…</string>
+    <string name="gb_adv_touch_adv_title">حالت کلاسیک (پیش‌فرض)</string>
+    <string name="gb_adv_touch_custom1">واکنش کشیدن</string>
+    <string name="gb_adv_touch_custom2">حساسیت به ضربه‌های مداوم</string>
+    <string name="gb_adv_touch_custom3">دقت هدف</string>
+    <string name="gb_adv_touch_custom4">پایداری ضربه</string>
+    <string name="gb_adv_touch_custom_tip1">پاسخ رفت و برگشت بالاتر سرعت واکنش به این حرکت را افزایش می‌دهد ، در حالی که یک پاسخ رفت و برگشت کمتر حرکت را پایدارتر می‌کند.</string>
+    <string name="gb_adv_touch_custom_tip2">حساسیت زیاد به ضربه‌های مداوم سرعت واکنش به این حرکت را افزایش می‌دهد، در حالی که حساسیت کم باعث پایداری بیشتر حرکت می‌شود.</string>
+    <string name="gb_adv_touch_custom_tip3">دقت بیشتر در هدف گیری، کشیدن کوچکتر را دقیق‌تر می‌کند، در حالی که دقت پایین‌تر، این حرکت را پایدارتر می‌کند.</string>
+    <string name="gb_adv_touch_custom_tip4">پایداری بیشتر ضربه، ضربه‌ها را پایدارتر می‌کند، در حالی که پایداری کمتر ضربه دقت کشیدن روی صفحه را افزایش می‌دهد.</string>
+    <string name="gb_adv_touch_custom_title">سفارشی کردن</string>
+    <string name="gb_adv_touch_mode_pro_tips">*این حالت برای بازیکنان حرفه‌ای طراحی شده است. ممکن است بازیکنان عادی این حالت را نا مناسب بدانند.</string>
+    <string name="gb_adv_touch_mode_select_title">اشارات</string>
+    <string name="gb_adv_touch_pro_title">حالت حرفه‌ای</string>
     <string name="gb_advance_settings_edge_gear1">هیچ کدام</string>
     <string name="gb_advance_settings_edge_gear2">کوچک</string>
     <string name="gb_advance_settings_edge_gear3">متوسط</string>
@@ -1422,12 +1283,16 @@ medical card"</string>
     <string name="gb_description_image_button_answer">پاسخ</string>
     <string name="gb_description_image_button_reject">رد کردن</string>
     <string name="gb_description_image_button_video_answer">تماس تصویری</string>
+    <string name="gb_dialog_game_uninstall_deleting">در حال حذف…</string>
+    <string name="gb_dialog_game_uninstall_loading">درحال بارگذاری بازی‌ها…</string>
+    <string name="gb_dialog_game_uninstall_tips_message">همه داده‌های برنامه حذف خواهند شد.</string>
+    <string name="gb_dialog_game_uninstall_tips_message_xspace">همه داده‌های برنامه و برنامه‌های همزاد مربوطه حذف خواهند شد.</string>
+    <string name="gb_dialog_game_uninstall_tips_title">حذف %s</string>
     <string name="gb_dialog_record_way_ai">موارد ضبط شده AI در جعبه بازی ذخیره شده‌اند و در آن‌جا ۷ روز می‌مانند.</string>
     <string name="gb_dialog_record_way_finish">انجام شد</string>
     <string name="gb_dialog_record_way_manual">ویدئوها را به صورت دستی به طول ۳۰ ثانیه ذخیره کنید</string>
     <string name="gb_dialog_record_way_setting_tips">توجه: ضبط بخش‌های بازی شما به مصرف برق بیشتری نیاز دارد که ممکن است سبب کند شدن شود.</string>
     <string name="gb_dialog_record_way_title">شیوه ضبط را انتخاب کنید</string>
-    <string name="gb_dialog_wlan_wifi_weak">460ms</string>
     <string name="gb_first_guide_function_shiled_title">خاموش کردن ویژگی‌های سیستمی هنگام روشن بودن افزاینده سرعت بازی</string>
     <string name="gb_first_guide_gamebox_des">استفاده از میان‌بر هنگام بازی کردن</string>
     <string name="gb_first_guide_handsfree_des">پاسخ به تماس‌ها در پس‌زمینه</string>
@@ -1454,6 +1319,10 @@ medical card"</string>
     <string name="gb_game_video_type_manual">دستی</string>
     <string name="gb_get_gift_right_now">اعلام ورود</string>
     <string name="gb_global_settings">تنظیمات عمومی</string>
+    <string name="gb_gpu_driver_btn_update">بررسی به‌روزرسانی</string>
+    <string name="gb_gpu_driver_update">به‌روزرسان درایور GPU</string>
+    <string name="gb_gpu_driver_update_app">به‌روزرسانی</string>
+    <string name="gb_gpu_driver_update_app_tips">نسخه کنونی به‌روز است</string>
     <string name="gb_have_signed">امروز اعلام ورود شده است</string>
     <string name="gb_manual_record_dialog_del_video_message">ویدئوهای انتخاب شده برای همیشه حذف شوند؟</string>
     <string name="gb_msg_completely_shielded">پنهان کردن پیام‌ها</string>
@@ -1475,6 +1344,9 @@ medical card"</string>
     <string name="gb_signed_gift_loading_summary">چند لحظه صبر کنید…</string>
     <string name="gb_signed_title">روزهای اعلام ورود این ماه</string>
     <string name="gb_sound_audition">انجام</string>
+    <string name="gb_storage_game_uninstall">حذف بازی‌ها</string>
+    <string name="gb_storage_summary">بازی‌هایی که در جعبه ابزار بازی صفحه اصلی افزوده شده‌اند نمایش داده نمی‌شوند</string>
+    <string name="gb_storage_title">حذف بازی‌های افزوده شده از صفحه اصلی</string>
     <string name="gb_voice_change_settinged">تغییر صدا روشن است</string>
     <string name="gb_voice_changer_cartoon">کارتونی</string>
     <string name="gb_voice_changer_dlg_button_agree">اجازه دادن</string>
@@ -1489,18 +1361,15 @@ medical card"</string>
     <string name="gb_voice_changer_robot">روبات</string>
     <string name="gb_wonderful_video_cancel">لغو</string>
     <string name="gb_wonderful_video_checkall">انتخاب همه</string>
-    <string name="gb_wonderful_video_date_format">"dd'th',MMM."</string>
     <string name="gb_wonderful_video_delete">حذف</string>
     <string name="gb_wonderful_video_header_title">امروز</string>
     <string name="gb_wonderful_video_save_suc">با موفقیت ذخیره شد</string>
     <string name="gb_xunyou_gift_type_one">افزاینده سرعت ۱ روزه Xunyou</string>
     <string name="gb_xunyou_gift_type_three">افزاینده سرعت ۳ روزه Xunyou</string>
     <string name="gb_xunyou_gift_type_two">افزاینده سرعت ۲ روزه Xunyou</string>
-    <string name="gdpr_msg">&lt;Data&gt;برای استفاده از ویژگی‌های ابتدایی امنیت، شما باید بپذیرید که Xiaomi داده‌های شخصی شما شامل اطلاعات درباره راه‌های استفاده از ویژگی‌های امنیت (مانند: آمار مصرف اینترنت همراه، اطلاعات درباره بدافزار، همچنین اطلاعات پایه‌ای درباره دستگاه شما) و دیگر انواع اطلاعاتی که در &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; مشخص شده است را گردآوری، پردازش و استفاده خواهد کرد.&lt;/Data&gt;</string>
-    <string name="ge">个</string>
+    <string name="gdpr_msg"><Data>برای شناسایی خطرات امنیتی و حفاظت از داده‌های شما، ما نیاز به گردآوری مقدار مورد نیاز از اطلاعات درباره دستگاه شما داریم. پیش از استفاده از خدمات ما &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید. در صورتی که به ما اجازه گردآوری چنین اطلاعاتی را ندهید، شما همچنان می‌توانید از این برنامه استفاده کنید، اما برخی ویژگی‌ها ممکن است برای شما در دسترس نباشند. </Data></string>
     <string name="get_sys_info">در حال دریافت اطلاعات…</string>
     <string name="gigabyteShort">گیگابایت</string>
-    <string name="give_lucky_money">红包大派送</string>
     <string name="global_wa_setting_alert_dialog_content">می‌توانید %s فضا آزاد کنید</string>
     <string name="global_wa_setting_alert_dialog_title">پاک‌سازی کننده واتساپ</string>
     <string name="gmscore_support_remind">در صورتی که با استفاده از Gmail، نقشه Google و سایر برنامه‌های Google مشکل دارید، این ویژگی را روشن کنید. کمی از عمر باتری خواهد کاست.</string>
@@ -1515,7 +1384,6 @@ medical card"</string>
     <string name="google_base_app_timeout">زمان دوره به پایان رسید. چند دقیقه صبر کرده و سپس دوباره تلاش کنید.</string>
     <string name="google_base_app_title">نصب خدمات Google</string>
     <string name="google_base_app_toast">Google Services Framework در پس‌زمینه درحال نصب است. چند دقیقه صبر کرده و سپس دوباره تلاش کنید.</string>
-    <string name="group_have_hongbao">来自“%1$s”%2$d个红包</string>
     <string name="gs_advanced_setting_summary">تنظیمات برای بازی‌های خاص</string>
     <string name="gs_advanced_setting_title">تنظیمات بیشتر</string>
     <string name="gs_anto_clean_memory_whitelist">استثناهای حافظه</string>
@@ -1527,7 +1395,7 @@ medical card"</string>
     <string name="gs_autobooster_dialog_message">در صورتی که از افزاینده سرعت Xunyou استفاده می‌کنید، بازی‌ها را در صفحه تعیین شده باز کنید.</string>
     <string name="gs_call_handsfree">پاسخ به تماس‌ها با دستان آزاد</string>
     <string name="gs_call_handsfree_mute">حالت بی‌صدا</string>
-    <string name="gs_dialog_confirm_close_msg">میانبر از روی صفحه اصلی شما حذف خواهد شد. به قسمت امنیت &gt; تنظیمات رفته تا آن را بازیابی کنید.</string>
+    <string name="gs_dialog_confirm_close_msg">میانبر از روی صفحه اصلی شما حذف خواهد شد. به قسمت امنیت > تنظیمات رفته تا آن را بازیابی کنید.</string>
     <string name="gs_dialog_confirm_close_title">خاموش</string>
     <string name="gs_forbid_autosync">محدود کردن همگام‌سازی پس‌زمینه</string>
     <string name="gs_game_ai_record">ضبط با استفاده از AI</string>
@@ -1536,7 +1404,7 @@ medical card"</string>
     <string name="gs_game_duration">زمان</string>
     <string name="gs_game_manual_record">ضبط دستی</string>
     <string name="gs_game_manual_record_subtitle">"هنگام بازی می‌توانید با استفاده از امکان ضبط در جعبه ابزار ضبط کردن را آغاز کنید. پس از ضربه روی دکمه «ضبط» تا ۳۰ ثانیه ویدئو می‌تواند ضبط شود.
-ویدئوها در افزاینده سرعت بازی &gt; لحظات حساس ذخیره خواهند شد."</string>
+ویدئوها در افزاینده سرعت بازی > لحظات حساس ذخیره خواهند شد."</string>
     <string name="gs_game_manual_record_subtitle_child">هنگام استفاده از این ویژگی ممکن است با اشکالاتی روبرو شوید:</string>
     <string name="gs_game_manual_record_subtitle_child_carton">ضبط بخش‌های بازی شما به مصرف برق بیشتری نیاز دارد که ممکن است سبب کند شدن شود.</string>
     <string name="gs_game_manual_record_subtitle_child_conflict">سایر ویژگی‌های ضبط صفحه ممکن است به درستی کار نکنند.</string>
@@ -1558,9 +1426,19 @@ medical card"</string>
     <string name="gs_show_way_vertical">عمودی</string>
     <string name="gs_sign_notification">یادآوری اعلام ورود هر شب ساعت ۸</string>
     <string name="gs_slip_gamebox_detail">برای نمایان کردن پانل میان‌بر از کشو استفاده و یا از لبه بالای نمایشگر به داخل بکشید</string>
+    <string name="gtb_dialog_btn_close">خاموش کردن</string>
+    <string name="gtb_dialog_btn_open">روشن کردن</string>
+    <string name="gtb_dialog_hint_smart_5g">این ویژگی را می‌توانید در افزاینده سرعت بازی > تنظیمات روشن و خاموش کنید.</string>
+    <string name="gtb_dialog_summary_smart_5g">هنگامی که افزاینده سرعت بازی یک شبکه 5G را شناسایی می‌کند، می‌تواند دستگاه شما را به بهترین شبکه موجود متصل کرده تا تأخیر شبکه را کاهش دهد. این ویژگی روشن شود؟</string>
+    <string name="gtb_dialog_title_smart_5g">بهینه‌سازی شبکه 5G</string>
     <string name="gtb_exit_game_to_gtb">باز جعبه بازی</string>
     <string name="gtb_exit_game_to_home">بازگشت به صفحه اصلی</string>
-    <string name="guide_get_operator_error">"&lt;font color='#33b4ff'&gt;&lt;U&gt;شرکت مخابراتی اشتباه است؟&lt;/U&gt;&lt;/font&gt;"</string>
+    <string name="gtb_setting_item_summary_smart_5g">هنگامی که افزاینده سرعت بازی یک شبکه 5G را شناسایی می‌کند، می‌تواند دستگاه شما را به بهترین شبکه موجود متصل کرده تا تأخیر شبکه را کاهش دهد.</string>
+    <string name="gtb_setting_item_summary_smart_wlan_speed">افزایش ۱۰٪ - ۲۰٪ سرعت اتصال هنگام اتصال به روترهای Mi/Redmi</string>
+    <string name="gtb_setting_item_title_smart_5g">بهینه‌سازی شبکه 5G</string>
+    <string name="gtb_setting_item_title_smart_wlan_speed">Mi WiFi افزایش سرعت</string>
+    <string name="gtb_wlan_speed_tips">در حال استفاده از Mi WiFi…</string>
+    <string name="guide_get_operator_error">"&lt;font color='#33b4ff'>&lt;U>شرکت مخابراتی اشتباه است؟&lt;/U>&lt;/font>"</string>
     <string name="guide_operator_text">"شرکت مخابرات کنونی شما: "</string>
     <string name="guide_quck_open">روشن کردن</string>
     <string name="guide_second_text">پس از تنظیم شرکت مخابراتی خود، MIUI مصرف اینترنت همراه شما را روزانه با استفاده از ارسال پیامک رایگان شرکت مخابراتی نظارت می‌کند. هنگامی که MIUI دریابد شما از سقف اینترنت همراه خود فراتر رفته‌اید، از شبکه قطع شده و به شما اعلام می‌کند.</string>
@@ -1595,9 +1473,6 @@ medical card"</string>
     <string name="hints_virus_app_list_item_summary">برنامه</string>
     <string name="hints_virus_app_summary">%s (برنامه)</string>
     <string name="hints_virus_lib_update_default_summary">زمان آخرین به‌روزرسانی نامشخص است</string>
-    <string name="hongbao_cancel">取消</string>
-    <string name="hongbao_message_slogon">小米手机就是快!</string>
-    <string name="hongbao_name">小米红包助手</string>
     <string name="hot">پرطرفدار</string>
     <string name="hot_today">پرطرفدار امروز</string>
     <string name="i_know">فهمیدم</string>
@@ -1631,7 +1506,6 @@ medical card"</string>
     <string name="item_app_permission">مجوزهای برنامه</string>
     <string name="item_dev_mode">گزینه‌های توسعه‌دهنده</string>
     <string name="item_install_monitor">نصب مانیتور</string>
-    <string name="item_lucky_alarm_has_been_closed">已结束</string>
     <string name="item_mms">فیلتر کردن پیام‌های ناخواسته</string>
     <string name="item_system_auto_download">دانلود خودکار به‌روزرسانی‌ها</string>
     <string name="item_usb_debug">اشکال‌زدایی USB</string>
@@ -1654,11 +1528,10 @@ medical card"</string>
     <string name="list_empty_text">خالی</string>
     <string name="load_only_under_wlan">بارگذاری فقط با استفاده از Wi-Fi</string>
     <string name="loading">چند لحظه صبر کنید…</string>
+    <string name="loading_text_format" formatted="false">درحال حذف اطلاعات خصوصی از عکس‌ها (%d/%d)…</string>
     <string name="local_ip_exception_summary">نمی‌توان نشانی IP را دریافت کرد. برای گزارش دادن این مسئله به MIUI، به برنامه بازخورد بروید و گزارشی را از روی دستگاه خود ارسال کنید.</string>
     <string name="lock_all_title">قفل همه برنامه‌ها</string>
     <string name="lock_mode_title">تنظیمات قفل</string>
-    <string name="lock_screen_business_hongbao_message">来自%1$s</string>
-    <string name="lock_screen_hongbao_message">来自“%1$s”</string>
     <string name="lock_screen_traffic_guide_notification_summary">%s در صفحه قفل استفاده شد</string>
     <string name="lock_screen_traffic_guide_notification_title">برای مدیریت مصرف اینترنت همراه ضربه بزنید.</string>
     <string name="lock_screen_traffic_notify_body">در %1$s برای %2$s قفل شد، اینترنت مصرف شده %3$s</string>
@@ -1703,30 +1576,6 @@ medical card"</string>
     <string name="low_temperature_button_ok">فهمیدم</string>
     <string name="low_temperature_warning_message">به نظر می‌رسد هوا بسیار سرد است و گوشی زودتر از آن‌چه پیش‌بینی می‌کنید خاموش می‌شود. تغییرات مهم خود را ذخیره کنید.</string>
     <string name="low_temperature_warning_title">دمای هوا پایین است</string>
-    <string name="lucky_activity">红包活动</string>
-    <string name="lucky_alarm">红包闹钟</string>
-    <string name="lucky_alarm_app">红包活动倒计时</string>
-    <string name="lucky_alarm_app_after">红包活动已经结束</string>
-    <string name="lucky_alarm_app_tail">倒计时</string>
-    <string name="lucky_alarm_back">返回红包助手</string>
-    <string name="lucky_alarm_count_down">0:00:00</string>
-    <string name="lucky_alarm_count_down_default">0:00:00</string>
-    <string name="lucky_alarm_item_date">27</string>
-    <string name="lucky_alarm_item_month">11月</string>
-    <string name="lucky_alarm_open_summary">开启后，在红包活动开始前1分钟将弹窗提醒，并可通过悬浮窗查看所有红包活动时间。</string>
-    <string name="lucky_alarm_open_title">红包闹钟</string>
-    <string name="lucky_alarm_sound_title">活动声音提醒</string>
-    <string name="lucky_assistant_description">"小米官方出品
-微信/QQ/米聊抢红包神器
-不支持提醒被屏蔽的群，以及开启电脑登录免打扰功能的软件"</string>
-    <string name="lucky_max_chat_title">来自QQ</string>
-    <string name="lucky_money_close">关闭</string>
-    <string name="lucky_money_group_summary">个人发送的红包不需抢，建议您仅提醒群红包，以免提醒次数过多。</string>
-    <string name="lucky_my_luckymoney">我的红包战绩</string>
-    <string name="lucky_sound_mode_lucky">红包来了</string>
-    <string name="lucky_sound_warn">红包声音提醒</string>
-    <string name="lucky_str_yuan">%s元</string>
-    <string name="lucky_warning_count_title">来自微信</string>
     <string name="main_activity_content_summary_root">دسترسی ریشه‌ای</string>
     <string name="main_activity_content_summary_update">به‌روزرسانی سیستم</string>
     <string name="main_alert_message_no_imsi">هیچ سیم‌کارتی شناسایی نشد</string>
@@ -1808,6 +1657,7 @@ medical card"</string>
     <string name="memory_check_content">%s آزاد شد</string>
     <string name="memory_clean_memory_size_tip">حافظه پنهان</string>
     <string name="memory_clean_no_need_clean">همه چیز خوب به نظر می‌رسد</string>
+    <string name="memory_clean_no_need_clean_1" formatted="false">%s آزادسازی شد. دستگاه شما حالا %%%d سریع‌تر است.</string>
     <string name="memory_clear_unused">پاک‌سازی حافظه پنهان (%s)</string>
     <string name="memory_title">در دسترس: %1$s\u0009\u0009کل: %2$s</string>
     <string name="menu_add">افزودن</string>
@@ -1830,6 +1680,7 @@ medical card"</string>
     <string name="menu_item_notification_antispam_text_avail">فهرست سیاه</string>
     <string name="menu_item_notification_antispam_text_normal">فهرست سیاه</string>
     <string name="menu_item_notification_garbage_text">%s</string>
+    <string name="menu_item_notification_optimize_text">%d%% اشغال شده است</string>
     <string name="menu_item_notification_power_text">بهینه‌سازی باتری</string>
     <string name="menu_item_notification_title">نشان دادن منو در کرکره اعلان</string>
     <string name="menu_item_shortcut_summary">قرار دادن ویژگی‌ها بر روی صفحه اصلی</string>
@@ -1848,11 +1699,14 @@ medical card"</string>
     <string name="menu_summary_antivirus">جستجو برای ویروس‌های دستگاه شما</string>
     <string name="menu_summary_app_manager">به‌روزرسانی و حذف برنامه‌ها</string>
     <string name="menu_summary_garbage_cleanup">هیچ زباله‌ای پیدا نشد</string>
-    <string name="menu_summary_garbage_cleanup_ex">پاک‌سازی %s از زباله‌ها</string>
+    <string name="menu_summary_garbage_cleanup_ex">آزادسازی %s</string>
+    <string name="menu_summary_garbage_cleanup_new">%d%% فضای ذخیره‌سازی</string>
     <string name="menu_summary_networkassistants">طرح اینترنت همراه خود را مدیریت کنید</string>
     <string name="menu_summary_networkassistants_2">از سقف فراتر رفت</string>
     <string name="menu_summary_networkassistants_3">اینترنت باقی مانده کافیست</string>
     <string name="menu_summary_networkassistants_4">اینترنت همراه رو به پایان است</string>
+    <string name="menu_summary_optimize_manage">پاک‌سازی حافظه</string>
+    <string name="menu_summary_optimize_manage_1">دستگاه خود را %%%d سریع‌تر کنید</string>
     <string name="menu_summary_power_manager">بهینه‌ساز باتری زمان بیشتری بین شارژها به شما می‌دهد</string>
     <string name="menu_summary_power_manager_1">باتری کامل شارژ شده است</string>
     <string name="menu_summary_power_manager_2">%s مانده</string>
@@ -1860,37 +1714,31 @@ medical card"</string>
     <string name="menu_summary_power_manager_4">%s تا پر شدن</string>
     <string name="menu_text_antispam">فهرست سیاه</string>
     <string name="menu_text_antivirus">اسکن امنیتی</string>
+    <string name="menu_text_antivirus_kddi">اسکن امنیتی</string>
+    <string name="menu_text_deepclean_summary">%1$s/%2$s اشغال شده است</string>
     <string name="menu_text_garbage_cleanup">پاکسازی‌کننده</string>
+    <string name="menu_text_garbage_cleanup_danger">%s زباله</string>
     <string name="menu_text_license_manager">مجوزها</string>
     <string name="menu_text_networkassistants">مصرف اینترنت همراه</string>
     <string name="menu_text_networkassistants_danger">%s فراتر</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s باقی‌مانده</string>
     <string name="menu_text_networkassistants_unit_b">بیت</string>
     <string name="menu_text_networkassistants_unit_gb">گیگابایت</string>
     <string name="menu_text_networkassistants_unit_kb">کیلوبایت</string>
     <string name="menu_text_networkassistants_unit_mb">مگابایت</string>
     <string name="menu_text_optimize_manage">افزایش سرعت</string>
-    <string name="menu_text_power_manager">باتری و کارایی</string>
-    <string name="menu_text_power_percent">%s</string>
+    <string name="menu_text_optimize_manage_1">افزایش سرعت</string>
+    <string name="menu_text_power_manager">باتری</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">حذف از موارد استثنا</string>
     <string name="menu_white">افزودن به استثناها</string>
-    <string name="mi_pay_lucky">小米钱包</string>
     <string name="mi_service_app_detail">جزئیات مصرف اینترنت همراه</string>
     <string name="mi_service_traffic_detail">جزئیات چارچوب کاری</string>
-    <string name="mian_page_primary_txt">Overseas roaming</string>
     <string name="midrop_post_notification_contentText">با Mi Drop فایل‌ها را تا سرعت ۵۰ مگابایت در ثانیه منتقل کنید.</string>
     <string name="midrop_post_notification_contentTitle">نیاز به همرسانی فایل‌ها دارید؟</string>
-    <string name="miliao_lucky_warning">米聊红包</string>
     <string name="miui_optimization_close_final_tip">بهینه‌سازی MIUI خاموش شود؟</string>
     <string name="miui_optimization_close_title">این ویژگی برای توسعه‌دهندگان در نظر گرفته شده و ممکن است برای کاربران عمومی مناسب نباشد. خاموش کردن بهینه‌سازی MIUI ممکن است تغییرات زیر را در بر داشته باشد:</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Pull down to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Refreshed successfully</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Refreshing…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Release to refresh</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"That's all for now"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">"That's all for now"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Just a sec…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Couldn't load items"</string>
     <string name="mixed_need_to_confirm">برای تأیید دوباره وارد کنید</string>
     <string name="mixed_password_confirmed_header_confirm">با موفقیت تنظیم شد. برای تأیید ضربه بزنید.</string>
     <string name="mixed_password_confirmed_header_continue">با موفقیت تنظیم شد. \"بعدی\" را بزنید.</string>
@@ -1898,14 +1746,13 @@ medical card"</string>
     <string name="mixed_recording_intro_header">%1$s تا %2$s کاراکتر وارد کنید</string>
     <string name="mixed_retry_button_text">لغو</string>
     <string name="mixed_settings_help_how_to_record">چگونگی تنظیم گذرواژه</string>
-    <string name="modify_password_mode">تغییر نوع گذرواژه</string>
+    <string name="modify_password_mode"><u>تغییر نوع گذرواژه</u></string>
     <string name="modifypassword">تغییر نوع گذرواژه</string>
     <string name="monitor_app_add">افزودن</string>
     <string name="monitor_app_more">بیشتر</string>
     <string name="monitor_requests_from_pc">مدیریت نصب برنامه‌ها از طریق USB</string>
     <string name="more_game">بازی‌های بیشتر</string>
     <string name="more_lock">بیشتر</string>
-    <string name="more_setting_summary">支持红包提醒种类、桌面悬浮窗、勿扰时段等功能</string>
     <string name="more_settings">بیشتر</string>
     <string name="mtp_ptp_mode_summary">MTP یا PTP فعال است</string>
     <string name="na_main_card_ad_subtitle">همراه با اینترنت همراه زیاد، تماس‌های رایگان و نرخ‌های پایین</string>
@@ -1949,19 +1796,19 @@ medical card"</string>
     <string name="network_roaming_exception_tips">نمی‌توان از اینترنت همراه هنگام رومینگ برای اتصال به شبکه استفاده کرد.</string>
     <string name="network_route_exception_detail">"ممکن است مشکلی در روتری که به آن وصل هستید وجود داشته باشد:
 
- "۱. مسائل مربوط به شبکه Wi-Fi عمومی"
+ "<b>۱. مسائل مربوط به شبکه Wi-Fi عمومی</b>"
 اگر به یک شبکه Wi-Fi عمومی متصل هستید، ممکن است تعداد کاربران متصل به شبکه سرعت آن را کاهش داده یا مشکلات اتصال را ایجاد کند. به سراغ شبکه دیگری رفته و دوباره امتحان کنید.
 
- "۲. مسائل ارائه‌دهنده خدمات اینترنت"
+ "<b>۲. مسائل ارائه‌دهنده خدمات اینترنت</b>"
 مطمئن شوید که وضعیت حساب شما نزد ارائه‌دهنده خدمات اینترنت خوب باشد.
 
- "۳. مسائل سخت‌افزاری روتر"
+ "<b>۳. مسائل سخت‌افزاری روتر</b>"
 روتر را دوباره راه‌اندازی یا تنظیمات مدیریت روتر خود را بررسی کنید.
 
- "۴. سایر مسائل روتر"
+ "<b>۴. سایر مسائل روتر</b>"
 دفترچه راهنمای ارائه شده به همراه روتر خود را مطالعه کرده و روتر خود را به تنظیمات کارخانه برگردانید.
 
- "۵. مطمئن شوید روتر شما به‌درستی متصل شده باشد"
+ "<b>۵. مطمئن شوید روتر شما به‌درستی متصل شده باشد</b>"
 از کابل اترنت دیگری برای اتصال به روتر خود استفاده کنید. اگر فکر می‌کنید مشکلی در اتصال خانگی شما وجود دارد، با ارائه‌دهنده خدمات اینترنت خود تماس بگیرید."</string>
     <string name="network_sim_exception_detail">"ممکن است سیم‌کارت شما مشکل داشته باشد:
 
@@ -1985,21 +1832,26 @@ medical card"</string>
     <string name="news_change">تغییر</string>
     <string name="nickname">نام مستعار</string>
     <string name="no_game">بازی‌ها یافت نشدند</string>
-    <string name="no_lucky_money">尚未收到红包</string>
-    <string name="not_available">暂无</string>
     <string name="not_limited_brand">نامحدود</string>
-    <string name="not_set">تنظیم نشده است</string>
     <string name="note">یادداشت</string>
     <string name="note_call_none">تماسی وجود ندارد</string>
     <string name="note_list_none">فهرست خالی است</string>
     <string name="note_sms_none">پیامی وجود ندارد</string>
     <string name="noti_back_diving_mode_title">حالت همه‌جانبه روشن شد. برای خاموش کردن ضربه بزنید.</string>
+    <string name="notification_abnormal_check_button">مشاهده</string>
+    <string name="notification_abnormal_check_now_button">مشاهده</string>
+    <string name="notification_abnormal_consume_app_title">%s باتری را خالی می‌کند</string>
+    <string name="notification_abnormal_consume_cpu">منابع CPU در حال سوء استفاده شدن در پس‌زمینه هستند</string>
+    <string name="notification_abnormal_consume_wakelock">سیستم در پس‌زمینه بیدار نگه داشته می‌شود</string>
     <string name="notification_battery_consume_abnormal_title">باتری خیلی سریع درحال تخلیه است</string>
     <string name="notification_battery_scan_consume_abnormal_summary">برای حل مشکل ضربه بزنید</string>
     <string name="notification_battery_scan_consume_abnormal_title_set">%s درحال خالی کردن باتری است</string>
     <string name="notification_channel_battery">باتری</string>
     <string name="notification_exit_power_save_mode">بهینه‌ساز باتری خاموش شد</string>
     <string name="notification_exit_power_save_mode_subtitle">باتری %s شارژ شده است.</string>
+    <string name="notification_garbage_clean_botton_text">پاک‌سازی</string>
+    <string name="notification_garbage_clean_hint">پاک‌سازی فضای حافظه</string>
+    <string name="notification_garbage_clean_size">آزادسازی %s</string>
     <string name="notification_garbage_cleanup_summary">زباله‌ها (%s) را پاک‌سازی کرده تا دستگاه خود را سریع‌تر کنید</string>
     <string name="notification_garbage_cleanup_title">پاکسازی فایل‌های زباله</string>
     <string name="notification_low_battery_action_btn">روشن کردن</string>
@@ -2010,7 +1862,11 @@ medical card"</string>
     <string name="notification_mask_title">پنهان کردن محتوای اعلان</string>
     <string name="notification_masked_item">محتوای اعلان‌ها چگونه پنهان می‌شوند؟</string>
     <string name="notification_masked_subtitle">از قفل برنامه برای محتوای اعلان برنامه‌های انتخاب شده استفاده کنید</string>
+    <string name="notification_power_consume_issue_summary">مصرف برق بالا</string>
+    <string name="notification_power_consume_suggest_summary">اصلاح مشکلات برای صرفه جویی در مصرف باتری</string>
     <string name="notification_summary_cmcc_app_check">برای مشاهده جزئیات لمس کنید.</string>
+    <string name="notification_whatsapp_clean_button_text">پاک‌سازی</string>
+    <string name="notification_whatsapp_clean_size">حافظه پنهان واتساپ به %s رسید</string>
     <string name="notify_channel_mipush">پیام‌های فشاری امنیتی</string>
     <string name="notify_channel_name_behavior">تاریخچه اقدامات</string>
     <string name="notify_channel_name_security">امنیت سیستم</string>
@@ -2028,7 +1884,6 @@ medical card"</string>
     <string name="notify_weekly_traffic_body">برای محدود کردن خودکار مصرف اینترنت همراه، طرح ماهانه اینترنت همراه خود را تنظیم کنید.</string>
     <string name="notify_weekly_traffic_title">%s این هفته مصرف شد</string>
     <string name="notify_weekly_traffic_title_for_slotnum">%1$s این هفته %2$s مصرف کرد</string>
-    <string name="number_of_lucky_money">已为您提醒红包总数</string>
     <string name="numeric_need_to_confirm">برای تأیید دوباره وارد کنید</string>
     <string name="numeric_password_confirmed_header_confirm">با موفقیت تنظیم شد. برای تأیید ضربه بزنید.</string>
     <string name="numeric_password_confirmed_header_continue">با موفقیت تنظیم شد. «بعدی» را بزنید.</string>
@@ -2046,6 +1901,8 @@ medical card"</string>
     <string name="om_locked_apps_summary">برنامه‌های قفل شده توسط افزاینده سرعت نادیده گرفته خواهند شد.</string>
     <string name="om_memory_clean_memory_info_text">%2$s / %1$s</string>
     <string name="om_not_finish_speedboost">افزاینده سرعت لازم است</string>
+    <string name="om_optimzing_big_button_text">افزایش سرعت</string>
+    <string name="om_running_app_info_summary">آزادسازی %s</string>
     <string name="om_running_locked_apps">برنامه‌های درحال اجرای قفل شده</string>
     <string name="om_running_system_apps">برنامه‌های سیستمی درحال اجرا</string>
     <string name="om_running_third_apps">برنامه‌های سوم‌شخص درحال اجرا</string>
@@ -2060,21 +1917,20 @@ medical card"</string>
     <string name="om_settings_notify_manage">اعلان‌ها</string>
     <string name="om_settings_speed_up_auto">افزایش سرعت خودکار</string>
     <string name="om_settings_title">تنظیمات</string>
+    <string name="om_shortcut_added_toast_text">با موفقیت افزوده شد</string>
+    <string name="om_shortcut_dialog_summary">RAM Jet به شما امکان پاک‌سازی حافظه و افزایش سرعت دستگاه‌تان را تنها با یک ضربه می‌دهد. RAM Jet به صفحه اصلی افزوده شود؟</string>
+    <string name="om_shortcut_dialog_title">RAM Jet</string>
+    <string name="once_settings_camera_ttile">همرسانی بدون ابرداده</string>
+    <string name="once_settings_location_title">همرسانی بدون اطلاعات موقعیت مکانی</string>
+    <string name="once_settings_subtitle">موارد انتخاب شده را چگونه می‌خواهید همرسانی کنید؟</string>
+    <string name="once_settings_title">حفاظت از حریم خصوصی</string>
     <string name="one_address_choose_hint">%s1</string>
     <string name="open_activity_err">برنامه یافت نشد</string>
-    <string name="open_alarm_right_now">立刻开启</string>
     <string name="open_app">بازکردن</string>
     <string name="open_callwait">فعال</string>
-    <string name="open_dnd_mode">勿扰模式</string>
-    <string name="open_dnd_mode_summary">勿扰时间段内，红包提醒与红包闹钟免打扰</string>
     <string name="open_extreme_power_save_mode_title">روشن کردن بهینه‌ساز بی‌نهایت باتری</string>
-    <string name="open_fast_open_mode">开启速抢模式</string>
-    <string name="open_fast_open_mode_summary">开启速抢模式，当收到红包时，系统将自动打开抢红包页面。</string>
     <string name="open_game">بازکردن</string>
-    <string name="open_lucky">开启小米红包助手</string>
     <string name="open_now">به برنامه اجازه استفاده از اینترنت همراه داده شود</string>
-    <string name="open_right_now">立刻抢红包</string>
-    <string name="open_right_now_short">立刻抢</string>
     <string name="operator_name_cmcc">China Mobile</string>
     <string name="operator_name_mi_mobile">موبایل Mi</string>
     <string name="operator_name_telcom">China Telecom</string>
@@ -2136,7 +1992,7 @@ medical card"</string>
     <string name="password_promotion_postbutton_text">افزودن</string>
     <string name="password_promotion_title">افزودن حساب Mi</string>
     <string name="password_type">تغییر گذرواژه</string>
-    <string name="password_type_underline">تغییر گذرواژه</string>
+    <string name="password_type_underline"><u>تغییر گذرواژه</u></string>
     <string name="password_xspace_forget_pattern_message">برای تغییر گذرواژه فضای دوم، شما باید فضای دوم کنونی خود را حذف کرده و یکی دیگر بسازید.</string>
     <string name="pc_abnormal_scan_button_text">بستن برنامه‌ها</string>
     <string name="pc_abnormal_scan_reason_prevent_standby">جلوگیری از رفتن سیستم به حالت آماده‌باش</string>
@@ -2149,6 +2005,9 @@ medical card"</string>
     <string name="pc_battery_detail_curve_reference_now">اکنون</string>
     <string name="pc_battery_detail_device_item_title">آمار مصرف باتری</string>
     <string name="pc_battery_history_battery_detail_menu_item">جزئیات</string>
+    <string name="pc_battery_history_battery_software_menu_item">نرم‌افزار</string>
+    <string name="pc_battery_history_consume_all_menu_item">همه</string>
+    <string name="pc_battery_history_consume_hardware_menu_item">سخت‌افزار</string>
     <string name="pc_battery_history_consume_rank_menu_item">رتبه‌بندی</string>
     <string name="pc_battery_history_consumption_percent_title">درصد مصرف برق</string>
     <string name="pc_battery_history_idletime_title">آماده‌باش</string>
@@ -2175,7 +2034,7 @@ medical card"</string>
     <string name="pc_search_keywords_battery_use">مصرف باتری</string>
     <string name="pc_search_keywords_capacity">ظرفیت باتری</string>
     <string name="pc_search_keywords_property">کارایی</string>
-    <string name="pc_settings_title">تنظیمات باتری و کارایی</string>
+    <string name="pc_settings_title">باتری</string>
     <string name="pc_statistics_battery_last_hour_minute">%1$d ساعت و %2$d دقیقه دیگر باقی مانده است</string>
     <string name="pc_statistics_battery_use_hour_minute">%1$d ساعت و %2$d دقیقه از آخرین شارژ</string>
     <string name="pc_statistics_battery_use_summary">%s از آخرین شارژ</string>
@@ -2183,7 +2042,6 @@ medical card"</string>
     <string name="pc_to_phone_install">نصب %s از طریق USB مسدود شد</string>
     <string name="per_month_pkg_traffic_settings">تعیین سقف اینترنت همراه</string>
     <string name="percent_formatted_text">%%%s</string>
-    <string name="percent_symbol">%</string>
     <string name="percent_text_formatted">%s%%</string>
     <string name="percentage">%%%d</string>
     <string name="perfermance_optimization_summary">از داغ کردن و اشکالات سخت‌افزاری جلوگیری می‌کند</string>
@@ -2223,7 +2081,6 @@ medical card"</string>
     <string name="permission_exception_title">اتصال برای برنامه‌ها محدود شد</string>
     <string name="permission_permission_control_closed_desc_dialog_msg">برنامه‌ها پیش از خواندن مخاطبین، مشاهده تاریخچه تماس، تغییر تنظیمات سیستم یا دسترسی به دوربین و سایر منابع دستگاه از شما اجازه نمی‌گیرند. شما می‌توانید این قابلیت را در تنظیمات مجوز روشن کنید.</string>
     <string name="permission_permission_control_closed_desc_dialog_title">مدیر مجوز</string>
-    <string name="permission_privacy_link">&lt;Data&gt;&amp;lt;a href=\"%1$s\"&amp;gt;%2$s&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
     <string name="permission_upgrade_more">ویژگی‌های حفاظت حریم خصوصی بیشتر</string>
     <string name="permission_upgrade_privacy_title">مجوزهای ضبط صدا و دسترسی به مخاطبین حالا گزینه‌ای دارند که به شما اجازه می‌دهد تا بتوانید چنین مجوزهایی را فقط هنگامی که از برنامه مربوطه استفاده می‌کنید بدهید. برای حافظت از حریم خصوصی اطلاعات شخصی شما، برنامه‌ها این اقدامات را در پس‌زمینه انجام نخواهند داد.</string>
     <string name="permission_upgrade_runtime">مجوزهای دسترسی به موقعیت مکانی یا گرفتن عکس حالا گزینه‌ای دارند که به شما اجازه می‌دهد تا بتوانید فقط یک بار چنین مجوزهایی را بدهید. به منظور حفاظت از حریم خصوصی اطلاعات شخصی شما، این اقدامات پس از ترک برنامه انجام نخواهند شد. درباره مجوزها پس از استفاده دوباره ویژگی‌های مربوطه در زمان بعدی از شما پرسیده خواهد شد.</string>
@@ -2232,7 +2089,6 @@ medical card"</string>
     <string name="permission_with_SMS_and_MMS">مجوزهای مربوط به پیامک و MMS</string>
     <string name="permission_with_call_and_contact">مجوزهای مربوط به تماس‌های تلفنی، اطلاعات مخاطبین، و تاریخچه تماس.</string>
     <string name="permit_running_network">داده‌های پس‌زمینه</string>
-    <string name="person_have_hongbao">%1$s 给你发红包啦！</string>
     <string name="person_hotpot">کانون داغ همراه</string>
     <string name="phone">تلفن</string>
     <string name="phone_manage">مدیریت گوشی</string>
@@ -2252,7 +2108,6 @@ medical card"</string>
     <string name="pm_auto_start_by_system">آغاز برنامه‌ها</string>
     <string name="pm_auto_start_by_system_event">به برنامه‌ها اجازه آغاز شدن خودکار داده شود</string>
     <string name="pm_auto_start_proc_is_running">درحال اجرا</string>
-    <string name="pm_newfeature_sub_text">NEW</string>
     <string name="pm_remember_choice">انتخاب مرا به یاد داشته باش</string>
     <string name="pm_root_success_notification_infomation">مطمئن شوید که خطرات مرتبط با دسترسی ریشه‌ای را فهمیده‌اید</string>
     <string name="pm_root_success_notification_title">اجازه دسترسی ریشه‌ای داده شد</string>
@@ -2269,28 +2124,63 @@ medical card"</string>
     <string name="power_center_5g_save_close_title">درحال خاموش کردن بهینه‌ساز باتری 5G</string>
     <string name="power_center_5g_save_summary_text">مصرف برق اتصال 5G را در برخی موقعیت‌ها کاهش می‌دهد</string>
     <string name="power_center_5g_save_title_text">بهینه‌ساز باتری 5G</string>
+    <string name="power_center_abnormal_consume_analysis">ناهنجاری‌های مصرف برق</string>
     <string name="power_center_auto_shutdown">زمان‌بندی روشن/خاموش کردن</string>
     <string name="power_center_back">بازگشت</string>
+    <string name="power_center_battery_all">همه</string>
+    <string name="power_center_battery_app_detail">برنامه مصرف باتری</string>
+    <string name="power_center_battery_charge_night">در هنگام شارژ شبانه باتری خود را ذخیره کنید</string>
+    <string name="power_center_battery_charge_times">امروز شارژ شد</string>
+    <string name="power_center_battery_chargefull_time">تا شارژ کامل</string>
+    <string name="power_center_battery_detail">جزئیات</string>
+    <string name="power_center_battery_duration">زمان باقی مانده</string>
+    <string name="power_center_battery_duration_format">%1$s %2$s</string>
+    <string name="power_center_battery_hardware">سخت‌افزار %s</string>
     <string name="power_center_battery_last">%s باقی مانده</string>
+    <string name="power_center_battery_level">%s شارژ شده است</string>
+    <string name="power_center_battery_level_general">عادی</string>
+    <string name="power_center_battery_problem_and_suggest">%1$s. %2$s.</string>
+    <string name="power_center_battery_software">نرم‌افزار %s</string>
+    <string name="power_center_battery_status">مصرف باتری</string>
+    <string name="power_center_battery_temperature">دما</string>
+    <string name="power_center_battery_used_time">بر روی باتری</string>
+    <string name="power_center_batteryrank_all">تمام مصرف باتری</string>
+    <string name="power_center_batteryrank_hardware">مصرف باتری سخت‌افزار %s</string>
+    <string name="power_center_batteryrank_software">مصرف باتری نرم‌افزار %s</string>
+    <string name="power_center_batteryscan_normal">مشکلی در استفاده از باتری وجود ندارد. مشاهده نتایج</string>
+    <string name="power_center_charge_status">درحال شارژ</string>
     <string name="power_center_charge_time">%1$s تا پر شدن</string>
+    <string name="power_center_consume_fast">درحال خالی کردن باتری</string>
     <string name="power_center_dialog_msg_bottom">عمر باتری را می‌توانید تا %1$d ساعت و %2$d دقیقه افزایش دهید. بهینه‌ساز باتری روشن شود؟</string>
     <string name="power_center_dialog_msg_title">با روشن کردن این ویژگی %1$s وقت اضافه بگیرید. اقدامات زیر به منظور صرفه‌جویی در مصرف باتری انجام می‌گیرند:</string>
     <string name="power_center_dialog_msg_top">هنگام روشن بودن بهینه‌ساز باتری، MIUI بهینه‌سازی‌های زیر را انجام خواهد داد:</string>
     <string name="power_center_hints_scan_danger_result">حالا می‌توانید اشکالات باتری را برطرف کنید</string>
     <string name="power_center_list_item_auto_brightness">تنظیم خودکار روشنایی صفحه</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s ولت</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s میلی‌آمپر</string>
+    <string name="power_center_list_item_battery_status_capacity">میلی‌آمپر</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">ساعت</string>
     <string name="power_center_list_item_close_bluetooth">خاموش کردن بلوتوث</string>
     <string name="power_center_list_item_deep_save_title">تنظیمات پیشرفته</string>
     <string name="power_center_list_item_haptic_feedback">خاموش کردن بازخورد لمسی</string>
+    <string name="power_center_list_item_haptic_feedback_summary">اشاره و کنترل سیستم با بازخورد لمسی همراه نخواهد بود</string>
     <string name="power_center_list_item_set_lockscreen_time">به خواب رفتن نمایشگر پس از ۳۰ ثانیه بی‌فعالیتی</string>
     <string name="power_center_list_item_set_lockscreen_time_holder">قفل دستگاه پس از %d ثانیه کار نکردن</string>
+    <string name="power_center_list_item_set_lockscreen_time_summary">برای ذخیره باتری، دستگاه خود را فوری قفل کنید</string>
     <string name="power_center_list_item_wake_notification">نمایشگر برای اعلان‌ها بیدار نشود</string>
+    <string name="power_center_list_item_wake_notification_summary">اعلان‌های دریافتی فقط هنگامی که نمایشگر را روشن می‌کنید نمایش داده می‌شود</string>
     <string name="power_center_main_percent_formatted">%%%s</string>
     <string name="power_center_one_key_save">بهینه‌سازی</string>
     <string name="power_center_ontime_boot">زمان روشن شدن</string>
     <string name="power_center_ontime_shutdown">زمان خاموش شدن</string>
+    <string name="power_center_optimize_title">پیشنهادات</string>
     <string name="power_center_power_save_summary_text">افزایش زمان باقی مانده تا %1$d ساعت و %2$d دقیقه</string>
     <string name="power_center_power_save_title_text">بهینه‌ساز باتری</string>
+    <string name="power_center_problem_title">اصلاح اشکالات</string>
+    <string name="power_center_reduce_dpi_summary">QHD+ برق بیشتری مصرف می‌کند</string>
+    <string name="power_center_reduce_resolution">وضوح کمتر صفحه نمایش</string>
     <string name="power_center_repeat">تکرار</string>
     <string name="power_center_scan_item_title_5g">اتصال 5G</string>
     <string name="power_center_scan_item_title_GPS">تنظیم دقت GPS</string>
@@ -2310,9 +2200,20 @@ medical card"</string>
     <string name="power_center_stop_scan_title">توقف اسکن کردن</string>
     <string name="power_center_super_save_summary_text">افزایش زمان باقی مانده تا %1$d ساعت و %2$d دقیقه</string>
     <string name="power_center_super_save_title_text">بهینه‌ساز فوق‌العاده باتری</string>
+    <string name="power_center_super_wireless_charge">شارژ بی‌سیم فوری</string>
+    <string name="power_center_super_wireless_charge_dialog_positive">روشن بماند</string>
+    <string name="power_center_super_wireless_charge_dialog_summary">این حالت باعث افزایش سرعت فن کولر شارژر بی‌سیم شده. برای شارژ سریع‌تر دستگاه خود، این حالت را روشن نگه داشته یا چنانچه فکر می‌کنید صدای محیط خیلی زیاد است آن را خاموش کنید.</string>
+    <string name="power_center_super_wireless_charge_dialog_summary2">به امنیت بروید > باتری > تنظیمات برای گزینه‌های بیشتر.</string>
+    <string name="power_center_super_wireless_charge_dialog_title">شارژ بی‌سیم فوری</string>
+    <string name="power_center_super_wireless_charge_noti_summary">برای باز کردن تنظیمات، ضربه بزنید</string>
+    <string name="power_center_super_wireless_charge_noti_switch">اعلان درباره شارژ بی‌سیم فوری</string>
+    <string name="power_center_super_wireless_charge_noti_title">شارژ بی‌سیم فوری روشن است</string>
+    <string name="power_center_super_wireless_charge_summary">افزایش سرعت فن کولر شارژر بی‌سیم</string>
+    <string name="power_center_super_wireless_charge_toast_close">شارژ بی‌سیم فوری خاموش است</string>
     <string name="power_center_time_to_boot">زمان روشن شدن</string>
     <string name="power_center_time_to_shutdown">زمان خاموش شدن</string>
-    <string name="power_center_title">باتری و کارایی</string>
+    <string name="power_center_title">باتری</string>
+    <string name="power_center_used_time_Introduction">زمان شارژ باتری از آخرین دفعه شارژ شدن %s</string>
     <string name="power_consume_hardware_total_format">سخت‌افزار: %s</string>
     <string name="power_consume_other">سایر</string>
     <string name="power_consume_rank_hardware">سخت‌افزار</string>
@@ -2331,22 +2232,53 @@ medical card"</string>
     <string name="power_off_warning_button_ok">فهمیدم</string>
     <string name="power_off_warning_message">باتری کم است. دستگاه شما تا %d ثانیه دیگر خاموش خواهد شد. شارژر را وصل کنید.</string>
     <string name="power_off_warning_notification_title">در آستانه خاموش شدن</string>
+    <string name="power_optimize_aod_summary">هنگام خاموش بودن صفحه، دستگاه شما باتری را ذخیره می‌کند</string>
+    <string name="power_optimize_auto_brightness">تنظیم خودکار روشنایی</string>
+    <string name="power_optimize_auto_brightness_summary">روشنایی خودکار باعث صرفه‌ جویی در باتری می‌شود</string>
     <string name="power_optimize_auto_catagory_title">اشکالات باتری</string>
     <string name="power_optimize_battery_save_idea">بهینه‌سازی باتری</string>
     <string name="power_optimize_battery_save_more">بیشتر</string>
     <string name="power_optimize_brightness">روشنایی صفحه</string>
     <string name="power_optimize_btn_text_fixed">بهینه‌سازی شد</string>
     <string name="power_optimize_catagory_fixed_title">بهینه‌سازی شد</string>
+    <string name="power_optimize_clean_memory">پاک‌سازی حافظه %d دقیقه پس از قفل کردن دستگاه</string>
+    <string name="power_optimize_clean_memory_summary">روشن بودن پس‌زمینه برق زیادی را مصرف می‌کند</string>
     <string name="power_optimize_close_app">بستن برنامه‌هایی که بیش از حد باتری مصرف می‌کنند</string>
+    <string name="power_optimize_close_bluetooth_summary">بلوتوث در پس‌زمینه انرژی زیادی را مصرف می‌کند</string>
+    <string name="power_optimize_close_consume_app">بستن برنامه‌هایی که باتری را خالی می‌کنند</string>
+    <string name="power_optimize_close_gps">خاموش کردن خدمات موقعیت مکانی</string>
+    <string name="power_optimize_close_haptic_feedback">خاموش کردن بازخورد لمسی</string>
+    <string name="power_optimize_close_wake_notification">نمایشگر برای اعلان‌ها بیدار نشود</string>
+    <string name="power_optimize_close_wlan">خاموش کردن کانون داغ همراه</string>
+    <string name="power_optimize_close_wlan_summary">صرفه جویی در مصرف برق هنگامی که هیچ دستگاهی متصل نیست</string>
+    <string name="power_optimize_darkmode">تغییر به حالت تاریک</string>
+    <string name="power_optimize_darkmode_dialog_confirm">فعال کردن</string>
+    <string name="power_optimize_darkmode_dialog_summary">حالت تاریک، طرح رنگ UI سیستم و برنامه‌های انتخاب شده را تغییر می‌دهد که به شما امکان می‌دهد در مصرف باتری خود صرفه‌ جویی کرده و خستگی چشم را کاهش دهید.</string>
+    <string name="power_optimize_darkmode_dialog_title">روشن کردن حالت تاریک</string>
+    <string name="power_optimize_darkmode_extend_summary">حالت تاریک، طرح رنگ UI سیستم و برنامه‌های انتخاب شده را تغییر می‌دهد که به شما امکان می‌دهد در مصرف باتری خود صرفه‌ جویی کرده و خستگی چشم را کاهش دهید</string>
+    <string name="power_optimize_darkmode_summary">حالت تاریک برق کمتری مصرف می‌کند</string>
     <string name="power_optimize_disable_5g">محدود کردن اتصال 5G</string>
+    <string name="power_optimize_disable_5g_summary">اتصال 5G برق بیشتری مصرف می‌کند</string>
+    <string name="power_optimize_disable_aod">خاموش کردن نمایشگر همیشه روشن</string>
     <string name="power_optimize_disable_app_autostart">پیشگیری از باز شدن خودکار برنامه‌ها</string>
     <string name="power_optimize_disable_gps">خاموش کردن GPS</string>
     <string name="power_optimize_disable_gps_high_accuracy">خاموش کردن حالت موقعیت مکانی دقیق</string>
     <string name="power_optimize_disable_start_other_app">جلوگیری برنامه‌ها از باز کردن سایر برنامه‌ها</string>
+    <string name="power_optimize_disable_start_other_app_summary">برنامه‌ها با راه‌اندازی یکدیگر برق مصرف می‌کنند</string>
+    <string name="power_optimize_disconnect_data">خاموش کردن اینترنت همراه %d دقیقه پس از قفل کردن دستگاه</string>
+    <string name="power_optimize_disconnect_data_summary">استفاده از اینترنت همراه در پس‌زمینه باعث مصرف برق می‌شود</string>
+    <string name="power_optimize_enable_now_button">فعال کردن</string>
+    <string name="power_optimize_gps_summary">محدود کردن دسترسی به موقعیت مکانی برای همه برنامه‌ها</string>
     <string name="power_optimize_loading">درحال بارگذاری</string>
     <string name="power_optimize_open_hide_mode">روشن کردن بهینه‌ساز باتری</string>
+    <string name="power_optimize_power_save_extend_time">افزودن %s</string>
+    <string name="power_optimize_power_save_summary">برای اعمال بهینه‌سازی چندگانه سیستم که فعالیت پس‌زمینه را محدود می‌کنند، بهینه‌ساز باتری را روشن کنید</string>
+    <string name="power_optimize_prohibit_app_autostart">اجازه ندهید برنامه‌ها به صورت خودکار راه‌اندازی شوند</string>
+    <string name="power_optimize_reduce_fps">کاهش نرخ تازه‌سازی نمایشگر به %d هرتز</string>
+    <string name="power_optimize_reduce_fps_summary">نرخ تازه‌سازی پایین‌تر برای اکثر سناریوها کار می‌کند</string>
     <string name="power_optimize_save_mode_not_opened">بهینه‌ساز باتری خاموش</string>
     <string name="power_optimize_save_on_lockscreen">صرفه جویی در مصرف باتری هنگامی که دستگاه قفل است</string>
+    <string name="power_optimize_set_lockscreen_time_holder">قفل دستگاه پس از %d ثانیه کار نکردن</string>
     <string name="power_phone">تماس‌های صوتی</string>
     <string name="power_save_mode">بهینه‌ساز باتری</string>
     <string name="power_save_mode_auto_exit_summary">وقتی باتری ۶۰٪ یا کامل شارژ شده است خاموش شود</string>
@@ -2406,7 +2338,7 @@ medical card"</string>
     <string name="power_settings_number">درصد</string>
     <string name="power_settings_saver_title">بهینه‌ساز باتری</string>
     <string name="power_settings_shape">گرافیکی</string>
-    <string name="power_settings_title">تنظیم</string>
+    <string name="power_settings_title">تنظیمات</string>
     <string name="power_settings_top">نوار بالا</string>
     <string name="power_superpower_title_systemui_highpower">زمان باقی مانده</string>
     <string name="power_superpower_title_systemui_lowpower">شارژر را وصل کنید</string>
@@ -2454,6 +2386,7 @@ medical card"</string>
     <string name="pref_normal_traffic_limit">وقتی که طرح اینترنت همراه مصرف شد</string>
     <string name="pref_open_adjust_traffic">به‌روزرسانی روزانه مصرف اینترنت همراه با استفاده از آمار شرکت مخابراتی شما</string>
     <string name="pref_operator_not_set">شرکت مخابرات تنظیم نیست</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">هنگامی که از طرح اینترنت همراه خود فراتر می‌روید</string>
     <string name="pref_package_traffic_settings">طرح اینترنت همراه</string>
     <string name="pref_pkg_begin_date">تاریخ بازنشانی مصرف</string>
@@ -2480,48 +2413,6 @@ medical card"</string>
     <string name="pref_traffic_unlimited_package">طرح اینترنت همراه نامحدود</string>
     <string name="pref_warning_values">سطح هشدار مصرف اینترنت همراه</string>
     <string name="pref_whitelist_setting">موارد استثنای رومینگ اینترنت همراه</string>
-    <string name="preference_category_key_antivirus_setting">key_category_antivirus_setting</string>
-    <string name="preference_category_videobox_app_group">category_videobox_app_group</string>
-    <string name="preference_category_videobox_line_group">category_videobox_line_group</string>
-    <string name="preference_category_videobox_switch_group">category_videobox_switch_group</string>
-    <string name="preference_copied">«%1$s» در بریده‌دان کپی شد.</string>
-    <string name="preference_key_about_privacy">key_about_privacy</string>
-    <string name="preference_key_about_version">key_about_version</string>
-    <string name="preference_key_antivirus_choose_engine">key_antivirus_choose_engine</string>
-    <string name="preference_key_app_permission_control">key_app_permission_control</string>
-    <string name="preference_key_app_permission_install_debug">key_app_permission_install_debug</string>
-    <string name="preference_key_category_check_item">key_category_check_item</string>
-    <string name="preference_key_category_monitor">key_category_monitor</string>
-    <string name="preference_key_category_title_module_feature_settings">key_category_title_module_feature_settings</string>
-    <string name="preference_key_category_title_module_settings">key_category_title_module_settings</string>
-    <string name="preference_key_check_item_root">key_check_item_root</string>
-    <string name="preference_key_check_item_update">key_check_item_update</string>
-    <string name="preference_key_check_item_wifi">key_check_item_wifi</string>
-    <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
-    <string name="preference_key_create_shortcut">key_create_shortcut</string>
-    <string name="preference_key_cta_settings">key_cta_settings</string>
-    <string name="preference_key_database_auto_update_enabled">key_database_auto_update_enabled_%s</string>
-    <string name="preference_key_database_auto_update_time">key_database_auto_update_time_%s</string>
-    <string name="preference_key_manual_update_virus_db">key_manual_update_virus_db</string>
-    <string name="preference_key_module_antipam">module_antipam</string>
-    <string name="preference_key_module_antivirus">key_module_antivirus</string>
-    <string name="preference_key_module_garbage_cleanup">key_garbage_cleanup</string>
-    <string name="preference_key_module_network_assistant">key_network_assistant</string>
-    <string name="preference_key_module_power_center">module_power_center</string>
-    <string name="preference_key_open_virus_cloud_scan">key_open_virus_cloud_scan</string>
-    <string name="preference_key_open_virus_install_monitor">key_open_virus_install_monitor</string>
-    <string name="preference_key_optimize_manage">key_module_optimize_manage</string>
-    <string name="preference_key_permcenter_install_intercept_enabled">key_permcenter_install_intercept_enabled</string>
-    <string name="preference_key_settings_input_method">key_settings_input_method</string>
-    <string name="preference_key_settings_monitor">key_settings_monitor</string>
-    <string name="preference_key_sign_exception">key_sign_exception</string>
-    <string name="preference_key_videobox_line_location">key_videobox_line_location</string>
-    <string name="preference_key_videobox_line_location_in_new">preference_key_videobox_line_location_in_new</string>
-    <string name="preference_key_videobox_line_status">key_videobox_line_status</string>
-    <string name="preference_key_videobox_manager_apps">key_videobox_manager_apps</string>
-    <string name="preference_key_videobox_switch">key_videobox_switch</string>
-    <string name="preference_key_virus_lib_auto_update">key_virus_lib_auto_update</string>
-    <string name="preference_key_virus_white_list">key_virus_white_list</string>
     <string name="preferred_app_entries_browser">مرورگر</string>
     <string name="preferred_app_entries_camera">دوربین</string>
     <string name="preferred_app_entries_dial">شماره‌گیری</string>
@@ -2658,6 +2549,7 @@ medical card"</string>
     <string name="privacy_using_record">درحال ضبط صدا</string>
     <string name="privacyapp_number_masked_text">محتوای اعلان‌ها پنهان است</string>
     <string name="privacyapp_number_unmasked_text">محتوای اعلان‌ها می‌توانند پنهان شوند</string>
+    <string name="process_kernel_label">اندروید</string>
     <string name="process_mediaserver_label">سرور رسانه</string>
     <string name="process_vpnsdkmanager_label">افزاینده سرعت بازی</string>
     <string name="promotion">تبلیغ</string>
@@ -2665,7 +2557,6 @@ medical card"</string>
     <string name="prompt_input_time_illegal">این بار نمی‌توان تنظیم کرد، آن را تغییر داده و دوباره تلاش کنید</string>
     <string name="protocol_exception_title">عیب‌یابی پروتکل شبکه</string>
     <string name="protocol_loop_back_exception_summary">آزمایش بازگشت دور محلی ناموفق بود. برای گزارش دادن این مسئله به MIUI، به برنامه بازخورد بروید و گزارشی را از روی دستگاه خود ارسال کنید.</string>
-    <string name="qq_lucky_warning">QQ红包</string>
     <string name="qucick_replay_instrument">از پاسخ فوری در اعلان‌های پیام‌رسان‌های انتخاب شده (مانند واتساپ، WeCaht، QQ) استفاده کنید</string>
     <string name="quick_optimize_checking">درحال اسکن کردن</string>
     <string name="quick_optimize_no_fix_issue_subtitle">عمر باتری نتوانست بیشتر شود</string>
@@ -2681,7 +2572,6 @@ medical card"</string>
     <string name="quick_replay_list_title">برنامه‌های در دسترس</string>
     <string name="quick_reply_title">پاسخ فوری</string>
     <string name="quite_all_string">لغو</string>
-    <string name="random_expression">速抢模式</string>
     <string name="reach_daily_limit_value_body">مصرف اینترنت همراه خود را کاهش دهید.</string>
     <string name="reach_daily_limit_value_title">به سقف اینترنت همراه روزانه رسید</string>
     <string name="read_all_sms">خواندن همه</string>
@@ -2722,7 +2612,7 @@ medical card"</string>
     <string name="result_sms_title_auth">خطر افشای پیامک‌های مالی وجود دارد</string>
     <string name="result_wifi_header">خطرات Wi-Fi شناسایی شد</string>
     <string name="right_precent">%۱۰۰</string>
-    <string name="risk_count_suffix"></string>
+    <string name="risk_count_suffix" />
     <string name="roaming_allow_network_dialog_title">اجازه رومینگ اینترنت همراه داده شود؟</string>
     <string name="roaming_limit_dialog_message">به سقف اینترنت همراه روزانه رومینگ رسید.</string>
     <string name="roaming_limit_network_notification_body">برای مشاهده شبکه‌های اینترنت همراه موجود ضربه بزنید</string>
@@ -2769,17 +2659,16 @@ medical card"</string>
     <string name="sd_format_summary">پاک‌سازی همه داده‌های کارت SD (شامل آهنگ‌ها و عکس‌ها)</string>
     <string name="sd_insert_summary">برای سوار کردن کارت SD آن را وارد کنید</string>
     <string name="sd_mount">سوار کردن کارت SD</string>
-    <string name="sd_mount_summary"></string>
-    <string name="search_input_txt_na">"&lt;font color='#ff0000'&gt;%s&lt;/font&gt;"</string>
-    <string name="search_menu_title">جستجو</string>
+    <string name="sd_mount_summary" />
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">برنامه‌ای یافت نشد</string>
-    <string name="secondart_setting_title">红包提醒设置</string>
     <string name="section_clear_acc_item_title">%s. اگر همچنان فضای کافی وجود ندارد٬ از پاک‌سازی کننده استفاده کنید.</string>
     <string name="section_security_defend_item_title">با قفل برنامه از داده‌های خود حفاظت کنید</string>
     <string name="section_system_item_fixed">اصلاح شد</string>
     <string name="section_title_clear_acc">پاک‌سازی حافظه پنهان</string>
     <string name="section_title_security_defend">امنیت</string>
     <string name="section_title_system">امنیت سیستم</string>
+    <string name="security_bottom_guide_to_pm_text">برای باز کردن ابزارها رها کنید</string>
     <string name="security_center_slogan">دستگاه خود را سریع و امن نگه دارید</string>
     <string name="security_scan_optimizing">درحال بهینه‌سازی…</string>
     <string name="securityadd_install_fail">افزونه به‌روز نشد. دوباره تلاش کنید.</string>
@@ -2795,24 +2684,30 @@ medical card"</string>
     <string name="set_numeric_password_name">تنظیم PIN</string>
     <string name="set_pattern_password_name">تنظیم الگو</string>
     <string name="setting">تنظیمات</string>
-    <string name="setting_alarm_summary">各大平台官方红包活动闹钟提醒</string>
+    <string name="setting_online_service">خدمات آنلاین</string>
     <string name="setting_privacy_password">افزودن الگو</string>
     <string name="settings">تنظیمات مصرف اینترنت همراه</string>
     <string name="settings_battery_consume_abnormal_summary">دریافت اعلان هنگامی‌که باتری به سرعت درحال تخلیه است</string>
     <string name="settings_battery_consume_abnormal_title">اعلان‌های تخلیه باتری</string>
+    <string name="settings_camera_subtitle_no">بدون ابرداده</string>
     <string name="settings_category_other">سایر تنظیمات</string>
     <string name="settings_category_overheat">گرما</string>
     <string name="settings_choice_no_notification">خاموش</string>
+    <string name="settings_image_camera_summary">مدل دستگاه، ابرداده و غیره</string>
+    <string name="settings_location_subtitle_no">بدون اطلاعات مکانی</string>
     <string name="settings_power_save_ontime_title">زمان‌بندی</string>
-    <string name="shake_send_sticker_summary">在微信与QQ中，摇一摇随机出现搞笑表情。逢年过节拼表情，从此易如反掌！</string>
+    <string name="settings_share_enable_summary">مواردی که در WeChat همرسانی می‌کنید با یک نشان MIUI نمایان خواهند شد</string>
+    <string name="settings_share_info">در اینجا گزینه‌های همرسانی امن برای مواردی که از گالری و مدیریت فایل همرسانی می‌شوند در دسترسند:</string>
+    <string name="settings_show_detail">نمایش جزئیات</string>
+    <string name="settings_tip">برای دیدن گزینه‌های بیشتر به گالری > تنظیمات بروید</string>
+    <string name="settings_title">همرسانی امن</string>
     <string name="shield_keyboard_detail">دوبار دکمه‌ها را زده تا آن‌ها را با حالت روشن برگردانید</string>
     <string name="shield_keyboard_summary">محدود کردن دکمه‌ها و حرکات انگشت تمام صفحه هنگام بازی</string>
     <string name="shield_keyboard_title">محدود کردن دکمه‌ها و حرکات انگشت</string>
-    <string name="shoop_again_float">咻一咻</string>
     <string name="shortcut_title_scan">اسکن</string>
     <string name="shortcut_title_whatsapp_clean">پاک‌سازی کننده واتساپ</string>
     <string name="show_system_app">نمایش برنامه‌های سیستم</string>
-    <string name="show_traffic_dialog_message">اطلاعات مصرف اینترنت همراه در کرکره اعلان نمایش داده می‌شود. شما می‌توانید این ویژگی را در هر زمان در مصرف اینترنت همراه &gt; تنظیمات خاموش یا روشن کنید.</string>
+    <string name="show_traffic_dialog_message">اطلاعات مصرف اینترنت همراه در کرکره اعلان نمایش داده می‌شود. شما می‌توانید این ویژگی را در هر زمان در مصرف اینترنت همراه > تنظیمات خاموش یا روشن کنید.</string>
     <string name="show_traffic_dialog_title">نمایش مصرف در کرکره اعلان</string>
     <string name="showpattern">نشان دادن الگو</string>
     <string name="shutdown_cancel_reminder">خاموش نشد</string>
@@ -3010,11 +2905,10 @@ medical card"</string>
     <string name="status_bar_network_flow_content">امروز: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; باقی مانده: %2$s</string>
     <string name="status_bar_network_flow_content_not_setting">امروز: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp; این ماه: %2$s</string>
     <string name="status_bar_network_flow_content_virtual_card">%1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;%2$s&amp;nbsp;&amp;nbsp;&amp;nbsp;</string>
-    <string name="status_bar_network_flow_exceed_content">امروز: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;بیشتر از طرح: &lt;font color=%2$s&gt;%3$s&lt;/font&gt;</string>
+    <string name="status_bar_network_flow_exceed_content">امروز: %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;بیشتر از طرح: &lt;font color=%2$s>%3$s&lt;/font></string>
     <string name="status_bar_network_flow_phone_balance">"   موجودی تلفن:%1$s "</string>
-    <string name="status_bar_network_flow_purchase">"   خرید &gt;"</string>
-    <string name="status_bar_network_flow_setup_data_plan">"   راه‌اندازی طرح اینترنت همراه &gt;"</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_bar_network_flow_purchase">"   خرید >"</string>
+    <string name="status_bar_network_flow_setup_data_plan">"   راه‌اندازی طرح اینترنت همراه >"</string>
     <string name="still_retain_btn">نگه داشتن</string>
     <string name="stop_milink_connect">بازتاباندن متوقف شد</string>
     <string name="storage_activity_title">فضای ذخیره‌سازی</string>
@@ -3107,7 +3001,6 @@ medical card"</string>
     <string name="summary_cloud_space_almost_full">گرفتن حافظه</string>
     <string name="summary_cloud_space_full">فضای ذخیره‌سازی بیشتری بگیرید و به ویژگی‌های بیشتری دسترسی پیدا کنید</string>
     <string name="summary_cmcc_app_check">بعضی از برنامه‌ها را نمی‌توان تأیید کرد</string>
-    <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="summary_consume_power">اشکالات حرارت یافت شد. می‌تواند روی طول عمر باتری اثر بگذارد</string>
     <string name="summary_dark_mode">برخی صفحات به دلیل خدمات سوم‌شخص سیاه شدند</string>
     <string name="summary_data_flow">مصرف اینترنت همراه را کنترل کرده تا از هزینه‌های اضافی جلوگیری شود</string>
@@ -3181,24 +3074,24 @@ medical card"</string>
     <string name="system_permission_declare_agree">پذیرفتن</string>
     <string name="system_permission_declare_analytics_declare">ما شما را به ثبت‌نام در برنامه تجربه کاربرمان دعوت می‌کنیم. این برنامه برای گردآوری آمار به منظور بهبود خدماتی که به شما ارائه می‌کنیم نیاز به اتصال به اینترنت و استفاده از مجوزها یا ویژگی‌های زیر دارد. ما در اینجا داده‌ها را فقط برای اهداف آماری گردآوری کرده و طبق داده‌هایی که گردآوری می‌کنیم نمی‌توانیم شخص شما را شناسایی کنیم.</string>
     <string name="system_permission_declare_disagree">مخالف</string>
-    <string name="system_permission_declare_double_link">&lt;Data&gt;برای درک کامل حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\"%1$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_double_link">&lt;Data>برای درک کامل حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\"%1$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%2$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.&lt;/Data></string>
     <string name="system_permission_declare_main_purpose" formatted="false">به %1s خوش آمدید! این برنامه به شما اجازه استفاده از ویژگی‌های زیر را می‌دهد: %2s.</string>
-    <string name="system_permission_declare_meanwhile_double_link">&lt;Data&gt;ضمناً برای درک بهتر حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\"%1$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; و &lt;a href=\"%2$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>
-    <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data&gt;ضمناً برای درک بهتر حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\"%1$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>
-    <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data&gt;ضمناً برای درک بهتر حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\"%1$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_meanwhile_double_link">&lt;Data>ضمناً برای درک بهتر حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\"%1$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%2$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.&lt;/Data></string>
+    <string name="system_permission_declare_meanwhile_privacy_policy">&lt;Data>ضمناً برای درک بهتر حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.&lt;/Data></string>
+    <string name="system_permission_declare_meanwhile_user_agreement">&lt;Data>ضمناً برای درک بهتر حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\"%1$s\">توافق‌نامه کاربر&lt;/a> ما را خوانده و بپذیرید.&lt;/Data></string>
     <string name="system_permission_declare_no_say_no">در صورت انتخاب ندادن مجوزهای لازم و یا اجازه ندادن به ما برای جمع‌آوری و استفاده از داده‌هایتان، این برنامه به صورت عادی کار نخواهد کرد.</string>
-    <string name="system_permission_declare_no_say_no_analytics">در صورتی که مایل نیستید این مجوزها را بدهید، می‌توانید در تنظیمات &gt; تنظیمات بیشتر &gt; حریم خصوصی &gt; برنامه تجربه کاربر از آن‌ها جدا شوید.</string>
+    <string name="system_permission_declare_no_say_no_analytics">در صورتی که مایل نیستید این مجوزها را بدهید، می‌توانید در تنظیمات > تنظیمات بیشتر > حریم خصوصی > برنامه تجربه کاربر از آن‌ها جدا شوید.</string>
     <string name="system_permission_declare_no_say_no_non_mandatory">در صورت انتخاب ندادن مجوزهای لازم و یا اجازه ندادن به ما برای جمع‌آوری و استفاده از داده‌هایتان، این برنامه تا اندازه‌ای کار نخواهد کرد.</string>
     <string name="system_permission_declare_privacy_declare">این برنامه برای کارکرد عادی نیازمند اتصال به اینترنت و مجوزهای زیر است:</string>
     <string name="system_permission_declare_privacy_no_network">این برنامه برای کارکرد عادی نیاز به مجوزهای زیر دارد:</string>
     <string name="system_permission_declare_privacy_no_permission">این برنامه برای کارکرد عادی نیاز به اتصال به اینترنت و گردآوری داده‌های شخصی دارد.</string>
-    <string name="system_permission_declare_privacy_policy">&lt;Data&gt;برای درک کامل حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\"%1$s\"&gt;سیاست حفظ حریم خصوصی&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_privacy_policy">&lt;Data>برای درک کامل حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.&lt;/Data></string>
     <string name="system_permission_declare_revoke_system">می‌توانید از این برنامه خارج شوید.</string>
-    <string name="system_permission_declare_revoke_uninstallable">شما می‌توانید از حساب خارج، این برنامه را حذف و یا مجوز خود را از امنیت &gt; مدیریت برنامه‌ها &gt; مجوزها &gt; مجوزها بردارید.</string>
+    <string name="system_permission_declare_revoke_uninstallable">شما می‌توانید از حساب خارج، این برنامه را حذف و یا مجوز خود را از امنیت > مدیریت برنامه‌ها > مجوزها > مجوزها بردارید.</string>
     <string name="system_permission_declare_title">توجه</string>
     <string name="system_permission_declare_use_network">به شبکه متصل شوید</string>
     <string name="system_permission_declare_use_network_no_permission">به شبکه متصل شوید</string>
-    <string name="system_permission_declare_user_agreement">&lt;Data&gt;برای درک کامل حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\"%1$s\"&gt;توافق‌نامه کاربر&lt;/a&gt; ما را خوانده و بپذیرید.&lt;/Data&gt;</string>
+    <string name="system_permission_declare_user_agreement">&lt;Data>برای درک کامل حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href=\"%1$s\">توافق‌نامه کاربر&lt;/a> ما را خوانده و بپذیرید.&lt;/Data></string>
     <string name="system_permission_perm_answer_call">برقراری تماس</string>
     <string name="system_permission_perm_optional">" (اختیاری)"</string>
     <string name="system_permission_perm_read_mms">خواندن MMS</string>
@@ -3241,7 +3134,7 @@ medical card"</string>
     <string name="tc_sms_report_notify_get_timeout_body">مهلت زمانی فرآیند به پایان رسیده است. از طریق شرکت مخابرات خود مطمئن شوید که کد درخواست پیامک وارد شده صحیح است.</string>
     <string name="tc_sms_report_notify_get_timeout_title">پیامک مصرف اینترنت همراه دریافت نمی‌شود</string>
     <string name="tc_sms_report_receive_content">محتوای پیامک گزارش مصرف اینترنت همراه (تأیید آمار مصرف اینترنت همراه)</string>
-    <string name="tc_sms_report_receive_content_null">به بهبود این ویژگی به ما کمک کنید!&lt;br/&gt;به این صورت:&lt;br/&gt;1. به «بررسی پیام کوتاه فرمان» و «شماره دریافت‌کننده» بروید&lt;br/&gt;2. روی «دریافت قالب پیام کوتاه» ضربه بزنید&lt;br/&gt;3. منتظر بمانید تا پیام کوتاه را از شرکت مخابرات خود دریافت کنید &lt;br/&gt;4. روی «آپلود به MIUI»​ ضربه بزنید</string>
+    <string name="tc_sms_report_receive_content_null">به بهبود این ویژگی به ما کمک کنید!&lt;br/>به این صورت:&lt;br/>1. به «بررسی پیام کوتاه فرمان» و «شماره دریافت‌کننده» بروید&lt;br/>2. روی «دریافت قالب پیام کوتاه» ضربه بزنید&lt;br/>3. منتظر بمانید تا پیام کوتاه را از شرکت مخابرات خود دریافت کنید &lt;br/>4. روی «آپلود به MIUI»​ ضربه بزنید</string>
     <string name="tc_sms_report_receive_num">شماره دریافت‌کننده</string>
     <string name="tc_sms_report_send_num">شماره تلفن شرکت مخابرات #</string>
     <string name="tc_sms_report_summary">هنگامی که اطلاعات مصرف اینترنت همراه شما اشتباه است و یا به‌روز نمی‌شود با ارسال گزارش به بهبود این ویژگی به ما کمک کنید.</string>
@@ -3262,19 +3155,11 @@ medical card"</string>
     <string name="tether_over_limit_dialog_title">هشدار مصرف اینترنت</string>
     <string name="tether_over_limit_warning_notify_message">خاموش کردن کانون داغ همراه.</string>
     <string name="tether_over_limit_warning_notify_title">به سقف اینترنت همراه کانون داغ رسیدید</string>
-    <string name="text_alarm_after">"今年的红包活动已全部结束
-期待与您来年重聚"</string>
-    <string name="text_alarm_before">"今年的红包活动即将开始
-财神已就位，敬请期待"</string>
-    <string name="text_alarm_close">"开启红包闹钟
-及时提醒各种红包雨
-不再错过任何红包"</string>
-    <string name="text_all_control_summary">开启后当检测到红包时，自动点亮屏幕进行提示</string>
     <string name="text_button">فهمیدم</string>
     <string name="text_cycle_day">%s</string>
-    <string name="text_day"></string>
-    <string name="text_error">相关软件版本过低或未安装</string>
-    <string name="text_lucky_alarm_before">红包活动即将开始</string>
+    <string name="text_day" />
+    <string name="text_done">تأیید</string>
+    <string name="text_security">حریم خصوصی</string>
     <string name="thermal_tips_message">بازی کردن در حالت عملکرد ممکن است باعث مشکلات داغ کردن بشود.</string>
     <string name="thermal_tips_title">توجه</string>
     <string name="third_application">برنامه‌های نصب شده</string>
@@ -3332,7 +3217,6 @@ medical card"</string>
     <string name="title_miui_update_latest">MIUI به‌روز است</string>
     <string name="title_mms_no">فیلتر پیام خاموش است</string>
     <string name="title_mms_yes">فیلتر پیام روشن است</string>
-    <string name="title_more_setting">更多设置</string>
     <string name="title_network_switch">اتصال شبکه</string>
     <string name="title_of_app_manage">برنامه‌ها</string>
     <string name="title_of_auto_launch_manage">راه‌اندازی خودکار</string>
@@ -3413,7 +3297,7 @@ Rolled over extra data"</string>
 اینترنت همراه باقی‌مانده شامل حجم اینترنت وارد شده از ماه قبل است."</string>
     <string name="traffic_limit_error_alert_title">یادآوری سقف اینترنت همراه %s</string>
     <string name="traffic_none">هیچ</string>
-    <string name="traffic_over_purchase_link">"شما به سقف مصرف اینترنت همراه طرح خود رسیده‌اید.&lt;br/&gt;اگر از سقف مصرف اینترنت طرح خود فراتر بروید، ممکن است شرکت مخابراتی شما هزینه‌های اضافی دریافت کند.&lt;br/&gt;&lt;br/&gt;&lt;font color='#ccffffff'&gt;&lt;U&gt;برای افزایش موجودی خود ضربه بزنید.&lt;/U&gt;&lt;/font&gt;"</string>
+    <string name="traffic_over_purchase_link">"شما به سقف مصرف اینترنت همراه طرح خود رسیده‌اید.&lt;br/>اگر از سقف مصرف اینترنت طرح خود فراتر بروید، ممکن است شرکت مخابراتی شما هزینه‌های اضافی دریافت کند.&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>برای افزایش موجودی خود ضربه بزنید.&lt;/U>&lt;/font>"</string>
     <string name="traffic_provider_no_sim">سیم‌کارت نصب نیست</string>
     <string name="traffic_purchase_body">برای خرید اعتبار ضربه بزنید.</string>
     <string name="traffic_setting_fragment_area">مکان</string>
@@ -3447,12 +3331,6 @@ Rolled over extra data"</string>
     <string name="try_game">آزمایش</string>
     <string name="try_recommended_function">با استفاده از ویژگی‌های جدید امنیتی از دستگاه خود محافظت کنید</string>
     <string name="two_address_choose_hint">%1$s و %2$s</string>
-    <string name="txv_dnd_end_time_title">结束时间</string>
-    <string name="txv_dnd_start_time">0:00</string>
-    <string name="txv_dnd_start_time_title">起始时间</string>
-    <string name="txv_dnd_type_demo">仅屏蔽声音</string>
-    <string name="txv_dnd_type_title">勿扰方式</string>
-    <string name="txv_lucky_money_group_text">仅提醒群红包</string>
     <string name="unable_connect_internet">اتصال به اینترنت موجود نیست</string>
     <string name="uninstall_app_dialog_msg">حذف برنامه تمام داده‌های برنامه را نیز حذف می‌کند.</string>
     <string name="uninstall_app_dialog_title">حالا حذف شود؟</string>
@@ -3463,7 +3341,7 @@ Rolled over extra data"</string>
     <string name="uninstall_danagerous_title">حذف برنامه‌های مخرب</string>
     <string name="unlike">خیر، سپاسگزارم</string>
     <string name="unlock_failed">خطای داخلی</string>
-    <string name="unlock_pattern">الگو</string>
+    <string name="unlock_pattern"><u>الگو</u></string>
     <string name="unlock_pattern_to_bind_fingerprint">گذرواژه را برای فعال‌سازی اثر انگشت وارد کنید</string>
     <string name="unlock_set_unlock_password_summary">ترکیب کاراکترهای متفاوت</string>
     <string name="unlock_set_unlock_password_title">گذرواژه</string>
@@ -3495,20 +3373,20 @@ Rolled over extra data"</string>
     <string name="usb_insert_summary">اتصال دستگاه USB</string>
     <string name="usb_install_desc">این برنامه از طریق USB نصب شود؟</string>
     <string name="usb_mount">سوار کردن دستگاه USB</string>
-    <string name="usb_mount_summary"></string>
+    <string name="usb_mount_summary" />
     <string name="usbsharenet_exception_summary">نمی‌توان با استفاده از اتصال USB مشترک به اینترنت متصل شد. اتصال USB دستگاه خود را بررسی و Mi PC Suite را دوباره راه‌اندازی کنید.</string>
     <string name="usbsharenet_exception_title">آزمایش اینترنت همرسانی شده از طریق USB</string>
     <string name="usbsharenet_pc_exception_summary">نمی‌توان با استفاده از اتصال USB مشترک به اینترنت متصل شد. اتصال اینترنت کامپیوتر خود را بررسی کنید.</string>
     <string name="use_immediately">استفاده از</string>
     <string name="user_define_title">افزودن قاعده</string>
     <string name="user_guide">برای یافتن بازی‌های تازه بیشتر انگشت خود را به بالا بکشید</string>
-    <string name="user_guide_title">Joystick Picks</string>
-    <string name="v7_preference_off">خاموش</string>
-    <string name="v7_preference_on">روشن</string>
     <string name="vb_advanced_settings">تصویر</string>
     <string name="vb_advanced_settings_after_open">بعد</string>
     <string name="vb_advanced_settings_before_open">قبل</string>
     <string name="vb_advanced_settings_pic_stronger_desc">اشیاء درحال حرکت را به وسیله بهبود انیمیشن‌ها شفاف‌تر و روان‌تر می‌کند. این ویژگی به مصرف برق بیشتری نیاز دارد.</string>
+    <string name="vb_fps_settings">نرخ تازه‌سازی خودکار</string>
+    <string name="vb_fps_settings_tips">این ویژگی میزان تازه سازی صفحه را به نرخ فریم ویدئو تنظیم می‌کند، که باعث صرفه جویی در باتری و باز‌پخش روان می‌شود. روشن کردن نظرات شناور، نرخ تازه‌سازی خودکار را خاموش می‌کند.</string>
+    <string name="vb_quick_func_auto_bgm">شناسایی موسیقی زمینه</string>
     <string name="vb_quick_func_hangup_listening">پخش صدای ویدئو با صفحه خاموش</string>
     <string name="vb_quick_func_screen_capture">عکس صفحه</string>
     <string name="vb_quick_func_screen_record">ضبط</string>
@@ -3520,12 +3398,31 @@ Rolled over extra data"</string>
     <string name="vb_video_effects_display_style">سبک</string>
     <string name="vb_video_effects_setting_black_white">سیاه و سفید</string>
     <string name="vb_video_effects_setting_cinema">سینما</string>
+    <string name="vb_video_effects_setting_girl">خجالتی</string>
+    <string name="vb_video_effects_setting_gorgeous">لرزان</string>
+    <string name="vb_video_effects_setting_green_orange">نارنجی</string>
+    <string name="vb_video_effects_setting_grim">خنک</string>
+    <string name="vb_video_effects_setting_hdr">HDR</string>
+    <string name="vb_video_effects_setting_knight">فلزی</string>
+    <string name="vb_video_effects_setting_mecha">روبات</string>
+    <string name="vb_video_effects_setting_nostalgia">نوستالژی</string>
     <string name="vb_video_effects_setting_old_movie">گذشته</string>
     <string name="vb_video_effects_setting_outside">فضای باز</string>
     <string name="vb_video_effects_setting_raw">اصلی</string>
+    <string name="vb_video_effects_setting_solar">محو</string>
+    <string name="vb_video_effects_setting_warmth">گرم</string>
     <string name="vb_video_effects_settings_liquid">وضوح</string>
     <string name="vb_video_effects_settings_stereo">میزان صدا</string>
     <string name="vb_video_effects_srs_premium_sound">صدا</string>
+    <string name="vb_video_super_division">افزایش وضوح</string>
+    <string name="vb_video_super_division_desc">"افزایش وضوح به صورت خودکار هنگامی که ≤720p باشد.
+
+استفاده از این ویژگی مصرف برق را افزایش می‌دهد.
+
+این ویژگی در حالت هموارسازی حرکت کار نمی‌کند.
+روشن کردن یک ویژگی، ویژگی دیگر را خاموش می‌کند."</string>
+    <string name="vb_video_super_division_tips">"به اندازه کافی واضح نیستید؟
+ مقیاس وضوح را امتحان کنید!"</string>
     <string name="video_repeat">پخش دوباره</string>
     <string name="videobox_hangup_tips_content">صفحه شما قفل خواهد شد، اما برنامه هنگام روشن بودن این ویژگی در پس‌زمینه همچنان اجرا خواهد شد. برای روشن کردن دوباره صفحه، دکمه روشن/خاموش را فشار دهید. این ویژگی روشن شود؟</string>
     <string name="videobox_hangup_tips_title">توجه</string>
@@ -3542,9 +3439,8 @@ Rolled over extra data"</string>
     <string name="virus_scan_process_pre">%</string>
     <string name="virus_update_tips_title">هشدار</string>
     <string name="virus_wait_network_dialog_message">گوشی شما اکنون به Wi-Fi وصل نیست. از اینترنت همراه استفاده شود؟</string>
-    <string name="voltage_symbol">V</string>
     <string name="vtb_func_desc">درباره این ویژگی</string>
-    <string name="vtb_func_display_style_desc1">جلوه‌های انتخاب شده روی ویدئوهای HDR به‌کار برده نخواهند شد.</string>
+    <string name="vtb_func_display_style_desc1">جلوه‌های انتخاب شده در دستگاه‌های انتخاب شده روی ویدئوهای HDR به‌کار برده نخواهند شد.</string>
     <string name="vtb_func_display_style_desc2">این جلوه‌ها در عکس‌های صفحه به‌کار برده نمی‌شوند.</string>
     <string name="vtb_func_frc_desc0">هموارسازی حرکت تاری را کاهش داده و به اشیاء درحال حرکت جزئیات می‌افزاید. استفاده از این ویژگی مصرف برق را افزایش می‌دهد.</string>
     <string name="vtb_func_frc_desc1">هموارسازی حرکت در شرایط زیر کار نخواهد کرد:</string>
@@ -3557,42 +3453,10 @@ Rolled over extra data"</string>
     <string name="vtb_other_milink_connect">در حال حاضر ویدئو بازتابانده نمی‌شود. درحال آمادگی برای بازتاباندن سایر موارد…</string>
     <string name="vtb_stop_milink_connect">بازتاباندن ویدئو متوقف شد</string>
     <string name="wakepath_confirm_start_activity">به %1$s اجازه باز کردن %2$s داده شود؟</string>
-    <string name="warn_function_no_work">&lt;u&gt;来红包时无法正常提醒？&lt;/u&gt;</string>
-    <string name="warningcenter_action_check">View</string>
-    <string name="warningcenter_alert_home">Location</string>
-    <string name="warningcenter_alert_room">Room</string>
-    <string name="warningcenter_alert_source">MIUI Warning Center | Data source: %s</string>
-    <string name="warningcenter_alert_time">Time</string>
-    <string name="warningcenter_alert_warning_time">Time received: %s</string>
-    <string name="warningcenter_earthquake_info">Earthquake early warnings</string>
-    <string name="warningcenter_mijia_alert_close">Close</string>
-    <string name="warningcenter_mijia_alert_settings">Change settings in Security &gt; Alerts from smart home devices</string>
-    <string name="warningcenter_mijia_alert_tips_1">High gas concentration detected</string>
-    <string name="warningcenter_mijia_alert_tips_2">Smoke detected</string>
-    <string name="warningcenter_mijia_alert_tips_3">Flooding detected</string>
-    <string name="warningcenter_mijia_alert_tips_4">Your lock was damaged</string>
-    <string name="warningcenter_mijia_alert_view_device">View device</string>
-    <string name="warningcenter_mijia_devices_1">Flood detector</string>
-    <string name="warningcenter_mijia_devices_2">Smoke detector</string>
-    <string name="warningcenter_mijia_devices_3">Gas detector</string>
-    <string name="warningcenter_mijia_devices_4">Smart lock</string>
-    <string name="warningcenter_mijia_devices_support">Supported devices</string>
-    <string name="warningcenter_mijia_devices_support_tips">"Note: You won't be able to receive alerts if you sign out of your account in Mi Home or uninstall the app."</string>
-    <string name="warningcenter_mijia_info">Monitor your home security</string>
-    <string name="warningcenter_mijia_notification_summary">You can receive instant alerts</string>
-    <string name="warningcenter_mijia_notification_title">Alerts from smart home devices are on</string>
-    <string name="warningcenter_mijia_open_desc">"You'll receive alerts on this phone and other shared devices whenever alerts are issued by the devices you've added in Mi Home"</string>
-    <string name="warningcenter_mijia_open_title">Receive alerts from smart devices</string>
-    <string name="warningcenter_mijia_page_title">Alerts</string>
-    <string name="warningcenter_mijia_title">Alerts from smart home devices</string>
-    <string name="warningcenter_smarthome">Mi Home</string>
-    <string name="warningcenter_title">MIUI Warning Center</string>
-    <string name="weChat_not_found">您的应用版本过低或者未安装</string>
     <string name="website">وب‌سایت</string>
-    <string name="wechat_lucky_warning">微信红包</string>
     <string name="whitelist_prefix_add_hint">افزودن تمام شماره‌های دارای پیشوند به استثتاها</string>
     <string name="wifi_danger_dialog_messgae">شبکه Wi-Fi کنونی ممکن است خطرات امنیتی ایجاد کند. با احتیاط از آن استفاده کنید.</string>
-    <string name="wifi_danger_dialog_tips">شما ‌امنیت Wi-Fi را می‌توانید در برنامه امنیت &gt; اسکن امنیتی &gt; تنظیمات &gt;Wi-Fi. مدیریت کنید.</string>
+    <string name="wifi_danger_dialog_tips">شما ‌امنیت Wi-Fi را می‌توانید در برنامه امنیت > اسکن امنیتی > تنظیمات >Wi-Fi. مدیریت کنید.</string>
     <string name="wifi_danger_dialog_title">شبکه Wi-Fi امن نیست</string>
     <string name="wifi_exception_summary">آزمایش شبکه‌های Wi-Fi موجود</string>
     <string name="wifi_exception_title">آزمایش شبکه Wi-Fi</string>
@@ -3618,5 +3482,4 @@ Rolled over extra data"</string>
     <string name="xunyou_pay_webview">خدمات Xunyou</string>
     <string name="xunyou_server_expired">دوره به پایان رسید.</string>
     <string name="yuan">یوان</string>
-    <string name="zhifubao_not_found">您的应用版本过低或者未安装</string>
 </resources>

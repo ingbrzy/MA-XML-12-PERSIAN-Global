@@ -83,12 +83,16 @@
     <string name="HIPS_Perm_get_tasks_Desc">گرفتن وظایف</string>
     <string name="HIPS_Perm_install_shortcut">میان‌بر‌های صفحه اصلی</string>
     <string name="HIPS_Perm_install_shortcut_Desc">افزودن میانبر روی صفحه اصلی</string>
+    <string name="HIPS_Perm_mediaVolume">تنظیم میزان صدای رسانه</string>
+    <string name="HIPS_Perm_mediaVolume_Desc">اجازه تنظیم میزان صدای رسانه به برنامه</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">به سخت‌افزار ارتباط میدانی نزدیک (NFC) دسترسی داشته باشد</string>
     <string name="HIPS_Perm_process_outgoing_calls">دسترسی به برنامه تلفن</string>
     <string name="HIPS_Perm_process_outgoing_calls_Desc">بر تماس‌های دریافتی نظارت کند</string>
     <string name="HIPS_Perm_read_notification_sms">پیامک خدمات</string>
     <string name="HIPS_Perm_read_notification_sms_Desc">خواندن پیامک خدمات</string>
+    <string name="HIPS_Perm_recognition">دسترسی به اطلاعات فعالیت</string>
+    <string name="HIPS_Perm_recognition_Desc">به برنامه اجازه دسترسی به اطلاعات فعالیت شما داده شود</string>
     <string name="HIPS_Perm_service_foreground">خدمات پیش زمینه</string>
     <string name="HIPS_Perm_service_foreground_Desc">خدمات پیش زمینه</string>
     <string name="HIPS_Perm_show_when_locked">نمایش بر روی صفحه قفل</string>
@@ -103,7 +107,6 @@
     <string name="app_name">مجوزها</string>
     <string name="background_location_access_reminder_notification_content">این برنامه همیشه می‌تواند به موقعیت مکانی شما دسترسی داشته باشد. برای تغییر ضربه بزنید.</string>
     <string name="background_location_access_reminder_notification_title">%s از موقعیت مکانی شما استفاده می‌کرده است</string>
-    <string name="current_permission_template">%1$s(%2$d/%3$d)</string>
     <string name="default_permission_description">انجام اقدامات ناشناخته</string>
     <string name="grant_dialog_button_allow">اجازه دادن</string>
     <string name="grant_dialog_button_allow_always">همیشه اجازه داده شود</string>
@@ -118,6 +121,10 @@
     <string name="location_warning">%1$s یک ارائه دهنده خدمات موقعیت مکانی برای این دستگاه است. دسترسی به موقعیت مکانی می‌تواند در تنظیمات موقعیت مکانی اصلاح شود.</string>
     <string name="never_ask_again">پس از محدودسازی دوباره پرسیده نشود</string>
     <string name="ok">تأیید</string>
+    <string name="perm_action_allow">اجازه دادن</string>
+    <string name="perm_action_deny">هرگز اجازه داده نشود</string>
+    <string name="perm_modem_location">دسترسی به موقعیت شما</string>
+    <string name="perm_modem_location_desc">شرکت مخابراتی شما در تلاش است تا به اطلاعات موقعیت مکانی شما دسترسی یابد. اطلاعات مکان را با شرکت مخابراتی به اشتراک می‌گذارید؟</string>
     <string name="permdesc_camera">گرفتن عکس و ضبط ویدئو</string>
     <string name="permdesc_in_calls">نظارت بر تماس‌های دریافتی</string>
     <string name="permdesc_location">دسترسی به اطلاعات موقعیت مکانی</string>
@@ -155,7 +162,6 @@
     <string name="screen_overlay_button">باز کردن تنظیمات</string>
     <string name="screen_overlay_message">برای تغییر این مجوز، شما باید همپوشانی نمایشگر را در تنظیمات > برنامه‌ها خاموش کنید.</string>
     <string name="screen_overlay_title">همپوشانی صفحه شناسایی شد</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="virtual_reject_notice_content">یک پاسخ خالی به برنامه ارسال شد تا از اطلاعات شخصی شما محافظت شود</string>
     <string name="virtual_reject_notice_title_calendar">دسترسی به سالنامه توسط %1$s</string>
     <string name="virtual_reject_notice_title_calllog">دسترسی به تاریخچه تماس توسط %1$s</string>

@@ -16,6 +16,10 @@
         <item quantity="other">%1$d مورد انتخاب شد</item>
         <item quantity="one">%1$d مورد انتخاب شد</item>
     </plurals>
+    <plurals name="remove_dialog_title_multi_format">
+        <item quantity="other">%1$d برنامه از صفحه اصلی حذف شود؟</item>
+        <item quantity="one">%1$d برنامه از صفحه اصلی حذف شود؟</item>
+    </plurals>
     <plurals name="scroll_tip_format_when_announce_accessibility">
         <item quantity="other">صفحه %1$d، %2$dبرنامه.</item>
         <item quantity="one">صفحه %1$d، %2$dبرنامه.</item>

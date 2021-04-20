@@ -7,6 +7,12 @@
     <string name="add_custom_image">عکس سفارشی</string>
     <string name="add_from_album">افزودن از گالری</string>
     <string name="afternoon">بعد از ظهر</string>
+    <string name="align_center_horizontally">عمودی و چیدمان در وسط</string>
+    <string name="align_center_vertically">انباشته و چیدمان در وسط</string>
+    <string name="align_left_horizontally">عمودی و چسبیده به چپ</string>
+    <string name="align_left_vertically">انباشته و چسبیده به چپ</string>
+    <string name="align_right_horizontally">عمودی و چسبیده به راست</string>
+    <string name="align_right_vertically">انباشته و چسبیده به راست</string>
     <string name="align_type">تراز</string>
     <string name="always_style">همیشه</string>
     <string name="always_style_symmary">برق بیشتری مصرف می‌کند</string>
@@ -31,6 +37,7 @@ dd/MM"</string>
     <string name="aod_show_date_and_time">نمایش تاریخ و زمان</string>
     <string name="aod_show_style_title">نمایش موارد</string>
     <string name="aod_style">تم</string>
+    <string name="aod_theme_store">تم‌های نمایشگر همیشه روشن</string>
     <string name="aod_to_close">خاموش کردن</string>
     <string name="apply">به‌کارگیری</string>
     <string name="apply_succeed">با موفقیت به‌کار برده شد</string>
@@ -208,8 +215,8 @@ dd/MM"</string>
     <string name="scope_time">زیبابین</string>
     <string name="select_notification_animation_style">انتخاب جلوه ویژه</string>
     <string name="select_notification_notify_style">انتخاب جلوه اعلان</string>
-    <string name="share">همرسانی</string>
-    <string name="share_to_community">همرسانی در انجمن Mi</string>
+    <string name="share">هم‌رسانی</string>
+    <string name="share_to_community">هم‌رسانی در مجمع Mi</string>
     <string name="show_battery">نمایش وضعیت باتری</string>
     <string name="show_battery_status">نمایش وضعیت باتری</string>
     <string name="show_lunar">نمایش سالنامه سنتی چینی</string>
@@ -225,7 +232,7 @@ dd/MM"</string>
     <string name="step_component_info_active_tip">گام‌شمار توسط سلامت Xiaomi ارائه شده است. برای ادامه، سلامت Xiaomi را نصب یا به‌روز کرده و شرایط و ضوابط آن را بپذیرید.</string>
     <string name="step_component_info_desc">هنگامی که شما به هدف خود برسید، گام‌شمار به یک جایزه تبدیل می‌شود. گام‌شمار توسط سلامت Xiaomi ارائه شده است.</string>
     <string name="step_component_info_tip">گام‌شمار توسط سلامت Xiaomi ارائه شده است. برای ادامه، سلامت Xiaomi را نصب یا به‌روز کرده و شرایط و ضوابط آن را بپذیرید.</string>
-    <string name="step_to_image_community">موارد بیشتر را در انجمن Mi بیابید</string>
+    <string name="step_to_image_community">موارد بیشتر را در مجمع Mi بیابید</string>
     <string name="summary">هنگامی که دستگاه شما به مدت طولانی در تاریکی قرار بگیرد موارد نمایش داده نمی‌شوند تا مصرف برق کاهش یابد.</string>
     <string name="sunday">یک‌شنبه</string>
     <string name="sunday_short">یک‌شنبه</string>
