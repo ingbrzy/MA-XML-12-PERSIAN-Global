@@ -76,12 +76,6 @@
         <item>زیاد</item>
         <item>بالاترین</item>
     </string-array>
-    <string-array name="key_app_info">
-        <item>install_source</item>
-        <item>install_time</item>
-        <item>update_source</item>
-        <item>update_time</item>
-    </string-array>
     <string-array name="lock_mode">
         <item>هنگامی که دستگاه قفل است</item>
         <item>هنگامی که دستگاه قفل باشد یا پس از خارج شدن از برنامه</item>
@@ -100,20 +94,10 @@
         <item>نکته مهم: چندین برنامه سیستمی ممکن است کارکرد درستشان متوقف شود.</item>
         <item>طرح‌های متون، حساب‌ها و محتواها ممکن است به درستی نمایش داده نشوند.</item>
     </string-array>
-    <string-array name="operate_entries">
-        <item>@string/auto_task_operation_open</item>
-        <item>@string/auto_task_operation_close</item>
-        <item>@string/auto_task_operation_no_op</item>
-    </string-array>
     <string-array name="operate_entryValues">
         <item>0</item>
         <item>1</item>
         <item>2</item>
-    </string-array>
-    <string-array name="operate_memory_entries">
-        <item>@string/auto_task_operation_open</item>
-        <item>@string/auto_task_operation_close</item>
-        <item>@string/auto_task_operation_no_op</item>
     </string-array>
     <string-array name="operate_memory_entryValues">
         <item>0</item>
@@ -123,10 +107,6 @@
     <string-array name="over_limit_traffic_waring_style">
         <item>هشدار داده شود</item>
         <item>هشدار داده و اینترنت همراه خاموش شود</item>
-    </string-array>
-    <string-array name="pc_battery_history_spinner_choice">
-        <item>@string/pc_battery_history_consume_rank_menu_item</item>
-        <item>@string/pc_battery_history_battery_detail_menu_item</item>
     </string-array>
     <string-array name="pc_settings_thermal_entries">
         <item>پیش‌فرض</item>
