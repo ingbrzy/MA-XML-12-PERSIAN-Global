@@ -226,7 +226,7 @@
     <string-array name="track_frame_time_entries">
         <item>خاموش</item>
         <item>نمایش روی صفحه به صورت خطوط موازی</item>
-        <item>در میان adb shell dumpsys gfxinfo</item>
+        <item>در adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>پویانمایی خاموش</item>

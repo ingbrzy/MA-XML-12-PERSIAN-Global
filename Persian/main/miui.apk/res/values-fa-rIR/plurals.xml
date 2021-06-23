@@ -33,8 +33,8 @@
         <item quantity="one">ظرف ۱ دقیقه</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">همین الان</item>
-        <item quantity="one">همین الان</item>
+        <item quantity="other">چند لحظه پیش</item>
+        <item quantity="one">چند لحظه پیش</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d دقیقه پیش</item>
@@ -61,8 +61,8 @@
         <item quantity="one">ظرف ۱ دقیقه</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">همین الان</item>
-        <item quantity="one">همین الان</item>
+        <item quantity="other">چند لحظه پیش</item>
+        <item quantity="one">چند لحظه پیش</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d دقیقه پیش</item>

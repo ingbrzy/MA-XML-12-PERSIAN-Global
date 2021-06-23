@@ -83,12 +83,17 @@
     <string name="feedback_custom_hint">مشکلی که با آن روبرو شده‌اید را توضیح دهید. اگر پیشنهادی دارید ممنون می‌شویم جزئیات بیشتری ارائه دهید!</string>
     <string name="find_device">یافتن دستگاه</string>
     <string name="find_device_dspt_provision">در صورت گم کردن دستگاه می‌توانید به &lt;font color=#0097FF>%s&lt;/font> رفته تا آن را یافته، قفل نموده و یا بازنشانی کنید. این ویژگی را هر زمانی می‌توانید در تنظیمات روشن یا خاموش کنید.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_error_network">اتصال اینترنت خود را بررسی و دوباره تلاش کنید.</string>
     <string name="find_device_error_server">خطای سرور</string>
     <string name="find_device_gdpr_prompt">با روشن کردن یافتن دستگاه، شما <a href="app://com.miui.cloudservice.gdpr.license"><u> سیاست حفظ حریم خصوصی</u></a> ما را می‌پذیرید. در صورتی که نیاز به لغو این مجوز دارید، این ویژگی را خاموش کنید.</string>
     <string name="find_device_operation_failure_rpc">عملیات به دلیل خطای RPC انجام نشد.</string>
     <string name="find_device_send_sms_alert">اگر سیم‌کارت خود را تغییر دهید، برای فعال کردن این کارایی ممکن است پیام کوتاه دیگری به‌طور خودکار ارسال شود.</string>
     <string name="find_device_service_title">یافتن دستگاه</string>
+    <string name="find_device_status_summary">مکان‌یابی، قفل و همچنین پاک‌سازی داده‌ها از راه دور</string>
+    <string name="find_device_status_title_pad">یافتن دستگاه</string>
+    <string name="find_device_status_title_phone">یافتن دستگاه</string>
     <string name="finddevice_miservice_notification_content">در صورت گم شدن دستگاهتان آن را از راه دور قفل کنید</string>
     <string name="finddevice_miservice_notification_title">روشن کردن یافتن دستگاه</string>
     <string name="forget_password"><u>گذرواژه را فراموش کرده‌ام</u></string>
@@ -146,6 +151,8 @@
     <string name="loading">چند لحظه صبر کنید…</string>
     <string name="loading_enable_keybag">در حال روشن کردن مدیریت گذرواژه…</string>
     <string name="loading_server_key_info">درحال بارگذاری موارد…</string>
+    <string name="low_battery_locate_summary">گزارش اطلاعات خودکار موقعیت مکانی هنگام کم بودن شارژ باتری</string>
+    <string name="low_battery_locate_title">گزارش موقعیت مکانی هنگامی‌ کم بودن شارژ باتری</string>
     <string name="master_alert_notif_content">با پشتیبان‌گیری منظم موارد از از دست دادن داشته‌های مهمتان پیشگیری کنید.</string>
     <string name="master_alert_notif_title">روشن کردن فضای ابری Xiaomi</string>
     <string name="member_entrance_title_free_high_case_a">فضای بیشتری دریافت کنید</string>
@@ -248,14 +255,18 @@
     <string name="micloud_find_device_guide_noti_title_by_app_change_wx">‫WeChat به شما توصیه می‌کند یافتن دستگاه را روشن کنید</string>
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">‫Alipay به شما توصیه می‌کند یافتن دستگاه را روشن کنید</string>
     <string name="micloud_find_device_guide_progress">درحال روشن کردن یافتن دستگاه…</string>
+    <string name="micloud_find_device_guide_title">با حساب Mi خود وارد &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> شده تا دستگاه خود را مکان‌یابی و قفل کرده، آن را به عنوان گم شده علامت‌گذاری کرده یا داده‌ها را از راه دور پاک کنید. جزئیات را در &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>اینجا&lt;/a> ببینید.</string>
     <string name="micloud_find_device_open_fail">یافتن دستگاه روشن نشد</string>
     <string name="micloud_find_device_opened">یافتن دستگاه روشن شد</string>
     <string name="micloud_find_device_opened_content">یافتن دستگاه شما در %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_sms_alert">ممکن است یک پیامک ارسالی برای فعال‌سازی این خدمات لازم باشد. شرکت مخابراتی شما بابت این پیام از شما هزینه دریافت خواهد کرد. هنگامی که سیم‌کارت را تعویض می‌کنید، ممکن است یک پیام به صورت خودکار برای فعال‌سازی این ویژگی ارسال شود.</string>
     <string name="micloud_find_device_verify_button">فعال‌سازی دوباره یافتن دستگاه</string>
     <string name="micloud_find_device_verify_close">خاموش کردن یافتن دستگاه</string>
     <string name="micloud_find_device_verify_fail">یافتن دستگاه دوباره فعال نشد</string>
     <string name="micloud_find_device_verify_progress">درحال فعال‌سازی دوباره یافتن دستگاه…</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">همگام‌سازی لغو شده بود. دوباره تلاش کنید.</string>
     <string name="micloud_main_head_menu_cloud_backup">نسخه پشتیبان صفحه اصلی</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">تنظیمات سیستم و چیدمان صفحه اصلی</string>
@@ -349,7 +360,7 @@
     <string name="micloud_request_sync_too_frequent">تلاش‌ها بیش از حد شد. چند دقیقه صبر کرده و دوباره تلاش کنید.</string>
     <string name="micloud_setting_antispam_summary">موارد استثنا و شماره تلفن‌های مسدود شده</string>
     <string name="micloud_setting_bluetooth_summary">همگام‌سازی اطلاعات درباره دستگاه‌های جفت شده شما با فضای ابری</string>
-    <string name="micloud_setting_browser_summary">نشانک‌ها، تاریخچه و پنجره‌ها</string>
+    <string name="micloud_setting_browser_summary">نشانک‌ها، تاریخچه و زبانه‌ها</string>
     <string name="micloud_setting_calendar_summary">رویدادها</string>
     <string name="micloud_setting_calllog_summary">تاریخچه تماس</string>
     <string name="micloud_setting_contact_summary">مخاطبین و عکس‌های نمایه</string>
@@ -448,6 +459,9 @@
     <string name="picker_list_empty">هیچ مخاطبی اینجا نیست</string>
     <string name="picker_search_empty">مخاطبی یافت نشد</string>
     <string name="picker_search_hint">جستجو</string>
+    <string name="power_off_locate_summary">"گزارش موقعیت با فشار دادن طولانی دکمه روشن/خاموش.
+هنگامی که اتصال به شبکه ضعیف است، ممکن است اطلاعات موقعیت مکانی گزارش نشود."</string>
+    <string name="power_off_locate_title">گزارش موقعیت مکانی پیش از خاموش شدن</string>
     <string name="pre_privacy_policy">سیاست حفظ حریم خصوصی</string>
     <string name="pre_user_agreement">توافقنامه کاربر</string>
     <string name="pref_summary_sync_display_photo_on_wifi_only">فقط همگام‌سازی تصاویر نمایه مخاطبین در هنگامی که به یک شبکه Wi-Fi متصل می‌شوید صورت بگیرد</string>

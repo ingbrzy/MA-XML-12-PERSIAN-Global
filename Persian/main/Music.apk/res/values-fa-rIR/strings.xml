@@ -100,6 +100,7 @@
     <string name="back_confirm">دوباره ضربه بزنید تا برنامه را به پس‌زمینه بفرستید</string>
     <string name="bluetooth_device">دستگاه صوتی بلوتوث</string>
     <string name="btn_text_edit">ویرایش</string>
+    <string name="btn_text_view_all">نمایش همه</string>
     <string name="buffering">درحال آماده‌سازی…</string>
     <string name="button_cancel_download">لغو</string>
     <string name="button_download_now">اکنون دانلود شود</string>
@@ -179,11 +180,11 @@
     <string name="dialog_score_btn_good">امتیازدهی</string>
     <string name="dialog_score_msg_score_explorer">آیا موسیقی Mi را می‌پسندید؟</string>
     <string name="dialog_score_msg_score_not_good">ممکن است بازخورد خود را نیز به ما بدهید؟</string>
-    <string name="dialog_score_msg_score_perfect">عالی! برنامه ما را در فروشگاه Play هم ارزیابی می‌کنید؟</string>
+    <string name="dialog_score_msg_score_perfect">عالی! در فروشگاه Play نیز به برنامه ما امتیاز می‌دهید؟</string>
     <string name="dialog_score_prompt_bad">از بازخورد شما سپاسگزاریم! ما تمام تلاش خود را می‌کنیم تا برنامه و خدمات خود را بهبود بخشیم.</string>
     <string name="dialog_score_prompt_good">از پشتیبانی شما سپاسگزاریم! در Google Play به برنامه ما نیز امتیاز می‌دهید؟</string>
-    <string name="dialog_score_title">به برنامه ما رای دهید</string>
-    <string name="dialog_score_toast_rate">ابتدا به برنامه ما رای دهید</string>
+    <string name="dialog_score_title">به برنامه ما امتیاز دهید</string>
+    <string name="dialog_score_toast_rate">ابتدا به برنامه ما امتیاز دهید</string>
     <string name="dialog_score_toast_scroll_down_score_midrop">به طرف پایین کشیده تا به برنامه ما امتیاز دهید</string>
     <string name="dialog_song_sort_type">چینش آهنگ‌ها</string>
     <string name="dialog_song_sort_type_name">بر اساس نام</string>
@@ -240,7 +241,9 @@
     <string name="download_method">دانلود</string>
     <string name="download_no_application_title">فایل را نمی توان باز کرد</string>
     <string name="download_paused_in_power_save_mode">دانلودها هنگامی که بهینه‌ساز باتری روشن است متوقف می‌شوند</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">در حال دانلود…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">کیفیت دانلود</string>
     <string name="download_quality_summary">تنظیمات بیشتر برای آهنگ‌هایی که دانلود می‌کنید</string>
     <string name="download_queued">در نوبت قرار گرفت</string>
@@ -308,6 +311,8 @@
     <string name="fail_to_play">آهنگ پخش نمی‌شود</string>
     <string name="failed_not_access_sd_card">ابتدا اجازه دسترسی به کارت SD بدهید</string>
     <string name="failed_obtain_permissions">مجوزها داده نشدند</string>
+    <string name="failed_to_connect_hint">تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید</string>
+    <string name="failed_to_connect_text">به شبکه متصل نشد</string>
     <string name="fans">دنبال کنندگان</string>
     <string name="fav_login_msg">برای دانلود آهنگ وارد حساب Mi خود شوید</string>
     <string name="favorite_canceled">از موارد پسندیده حذف شد</string>
@@ -356,6 +361,7 @@
     <string name="high_sound_quality">بالا</string>
     <string name="higher_quality_music">صدای با کیفیت بالا</string>
     <string name="higher_quality_music_summary">پخش و دانلود فایل‌های دارای نرخ بیت بالاتر</string>
+    <string name="hint_search_songs_playlists_artists">جستجوی آهنگ‌ها، فهرست‌های پخش و هنرمندان</string>
     <string name="home_tab_home">خانه</string>
     <string name="home_tab_local">موسیقی من</string>
     <string name="home_tab_more_music">موسیقی‌های بیشتر</string>
@@ -450,6 +456,7 @@
     <string name="loadercontainer_loading">چند لحظه صبر کنید…</string>
     <string name="loading_hint">چند لحظه صبر کنید…</string>
     <string name="loading_reached_the_bottom">به آخر صفحه رسیدید</string>
+    <string name="loading_text">چند لحظه صبر کنید…</string>
     <string name="local_header_title">موسیقی محلی</string>
     <string name="local_music">آهنگ‌های محلی</string>
     <string name="local_music_is_not_available">شما آهنگی در دستگاه خود ندارید.</string>
@@ -520,7 +527,7 @@
     <string name="my_music_empty">فهرست پخش خالی است.</string>
     <string name="my_music_empty_goto_online">آهنگی یافت نشد</string>
     <string name="my_playlist_add_song">افزودن آهنگ</string>
-    <string name="my_playlist_create_self_playlist">با آهنگ‌های مورد پسند خود فهرست پخش بسازید</string>
+    <string name="my_playlist_create_self_playlist">با آهنگ‌های مورد پسند خود فهرست‌های پخش بسازید</string>
     <string name="my_playlist_set_to_private">اختصاصی کردن</string>
     <string name="my_playlist_set_to_public">عمومی کردن</string>
     <string name="network_disable">نمی توان به شبکه متصل شد</string>
@@ -658,13 +665,12 @@
     <string name="privacy_authorize_revoking">درحال باطل کردن مجوز…</string>
     <string name="privacy_desc">سیاست حفظ حریم خصوصی (اجباری)</string>
     <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=fa_IR</string>
     <string name="privacy_request_desc">"&lt;Data>موسیقی Mi برای ارائه خدمات پخش آنلاین نیاز به گردآوری اطلاعات شخصی لازم دارد. شما می‌توانید در &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما از چگونگی به‌کارگیری اطلاعاتی که گردآوری می‌کنیم آگاه شوید. شما در هر زمانی می‌توانید در تنظیمات رضایت خود را نسبت به سیاست حفظ حریم خصوصی موسیقی Mi پس بگیرید.
 پیش از استفاده از موسیقی Mi &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.
 چنانچه سیاست حفظ حریم خصوصی ما را نپذیرید، نمی‌توانید از برخی ویژگی‌های این برنامه استفاده کنید؛ با این وجود، کارایی‌های پایه‌ای همچنان برای شما در دسترس خواهند بود.&lt;/Data>"</string>
     <string name="privacy_request_subtitle">"به موسیقی Mi خوش آمدید! این برنامه خدمات زیر را ارائه می‌دهد:
-
 - پخش کننده محلی
-
 - خدمات پخش آنلاین"</string>
     <string name="privacy_request_title">شرایط و ضوابط</string>
     <string name="pro_member">عضو PRO</string>
@@ -768,7 +774,7 @@
     <string name="shuffle_on_notif">پخش تصادفی روشن است.</string>
     <string name="shuffle_play_toast_text">آهنگ‌های تصادفی…</string>
     <string name="similar_albums">آلبوم‌های مشابه</string>
-    <string name="similar_playlists">فهرست پخش‌های مشابه</string>
+    <string name="similar_playlists">فهرست‌های پخش مشابه</string>
     <string name="similar_songs">آهنگ‌های مشابه</string>
     <string name="similar_videos">ویدئوهای مشابه</string>
     <string name="skip">رد کردن</string>
@@ -891,7 +897,8 @@
     <string name="upload_playlist_to_hungama_positive_text">همگام‌سازی</string>
     <string name="upload_playlist_to_hungama_title">آهنگ‌های آنلاین را در Hungama همگام‌سازی کرده تا بتوانید در سایر دستگاه‌هایی که از حساب Mi خود استفاده می‌کنید به آن‌ها دسترسی یابید.</string>
     <string name="upload_playlist_to_hungama_toast">آهنگ‌های آنلاین در Hungama همگام‌سازی خواهند شد</string>
-    <string name="user_agreement">توافقنامه کاربر</string>
+    <string name="user_agreement">توافق‌نامه کاربر</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=fa_IR</string>
     <string name="user_playlist_plaza">فهرست‌های پخش</string>
     <string name="user_privacy_dialog_negative_text">لغو</string>
     <string name="user_privacy_dialog_positive_count_down_text">پس گرفتن (%s ثانیه)</string>

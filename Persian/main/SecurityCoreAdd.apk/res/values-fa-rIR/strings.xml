@@ -249,7 +249,6 @@
     <string name="notificationTitle">میانبر کرکره اعلان</string>
     <string name="notification_from_owner_user">نمایش اعلان‌ها از فضای نخست</string>
     <string name="notification_from_second_user">نمایش اعلان‌ها از فضای دوم</string>
-    <string name="notification_recommend_title">۱۲ برنامه برتر برای فضای دوم</string>
     <string name="notification_setting_second_space">ایجاد فضای دوم</string>
     <string name="notification_setting_second_space_desc">گذرواژه فضای دوم را افزوده و داده‌ها را منتقل کنید</string>
     <string name="ok_button">تأیید</string>
@@ -452,10 +451,14 @@
     <string name="xspace_disable">ایجاد نشد</string>
     <string name="xspace_enable">ایجاد شد</string>
     <string name="xspace_facebook_title">فیس‌بوک</string>
-    <string name="xspace_guide_des">از ۲ حساب بدون جابجایی استفاده کنید</string>
-    <string name="xspace_guide_title">یک برنامه همزاد ایجاد کنید</string>
+    <string name="xspace_guide_content_bound">برنامه‌های در دسترس</string>
+    <string name="xspace_guide_des">برنامه‌های دوگانه به شما این امکان را می‌دهد تا بدون جابجایی بین آن‌ها از دو حساب همزمان استفاده کنید</string>
+    <string name="xspace_guide_description">"هر حسابی
+سزاوار برنامه‌های خودش است"</string>
+    <string name="xspace_guide_title">آزمایش برنامه‌های دوگانه</string>
     <string name="xspace_header">برنامه‌های همزاد</string>
     <string name="xspace_instagram_title">اینستاگرام</string>
+    <string name="xspace_install_complete">&lt;font> برنامه‌های همزاد با موفقیت ایجاد شد. &lt;/font>&lt;font color=#0D84FF> اکنون باز کنید&lt;/font>.</string>
     <string name="xspace_install_completed">آیکون به صفحه اصلی افزوده شد</string>
     <string name="xspace_install_completed_global">آیکون به کشو افزوده شد</string>
     <string name="xspace_install_failed">ایجاد نشد</string>
@@ -464,11 +467,13 @@
     <string name="xspace_label">برنامه‌های همزاد</string>
     <string name="xspace_loading_msg">در حال بارگذاری برنامه‌ها…</string>
     <string name="xspace_notification">اعلان‌های برنامه همزاد</string>
+    <string name="xspace_notification_button">آزمایش</string>
     <string name="xspace_notification_error">وارد حساب WeChat همزاد شده و دوباره تلاش کنید</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">حذف حساب‌های برنامه‌های دوگانه</string>
     <string name="xspace_setting_label">تنظیمات برنامه همزاد</string>
     <string name="xspace_settins">تنظیم</string>
+    <string name="xspace_start">ایجاد</string>
     <string name="xspace_uninstall_completed">برنامه همزاد با موفقیت حذف شد</string>
     <string name="xspace_uninstall_dialog_content">حذف برنامه همزاد تمام داده‌های برنامه را حذف خواهد کرد.</string>
     <string name="xspace_uninstall_dialog_title">حذف برنامه همزاد</string>

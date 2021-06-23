@@ -18,10 +18,13 @@
     <string name="access_control_password_title">قفل برنامه</string>
     <string name="access_control_recording_intro_header">یک الگوی گشودن قفل بکشید</string>
     <string name="access_control_reset_by_account">برای بازنشانی گذرواژه وارد حساب Mi خود شوید</string>
+    <string name="accessibility_back">بازگشت</string>
+    <string name="accessibility_clear">پاک‌سازی</string>
     <string name="accessibility_close_tab">بستن زبانه کنونی</string>
     <string name="accessibility_display_daltonizer_preference_subtitle">این ویژگی تجربی است و ممکن از بر روی کارایی تأثیر بگذارد.</string>
     <string name="accessibility_display_daltonizer_preference_title">اصلاح رنگ</string>
     <string name="accessibility_enable">قابلیت دسترسی</string>
+    <string name="accessibility_haptic">دسترسی‌پذیری</string>
     <string name="accessibility_manual_zen_less_time">زمان کمتر.</string>
     <string name="accessibility_manual_zen_more_time">زمان بیشتر.</string>
     <string name="accessibility_menu_description">"منوی دسترسی‌پذیری میان‌برهای آسانی را ارائه می‌کند که اجازه می‌دهد دستگاه خود را کنترل کنید.
@@ -32,11 +35,13 @@
     <string name="accessibility_more_settings">تنظیمات بیشتر</string>
     <string name="accessibility_no_wifi">از Wi-Fi قطع شد.</string>
     <string name="accessibility_screen_magnification_enable">حرکات بزرگ‌نمایی</string>
+    <string name="accessibility_screen_reader_haptic_title">صفحه‌خوان</string>
     <string name="accessibility_settings_tabs_general">عمومی</string>
     <string name="accessibility_settings_tabs_hearing">شنوایی</string>
     <string name="accessibility_settings_tabs_physical">فیزیکی</string>
     <string name="accessibility_settings_tabs_visual">دیداری</string>
     <string name="accessibility_summary_source">ارائه شده توسط %s</string>
+    <string name="accessibility_voice_access_title">فرمان‌های صوتی</string>
     <string name="accessibility_vpn_settings_info">پیکربندی VPN</string>
     <string name="accessibility_wifi_off">Wi-Fi خاموش است.</string>
     <string name="accessibility_wifi_one_bar">یک خط سیگنال Wi-Fi.</string>
@@ -56,8 +61,6 @@
     <string name="acount_data">حساب‌ها</string>
     <string name="activating">درحال فعال‌سازی…</string>
     <string name="active_input_method_subtypes">شیوه‌های ورود فعال</string>
-    <string name="activity_check_context">دستگاه شما اکنون در تلاش است تا به اینترنت متصل شود. اگر از اینترنت همراه استفاده می‌کنید، این فرآیند ممکن است بیش از آنچه انتظار دارید طول بکشد. می‌توانید بازگردید و به یک شبکه Wi-Fi متصل شوید یا منتظر بمانید تا اتصال اینترنت همراه برقرار شود.</string>
-    <string name="activity_check_title">درحال اتصال به اینترنت</string>
     <string name="activity_title_power_manager">بهینه‌ساز باتری;صرفه‌جویی باتری</string>
     <string name="ad_service">خدمات آگهی</string>
     <string name="adb_device_fingerprint_title_format">اثر انگشت دستگاه: %1$s</string>
@@ -118,10 +121,14 @@
     <string name="add_rule">افزودن قاعده</string>
     <string name="additional_system_update_settings_list_item_title">به روزرسانی‌های اضافی سیستم</string>
     <string name="adjust_3d_depth_title">تنظیم عمق 3D بازی‌ها</string>
+    <string name="adjust_font_size_answer_cn">با استفاده از نوارهای زیر اندازه متن و وزن قلم را تنظیم کنید!</string>
+    <string name="adjust_font_size_answer_global">با استفاده از نوارهای زیر اندازه متن و وزن قلم را تنظیم کنید!</string>
     <string name="adjust_temperature_title">دمای رنگ</string>
     <string name="advanced_gesture">اشاره‌های سفارشی</string>
     <string name="advanced_screen_paper_mode_title">حالت مطالعه</string>
     <string name="advanced_settings">تنظیمات بیشتر</string>
+    <string name="aggregate_rule_group_disabled">گروه‌بندی نشود</string>
+    <string name="aggregate_rule_group_enabled">گروه‌بندی</string>
     <string name="aggregate_title">قوانین گروه‌بندی اعلان‌ها</string>
     <string name="agps_roaming">A-GPS در هنگام رومینگ</string>
     <string name="agps_roaming_dia">استفاده از A-GPS در حالت رومینگ ممکن است میزان مصرف اینترنت همراه را افزایش دهد. اگر از حد مصرف اینترنت همراهی طرح خود بیشتر استفاده کنید، ممکن است متحمل هزینه اضافی شوید.</string>
@@ -143,11 +150,12 @@
     <string name="alarm_stop_info">حالت بی‌صدا هنگامی‌که هشدار خاموش شود، خاموش خواهد شد</string>
     <string name="alarm_template">در %1$s</string>
     <string name="alarm_template_far">در %1$s</string>
+    <string name="alarm_volume_option_title">هشدار</string>
     <string name="allow_device_id_access">انتخاب برنامه‌هایی که می‌تواند از شناسه دستگاه استفاده کند</string>
     <string name="allow_float_summary">اجازه اعلان‌های شناور</string>
-    <string name="allow_float_title">آگهی‌های شناور</string>
+    <string name="allow_float_title">اجازه اعلان‌های شناور</string>
     <string name="allow_keyguard_summary">اجازه اعلان‌ها در صفحه قفل</string>
-    <string name="allow_keyguard_title">اعلان‌های صفحه قفل</string>
+    <string name="allow_keyguard_title">اجازه دادن به اعلان‌های صفحه قفل</string>
     <string name="allow_lights_title">اجازه استفاده از چراغ LED</string>
     <string name="allow_mock_location">اجازه ساختگی کردن موقعیت مکانی</string>
     <string name="allow_mock_location_summary">اجازه ساختگی کردن موقعیت مکانی</string>
@@ -156,8 +164,8 @@
     <string name="allow_sound_title">اجازه پخش صدا</string>
     <string name="allow_vibrate_title">اجازه لرزش</string>
     <string name="alpha_build">آلفا</string>
+    <string name="already_delete_system_app">برنامه‌های سیستمی حذف شده</string>
     <string name="always">همیشه</string>
-    <string name="always_style">همیشه</string>
     <string name="ambient_display_screen_summary_always_on">همیشه روشن / مصرف شارژ بالا</string>
     <string name="ambient_display_screen_summary_notifications">اعلان‌های جدید</string>
     <string name="ambient_display_screen_title">نمایشگر همیشه روشن</string>
@@ -172,8 +180,9 @@
     <string name="aod_and_lock_screen_settings_title">نمایشگر همیشه روشن و صفحه قفل</string>
     <string name="aod_close_color_inversion">این ویژگی در حالت وارونگی رنگ کار نمی‌کند. ابتدا وارونگی رنگ را خاموش کنید.</string>
     <string name="aod_name_wanxiang">نمایشگر همیشه روشن</string>
-    <string name="aod_notification_style_animation">نمایش انیمیشن</string>
-    <string name="aod_notification_style_none">کاری انجام نشود</string>
+    <string name="aod_notification_style">جلوه اعلان‌</string>
+    <string name="aod_notification_style_animation">پویانمایی</string>
+    <string name="aod_notification_style_none">هیچ‌یک</string>
     <string name="aod_notification_style_screen_on">روشن شدن صفحه نمایش</string>
     <string name="aod_settings_category_name">نمایشگر همیشه روشن</string>
     <string name="aod_settings_title">نمایشگر همیشه روشن</string>
@@ -236,7 +245,7 @@
     <string name="audio_profile_settings_title">نمایه‌های صوتی</string>
     <string name="audio_share_cancel">خیر، سپاسگزارم</string>
     <string name="audio_share_confirm">تقسیم کردن</string>
-    <string name="auto_adjst_effect_summary">دمای رنگ به صورت خودکار با نور محیط تنظیم می‌شود</string>
+    <string name="auto_adjst_effect_summary">تنظیم خودکار دمای رنگ با نور محیط به منظور حفظ سطح آسایش بهینه</string>
     <string name="auto_adjust_effect_title">تنظیم خودکار دمای رنگ</string>
     <string name="auto_clean_description">"درباره این ویژگی
 ۱. در صورتی که دریافتید بلندگوی گوشی شما توسط مقدار کمی گرد و غبار مسدود شده است این ویژگی را یک یا دو بار اجرا کنید.
@@ -261,6 +270,7 @@
     <string name="available_via_carrier">قابل دسترسی از طریق %1$s</string>
     <string name="available_via_passpoint">قابل دسترسی از طریق %1$s</string>
     <string name="avoid_ui">مسدود کردن واکنش به لمس</string>
+    <string name="back">بازگشت</string>
     <string name="back_button">بازگشت</string>
     <string name="back_double_tap">دو ضرب به پشت</string>
     <string name="back_key">بازگشت</string>
@@ -301,7 +311,7 @@
     <string name="backup_set_new_pw_title">گذرواژه پشتیبان‌گیری جدید را وارد کنید</string>
     <string name="backup_set_null_pw">ابتدا گذرواژه را وارد کنید</string>
     <string name="backup_set_pw_confirm_title">گذرواژه پشتیبان‌گیری جدید را وارد تأیید کنید</string>
-    <string name="badge_title">نمایش نشان‌های آیکون برنامه</string>
+    <string name="badge_title">اجازه دادن به نشان‌های اعلان‌ها</string>
     <string name="band_24G">" (باند ۲.۴ گیگاهرتزی)"</string>
     <string name="band_5G">" (باند ۵ گیگاهرتزی)"</string>
     <string name="batch_delete_saved_network">شبکه‌های انتخاب شده حذف شود: %s؟</string>
@@ -524,7 +534,7 @@
     <string name="bluetooth_talkback_imaging">تجسم کردن</string>
     <string name="bluetooth_talkback_input_peripheral">دستگاه ورودی محیطی</string>
     <string name="bluetooth_talkback_phone">تلفن</string>
-    <string name="bluetooth_tether_checkbox_text">همرسانی شبکه با بلوتوث</string>
+    <string name="bluetooth_tether_checkbox_text">هم‌رسانی شبکه با بلوتوث</string>
     <string name="bluetooth_tethering_available_subtext">درحال اتصال اینترنت این گوشی از طریق بلوتوث</string>
     <string name="bluetooth_tethering_device_connected_subtext">درحال همرسانی ارتباط اینترنت این گوشی از طریق بلوتوث با ۱ دستگاه</string>
     <string name="bluetooth_tethering_devices_connected_subtext">درحال همرسانی ارتباط اینترنت این گوشی از طریق بلوتوث با %1$d دستگاه</string>
@@ -603,6 +613,7 @@
 در صورتی که هر کدام از موارد بالا را انجام داده‌اید، حساب Mi خود را دوباره بیافزایید؛ در غیر این صورت دیگر نمی‌توانید قفل دستگاه خود را باز کنید."</string>
     <string name="bootloader_tips_ok">فهمیدم</string>
     <string name="bootloader_tips_warning">اتصال شبکه را قطع نکرده، از حساب Mi خود خارج نشده، به تنظیمات کارخانه بازنشانی نکرده و داده‌های سیستمی را پاک نکنید.</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bottom_function_settings">کارایی‌های دکمه‌های افزوده</string>
     <string name="breathing_light_color_menu_title">رنگ نور</string>
     <string name="breathing_light_color_summary">رنگ روشن چراغ هنگام دریافت اعلان‌های جدید</string>
@@ -635,6 +646,10 @@
     <string name="bt_ldac_open_dialog_title">LDAC روشن شود؟</string>
     <string name="bt_ldac_pre_title">LDAC</string>
     <string name="bt_ldac_property">مشخصات</string>
+    <string name="bt_leaudio_open_dialog_summary">هنگام روشن بودن LC3 نمی‌توانید به چند دستگاه متصل شوید. در صورت روشن کردن این ویژگی، سایر دستگاه‌های متصل قطع خواهند شد. در هر صورت LC3 روشن شود؟</string>
+    <string name="bt_leaudio_open_dialog_title">توجه</string>
+    <string name="bt_leaudio_pre_title">LC3</string>
+    <string name="bt_leaudio_summary">تجربه صدای با کیفیت</string>
     <string name="bt_lhdc_declaration">چنانچه دستگاهی از LHDC پشتیبانی کند، به صورت پیش‌فرض متصل می‌شود. LHDC اجازه پخش صدای با کیفیت بالا را داده و هنگام بازی کردن تأخیر را کاهش می‌دهد، اما مصرف برق را نیز افزایش می‌دهد. به دلیل محدودیت‌های سخت‌افزاری بلوتوث، ممکن است اشکالاتی رخ دهد.</string>
     <string name="bt_lhdc_dialog_summary">‫LHDC به شما اجازه پخش صدای با کیفیت و کاهش تأخیر هنگام بازی کردن می‌دهد، اما مصرف برق را نیز افزایش می‌دهد. این ویژگی می‌تواند در تنظیمات خاموش شود.</string>
     <string name="bt_lhdc_dialog_title">این دستگاه از LHDC پشتیبانی می‌کند که به صورت پیش‌فرض متصل شده است:</string>
@@ -654,7 +669,9 @@
     <string name="bugreport_in_power_summary">نمایش یک دکمه در منوی باتری برای گرفتن یک گزارش اشکال</string>
     <string name="button_convert_fbe">پاک‌سازی و تبدیل…</string>
     <string name="button_disconnect_network">قطع اتصال از شبکه</string>
+    <string name="button_height_text">یک دکمه تأیید عمومی (مانند: «تأیید»، «انجام شد»)</string>
     <string name="button_light_timeout">روشن نگه‌داشتن نور دکمه‌ها</string>
+    <string name="button_normal_text">دکمه عادی</string>
     <string name="button_text_accept">اجازه دادن</string>
     <string name="button_text_accept_timer">اجازه دادن (%d)</string>
     <string name="button_text_cancel">لغو</string>
@@ -710,6 +727,7 @@
     <string name="charge_length_format">%1$s پیش</string>
     <string name="check_find_device_status_failure_confirm">تأیید</string>
     <string name="check_update">بررسی به‌روزرسانی‌ها</string>
+    <string name="checkbox_text">کلید</string>
     <string name="checking_find_device_status">درحال بررسی وضعیت یابنده دستگاه…</string>
     <string name="checking_for_updates">بررسی به‌روزرسانی‌ها…</string>
     <string name="choose_a_card_to_reset">سیمکارت را برای بازنشانی انتخاب کنید</string>
@@ -751,6 +769,21 @@
     <string name="codec_low_latency_title">تأخیر کم</string>
     <string name="color_calibration_none">این دستگاه</string>
     <string name="color_calibration_srgb">sRGB</string>
+    <string name="color_game_led_applications_title">انتخاب برنامه‌ها</string>
+    <string name="color_game_led_applications_title_summary">انتخاب برنامه‌های خاصی که با چراغ LED کار خواهند کرد</string>
+    <string name="color_game_led_battery_title">روشن ماندن هنگام شارژ</string>
+    <string name="color_game_led_charging_summary">چراغ LED پس از کامل شدن شارژ باتری خاموش خواهد شد</string>
+    <string name="color_game_led_end_time">پایان</string>
+    <string name="color_game_led_game_mode_summary">نمایش جلوه‌های نوری برای بازی‌ها هنگام روشن بودن افزاینده سرعت بازی</string>
+    <string name="color_game_led_game_mode_title">به‌کارگیری برای افزاینده سرعت بازی</string>
+    <string name="color_game_led_incall_pulse_title">به‌کارگیری برای تماس‌های دریافتی</string>
+    <string name="color_game_led_notification_pulse_title">چشمک زدن برای اعلان‌ها در حالت نمایشگر همیشه روشن</string>
+    <string name="color_game_led_remind_title">جلوه‌ها</string>
+    <string name="color_game_led_special_scene_title">جلوه‌های ویژه</string>
+    <string name="color_game_led_start_time">آغاز</string>
+    <string name="color_game_led_summary">در حالت مزاحم نشوید کار نمی‌کند</string>
+    <string name="color_game_led_time_title">زمان‌بندی زمان روشن شدن</string>
+    <string name="color_game_led_title">چراغ LED</string>
     <string name="color_lamp_applications_title">مدیریت اعلان‌ها</string>
     <string name="color_lamp_applications_title_summary">شما می‌توانید چراغ LED را برای برنامه‌های خاصی محدود کنید</string>
     <string name="color_lamp_battery_title">روشن ماندن هنگام شارژ</string>
@@ -835,6 +868,8 @@
     <string name="credentials_configure_lock_screen_hint">قبل از استفاده از حافظه اعتباری، باید یک PIN یا گذرواژه صفحه قفل تنظیم کنید.</string>
     <string name="credentials_password_too_short">حداقل ۸ کاراکتر</string>
     <string name="credentials_title_verification">گواهینامه</string>
+    <string name="crisp_text">فرکانس بالا به جزئیات هر عمل وضوح بیشتر می‌دهد</string>
+    <string name="critical_feedback">بازخورد شدید</string>
     <string name="crypt_keeper_conditions">"رمزگذاری یک ساعت یا بیشتر طول می‌کشد.
 باید با باتری شارژ شده آغاز کرده و هنگام فرایند گوشی خود را به برق متصل نگه دارید.
 اگر متوقف کنید، برخی یا همه اطلاعات خود را از دست خواهید داد."</string>
@@ -857,6 +892,7 @@
     <string name="custom_color">سفارشی</string>
     <string name="custom_gesture_title">اشاره‌های سفارشی</string>
     <string name="custom_wifi_name_title">ویرایش نام Wi-Fi</string>
+    <string name="customize_knock_gesture">حرکات بند انگشت سفارشی</string>
     <string name="cutout_mode_always">نمایش همیشگی فرورفتگی</string>
     <string name="cutout_mode_default">خودکار</string>
     <string name="cutout_mode_settings_title">در صورتی که طرز نمایش فرورفتگی را سفارشی کنید ممکن است برخی برنامه‌ها به درستی نمایش داده نشوند.</string>
@@ -879,7 +915,7 @@
     <string name="dark_mode_apps_header">برنامه‌های خاص</string>
     <string name="dark_mode_contrast">تنظیم خودکار کنتراست</string>
     <string name="dark_mode_contrast_hint">هنگام کاهش روشنایی، به صورت خودکار رنگ‌ها را تنظیم و کنتراست را کم می‌کند</string>
-    <string name="dark_mode_font_background_title">تنظیم متن و پس‌زمینه به صورت خودکار</string>
+    <string name="dark_mode_font_background_title">متن و پس‌زمینه را به صورت خودکار تنظیم کنید</string>
     <string name="dark_ui_mode_title">تنظیم تم</string>
     <string name="dark_ui_settings_light_summary">این تنظیمات همچنین روی برنامه‌ها به‌کار برده می‌شود</string>
     <string name="dark_wallpaper_mode">تنظیم تصویر زمینه به حالت تاریک</string>
@@ -988,7 +1024,7 @@
     <string name="device_oaid_desc">به جای شناساگر منحصر به فرد شما، MIUI یک شناسه مجازی (OAID) به برنامه‌های نصب شده ارائه می‌دهد. این کار جلوی برنامه‌ها را از دنبال کردن رفتار و پیش‌تنظیمات شما می‌گیرد و از حریم خصوصی شما محافظت می‌کند.</string>
     <string name="device_oaid_title">شناسه مجازی</string>
     <string name="device_of_someone">%2$s %1$s</string>
-    <string name="device_opcust_version">نسخه سفارشی</string>
+    <string name="device_opcust_version">نسخه عملگر</string>
     <string name="device_rear_camera">دوربین پشت</string>
     <string name="device_screen_resolution">وضوح صفحه</string>
     <string name="device_screen_size">اندازه صفحه</string>
@@ -997,12 +1033,6 @@
     <string name="device_total_memory">حافظه کل</string>
     <string name="dial_application_title">شماره‌گیری</string>
     <string name="dialog_backup_title">ابتدا موارد همگام‌سازی شوند؟</string>
-    <string name="dialog_check_button_negative">تلاش دوباره</string>
-    <string name="dialog_check_button_positive">به Wi-Fi متصل شوید</string>
-    <string name="dialog_check_context">"دستگاه شما اکنون نمی‌تواند به اینترنت متصل شود.
-· برای انتخاب یکی از شبکه‌های موجود روی «اتصال به Wi-Fi» ضربه بزنید.
-· اگر می‌خواهید از اینترنت همراه استفاده کنید، روی «تلاش دوباره» ضربه زده یا سیم‌کارت خود را برداشته و دوباره وارد کنید."</string>
-    <string name="dialog_check_title">به اینترنت وصل نمی‌شود</string>
     <string name="dialog_chose_item">یک مورد را برای نمایش انتخاب کنید</string>
     <string name="dialog_content_login">برای به‌روزرسانی وارد حساب Mi خود می‌شوید؟</string>
     <string name="dialog_no">خیر</string>
@@ -1018,11 +1048,8 @@
     <string name="dialog_title_color_calibration">اصلاح رنگ از پیش تعیین شده</string>
     <string name="dialog_title_hdmi_color_calibration">اصلاح رنگ از پیش تعیین شده</string>
     <string name="dialog_title_login">وارد حساب Mi خود شوید</string>
-    <string name="dialog_wifi_button_negative">خیر</string>
-    <string name="dialog_wifi_button_positive">بله</string>
-    <string name="dialog_wifi_context">برای راه اندازی دستگاه خود باید به اینترنت متصل شوید. تا زمانی که به Wi-Fi وصل نشوید، ممکن است از اینترنت همراه استفاده شود. استفاده از اینترنت همراه ممکن است هزینه‌های مخابراتی اضافی ایجاد کند. به هر حال از ایترنت همراه استفاده می‌کنید؟</string>
-    <string name="dialog_wifi_title">استفاده از اینترنت همراه</string>
     <string name="dialog_yes">بله</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">توجه: پس از راه‌اندازی دوباره، تا زمانی که قفل دستگاه خود را باز نکنید این برنامه آغاز نخواهد شد.</string>
     <string name="disable_overlays">غیرفعال کردن پوشش سخت‌افزاری</string>
     <string name="disable_overlays_summary">همیشه از GPU برای رندر کردن صفحه استفاده شود</string>
@@ -1034,6 +1061,9 @@
     <string name="disallow_lock_screen_summary">ابتدا در اعلان‌ها به «اعلان برنامه‌ها» اجازه دهید</string>
     <string name="display_advanced_mode_summary">گزینه‌های طیف رنگ</string>
     <string name="display_advanced_mode_title">تنظیمات پیشرفته</string>
+    <string name="display_animate_category">جلوه‌های متحرک</string>
+    <string name="display_animate_content">کاهش جلوه‌های متحرکی را که هنگام باز شدن قفل دستگاه نمایش داده می‌شوند</string>
+    <string name="display_animate_title">کاهش انیمیشن‌ها</string>
     <string name="display_auto_rotate_rotate">روشن</string>
     <string name="display_auto_rotate_stay_in_current">خاموش</string>
     <string name="display_auto_rotate_stay_in_landscape">قفل در حالت افقی</string>
@@ -1051,8 +1081,9 @@
     <string name="dndm_alarm_content_not_all">ساکت کردن همه</string>
     <string name="dndm_alarm_content_sms">پیام‌ها</string>
     <string name="dndm_auto_button_title">تکرار زمان مزاحم نشوید</string>
-    <string name="dndm_auto_setting_group">برنامه‌ریزی شده</string>
+    <string name="dndm_auto_setting_group">زمان‌بندی شده</string>
     <string name="dndm_auto_time_setting">تنظیم زمان</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">تا</string>
     <string name="dndm_auto_time_turn_off_title">حالت مزاحم نشوید به‌طور خودکار خاموش شود</string>
     <string name="dndm_auto_time_turn_on">از</string>
@@ -1091,6 +1122,7 @@
     <string name="domain_urls_summary_some">باز کردن %s و سایر پیوندها</string>
     <string name="double_click_power_key">دکمه خاموش/روشن را دو بار بفشارید</string>
     <string name="double_click_volume_down_when_lock">هنگامی که نمایشگر قفل شد، دکمه کم کردن صدا را دو‌بار فشار دهید.</string>
+    <string name="double_knock">دو ضرب با بند انگشت</string>
     <string name="download_current_rom">دریافت آخرین نسخه MIUI</string>
     <string name="downloading_description">در حال دانلود…</string>
     <string name="doze_always_on_title">نمایشگر همیشه روشن</string>
@@ -1151,6 +1183,7 @@
     <string name="edit_rules">ویرایش</string>
     <string name="effect_preview">پیش‌نمایش</string>
     <string name="eighthours">۸ ساعت</string>
+    <string name="elastic_text">منوهای فوری و کشویی همراه با حباب کششی نمایان می‌شوند که توجه به این موارد را بیشتر جلب می‌کنند</string>
     <string name="emergency_sos_title">‫SOS اضطراری</string>
     <string name="enable_adb">اشکال‌زدایی USB</string>
     <string name="enable_adb_summary">تعویض به اشکال‌زدایی هنگامی که USB متصل است</string>
@@ -1169,7 +1202,8 @@
     <string name="enable_terminal_title">ترمینال محلی</string>
     <string name="enable_verbose_vendor_logging">فعال کردن ورود به سیستم فروشنده شفاف</string>
     <string name="enable_verbose_vendor_logging_summary">گزارشات فروشندگان خاص دستگاه که ممکن است حاوی اطلاعات شخصی بوده و مصرف باتری و یا حافظه را افزایش دهد را در گزارشات اشکال قرار دهید.</string>
-    <string name="enable_wifi_display">صفحه نمایش بی‌سیم</string>
+    <string name="enable_wifi_display">نمایشگر بی‌سیم</string>
+    <string name="enabled">روشن</string>
     <string name="enabled_authorised_apps_summary">مجوز شما پس از تغییر وضعیت کلیدهای برنامه‌های خاص باطل خواهد شد.</string>
     <string name="enabled_authorised_apps_title">مجوزهای داده شده</string>
     <string name="enalbe_identify_iPhone">شناسایی دستگاه</string>
@@ -1189,10 +1223,19 @@
     <string name="erase_sd_data">فرمت کارت SD شبیه‌سازی شده</string>
     <string name="erase_sd_data_description">فرمت کردن همه اطلاعات در کارت SD را پاک خواهد کرد</string>
     <string name="erase_sure">اجباری</string>
+    <string name="error_apn_restrict_string">قسمت APN نمی‌تواند حاوی %1$s باشد</string>
     <string name="every_day">هر روز</string>
     <string name="exceptional_case">موارد استثنا</string>
     <string name="expandable_under_keyguard_title">نمایش بر روی صفحه قفل</string>
+    <string name="expert_detail_content_description">نمایش جزئیات</string>
     <string name="exterior">رنگ‌بندی</string>
+    <string name="external_ram_dialog_btn_cancel">بعداً</string>
+    <string name="external_ram_dialog_btn_ok">راه‌اندازی دوباره</string>
+    <string name="external_ram_dialog_message">دستگاه خود را برای به‌کارگیری تغییرات دوباره راه‌اندازی کنید.</string>
+    <string name="external_ram_dialog_title">راه‌اندازی دوباره دستگاه</string>
+    <string name="external_ram_summary">افزودن %1$s %2$s ‏RAM به وسیله اشغال حافظه. از این ویژگی فقط زمانی استفاده کنید که فضای حافظه کافی در دستگاه خود موجود داشته باشید.</string>
+    <string name="external_ram_title">باز کردن حافظه</string>
+    <string name="external_ram_toast">به دلیل کافی نبودن فضای ذخیره‌سازی از باز کردن حافظه نمی‌توان استفاده کرد</string>
     <string name="external_source_trusted">مجاز</string>
     <string name="external_source_untrusted">غیر مجاز</string>
     <string name="face_data_apply_for_category_title">گشودن قفل با استفاده از مشخصات چهره</string>
@@ -1216,7 +1259,7 @@
     <string name="face_data_manage_unlock_title">گشودن قفل با استفاده از مشخصات چهره</string>
     <string name="face_data_siggesstion_next">بعدی</string>
     <string name="face_data_siggesstion_next_time">بعدی (%dثانیه)</string>
-    <string name="face_data_suggesstion_first">اشکال امنیتی: گشودن قفل با چهره از ایمنی کمتری نسبت به PIN، گذرواژه یا الگو برخوردار است. قفل دستگاه شما ممکن است با عکستان و یا افراد یا اشیائی با شباهت ظاهری نیز باز شود.</string>
+    <string name="face_data_suggesstion_first">گشودن قفل با چهره از ایمنی کمتری نسبت به PIN، گذرواژه یا الگو برخوردار است. قفل دستگاه شما ممکن است با عکستان و یا افراد یا اشیائی با شباهت ظاهری نیز باز شود.</string>
     <string name="face_data_suggesstion_second">مطمئن شوید که همه بخش‌های صورت شما توسط چیزی پوشانده نشده و به طور واضع قابل دیدن است. نور چهره شما نیز باید مناسب باشد.</string>
     <string name="face_unlock">گشودن قفل با چهره</string>
     <string name="face_unlock_be_on_the_screen">دستگاه را جلوی صورت خود بگیرید</string>
@@ -1225,15 +1268,16 @@
     <string name="face_unlock_category_title">گزینه‌های صفحه قفل</string>
     <string name="face_unlock_check_failed">شما شناسایی نشدید</string>
     <string name="face_unlock_close_screen">پس از روشن شدن صفحه، با انگشت به طرف بالا کشیده تا با مشخصات چهره قفل دستگاه باز شود.</string>
-    <string name="face_unlock_disable">باز کردن قفل با چهره خاموش است</string>
+    <string name="face_unlock_disable">گشودن قفل با چهره خاموش است</string>
     <string name="face_unlock_down">سر خود را بالاتر بگیرید</string>
-    <string name="face_unlock_enable">باز کردن قفل با چهره روشن است</string>
+    <string name="face_unlock_enable">گشودن قفل با چهره روشن است</string>
     <string name="face_unlock_not_found">شما شناسایی نشدید</string>
     <string name="face_unlock_offset_bottom">گوشی خود را کمی پایین‌تر بیاورید</string>
     <string name="face_unlock_offset_left">به سمت راست ببرید</string>
     <string name="face_unlock_offset_right">به سمت چپ ببرید</string>
     <string name="face_unlock_offset_top">گوشی خود را کمی بالاتر بیاورید</string>
     <string name="face_unlock_open_eye">چشمان خود را کمی بیشتر باز کنید</string>
+    <string name="face_unlock_prompt">گشودن قفل با چهره فوری</string>
     <string name="face_unlock_quality">چهره شما به صورت واضح دیده نشد</string>
     <string name="face_unlock_reveal_eye">چشمان خود را نمایان کنید</string>
     <string name="face_unlock_reveal_mouth">لب‌های خود را نمایان کنید</string>
@@ -1272,10 +1316,11 @@
     <string name="fingerprint_and_password_entrance_title">قفل صفحه و اثر انگشت</string>
     <string name="fingerprint_apply_to_privacy_password">گذرواژه حفاظت از حریم خصوصی</string>
     <string name="fingerprint_apply_to_privacy_password_scenarios">گذرواژه حفاظت از حریم خصوصی از پیام‌ها، عکس‌ها، فایل‌ها، یادداشت‌ها و برنامه‌های شما محافظت می‌کند.</string>
-    <string name="fingerprint_double_tap">دو بار ضربه به حس‌گر اثر انگشت</string>
+    <string name="fingerprint_base_title">اثر انگشت %s</string>
     <string name="fingerprint_first_open_screen_password_face_tittle">چهره (ابتدا گذرواژه صفحه قفل را تنظیم کنید)</string>
     <string name="fingerprint_first_open_screen_password_tittle">اثر انگشت (ابتدا گذرواژه صفحه قفل را تنظیم نمایید)</string>
     <string name="fingerprint_for_keyguard_disabled">اثر انگشت توسط تنظیمات امنیت خاموش شده است.</string>
+    <string name="fingerprint_gxzw_add_fingerprint_finish">به عنوان «%s» ذخیره شد</string>
     <string name="fingerprint_identify_input_password_msg">گذرواژه را وارد کنید</string>
     <string name="fingerprint_identify_msg">در حال خواندن اثر انگشت…</string>
     <string name="fingerprint_identify_try_again_msg">اثر انگشت خوانده نشد، دوباره تلاش کنید</string>
@@ -1321,14 +1366,35 @@
     <string name="flash_drive_backup_enable">استفاده از یک درایو USB برای پشتیبان‌گیری یا بازیابی موارد</string>
     <string name="flash_drive_backup_restore">درایو USB</string>
     <string name="flash_drive_backup_restore_summary">یک درایو USB وصل کنید</string>
+    <string name="flashback_background_start_switch_summary">هنگام اجرای برنامه‌ها در پس‌زمینه، فلش‌کارت‌هایی را به صورت خودکار با اطلاعات کلیدی ایجاد می‌کند</string>
+    <string name="flashback_background_start_switch_title">تولید فلش‌کارت‌ها به صورت خودکار</string>
+    <string name="flashback_baidu_map_summary">نمایش مسیر</string>
+    <string name="flashback_didi_summary">نمایش اطلاعات سفر</string>
+    <string name="flashback_meituan_summary">نمایش اطلاعات ترخیص</string>
+    <string name="flashback_meituan_waimai_summary">نمایش اطلاعات ترخیص</string>
+    <string name="flashback_open_switch_summary">نمایش اطلاعات کلیدی هنگامی که برنامه‌ها به عنوان پنجره‌های شناور نمایش داده می‌شوند</string>
+    <string name="flashback_open_switch_title">فلش‌کارت برنامه‌ها</string>
+    <string name="flashback_shansong_summary">نمایش پیشرفت ترخیص</string>
+    <string name="flashback_status_close">خاموش</string>
+    <string name="flashback_status_open">روشن</string>
+    <string name="flashback_summary">نمایش اطلاعات کلیدی هنگامی که برنامه‌ها به عنوان پنجره‌های شناور نمایش داده می‌شوند</string>
+    <string name="flashback_support_apps_title">برنامه‌های در دسترس</string>
+    <string name="flashback_title">فلش‌کارت برنامه‌ها</string>
+    <string name="flashback_wangzhe_summary">نمایش شمارش معکوس در بازی</string>
     <string name="floating_window_switch_label">فعال کردن پنجره‌های شناور</string>
     <string name="floating_window_switch_label_disable">غیرفعال کردن پنجره‌های شناور</string>
     <string name="fluency_mode">انیمیشن‌های سیستم</string>
     <string name="fluency_mode_confirm_and_reboot">راه‌اندازی دوباره</string>
+    <string name="fold_rule_default">پیشنهاد شده</string>
+    <string name="fold_rule_important">مهم</string>
+    <string name="fold_rule_unimportant">غیر مهم</string>
     <string name="fold_title">قوانین برای اعلان‌های گروهی</string>
+    <string name="font_setting_weight_toast">فونت کنونی از تنظیم وزن فونت پشتیبانی نمی‌کند</string>
+    <string name="font_settings_jump">دسترسی‌پذیری > اندازه نمایش</string>
+    <string name="font_settings_recommend_title">اندازه متن به اندازه کافی بزرگ نیست؟</string>
+    <string name="font_settings_summary_cn">فونت‌ها و اندازه متن</string>
     <string name="font_size_exhuge">فوق‌العاده بزرگ</string>
     <string name="font_size_huge">خیلی بزرگ</string>
-    <string name="font_size_kddi">متوسط</string>
     <string name="font_size_large">بزرگتر</string>
     <string name="font_size_medium">بزرگ</string>
     <string name="font_size_normal">کوچک</string>
@@ -1352,6 +1418,7 @@
     <string name="force_rtl_layout_all_locales">اجبار کردن جهت ترتیب از راست به چپ</string>
     <string name="force_rtl_layout_all_locales_summary">اجبار کردن جهت ترتیب از چپ به راست برای همه مناطق</string>
     <string name="foreground_traffic">پیش‌زمینه %s</string>
+    <string name="forget_passpoint_wifi_message">دستگاه شما اتصال به این شبکه را به‌طور خودکار متوقف خواهد کرد.</string>
     <string name="forget_password_button_text"><u>گذرواژه را فراموش کرده‌ام</u></string>
     <string name="forget_password_dialog_button_text">بازگشت</string>
     <string name="forget_password_dialog_content_four">۲. [Wipe data] را انتخاب کرده و صبر کرده تا و صبر کرده تا دستگاه بازنشانی شود.</string>
@@ -1408,12 +1475,13 @@
     <string name="full_screen_keyboard_optimization">بهبود صفحه کلید</string>
     <string name="full_screen_keyboard_settings">تنظیمات نمایش تمام‌صفحه صفحه کلید</string>
     <string name="full_transparent_smarrcover_title">روکش جلوی شفاف</string>
-    <string name="function_description">درباره این ویژگی</string>
     <string name="gadget_toggle_wifi">درحال به‌روزرسانی تنظیمات Wi-Fi</string>
     <string name="gadget_wifi">Wi-Fi</string>
     <string name="gallery_privacy_password_role_instruction">عکس‌های خصوصی شما اینجا ذخیره خواهند شد.</string>
     <string name="game_booster">بازی;بازی‌ها;افزایش دهنده سرعت;حالت بازی</string>
     <string name="game_booster_title">افزاینده سرعت بازی</string>
+    <string name="general_text">زمینه پیام</string>
+    <string name="general_time">زمان: %1$d:%2$d. لرزش‌های طولانی بیان‌گر ساعت و لرزش‌های کوتاه بیان‌گر دقیقه هستند. یک مکث کوتاه بین ساعت و دقیقه خواهد بود. برای آزمایش دو ضربه بزنید.</string>
     <string name="gesture_function_dialog_message">%1$s برای «%2$s» استفاده شده است. با «%3$s» جایگزین شود؟</string>
     <string name="gesture_settings_title">اشاره‌های میان‌بر</string>
     <string name="gesture_wakeup_summary">در صورت به‌کار گیری تم پیش‌فرض یا کلاسیک با دو بار زدن روی صفحه می‌توانید صفحه را خاموش کنید</string>
@@ -1452,6 +1520,10 @@
     <string name="gxzw_add_fingerprint_put_finger_title">پس از لرزش فشرده و بردارید</string>
     <string name="gxzw_add_fingerprint_title">اثر انگشت خود را بیافزایید</string>
     <string name="gxzw_anim_aurora">شفق قطبی</string>
+    <string name="gxzw_anim_dialog_cancel_enroll">لغو</string>
+    <string name="gxzw_anim_dialog_enroll">تأیید</string>
+    <string name="gxzw_anim_dialog_message">اثر انگشت خود را افزوده تا بتوانید انیمیشن اثر انگشت را ببینید. اکنون اضافه شود؟</string>
+    <string name="gxzw_anim_dialog_title">افزودن اثر انگشت</string>
     <string name="gxzw_anim_light">مهتابی</string>
     <string name="gxzw_anim_pulse">تپش</string>
     <string name="gxzw_anim_rhythm">ریتم</string>
@@ -1459,7 +1531,7 @@
     <string name="gxzw_anim_title">انیمیشن اثر انگشت</string>
     <string name="gxzw_aod_show_summary">دستگاه را بلند کرده و یا روی صفحه زده تا آیکون اثر انگشت نمایان شود. این ویژگی مصرف برق سیستم را افزایش می‌دهد.</string>
     <string name="gxzw_aod_show_tittle">نمایش آیکون اثر انگشت هنگام خاموش بودن نمایشگر</string>
-    <string name="gxzw_dialog_message">برای امکان استفاده عادی از حس‌گر اثر انگشت داخل صفحه از محافظ صفحه استفاده نکنید. در صورتی که همچنان فکر می‌کنید که محافظ صفحه لازم است، از میان گزینه‌های مناسب مجاز انتخاب کنید.</string>
+    <string name="gxzw_dialog_message">برای امکان استفاده عادی از حس‌گر اثر انگشت درون نمایشگر از محافظ صفحه استفاده نکنید. در صورتی که همچنان فکر می‌کنید که محافظ صفحه لازم است، آن را از میان گزینه‌های مناسب و مجاز انتخاب کنید.</string>
     <string name="gxzw_dialog_not_show_again">دوباره نمایش داده نشود</string>
     <string name="gxzw_dialog_ok">فهمیدم</string>
     <string name="gxzw_dialog_title">درباره حس‌گر اثر انگشت در صفحه</string>
@@ -1478,11 +1550,33 @@
     <string name="handy_mode_size">اندازه صفحه</string>
     <string name="handy_mode_tips">از دکمه صفحه اصلی انگشت خود را به سمت چپ یا راست بکشید تا صفحه نمایش به یک طرف نزدیک‌تر شود.</string>
     <string name="handy_mode_tips_full_screen">هنگام استفاده از حرکات انگشت در حالت تمام صفحه، می‌توانید با استفاده از توپ سریع حالت کار با یک دست را روشن کنید. همچنین می‌توانید به جای حرکات انگشت در حالت تمام صفحه به حالت استفاده از دکمه‌ها تغییر وضعیت دهید.</string>
+    <string name="haptic_agent_completion_01_content_description">کار انجام شده</string>
+    <string name="haptic_cursor_movement_07_content_description">تنظیم روشنایی</string>
+    <string name="haptic_experience">نسخه نمایشی</string>
+    <string name="haptic_experience_details">بازخورد لمسی و دسترسی‌پذیری</string>
     <string name="haptic_feedback_enable_title">لرزش هنگام ضربه</string>
     <string name="haptic_feedback_level">لرزش</string>
     <string name="haptic_feedback_progress">سطح بازخورد لمسی</string>
     <string name="haptic_feedback_summary">دریافت پاسخ لمسی حرکات انگشت و کنترل‌های سیستمی</string>
     <string name="haptic_feedback_title">بازخورد لمسی</string>
+    <string name="haptic_fingerprint_unlock_16_content_description">گشودن قفل با اثر انگشت</string>
+    <string name="haptic_generate_folder_08_content_description">پوشه جدید</string>
+    <string name="haptic_generate_small_window_gestures_09_content_description">پنجره شناور</string>
+    <string name="haptic_icon_sorting_12_content_description">بازچینی آیکون‌ها</string>
+    <string name="haptic_index_bar_10_content_description">نوار پیمایش</string>
+    <string name="haptic_lock_screen_11_content_description">قفل کردن دستگاه</string>
+    <string name="haptic_multitasking_card_long_press_03_content_description">پیش‌نمایش برنامه با فشردن طولانی</string>
+    <string name="haptic_multitasking_gestures_04_content_description">باز کردن موارد تازه</string>
+    <string name="haptic_preview">نسخه‌های نمایشی</string>
+    <string name="haptic_return_gesture_05_content_description">بازگشت به عقب</string>
+    <string name="haptic_shutdown_menu_06_content_description">منوی خاموش کردن</string>
+    <string name="haptic_single_selection_02_content_description">مورد انتخاب شده</string>
+    <string name="haptic_switch_summary">دریافت بازخورد لمسی خاص نسبت به موارد انتخاب شده هنگام روشن بودن صفحه‌خوان</string>
+    <string name="haptic_switch_title">بازخورد لمسی</string>
+    <string name="haptic_text_edit_popup_13_content_description">منوی بازشو</string>
+    <string name="haptic_upper_right_menu_15_content_description">منوی کشویی</string>
+    <string name="haptic_video_content_description">ویدئوی نمایشی بازخورد لمسی</string>
+    <string name="haptic_volume_adjustment_14_content_description">تنظیم میزان صدا</string>
     <string name="hardware_version">نسخه سخت‌افزار</string>
     <string name="has_screenshot_sound">صدای عکس صفحه</string>
     <string name="hdcp_checking_dialog_title">تنظیم رفتار بررسی HDCP</string>
@@ -1500,6 +1594,22 @@
     <string name="header_category_accounts">حساب‌ها</string>
     <string name="header_category_wireless_networks">ارتباطات و شبکه‌ها</string>
     <string name="headset_connectiong">درحال اتصال…</string>
+    <string name="headset_find_both">هر دو</string>
+    <string name="headset_find_cancel">لغو</string>
+    <string name="headset_find_connected">متصل</string>
+    <string name="headset_find_disconnect">قطع</string>
+    <string name="headset_find_handle_tip">برای پخش هشدار ضربه بزنید</string>
+    <string name="headset_find_left">چپ</string>
+    <string name="headset_find_notify_connected">متصل</string>
+    <string name="headset_find_notify_disconnect">اتصال قطع شد. وصل کرده و سپس دوباره تلاش کنید.</string>
+    <string name="headset_find_play_warning">به نظر می‌رسد حداقل یکی از ایرفون‌های شما در گوشتان است. پخش هشدار هم‌اکنون ممکن است به شنوایی شما آسیب برساند. پیش از ادامه ایرفون‌ها را از گوش‌های خود بردارید.</string>
+    <string name="headset_find_playing">در حال پخش…</string>
+    <string name="headset_find_query_play">پخش</string>
+    <string name="headset_find_right">راست</string>
+    <string name="headset_find_tip">ایرفون‌های شما باید نزدیک بوده و به این دستگاه متصل باشند تا پیدا شوند. پخش هشدار هنگامی که حداقل یکی از آن‌ها در گوش شماست ممکن است به شنوایی شما آسیب برساند.</string>
+    <string name="headset_find_tip_title">توجه</string>
+    <string name="headset_find_title">یافتن ایرفون‌ها</string>
+    <string name="headset_find_voice_warning">هشدار صدای بلند</string>
     <string name="headset_notification_switch_summary">نمایش وضعیت در ابزارک کرکره اعلان هنگامی که هدفون‌ها متصل باشند</string>
     <string name="headset_notification_switch_title">ابزارک کرکره اعلان</string>
     <string name="headset_remove_message">دستگاه جداسازی شود؟</string>
@@ -1507,6 +1617,7 @@
     <string name="headset_settings_title">جلوه‌های صوتی</string>
     <string name="headset_unsaved_devices">روی دستگاهی دیگر استفاده شده است</string>
     <string name="hearing_aids_category">ابزارهای دستیار شنوایی</string>
+    <string name="height_light_list_text">فهرستی از موارد مهم</string>
     <string name="help_and_feedback_title">راهنمایی و بازخورد</string>
     <string name="help_label">راهنما و بازخورد</string>
     <string name="high_performance_notif_summary">ممکن است دستگاه هنگام استفاده سنگین داغ شود.</string>
@@ -1517,6 +1628,7 @@
     <string name="home_app">لانچر</string>
     <string name="home_key">خانه</string>
     <string name="home_title">صفحه اصلی</string>
+    <string name="how_adjust_font_size">چگونه اندازه متن را تنظیم کنم؟</string>
     <string name="how_backup_content">"شما می‌توانید موارد پشتیبان‌گیری شده را به صورت محلی و یا در فضای ابری ذخیره کنید. موارد پشتیبان‌گیری شده محلی می‌توانند در دستگاه موبایل، رایانه و یا درایو USB ذخیره شوند.
 
 دستگاه موبایل
@@ -1550,6 +1662,7 @@
     <string name="how_restore_backup_title">چگونه موارد پشتیبان‌گیری شده را بازیابی کنم؟</string>
     <string name="http_invoke_app">برنامه‌های وب</string>
     <string name="http_invoke_app_summary">برنامه‌ها را بدون نصب آن‌ها سریع‌تر باز کنید</string>
+    <string name="huanji_history_title">انتقالات جابجاگر Mi</string>
     <string name="ime_security_warning">%1$s ممکن است هر آن چه که تایپ می‌کنید از جمله گذرواژه‌ها، شماره کارت‌های اعتباری و سایر اطلاعات شخصی را ضبط کند.</string>
     <string name="ime_security_warning_global">شیوه‌های ورود ممکن است همه متونی که شما تایپ می‌کنید، شامل اطلاعات شخصی همچون گذرواژه و شماره کارت‌های اعتباری را گردآوری کنند. از %1$s استفاده شود؟</string>
     <string name="ime_security_warning_title_global">در حال روشن کردن صفحه کلید</string>
@@ -1585,7 +1698,14 @@
     <string name="input_method_cloud_paste_mode_no_title">هیچ کدام</string>
     <string name="input_method_cloud_paste_mode_red_point_des">شما در پایین صفحه کلید یک نقطه قرمز خواهید دید. روی آیکون زده تا حافظه موقت باز شده و محتوای کپی شده را ببینید.</string>
     <string name="input_method_cloud_paste_mode_red_point_title">نقطه قرمز</string>
+    <string name="input_method_function_switch_keyboard_language">تعویض زبان</string>
+    <string name="input_method_function_switch_keyboard_language_des">برای تعویض زبان ورودی ضربه بزنید</string>
+    <string name="input_method_function_switch_keyboard_type">تعویض صفحه کلیدها</string>
+    <string name="input_method_function_switch_keyboard_type_des">برای تعویض میان صفحه کلیدهای متفاوت ضربه بزنید</string>
     <string name="input_method_manage">مدیریت صفحه کلیدها</string>
+    <string name="input_method_middle_function_move_cursor">نشان‌گر جابجایی</string>
+    <string name="input_method_middle_function_move_cursor_des">برای جابجایی نشان‌گر منطقه مرکزی را فشرده و نگه دارید</string>
+    <string name="input_method_middle_function_no_function_des">هیچ اقدامی اختصاص نیابد</string>
     <string name="input_method_quick_access">دسترسی فوری</string>
     <string name="input_method_quick_cloud_mode_title">اعلان‌ها درباره محتوای جدید حافظه موقت</string>
     <string name="input_method_quick_cloud_summary">کپی موارد به رایانه‌های سازگار و جای‌گذاری آن‌ها در دستگاه خود</string>
@@ -1600,6 +1720,7 @@
     <string name="input_method_settings_text">تنظیمات</string>
     <string name="input_pattern_hint_text">الگوی باز کردن قفل خود را بکشید</string>
     <string name="input_settings">تنظیمات ورودی</string>
+    <string name="input_text">نوار ورود متن</string>
     <string name="install_no_market_app_summary">اجازه نصب برنامه‌ها از منابع</string>
     <string name="install_no_market_app_title">منابع ناشناس</string>
     <string name="install_other_apps">نصب برنامه‌های ناشناخته</string>
@@ -1608,7 +1729,9 @@
     <string name="instruction_privacy_password">این گذرواژه موارد زیر را محافظت می‌کند</string>
     <string name="instruction_title">اطلاعات مهم ایمنی</string>
     <string name="intelligence_suppression_summary">تنظیم پویای اندازه ناحیه اطراف لبه‌ها که قرار است تماس‌های لمسی تصادفی بر اساس به دست گرفتن گوشی شما نادیده گرفته شوند</string>
-    <string name="intelligence_suppression_title">خودکار (پیشنهاد شده)</string>
+    <string name="intelligence_suppression_title">Auto (Recommended)</string>
+    <string name="interesting_text">احساسات لمسی واقعی کار کردن شما با صفحه را واضح‌تر و روشن‌تر می‌کند.</string>
+    <string name="interesting_title">لمس واقعی</string>
     <string name="item_system_app">برنامه‌های سیستم</string>
     <string name="keep_legacy_fingerprint">نگه داشتن</string>
     <string name="keep_screen_on">صفحه را قفل نکنید</string>
@@ -1637,7 +1760,6 @@
     <string name="keyboard_mouse_touch">صفحه کلید، ماوس و ترک پد</string>
     <string name="keyboard_settings_category">روش‌های ورودی</string>
     <string name="keyguard_advance_setting_title">تنظیمات پیشرفته</string>
-    <string name="keyguard_notification_status_title">هنگام رسیدن اعلان و خاموش بودن صفحه</string>
     <string name="keyguard_security_setting_others">سایر</string>
     <string name="keyguard_security_setting_privacy_policy">سیاست حفظ حریم خصوصی</string>
     <string name="keywords_adb_wireless">adb, debug, dev</string>
@@ -1647,7 +1769,7 @@
     <string name="keywords_data">4G;3G;اینترنت همراه;داده‌های تلفن همراه;ترافیک;اینترنت موبایل</string>
     <string name="keywords_do_not_disturb">مزاحم نشوید;حالت مزاحم نشوید;مزاحم نشوید;خواب;شب;مشغول</string>
     <string name="keywords_gps">GPS;موقعیت;خدمات موقعیت;ماهواره</string>
-    <string name="keywords_hotspot">کانون داغ;تتر;تترینگ;کانون داغ شخصی;کانون داغ قابل حمل</string>
+    <string name="keywords_hotspot">کانون داغ;تتر;تترینگ;کانون داغ شخصی;کانون داغ همراه</string>
     <string name="keywords_paper_mode">Flux;مطالعه;حالت خواندن;نور آبی;محافظت از چشم‌ها</string>
     <string name="keywords_quick_ball">توپ سریع;میان‌بر;میان‌برها;وضعیت‌ها;تغییر وضعیت</string>
     <string name="keywords_silent">بی‌صدا;ساکت;خاموش کردن صدا</string>
@@ -1658,6 +1780,17 @@
     <string name="kid_space_settings">فضای کودک</string>
     <string name="kilobyteShort">کیلوبایت</string>
     <string name="kilobyte_per_second">ک.ب/ث</string>
+    <string name="knock_edge_area_invalid">این حرکت انگشت در نزدیکی لبه‌های نمایشگر کار نمی‌کند</string>
+    <string name="knock_guide_dialog_title">یک اقدام برای این حرکت انگشت انتخاب کنید. بعداً می‌توانید در تنظیمات > تنظیمات بیشتر > میان‌برهای دکمه‌ها تغییر دهید.</string>
+    <string name="knock_guide_drive_desc">گرفتن عکس هنگام رانندگی</string>
+    <string name="knock_guide_launch_desc">آغاز Mi AI هنگامی‌که تلفن شما روی میز قرار دارد</string>
+    <string name="knock_guide_set_screenshot">عکس از صفحه</string>
+    <string name="knock_guide_set_voiceassist">Mi AI</string>
+    <string name="knock_guide_sub_title">با ضربه انگشت روی صفحه می‌توانید Mi AI راه راه‌اندازی و یا از صفحه عکس بگیرید</string>
+    <string name="knock_guide_title">دو ضرب با بند انگشت</string>
+    <string name="knock_long_press_horizontal_slid">با انگشت به صورت افقی فشرده و بکشید</string>
+    <string name="knock_slide_shape">یک دایره را با انگشت بکشید</string>
+    <string name="knock_slide_v">V را با انگشت بکشید</string>
     <string name="label_mi_stats">تجزیه و تحلیل Mi</string>
     <string name="lattice_smartcover_title">جلد شبکه‌ای جلو</string>
     <string name="launch_ai_shortcut">میان‌بر Mi AI</string>
@@ -1669,12 +1802,16 @@
     <string name="launch_defaults_none">هیچ پیش‌فرضی تنظیم نشده است</string>
     <string name="launch_defaults_some">برخی پیش‌فرض‌ها تنظیم شدند</string>
     <string name="launch_google_search">راه‌اندازی دستیار Google</string>
+    <string name="launch_noapp_dialog_cancel">لغو</string>
+    <string name="launch_noapp_dialog_install">نصب</string>
+    <string name="launch_noapp_dialog_replace">تنظیمات</string>
     <string name="launch_notification_center">کرکره اعلان</string>
     <string name="launch_recents">راه‌اندازی موارد تازه</string>
     <string name="launch_voice_assistant">راه‌اندازی دستیار صوتی</string>
     <string name="launch_wechat_payment_code">کد پرداخت WeChat</string>
     <string name="launch_wechat_scanner">اسکنر WeChat</string>
     <string name="launcher_icon">آیکون‌ها</string>
+    <string name="launcher_icon_management">مدیریت میان‌برهای صفحه اصلی</string>
     <string name="launcher_title">صفحه اصلی و موارد تازه</string>
     <string name="launching_cit">درحال راه‌اندازی CIT…</string>
     <string name="launching_pho">در حال باز کردن طلاعات دستگاه…</string>
@@ -1772,6 +1909,7 @@
     <string name="location_neighborhood_level">به برنامه‌ها اجازه دهید از شبکه‌های تلفن همراه و Wi-Fi برای تعیین تقریبی مکان شما استفاده کند</string>
     <string name="location_neighborhood_level_wifi">موقعیت مکانی تعیین شده توسط Wi-Fi</string>
     <string name="location_network_based">Wi-Fi و شبکه‌های تلفن همراه</string>
+    <string name="location_recent_location_requests_see_all">دیدن همه</string>
     <string name="lock_profile_wipe_warning_content_password">اگر گذرواژه کاری اشتباهی را در این تلاش وارد کنید، نمایه کاری و داده‌های مرتبط با آن از روی این دستگاه پاک خواهند شد.</string>
     <string name="lock_profile_wipe_warning_content_pattern">اگر الگوی کاری اشتباهی را در این تلاش وارد کنید، نمایه کاری و داده‌های مرتبط با آن از روی این دستگاه پاک خواهند شد.</string>
     <string name="lock_profile_wipe_warning_content_pin">اگر PIN کاری اشتباهی را در این تلاش وارد کنید، نمایه کاری و داده‌های مرتبط با آن از روی این دستگاه پاک خواهند شد.</string>
@@ -1859,7 +1997,7 @@
     <string name="lockscreen_glogin_password_hint">گذرواژه</string>
     <string name="lockscreen_glogin_submit_button">ورود</string>
     <string name="lockscreen_label">صفحه قفل</string>
-    <string name="lockscreen_magazine">تصاویر چرخشی</string>
+    <string name="lockscreen_magazine">تصاویر زمینه چرخشی</string>
     <string name="lockscreen_magazine_india">Glance برای Mi</string>
     <string name="lockscreen_magazine_summary">تصاویر برگزیده و توضیحات جالب روزانه برای شما ارسال می‌شود</string>
     <string name="lockscreen_magazine_title">تصاویر چرخشی</string>
@@ -1893,6 +2031,11 @@
     <string name="managed_profile_location_switch_title">موقعیت برای نمایه کار</string>
     <string name="managed_user_title">همه برنامه‌های کاری</string>
     <string name="manually_add_network">افزودن شبکه</string>
+    <string name="mashup_sound">مخلوط طبیعت</string>
+    <string name="mashup_sound_africa">ساوانا</string>
+    <string name="mashup_sound_amazon">جنگل بارانی</string>
+    <string name="mashup_sound_arctic">قطب شمال</string>
+    <string name="mashup_sound_australia">استرالیا</string>
     <string name="master_clear_all">تمام داده‌های حافظه داخلی دستگاه شما پاک شوند؟ این اقدام قابل بازگرداندن نیست.</string>
     <string name="master_clear_apply_step_1"><b>«بازنشانی به داده‌های کارخانه» تمام داده‌های روی دستگاه شما را پاک خواهد کرد</b>. این داده‌ها شامل عکس‌ها، آهنگ‌ها، یادداشت‌ها و سایر داده‌های شخصی است. مطمئن شوید همه موارد مهم را روی رایانه خود پشتیبان‌گیری کرده‌اید.</string>
     <string name="master_clear_apply_step_2">مطمئن شوید تمام موارد مهم را روی رایانه خود پشتیبان‌گیری کرده‌اید. تمام داده‌های روی این دستگاه هنگام بازنشانی پاک خواهند شد. <b>مواردی که پشتیبان‌گیری نشده‌اند را دیگر نمی‌توانید بازیابی کنید.</b></string>
@@ -1906,7 +2049,7 @@
 این اقدام قابل بازگرداندن نیست."</string>
     <string name="master_clear_title">پاک‌سازی همه داده‌ها (بازنشانی به تنظیمات کارخانه)</string>
     <string name="master_clear_title_new">بازنشانی به تنظیمات کارخانه</string>
-    <string name="max_aspect_settings_all_app_display_loading">چند لحظه…</string>
+    <string name="max_aspect_settings_all_app_display_loading">چند لحظه صبر کنیدu2026</string>
     <string name="max_cpu10_info">ده هسته‌ای حداکثری</string>
     <string name="max_cpu2_info">دو هسته‌ای حداکثری</string>
     <string name="max_cpu4_info">چهار هسته‌ای حداکثری</string>
@@ -1920,7 +2063,7 @@
     <string name="media_transfer_this_device_name">این دستگاه</string>
     <string name="media_transfer_wired_device_name">دستگاه صوتی سیمی</string>
     <string name="media_transfer_wired_usb_device_name">هدفون سیمی</string>
-    <string name="media_volume_option_title">موسیقی، بازی و چند رسانه‌ای</string>
+    <string name="media_volume_option_title">رسانه</string>
     <string name="megabyteShort">مگابایت</string>
     <string name="megabyte_per_second">م.ب/ث</string>
     <string name="memory_rightvalue">کل: %s</string>
@@ -1941,11 +2084,20 @@
     <string name="mi_upi_settings">حساب پرداخت Mi</string>
     <string name="micloud_service_summary">همگام‌سازی فهرست برنامه‌ها، پشتیبان‌گیری تنظیمات سیستم و چیدمان صفحه اصلی</string>
     <string name="micloud_service_title">فضای ابری Xiaomi</string>
+    <string name="middle_function_key">منطقه مرکزی</string>
     <string name="miheadet_up_music">آهنگ قبلی</string>
     <string name="miheadset_Box">قوطی</string>
     <string name="miheadset_LeftEar">چپ</string>
     <string name="miheadset_RightEar">راست</string>
     <string name="miheadset_active">پر انرژی</string>
+    <string name="miheadset_adaptive">سازگار</string>
+    <string name="miheadset_ancClosed">خاموش</string>
+    <string name="miheadset_ancDepth">عمیق</string>
+    <string name="miheadset_ancEquilibrium">متعادل</string>
+    <string name="miheadset_ancHigh">هواپیما</string>
+    <string name="miheadset_ancLow">محل کار</string>
+    <string name="miheadset_ancMedium">روزانه</string>
+    <string name="miheadset_ancMild">ضعیف</string>
     <string name="miheadset_anc_indicate">هدفون‌ها را متصل و جفت کنید</string>
     <string name="miheadset_audio_mode">کیفیت صدا</string>
     <string name="miheadset_audio_mode_high">بالا</string>
@@ -1967,6 +2119,9 @@
     <string name="miheadset_double_click_key_mode">دو ضربه</string>
     <string name="miheadset_double_click_left">دو بار روی هدفون گوش چپ بزنید</string>
     <string name="miheadset_double_click_right">دو بار روی هدفون گوش راست بزنید</string>
+    <string name="miheadset_double_press_left">دو بار فشردن ایرفون چپ</string>
+    <string name="miheadset_double_press_right">دو بار فشردن ایرفون راست</string>
+    <string name="miheadset_enhanceVoice">بهبود صدا</string>
     <string name="miheadset_enhence_high">صدای سه برابر پیشرفته</string>
     <string name="miheadset_enhence_low">صدای بم پیشرفته</string>
     <string name="miheadset_equalizer">برابرکننده</string>
@@ -1978,8 +2133,10 @@
     <string name="miheadset_fitness_check_result_dialog1">پیش از آغاز آزمایش هدفون‌ها را درون هر دو گوش خود قرار دهید.</string>
     <string name="miheadset_fitness_check_result_dialog2">پیش از آغاز آزمایش، تماس کنونی خود را پایان دهید.</string>
     <string name="miheadset_fitness_check_result_dialog_title">توجه</string>
+    <string name="miheadset_fitness_check_result_l_not_ok">ایرفون را دوباره تنظیم کنید</string>
     <string name="miheadset_fitness_check_result_not_ok">اندازه نامناسب</string>
     <string name="miheadset_fitness_check_result_ok">اندازه مناسب</string>
+    <string name="miheadset_fitness_check_result_r_not_ok">ایرفون را دوباره تنظیم کنید</string>
     <string name="miheadset_fitness_check_result_summary1">این یکی اندازه گوش شماست!</string>
     <string name="miheadset_fitness_check_result_summary2">کمی تنظیم کرده و یا یک سری دیگر را امتحان کنید و سپس دوباره تلاش کنید.</string>
     <string name="miheadset_fitness_check_start">آغاز</string>
@@ -1990,8 +2147,8 @@
     <string name="miheadset_game_mode">حالت بازی</string>
     <string name="miheadset_game_mode_summary">کاهش تأخیر صدا هنگام بازی کردن</string>
     <string name="miheadset_ignore">جداسازی</string>
-    <string name="miheadset_in_ear_check">تشخیص قرار داشتن در گوش</string>
-    <string name="miheadset_in_ear_check_summary">مکث و ادامه بازپخش خودکار هنگام درون گوش گذاشتن یا برداشتن هدفون‌ها</string>
+    <string name="miheadset_in_ear_check">تشخیص درون گوش بودن</string>
+    <string name="miheadset_in_ear_check_summary">مکث خودکار صدا هنگامی که ایرفون‌ها برداشته شده و ادامه پخش آن هنگامی که دوباره در گوش قرار داده می‌شوند</string>
     <string name="miheadset_key_config_ANC_list_title">کنترل سر و صدا</string>
     <string name="miheadset_key_config_call_ai">دستیار صوتی</string>
     <string name="miheadset_key_config_close">خاموش</string>
@@ -2014,6 +2171,7 @@
     <string name="miheadset_moreSettingsInAi">تنظیمات بیشتر</string>
     <string name="miheadset_multi_connect_mode">اتصال چند کانونی</string>
     <string name="miheadset_multi_connect_mode_summary">اتصال همزمان به چندین دستگاه</string>
+    <string name="miheadset_network_not_available">تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید</string>
     <string name="miheadset_next">آهنگ بعدی</string>
     <string name="miheadset_ok_device">تأیید</string>
     <string name="miheadset_openAnc">کاهش سروصدا</string>
@@ -2023,7 +2181,10 @@
     <string name="miheadset_rename_device">تغییر نام</string>
     <string name="miheadset_soft">ملایم</string>
     <string name="miheadset_transparent">شفافیت</string>
+    <string name="miheadset_transparentMode">شفافیت</string>
     <string name="miheadset_triple_click_key_mode">سه ضربه</string>
+    <string name="miheadset_triple_press_left">سه بار فشردن ایرفون چپ</string>
+    <string name="miheadset_triple_press_right">سه بار فشردن ایرفون راست</string>
     <string name="miheadset_unpair_device_text">%1$s از همه دستگاه‌های مرتبط با این حساب Mi جدا خواهد شد.</string>
     <string name="mipush_fake_channel_group_name">Mi Push</string>
     <string name="miui_accessibility_asr_summary">تبدیل به نوشتار صدا و ذخیره متن</string>
@@ -2034,6 +2195,8 @@
     <string name="miui_allow_vibrate">لرزش</string>
     <string name="miui_data_usage_menu_metered">کانون داغ همراه</string>
     <string name="miui_experience_optimization">روشن کردن بهینه سازی MIUI</string>
+    <string name="miui_face_enroll_risk_warning_btn_cancel">لغو</string>
+    <string name="miui_face_enroll_risk_warning_title_text">توجه</string>
     <string name="miui_face_enroll_success">"حالا می‌توانید با استفاده از مشخصات چهره خود قفل این دستگاه را باز کنید.
 برای دسترسی به تنظیمات بیشتر ادامه دهید."</string>
     <string name="miui_input_method_settings">تنظیمات شیوه ورود</string>
@@ -2057,7 +2220,6 @@
     <string name="miui_lab_install_drive_mode_title">نصب حالت رانندگی</string>
     <string name="miui_lab_settings">آزمایشگاه MIUI</string>
     <string name="miui_lab_slogan">بیاموزید. کاوش کنید. بیابید.</string>
-    <string name="miui_master_clear_prompt_battery_low">هنگامی که کمتر از %1$s باتری باقی مانده است، نمی‌توان بازنشانی به تنظیمات کارخانه را انجام داد. پیش از ادامه دستگاه خود را شارژ کنید.</string>
     <string name="miui_master_clear_summary">همه داده‌های این دستگاه را پاک می‌کند</string>
     <string name="miui_more_special_feature">کشف ویژگی‌های جدید</string>
     <string name="miui_optimization_disabled">غیرفعال کردن بهینه سازی MIUI</string>
@@ -2179,6 +2341,7 @@
     <string name="mtp_connection_not_remind">دوباره نمایش داده نشود</string>
     <string name="mtp_solution_button_cancel">فهمیدم</string>
     <string name="mtp_solution_button_ok">عیب‌یابی</string>
+    <string name="muffled_text">فرکانس پایین به آرامی تغییرات دیداری را برجسته کرده و اشاره‌ها را طبیعی‌تر نمایان می‌کنند</string>
     <string name="multi_face_delete_message">توجه</string>
     <string name="multi_face_delete_show_message">مشخصات چهره حذف شود؟</string>
     <string name="multi_face_input">افزودن اطلاعات چهره</string>
@@ -2193,11 +2356,14 @@
     <string name="multifunction_keyboard">چند کاره</string>
     <string name="music_equalizer">برابر کننده</string>
     <string name="mute">حالت بی‌صدا</string>
+    <string name="mute_media_sound_summary">بازی‌ها، موسیقی، ویدئوها و سایر برنامه‌ها</string>
     <string name="mute_media_sound_title">بی‌صدا کردن رسانه‌ها در حالت بی‌صدا</string>
     <string name="mute_music_stream">بی‌صدا کردن صدای رسانه‌ها</string>
     <string name="mute_voiceassist_stream">بی‌صدا کردن دستیار صوتی</string>
     <string name="my_device">دستگاه‌ من</string>
     <string name="my_device_disclaimer">توجه: اطلاعات سخت‌افزاری شامل CPU، ظرفیت باتری، اندازه و وضوح نمایشگر و دوربین توسط آزمایشگاه‌ها، طراحان و تأمین‌کنندگان Xiaomi ارائه شده است.</string>
+    <string name="natural_haptic">لمس طبیعی</string>
+    <string name="natural_haptic_summary">الگوهای بازخورد لمسی جدید ابعاد تازه بیشتری به هر آن‌چه در صفحه می‌بینید و لمس می‌کنید می‌دهند.</string>
     <string name="nature_color">پیش‌فرض</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">از پایین صفحه به سمت بالا کشیده، سپس به سمت چپ یا راست</string>
     <string name="navigation_guide_app_quick_switch_summary">از نشان‌گر تمام‌صفحه یا پایین صفحه به سمت چپ یا راست بکشید</string>
@@ -2218,14 +2384,14 @@
     <string name="navigation_guide_dialog_title">یادگیری حرکات انگشت</string>
     <string name="navigation_guide_gesture_line_dialog_summary">پس از پنهان کردن نشان‌گر تمام‌صفحه، یک حرکت انگشت جدید برای تعویض میان برنامه‌ها استفاده خواهد شد. درباره این حرکت انگشت بیشتر بدانید.</string>
     <string name="navigation_guide_gesture_line_dialog_title">یادگیری حرکت انگشت جدید</string>
-    <string name="navigation_guide_hide_gesture_line_summary">نمایش ندادن نشان‌گر تمام‌صفحه هنگام استفاده از حرکات انگشت تمام‌صفحه</string>
+    <string name="navigation_guide_hide_gesture_line_summary">نمایش ندادن نشان‌گر تمام‌صفحه هنگام استفاده از اشارات تمام‌صفحه</string>
     <string name="navigation_guide_hide_gesture_line_title">پنهان کردن نشان‌گر تمام‌صفحه</string>
     <string name="navigation_guide_home_summary">از پایین صفحه به سمت بالا بکشید</string>
     <string name="navigation_guide_home_title">رفتن به صفحه اصلی</string>
     <string name="navigation_guide_recent_summary">از پایین صفحه به سمت بالا کشیده و مکث کنید</string>
     <string name="navigation_guide_recent_title">باز کردن موارد تازه</string>
     <string name="navigation_guide_settings">آموزش حرکات انگشت</string>
-    <string name="navigation_type_radio_text_full_screen">حرکات انگشت در حالت تمام صفحه</string>
+    <string name="navigation_type_radio_text_full_screen">اشارات تمام‌صفحه</string>
     <string name="navigation_type_radio_text_virtual_key">دکمه‌‌ها</string>
     <string name="navigation_type_settings">جهت‌یابی سیستم</string>
     <string name="nearby_wifi">شبکه‌های در دسترس</string>
@@ -2302,8 +2468,10 @@
     <string name="none">هیچ کدام</string>
     <string name="normal">خاموش</string>
     <string name="normal_info">همه صداها به صورت عادی کار می‌کنند</string>
+    <string name="normal_list_text">فهرست</string>
     <string name="normal_smartcover_title">روکش جلوی مات</string>
-    <string name="notch_and_status_bar_settings">مرکز کنترل و کرکره اعلان</string>
+    <string name="not_enabled">خاموش</string>
+    <string name="notch_and_status_bar_settings">مرکز کنترل و نوار وضعیت</string>
     <string name="notch_force_black_desc">با روشن کردن این گزینه دو طرف فرورفتگی تاریک می‌شود</string>
     <string name="notch_force_black_title">پنهان کردن فرورفتگی</string>
     <string name="notch_settings">فرو رفتگی</string>
@@ -2328,11 +2496,6 @@
     <string name="notification_center">اعلان‌ها</string>
     <string name="notification_control_center">اعلان‌ها و مرکز کنترل</string>
     <string name="notification_display_settings">کرکره اعلان</string>
-    <string name="notification_fold_description1">پوشه اعلان‌ها در MIUI ۹ معرفی شده بود. این ویژگی اعلان‌های غیر مهم را فیلتر و آن‌ها را در یک پوشه جدا قرار می‌دهد.</string>
-    <string name="notification_fold_description2">MIUI اعلان‌هایی که شما روی آن‌ها می‌زنید را به خاطر می‌سپارد و سپس از معیارهای چندگانه برای شناسایی اهمیت آن‌ها استفاده می‌کند.</string>
-    <string name="notification_fold_description3">اگر اعلان‌هایی که شما مهم می‌پندارید همچنان به پوشه اعلان‌ها می‌روند، می‌توانید اینگونه اشکالات را به ما گزارش کنید. ما از بازخورد شما قدردانی خواهیم کرد.</string>
-    <string name="notification_fold_footer_icon_summary">نمایش آیکون برنامه‌ها هنگامی که اعلان‌های غیر مهم گروه‌بندی شده‌اند</string>
-    <string name="notification_fold_footer_icon_title">نمایش آیکون برنامه‌ها</string>
     <string name="notification_fold_summary">همه اعلان‌های غیر مهم در یک پوشه جدا نمایش داده خواهند شد</string>
     <string name="notification_fold_title">پوشه اعلان‌ها</string>
     <string name="notification_reboot_btn">راه‌اندازی دوباره</string>
@@ -2365,6 +2528,7 @@
     <string name="oldman_uninstalled_btn">نصب</string>
     <string name="oldman_uninstalled_des">حالت ساده شما را از شر در هم ریختگی دیداری خلاص کرده و صفحه اصلی شما را ساده می‌کند.</string>
     <string name="on">روشن</string>
+    <string name="one_key_migrate_record">انتقال دادن به %1$s</string>
     <string name="onehour">۳۰ دقیقه</string>
     <string name="onekey_migrate">جابجاگر Mi</string>
     <string name="open_demo_mode">روشن کردن</string>
@@ -2395,6 +2559,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="other_advanced_settings">تنظیمات بیشتر</string>
     <string name="other_data">سایر موارد این دستگاه</string>
     <string name="other_device_info">سایر</string>
+    <string name="other_input_method">سایر صفحه کلید‌ها</string>
     <string name="other_input_settings">تنظیمات بیشتر صفحه کلید</string>
     <string name="other_password">سایر گذرواژه‌ها</string>
     <string name="other_personal_settings">تنظیمات شخصی</string>
@@ -2476,6 +2641,13 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="paper_mode_summary">تعویض به رنگ‌های گرم‌تر و افزودن نمای کاغذی به پس‌زمینه برای کاهش خستگی چشم</string>
     <string name="paper_mode_title">کاغذ</string>
     <string name="papger_effect_category">حالت</string>
+    <string name="passpoint_r1_privacy_dialog_message">"This Wi-Fi service is provided by exands. It allows you to connect to supported nearby hotspots automatically.
+
+Read and agree to %s before using this service."</string>
+    <string name="passpoint_r1_privacy_dialog_no">Exit</string>
+    <string name="passpoint_r1_privacy_dialog_title">Attention</string>
+    <string name="passpoint_r1_privacy_dialog_url_text">\"exands Privacy Policy\"</string>
+    <string name="passpoint_r1_privacy_dialog_yes">Agree</string>
     <string name="passwordIncorrect">گذرواژه وارد شده اشتباه است</string>
     <string name="password_and_security">گذرواژه و امنیت</string>
     <string name="password_entrance_title">تنظیم قفل صفحه</string>
@@ -2500,13 +2672,19 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="permit_running_network">داده‌های پس‌زمینه</string>
     <string name="person_hotpot">کانون داغ همراه</string>
     <string name="personal_section_title">سفارشی کردن</string>
+    <string name="personalize_title">تصویر زمینه و شخصی سازی</string>
     <string name="phone_backup_summary">پشتیبان‌گیری و بازیابی موارد این دستگاه</string>
     <string name="phone_backup_title">دستگاه موبایل</string>
     <string name="phone_call_noise_suppression">جلوگیری از نویز در طول تماس‌ها</string>
     <string name="photo_data">عکس‌ها و ویدئوها</string>
     <string name="pick_up_gesture_wakeup_title">بیدار کردن با برداشتن</string>
+    <string name="picker_text">زمان‌گیر</string>
     <string name="picture_color_mode">حالت رنگ عکس</string>
     <string name="picture_color_mode_desc">استفاده از sRGB</string>
+    <string name="picture_in_picture_app_detail_switch">اجازه دادن تصویر در تصویر</string>
+    <string name="picture_in_picture_app_detail_title">تصویر در تصویر</string>
+    <string name="picture_in_picture_empty_text">هیچ برنامه نصب شده‌ای از تصویر در تصویر پشتیبانی نمی‌کند</string>
+    <string name="picture_in_picture_title">تصویر در تصویر</string>
     <string name="please_type_passphrase">گذرواژه</string>
     <string name="poco_launcher_privacy_policy">سیاست حفظ حریم خصوصی لانچر POCO</string>
     <string name="poco_launcher_user_agreement">توافق‌نامه کاربر لانچر POCO</string>
@@ -2562,6 +2740,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="power_remaining_less_than_duration_only">کمتر از %1$s مانده</string>
     <string name="power_remaining_more_than_subtext">بیشتر از %1$s مانده (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">بیشتر از %1$s مانده</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_settings_title">عملکرد سیستم</string>
     <string name="power_suggestion_battery_run_out">ممکن است باتری تمام شود با %1$s</string>
     <string name="power_usage_history">مصرف باتری</string>
@@ -2677,7 +2856,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="privacy_password_transparent_tiltle" />
     <string name="privacy_password_use_finger_dialog_mess">شما همچنین می‌توانید از اثر انگشت خود با گذرواژه حفاظت از حریم خصوصی استفاده کنید.</string>
     <string name="privacy_password_use_finger_dialog_open">تنظیمات</string>
-    <string name="privacy_password_use_finger_dialog_title">باز کردن قفل با اثر انگشت</string>
+    <string name="privacy_password_use_finger_dialog_title">گشودن قفل با اثر انگشت</string>
     <string name="privacy_password_use_finger_success">روشن شد</string>
     <string name="privacy_password_visible_pattern">نمایش الگو</string>
     <string name="privacy_protect_title">حفاظت از حریم خصوصی</string>
@@ -2700,6 +2879,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="private_sms_need_to_unlock">گذرواژه را وارد کنید</string>
     <string name="private_sms_recording_intro_header">یک الگوی باز کردن قفل بکشید</string>
     <string name="private_sms_reset_by_account">برای بازنشانی گذرواژه، وارد حساب Mi خود شوید.</string>
+    <string name="process_kernel_label">سیستم عامل Android</string>
     <string name="profile_connect_timeout_subtext">در اتصال اشکالی رخ داد. دستگاه را خاموش کرده و دوباره بازگردید.</string>
     <string name="profile_info_settings_title">اطلاعات نمایه</string>
     <string name="provision_activation">فعال</string>
@@ -2707,6 +2887,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="provision_next">بعدی</string>
     <string name="provision_page_layout_confirm_message">دستگاه شما برای به‌کار بردن این تغییرات نیاز به راه‌اندازی دوباره دارد. نزدیک ۱ دقیقه زمان می‌برد.</string>
     <string name="provision_skip">رد شدن</string>
+    <string name="provision_skip_underline">رد شدن</string>
     <string name="proxy_exclusionlist_label">کنارگذر برای</string>
     <string name="proxy_hostname_label">نام میزبان</string>
     <string name="proxy_port_label">درگاه</string>
@@ -2740,7 +2921,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="remove_from_frequently_fragment">%s از تنظیمات سریع حذف شود؟</string>
     <string name="repeat">تکرار</string>
     <string name="repeat_call">اعلام تماس‌های تکرار شده</string>
-    <string name="repeat_call_info">اجازه زنگ خوردن برای تماس‌هایی که در حالت سکوت طی ۱۵ دقیقه تکرار شده‌اند</string>
+    <string name="repeat_call_info">زنگ خوردن یا لرزیدن هنگامی که تماس دوم از یک شماره کمتر از %d دقیقه باشد</string>
     <string name="repeat_days_in_week">تکرار</string>
     <string name="repeat_never">هرگز</string>
     <string name="requires_modern_control_center">کار کردن با نسخه جدید مرکز کنترل</string>
@@ -2765,7 +2946,6 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="resolution_fhd_summary" formatted="false">%d×%d (صرفه‌جویی باتری)</string>
     <string name="resolution_qhd">WQHD+</string>
     <string name="resolution_qhd_summary" formatted="false">%d×%d (افزودن وضوح)</string>
-    <string name="resolution_sub_title">هنگام تعویض وضوح، ممکن است MIUI برنامه‌هایی را که در پس‌زمینه اجرا می شوند، ببندد</string>
     <string name="resolver_settings_label">مرتب‌سازی</string>
     <string name="restore_device_id_content">پیشنهادات شخصی‌سازی شده بازنشانی خواهد شد</string>
     <string name="restore_device_id_title">بازنشانی شناسه دستگاه</string>
@@ -2790,8 +2970,8 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="right_function_key">میان‌بر راست</string>
     <string name="ring_to_you">آهنگ پیش‌واز</string>
     <string name="ring_to_you_info">با تنظیم آهنگ پیش‌واز دیگران پیش از برداشتن گوشی توسط شما آن را می‌شوند</string>
-    <string name="ring_volume_option_title">تماس‌ها، یادآوری‌ها و اعلان‌ها</string>
-    <string name="ringer_mode_setting_summary">تماس‌های دریافتی و اعلان‌ها را بی‌صدا می‌کند</string>
+    <string name="ring_volume_option_title">صدای زنگ</string>
+    <string name="ringer_mode_setting_summary">بی‌صدا کردن تماس‌ها و اعلان‌ها</string>
     <string name="ringer_mode_setting_title">حالت بی‌صدا</string>
     <string name="ringtone_slot_setting_title">تنظیمات تک سیم‌کارته</string>
     <string name="ringtone_title">آهنگ زنگ</string>
@@ -2801,6 +2981,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="running_process_item_user_label">کاربر: %1$s</string>
     <string name="runningservices_settings_summary">نمایش و کنترل خدماتی که درحال اجرا هستند</string>
     <string name="runningservices_settings_title">خدمات درحال اجرا</string>
+    <string name="runtime_permissions_summary_control_app_access">کنترل دسترسی برنامه به داده‌های شما</string>
     <string name="save_battery_mode">صرفه‌ جویی باتری با WQHD+</string>
     <string name="save_battery_mode_summary">برای صرفه جویی در مصرف برق، وضوح را به به صورت خودکار تغییر دهید</string>
     <string name="saved_network">ذخیره شده توسط %1$s</string>
@@ -2810,7 +2991,6 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="scanning_status_text_wifi_off_ble_on">اسکن بلوتوث روشن است. اسکن Wi-Fi خاموش است</string>
     <string name="scanning_status_text_wifi_on_ble_off">اسکن Wi-Fi روشن است. اسکن بلوتوث خاموش است</string>
     <string name="scanning_status_text_wifi_on_ble_on">اسکن Wi-Fi و بلوتوث هر دو روشن است</string>
-    <string name="scheduled_style">زمان‌بندی شده</string>
     <string name="screen">صفحه نمایش</string>
     <string name="screen_cancel">لغو</string>
     <string name="screen_color_and_optimize">رنگ‌ها و کنتراست</string>
@@ -2830,8 +3010,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="screen_enhance_engine_ai_pic_summary">"شناسایی اشیاء (مانند گیاهان، حیوانات، ساختمان‌ها) و تنظیم پویای جلوه‌های نمایشی. "</string>
     <string name="screen_enhance_engine_ai_title">بهبود تصویر AI</string>
     <string name="screen_enhance_engine_memc_note">هنگام روشن بودن وضوح فوق‌العاده، ویدئوها بهبود پیدا نخواهند کرد. شما با روشن کردن ویدئوهای بهبود یافته، وضوح فوق‌العاده را خاموش می‌کنید.</string>
-    <string name="screen_enhance_engine_memc_note_1">%d. این ویژگی اندکی مصرف برق را افزایش می‌دهد.</string>
-    <string name="screen_enhance_engine_memc_note_2">%d. این ویژگی فقط زمانی که جعبه ابزار ویدئو روشن باشد کار می‌کند.</string>
+    <string name="screen_enhance_engine_memc_note_1">این ویژگی اندکی مصرف برق را افزایش می‌دهد.</string>
     <string name="screen_enhance_engine_memc_open">MEMC</string>
     <string name="screen_enhance_engine_memc_pic_summary">"فریم‌های اضافی به ویدئو می‌افزاید تا محتوا را روان‌تر نشان داده و حرکت به صورت زنده‌تر نمایان شود. "</string>
     <string name="screen_enhance_engine_memc_title">MEMC</string>
@@ -2979,7 +3158,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="search_bluetooth_device_searchable">قابل جستجو;قابل مشاهده;نام بلوتوث</string>
     <string name="search_bluetooth_enable">بلوتوث;روشن کردن بلوتوث;بلوتوث روشن</string>
     <string name="search_bluetooth_settings_title">بلوتوث;قابل شناسایی</string>
-    <string name="search_bluetooth_tether_checkbox_text">تترینگ بلوتوث;تترینگ</string>
+    <string name="search_bluetooth_tether_checkbox_text">تترینگ بلوتوث;همرسانی شبکه</string>
     <string name="search_brightness">روشنایی;روشنایی صفحه نمایش;روشنایی نمایش‌گر</string>
     <string name="search_button_light_timeout">روشن نگه‌داشتن چراغ‌های دکمه;چراغ‌های دکمه</string>
     <string name="search_calendar_sound_title">صدای سالنامه;صدای زنگ سالنامه;سالنامه</string>
@@ -2989,7 +3168,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="search_choose_timezone">انتخاب منطقه زمانی;منطقه زمان;مناطق زمانی</string>
     <string name="search_cloud_backup_settings_section_title">تنظیمات پشتیبان‌گیری;پشتیبان‌گیری;پشتیبان گیری;پشتیبان‌گیری‌ها</string>
     <string name="search_cloud_restore_section_title">بازیابی از فضای ابری Mi;فضای ابری Mi;پشتیبان‌گیری‌های فضای ابری;فضای ابری Xiaomi;بازیابی از فضای ابری Xiaomi</string>
-    <string name="search_connection_and_sharing">بیشتر;بی سیم</string>
+    <string name="search_connection_and_sharing">بیشتر;بی‌سیم</string>
     <string name="search_copyright_title">حق چاپ و نشر</string>
     <string name="search_credentials_install">نصب از حافظه;نصب مستقیم;نصب APK</string>
     <string name="search_date_and_time_settings_title">تاریخ و زمان;تاریخ و زمان;تاریخ;زمان</string>
@@ -2997,11 +3176,11 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="search_development_settings_title">گزینه‌های توسعه‌دهنده;دستیار;توسعه دهنده;توسعه دهندگان;توسعه‌دهندگی;توسعه;عیب‌یابی;عیب یابی;اشکال‌زدایی;اشکال‌زدایی USB;عیب‌یابی USB</string>
     <string name="search_device_name">نام دستگاه</string>
     <string name="search_device_status">وضعیت</string>
-    <string name="search_display_settings">نمایش;صفحه نمایش;نور محیط;شماره‌گیری در جیب;دمای رنگ;رنگ;رنگ‌ها;اشباع;چرخش خودکار;چرخش خودکار;چرخش خودکار;چرخش نمایشگر;روشنایی;فونت;فونت‌ها;اندازه فونت;چرخش;چرخش خودکار;فونت;پیام;اندازه پیام;اندازه فونت;اندازه صفحه</string>
+    <string name="search_display_settings">نمایش;صفحه نمایش;نور محیط;شماره‌گیری در جیب;دمای رنگ;رنگ;رنگ‌ها;اشباع;چرخش خودکار;چرخش خودکار;چرخش خودکار;چرخش نمایشگر;روشنایی;فونت;خط;اندازه فونت;چرخش;چرخش خودکار;فونت;پیام;اندازه پیام;اندازه فونت;اندازه صفحه</string>
     <string name="search_dndm_alarm_content">موارد استثنا</string>
     <string name="search_dndm_auto_button_title">تنظیم زمان</string>
-    <string name="search_dndm_auto_time_setting">تنظیم زمان;DND</string>
-    <string name="search_dndm_open">مزاحم نشوید; DND; روشن کردن DND</string>
+    <string name="search_dndm_auto_time_setting">تنظیم زمان;مزاحم نشوید</string>
+    <string name="search_dndm_open">مزاحم نشوید; مزاحم نشوید; روشن کردن مزاحم نشوید</string>
     <string name="search_dndm_repeated_call_setting_title">تماس‌گیرندگان تکراری;تماس‌های تکراری</string>
     <string name="search_dndm_vip_call_setting_title">VIP;موارد استثنا;لیست سفید;لیست سفید</string>
     <string name="search_dndm_wristband">فعال‌سازی با مچ‌بند Mi;مچ‌بند Mi</string>
@@ -3011,8 +3190,8 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="search_empty">نتیجه‌ای یافت نشد</string>
     <string name="search_enable_adb">اشکال‌زدایی USB</string>
     <string name="search_fluency_mode">انیمیشن‌های سیستم</string>
-    <string name="search_font">فونت سیستم;فونت;فونت‌ها;اندازه‌های فونت;اندازه فونت</string>
-    <string name="search_force_touch">لمس ۳بعدی</string>
+    <string name="search_font">فونت سیستم;خط;فونت‌ها;اندازه‌های فونت;اندازه فونت</string>
+    <string name="search_force_touch">لمس سه بعدی</string>
     <string name="search_gesture_wakeup_title">دوبار ضربه به صفحه برای بیدار شدن;دوبار ضربه برای بیدار شدن;دوبار ضربه صفحه;دوبار ضربه</string>
     <string name="search_gps">GPS;دسترسی موقعیت;خدمات موقعیت</string>
     <string name="search_handy_mode">حالت یک دست;حالت تک دست;حالت یک دست;یک دست</string>
@@ -3053,7 +3232,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="search_other_advanced_settings">تنظیمات اضافی;تنظیمات بیشتر</string>
     <string name="search_other_settings_sync_settings">همگام‌سازی;خودکار;فقط Wi-Fi</string>
     <string name="search_owner_info_settings_title">اطلاعات مالک</string>
-    <string name="search_page_layout_settings">اندازه متن;اندازه فونت;فونت کوچک;فونت بزرگ;فونت متوسط;فونت بزرگ;فونت خیلی بزرگ;اندازه‌های فونت</string>
+    <string name="search_page_layout_settings">اندازه متن;اندازه خط;فونت کوچک;فونت بزرگ;فونت متوسط;فونت بزرگ;فونت خیلی بزرگ;اندازه‌های فونت</string>
     <string name="search_permission_manager">مجوزها;دسترسی ریشه‌ای;دانلود;دانلودها</string>
     <string name="search_permission_settings_title">مجوزهای برنامه;مجوزها;دسترسی;مدیریت برنامه‌ها;دانلود;دانلودها</string>
     <string name="search_pick_up_gesture_wakeup_title">برداشتن;بلند کردن</string>
@@ -3099,7 +3278,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="search_status_bar_settings_show_notification_icon">نمایش آیکون‌های اعلان;آیکون‌های اعلان;نمایش آیکون‌های اعلان</string>
     <string name="search_status_bar_settings_show_screenshot_notification">نمایش اعلان عکس صفحه;اعلان عکس از صفحه;عکس از صفحه</string>
     <string name="search_status_bar_settings_style">اعلان‌ها و طرح وضعیت‌ها;وضعیت‌ها;طرح وضعیت‌ها;جداسازی وضعیت‌ها;ترکیب شده;جدا;ترکیب</string>
-    <string name="search_status_bar_settings_toggle_collapse_after_clicked">جمع کردن پس از لمس;جمع کردن;پنهان کردن</string>
+    <string name="search_status_bar_settings_toggle_collapse_after_clicked">جمع کردن پس از لمس;بستن;پنهان کردن</string>
     <string name="search_status_bar_settings_toggle_position">موقعیت‌های وضعیت‌ها;وضعیت‌ها;وضعیت;تغییر وضعیت‌ها</string>
     <string name="search_storage_settings">حافظه;مموری</string>
     <string name="search_sync_settings">همگام‌سازی;خودکار;فقط Wi-Fi</string>
@@ -3108,10 +3287,10 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="search_touch_assistant">توپ سریع;دستیار لمس</string>
     <string name="search_touch_sensitive_title">حالت دستکش;دستکش‌ها;دستکش</string>
     <string name="search_trusted_credentials">اعتبارنامه‌های مورد اعتماد;امضای برنامه;امضاهای برنامه;اعتبارنامه‌ها;امضا</string>
-    <string name="search_tts_settings_title">خروجی نوشتار به گفتار;متن به سخن</string>
+    <string name="search_tts_settings_title">خروجی متن به گفتار;متن به گفتار</string>
     <string name="search_turn_on_security_lock">انتخاب قفل صفحه;قفل صفحه;افزودن قفل صفحه;قفل صفحه</string>
     <string name="search_unlogin_account_title">حساب Mi; شناسه حساب Mi;حساب;شناسه حساب;حساب Xiaomi;حفاظت از حساب;محافظت از حساب;امنیت حساب;حساب من</string>
-    <string name="search_usb_tethering_button_text">تترینگ USB;تترینگ;USB</string>
+    <string name="search_usb_tethering_button_text">همرسانی شبکه USB;تترینگ;USB</string>
     <string name="search_user_agreement">شرایط استفاده از خدمات؛ توافق‌نامه کاربر</string>
     <string name="search_user_dict_settings_title">فرهنگ لغت شخصی;فرهنگ لغت</string>
     <string name="search_vibrate_in_silent_title">لرزش هنگام سکوت;لرزاننده;لرزش</string>
@@ -3128,15 +3307,15 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="search_wifi_advanced_mac_address_title">نشانی MAC Wi-Fi;نشانی MAC WLAN</string>
     <string name="search_wifi_enable">WiFi;Wi-Fi;WLAN;Wifi روشن;Wi-Fi روشن;WLAN روشن</string>
     <string name="search_wifi_install_credentials">نصب گواهی‌نامه‌ها;گواهی‌نامه‌ها</string>
-    <string name="search_wifi_menu_p2p">Wi-Fi بی‌واسطه;Wi-Fi Direct</string>
+    <string name="search_wifi_menu_p2p">Wi-Fi بی‌واسطه;WLAN Direct</string>
     <string name="search_wifi_menu_wps_pin">ورودی PIN WPS;WPS;PIN WPS</string>
     <string name="search_wifi_scan_always_available">اسکن کردن همیشه در دسترس باشد;اسکن شبکه‌ها;اسکن Wifi;اسکن WLAN</string>
     <string name="search_wifi_setting_frequency_band_title">باند فرکانس Wi-Fi;فرکانس WiFi;فرکانس Wi-Fi;فرکانس WLAN;باند فرکانس</string>
     <string name="search_wifi_setting_sleep_policy_title">روشن نگه‌داشتن Wi-Fi هنگام خواب;روشن نگه‌داشتن WiFi هنگام خواب;روشن نگه‌داشتن WLAN هنگام خواب;روشن نگه‌داشتن Wi-Fi هنگام خواب;روشن نگه‌داشتن WiFi هنگام خواب;روشن نگه‌داشتن WLAN هنگام خواب</string>
     <string name="search_wifi_settings_title">Wifi;Wi-Fi;تنظیمات پیشرفته;WLAN;شبکه‌های بی‌سیم;بی‌سیم</string>
     <string name="search_wifi_tether_checkbox">کانون داغ همراه;کانون داغ;قابل حمل</string>
-    <string name="search_wifi_tether_configure_ap_text">ایجاد کانون داغ قابل حمل;ایجاد کانون داغ;افزودن کانون داغ;تنظیم داغ</string>
-    <string name="search_wifi_tether_settings_title">تترینگ و کانون داغ قابل حمل;تتر;همرسانی اینترنت;کانون داغ WLAN;کانون داغ WiFi;کانون داغ Wi-Fi</string>
+    <string name="search_wifi_tether_configure_ap_text">ایجاد کانون داغ همراه;ایجاد کانون داغ;افزودن کانون داغ;تنظیم داغ</string>
+    <string name="search_wifi_tether_settings_title">تترینگ و کانون داغ همراه;تتر;همرسانی اینترنت;کانون داغ WLAN;کانون داغ WiFi;کانون داغ Wi-Fi</string>
     <string name="search_wifi_wapi_cert_install">نصب گواهی‌نامه WAPI;گواهی‌نامه‌های WAPI;WAPI</string>
     <string name="search_wifi_wapi_cert_uninstall">حذف گواهی WAPI;گواهی‌نامه‌های WAPI;WAPI</string>
     <string name="search_wps_connect_title">دکمه فشار WPS;اتصال WPS;WPS</string>
@@ -3156,6 +3335,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="security_encryption_attention_3">باید یک قفل صفحه جدید تنظیم کنید.</string>
     <string name="security_encryption_attention_4">مطمئن شوید گذرواژه صفحه قفل را به خاطر سپرده‌اید، در غیر این صورت لازم می‌شود یک بازنشانی کامل انجام داده و همه داده‌های دستگاه را پاک کنید.</string>
     <string name="security_encryption_attention_info">شما می‌توانید همه حساب‌ها، تنظیمات، برنامه‌های دانلود شده و اطلاعات، رسانه‌ها و سایر فایل‌های آن‌ها را رمزگذاری کنید.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">مهم</string>
     <string name="security_encryption_close_dialog_info">انتخاب رمزگذاری نکردن دستگاه با قفل صفحه ممکن است برخی خدمات Google را از دسترس خارج کند.</string>
     <string name="security_encryption_close_dialog_title">بازگشت به رمزگذاری سیستم پیش‌فرض</string>
@@ -3178,6 +3358,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="security_status">وضعیت امنیت</string>
     <string name="security_update">به‌روزرسانی امنیتی</string>
     <string name="seek_bar_info">تنظیم اندازه</string>
+    <string name="seekbar_text">نوار</string>
     <string name="select_application">انتخاب برنامه</string>
     <string name="select_logd_level">انتخاب سطح گزارش</string>
     <string name="select_logd_size_dialog_title">انتخاب اندازه ورود</string>
@@ -3218,7 +3399,6 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="setup_choose_unlock_type_title">تنظیم گذرواژه</string>
     <string name="setup_password_back">بازگشت</string>
     <string name="setup_password_confirm">تأیید</string>
-    <string name="setup_password_skip">رد کردن</string>
     <string name="shared_data_delete_failure_text">هنگام حذف داده‌های همرسانی شده خطایی رخ داد.</string>
     <string name="shared_data_no_accessors_dialog_text">برای این داده همرسانی شده هیچ کرایه‌ای به دست نیامد. آیا می‌خواهید آن را حذف کنید؟</string>
     <string name="shared_data_no_blobs_text">هیچ داده همرسانی شده‌ای برای این کاربر در دسترس نیست.</string>
@@ -3229,6 +3409,8 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="show_all_anrs_summary">نمایش پیام «برنامه واکنش نشان نمی‌دهد» برای برنامه‌های پس‌زمینه</string>
     <string name="show_badge_notifications_short">نشان</string>
     <string name="show_carrier_under_keyguard_title">نمایش نام شرکت مخابراتی هنگام قفل بودن دستگاه</string>
+    <string name="show_charging_in_non_lockscreen_animation">نمایش انیمیشن شارژ پس از باز کردن قفل دستگاه</string>
+    <string name="show_charging_in_non_lockscreen_animation_summary">پس از باز شدن قفل دستگاه خود، انیمیشن شارژ را نمایش داده و آن را فقط برای پخش ویدئو و سایر صحنه‌های تمام‌صفحه مشابه پنهان کنید</string>
     <string name="show_connected_devices_summary">نمایش دستگاه‌های متصل</string>
     <string name="show_connected_devices_title">دستگاه‌های متصل</string>
     <string name="show_fc">برنامه‌های به اجبار بسته شده</string>
@@ -3258,7 +3440,11 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="shuting_down_find_device">درحال خاموش کردن یابنده دستگاه…</string>
     <string name="silent_duration">مدت زمان</string>
     <string name="silent_mode">حالت بی‌صدا</string>
+    <string name="silent_mode_disable_media">بی‌صدا کردن همه</string>
+    <string name="silent_mode_enable_media">پخش رسانه‌ها</string>
+    <string name="silent_mode_summary">بی‌صدا کردن تماس‌ها، اعلان‌ها و رسانه‌ها</string>
     <string name="silent_mode_title">حالت بی‌صدا</string>
+    <string name="silent_mode_toggle_title">حالت بی‌صدا</string>
     <string name="silent_off">خاموش</string>
     <string name="silent_settings">بی‌صدا/مزاحم نشوید</string>
     <string name="silent_standard">بی‌صدا</string>
@@ -3285,6 +3471,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="size_kilo_byte">کیلوبایت</string>
     <string name="size_mega_byte">مگابایت</string>
     <string name="size_peta_byte">پتابایت</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">ترابایت</string>
     <string name="skip_lock_screen_confirm_msg">اعلان‌ها، صفحه کنترل پخش موسیقی و میان‌برها روی صفحه قفل نمایش داده نخواهند شد.</string>
     <string name="skip_step">رد شدن</string>
@@ -3369,14 +3556,18 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="sound_category_call_ringtone_vibrate_title">صدای زنگ و صداهای اعلان</string>
     <string name="sound_category_system_title">سیستم</string>
     <string name="sound_effects_enable_title">صدای ضربه</string>
+    <string name="sound_haptic_settings">صدا و لمس</string>
     <string name="sound_mode">حالت بی‌صدا و مزاحم نشوید</string>
     <string name="sound_settings">صدا</string>
+    <string name="sound_settings_tab_haptic">لمس</string>
+    <string name="sound_settings_tab_sound">صدا</string>
     <string name="sound_stereo_mode_summary">فقط زمانی که صدا با بلندگو پخش شود در دسترس است</string>
     <string name="sound_stereo_mode_title">صدای استریو</string>
     <string name="sound_title">صدا</string>
     <string name="sound_vibrate_settings">صدا و لرزش</string>
     <string name="speaker">بلندگو</string>
     <string name="speaker_clean">پاک‌سازی بلندگو</string>
+    <string name="special_preview">نسخه‌های نمایشی</string>
     <string name="speed_label_fast">تند</string>
     <string name="speed_label_medium">متوسط</string>
     <string name="speed_label_okay">تأیید</string>
@@ -3398,10 +3589,11 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="status_bar_carrier_settings_no_sim_card">بدون سیم‌کارت</string>
     <string name="status_bar_settings">اعلان‌ها و نوار وضعیت</string>
     <string name="status_bar_settings_all_app_display_loading">چند لحظه صبر کنید…</string>
+    <string name="status_bar_settings_carrier_sim">"سیم‌کارت %1$s: "</string>
     <string name="status_bar_settings_manage_notification">اعلان‌های برنامه</string>
     <string name="status_bar_settings_notification_bar">کرکره اعلان</string>
     <string name="status_bar_settings_status_bar">نوار وضعیت</string>
-    <string name="status_bar_title">نوار وضعیت</string>
+    <string name="status_bar_title">مرکز کنترل و نوار وضعیت</string>
     <string name="status_sim">وضعیت سیم‌کارت</string>
     <string name="status_sim_1">سیم‌کارت ۱</string>
     <string name="status_sim_2">سیم‌کارت ۲</string>
@@ -3480,6 +3672,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="sunlight_mode_summary">تنظیم روشنایی برای تقویت نور محیط هنگام خاموش بودن روشنایی خودکار</string>
     <string name="supl_not_set">&lt;تنظیم نیست></string>
     <string name="sure_sync_now">اکنون موارد همگام‌سازی شوند؟</string>
+    <string name="switchNetworkToast">اتصال به شبکه‌های موبایل ممکن است هزینه‌های اضافی ایجاد کند</string>
     <string name="switch_access_service_on">کلید دسترسی</string>
     <string name="switch_headset_anti_lost">هشدار گم شدن هدفون</string>
     <string name="switch_headset_anti_lost_title">هشدار گم شدن هدفون</string>
@@ -3489,8 +3682,10 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="switch_select_to_speak_on">انتخاب برای شنیدن</string>
     <string name="symbols_not_allowed_for_password">گذرواژه فقط می‌تواند حاوی عدد و حروف باشد</string>
     <string name="sync_enable">همگام‌سازی</string>
+    <string name="sync_failed">همگام‌سازی نشد. چند دقیقه صبر کرده و سپس دوباره تلاش کنید.</string>
     <string name="sync_now">همگام‌سازی</string>
     <string name="sync_settings">حساب‌ها و همگام‌سازی</string>
+    <string name="sync_success">با موفقیت همگام‌سازی شد</string>
     <string name="sync_wifi_label">Wi-Fi</string>
     <string name="sync_wifi_only">فقط Wi-Fi</string>
     <string name="system">سیستم</string>
@@ -3503,10 +3698,11 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="system_print_service_help">درباره چاپ کردن</string>
     <string name="system_shortcut_wake">بیدار شدن با میانبرهای دکمه‌ها</string>
     <string name="system_storage">حافظه سیستم</string>
+    <string name="system_touch">بازخورد لمسی</string>
+    <string name="tab_text">زبانه</string>
     <string name="talkback_watermark_enable">نشان بازگفتار</string>
     <string name="tap_to_sign_up">برای ثبت نام ضربه بزنید</string>
     <string name="taplus_title">Taplus</string>
-    <string name="temporary_style">۱۰ ثانیه پس از ضربه روی صفحه نمایش</string>
     <string name="tether_and_hotspot_title">همرسانی شبکه و کانون داغ همراه</string>
     <string name="tether_auto_disable_summary">کانون داغ به صورت خودکار هنگامی‌که هیچ دستگاهی وصل نباشد خاموش خواهد شد</string>
     <string name="tether_auto_disable_title">خاموش کردن کانون داغ به صورت خودکار</string>
@@ -3522,6 +3718,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="tether_over_limit_dialog_title">هشدار مصرف اینترنت همراه</string>
     <string name="tether_over_limit_warning_notify_message">خاموش کردن کانون داغ همراه.</string>
     <string name="tether_over_limit_warning_notify_title">به سقف اینترنت همراه کانون داغ رسیدید</string>
+    <string name="tether_password_illegal_character">Password contains illegal characters. please re-enter</string>
     <string name="tether_settings_disabled">کانون داغ همراه خاموش است</string>
     <string name="tether_settings_title_all">همرسانی شبکه و کانون داغ همراه</string>
     <string name="tether_settings_title_bluetooth">همرسانی شبکه با بلوتوث</string>
@@ -3552,6 +3749,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="title_font2">خط و طرح</string>
     <string name="title_font_current">خط سیستم</string>
     <string name="title_font_current2">خط</string>
+    <string name="title_font_settings">تنظیمات فونت</string>
     <string name="title_hdmi_color_calibration">اصلاح رنگ از پیش تعیین شده</string>
     <string name="title_layout_current">اندازه متن</string>
     <string name="title_layout_current2">اندازه متن</string>
@@ -3560,6 +3758,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="title_of_auto_launch_manage">راه‌اندازی خودکار</string>
     <string name="title_special_features_health_global">تپش قلب</string>
     <string name="to_close">خاموش کردن</string>
+    <string name="toast_apply_font_fail">فونت تنظیم نمی‌شود</string>
     <string name="toast_lockscreen_glogin_empty_password">گذرواژه را وارد کنید</string>
     <string name="toast_need_login">وارد حساب Mi خود شوید</string>
     <string name="toast_sta_ap_works_wifi_display_disable">هنگامی که اتصال Wi-Fi برقرار و کانون داغ روشن باشد نمایش داده نمی‌شود.</string>
@@ -3583,8 +3782,6 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="trackball_wake_title">بیدار شدن گوی گردان</string>
     <string name="traffic_none">خالی</string>
     <string name="transition_animation_scale_title">مقیاس پویانمایی متحرک</string>
-    <string name="truetone_summary">تنظیم رنگ‌ها به نور محیط</string>
-    <string name="truetone_title">رنگ‌های سازگار</string>
     <string name="tts_default_lang_summary">صدای مخصوص زبان را برای متن گفتاری تنظیم می‌کند</string>
     <string name="tts_default_lang_title">زبان</string>
     <string name="tts_default_pitch_summary">بر روی صدای گفتار ترکیب شده اثر می‌گذارد</string>
@@ -3666,7 +3863,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="unlock_set_unlock_password_title">گذرواژه</string>
     <string name="unlock_set_unlock_pattern_summary">باز کردن قفل دستگاه با کشیدن یک الگوی ساده با انگشت</string>
     <string name="unlock_set_unlock_pattern_title">الگو</string>
-    <string name="unlock_set_unlock_pin_summary">باز کردن قفل دستگاه با وارد کردن %1$d تا %2$d رقم</string>
+    <string name="unlock_set_unlock_pin_summary">باز کردن قفل دستگاه با وارد کردن %1$d تا %2$d عدد</string>
     <string name="unlock_set_unlock_pin_title">PIN</string>
     <string name="unlock_set_unlock_summary">یک قفل صفحه تنظیم کنید</string>
     <string name="unlock_type_category_title">شیوه شناسایی</string>
@@ -3785,7 +3982,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="usb_reverse_charge">شارژ معکوس</string>
     <string name="usb_tethering_active_subtext">همرسانی شده</string>
     <string name="usb_tethering_available_subtext">USB وصل شد. برای همرسانی بررسی کنید</string>
-    <string name="usb_tethering_button_text">همرسانی شبکه با USB</string>
+    <string name="usb_tethering_button_text">هم‌رسانی شبکه با USB</string>
     <string name="usb_tethering_errored_subtext">خطای همرسانی USB</string>
     <string name="usb_tethering_storage_active_subtext">هنگام استفاده از حافظه USB، همرسانی نمی‌شود</string>
     <string name="usb_tethering_unavailable_subtext">USB وصل نیست</string>
@@ -3801,7 +3998,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="use_otg_file_transfers_summary">شارژ کندتر ۵۰۰ میلی‌آمپری و انتقال فایل</string>
     <string name="use_otg_title">USB On-The-Go</string>
     <string name="use_personalized_ad_service">تبلیغات پیشنهادی شخصی سازی شده</string>
-    <string name="use_personalized_ad_service_summary">هنگامی که پیشنهادات خاموش باشند، شما همچنان به همان مقدار تبلیغات در هنگام روشن بودن خواهید دید. ولی نه بر پایه داده‌های رفتاری یا اطلاعات شخصی شما.</string>
+    <string name="use_personalized_ad_service_summary">هنگامی که پیشنهادات خاموش باشند، شما همچنان به همان مقدار تبلیغات در هنگام روشن بودن خواهید دید. اما با این وجود تبلیغات شخصی نخواهند شد زیرا بر پایه داده‌های رفتاری یا اولویت‌های شخصی شما ساخته نمی‌شوند.</string>
     <string name="use_privacy_password_immediate">استفاده کردن</string>
     <string name="use_system_language_to_select_input_method_subtypes">استفاده از زبان سیستم</string>
     <string name="use_this_wlan">متصل ماندن</string>
@@ -3845,7 +4042,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="vibrate_in_silent_title">لرزش در حالت بی‌صدا</string>
     <string name="vibrate_title">لرزش</string>
     <string name="video_tool_box_title">جعبه ابزار ویدئو</string>
-    <string name="vip_list">اجازه به تماس‌های دریافتی</string>
+    <string name="vip_list">اعلان تماس‌ها</string>
     <string name="virtual_sim_category_title">رومینگ Mi</string>
     <string name="virtual_sim_description">خدمات رومینگ بین‌المللی قابل اعتماد</string>
     <string name="virtual_sim_global_category_title">سیم‌کارت Mi</string>
@@ -3885,9 +4082,12 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="virus_scanner_title">اسکن ویروس</string>
     <string name="virus_scanner_update_lib">به‌روزرسانی تعاریف</string>
     <string name="visibility_override_title">روی صفحه قفل</string>
+    <string name="voice_access">فرمان‌های صوتی</string>
     <string name="voice_assist">Mi AI</string>
+    <string name="voice_assist_volume_option_title">@string/voice_assist</string>
     <string name="voice_category">صحبت کردن</string>
     <string name="voice_helper_title">دستیار صوتی</string>
+    <string name="volume_adjustment">تنظیم صدا</string>
     <string name="volume_alarm_description">هشدار</string>
     <string name="volume_bluetooth_description">بلوتوث</string>
     <string name="volume_category_title">میزان صدا</string>
@@ -3923,9 +4123,11 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="wake_suppression_title">ناحیه کوچک</string>
     <string name="wakeup_and_sleep_settings_category_name">تنظیمات صفحه قفل</string>
     <string name="wakeup_for_keyguard_notification_title">بیدار کردن صفحه قفل برای اعلان‌ها</string>
+    <string name="wallet_header_title">کیف پول و پرداخت‌ها</string>
     <string name="wallpaper_desktop">صفحه اصلی</string>
     <string name="wallpaper_live">تصویر زمینه زنده</string>
     <string name="wallpaper_lockscreen">صفحه قفل</string>
+    <string name="wallpaper_settings_title">تصویر زمینه</string>
     <string name="wapi_all_sel_mode">انتخاب</string>
     <string name="wapi_auto_sel_cert">انتخاب به صورت خودکار</string>
     <string name="wapi_auto_sel_cert_fail">گواهینامه‌ها را نمی‌توان به صورت خودکار انتخاب کرد. یک گواهینامه را از فهرست انتحاب کرده، سپس متصل شوید.</string>
@@ -4048,7 +4250,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="wifi_disconnected_notification_title">Wi-Fi قطع شد</string>
     <string name="wifi_display_certification">گواهی نمایشگر بی‌سیم</string>
     <string name="wifi_display_certification_summary">نمایش گزینه‌ها برای گواهی نمایشگر بی‌سیم</string>
-    <string name="wifi_display_settings_empty_list_wifi_display_disabled">هنگام خاموش بودن Wi-Fi نمی‌توان از صفحه نمایش بی سیم استفاده کرد</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_disabled">هنگام خاموش بودن Wi-Fi نمی‌توان از نمایشگر بی‌سیم استفاده کرد</string>
     <string name="wifi_eap_options_advanced">گزینه های‌پیشرفته</string>
     <string name="wifi_eap_options_simple">گزینه‌های ساده</string>
     <string name="wifi_eap_sim_simcard">سیم‌کارت را انتخاب کنید</string>
@@ -4083,7 +4285,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="wifi_link_turbo_recommendation_summary">دریافت پیشنهادات بر پایه آمار مصرف اینترنت همراه</string>
     <string name="wifi_link_turbo_summary">افزایش سرعت اتصال با استفاده از اینترنت همراه برای برنامه‌های انتخاب شده هنگام ضعیف بودن اتصال Wi-Fi</string>
     <string name="wifi_menu_p2p">Wi-Fi بی‌واسطه</string>
-    <string name="wifi_menu_wfd">صفحه نمایش بی‌سیم</string>
+    <string name="wifi_menu_wfd">نمایشگر بی‌سیم</string>
     <string name="wifi_menu_wps_pin">کد PIN WPS را وارد کنید</string>
     <string name="wifi_metered_label">اندازه‌گیری شده</string>
     <string name="wifi_multi_network_acceleration">افزایش سرعت هوشمند شبکه</string>
@@ -4216,6 +4418,11 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="wifi_unmetered_label">اندازه‌گیری نشده</string>
     <string name="wifi_verbose_logging">روشن کردن گزارش‌گیرنده Wi-Fi</string>
     <string name="wifi_verbose_logging_summary">افزایش سطح ورود Wi-Fi (نمایش RSSI برای همه SSIDها در فهرست شبکه‌های Wi-Fi)</string>
+    <string name="wifi_wakeup_location_summary">برای استفاده از این ویژگی خدمات موقعیت مکانی خود را روشن کنید.</string>
+    <string name="wifi_wakeup_negative_button">لغو</string>
+    <string name="wifi_wakeup_positive_button">روشن کردن</string>
+    <string name="wifi_wakeup_scan_summary">به برنامه‌ها و خدمات اجازه جستجوی شبکه‌های Wi-Fi را داده تا بتوانند به صورت خودکار Wi-Fi را روشن کنند. روشن کردن این ویژگی به دستگاه شما اجازه اتصال خودکار به شبکه‌های ذخیره شده نزدیک را می‌دهد.</string>
+    <string name="wifi_wakeup_title">روشن کردن ویژگی‌های بیشتر</string>
     <string name="wifi_wapi_as_cert">گواهی AS</string>
     <string name="wifi_wapi_as_certificate">گواهی AS</string>
     <string name="wifi_wapi_cert_cancel_button">لغو</string>
@@ -4271,6 +4478,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="xiaomi_cloud_service_description_without_contacts">فضای ابری Xiaomi عکس‌های شما را همگام‌سازی، برنامه‌ها و تنظیمات شما را پشتیبان‌گیری و به شما کمک کرده با استفاده از یافتن دستگاه گوشی خود را بیابید.</string>
     <string name="xiaomi_cloud_service_disabled">غیرفعال</string>
     <string name="xiaomi_cloud_service_unknown">نامشخص</string>
+    <string name="xiaomi_custom_input_method">سفارشی شده برای Xiaomi</string>
     <string name="xiaomi_money_service">سکه Mi</string>
     <string name="xiaomi_router_available_notif_summary">برای نمایش اطلاعات بیشتر ضربه بزنید.</string>
     <string name="xiaomi_router_available_notif_title">روتر Mi در دسترس است</string>
@@ -4282,7 +4490,9 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="zen_alarm_warning_indef">شما صدای هشدار بعدی %1$s را تا زمانی که این حالت را خاموش نکنید نخواهید شنید</string>
     <string name="zen_interruption_level_priority">فقط اولویت</string>
     <string name="zen_mode_alarm_use">صداها</string>
+    <string name="zen_mode_always">همیشه</string>
     <string name="zen_mode_and_condition">%1$s. %2$s</string>
+    <string name="zen_mode_auto_rule">زمان‌بندی دوره‌های مزاحم نشوید</string>
     <string name="zen_mode_duration_always_prompt_title">هر بار پرسیده شود</string>
     <string name="zen_mode_duration_settings_title">مدت زمان</string>
     <string name="zen_mode_effected_always">همیشه</string>
@@ -4292,8 +4502,10 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="zen_mode_from_call">"تماس‌ها از طرف "</string>
     <string name="zen_mode_from_sms">"پیام‌ها از طرف "</string>
     <string name="zen_mode_important_category">تنظیمات</string>
+    <string name="zen_mode_lockscreen">هنگام قفل بودن</string>
     <string name="zen_mode_messages">پیام‌ها</string>
     <string name="zen_mode_miui_silent_category">اجازه دادن</string>
+    <string name="zen_mode_more_actions">گزینه‌های مزاحم نشوید بیشتر</string>
     <string name="zen_mode_option_miui_silent">حالت بی‌صدا</string>
     <string name="zen_mode_option_miui_vibrate">مزاحم نشوید</string>
     <string name="zen_mode_phone_calls">تماس‌ها</string>
@@ -4302,6 +4514,7 @@ OTG پس از ۱۰ دقیقه عدم فعالیت به صورت خودکار خ�
     <string name="zen_mode_settings_title">مزاحم نشوید</string>
     <string name="zen_mode_settings_turn_on_dialog_title">روشن کردن DND</string>
     <string name="zen_mode_summary">تماس‌های دریافتی، اعلان‌ها و رسانه‌ها را بی‌صدا و لرزش را خاموش می‌کند</string>
+    <string name="zen_mode_summary2">هیچ یادآوری برای تماس‌های ورودی و اعلان‌ها وجود ندارد</string>
     <string name="zen_mode_title">مزاحم نشوید</string>
     <string name="zen_mode_turned_off">خاموش</string>
     <string name="zen_mode_turned_on">روشن</string>

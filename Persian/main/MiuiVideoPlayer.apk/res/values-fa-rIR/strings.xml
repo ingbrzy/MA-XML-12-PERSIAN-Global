@@ -71,7 +71,7 @@
     <string name="alert_dialog_download_progress">"درحال دانلود برنامه: "</string>
     <string name="all">نمایش همه</string>
     <string name="app_description_content">ویدئوی Mi یک برنامه سیستمی است که دارای یک پخش‌کننده ویدئوی محلی است. پس از حذف میان‌بر صفحه اصلی، همچنان می‌توانید فایل‌های ویدئویی را پخش کنید.</string>
-    <string name="app_description_title">«ویدئوی Mi» از صفحه اصلی حذف شود؟</string>
+    <string name="app_description_title">«ویدئوی Mi» از صفحه اصلی برداشته شود؟</string>
     <string name="app_name">ویدئوی Mi</string>
     <string name="auth_again">پذیرفتن</string>
     <string name="auth_fail_warning">مهلت تمام شد. دوباره وارد شوید.</string>
@@ -137,13 +137,13 @@
     <string name="diagnosis_log_sent_format">"رخدادها با موفقیت ارسال شدند.
 شناسه%s
 این کد را به مسئول مربوطه ارسال کنید."</string>
-    <string name="dialog_disagree_privacychange_info">"You won't be able to use Mi Video online streaming services if you don't agree to our Privacy Policy. Tap \"Cancel\" to go back or \"Don't agree\" to continue and use Mi Video as a local player only."</string>
-    <string name="dialog_disagree_privacychange_title">"Don't agree?"</string>
-    <string name="dialog_privacy_change_info">"We've updated Mi Video Privacy Policy due to the adjustmets in the services we offer. To fully understand your rights as a user as well as the ways in which we use your data, read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using the app."</string>
-    <string name="dialog_privacy_change_title">Privacy Policy update</string>
+    <string name="dialog_disagree_privacychange_info">چنانچه با سیاست حفظ حریم خصوصی ما موافقت نکنید، نمی‌توانید از خدمات پخش آنلاین ویدئوی Mi استفاده کنید. برای بازگشت به «لغو» ضربه زده یا برای ادامه از «مخالف» استفاده کنید و از ویدئوی Mi فقط به عنوان پخش‌کننده محلی استفاده کنید.</string>
+    <string name="dialog_disagree_privacychange_title">مخالف؟</string>
+    <string name="dialog_privacy_change_info">ما به دلیل تغییرات در خدماتی که ارائه می‌دهیم سیاست حفظ حریم خصوصی ویدئوی Mi را به‌روز کرده‌ایم. به منظور آگاهی کامل حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، پیش از استفاده از برنامه، &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.</string>
+    <string name="dialog_privacy_change_title">به‌روزرسانی سیاست حفظ حریم خصوصی</string>
     <string name="dialog_privacy_info_new2">برای امکان استفاده از خدمات آن، شما باید بپذیرید که %1$s اطلاعات شخصی شما را جمع‌آوری، پردازش و استفاده خواهد کرد. زدن روی \"پذیرفتن\" در زیر، به منزله خواندن و پذیرفتن &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> ما توسط شما تلقی می‌شود.</string>
     <string name="dialog_privacy_info_new3">برای استفاده از این خدمات لازم است تا بر اساس سیاست حفظ حریم خصوصی به %1$s اجازه گردآوری، پردازش و استفاده از اطلاعات شخصی خود را بدهید. با زدن روی «پذیرفتن» در زیر شما &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> و &lt;a href=%3$s>توافق‌نامه کاربر&lt;/a> Xiaomi را می‌پذیرید. &lt;br/>&lt;br/>زدن روی «پذیرفتن» نیز به ویدئوی Mi اجازه دسترسی به فهرست برنامه‌های نصب شده روی دستگاه شما را می‌دهد. با این مجوز، ویدئوی Mi امکان هم‌رسانی موارد، دانستن این‌که برنامه‌ای روی دستگاه شما نصب است یا نه، کدام نسخه از برنامه نصب بوده و آیا برنامه‌ای امن است یا نه را خواهد داشت.</string>
-    <string name="dialog_privacy_info_new4">"Welcome to Mi Video! This app provides the following services:&lt;br>&lt;/br> - Online streaming services&lt;br>&lt;/br>- A local video player&lt;br>&lt;/br>Mi Video needs to collect necessary personal information to provide you with the basic services. You can learn how we handle the information we collect in our Privacy Policy. You'll be able change the related settings in Settings > Passwords &amp;amp; security.&lt;br>&lt;/br>Read and agree to our &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> before using Mi Video."</string>
+    <string name="dialog_privacy_info_new4">به ویدئوی Mi خوش آمدید! این برنامه خدمات زیر را ارائه می‌دهد:&lt;br>&lt;/br> - خدمات پخش آنلاین&lt;br>&lt;/br>- پخش کننده ویدئوی محلی&lt;br>&lt;/br>ویدئوی Mi برای ارائه خدمات پایه‌ای پایه‌ای خود نیاز به گردآوری اطلاعات شخصی مورد نیاز دارد. شما می‌توانید در سیاست حفظ حریم خصوصی ما درباره چگونگی استفاده از اطلاعاتی که ما گردآوری می‌کنیم آگاه شوید. شما می‌توانید در تنظیمات > گذرواژه‌ها و امنیت، تنظیمات مربوطه را تغییر دهید.&lt;br>&lt;/br>پیش از استفاده از ویدئوی Mi، &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.</string>
     <string name="dialog_privacy_revoke_cancel">لغو</string>
     <string name="dialog_privacy_revoke_count_down">پس گرفتن (%1$dثانیه)</string>
     <string name="dialog_privacy_revoke_description">با تغییر وضعیت کلید، شما رضایت خود را نسبت به سیاست حفظ حریم خصوصی ویدئوی Mi پس می‌گیرید. ما از گردآوری اطلاعات شخصی شما دست خواهیم کشید. اطلاعات شخصی که تا کنون گردآوری شده و نگه داشته شده‌اند بنا به خواست قوانین اجرایی پس از یک دوره خاص حذف خواهند شد. پس گرفتن رضایت شما نسبت به سیاست حفظ حریم خصوصی آن به عنوان رد پذیرفتن خدمات آنلاین بر اساس اطلاعات شخصی گردآوری شده تلقی خواهد شد.</string>
@@ -151,10 +151,10 @@
     <string name="dialog_privacy_revoke_ok">پس گرفتن</string>
     <string name="dialog_privacy_revoke_success">با موفقیت پس‌گرفته شد</string>
     <string name="dialog_privacy_revoking">درحال پس گرفتن رضایت…</string>
-    <string name="dialog_privacy_title">Terms and conditions</string>
+    <string name="dialog_privacy_title">شرایط و ضوابط</string>
     <string name="dialog_revoke_privacy_info_new2">پس از باطل کردن مجوز، این برنامه جمع‌آوری داده‌ها را متوقف کرده و همه داده‌های مرتبط را از سرورهای ما حذف خواهد کرد. این کار ممکن است باعث گردد برنامه عملاً غیر قابل استفاده شود. در هر صورت مجوز باطل شود؟</string>
     <string name="dialog_revoke_privacy_title">ابطال مجوز</string>
-    <string name="disagree">"Don't agree"</string>
+    <string name="disagree">مخالف</string>
     <string name="diy_channels_tips">فهرست کانال‌های خود را می‌توانید سفارشی کنید.</string>
     <string name="do_not_show_again">دوباره نمایش داده نشود</string>
     <string name="download">دانلود</string>

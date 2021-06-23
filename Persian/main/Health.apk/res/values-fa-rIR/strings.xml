@@ -16,6 +16,8 @@
     <string name="activity_title_statistic">Stats</string>
     <string name="add_model_card">"Tap the button in the upper left corner
 to add cards"</string>
+    <string name="add_model_card2">"Tap the button above to add cards.
+You'll be able to track your workouts and activity."</string>
     <string name="add_record">Add</string>
     <string name="afternoon">بعد از ظهر</string>
     <string name="all_records">همه موارد ضبط شده</string>
@@ -86,6 +88,7 @@ to add cards"</string>
     <string name="close_once">Turn off once</string>
     <string name="collapse">Hide</string>
     <string name="complete_preference_basic_info">Complete your profile</string>
+    <string name="complete_progress">Progress</string>
     <string name="completed">"Completed "</string>
     <string name="copy_done">با موفقیت کپی شد</string>
     <string name="copyright_statement">Copyright © Xiaomi Inc. تمامی حقوق محفوظ است.</string>
@@ -159,6 +162,7 @@ to add cards"</string>
     <string name="dialog_delete_record_confirm">Delete this record?</string>
     <string name="dialog_exercise_purpose">به سلامت Xiaomi خوش آمدید! \"گام شمار\" به شما اجازه می‌دهد تا بدانید در طول روز چند گام راه رفته‌اید و همچنین بتوانید اهداف فعالیت خود را تنظیم و مدیریت کنید. همه داده‌های مرتبط به صورت محلی در دستگاه شما ذخیره خواهند شد تا به سادگی آن‌ها را مدیریت کنید.</string>
     <string name="dialog_exit">خروج</string>
+    <string name="dialog_exit_use">Exit</string>
     <string name="dialog_feedback_content">"If you don't agree to grant such permissions, you won't be able to use some features of this app; however, its basic functionality will still be available to you. You can always restrict permissions or revoke your authorization in the Settings."</string>
     <string name="dialog_feedback_purpose">سلامت Xiaomi برای ارسال بازخورد نیاز به دسترسی به حافظه دارد.</string>
     <string name="dialog_feedback_purpose2">For submitting feedback</string>
@@ -189,6 +193,8 @@ to add cards"</string>
     <string name="dialog_user_agreement_purpose2">Welcome to Xiaomi Health! You can use this app to count your steps, analyze sleep, track periods, record weight, and more.</string>
     <string name="disable">Off</string>
     <string name="discard_update">خیر، سپاسگزارم</string>
+    <string name="download_apk">Downloading %s…</string>
+    <string name="download_background">Download</string>
     <string name="dream_talk">Talking %1$s</string>
     <string name="dream_talk_record">You were recorded when you talked during in your sleep</string>
     <string name="dream_talk_title">Talking</string>
@@ -849,7 +855,7 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="state_auto_run_disenable">خاموش</string>
     <string name="state_auto_run_enable">فعال</string>
     <string name="state_disagree">محدود شده</string>
-    <string name="state_disagree2">مخالفت</string>
+    <string name="state_disagree2">مخالف</string>
     <string name="subtitle_be_ready">آماده باشید</string>
     <string name="subtitle_exercise_and_sleep">فعالیت بدنی خود را حفظ کرده و خواب کافی داشته باشید</string>
     <string name="subtitle_get_health_advice">Get accurate stats and health tips based on the data you provide</string>
@@ -876,6 +882,7 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="tb_mens_mark_success">Marked successfully</string>
     <string name="tb_mens_select_column">Cycle starts on%1$s.%2$s.%3$s.</string>
     <string name="tb_mens_unmark_success">Canceled successfully</string>
+    <string name="tb_step_widget" formatted="false">Today. %1$s. Progress: %2$d%</string>
     <string name="text_edit_exercise_goal">تغییر هدف</string>
     <string name="text_save_exercise_goal">انجام شد</string>
     <string name="the_anniversary_of_lifting_martial_law">سالگرد لغو حکومت نظامی</string>
@@ -990,6 +997,7 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="user_center">Profile</string>
     <string name="user_invalid_value">--</string>
     <string name="value_error_correct">Edit record</string>
+    <string name="view_step_and_progress">View your current step count</string>
     <string name="voice_remind">ما میزان صدا را افزایش داده‌ایم تا صدای راهنما را بهتر بشنوید.</string>
     <string name="walk">Walking</string>
     <string name="wednesday">چهارشنبه</string>

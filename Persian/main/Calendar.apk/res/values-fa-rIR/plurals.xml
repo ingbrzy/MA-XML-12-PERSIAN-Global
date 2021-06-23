@@ -1,214 +1,179 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ndays">
-        <item quantity="other">%d days before the event</item>
-        <item quantity="one">%d day before the event</item>
-    </plurals>
-    <plurals name="Ndays_after">
-        <item quantity="other">%1$d天后</item>
-        <item quantity="one">%1$d天后</item>
+        <item quantity="other">%d روز قبل</item>
+        <item quantity="one">%d روز قبل</item>
     </plurals>
     <plurals name="Ndays_after_at">
-        <item quantity="other">In %1$d days at %2$s</item>
-        <item quantity="one">In %1$d day at %2$s</item>
-    </plurals>
-    <plurals name="Ndays_ago">
-        <item quantity="other">%1$d天前</item>
-        <item quantity="one">%1$d天前</item>
+        <item quantity="other">طی %1$d روز در %2$s</item>
+        <item quantity="one">طی %1$d روز در %2$s</item>
     </plurals>
     <plurals name="Ndays_ago_at">
-        <item quantity="other">%1$d days before the event at %2$s</item>
-        <item quantity="one">%1$d day before the event at %2$s</item>
+        <item quantity="other">%1$d روز جلوتر در %2$s</item>
+        <item quantity="one">%1$d روز جلوتر در %2$s</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%d hours before the event</item>
-        <item quantity="one">%d hour before the event</item>
+        <item quantity="other">%d ساعت قبل</item>
+        <item quantity="one">%d ساعت قبل</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">%d minutes before the event</item>
-        <item quantity="one">%d minute before the event</item>
+        <item quantity="other">%d دقیقه قبل</item>
+        <item quantity="one">%d دقیقه قبل</item>
     </plurals>
     <plurals name="Nweeks">
-        <item quantity="other">%d weeks before the event</item>
-        <item quantity="one">%d week before the event</item>
-    </plurals>
-    <plurals name="a_hour_ago">
-        <item quantity="other">1 hour ago</item>
-    </plurals>
-    <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">1 hour ago</item>
-    </plurals>
-    <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
-    </plurals>
-    <plurals name="abbrev_in_a_hour">
-        <item quantity="other">In 1 hour</item>
-    </plurals>
-    <plurals name="abbrev_in_half_hour">
-        <item quantity="other">In half an hour</item>
-    </plurals>
-    <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">Immediately</item>
-    </plurals>
-    <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">in %d mins</item>
-        <item quantity="one">in 1 min</item>
-    </plurals>
-    <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
-    </plurals>
-    <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d mins ago</item>
-        <item quantity="one">1 min ago</item>
+        <item quantity="other">%d هفته پیش</item>
+        <item quantity="one">%d هفته پیش</item>
     </plurals>
     <plurals name="anniversary_day">
-        <item quantity="other">%1$s days</item>
-        <item quantity="one">%1$s day</item>
+        <item quantity="other">%1$s روز</item>
+        <item quantity="one">%1$s روز</item>
     </plurals>
     <plurals name="anniversary_notify_before_3_day_title">
-        <item quantity="other">Anniversary: %2$d years since %1$s in 3 days</item>
-        <item quantity="one">Anniversary: %2$d year since %1$s in 3 days</item>
+        <item quantity="other">سالگرد:%3$d روز مانده تا %2$dامین سال%1$s</item>
+        <item quantity="one">سالگرد: %3$d روز مانده تا %2$dاُمین سال %1$s</item>
     </plurals>
     <plurals name="anniversary_notify_title">
-        <item quantity="other">Anniversary: %2$d years since %1$s</item>
-        <item quantity="one">Anniversary: %2$d year since %1$s</item>
+        <item quantity="other">سالگرد: %2$dاُمین سالروز %1$s</item>
+        <item quantity="one">سالگرد: %2$dاُمین سالروز %1$s</item>
     </plurals>
     <plurals name="anniversary_year">
-        <item quantity="other">%1$s years</item>
-        <item quantity="one">%1$s year</item>
+        <item quantity="other">%1$s سال</item>
+        <item quantity="one">%1$s سال</item>
     </plurals>
     <plurals name="birthday_event_description_days_ago">
-        <item quantity="other">%1$d days since</item>
-        <item quantity="one">%1$d day since</item>
+        <item quantity="other">%1$d روز گذشته از</item>
+        <item quantity="one">%1$d روز گذشته از</item>
     </plurals>
     <plurals name="birthday_event_description_days_later">
-        <item quantity="other">%1$d days until</item>
-        <item quantity="one">%1$d day until</item>
+        <item quantity="other">%1$d روز تا</item>
+        <item quantity="one">%1$d روز تا</item>
     </plurals>
     <plurals name="birthday_notification_age_term">
-        <item quantity="other">%1$s-year-old</item>
-        <item quantity="one">%1$s-year-old</item>
+        <item quantity="other">%1$s سالگی</item>
+        <item quantity="one">%1$s سالگی</item>
     </plurals>
     <plurals name="countdown_day">
-        <item quantity="other">%1$s days left</item>
-        <item quantity="one">%1$s day left</item>
+        <item quantity="other">%1$s روز مانده</item>
+        <item quantity="one">%1$s روز مانده</item>
     </plurals>
     <plurals name="date_calculate_days_after">
-        <item quantity="other">%1$d days after</item>
-        <item quantity="one">%1$d day after</item>
+        <item quantity="other">%1$d روز به جلو</item>
+        <item quantity="one">%1$d روز به جلو</item>
     </plurals>
     <plurals name="date_calculate_days_ago">
-        <item quantity="other">%1$d days before</item>
-        <item quantity="one">%1$d day before</item>
+        <item quantity="other">%1$d روز به عقب</item>
+        <item quantity="one">%1$d روز به عقب</item>
     </plurals>
     <plurals name="date_calculate_direction_backward">
-        <item quantity="other">%1$d days after</item>
-        <item quantity="one">%1$d day after</item>
+        <item quantity="other">%1$d روز به جلو</item>
+        <item quantity="one">%1$d روز به جلو</item>
     </plurals>
     <plurals name="date_calculate_direction_forward">
-        <item quantity="other">%1$d days before</item>
-        <item quantity="one">%1$d day before</item>
+        <item quantity="other">%1$d روز به عقب</item>
+        <item quantity="one">%1$d روز به عقب</item>
+    </plurals>
+    <plurals name="day_index">
+        <item quantity="other">%1$d روز</item>
+        <item quantity="one">%1$d روز</item>
     </plurals>
     <plurals name="edit_date_calculate_days_error_hint">
-        <item quantity="other">You can enter up to %1$d days</item>
-        <item quantity="one">You can enter up to %1$d day</item>
+        <item quantity="other">شما می‌توانید تا %1$d روز وارد کنید</item>
+        <item quantity="one">شما می‌توانید تا %1$d روز وارد کنید</item>
     </plurals>
     <plurals name="event_reminders_to_max">
-        <item quantity="other">Can set up to %d reminders</item>
-        <item quantity="one">Can set up to %d reminder</item>
+        <item quantity="other">می‌توان تا %d یادآوری تنظیم کرد</item>
+        <item quantity="one">می‌توان تا %d یادآوری تنظیم کرد</item>
     </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+    <plurals name="hide_completed_notes">
+        <item quantity="other">پنهان کردن %d کاره انجام شده</item>
+        <item quantity="one">پنهان کردن %d کار انجام شده</item>
     </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">In 1 hour</item>
+    <plurals name="mesens_card_title_day_in_predict">
+        <item quantity="other">روز %1$d (پیش‌بینی شده)</item>
+        <item quantity="one">روز %1$d (پیش‌بینی شده)</item>
     </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">In half an hour</item>
+    <plurals name="mesens_card_title_days">
+        <item quantity="other">روز %1$d</item>
+        <item quantity="one">روز %1$d</item>
     </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">Immediately</item>
-    </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">in %d minutes</item>
-        <item quantity="one">in 1 minute</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Just now</item>
+    <plurals name="mesens_card_title_predict_date">
+        <item quantity="other">دوره بعدی %1$d روز دیگر</item>
+        <item quantity="one">دوره بعدی %1$d روز دیگر</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
-        <item quantity="one">+1</item>
+        <item quantity="one">+%d</item>
     </plurals>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d new notifications</item>
-        <item quantity="one">%d new notification</item>
+    <plurals name="notes_custom_repeat_days">
+        <item quantity="other">روز</item>
+        <item quantity="one">روز</item>
     </plurals>
-    <plurals name="n_attendees">
-        <item quantity="other">%d invitations</item>
-        <item quantity="one">%d invitation</item>
+    <plurals name="notes_custom_repeat_weeks">
+        <item quantity="other">هفته</item>
+        <item quantity="one">هفته</item>
     </plurals>
-    <plurals name="n_weeks">
-        <item quantity="other">%d</item>
-        <item quantity="one">%d</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">%d minutes ago</item>
-        <item quantity="one">1 minute ago</item>
-    </plurals>
-    <plurals name="other_all_day_events">
-        <item quantity="other">%d more events</item>
-        <item quantity="one">%d more event</item>
-    </plurals>
-    <plurals name="reminder_custom_unit_day">
-        <item quantity="other">" days"</item>
-        <item quantity="one">" day"</item>
-    </plurals>
-    <plurals name="reminder_custom_unit_hour">
-        <item quantity="other">" hours"</item>
-        <item quantity="one">" hour"</item>
-    </plurals>
-    <plurals name="reminder_custom_unit_minute">
-        <item quantity="other">" minutes"</item>
-        <item quantity="one">" minute"</item>
-    </plurals>
-    <plurals name="reminder_later_toast">
-        <item quantity="other">Next reminder in %1$d minutes</item>
-        <item quantity="one">Next reminder in %1$d minute</item>
+    <plurals name="num_picker_hint">
+        <item quantity="other">" روز"</item>
+        <item quantity="one">" روز"</item>
     </plurals>
     <plurals name="repeat_custom_prompt">
-        <item quantity="other">every %1$s on %2$s</item>
-        <item quantity="one">every %1$s on %2$s</item>
+        <item quantity="other">هر %1$s در %2$s</item>
+        <item quantity="one">هر %1$s در %2$s</item>
     </plurals>
     <plurals name="repeat_interval_frequency_day_multiple">
-        <item quantity="other">%1$d days</item>
-        <item quantity="one">%1$d day</item>
+        <item quantity="other">%1$d روز</item>
+        <item quantity="one">%1$d روز</item>
     </plurals>
     <plurals name="repeat_interval_frequency_month_multiple">
-        <item quantity="other">%1$d months</item>
-        <item quantity="one">%1$d month</item>
+        <item quantity="other">%1$d ماه</item>
+        <item quantity="one">%1$d ماه</item>
     </plurals>
     <plurals name="repeat_interval_frequency_week_multiple">
-        <item quantity="other">%1$d weeks</item>
-        <item quantity="one">%1$d week</item>
+        <item quantity="other">%1$d هفته</item>
+        <item quantity="one">%1$d هفته</item>
     </plurals>
     <plurals name="repeat_interval_frequency_year_multiple">
-        <item quantity="other">%1$d years</item>
-        <item quantity="one">%1$d year</item>
+        <item quantity="other">%1$d سال</item>
+        <item quantity="one">%1$d سال</item>
     </plurals>
-    <plurals name="travel_time_range_hours">
-        <item quantity="other">%d hrs</item>
-        <item quantity="one">%d hr</item>
+    <plurals name="show_completed_notes">
+        <item quantity="other">نمایش %d کارهای انجام شده</item>
+        <item quantity="one">نمایش %d کارهای انجام شده</item>
     </plurals>
-    <plurals name="travel_time_range_mins">
-        <item quantity="other">%d mins</item>
-        <item quantity="one">%d min</item>
+    <plurals name="subtitle_add_record">
+        <item quantity="other">شما به مدت %1$d روز است که چیزی ضبط نکرده‌اید. دوره‌های خود را ضبط کرده تا پیش‌بینی دقیق‌تری به دست آورید.</item>
+        <item quantity="one">شما به مدت %1$d روز است که چیزی ضبط نکرده‌اید. دوره‌های خود را ضبط کرده تا پیش‌بینی دقیق‌تری به دست آورید.</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">این دوره در کل به مدت %1$d روز طول کشید</item>
+        <item quantity="one">این دوره در کل به مدت %1$d روز طول کشید</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">روز %1$d این چرخه قاعدگی</item>
+        <item quantity="one">روز %1$d این چرخه قاعدگی</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">روز %1$d دوره</item>
+        <item quantity="one">روز %1$d دوره</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">%1$d روز تا دوره بعدی</item>
+        <item quantity="one">%1$d روز تا دوره بعدی</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">تخمین زده می‌شود روز %1$d دوره باشد</item>
+        <item quantity="one">تخمین زده می‌شود روز %1$d دوره باشد</item>
+    </plurals>
+    <plurals name="travel_eta_advice">
+        <item quantity="other">%2$s دقیقه رانندگی تا %1$s.</item>
+        <item quantity="one">%2$s دقیقه رانندگی تا %1$s.</item>
     </plurals>
     <plurals name="weekN">
-        <item quantity="other">WEEK %d</item>
+        <item quantity="other">هفته %d</item>
+        <item quantity="one">هفته %d</item>
     </plurals>
     <plurals name="work_days">
-        <item quantity="other">%d working days</item>
-        <item quantity="one">%d working day</item>
+        <item quantity="other">%d روز کاری</item>
+        <item quantity="one">%d روز کاری</item>
     </plurals>
 </resources>

@@ -72,6 +72,10 @@
         <item quantity="other">%d مورد افزوده شد</item>
         <item quantity="one">%d مورد افزوده شد</item>
     </plurals>
+    <plurals name="miui_wifi_wakeup_summary">
+        <item quantity="other">Wi-Fi هنگام شناسایی شبکه‌های ذخیره شده نزدیک به صورت خودکار روشن شده و چنانچه پس از %d دقیقه اتصال برقرار نشود خاموش خواهد شد.</item>
+        <item quantity="one">Wi-Fi هنگام شناسایی شبکه‌های ذخیره شده نزدیک به صورت خودکار روشن شده و چنانچه پس از %d دقیقه اتصال برقرار نشود خاموش خواهد شد.</item>
+    </plurals>
     <plurals name="saved_network_checked_num">
         <item quantity="other">%d مورد انتخاب شد</item>
         <item quantity="one">%d مورد انتخاب شد</item>

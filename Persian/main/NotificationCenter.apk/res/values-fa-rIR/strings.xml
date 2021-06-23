@@ -24,6 +24,8 @@
     <string name="feedback_tip_cancel">داده‌های اعلان‌ها دسته‌بندی نخواهند شد.</string>
     <string name="feedback_tip_msg">به منظور گروه‌بندی دقیق‌تر اعلان‌ها، ما نیاز به گردآوری نام برنامه، عنوان اعلان و توضیحات و همچنین زمانی که اعلان ارسال شده است داریم. بازخورد خود را ارسال می‌کنید؟</string>
     <string name="feedback_tip_title">بازخورد دسته‌بندی اعلان‌ها</string>
+    <string name="float_notification_snooze_strategy">پنهان کردن موقت</string>
+    <string name="float_notification_snooze_summary">برای پنهان کردن موقت پیام‌های آینده، روی یک اعلان شناور فوری به بالا بکشید</string>
     <string name="float_notifications">اعلان‌های شناور</string>
     <string name="float_notifications_short">شناور</string>
     <string name="fold_importance_default">پیشنهاد شده</string>
@@ -48,6 +50,10 @@
     <string name="menu_setting_tip_show_in_home">اعلان‌ها از سوی %s گروه‌بندی نخواهند شد</string>
     <string name="menu_setting_tip_unfold">همه اعلان‌ها از این برنامه به عنوان مهم در نظر گرفته خواهند شد</string>
     <string name="menu_setting_unfold">مهم</string>
+    <string name="miui_snooze_always_float">پنهان نشود</string>
+    <string name="miui_snooze_cancel">لغو</string>
+    <string name="miui_snooze_default_time">برای %d دقیقه</string>
+    <string name="miui_snooze_until_unlock_screen">تا قفل شدن</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">برای تازه‌سازی پایین بکشید</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">با موفقیت تازه‌سازی شد</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">در حال تازه سازی…</string>
@@ -66,6 +72,11 @@
     <string name="notification_aggregate_title">گروه‌بندی اعلان‌ها</string>
     <string name="notification_display_setting">کرکره اعلان</string>
     <string name="notification_display_style">شیوه اعلان</string>
+    <string name="notification_fold_description1">پوشه اعلان‌ها در MIUI ۹ معرفی شده بود. این ویژگی اعلان‌های غیر مهم را فیلتر و آن‌ها را در یک پوشه جدا قرار می‌دهد.</string>
+    <string name="notification_fold_description2">MIUI اعلان‌هایی که شما روی آن‌ها می‌زنید را به خاطر می‌سپارد و سپس از معیارهای چندگانه برای شناسایی اهمیت آن‌ها استفاده می‌کند.</string>
+    <string name="notification_fold_description3">اگر اعلان‌هایی که شما مهم می‌پندارید همچنان به پوشه اعلان‌ها می‌روند، می‌توانید اینگونه اشکالات را به ما گزارش کنید. ما از بازخورد شما قدردانی خواهیم کرد.</string>
+    <string name="notification_fold_footer_icon_summary">نمایش آیکون برنامه‌ها هنگامی که اعلان‌های غیر مهم گروه‌بندی شده‌اند</string>
+    <string name="notification_fold_footer_icon_title">نمایش آیکون برنامه‌ها</string>
     <string name="notification_fold_summary">گروه‌بندی خودکار اعلان‌های غیر مهم</string>
     <string name="notification_fold_title">گروه‌بندی اعلان‌ها</string>
     <string name="notification_keyguard_hide_content">اعلان‌ها نمایش داده می‌شوند اما محتوا پنهان می‌شود</string>

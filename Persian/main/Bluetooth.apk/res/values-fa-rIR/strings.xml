@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="bt_audio_share_notification_content">برای مشاهده گزینه ها ضربه بزنید</string>
-    <string name="bt_audio_share_notification_title">در حال همرسانی صوت</string>
+    <string name="bt_audio_share_notification_title">در حال هم‌رسانی صوت</string>
     <string name="miui_transfer_history_title">انتقال‌های بلوتوث</string>
     <string name="miui_transfer_inbound_title">دریافتی</string>
     <string name="miui_transfer_outbound_title">ارسالی</string>
-    <string name="notice_audio_share_disconnected">به دلیل وقفه در اتصال، دیگر صدا همرسانی نمی‌شود</string>
+    <string name="notice_audio_share_disconnected">به دلیل وقفه در اتصال، دیگر صدا هم‌رسانی نمی‌شود</string>
+    <string name="snapdragon_sound_notification_content">این دستگاه از فن‌آوری ™Qualcomm® Snapdragon Sound پشتیبانی می‌کند</string>
+    <string name="snapdragon_sound_notification_title">بلوتوث</string>
     <string name="switch_audio_device_bt_a2dp">بلوتوث (صوتی رسانه‌ای)</string>
     <string name="switch_audio_device_bt_a2dp_summary">صوتی رسانه را در یک دستگاه متصل پخش کنید</string>
     <string name="switch_audio_device_bt_hfp">بلوتوث (تماس‌ها)</string>

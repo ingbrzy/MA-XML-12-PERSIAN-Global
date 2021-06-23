@@ -202,6 +202,7 @@
     <string name="auto_advance_summary">انتخاب کنید که بعد از حذف یک پیام به کدام پیام حرکت کند</string>
     <string name="auto_sync_off">همگام سازی خودکار خاموش است.</string>
     <string name="bcc">گیرنده کپی مخفی</string>
+    <string name="bcc_heading">"Bcc: "</string>
     <string name="blank_feedback_toast">شما باید بازخورد خود را بنویسید</string>
     <string name="body_forward_email_text">[Forward]</string>
     <string name="body_hint">نوشتن ایمیل</string>
@@ -217,6 +218,7 @@
     <string name="cant_move_or_change_labels">"Can't move because selection contains multiple
         accounts."</string>
     <string name="cc">رونوشت</string>
+    <string name="cc_attribution">"رونوشت: %1$s  &lt; br >"</string>
     <string name="cc_bcc">رونوشت و گیرنده مخفی</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="change_folders_selection_dialog_title">تغییر پوشه ها</string>
@@ -233,6 +235,7 @@
     <string name="click_download_all_content">[برای دانلود محتوا ضربه بزنید]</string>
     <string name="click_to_reload">Tap screen to refresh</string>
     <string name="collapse_recipient_details">بستن جزئیات گیرنده</string>
+    <string name="colon">:</string>
     <string name="compose">نوشتن پیام</string>
     <string name="compose_picturesexceedlimits">پیغام نباید از 5 تصویر در-خط بیشتر باشد</string>
     <string name="compose_send">ارسال</string>
@@ -292,7 +295,6 @@
     <string name="default_">پیش فرض</string>
     <string name="default_setup">تنظیمات پیش فرض</string>
     <string name="default_signature">ارسال شده از تلفن Mi من</string>
-    <string name="del_account_questionnair_hint">"Could you tell us why you're removing this account?"</string>
     <string name="delete">حذف</string>
     <string name="deleted">حذف شد</string>
     <string name="device_activity_btn_str">فعال کردن</string>
@@ -398,6 +400,7 @@
     <string name="gmail_login_failed_non_proxy_title">"Couldn't access Gmail server"</string>
     <string name="gmail_server_authorization_deleted">"Couldn't authenticate account. Try adding this account again."</string>
     <string name="header_category_account">حساب ها</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_label_general_preferences">عمومی</string>
     <string name="help_and_info">راهنما</string>
     <string name="hide_elided">▼پنهان کردن متن نقل قول</string>
@@ -410,6 +413,7 @@
     <string name="invalid_recipient">"آدرس %s  نامعتبر است."</string>
     <string name="invalid_recipient_title">خطای گیرنده</string>
     <string name="kilobytes">%s KB</string>
+    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="load_from_remote">جستجوی صندوق پستی در سرور</string>
     <string name="load_more">بارگذاری بیشتر</string>
     <string name="loading_conversation">در حال بارگذاری…</string>
@@ -572,7 +576,6 @@
     <string name="permission_access_provider_label">دسترسی به داده های کاربر</string>
     <string name="permission_read_attachment_desc">اجازه می دهد تا برنامه برای خواندن ایمیل های شما پیوست</string>
     <string name="permission_read_attachment_label">خواندن فایل پیوست</string>
-    <string name="phone">تلفن</string>
     <string name="photo_view_count">%1$d %2$d</string>
     <string name="policy_app_blacklist">رفع اجازه برنامه های تایین شده</string>
     <string name="policy_app_whitelist">فقط اجازه به برنامه های تایید شده</string>
@@ -617,15 +620,7 @@
     <string name="push_wps_confirm_message">برای بازکردن این پیوست استفاده از WPS Office را امتحان کنید.</string>
     <string name="push_wps_confirm_title">WPS Office را امتحان کنید</string>
     <string name="push_wps_no_response_app">هیچ برنامه کاربردی برای انجام این عملکرد یافت نشد</string>
-    <string name="questionnair_body_invisibility">"Messages aren't displayed"</string>
     <string name="questionnair_confirm_delete">Remove</string>
-    <string name="questionnair_instability">Crashes frequently</string>
-    <string name="questionnair_not_send">"Can't send mail"</string>
-    <string name="questionnair_not_sync">Unstable sync</string>
-    <string name="questionnair_other_reasons">Other</string>
-    <string name="questionnair_title">Remove account?</string>
-    <string name="questionnair_ui_not_pretty">"Don't like the app's design"</string>
-    <string name="questionnair_waste_resource">Not enough storage space</string>
     <string name="quick_1">تشکر!</string>
     <string name="quick_2">به نظر من خوب است!</string>
     <string name="quick_3">من این را خوانده و بعدا با شما تماس می گیریم.</string>
@@ -704,18 +699,16 @@
 %s"</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">رمز عبور سرور پست الکترونیکی خروجی نادرست است</string>
     <string name="sort_attachment">مرتب سازی بر اساس</string>
-    <string name="storage">ذخیره سازی</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="str_select_all">انتخاب همه</string>
     <string name="str_select_none">عدم انتخاب همه</string>
     <string name="subject_and_snippet">%1$s — %2$s</string>
     <string name="subject_hint">موضوع</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
-    <string name="sync_error">قادر به همگام سازی نبود.</string>
-    <string name="sync_error_message">دستگاه شما فضای ذخیره سازی کافی برای همگام سازی ندارد.</string>
     <string name="system_account_create_failed">قادر به ایجاد حساب نمی باشد. دوباره امتحان کن.</string>
-    <string name="tablet">لوح رایانه</string>
     <string name="tap_to_configure">برای تنظیم کردن لمس کنید.</string>
     <string name="tap_to_enable_sync">لمس برای روشن کردن.</string>
     <string name="to">به</string>
@@ -730,11 +723,6 @@
     <string name="too_large_to_attach_single">"قادر به پيوست کردن فایل بزرگتر از %1$s  نیست."</string>
     <string name="trash_folder_selection_title">"پوشه سطل زباله سرور را برای %s  انتخاب کنید"</string>
     <string name="try_exchange_login">Sign in with EXCHANGE</string>
-    <string name="turn_auto_sync_on_dialog_body">"Changes you make to
-    all apps and accounts, not just Gmail, will be synchronized
-    between the web, your other devices, and your %1$s."</string>
-    <string name="turn_auto_sync_on_dialog_confirm_btn">روشن کردن</string>
-    <string name="turn_auto_sync_on_dialog_title">همگام سازی خودکار روشن شود؟</string>
     <string name="undo">باطل کردن</string>
     <string name="unread_string">مکالمه خوانده نشد</string>
     <string name="unzip_file_failed">قادر به بازکردن فایل نیست</string>

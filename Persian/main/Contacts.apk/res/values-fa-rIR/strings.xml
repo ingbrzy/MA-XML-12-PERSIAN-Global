@@ -171,6 +171,7 @@
     <string name="clear_default">پاک کردن پیش‌فرض</string>
     <string name="clear_digits">حذف شماره تلفن</string>
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
+    <string name="close">بستن</string>
     <string name="close_dial_pad_description">بستن شماره‌گیر</string>
     <string name="cloud_antispam_mark">نشانه</string>
     <string name="cloud_antispam_marked">نشانه زده</string>
@@ -254,6 +255,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">سالنامه سنتی چینی</string>
+    <string name="date_time_picker_dialog_title">تنظیم تاریخ و ساعت</string>
     <string name="date_year_toggle">افزودن سال</string>
     <string name="default_ringtone">آهنگ زنگ پیش‌فرض</string>
     <string name="deleteCloudConfirmationDetail">اطلاعات مخاطب %s از فضای ابری و دستگاه هر دو حذف شوند؟</string>
@@ -273,7 +275,7 @@
     <string name="delete_sim_entry_miui">حذف</string>
     <string name="deleting_sim_entry_miui">حذف مخاطبین سیم‌کارت…</string>
     <string name="deleting_sim_entry_miui_prepare">آماده‌سازی مخاطبین…</string>
-    <string name="description_call_log_incoming_call">تماس دریافتی</string>
+    <string name="description_call_log_incoming_call">تماس ورودی</string>
     <string name="description_call_log_incoming_forwarding_call">تماس منتقل شده دریافتی</string>
     <string name="description_call_log_missed_call">تماس از دست رفته</string>
     <string name="description_call_log_missed_forwarding_call">تماس منتقل شده از دست رفته</string>
@@ -454,6 +456,7 @@
     <string name="friday">جمعه</string>
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">نام</string>
     <string name="gallery">گالری</string>
     <string name="ghostData_company">شرکت</string>
@@ -577,6 +580,7 @@
     <string name="menu_sync_remove">حذف گروه همگام‌سازی</string>
     <string name="midnight">شب</string>
     <string name="miprofile_account_type">کارت‎های مخاطب</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ویرایش نمایه</string>
     <string name="miprofile_name">نمایه من</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -594,10 +598,13 @@
     <string name="miuix_appcompat_cloud_state_syncing">درحال همگام‌سازی با فضای ابری…</string>
     <string name="miuix_appcompat_confirm_description">تأیید</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
+    <string name="miuix_appcompat_deselect_all">لغو انتخاب</string>
     <string name="miuix_appcompat_deselect_all_description">لغو انتخاب همه</string>
     <string name="miuix_appcompat_search_action_mode_cancel">لغو</string>
     <string name="miuix_appcompat_search_input_description">جستجو</string>
+    <string name="miuix_appcompat_select_all">انتخاب همه</string>
     <string name="miuix_appcompat_select_all_description">انتخاب همه</string>
+    <string name="miuix_appcompat_select_item">انتخاب موارد</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">برای تازه‌سازی پایین بکشید</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">با موفقیت تازه‌سازی شد</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">در حال تازه سازی…</string>
@@ -676,6 +683,7 @@
     <string name="night">شب</string>
     <string name="nine_letter">ط ظ ع غ</string>
     <string name="noAccounts">برای ایجاد گروه به یک حساب نیاز دارید.</string>
+    <string name="no_contact_selected">یک مخاطب را انتخاب کرده تا جزئیات آن نمایان شود</string>
     <string name="no_contacts_dialog_message">ممکن است مخاطبین در سیم‌کارت ذخیره شده باشند. تلاش کنید آنها را از سیم‌کارت به حافظه داخلی تلفن وارد کنید ودوباره تلاش کنید.</string>
     <string name="no_contacts_dialog_title">نمی‌توان مخاطبین را پیدا کرد</string>
     <string name="no_phone_no_shortcut">برای مخاطبین بدون شماره تلفن میان‌بر ایجاد نمی‌شود</string>
@@ -704,6 +712,7 @@
     <string name="payphone">تلفن همگانی</string>
     <string name="people">مخاطبین</string>
     <string name="phoneLabelsGroup">تلفن</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">شماره طولانی است</string>
     <string name="phone_primary">اصلی</string>
     <string name="photoPickerNotFoundText">هیچ تصویری بر روی دستگاه وجود ندارد.</string>
@@ -823,7 +832,7 @@
     <string name="return_call">برای بازگشت به تماس ضربه بزنید</string>
     <string name="return_call_calling">تماس درحال انجام است</string>
     <string name="return_call_dialing">درحال شماره‌گیری</string>
-    <string name="return_call_incoming">تماس دریافتی</string>
+    <string name="return_call_incoming">تماس ورودی</string>
     <string name="ringLabelsGroup">آهنگ زنگ</string>
     <string name="saturday">شنبه</string>
     <string name="saturday_short">شنبه</string>
@@ -854,6 +863,7 @@
     <string name="select_all">انتخاب همه</string>
     <string name="select_groups">انتخاب گروه‌ها</string>
     <string name="select_vcard_title">انتخاب فایل کارت ویزیت</string>
+    <string name="send">ارسال</string>
     <string name="send_contact_shortcut_todesktop_duplicate">این میان‌بر از پیش وجود دارد</string>
     <string name="send_contact_shortcut_todesktop_failed">میان‌بر روی صفحه اصلی ایجاد نشد</string>
     <string name="send_contact_shortcut_todesktop_overflow">روی صفحه اصلی میان‌برهای بیشتری افزوده نمی‌شوند</string>
@@ -905,6 +915,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">گروه بدون عضو</string>
     <string name="six_letter">ج چ ح خ</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">شرکت‌ها</string>
     <string name="smart_group_company_unavailable">بدون اطلاعات شرکت</string>
     <string name="smart_group_frequency_1">در طول ماه گذشته</string>
@@ -958,9 +969,9 @@
     <string name="t9_search_empty_send_sms">ارسال پیام</string>
     <string name="t9_search_empty_video_call">تماس تصویری</string>
     <string name="t9_search_guide_pinyin_title1">شماره‌ها را وارد کرده تا مخاطبین را بیابید</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false">Enter \"%d\" and \"%d\" to search for \"ebbie mith\"</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">برای جستجوی\" دبی اسمیت \"،\"%d\" و \"%d\" را وارد کنید</string>
     <string name="t9_search_guide_zhuyin_title1">شماره‌ها را وارد کرده تا مخاطبین را بیابید</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false">Enter \"%d\" and \"%d\" to search for \"eff ax\"</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">برای جستجوی\" Jeff Max \"،\"%d\" و \"%d\" را وارد کنید</string>
     <string name="take_new_photo">گرفتن عکس جدید</string>
     <string name="take_photo">گرفتن عکس</string>
     <string name="the_anniversary_of_lifting_martial_law">سالگرد لغو حکومت نظامی</string>
@@ -1061,6 +1072,7 @@
     <string name="wednesday">چهارشنبه</string>
     <string name="wednesday_short">چهارشنبه</string>
     <string name="wednesday_shortest">چهارشنبه</string>
+    <string name="wifi_pad_disable_phone">نمی‌توان با این دستگاه تماس گرفت</string>
     <string name="wipe_data">پاک کردن داده‌ها</string>
     <string name="yellowPageNavigationLabel">کتاب اول</string>
     <string name="yellowpage_address_tag">نشانی</string>

@@ -60,6 +60,10 @@
         <item quantity="other">هم اکنون</item>
         <item quantity="one">هم اکنون</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d مورد انتخاب شد</item>
+        <item quantity="one">%d مورد انتخاب شد</item>
+    </plurals>
     <plurals name="net_booster_expire_notification_tip">
         <item quantity="other">%d روز مانده تا دوره افزایش سرعت شبکه به پایان برسد. دوره را تمدید کرده تا از مشکلات سرعت شبکه پیشگیری شود.</item>
         <item quantity="one">%d روز مانده تا دوره افزایش سرعت شبکه به پایان برسد. دوره را تمدید کرده تا از مشکلات سرعت شبکه پیشگیری شود.</item>

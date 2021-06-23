@@ -187,13 +187,15 @@
     <string name="label_from_date">از</string>
     <string name="label_history">تاریخچه</string>
     <string name="label_interest">بهره (درصد)</string>
+    <string name="label_investment_disclaimer">ما برای محاسبات تکراری از یک دوره ترکیب سه ماهه استفاده می‌کنیم</string>
     <string name="label_investment_duration">مدت</string>
     <string name="label_loan_tenure">مدت بازپرداخت وام</string>
+    <string name="label_monthly_investment">سرمایه گذاری ماهانه</string>
     <string name="label_months">ماه</string>
     <string name="label_no_history">هنوز موردی اینجا نیست</string>
     <string name="label_powered_by">طراحی شده توسط ماشین حساب Mi</string>
     <string name="label_principal">پایه</string>
-    <string name="label_share">همرسانی</string>
+    <string name="label_share">هم‌رسانی</string>
     <string name="label_start_date">تاریخ آغاز</string>
     <string name="label_statistics">آمار</string>
     <string name="label_to_date">تا</string>
@@ -294,7 +296,7 @@ LPRهای یک‌ساله و پنج‌ساله در بیستم هر ماه (مم
     <string name="name_save">"مبلغ صرفه‌جویی شده "</string>
     <string name="name_split">تقسیم مبلغ</string>
     <string name="negDesc">تعویض دما میان زیر و بالای صفر</string>
-    <string name="network_confirm_content">تبدیل‌گر واحد پول و حسابگر مالیات و رهن برای کارکرد عادی نیازمند اتصال به اینترنت و دسترسی به خدمات موقعیت مکانی است.</string>
+    <string name="network_confirm_content">مبدل ارز، حسابگر مالیات و رهن برای کارکرد عادی نیازمند اتصال به اینترنت و دسترسی به خدمات موقعیت است.</string>
     <string name="network_confirm_title">نیازمند مجوز است</string>
     <string name="network_purpose">به ماشین حساب خوش آمدید! ماشین حساب به شما این امکان را می‌دهد تا واحدهای پولی را تبدیل، باز پرداخت وام مسکن را محاسبه و از سایر امکانات استفاده کنید.</string>
     <string name="new_privacy_string">&lt;Data>به ماشین حساب خوش آمدید!&lt;br/>این برنامه حاوی ویژگی‌های زیر است:&lt;br/>• ماشین حساب پایه&lt;br/>• ماشین حساب علمی&lt;br/>• تبدیل‌گر جهانی (مانند: ارز، واحدهای اندازه‌گیری و غیره)&lt;br/>• قالب‌های محاسباتی برای وام، سرمایه‌گذاری، EMI و غیره&lt;br/>ماشین حساب برای ارائه خدمات پایه‌ای به شما نیاز به گردآوری اطلاعات شخصی لازم دارد. شما می‌توانید در &lt;a href= \"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما از چگونگی به‌کارگیری اطلاعاتی که گردآوری می‌کنیم آگاه شوید. پیش از استفاده از ماشین حساب، &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%3$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید. شما در هر زمانی می‌توانید در تنظیمات رضایت خود را نسبت به سیاست حفظ حریم خصوصی ماشین حساب پس بگیرید. چنانچه سیاست حفظ حریم خصوصی ما را نپذیرید، نمی‌توانید از برخی ویژگی‌های این برنامه استفاده کنید؛ با این وجود، کارایی‌های پایه‌ای همچنان برای شما در دسترس خواهند بود.&lt;/Data></string>
@@ -464,6 +466,7 @@ LPRهای یک‌ساله و پنج‌ساله در بیستم هر ماه (مم
     <string name="unit_data_display_currency_btn">گولتروم بوتان</string>
     <string name="unit_data_display_currency_bwp">پولای بوتسوانا</string>
     <string name="unit_data_display_currency_byn">روبل بلاروس</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">دلار کانادا</string>
     <string name="unit_data_display_currency_cdf">فرانک کنگو</string>
     <string name="unit_data_display_currency_chf">فرانک سوئیس</string>
@@ -801,8 +804,15 @@ LPRهای یک‌ساله و پنج‌ساله در بیستم هر ماه (مم
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$s بایت</string>
+    <string name="xiaomi_calculator_delete_description">ماشین حساب یک برنامه سیستمی است. پس از حذف برنامه، دیگر نمی‌توانید از مبدل‌های چندگانه و ویژگی‌های بیشتر استفاده کنید.</string>
+    <string name="xiaomi_calculator_delete_title">ماشین حساب حذف شود؟</string>
+    <string name="xiaomi_calculator_remove_icon_description">ماشین حساب یک برنامه سیستمی است. پس از برداشتن میان‌بر از صفحه اصلی، دیگر نمی‌توانید از مبدل‌های چندگانه و ویژگی‌های بیشتر استفاده کنید.</string>
+    <string name="xiaomi_calculator_remove_icon_title">«ماشین حساب» از صفحه اصلی برداشته شود؟</string>
     <string name="xiaomi_connect_download_manager_fail">به دانلودها وصل نشد. بررسی کرده تا این برنامه همه مجوزهای لازم را در تنظیمات > برنامه‌های نصب شده داشته باشد.</string>
     <string name="xiaomi_external_storage_unavailable">حافظه موجود نیست. کارت SD خود را بررسی کنید.</string>
+    <string name="xiaomi_kilobytes_unit">%1$s کیلوبایت</string>
+    <string name="xiaomi_megabytes_unit">%1$s مگابایت</string>
     <string name="xiaomi_update_dialog_message">"معرفی نسخه %1$s
 اندازه: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"معرفی نسخه %1$s

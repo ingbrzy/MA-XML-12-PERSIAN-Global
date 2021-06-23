@@ -17,24 +17,10 @@
         <item>حداکثر ۳ فرایند</item>
         <item>حداکثر ۴ فرایند</item>
     </string-array>
-    <string-array name="aqi_title">
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-        <item>%1$s</item>
-    </string-array>
     <string-array name="battery_labels">
         <item>%۰</item>
         <item>%۵۰</item>
         <item>%۱۰۰</item>
-    </string-array>
-    <string-array name="battery_options">
-        <item>همیشه درصد نمایش داده شود</item>
-        <item>نمایش درصد هنگام شارژ کردن (پیش‌فرض)</item>
-        <item>این آیکون نمایش داده نشود</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
         <item>استفاده از پیش‌تنظیمات سیستم (پیش‌فرض)</item>
@@ -147,11 +133,6 @@
         <item>تیترها فیلتر شدند</item>
         <item>بسته‌های رسانه‌ای فیلتر شدند</item>
     </string-array>
-    <string-array name="clock_options">
-        <item>نمایش ساعت، دقیقه و ثانیه</item>
-        <item>نمایش ساعت و دقیقه (پیش‌فرض)</item>
-        <item>این آیکون نمایش داده نشود</item>
-    </string-array>
     <string-array name="color_mode_descriptions">
         <item>رنگ‌های بهبود یافته</item>
         <item>رنگ‌های طبیعی همانگونه که با چشم دیده می‌شوند</item>
@@ -162,8 +143,6 @@
         <item>طبیعی</item>
         <item>استاندارد</item>
     </string-array>
-    <array name="data_type_name_mcc_mnc_key" />
-    <array name="data_type_name_mcc_mnc_value" />
     <string-array name="debug_hw_overdraw_entries">
         <item>خاموش</item>
         <item>نمایش مناطق رنگ‌آمیزی شده بیرونی</item>
@@ -185,24 +164,9 @@
         <item>فقط برای محتوای DRM بررسی شود</item>
         <item>همیشه بررسی شود</item>
     </string-array>
-    <string-array name="miui_volume_timer_segments_title">
-        <item>خاموش</item>
-        <item>۳۰ دقیقه</item>
-        <item>۱ ساعت</item>
-        <item>۲ ساعت</item>
-        <item>۸ ساعت</item>
-    </string-array>
-    <string-array name="nav_bar_buttons">
-        <item>حافظه موقت</item>
-        <item>رمز کلیدی</item>
-        <item>تعویض‌گر صفحه کلید</item>
-        <item>هیچ کدام</item>
-    </string-array>
-    <string-array name="nav_bar_layouts">
-        <item>عادی</item>
-        <item>فشرده</item>
-        <item>متمایل به چپ</item>
-        <item>متمایل به راست</item>
+    <string-array name="miui_notification_aggregate_category">
+        <item>این محتوا توصیه شده است.</item>
+        <item>این یک تبلیغ است.</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>هیچ کدام</item>
@@ -218,7 +182,6 @@
         <item>4K (بهبود یافته، ایمن)</item>
         <item>720p، 1080p (دو صفحه‌ای)</item>
     </string-array>
-    <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
         <item>خاموش</item>
         <item>۶۴‌ کیلوبایت</item>
@@ -261,7 +224,7 @@
     <string-array name="track_frame_time_entries">
         <item>خاموش</item>
         <item>نمایش روی صفحه به صورت خطوط موازی</item>
-        <item>در میان adb shell dumpsys gfxinfo</item>
+        <item>در adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>پویانمایی خاموش</item>
@@ -301,35 +264,6 @@
         <item>RNDIS (اترنت USB)</item>
         <item>منبع صدا</item>
         <item>MIDI</item>
-    </string-array>
-    <string-array name="weather_type">
-        <item>صاف</item>
-        <item>ابری</item>
-        <item>ابری</item>
-        <item>مه‌آلود</item>
-        <item>رگبار شدید</item>
-        <item>باران سنگین</item>
-        <item>رگبار باران</item>
-        <item>طوفان رعد و برق</item>
-        <item>بارندگی</item>
-        <item>بارش سنگین باران‌</item>
-        <item>باران ملایم</item>
-        <item>باران سبک</item>
-        <item>مخلوط برف و باران</item>
-        <item>کولاک</item>
-        <item>برف</item>
-        <item>برف شدید</item>
-        <item>برف ملایم</item>
-        <item>برف سبک</item>
-        <item>طوفان شدید شن</item>
-        <item>طوفان شن</item>
-        <item>شن</item>
-        <item>طوفانی</item>
-        <item>تگرگ</item>
-        <item>گرد و غبار</item>
-        <item>مه</item>
-        <item>باران یخی</item>
-        <item></item>
     </string-array>
     <string-array name="wifi_status">
         <item></item>

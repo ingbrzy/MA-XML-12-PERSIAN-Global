@@ -164,6 +164,10 @@
         <item quantity="other">%1$d مخاطب با اطلاعات نیمه یکسان</item>
         <item quantity="one">%1$d مخاطب با اطلاعات نیمه یکسان</item>
     </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d مورد انتخاب شد</item>
+        <item quantity="one">%d مورد انتخاب شد</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d انتخاب شد</item>
         <item quantity="one">%1$d انتخاب شد</item>

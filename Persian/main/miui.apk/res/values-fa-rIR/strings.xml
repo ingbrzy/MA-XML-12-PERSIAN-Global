@@ -113,6 +113,7 @@
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
     <string name="click_to_restore">پس از بازنشانی به تنظیمات کارخانه موارد سیستم را بازیابی کرده تا بتوانید از MIUI به صورت عادی استفاده کنید. برای آغاز ضربه بزنید.</string>
     <string name="com_android_email">ایمیل</string>
+    <string name="com_android_soundrecorder">ضبط کننده</string>
     <string name="com_mi_liveassistant">دستیار پخش زنده</string>
     <string name="com_miui_calculator">ماشین‌حساب</string>
     <string name="com_miui_cleanmaster">پاکسازی‌کننده</string>
@@ -121,12 +122,14 @@
     <string name="com_miui_huanji">جابجاگر Mi</string>
     <string name="com_miui_notes">یادداشت‌ها</string>
     <string name="com_miui_screenrecorder">ضبط نمایشگر</string>
+    <string name="com_miui_virtualsim">رومینگ Mi</string>
     <string name="com_miui_weather2">آب و هوا</string>
     <string name="com_xiaomi_drivemode">حالت رانندگی</string>
     <string name="com_xiaomi_gamecenter">بازی‌ها</string>
     <string name="com_xiaomi_jr">امور مالی Mi</string>
     <string name="com_xiaomi_scanner">اسکنر</string>
     <string name="com_xiaomi_shop">فروشگاه Mi</string>
+    <string name="com_xiaomi_vipaccount">مجمع Mi</string>
     <string name="com_xiaomi_youpin">Youpin</string>
     <string name="confirm_description">تأیید</string>
     <string name="country_name_ac">AC</string>
@@ -381,6 +384,7 @@
     <string name="earthly_branches_you">酉</string>
     <string name="earthly_branches_zi">子</string>
     <string name="email">ایمیل</string>
+    <string name="empty" />
     <string name="eras_ad">AD</string>
     <string name="eras_bc">BC</string>
     <string name="error_forbidden">به دلیل اشکال در حساب Mi شما، همگام‌سازی خاموش شده است.</string>
@@ -388,6 +392,7 @@
     <string name="error_title">همگام‌سازی انجام نشد</string>
     <string name="error_unauthorized">به علت دفعات تلاش برای ورود، همگام‌سازی خاموش شده است.</string>
     <string name="evening">ب.ظ</string>
+    <string name="experience_new_system_app">ویژگی‌های جدید را بررسی کنید</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -529,11 +534,12 @@
     <string name="sim_changed_reactivate_notice">یک پیامک خروجی ممکن است برای فعال‌سازی دوباره این خدمات لازم باشد. ممکن است شرکت مخابراتی شما برای این پیام از شما هزینه دریافت کند.</string>
     <string name="sip_phone">تلفن SIP</string>
     <string name="size_byte">بایت</string>
-    <string name="size_giga_byte">گیگابایت</string>
-    <string name="size_kilo_byte">کیلوبایت</string>
-    <string name="size_mega_byte">مگابایت</string>
-    <string name="size_peta_byte">پتابایت</string>
-    <string name="size_tera_byte">ترابایت</string>
+    <string name="size_giga_byte">گ.ب</string>
+    <string name="size_kilo_byte">ک.ب</string>
+    <string name="size_mega_byte">م.ب</string>
+    <string name="size_peta_byte">پ.ب</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">ت.ب</string>
     <string name="solar_term_autumn_begins">Autumn Begins</string>
     <string name="solar_term_autumn_equinox">Autumn Equinox</string>
     <string name="solar_term_clear_and_bright">Clear and Bright</string>
@@ -567,6 +573,7 @@
     <string name="system_app_restore_failed">خطایی رخ داد</string>
     <string name="system_app_restore_failed_detail">موارد سیستم بازیابی نشدند. تنظیمات شبکه خود را بررسی کرده و دستگاه خود را تا بازیابی کامل موارد خاموش و یا راه‌اندازی دوباره نکنید. برای تلاش دوباره روی دکمه زیر بزنید.</string>
     <string name="system_restore">بازیابی موارد</string>
+    <string name="tap_to_update_system_app">برای به‌روزرسانی برنامه‌های سیستمی ضربه بزنید</string>
     <string name="the_anniversary_of_lifting_martial_law">Anniversary of Lifting Martial Law</string>
     <string name="the_anti_aggression_day">Anti-aggression Day</string>
     <string name="the_arbor_day">Arbor Day</string>
@@ -618,6 +625,7 @@
     <string name="tuesday">سه‌شنبه</string>
     <string name="tuesday_short">سه‌شنبه</string>
     <string name="tuesday_shortest">سه‌شنبه</string>
+    <string name="wait_for_wlan_china">انتظار برای WLAN</string>
     <string name="web_sso_login_fail">باید دوباره وارد شوید</string>
     <string name="web_sso_login_message">درحال ورود…</string>
     <string name="website">وب‌سایت</string>

@@ -56,6 +56,7 @@
     <string name="error_camera_unavailable_title">دوربین در دسترس نیست</string>
     <string name="evening">بعد از ظهر</string>
     <string name="first_using_dialog_message">قطب‌نما برای کارکرد عادی به استفاده از اتصال به شبکه، دوربین و خدمات موقعیت مکانی دستگاه شما نیاز دارد.</string>
+    <string name="first_using_dialog_message_no_camera">قطب‌نما نیاز به اتصال به اینترنت و دسترسی به اطلاعات موقعیت دارد تا بتواند به طور عادی کار کند. موافقت می‌کنید؟</string>
     <string name="first_using_dialog_title">اجازه دسترسی</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
@@ -179,6 +180,7 @@
     <string name="night">شب</string>
     <string name="noon">ظهر</string>
     <string name="open_perm_msg">قطب‌نما نیازمند دسترسی به اطلاعات موقعیت و دوربین است. این کار برای تعیین مختصات و ارائه پیش‌نمایش‌های زنده لازم است. اجازه داده شود؟</string>
+    <string name="open_perm_msg_no_camera">برای تعیین مختصات، قطب‌نما باید به اطلاعات موقعیت دسترسی یابد. اجازه می‌دهید؟</string>
     <string name="open_perm_title">نیازمند مجوز است</string>
     <string name="permission_camera_desc">برای نمایش آزیموت در پیش‌نمایش زنده</string>
     <string name="permission_location_desc">برای نمایش مختصات</string>

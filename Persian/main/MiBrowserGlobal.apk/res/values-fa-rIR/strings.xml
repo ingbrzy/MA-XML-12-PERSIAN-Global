@@ -1196,8 +1196,6 @@
     <string name="passport_wrong_vcode">کدی را که وارد کرده‌اید اشتباه است</string>
     <string name="passport_wrong_voice">کدی را که وارد کرده‌اید اشتباه است</string>
     <string name="password">گذرواژه</string>
-    <string name="pay_failed_toast">پرداخت کامل نشد</string>
-    <string name="pay_success_toast">با موفقیت پرداخت شد</string>
     <string name="per_month">هر ماه</string>
     <string name="permission_agree_service">من تمام شرایط و ضوابط زیر را خوانده و پذیرفته‌ام.</string>
     <string name="permission_alert_window">برای استفاده از این ویژگی، در تنظیمات به نمایش دادن پنجره‌های بازشو اجازه دهید.</string>

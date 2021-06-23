@@ -57,7 +57,7 @@
         <item quantity="one">به‌روزرسانی برای %d برنامه یافت شد</item>
     </plurals>
     <plurals name="o">
-        <item quantity="other">%1$s %2$s مورد را همرسانی کرد</item>
-        <item quantity="one">%1$s %2$s مورد را همرسانی کرد</item>
+        <item quantity="other">%1$s %2$s مورد را هم‌رسانی کرد</item>
+        <item quantity="one">%1$s %2$s مورد را هم‌رسانی کرد</item>
     </plurals>
 </resources>

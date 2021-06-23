@@ -163,7 +163,7 @@
     <string-array name="nav_bar_buttons">
         <item>بریده‌دان</item>
         <item>کد کلید</item>
-        <item>تغییردهنده صفحه‌کلید</item>
+        <item>تأیید چرخش، تغییردهنده صفحه‌کلید</item>
         <item>هیچ‌کدام</item>
     </string-array>
     <string-array name="nav_bar_layouts">
@@ -186,7 +186,6 @@
         <item>‏4K (ارتقا یافته، ایمن)</item>
         <item>‏720p،‏ 1080p (صفحه‌نمایش دوتایی)</item>
     </string-array>
-    <array name="recents_blacklist_array" />
     <string-array name="select_logd_size_lowram_titles">
         <item>خاموش</item>
         <item>۶۴ هزار</item>
