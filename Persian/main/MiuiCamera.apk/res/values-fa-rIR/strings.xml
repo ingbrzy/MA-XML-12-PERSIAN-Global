@@ -52,6 +52,7 @@
     <string name="accessibility_document_blackwhite_button">در حال اسکن اسناد سیاه و سفید.</string>
     <string name="accessibility_document_origin_button">در حال اسکن اسناد اصلی</string>
     <string name="accessibility_document_strengthen_button">در حال اسکن اسناد پیشرفته</string>
+    <string name="accessibility_double_click_to_exit">برای خروج دو بار ضربه بزنید</string>
     <string name="accessibility_dual_preview_change">مشاهده تغییر</string>
     <string name="accessibility_dual_preview_change_finish">تغییرات را با موفقیت مشاهده کرد</string>
     <string name="accessibility_dual_video_merged">ویدئوی ترکیب شده</string>
@@ -91,6 +92,7 @@
     <string name="accessibility_live_preview_button">مشاهده مورد پیشین</string>
     <string name="accessibility_live_reverse_button">کلیپ‌های پیشین حذف شوند؟</string>
     <string name="accessibility_live_speed_panel_on">پانل سرعت</string>
+    <string name="accessibility_lock_focus_success">فوکوس با موفقیت قفل شد</string>
     <string name="accessibility_manually_custom_panel_on">پنل سفارشی سازی</string>
     <string name="accessibility_mimoji_background_panel_on">پس‌زمینه پانل</string>
     <string name="accessibility_mimoji_gif_off">حالت GIF خاموش است</string>
@@ -101,6 +103,7 @@
     <string name="accessibility_mimovie_on">درحال استفاده از قاب فیلمی</string>
     <string name="accessibility_module_picker_finish">تعویض به %s</string>
     <string name="accessibility_more">بیشتر</string>
+    <string name="accessibility_multi_cam_reselect_button">انتخاب دوباره دوربین‌ها</string>
     <string name="accessibility_open">روشن</string>
     <string name="accessibility_pano_moving_left">انتقال دستکاه به سمت چپ</string>
     <string name="accessibility_pano_moving_right">انتقال دستکاه به سمت راست</string>
@@ -119,11 +122,14 @@
     <string name="accessibility_preview_selected">انتخاب شد</string>
     <string name="accessibility_preview_shrink">کوچک‌نمایی</string>
     <string name="accessibility_preview_zoom_tip">پیش‌نمایش بزرگ‌نمایی %1$.1f برابر</string>
+    <string name="accessibility_pro_parameters_panel_on">باز کردن منوی دارای پارامترهای PRO</string>
     <string name="accessibility_pro_video_simple_mode">حالت ساده</string>
     <string name="accessibility_protrait">پرتره</string>
     <string name="accessibility_pull_down_to_open_camera">به طرف پایین کشیده تا دوربین باز شود</string>
     <string name="accessibility_record_button">دکمه ضبط</string>
     <string name="accessibility_reduce">کوچک نمایی</string>
+    <string name="accessibility_reference_line_image_off">خطوط جدولی نمایان نیستند</string>
+    <string name="accessibility_reference_line_image_on">خطوط جدولی نمایان هستند</string>
     <string name="accessibility_reference_line_text">پانل همراه با گزینه‌های خط مرجع را باز کنید</string>
     <string name="accessibility_review_thumbnail">جدیترین عکس</string>
     <string name="accessibility_select_all">انتخاب همه</string>
@@ -152,6 +158,8 @@
     <string name="accessibility_timer_burst_image_off">عکاسی متوالی زمان‌بندی شده خاموش است</string>
     <string name="accessibility_timer_burst_image_on">عکاسی متوالی زمان‌بندی شده روشن است</string>
     <string name="accessibility_timer_burst_text">پانل تنظیم عکاسی متوالی زمان‌بندی شده</string>
+    <string name="accessibility_touch_focus_fail">فوکوس انجام نشد</string>
+    <string name="accessibility_touch_focus_success">فوکوس با موفقیت انجام شد</string>
     <string name="accessibility_ultra_pixel_photography_off">Ultra HD %s خاموش است</string>
     <string name="accessibility_ultra_pixel_photography_on">Ultra HD %s روشن است</string>
     <string name="accessibility_ultra_wide_off">حالت زاویه فوق باز خاموش شد</string>
@@ -485,6 +493,7 @@
     <string name="custom_watermark_words">نشان سفارشی</string>
     <string name="custom_watermark_words_input_hint">متن را وارد کنید</string>
     <string name="custom_watermark_words_save_success">با موفقیت ذخیره شد</string>
+    <string name="dd_frn_f_t">برای استفاده از دوربین جلو دستگاه خود را تا کنید</string>
     <string name="dialog_button_accept">قبول کردن</string>
     <string name="dialog_button_back">بازگشت</string>
     <string name="dialog_button_cancel">لغو</string>
@@ -537,11 +546,15 @@
     <string name="dual_video_record_remote">ضبط با دو گوشی</string>
     <string name="dual_video_record_standalone">جدا شده</string>
     <string name="dual_video_user_guide_main_content">برای ایجاد ویدئوهای چند دوربینه، دو دوربین را در دستگاه خود انتخاب کرده و هم‌زمان تصویر برداری کنید. تصاویر ضبط شده به صورت جدا و یا ترکیبی در یک نمای جداگانه یا ویدئوی تصویر در تصویر ذخیره خواهند شد.</string>
+    <string name="dual_video_user_guide_main_content_new">"ویدئوهای چند دوربینه به طور همزمان با چندین دوربین ضبط می‌شوند. 
+ضبط با دو گوشی همچنین به شما اجازه می‌دهد تا با انتخاب «ترکیب شده» به دستگاه دیگر متصل شده و یک ویدئوی چند دوربینه ایجاد کنید."</string>
     <string name="dual_video_user_guide_main_title">ویدئوی چند دوربینه</string>
     <string name="dual_video_user_guide_merge_content">با دو دوربین به طور همزمان تصویربرداری کرده و تصاویر ضبط شده را در یک نما یا ویدئوی تصویر در تصویر ترکیب کنید.</string>
-    <string name="dual_video_user_guide_remote_content">ضبط با دو گوشی به شما امکان ترکیب سیگنال‌ها از دو دستگاه متفاوت در یک ویدئو را می‌دهد. شما می‌توانید پیش‌نمایش هر دوی سیگنال‌ها و ویدئوی نهایی را در این دستگاه ببینید. به یاد داشته باشید که صدا فقط توسط این دستگاه ضبط خواهد شد.</string>
+    <string name="dual_video_user_guide_merge_content_new">دو ضبط را می‌توان در حالت تقسیم صفحه یا حالت تصویر در تصویر ترکیب کرد.</string>
+    <string name="dual_video_user_guide_remote_content">سیگنال‌های دو دستگاه مخلتلف در یک ویدئو با هم ترکیب می‌شوند. شما می‌توانید پیش‌نمایش هر دوی سیگنال‌ها و ویدئوی نهایی را در این دستگاه ببینید. به یاد داشته باشید که صدا فقط توسط این دستگاه ضبط خواهد شد.</string>
     <string name="dual_video_user_guide_remote_p">تلفن %d</string>
     <string name="dual_video_user_guide_standalone_content">با دو دوربین به طور همزمان تصویربرداری کرده و هر دو موارد ضبط شده را به عنوان ویدئوی جداگانه ذخیره کنید.</string>
+    <string name="dual_video_user_guide_standalone_content_new">ویدئوهای ضبط شده همزمان می‌توانند از هم جدا شده و به عنوان دو فایل ذخیره شوند.</string>
     <string name="edit_blusher">رژ</string>
     <string name="edit_chin">گونه</string>
     <string name="edit_color_skin">رنگ پوست</string>
@@ -564,6 +577,7 @@
     <string name="edit_solid">کانتورها</string>
     <string name="emoticon">بسته استیکر</string>
     <string name="error_fail_to_start_audio_capture">ضبط صدا آغاز نشد</string>
+    <string name="esp_tip">پیش‌نمایش نمایشگر بیرونی</string>
     <string name="eye_light">درخشش چشم‌ها</string>
     <string name="eye_light_angel">فرشته</string>
     <string name="eye_light_comic">مانگا</string>
@@ -706,7 +720,7 @@
     <string name="live_sticker_updating">در حال به‌روزرسانی…</string>
     <string name="live_workspace_title">پیش‌نویسها</string>
     <string name="live_workspace_title_edit">موارد را برای حذف انتخاب کنید</string>
-    <string name="location_access_allow">اجازه دادن</string>
+    <string name="location_access_allow">Agree</string>
     <string name="location_permission_des">به‌یاد داشتن موقعیت برای عکس‌ها و ویدئوها</string>
     <string name="location_permission_not_ask_again">در تنظیمات به دوربین اجازه دسترسی به موقعیت خود را بدهید.</string>
     <string name="location_permission_not_ask_again_go_to_settings">اجازه دادن</string>
@@ -868,6 +882,7 @@
     <string name="module_name_panorama">پانوراما</string>
     <string name="module_name_portrait">پرتره</string>
     <string name="module_name_professional">حرفه‌ای</string>
+    <string name="module_name_scanner">اسکنر</string>
     <string name="module_name_square">مربع</string>
     <string name="module_name_super_moon">ماه کامل</string>
     <string name="module_name_video">ویدئو</string>
@@ -885,8 +900,8 @@
     <string name="network_access_user_notice_title">درحال اتصال به اینترنت</string>
     <string name="network_connection_failed">متصل نشد</string>
     <string name="network_connection_ongoing">در حال اتصال…</string>
-    <string name="network_connection_prerequisites">بلوتوث و Wi-Fi را روشن کنید تا بتوانید از ضبط با دو گوشی استفاده کنید.</string>
-    <string name="network_connection_prerequisites_china">Turn on Bluetooth and WLAN to be able to use Dual phone recording.</string>
+    <string name="network_connection_prerequisites">بلوتوث و Wi-Fi را در مرکز کنترل روشن کرده تا بتوانید از ضبط با دو گوشی استفاده کنید.</string>
+    <string name="network_connection_prerequisites_china">Turn on Bluetooth and WLAN in Control center to be able to use Dual phone recording.</string>
     <string name="network_connection_rejected">رد کردن</string>
     <string name="network_connection_timed_out">زمان اتصال پایان یافت</string>
     <string name="no_storage">قبل از استفاده از دوربین کارت SD را وارد کنید</string>
@@ -1022,6 +1037,7 @@
     <string name="pref_camera_auxiliary_close">خاموش</string>
     <string name="pref_camera_auxiliary_exposure_feedback">تأیید نوردهی</string>
     <string name="pref_camera_auxiliary_focus_peak">اوج فوکوس</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">زیاد</string>
     <string name="pref_camera_beautify_entry_low">کم</string>
     <string name="pref_camera_beautify_entry_normal">متوسط</string>
@@ -1054,11 +1070,12 @@
     <string name="pref_camera_delay_capture_entry_audio">صدا</string>
     <string name="pref_camera_delay_capture_title">تایمر</string>
     <string name="pref_camera_device_watermark_title">نشان دستگاه</string>
-    <string name="pref_camera_dynamic_frame_rate_summary">نرخ فریم در وضعیت نور ضعیف به منظور بهبود کیفیت ویدئو به صورت خودکار کاهش می‌یابد</string>
+    <string name="pref_camera_dynamic_frame_rate_summary">نرخ فریم در وضعیت نور ضعیف یا دمای بالا به منظور بهبود کیفیت ویدئو به صورت خودکار کاهش می‌یابد</string>
     <string name="pref_camera_dynamic_frame_rate_title">نرخ فریم را روی نور کم تنظیم کنید</string>
     <string name="pref_camera_eis_entry_normal">ویدئوی پایدار</string>
     <string name="pref_camera_eis_entry_off">خاموش</string>
     <string name="pref_camera_eis_entry_pro">ویدیوی پایدار PRO</string>
+    <string name="pref_camera_esp">پیش‌نمایش نمایشکر پشتی</string>
     <string name="pref_camera_face_info_watermark_title">افزودن برچسب سن روی عکس‌ها</string>
     <string name="pref_camera_fastmotion_duration">مدت</string>
     <string name="pref_camera_fastmotion_duration_description">مدت دوره ضبط به طور پیش فرض نامحدود است. شما همچنین می‌توانید زمان‌سنج را که می‌تواند در یک لحظه مشخص دوره ضبط را متوقف کند تنظیم کنید.</string>
@@ -1208,6 +1225,8 @@
     <string name="pref_camera_tip_id_card">اسکنر کارت شناسایی</string>
     <string name="pref_camera_touchafaec_entry_off">خاموش</string>
     <string name="pref_camera_touchafaec_entry_on">روشن</string>
+    <string name="pref_camera_track_focus_preferred_description">برای حفظ تمرکز به صورت خودکار بر روی افراد و حیوانات، آن را روشن کنید. همچنین می‌توانید سوژه‌ها را برای ردیابی به صورت دستی انتخاب کنید.</string>
+    <string name="pref_camera_track_focus_preferred_title">ردیابی فوکوس</string>
     <string name="pref_camera_ubifocus_title">فوکوس دوباره</string>
     <string name="pref_camera_ultra_wide_ldc_description">اصلاح تصاویر خمیده به صورت خودکار</string>
     <string name="pref_camera_ultra_wide_ldc_title">تصحیح خمیدگی در تصاویر فوق باز</string>
@@ -1276,7 +1295,7 @@
     <string name="pref_hdr10plus_video_mode_description">بهینه‌سازی رنگ‌ها و تنظیم کنتراست برای ویدئوهای 4K و 8K. این ویژگی فقط در دستگاه‌های سازگار با HDR10+ کار می‌کند.</string>
     <string name="pref_i_n_r_b">کاهش سر و صدای هوشمند</string>
     <string name="pref_k_h">هدفون توگوشی اجرای زنده</string>
-    <string name="pref_k_s_i">Monitor recorded sound using the earphones when they are connected</string>
+    <string name="pref_k_s_i">کنترل پخش صدای ضبط شده در هنگام اتصال با استفاده از گوشی</string>
     <string name="pref_lens_dirty_detect_summary">دریافت اعلان هنگامی که لنز کثیف باشد</string>
     <string name="pref_lens_dirty_detect_title">اعلان کثیف بودن لنز</string>
     <string name="pref_manual_exposure_title">S</string>
@@ -1371,11 +1390,15 @@
     <string name="prek_b_j_o">ایجاد از نو جلوه استریو فراگیر</string>
     <string name="prek_b_j_p">کاهش تأثیر باد بر ضبط صدا</string>
     <string name="prep_video_ai_audio_new_desc_tip">صداهای آمده از سوی سوژه بهبود می‌یابند</string>
+    <string name="prep_video_ai_audio_new_desc_tip_alone">صداهای آمده از سوی سوژه در حالت افقی بهبود می‌یابند</string>
     <string name="prep_video_ai_audio_single_desc_tip">صداها از پشت نمایشگر فیلتر شدند</string>
+    <string name="prep_video_ai_audio_single_desc_tip_alone">صداها از پشت نمایشگر در حالت افقی فیلتر شدند</string>
     <string name="prep_video_ai_audio_unsupported_headset_desc_tips">بزرگ‌نمایی صدا با هدفون توگوشی اجرای زنده و میکروفن خارجی کار نمی‌کند</string>
     <string name="preparing_sd">بررسی کارتSD…</string>
     <string name="preview_back_pressed_hint">دوباره زده تا به پیش‌نمایش باز گردانده شود</string>
     <string name="pro_color_mode">رنگ حرفه‌ای</string>
+    <string name="process_tips_1">تا زمانی که ذخیره ویدئو کامل نشده است دستگاه را نبندید</string>
+    <string name="process_tips_2">تا ذخیره شدن ویدئو دستگاه را باز نکنید</string>
     <string name="professional_shortcut_short">حرفه‌ای</string>
     <string name="recommend_macro_mode">حالت ماکرو</string>
     <string name="recommend_portrait">حالت پرتره</string>
@@ -1400,6 +1423,9 @@
     <string name="reset_manual_picture_style_toast">پارامترها با موفقیت بازنشانی شدند</string>
     <string name="reset_manually_parameter_confirmed">تأیید</string>
     <string name="reset_manually_parameter_hint">بازنشانی</string>
+    <string name="scan_install_prompt_header">نصب اسکنر</string>
+    <string name="scan_install_prompt_loading">درحال نصب اسکنر…</string>
+    <string name="scan_install_prompt_message">اسکنر را نصب کرده و دوباره تلاش کنید</string>
     <string name="screen_on_proximity_sensor_hint">برای خاموش کرن این عملکرد، دکمه‌های افزایش صدا و بازگشت را به طور همزمان فشار دهید.</string>
     <string name="screen_on_proximity_sensor_summary">بخش بلندگوی گوشی را نپوشانید</string>
     <string name="search_settings">تنظیمات دوربین;کیفیت;کیفیت عکس;موقعیت عکس;موقعیت تصویر;ردیابی چهره;صدای دوربین</string>
@@ -1463,6 +1489,7 @@
     <string name="super_moon_under">مهتاب</string>
     <string name="super_moon_window">پنجره</string>
     <string name="super_night_hint">درحال بهینه‌سازی تصویر… دستگاه خود را پایدار نگه دارید.</string>
+    <string name="super_night_owl_toast">گوشی خود را پایدار نگه دارید</string>
     <string name="super_night_se_tip">حالت شب</string>
     <string name="super_night_toast">هنگام گرفتن عکس گوشی خود را پایدار نگه دارید</string>
     <string name="tap_to_exposure">برای تنظیم دستی نوردهی ضربه بزنید</string>
@@ -1498,9 +1525,11 @@
     <string name="ubifocus_capture_warning_message">برای دستیابی به بهترین نتایج، عکس شما هم باید شامل اجسام نزدیک (با فاصله کمتر از ۱ متر از لنز) و هم دور باشد</string>
     <string name="ultra_ai_pixel_photography_close_tip">AIUltra HD %s خاموش است</string>
     <string name="ultra_ai_pixel_photography_open_tip">Ultra HD %sAI</string>
+    <string name="ultra_pixel_100mp">۱۰۰ مگاپیکسلی</string>
     <string name="ultra_pixel_108mp">108MP</string>
     <string name="ultra_pixel_32mp">32MP</string>
     <string name="ultra_pixel_48mp">48MP</string>
+    <string name="ultra_pixel_50mp">۵۰ مگاپیکسلی</string>
     <string name="ultra_pixel_64mp">64MP</string>
     <string name="ultra_pixel_photography_close_tip">Ultra HD %s خاموش است</string>
     <string name="ultra_pixel_photography_open_tip">Ultra HD %s روشن است</string>

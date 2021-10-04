@@ -4,7 +4,6 @@
     <string name="This_week">این هفته</string>
     <string name="Today">امروز</string>
     <string name="Yesterday">دیروز</string>
-    <string name="access_denied_info">تلاش‌ها بیش از اندازه هستند. چند دقیقه صبر کرده سپس دوباره تلاش کنید.</string>
     <string name="account_bind_secure_email_title">افزودن ایمیل بازیابی</string>
     <string name="account_bind_secure_phone_title">افزودن شماره تلفن بازیابی</string>
     <string name="account_crop_user_avatar">بریدن عکس</string>
@@ -47,6 +46,8 @@
     <string name="ad_download">دانلود</string>
     <string name="ad_join">ورود به انجمن</string>
     <string name="ad_more">بیشتر</string>
+    <string name="add_local_shortcut_add">افزودن</string>
+    <string name="add_local_shortcut_des">با افزودن «ویدئوهای من» به صفحه اصلی با یک ضربه به فایل‌های ویدئویی محلی دسترسی یابید.</string>
     <string name="add_search_channel_link">پیوند</string>
     <string name="add_search_channel_name">نام</string>
     <string name="add_search_channel_tip">در تارنمای هدف «%s» را جستجو کرده و سپس پیوند را در اینجا کپی و جای‌گذاری کنید.</string>
@@ -81,6 +82,7 @@
     <string name="auto_play_next_off">پخش خودکار خاموش است</string>
     <string name="auto_play_next_on">پخش خودکار روشن است</string>
     <string name="back_to_mainpage">یافتن</string>
+    <string name="background_playback_enabled">بازپخش در پس‌زمینه روشن است</string>
     <string name="before_yestoday">۲ روز پیش</string>
     <string name="bind_sign_in_title">افزودن حساب Mi</string>
     <string name="cancel">لغو</string>
@@ -94,6 +96,7 @@
     <string name="choose_to_signin">بله</string>
     <string name="choose_to_signup">خیر. یکی خواهم ساخت</string>
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
+    <string name="click_to_open_pip">برای تغییر به تصویر در تصویر ضربه بزنید</string>
     <string name="click_to_reload_more">برای موارد بیشتر ضربه بزنید</string>
     <string name="click_to_retry">تلاش دوباره</string>
     <string name="close">بستن</string>
@@ -103,6 +106,8 @@
     <string name="cloud_online_switch_close_time">می‌توانید پیشنهادات محتوای شخصی‌سازی شده خود را در %s روشن کنید</string>
     <string name="cloud_online_switch_open_time">نمایش پیشنهادات محتوای شخصی‌سازی شده</string>
     <string name="collect_diagnosis_log">جمع‌آوری رخدادها</string>
+    <string name="columbus_ad_flag_text">آگهی</string>
+    <string name="columbus_skip_ad">رد شدن</string>
     <string name="com_permission_desc">ویدئوی Mi نمی‌تواند به ویدئوهای شما روی دستگاهتان دسترسی داشته باشد. اجازه دسترسی را در تنظیمات بدهید.</string>
     <string name="com_permission_title">نیازمند مجوز است</string>
     <string name="comment_model_add_comment">افزودن نظر</string>
@@ -151,6 +156,12 @@
     <string name="diagnosis_log_sent_format">"رخدادها با موفقیت ارسال شدند.
 شناسه%s
 این کد را به مسئول مربوطه ارسال کنید."</string>
+    <string name="dialog_app_comment_cancel">لغو</string>
+    <string name="dialog_app_comment_default_content">نظرتان درباره ویدئوی Mi چیست؟</string>
+    <string name="dialog_app_comment_ok">تأیید</string>
+    <string name="dialog_app_comment_select_feedback">ممکن است بازخورد خود را نیز به ما بدهید؟</string>
+    <string name="dialog_app_comment_select_praise">عالی! به ویدئوی Mi در فروشگاه Play نیز امتیاز می‌دهید؟</string>
+    <string name="dialog_app_comment_title">به برنامه ما امتیاز دهید</string>
     <string name="dialog_disagree_privacychange_info">چنانچه با سیاست حفظ حریم خصوصی ما موافقت نکنید، نمی‌توانید از خدمات پخش آنلاین ویدئوی Mi استفاده کنید. برای بازگشت به «لغو» ضربه زده یا برای ادامه از «مخالف» استفاده کنید و از ویدئوی Mi فقط به عنوان پخش‌کننده محلی استفاده کنید.</string>
     <string name="dialog_disagree_privacychange_title">مخالف؟</string>
     <string name="dialog_privacy_change_info">ما به دلیل تغییرات در خدماتی که ارائه می‌دهیم سیاست حفظ حریم خصوصی ویدئوی Mi را به‌روز کرده‌ایم. به منظور آگاهی کامل حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، پیش از استفاده از برنامه، &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.</string>
@@ -176,6 +187,8 @@
     <string name="download_complete">دانلود شد</string>
     <string name="download_delete_tip">موارد انتخاب شده حذف شوند؟</string>
     <string name="download_delete_title">حذف</string>
+    <string name="download_guide_click_icon_to_website_or_enter_url">برای باز کردن یک تارنما یا وارد کردن URL، روی یک میان‌بر ضربه بزنید</string>
+    <string name="download_guide_known">فهمیدم</string>
     <string name="download_paused">مکث شد</string>
     <string name="download_pending">در حال بررسی…</string>
     <string name="download_power_off_tips">این قابلیت اکنون در دسترس نیست</string>
@@ -200,6 +213,7 @@
     <string name="failed_dup_secure_phone_number">این شماره تلفن در حال حاضر با یک حساب Mi دیگر مرتبط است</string>
     <string name="failed_to_fetch_data">اطلاعات بارگذاری نشد.</string>
     <string name="failure">دانلود نشد</string>
+    <string name="favor_movie">فیلم</string>
     <string name="favor_online_video">ویدئوها</string>
     <string name="favor_playlist">فهرست پخش</string>
     <string name="favorite">موارد پسندیده</string>
@@ -322,6 +336,12 @@
     <string name="galleryplus_network_connect_confirm">در تنظیمات شبکه به Wi-Fi وصل شده یا اینترنت همراه را روشن کنید.</string>
     <string name="galleryplus_network_error">به شبکه متصل نشد</string>
     <string name="galleryplus_network_not_wifi">استفاده از اینترنت همراه برای به جریان انداخت ویدئوها ممکن است باعث افزایش هزینه‌های اضافی از سوی شرکت مخابراتی شود</string>
+    <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">مدیریت فایل‌ها %$s افزودن زیرنویس %$s بازتاباندن ویدئوها %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle2">از ویدئوهای خود با گذرواژه محافظت کنید %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle3">از TikTok، Instagram و Twitter ویدئو دانلود کنید %$s</string>
+    <string name="galleryplus_notification_linkvideo_title1">%$s ویژگی‌های باحال ویدئوی Mi را ببینید!</string>
+    <string name="galleryplus_notification_linkvideo_title2">%$s برای مدیریت ویدئوهای خود ضربه بزنید</string>
+    <string name="galleryplus_notification_linkvideo_title3">%1$s دانلود رایگان ویدئو %2$s مدیریت فایل‌ها</string>
     <string name="galleryplus_online_cta">ویدئوی Mi برای کارکرد عادی نیاز به اتصال به اینترنت دارد. می‌پذیرید؟</string>
     <string name="galleryplus_online_cta_agree">پذیرفتن</string>
     <string name="galleryplus_online_cta_disagree">مخالف</string>
@@ -330,13 +350,14 @@
     <string name="galleryplus_orientation_lock">جهت صفحه با موفقیت قفل شد</string>
     <string name="galleryplus_orientation_unlock">جهت صفحه قفل است</string>
     <string name="galleryplus_permission_content">به ویدئوی Mi مجوزهای لازم را داده تا بتوانید از این ویژگی استفاده کنید.</string>
-    <string name="galleryplus_permission_content2">"برای امکان استفاده از این ویژگی به تنظیمات > برنامه‌ها > ویدئوی Mi > مجوزهای برنامه رفته و به ویدئوی Mi اجازه انجام کارهای زیر را بدهید:
-
-۱. دسترسی به حافظه
-۲. دسترسی به شناسه دستگاه"</string>
+    <string name="galleryplus_permission_content_opt">ویدئوی Mi برای کارکرد عادی به مجوزها نیاز دارد. تمام داده‌های برنامه را در تنظیمات پاک‌سازی کرده و دوباره برنامه را باز کنید.</string>
+    <string name="galleryplus_permission_content_xms">ویدئوی Mi برای کارکرد عادی به مجوزها نیاز دارد. به تنظیمات رفته و مجوزهای لازم را به ویدئوی Mi بدهید.</string>
     <string name="galleryplus_permission_open_settings">تنظیمات</string>
-    <string name="galleryplus_permission_refuse">خیر، سپاسگزارم</string>
-    <string name="galleryplus_permission_retry">مجوزها</string>
+    <string name="galleryplus_permission_refuse">لغو</string>
+    <string name="galleryplus_permission_retry">تنظیمات</string>
+    <string name="galleryplus_permission_storage_content_reshowable_video_player">برای امکان استفاده از پخش کننده ویدئوی محلی، ابتدا به این برنامه اجازه دسترسی به حافظه را بدهید.</string>
+    <string name="galleryplus_permission_storage_content_unreshowable_video_player">برای امکان استفاده از پخش کننده ویدئوی محلی، در بخش «مجوزهای» تنظیمات به این برنامه اجازه دسترسی به حافظه را بدهید.</string>
+    <string name="galleryplus_permission_storage_title">نیازمند دسترسی به حافظه است</string>
     <string name="galleryplus_permission_title">توجه</string>
     <string name="galleryplus_restore_play_speed">درحال پخش با سرعت عادی</string>
     <string name="galleryplus_save_cancel_toast">برای لغو ذخیره ویدئو دوباره روی «بازگشت» بزنید</string>
@@ -382,7 +403,6 @@
     <string name="history_local_video">محلی</string>
     <string name="history_online_video">آنلاین</string>
     <string name="hot">پرطرفدار</string>
-    <string name="i_know">فهمیدم</string>
     <string name="identity">شناسایی</string>
     <string name="inconsistent_pwd">گذرواژه‌ها یکسان نیستند</string>
     <string name="init_channels">بازیابی به پیش‌فرض</string>
@@ -408,11 +428,14 @@
     <string name="live_title">زنده</string>
     <string name="live_tv_title">تلویزیون زنده</string>
     <string name="loading">چند لحظه صبر کنید…</string>
+    <string name="local_empty_guide">ویدئوهایی که فیلم‌برداری کرده‌اید در اینجا نمایان می‌شوند</string>
     <string name="local_play_tip">درحال پخش ویدئوی محلی</string>
+    <string name="local_push_setting_power_tag">اعلان‌های مربوط به ویدئوهای محلی</string>
     <string name="local_push_title">پرطرفدار امروز</string>
     <string name="local_video_create_a_new_playlist">فهرست پخش جدید</string>
     <string name="local_video_date">تاریخ</string>
     <string name="local_video_dialog_default">پیش‌فرض</string>
+    <string name="local_video_edit_playlist">ویرایش فهرست پخش</string>
     <string name="local_video_from_a_to_z">الف تا ی</string>
     <string name="local_video_from_big_to_small">بزرگ به کوچک</string>
     <string name="local_video_from_long_to_short">بلند به کوتاه</string>
@@ -425,6 +448,7 @@
     <string name="local_video_notification_btn">تماشا در ویدئوی Mi</string>
     <string name="local_video_notification_title">یک ویدئوی محلی جدید یافت شد</string>
     <string name="local_video_number_of_selected">انتخاب شد%1$d/%2$d</string>
+    <string name="local_video_shortcut_name">ویدئوهای من</string>
     <string name="local_video_size">اندازه</string>
     <string name="local_video_space">اشغال شده: %s</string>
     <string name="local_video_time">مدت</string>
@@ -434,6 +458,9 @@
     <string name="logo_neverthink">Curated by Neverthink.tv</string>
     <string name="logout">خروج</string>
     <string name="logout_account">خروج از حساب</string>
+    <string name="long_video_no_more_content">به آخر صفحه رسیدید</string>
+    <string name="long_video_watch_on">تماشا کردن</string>
+    <string name="long_video_you_may_also_like">مواردی که ممکن است بپسندید</string>
     <string name="lp_base_folder">کارت SD</string>
     <string name="lp_play_mode_list_loop">تکرار</string>
     <string name="lp_play_mode_pause">یک‌بار پخش</string>
@@ -642,9 +669,7 @@
     <string name="my_feedback_title">بازخورد من</string>
     <string name="need_update_app">ویدئوی Mi را به‌روز کرده تا از همه ویژگی‌های آن استفاده کنید</string>
     <string name="network_connect_info">به شبکه متصل نشد.</string>
-    <string name="network_error_info">یک خطای شبکه رخ داد. تنظیمات شبکه خود را بررسی کرده و سپس دوباره تلاش کنید.</string>
     <string name="network_failed">به شبکه متصل نشد</string>
-    <string name="network_timeout_info">به شبکه متصل نشد. دوباره تلاش کنید.</string>
     <string name="new_channel_tip">به کانال‌های جدید نگاهی بیاندازید!</string>
     <string name="next">بعدی</string>
     <string name="next_step">بعدی</string>
@@ -682,9 +707,10 @@
     <string name="off_tip_firework_recommend">شما دیگر پیشنهادات محتوای شخصی سازی شده از سوی Firework را دریافت نخواهید کرد</string>
     <string name="ok">تأیید</string>
     <string name="on_tip_firework_recommend">شما پیشنهادات محتوای شخصی سازی شده از سوی Firework دریافت خواهید کرد</string>
-    <string name="open_settings">تنظیمات</string>
+    <string name="order_alphabet">به ترتیب حروف الفبا</string>
     <string name="order_recently_subscribe">اشتراک‌های تازه</string>
     <string name="order_recently_updated">به‌تازگی به‌روز شده</string>
+    <string name="out_of_memory_background_playback_is_suspended">پخش پس‌زمینه به دلیل کمبود حافظه به صورت موقت متوقف شد</string>
     <string name="ovp_alert_dialog_download_install_task">درحال دانلود افزونه HD…</string>
     <string name="ovp_buffering_video_netplay_label_v5">درحال آماده‌سازی…</string>
     <string name="ovp_category">دسته‌بندی‌ها</string>
@@ -719,6 +745,8 @@
     <string name="ovp_favor">موارد پسندیده</string>
     <string name="ovp_favor_null">هیچ موردی اینجا نیست.</string>
     <string name="ovp_feedback_title">بازخورد ویدئوی Mi</string>
+    <string name="ovp_hint_new">جدید</string>
+    <string name="ovp_hint_the_latest_version">به‌روز</string>
     <string name="ovp_home_folder_is_null_jump_upfolder_tip">فایل‌های رسانه‌ای یافت نشد. به پوشه سطح بالاتر پرید.</string>
     <string name="ovp_home_item_camera">گالری</string>
     <string name="ovp_home_item_download">دانلودها</string>
@@ -734,6 +762,7 @@
     <string name="ovp_local_videos_title">ویدئوهای محلی</string>
     <string name="ovp_navigation_category">دسته‌‌بندی</string>
     <string name="ovp_navigation_content">همکاری محتوایی</string>
+    <string name="ovp_navigation_darkmode">حالت تاریک</string>
     <string name="ovp_navigation_favorites">موارد پسندیده</string>
     <string name="ovp_navigation_feedback">بازخورد</string>
     <string name="ovp_navigation_history">تاریخچه</string>
@@ -741,8 +770,10 @@
     <string name="ovp_navigation_language">زبان</string>
     <string name="ovp_navigation_localvideo">محلی</string>
     <string name="ovp_navigation_notice">اعلان‌ها</string>
+    <string name="ovp_navigation_score">به برنامه ما امتیاز دهید</string>
     <string name="ovp_navigation_setting">تنظیمات</string>
     <string name="ovp_navigation_subscribe">اشتراک</string>
+    <string name="ovp_navigation_version_update">بررسی به‌روزرسانی‌ها</string>
     <string name="ovp_player_cached_error_btn">ویدئوهای آنلاین</string>
     <string name="ovp_player_cached_error_hint_info">ویدئوهای محلی اکنون پخش نمی‌شوند</string>
     <string name="ovp_player_plugin_dlg_neg_btn">بستن</string>
@@ -783,7 +814,6 @@
     <string name="passport_area_code_title">کد ناحیه</string>
     <string name="passport_bad_authentication">نام کاربری یا گذرواژه معتبر است</string>
     <string name="passport_barcode_add_account_prompt">برای افزودن یک حساب، بعد از وارد شدن کد QR را دوباره اسکن کنید.</string>
-    <string name="passport_can_not_receive_verification_code">کد تایید دریافت نمی‌شود؟</string>
     <string name="passport_captcha_title">کد امنیتی</string>
     <string name="passport_checking_account">درحال بررسی گذرواژه…</string>
     <string name="passport_close">بستن</string>
@@ -1018,11 +1048,11 @@
     <string name="plus_sort_type_size">اندازه</string>
     <string name="plus_sort_type_time">زمان</string>
     <string name="plus_tab_gallery">پوشه‌ها</string>
-    <string name="plus_tab_time">جدول زمانی</string>
+    <string name="plus_tab_time">لحظات</string>
     <string name="pm">ب.ظ</string>
+    <string name="popup_click_for_download_video">دانلود ویدئو</string>
     <string name="privacy_revoke_setting">با تغییر وضعیت کلید، رضایت خود را از سیاست حفظ حریم خصوصی ویدئوی Mi پس می‌گیرید.</string>
     <string name="privacy_revoke_title">پس گرفتن رضایت</string>
-    <string name="progressbar_title">درحال بررسی خطرات امنیتی…</string>
     <string name="psw_hint">گذرواژه</string>
     <string name="psw_sign_in">ورود با استفاده از گذرواژه</string>
     <string name="pull_to_refresh_from_bottom_pull_label">برای تازه‌سازی به سمت بالا بکشید…</string>
@@ -1034,6 +1064,14 @@
     <string name="push_message_switch">اعلان‌های فشاری</string>
     <string name="push_message_tips">برای دریافت اعلان فشاری روشن کنید</string>
     <string name="pw_channels">کانال‌ها</string>
+    <string name="question_click_bottom_tab">همچنین می‌توانید برای باز کردن یک تارنما، روی میان‌بر ضربه بزنید.</string>
+    <string name="question_click_with_light">پس از روشن شدن دکمه دانلود ضربه بزنید.</string>
+    <string name="question_edit_url_here">URL را جستجو کرده یا اینجا وارد کنید.</string>
+    <string name="question_how_to_download_video">چگونه می‌توانم ویدئو‌ها را دانلود کنم؟</string>
+    <string name="question_known">فهمیدم</string>
+    <string name="question_look_video_here">ویدئوهای دانلود شده در اینجا ذخیره می‌شوند.</string>
+    <string name="question_next">بعدی</string>
+    <string name="question_step">رد کردن</string>
     <string name="read_and_agree">پذیرفتن</string>
     <string name="recommend_channels">کانال‌های پیشنهادی</string>
     <string name="recommend_online_switch">پیشنهادات آنلاین</string>
@@ -1048,6 +1086,7 @@
     <string name="remaining_space_not_enough">به دلیل کمبود فضای ذخیره سازی دانلود نمی‌شود</string>
     <string name="reminder">توجه</string>
     <string name="rename">تغییر نام</string>
+    <string name="rename_word_out">نام این فایل بسیار طولانی است</string>
     <string name="report">گزارش</string>
     <string name="report_content_dislike">رفتار خشن یا نامناسب</string>
     <string name="report_content_fakement">هرزنامه یا کلاه‌برداری</string>
@@ -1060,7 +1099,6 @@
     <string name="report_content_violence">سخنان تنفر آمیز</string>
     <string name="report_fail">گزارش نشد. دوباره تلاش کنید.</string>
     <string name="report_success">با موفقیت گزارش شد</string>
-    <string name="request_camera_permission_message">ما بر اساس قوانین و مقررات مربوطه از اطلاعات شخصی شما محافظت خواهیم کرد. این برنامه برای کارکرد عادی نیاز به مجوزهای زیر دارد:&lt;br>&lt;br>&lt;b>استفاده از دوربین (برای تنظیم عکس نمایه شما)&lt;/b>&lt;br>&lt;br>در صورت نپذیرفتن از دادن چنین مجوزهایی، دیگر نمی‌توانید از برخی از ویژگی‌های این برنامه استفاده کنید؛ به هر حال، ویژگی‌های پایه‌ای آن همچنان برای شما فراهم هست. شما همواره می‌توانید در تنظیمات مجوزها را محدود و یا اجازه خود را بردارید.</string>
     <string name="resend_active_email">ارسال دوباره</string>
     <string name="resend_email_reach_limit_message">شما ایمیل‌های تایید زیادی درخواست کرده‌اید. مطمئن شوید ایمیل تایید در پوشه هرزنامه صندوق دریافت شما نیست.</string>
     <string name="resend_email_reach_limit_title">تلاش‌ها بیش از حد مجاز بود</string>
@@ -1135,7 +1173,6 @@
     <string name="sync_favorites_limit">بیش از ۵۰۰ ویدئو در موارد پسندیده شما وجود دارند. برای ادامه همگام‌سازی ما باید برخی از موارد قدیمی‌تر را حذف کنیم.</string>
     <string name="sync_favorites_message">موارد پسندیده از این دستگاه در حساب شما همگام‌سازی شوند؟ مواردی که دیگر در دسترس نباشند حذف خواهند شد.</string>
     <string name="sync_favorites_title">همگام‌سازی موارد پسندیده</string>
-    <string name="system_error_info">سیستم مشغول است. چند دقیقه صبر کرده سپس دوباره تلاش کنید.</string>
     <string name="t_check_hide_file">موارد را برای پنهان کردن انتخاب کنید</string>
     <string name="t_check_unhide_file">موارد را برای آشکار کردن انتخاب کنید</string>
     <string name="t_downloading">درحال دانلود:</string>
@@ -1156,6 +1193,7 @@
     <string name="t_password_null">گذرواژه نمیتواند خالی باشد</string>
     <string name="t_password_wrong">گذرواژه وارد شده اشتباه است. دوباره تلاش کنید.</string>
     <string name="t_start_download">درحال آغاز دانلود:</string>
+    <string name="tab_name_download">دانلودها</string>
     <string name="tab_name_local">محلی</string>
     <string name="tab_name_me">نمایه</string>
     <string name="tab_name_moment">لحظات</string>
@@ -1179,6 +1217,7 @@
     <string name="the_forth_day">روز چهارم سال نوی چینی</string>
     <string name="the_hksar_establishment_day">روز تأسیس منطقه ویژه اداری هنگ کنگ</string>
     <string name="the_international_womens_day">روز زن</string>
+    <string name="the_item_choosed_tint">%s مورد انتخاب شد</string>
     <string name="the_laba_festival">جشنواره لابا</string>
     <string name="the_labour_day">روز کارگر</string>
     <string name="the_lantern_festival">جشنواره فانوس‌ها</string>
@@ -1227,6 +1266,7 @@
     <string name="tool_bar_notification_setting_title">جعبه ابزار کرکره اعلان</string>
     <string name="top_bar_game_desc">کلی بازی تازه اینجا کشف کنید</string>
     <string name="top_bar_game_title">کانال بازی</string>
+    <string name="trending_scroll_load_more">برای دیدن ویدئوهای بیشتر به طرف بالا بکشید</string>
     <string name="tuesday">سه‌شنبه</string>
     <string name="tuesday_short">سه‌شنبه</string>
     <string name="tuesday_shortest">سه‌شنبه</string>
@@ -1234,9 +1274,9 @@
     <string name="type_issue">اشکال</string>
     <string name="type_suggestion">پیشنهاد</string>
     <string name="ugc_no_net">به شبکه متصل نشد. تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید.</string>
+    <string name="ui_common_title_back">بازگشت</string>
     <string name="ui_log_tip">برای پنهان کردن روی این محدوده ضربه بزنید. فشرده و نگه داشته تا گزارشات قدیمی پاک‌سازی شود. گزارشات را به صورت دستی بکشید.</string>
     <string name="unknow">نامشخص</string>
-    <string name="unknown_error_info">خطای ناشناخته</string>
     <string name="update">به‌روزرسانی</string>
     <string name="update_email_address_dialog_message">پیش از به‌روزرسانی ایمیل بازیابی لازم است هویت خود را تأیید کنید.</string>
     <string name="update_email_address_dialog_title">به‌روزرسانی ایمیل بازیابی</string>
@@ -1278,14 +1318,20 @@
     <string name="video_download_fail">ویدئو دانلود نشد</string>
     <string name="video_download_fail_hint">دانلود نشد</string>
     <string name="video_download_floating_guide">دانلود رایگان ویدئو</string>
+    <string name="video_download_folder_title">دانلودهای ویدئوی Mi</string>
     <string name="video_download_forbidden">نمی‌توان از این تارنما دانلود کرد</string>
+    <string name="video_download_login_guide">وارد %s شده تا بتوانید ویدئوها را دانلود کنید</string>
     <string name="video_download_network_error">خطای شبکه</string>
     <string name="video_download_play_video_guide">ابتدا ویدئو را پخش کنید.</string>
     <string name="video_download_play_video_guide2">پس از روشن شدن دکمه روی آن زده تا دانلود کردن آغاز شود.</string>
+    <string name="video_download_play_video_step1">گام %1$d</string>
+    <string name="video_download_play_video_step2">گام %2$d</string>
     <string name="video_download_site_search">URL</string>
     <string name="video_download_source">دانلود از تارنما</string>
     <string name="video_download_start">در حال دانلود…</string>
     <string name="video_download_storage_error">حافظه کافی وجود ندارد</string>
+    <string name="video_download_title">دانلود ویدئوها</string>
+    <string name="video_download_youtube_copyright_forbidden">به دلیل محدودیت‌های حق چاپ و نشر، ویدئوهای YouTube دانلود نمی‌شوند</string>
     <string name="video_downloading">در حال دانلود…</string>
     <string name="video_live_over">این برنامه به پایان رسیده است</string>
     <string name="video_noyet_download_tip">این ویدئو همچنان درحال دانلود است</string>

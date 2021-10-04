@@ -319,6 +319,7 @@
     <string name="headset_device_error_multconnect">هنگام اتصال همزمان چندین دستگاه، به‌روز نمی‌شود</string>
     <string name="headset_device_error_no_device">حداقل یک ایرفون از قوطی شارژ جدا مانده است</string>
     <string name="headset_device_error_single_device">ایرفون به صورت تکی به‌روز نمی‌شود. دوباره جفت‌سازی کنید.</string>
+    <string name="headset_device_sync">در حال همگام سازی…</string>
     <string name="headset_device_sync_donot_move_device">درحال همگام‌سازی… پیش از استفاده از ایرفون‌ها صبر کرده تا همگام‌سازی پایان یابد.</string>
     <string name="headset_device_sync_wait_connect">درحال همگام‌سازی… پیش از استفاده از ایرفون‌ها، صبر کرده تا اتصال به صورت خودکار برقرار شود.</string>
     <string name="headset_download_failed">دانلود نشد</string>

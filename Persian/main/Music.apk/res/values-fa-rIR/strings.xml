@@ -24,7 +24,7 @@
     <string name="action_item_download">دانلود</string>
     <string name="action_item_favorite">پسندیدن</string>
     <string name="action_item_hide">پنهان کردن</string>
-    <string name="action_item_hifi">هدفون‌ و افکت‌های صوتی</string>
+    <string name="action_item_hifi">ایرفون‌ها</string>
     <string name="action_item_play_all">پخش تصادفی همه</string>
     <string name="action_item_play_next">بعداً پخش شود</string>
     <string name="action_item_play_video">پخش نماهنگ</string>
@@ -36,6 +36,7 @@
     <string name="ad_data_exception">خطای داده‌های تبلیغ</string>
     <string name="ad_recommend">نمایش آگهی</string>
     <string name="ad_setting">تنظیمات بیشتر</string>
+    <string name="add">افزودن</string>
     <string name="add_music">افزودن آهنگ</string>
     <string name="add_to_last_of_playlist">افزودن به انتهای فهرست پخش</string>
     <string name="add_to_playlist">افزودن به نوبت</string>
@@ -160,6 +161,7 @@
     <string name="dialog_cannot_resume">دانلود قطع شد. نمی‌تواند ادامه پیدا کند.</string>
     <string name="dialog_clear_history">فهرست آهنگ‌های تازه پخش شده پاک‌سازی شود؟</string>
     <string name="dialog_confirm_delete_checkbox_message">فایل‌های محلی نیز حذف شوند</string>
+    <string name="dialog_continue">تأیید</string>
     <string name="dialog_failed_body">بعداً دانلود شود و یا فایل از نوبت حذف شود؟</string>
     <string name="dialog_file_already_exists">نمی‌توان دانلود کرد. این فایل از پیش وجود دارد.</string>
     <string name="dialog_file_missing_body">فایل دانلود شده یافت نشد.</string>
@@ -195,6 +197,7 @@
     <string name="dialog_song_view_type_artist">بر اساس هنرمند</string>
     <string name="dialog_song_view_type_folder">براساس پوشه</string>
     <string name="dialog_song_view_type_song">بر اساس آهنگ</string>
+    <string name="dialog_stop_audio_in">زمان‌سنج پخش</string>
     <string name="dialog_subtitle_make_playlist_public">فهرست‌های پخش عمومی در دسترس سایر افراد است. فهرست‌های پخش خصوصی فقط در همه دستگاه‌های همگام‌سازی برای شما قابل مشاهده هستند.</string>
     <string name="dialog_title_clearlist_tracks">حذف از نوبت</string>
     <string name="dialog_title_delete_tracks">حذف</string>
@@ -241,7 +244,9 @@
     <string name="download_method">دانلود</string>
     <string name="download_no_application_title">فایل را نمی توان باز کرد</string>
     <string name="download_paused_in_power_save_mode">دانلودها هنگامی که بهینه‌ساز باتری روشن است متوقف می‌شوند</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">در حال دانلود…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">کیفیت دانلود</string>
     <string name="download_quality_summary">تنظیمات بیشتر برای آهنگ‌هایی که دانلود می‌کنید</string>
     <string name="download_queued">در نوبت قرار گرفت</string>
@@ -516,6 +521,7 @@
     <string name="mulit_choice_management">مدیریت موارد چند گانه</string>
     <string name="music_browser_label">موسیقی</string>
     <string name="music_filter">فیلتر کردن فایل‌های صوتی</string>
+    <string name="music_quality">کیفیت صدا</string>
     <string name="music_recommendation">آهنگ‌های پیشنهادی</string>
     <string name="music_service">خدمات موسیقی</string>
     <string name="music_settings">موسیقی</string>
@@ -546,6 +552,7 @@
     <string name="no_local_songs_selected">نمی‌توان آهنگ‌ها را ارسال کرد زیرا دانلود نشده‌اند</string>
     <string name="no_local_source_find">آهنگ یافت نشد</string>
     <string name="no_longer_prompt">دوباره نمایش داده نشود</string>
+    <string name="no_lyrics">بدون متن ترانه</string>
     <string name="no_results_return">بدون نتایج جستجو</string>
     <string name="no_scanned_songs">خالی</string>
     <string name="no_song_downloaded">آهنگی برای دانلود یافت نشد</string>
@@ -663,12 +670,14 @@
     <string name="privacy_authorize_revoking">درحال باطل کردن مجوز…</string>
     <string name="privacy_desc">سیاست حفظ حریم خصوصی (اجباری)</string>
     <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=fa_IR</string>
     <string name="privacy_request_desc">"&lt;Data>موسیقی Mi برای ارائه خدمات پخش آنلاین نیاز به گردآوری اطلاعات شخصی لازم دارد. شما می‌توانید در &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما از چگونگی به‌کارگیری اطلاعاتی که گردآوری می‌کنیم آگاه شوید. شما در هر زمانی می‌توانید در تنظیمات رضایت خود را نسبت به سیاست حفظ حریم خصوصی موسیقی Mi پس بگیرید.
 پیش از استفاده از موسیقی Mi &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.
 چنانچه سیاست حفظ حریم خصوصی ما را نپذیرید، نمی‌توانید از برخی ویژگی‌های این برنامه استفاده کنید؛ با این وجود، کارایی‌های پایه‌ای همچنان برای شما در دسترس خواهند بود.&lt;/Data>"</string>
     <string name="privacy_request_subtitle">"به موسیقی Mi خوش آمدید! این برنامه خدمات زیر را ارائه می‌دهد:
 - پخش کننده محلی
 - خدمات پخش آنلاین"</string>
+    <string name="privacy_request_subtitle_offline">به موسیقی Mi خوش‌ آمدید! این برنامه یک پخش‌کننده محلی را برای فایل‌های صوتی فراهم می‌کند.</string>
     <string name="privacy_request_title">شرایط و ضوابط</string>
     <string name="pro_member">عضو PRO</string>
     <string name="project_device">تلفن Mi</string>
@@ -855,6 +864,7 @@
     <string name="toast_download_in_process">دانلود درحال انجام</string>
     <string name="toast_favorite_has_been_added">با موفقیت به فهرست پخش افزوده شد</string>
     <string name="toast_follow_success">با موفقیت دنبال شد</string>
+    <string name="toast_hungama_vip_song">این آهنگ فقط برای اعضای PRO در دسترس است. برای دانلود این آهنگ مشترک شوید.</string>
     <string name="toast_is_pro">شما درحال حاضر یک عضو PRO هستید.</string>
     <string name="toast_my_playlist_illegal_name">عنوان این فهرست پخش معتبر نیست. این فهرست پخش را دوباره نام‌گذاری کنید.</string>
     <string name="toast_my_playlist_set_to_private">این فهرست پخش خصوصی است. دیگران نمی‌توانند آن را ببینند.</string>
@@ -895,6 +905,7 @@
     <string name="upload_playlist_to_hungama_title">آهنگ‌های آنلاین را در Hungama همگام‌سازی کرده تا بتوانید در سایر دستگاه‌هایی که از حساب Mi خود استفاده می‌کنید به آن‌ها دسترسی یابید.</string>
     <string name="upload_playlist_to_hungama_toast">آهنگ‌های آنلاین در Hungama همگام‌سازی خواهند شد</string>
     <string name="user_agreement">توافق‌نامه کاربر</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=fa_IR</string>
     <string name="user_playlist_plaza">فهرست‌های پخش</string>
     <string name="user_privacy_dialog_negative_text">لغو</string>
     <string name="user_privacy_dialog_positive_count_down_text">پس گرفتن (%s ثانیه)</string>

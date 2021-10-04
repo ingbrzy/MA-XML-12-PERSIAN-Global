@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">۱ ساعت پیش</item>
+        <item quantity="one">۱ ساعت پیش</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">۱ ساعت پیش</item>
+        <item quantity="one">۱ ساعت پیش</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">نیم ساعت پیش</item>
+        <item quantity="one">نیم ساعت پیش</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">در ۱ ساعت</item>
+        <item quantity="one">در ۱ ساعت</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">در نیم ساعت</item>
+        <item quantity="one">در نیم ساعت</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">بلافاصله</item>
+        <item quantity="one">بلافاصله</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">در %d دقیقه</item>
+        <item quantity="one">در ۱ دقیقه</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">هم اکنون</item>
+        <item quantity="one">هم اکنون</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d دقیقه پیش</item>
+        <item quantity="one">۱ دقیقه پیش</item>
+    </plurals>
     <plurals name="cloud_space_full_gallery_notification_content_title">
         <item quantity="other">%s مورد همگام‌سازی نمی‌شود</item>
         <item quantity="one">%s مورد همگام‌سازی نمی‌شود</item>
@@ -72,6 +108,26 @@
         <item quantity="other">تلاش دوباره در %d ثانیه</item>
         <item quantity="one">تلاش دوباره در %d ثانیه</item>
     </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">نیم ساعت پیش</item>
+        <item quantity="one">نیم ساعت پیش</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">در ۱ ساعت</item>
+        <item quantity="one">در ۱ ساعت</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">در نیم ساعت</item>
+        <item quantity="one">در نیم ساعت</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">بلافاصله</item>
+        <item quantity="one">بلافاصله</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">در %d دقیقه</item>
+        <item quantity="one">در ۱ دقیقه</item>
+    </plurals>
     <plurals name="items_unsynced">
         <item quantity="other">موارد در انتظار همگام‌سازی: %d</item>
         <item quantity="one">موارد در انتظار همگام‌سازی: %d</item>
@@ -84,9 +140,21 @@
         <item quantity="other">%s دقیقه پیش</item>
         <item quantity="one">%s دقیقه پیش</item>
     </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">هم اکنون</item>
+        <item quantity="one">هم اکنون</item>
+    </plurals>
     <plurals name="micloud_manual_pause_and_resume">
         <item quantity="other">تا %d دقیقه دیگه همگام‌سازی ادامه داده می‌شود</item>
         <item quantity="one">تا %d دقیقه دیگه همگام‌سازی ادامه داده می‌شود</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d مورد انتخاب شد</item>
+        <item quantity="one">%d مورد انتخاب شد</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d دقیقه پیش</item>
+        <item quantity="one">۱ دقیقه پیش</item>
     </plurals>
     <plurals name="provision_sync_items_status_title">
         <item quantity="other">%s گونه خدمات با فضای ابری Xiaomi همگام‌سازی خواهند شد</item>

@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="actionbar_button_up_description">بازگشت</string>
+    <string name="add_emergency_contact">افزودن یک مخاطب اضطراری</string>
     <string name="afternoon">بعد از ظهر</string>
     <string name="alarm_close">به بالا کشیده تا خاموش شود</string>
     <string name="alarm_later">چرت زدن</string>
     <string name="align_type">هم‌ترازی</string>
     <string name="am">ق.ظ</string>
     <string name="aod_component">نمایشگر همیشه روشن</string>
+    <string name="aod_lock_screen_date">EEE dd/MM</string>
+    <string name="aod_lock_screen_date_signature">dd/MM</string>
+    <string name="aod_lock_screen_date_v">"EEE
+dd/MM"</string>
     <string name="aod_show_date_and_time">تاریخ و زمان</string>
+    <string name="app_name">نمایشگر پشتی</string>
     <string name="apply">به‌کارگیری</string>
     <string name="apply_succeed">با موفقیت به‌کار برده شد</string>
     <string name="background_icon">پس زمینه</string>
@@ -70,6 +76,7 @@
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
     <string name="gallery_page_name">From Gallery</string>
+    <string name="has_add_contact">افزوده شده است</string>
     <string name="keyguard_charging_battery_level">%%%s</string>
     <string name="letter_space">فاصله کاراکتر</string>
     <string name="line_space">فاصله خطوط</string>
@@ -139,6 +146,7 @@
     <string name="morning">صبح</string>
     <string name="night">شب</string>
     <string name="noon">ظهر</string>
+    <string name="not_add_contact">افزوده نشده است</string>
     <string name="notification_new_message">پیام جدید</string>
     <string name="page_detail_preview_tip">برای پیش نمایش تلفن را برگردانید</string>
     <string name="page_detail_publish_time_gallery_label">"افزوده شده: "</string>
@@ -152,17 +160,18 @@
     <string name="saturday_short">شنبه</string>
     <string name="saturday_shortest">شنبه</string>
     <string name="send">ارسال</string>
-    <string name="small_display_style">تم‌ نمایشگر پشتی</string>
+    <string name="small_display_style">نمایشگر پشتی</string>
+    <string name="sps_cancel">برای خروج فشرده و نگه دارید</string>
     <string name="step_to_image_community">موارد بیشتر را در مجمع Mi بیابید</string>
-    <string name="sub_screen_app_name">نمایشگر پشتی</string>
+    <string name="subscreen_could_edit_pic">کشیدن روی تصاویر آن‌ها را برش می‌زند. فشردن و نگه داشتن آن‌ها را حذف می‌کند.</string>
     <string name="subscreen_other">سایر</string>
     <string name="subscreen_other_dialog_cancel">لغو</string>
-    <string name="subscreen_other_dialog_confirm">تأیید</string>
+    <string name="subscreen_other_dialog_confirm">روشن کردن</string>
     <string name="subscreen_other_dialog_goto">افزودن</string>
-    <string name="subscreen_other_dialog_message">بهینه‌ساز باتری ویژه نمایشگر اصلی را غیرفعال می‌کند. شما فقط می‌توانید با استفاده از نمایشگر پشتی زمان را بررسی کرده، تماس‌ها را پاسخ داده و با مخاطب اضطراری خود تماس بگیرید. دستگاه شما هنگام روشن بودن بهینه‌ساز باتری ویژه می‌تواند با یک شارژ کامل تا %d روز کار کند. بهینه‌ساز باتری ویژه روشن شود؟</string>
+    <string name="subscreen_other_dialog_message">بهینه‌ساز باتری ویژه، نمایشگر اصلی را غیرفعال می‌کند. شما فقط می‌توانید زمان را بررسی کرده، تماس‌ها را دریافت و با مخاطب اضطراری که پیش‌تر تنظیم کرده‌اید تماس بگیرید. آزمایشات ما نشان می‌دهد که دستگاه شما با یک بار شارژ کردن هنگام روشن بودن بهینه‌ساز باتری ویژه امکان کار کردن تا %d روز را دارد. با این وجود، این دوره زمانی ممکن است با توجه به عوامل مختلف کوتاه‌تر باشد. بهینه‌ساز باتری ویژه روشن شود؟</string>
     <string name="subscreen_other_dialog_title">بهینه‌ساز باتری ویژه</string>
     <string name="subscreen_other_next_dialog_message">پیش از استفاده از بهینه‌ساز باتری ویژه لازم است تا یک مخاطب اضطراری بیافزایید. افزوده شود؟</string>
-    <string name="subscreen_other_wilderness_summary">بهینه‌ساز باتری ویژه نمایشگر اصلی را غیرفعال می‌کند. شما فقط می‌توانید با استفاده از نمایشگر پشتی زمان را بررسی کرده، تماس‌ها را پاسخ داده و با مخاطب اضطراری خود تماس بگیرید. دستگاه شما هنگام روشن بودن بهینه‌ساز باتری ویژه می‌تواند با یک شارژ کامل تا %d روز کار کند.</string>
+    <string name="subscreen_other_wilderness_summary">بهینه‌ساز باتری ویژه، نمایشگر اصلی را غیرفعال می‌کند. شما فقط می‌توانید زمان را بررسی کرده، تماس‌ها را دریافت و با مخاطب اضطراری که پیش‌تر تنظیم کرده‌اید تماس بگیرید. آزمایشات ما نشان می‌دهد که دستگاه شما با یک بار شارژ کردن هنگام روشن بودن بهینه‌ساز باتری ویژه امکان کار کردن تا %d روز را دارد. با این وجود، این دوره زمانی ممکن است با توجه به عوامل مختلف کوتاه‌تر باشد.</string>
     <string name="subscreen_other_wilderness_title">بهینه‌ساز باتری ویژه</string>
     <string name="subscreen_settings_fail">عملیات کامل نشد</string>
     <string name="subscreen_settings_mode">خاموش شدن پس از</string>
@@ -240,6 +249,9 @@
     <string name="wednesday">چهارشنبه</string>
     <string name="wednesday_short">چهارشنبه</string>
     <string name="wednesday_shortest">چهارشنبه</string>
+    <string name="wilderness_dcalling">متصل</string>
+    <string name="wilderness_dialing">در حال شماره‌گیری</string>
+    <string name="wilderness_is_starting">درحال روشن کردن بهینه‌ساز باتری ویژه…</string>
     <string name="wireless_change_to_ac_charging">به شارژ کابلی تعویض شد</string>
     <string name="yesterday">دیروز</string>
 </resources>

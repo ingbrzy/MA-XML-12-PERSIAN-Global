@@ -176,10 +176,6 @@
         <item quantity="other">%d آهنگ پرطرفدار</item>
         <item quantity="one">%d آهنگ پرطرفدار</item>
     </plurals>
-    <plurals name="transfer_prompt">
-        <item quantity="other">ویدئو تا %1$d ثانیه دیگر پخش خواهد شد</item>
-        <item quantity="one">ویدئو تا %1$d ثانیه دیگر پخش خواهد شد</item>
-    </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d مورد انتخاب شد</item>
         <item quantity="one">%1$d مورد انتخاب شد</item>
@@ -187,30 +183,6 @@
     <plurals name="video_collection_reminder_view">
         <item quantity="other">شما هنوز %d ویدئوی پسندیده خود را مدت زیادی است که ندیده‌اید.</item>
         <item quantity="one">شما هنوز %d ویدئوی پسندیده را مدت زیادی است که ندیده‌اید.</item>
-    </plurals>
-    <plurals name="video_download_clear_info">
-        <item quantity="other">%1$d ویدئو با موفقیت حذف شدند.</item>
-        <item quantity="one">%1$d ویدئو با موفقیت حذف شد.</item>
-    </plurals>
-    <plurals name="video_download_clear_prompt">
-        <item quantity="other">%1$d ویدئو حذف شوند؟</item>
-        <item quantity="one">%1$d ویدئو حذف شود؟</item>
-    </plurals>
-    <plurals name="video_history_clear_info">
-        <item quantity="other">%1$d مورد از تاریخچه حذف شد.</item>
-        <item quantity="one">%1$d مورد از تاریخچه حذف شد.</item>
-    </plurals>
-    <plurals name="video_history_clear_prompt">
-        <item quantity="other">%1$d مورد از تاریخچه حذف شوند؟</item>
-        <item quantity="one">%1$d مورد از تاریخچه حذف شود؟</item>
-    </plurals>
-    <plurals name="video_push_multi_message">
-        <item quantity="other">%1$d به‌روزرسانی در دسترس است.</item>
-        <item quantity="one">%1$d به‌روزرسانی در دسترس است.</item>
-    </plurals>
-    <plurals name="video_subtitle_last_message">
-        <item quantity="other">%d دقیقه باقی مانده است</item>
-        <item quantity="one">%d دقیقه باقی مانده است</item>
     </plurals>
     <plurals name="videos_updated_amount">
         <item quantity="other">%1$d ویدئوی جدید را ببینید</item>

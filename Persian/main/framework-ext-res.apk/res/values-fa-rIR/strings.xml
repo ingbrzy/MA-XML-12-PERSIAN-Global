@@ -163,6 +163,7 @@
     <string name="open_close_tip_content">برای بستن پنجره شناور، نوار اقدام را فشرده و نگه داشته و سپس به بالا بکشید</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
+    <string name="other_ime">سایر صفحه کلید‌ها</string>
     <string name="package_delete_confirm_step_1">%s حذف شود؟</string>
     <string name="package_delete_confirm_step_2">حذف این برنامه ممکن است سبب ناپایدار شدن سیستم شما گردد.</string>
     <string name="package_delete_confirm_step_3">شما پس از حذف این برنامه دیگر قادر به بازکردن آن نخواهید بود.</string>

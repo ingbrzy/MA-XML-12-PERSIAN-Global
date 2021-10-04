@@ -2,11 +2,14 @@
 <resources>
     <string name="access_denied">دسترسی رد شد</string>
     <string name="account_related">دستگاه شما با یک حساب Mi مرتبط است (%s). برای تأیید دستگاه به شبکه متصل شوید.</string>
+    <string name="actionbar_button_up_description">بازگشت</string>
     <string name="activate_find_device_success">یافتن دستگاه فعال شد.</string>
     <string name="activate_finddevice">به شبکه متصل شده تا دستگاه را فعال کنید</string>
     <string name="activating">درحال فعال‌سازی…</string>
     <string name="add_short_cut">افزودن</string>
     <string name="added_successfully">با موفقیت افزوده شد</string>
+    <string name="afternoon">بعد از ظهر</string>
+    <string name="am">ق.ظ</string>
     <string name="antispam_sync">تنظیمات مزاحم نشوید</string>
     <string name="app_name">فضای ابری Xiaomi</string>
     <string name="bad_authentication">گذرواژه حساب کاربری نامعتبر است</string>
@@ -15,7 +18,9 @@
     <string name="calendar_sync">سالنامه</string>
     <string name="check_contact">افزودن</string>
     <string name="choose_contact_title">مخاطبین</string>
+    <string name="clearable_edittext_clear_description">پاک‌سازی</string>
     <string name="click_to_enabled">برای همگام‌سازی لمس کنید.</string>
+    <string name="close">بستن</string>
     <string name="close_shortcut">بستن</string>
     <string name="cloud_find_device">یافتن دستگاه</string>
     <string name="cloud_find_device_off">خاموش</string>
@@ -54,13 +59,28 @@
     <string name="data_merge_dialog_loading">درحال تأیید داده‌ها…</string>
     <string name="data_merge_dialog_title">ادغام موارد</string>
     <string name="data_protection_title">محافظت از داده‌ها</string>
+    <string name="date_picker_label_day" />
+    <string name="date_picker_label_month" />
+    <string name="date_picker_label_year" />
+    <string name="date_picker_lunar">سالنامه سنتی چینی</string>
+    <string name="date_time_picker_dialog_title">تنظیم تاریخ و ساعت</string>
     <string name="detect_sim_card">جستجو برای سیم‌کارت</string>
-    <string name="disable_find_device_error">«نمی‌توان یافتن دستگاه را خاموش کرد. »%1$s</string>
+    <string name="device_activation_card_cannot_get_yet">"Couldn't get info. Try again in 3-5 days."</string>
+    <string name="device_activation_card_description">"First activation is registered when a device connects to the network (including but not limited to Wi-Fi and mobile networks) for the first time. It normally takes a while to register first activation, so it's better to wait for 3-5 days after connecting to the network before checking activation status.&lt;br>&lt;br>Device activation is the main factor in determining the validity period of our extended warranty. Check our &lt;a href=%1$s>Return, Exchange, and Repair Policy&lt;/a> for more details.&lt;br>&lt;br>Feel free to call our customer support hotline if you have any questions: 400-100-5678."</string>
+    <string name="device_activation_card_description_china">"First activation is registered when a device connects to the network (including but not limited to WLAN and mobile networks) for the first time. It normally takes a while to register first activation, so it's better to wait for 3-5 days after connecting to the network before checking activation status.&lt;br>&lt;br>Device activation is the main factor in determining the validity period of our extended warranty. Check our &lt;a href=%1$s>Return, Exchange, and Repair Policy&lt;/a> for more details.&lt;br>&lt;br>Feel free to call our customer support hotline if you have any questions: 400-100-5678."</string>
+    <string name="device_activation_card_device_not_support">روی این دستگاه قابل پشتیبانی نیست</string>
+    <string name="device_activation_card_local_service_error">اطلاعات دریافت نشد. یک یا دو دقیقه صبر کرده و دوباره تلاش کنید.</string>
+    <string name="device_activation_card_no_network_error">به شبکه وصل نشد. تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید.</string>
+    <string name="device_activation_card_title">فعال‌سازی نخستین</string>
+    <string name="device_activation_page_title">فعال‌سازی دستگاه</string>
     <string name="do_not_merge">لغو</string>
-    <string name="enable_find_device_error">«نمی‌توان یافتن دستگاه را روشن کرد. »%1$s</string>
+    <string name="early_morning">صبح</string>
+    <string name="empty" />
     <string name="enable_find_device_success">یافتن دستگاه روشن است.</string>
     <string name="enable_micloud">وارد حساب شده تا از فضای ابری Xiaomi استفاده کنید</string>
     <string name="enable_sync_setting_title">درحال پیکربندی خدمات فضای ابری…</string>
+    <string name="eras_ad">میلادی</string>
+    <string name="eras_bc">پیش از میلاد</string>
     <string name="error_canceled">لغو شد</string>
     <string name="error_credential_fail">خطای رمز عبور</string>
     <string name="error_data_in_transfer">همگام‌سازی در %s ساعت پایان خواهد یافت.</string>
@@ -80,22 +100,79 @@
     <string name="error_token_expired">دوباره به حساب کاربری حساب Mi خود وارد شوید</string>
     <string name="error_unknown">نمی‌توان به حساب کاربری وارد شد</string>
     <string name="error_unsupported">از این ویژگی در این دستگاه پشتیبانی نمی‌شود</string>
+    <string name="evening">بعد از ظهر</string>
     <string name="feedback_custom_hint">مشکلی که با آن روبرو شده‌اید را توضیح دهید. اگر پیشنهادی دارید ممنون می‌شویم جزئیات بیشتری ارائه دهید!</string>
     <string name="find_device">یافتن دستگاه</string>
     <string name="find_device_dspt_provision">در صورت گم کردن دستگاه می‌توانید به &lt;font color=#0097FF>%s&lt;/font> رفته تا آن را یافته، قفل نموده و یا بازنشانی کنید. این ویژگی را هر زمانی می‌توانید در تنظیمات روشن یا خاموش کنید.</string>
-    <string name="find_device_error_network">اتصال اینترنت خود را بررسی و دوباره تلاش کنید.</string>
-    <string name="find_device_error_server">خطای سرور</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">با روشن کردن یافتن دستگاه، شما <a href="app://com.miui.cloudservice.gdpr.license"><u> سیاست حفظ حریم خصوصی</u></a> ما را می‌پذیرید. در صورتی که نیاز به لغو این مجوز دارید، این ویژگی را خاموش کنید.</string>
     <string name="find_device_operation_failure_rpc">عملیات به دلیل خطای RPC انجام نشد.</string>
     <string name="find_device_send_sms_alert">اگر سیم‌کارت خود را تغییر دهید، برای فعال کردن این کارایی ممکن است پیام کوتاه دیگری به‌طور خودکار ارسال شود.</string>
     <string name="find_device_service_title">یافتن دستگاه</string>
-    <string name="find_device_status_summary">مکان‌یابی، قفل و همچنین پاک‌سازی داده‌ها از راه دور</string>
+    <string name="find_device_status_summary">مکان‌یابی و قفل دستگاه، پاک‌سازی داده‌ها یا گرفتن عکس از راه دور</string>
     <string name="find_device_status_title_pad">یافتن دستگاه</string>
     <string name="find_device_status_title_phone">یافتن دستگاه</string>
     <string name="finddevice_miservice_notification_content">در صورت گم شدن دستگاهتان آن را از راه دور قفل کنید</string>
     <string name="finddevice_miservice_notification_title">روشن کردن یافتن دستگاه</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
+    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_long_month">MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_year_month">MMMM yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
+    <string name="fmt_date_numeric_year">yyyy</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_short_year_month">MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">h a</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'م.ث'"</string>
+    <string name="fmt_time_minute">"m'دق'"</string>
+    <string name="fmt_time_minute_second">"m'دق' و s'ث'"</string>
+    <string name="fmt_time_minute_second_millis">"m'دق' و s.S'ث'"</string>
+    <string name="fmt_time_second">"s'ث'"</string>
+    <string name="fmt_time_second_millis">"s.S'ث'"</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_weekday_long">EEEE</string>
+    <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="forget_password"><u>گذرواژه را فراموش کرده‌ام</u></string>
+    <string name="friday">جمعه</string>
+    <string name="friday_short">جمعه</string>
+    <string name="friday_shortest">جمع</string>
     <string name="help_and_feedback">راهنمایی و بازخورد</string>
+    <string name="hybrid_provider">ارائه شده توسط %1$s</string>
     <string name="i_know">تأیید</string>
     <string name="input_password_hint">گذرواژه را وارد کنید</string>
     <string name="internet_access_dspt">این برنامه باید به اینترنت وصل باشد تا به‌طور عادی کار کند.</string>
@@ -131,6 +208,7 @@
     <string name="ks_fingerprint_status">وضعیت پرداخت</string>
     <string name="ks_name_alipay">IFAA</string>
     <string name="ks_name_fido">FIDO</string>
+    <string name="ks_name_high_precise_position">high precise position</string>
     <string name="ks_name_passpoint">Wi-Fi Passpoint</string>
     <string name="ks_name_soter">Soter</string>
     <string name="ks_name_widevine">Widevine (L1)</string>
@@ -145,7 +223,7 @@
     <string name="ks_update_wait">چند لحظه صبر کنید…</string>
     <string name="last_sync_time_just_now">چند لحظه پیش</string>
     <string name="last_sync_time_yesterday">دیروز</string>
-    <string name="license_host_unreachable">نمی‌توان به شبکه متصل شد. برای مشاهده این اطلاعات، همین الان به %s بروید.</string>
+    <string name="license_host_unreachable">نمی‌توان به شبکه متصل شد. برای نمایش این اطلاعات، همین الان به %s بروید.</string>
     <string name="loading">چند لحظه صبر کنید…</string>
     <string name="loading_enable_keybag">در حال روشن کردن مدیریت گذرواژه…</string>
     <string name="loading_server_key_info">درحال بارگذاری موارد…</string>
@@ -176,12 +254,9 @@
     <string name="mi_drive_summary">دسترسی به اسناد از فضای ابری Xiaomi در چندین دستگاه</string>
     <string name="mi_drive_title">Mi Drive</string>
     <string name="micloud_alert_dialog_positive">تأیید</string>
-    <string name="micloud_all_sub_1_intl_sms">پیام کوتاه بین‌المللی برای فعال‌سازی سیم‌کارت شما ارسال خواهد شد. هزینه آن توسط شرکت مخابرات از شما دریافت خواهد شد.</string>
-    <string name="micloud_all_sub_1_sms">یک پیام کوتاه عادی برای فعال‌سازی سیم‌کارت شما ارسال خواهد شد. هزینه آن توسط شرکت مخابرات از شما دریافت خواهد شد.</string>
-    <string name="micloud_all_sub_1_sms_1_intl_sms">2 پیام متنی (عادی و بین‌المللی) برای فعال‌سازی سیم‌کارت شما ارسال خواهد شد. هزینه آن توسط شرکت مخابرات از شما دریافت خواهد شد.</string>
-    <string name="micloud_all_sub_2_intl_sms">2 پیام متنی بین‌المللی برای فعال‌سازی سیم‌کارت شما ارسال خواهد شد. هزینه آن توسط شرکت مخابرات از شما دریافت خواهد شد.</string>
-    <string name="micloud_all_sub_2_sms">2 پیام متنی عادی برای فعال‌سازی سیم‌کارت شما ارسال خواهد شد. هزینه آن توسط شرکت مخابرات از شما دریافت خواهد شد.</string>
-    <string name="micloud_all_sub_resend_sms">هنگامی که «یافتن دستگاه» را روشن می‌کنید، ممکن است پس از تعویض سیم‌کارت‌ها یک پیام کوتاه فعال‌سازی برای شما فرستاده شود.</string>
+    <string name="micloud_all_sub_resend_common_sms_with_charge_hint">برای روشن کردن یافتن دستگاه و خدمات فضای ابری Xiaomi‏، &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی&lt;/b>&lt;/font> به صورت خودکار ارسال خواهد شد.&lt;br/>هنگام تعویض سیم‌کارت‌ها، برای فعال‌سازی دوباره &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی&lt;/b>&lt;/font> به صورت خودکار ارسال خواهد شد.&lt;br/>همه هزینه‌های پیامکی ایجاد شده به وسیله اقدامات انجام گرفته بالا توسط کارور شما دریافت خواهد شد. Xiaomi بابت این پیام‌ها از شما هزینه‌ای دریافت نخواهد کرد.</string>
+    <string name="micloud_all_sub_resend_domestic_sms_with_charge_hint">برای روشن کردن یافتن دستگاه و خدمات فضای ابری Xiaomi‏، &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی داخلی&lt;/b>&lt;/font> به صورت خودکار ارسال خواهد شد.&lt;br/>هنگام تعویض سیم‌کارت‌ها، برای فعال‌سازی دوباره &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی داخلی&lt;/b>&lt;/font> به صورت خودکار ارسال خواهد شد.&lt;br/>همه هزینه‌های پیامکی ایجاد شده به وسیله اقدامات انجام گرفته بالا توسط کارور شما دریافت خواهد شد. Xiaomi بابت این پیام‌ها از شما هزینه‌ای دریافت نخواهد کرد.</string>
+    <string name="micloud_all_sub_resend_inter_sms_with_charge_hint">برای روشن کردن یافتن دستگاه و خدمات فضای ابری Xiaomi‏، &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی بین‌المللی&lt;/b>&lt;/font> به صورت خودکار ارسال خواهد شد.&lt;br/>هنگام تعویض سیم‌کارت‌ها، برای فعال‌سازی دوباره &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی بین‌المللی&lt;/b>&lt;/font> به صورت خودکار ارسال خواهد شد.&lt;br/>همه هزینه‌های پیامکی ایجاد شده به وسیله اقدامات انجام گرفته بالا توسط کارور شما دریافت خواهد شد. Xiaomi بابت این پیام‌ها از شما هزینه‌ای دریافت نخواهد کرد.</string>
     <string name="micloud_battery_low_notification_message">برای همگام‌سازی شارژر را وصل کنید</string>
     <string name="micloud_battery_low_notification_title">باتری ضعیف است</string>
     <string name="micloud_buy_member_safe">حافظه فضای ابری بیشتری بگیرید</string>
@@ -198,7 +273,7 @@
     <string name="micloud_confusion_cancel">لغو</string>
     <string name="micloud_confusion_check_account_title">برای فعال‌سازی دوباره فضای ابری Xiaomi، وارد حساب Mi خود شوید.</string>
     <string name="micloud_confusion_entrance_hint">با دستگاه‌های عمومی وارد حساب Mi خود نشوید</string>
-    <string name="micloud_confusion_entrance_notify_text">برای مشاهده جزئیات ضربه بزنید.</string>
+    <string name="micloud_confusion_entrance_notify_text">برای نمایش جزئیات ضربه بزنید.</string>
     <string name="micloud_confusion_entrance_notify_title">دستگاه دیگری درحال اصلاح حساب شماست</string>
     <string name="micloud_confusion_entrance_question">آیا به تازگی حساب Mi خود را با استفاده از یک %s اصلاح کردید؟</string>
     <string name="micloud_confusion_entrance_title">اطلاعات اصلاح شد</string>
@@ -217,20 +292,18 @@
     <string name="micloud_confusion_yes">بله</string>
     <string name="micloud_detail_fail">همگام‌سازی نمی‌شود</string>
     <string name="micloud_detail_query_error">حالت همگام‌سازی فراهم نمی‌شود</string>
-    <string name="micloud_dspt">"مخاطبین، پیام‌ها، تاریخچه تماس و موارد دیگر را در بین همه دستگاه‌های خود همگام‌سازی کنید.
-در صورت گم شدن دستگاهتان آن را مکان‌یابی و قفل کنید."</string>
     <string name="micloud_dspt_provision">از فضای ابری Xiaomi برای همگام‌سازی داده‌ها، پیدا کردن دستگاه خود و اشتراک‌گذاری موارد با دوستان استفاده کنید.</string>
     <string name="micloud_dspt_provision_china">Use Xiaomi Cloud to sync data, locate your device, and share things with friends.</string>
     <string name="micloud_dspt_provision_china_v2">Use Xiaomi Cloud to sync data, locate your device, and share things with friends.</string>
     <string name="micloud_dspt_provision_v2">از فضای ابری Xiaomi برای همگام‌سازی داده‌ها، پیدا کردن دستگاه خود و اشتراک‌گذاری موارد با دوستان استفاده کنید.</string>
-    <string name="micloud_dspt_provision_xms">از فضای ابری Xiaomi برای همگام‌سازی داده‌ها استفاده کنید.</string>
-    <string name="micloud_dspt_provision_xms_china">Use Xiaomi Cloud to sync data.</string>
     <string name="micloud_find_device_close_alert_content">در صورتی که یافتن دستگاه را خاموش کنید، دیگر نمی‌توانید با این ویژگی دستگاه خود را مکان‌یابی کنید. اگر دستگاه شما از NFC پشتیبانی می‌کند، تمامی کارت‌های بانکی و کارت‌های کلیدی شما از پرداخت Mi حذف خواهند شد. افرادی که موقعیت شما با آن‌ها هم‌رسانی می‌شود نیز نمی‌توانند مکان‌های شما را به روز کنند.</string>
     <string name="micloud_find_device_close_alert_negtive">درهرصورت خاموش شود</string>
     <string name="micloud_find_device_close_alert_positive">روشن بماند</string>
     <string name="micloud_find_device_close_alert_title">یافتن دستگاه خاموش شود؟</string>
     <string name="micloud_find_device_close_fail">یابنده دستگاه خاموش نشد</string>
     <string name="micloud_find_device_close_progress">درحال خاموش کردن یافتن دستگاه…</string>
+    <string name="micloud_find_device_common_sms_alert_with_charge_hint">برای فعال‌سازی این خدمات &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی&lt;/b>&lt;/font> به صورت خودکار ارسال خواهد شد.&lt;br/>هنگام تعویض سیم‌کارت‌ها، برای فعال‌سازی دوباره &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی&lt;/b>&lt;/font> به صورت خودکار ارسال خواهد شد.&lt;br/>همه هزینه‌های پیامکی ایجاد شده به وسیله اقدامات انجام گرفته بالا توسط کارور شما دریافت خواهد شد. Xiaomi بابت این پیام‌ها از شما هزینه‌ای دریافت نخواهد کرد.</string>
+    <string name="micloud_find_device_domestic_sms_alert_with_charge_hint">برای فعال‌سازی این خدمات &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی داخلی&lt;/b>&lt;/font> به صورت خودکار ارسال خواهد شد.&lt;br/> هنگام تعویض سیم‌کارت‌ها، برای فعال‌سازی دوباره &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی داخلی&lt;/b>&lt;/font> به صورت خودکار ارسال خواهد شد.&lt;br/>همه هزینه‌های پیامکی ایجاد شده به وسیله اقدامات انجام گرفته بالا توسط کارور شما دریافت خواهد شد. Xiaomi بابت این پیام‌ها از شما هزینه‌ای دریافت نخواهد کرد.</string>
     <string name="micloud_find_device_finish">انجام شد</string>
     <string name="micloud_find_device_guide_alert_content">یافتن دستگاه با حساب Mi شما مرتبط شده است. شما لازم است یک گذرواژه تنظیم کرده یا گذرواژه‌ای را که تنظیم کرده‌اید وارد کنید. مطمئن شوید که همیشه شناسه حساب Mi و گذرواژه خود را به یاد سپرده‌اید.</string>
     <string name="micloud_find_device_guide_alert_negtive">خیر، سپاسگزارم</string>
@@ -241,9 +314,6 @@
     <string name="micloud_find_device_guide_desc_pad">در صورت گم شدن دستگاه‌تان، از هر دستگاهی به &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> رفته و وارد حساب خود شده تا دستگاه گم شده را مکان‌یابی، از راه دور قفل و یا داده‌های آن را پاک کنید. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>نمایش جزئیات&lt;/a>.</string>
     <string name="micloud_find_device_guide_desc_phone">در صورت گم شدن دستگاه‌تان، از هر دستگاهی به &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> رفته و وارد حساب خود شده تا دستگاه گم شده را مکان‌یابی، از راه دور قفل و یا داده‌های آن را پاک کنید. &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>نمایش جزئیات&lt;/a>.</string>
     <string name="micloud_find_device_guide_fail_reopen">شما می‌توانید یافتن دستگاه را در حساب Mi - فضای ابری Xiaomi روشن کنید</string>
-    <string name="micloud_find_device_guide_fail_sub_net">اتصال شبکه خود را بررسی کرده و دوباره امتحان کنید.</string>
-    <string name="micloud_find_device_guide_micloud_sub_content">همگام‌سازی مخاطبین، عکس‌ها، یادداشت‌ها و بیشتر با فضای ابری Xiaomi</string>
-    <string name="micloud_find_device_guide_micloud_sub_content_v2">همگام‌سازی مخاطبین، عکس‌ها، یادداشت‌ها و بیشتر با فضای ابری Xiaomi</string>
     <string name="micloud_find_device_guide_noti_content">از داده‌های خود حتی هنگامی که دستگاه شما گم شده است محافظت کنید</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_qq">داده‌های QQ شما حتی هنگامی که دستگاه خود را گم کرده باشید در امان خواهند بود</string>
     <string name="micloud_find_device_guide_noti_content_by_app_change_wx">داده‌های WeChat شما حتی هنگامی که دستگاه خود را گم کرده باشید در امان خواهند بود</string>
@@ -254,14 +324,17 @@
     <string name="micloud_find_device_guide_noti_title_by_app_change_zfb">‫Alipay به شما توصیه می‌کند یافتن دستگاه را روشن کنید</string>
     <string name="micloud_find_device_guide_progress">درحال روشن کردن یافتن دستگاه…</string>
     <string name="micloud_find_device_guide_title">با حساب Mi خود وارد &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> شده تا دستگاه خود را مکان‌یابی و قفل کرده، آن را به عنوان گم شده علامت‌گذاری کرده یا داده‌ها را از راه دور پاک کنید. جزئیات را در &lt;a href=micloud://com.miui.cloudservice/helpcenter?type=finddevice>اینجا&lt;/a> ببینید.</string>
+    <string name="micloud_find_device_inter_sms_alert_with_charge_hint">برای فعال‌سازی این خدمات &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی بین‌المللی&lt;/b>&lt;/font> به صورت خودکار ارسال خواهد شد.&lt;br/>هنگام تعویض سیم‌کارت‌ها، برای فعال‌سازی دوباره &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی بین‌المللی&lt;/b>&lt;/font> به صورت خودکار ارسال خواهد شد.&lt;br/>همه هزینه‌های پیامکی ایجاد شده به وسیله اقدامات انجام گرفته بالا توسط کارور شما دریافت خواهد شد. Xiaomi بابت این پیام‌ها از شما هزینه‌ای دریافت نخواهد کرد.</string>
     <string name="micloud_find_device_open_fail">یافتن دستگاه روشن نشد</string>
     <string name="micloud_find_device_opened">یافتن دستگاه روشن شد</string>
     <string name="micloud_find_device_opened_content">یافتن دستگاه شما در %s</string>
-    <string name="micloud_find_device_sms_alert">ممکن است یک پیامک ارسالی برای فعال‌سازی این خدمات لازم باشد. شرکت مخابراتی شما بابت این پیام از شما هزینه دریافت خواهد کرد. هنگامی که سیم‌کارت را تعویض می‌کنید، ممکن است یک پیام به صورت خودکار برای فعال‌سازی این ویژگی ارسال شود.</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_button">فعال‌سازی دوباره یافتن دستگاه</string>
     <string name="micloud_find_device_verify_close">خاموش کردن یافتن دستگاه</string>
     <string name="micloud_find_device_verify_fail">یافتن دستگاه دوباره فعال نشد</string>
     <string name="micloud_find_device_verify_progress">درحال فعال‌سازی دوباره یافتن دستگاه…</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">همگام‌سازی لغو شده بود. دوباره تلاش کنید.</string>
     <string name="micloud_main_head_menu_cloud_backup">نسخه پشتیبان صفحه اصلی</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">تنظیمات سیستم و چیدمان صفحه اصلی</string>
@@ -273,12 +346,9 @@
     <string name="micloud_main_head_menu_state_open">روشن</string>
     <string name="micloud_main_head_menu_state_unavailable">پشتیبانی نشده</string>
     <string name="micloud_main_manual_sync">همگام‌سازی به صورت دستی</string>
-    <string name="micloud_main_memory_low_title">حافظه داخلی گوشی تقریباً پر است</string>
     <string name="micloud_main_network_error">نمی‌توان به شبکه متصل شد</string>
     <string name="micloud_main_sync_mode_summary">داده‌های برنامه را در زمان واقعی همگام‌سازی می‌کند. هنگام روشن بودن این ویژگی مصرف برق افزایش می‌یابد.</string>
     <string name="micloud_main_sync_mode_title">همگام‌سازی سریع</string>
-    <string name="micloud_main_wait_charge">برای ادامه همگام‌سازی، دستگاه خود را کامل شارژ کنید.</string>
-    <string name="micloud_main_wait_charge_sleep">برای ادامه همگام‌سازی، نمایشگر را خاموش کرده و دستگاه خود را کامل شارژ کنید.</string>
     <string name="micloud_manage_space_data">مدیریت داده‌های فضای ابری</string>
     <string name="micloud_manaul_sync_success_button_text">نمایش جزئیات</string>
     <string name="micloud_manaul_sync_success_time_prefix">آخرین همگام‌سازی: %s</string>
@@ -290,14 +360,16 @@
     <string name="micloud_manual_buy_vip">حافظه بیشتری دریافت کنید</string>
     <string name="micloud_manual_cloud_storage_full_button_text">حافظه بیشتری دریافت کنید</string>
     <string name="micloud_manual_cloud_storage_full_summary">عکس‌ها، مخاطبین و سایر موارد همگام‌سازی نمی‌شوند. طرح خود را ارتقاء داده و یا فضای ذخیره سازی را آزاد کنید.</string>
-    <string name="micloud_manual_cloud_storage_full_title">همگام‌سازی نشد. حافظه کافی در فضای ابری Xiaomi شما موجود نیست.</string>
+    <string name="micloud_manual_cloud_storage_full_title">همگام‌سازی نمی‌شود. حافظه فضای ابری Xiaomi کافی نیست.</string>
     <string name="micloud_manual_cloud_storage_low_button_text">حافظه بیشتری دریافت کنید</string>
     <string name="micloud_manual_cloud_storage_low_summary">حافظه فضای ابری درحال تمام شدن است</string>
     <string name="micloud_manual_cloud_storage_low_title">همگام‌سازی شد</string>
     <string name="micloud_manual_grant_permission">اجازه دادن</string>
     <string name="micloud_manual_local_storage_low_button_text">پاک‌سازی</string>
     <string name="micloud_manual_local_storage_low_summary">فضای ذخیره‌سازی را آزاد کرده و سپس دوباره تلاش کنید.</string>
-    <string name="micloud_manual_local_storage_low_title">همگام‌سازی نشد. حافظه کافی در دستگاه شما موجود نیست.</string>
+    <string name="micloud_manual_local_storage_low_summary_pad">فضای ذخیره‌سازی را آزاد کرده و سپس دوباره تلاش کنید.</string>
+    <string name="micloud_manual_local_storage_low_title">همگام‌سازی نمی‌شود. حافظه موجود در دستگاه کافی نیست.</string>
+    <string name="micloud_manual_local_storage_low_title_pad">همگام‌سازی نمی‌شود. حافظه کافی در دستگاه شما موجود نیست.</string>
     <string name="micloud_manual_network_disconnet_button_text">تنظیمات شبکه را بررسی کنید</string>
     <string name="micloud_manual_network_disconnet_title">به دلیل خطای شبکه همگام‌سازی نشد</string>
     <string name="micloud_manual_paused">مکث شد</string>
@@ -351,6 +423,10 @@
     <string name="micloud_proceed">ادامه</string>
     <string name="micloud_request_permission_confirm">فهمیدم</string>
     <string name="micloud_request_permission_content">به منظور همگام‌سازی رویدادهای سالنامه، مخاطبین، پیام‌ها، تاریخچه تماس، عکس‌ها، ویدئوها و سایر موارد، فضای ابری Xiaomi برای دسترسی به سالنامه، مخاطبین، حساب‌ها، وضعیت سیم‌کارت، تاریخچه تماس، پیام‌ها، عکس‌ها و ویدئوها نیاز به مجوز دارد.</string>
+    <string name="micloud_request_permission_content_pad">به منظور همگام‌سازی رویدادهای سالنامه، مخاطبین، پیام‌ها، عکس‌ها، ویدئوها و سایر موارد، فضای ابری Xiaomi برای دسترسی به سالنامه، مخاطبین، حساب‌ها، وضعیت سیم‌کارت، پیام‌ها، عکس‌ها و ویدئوها نیاز به مجوز دارد.</string>
+    <string name="micloud_request_permission_content_pad_without_contact_but_sim">به منظور همگام‌سازی رویدادهای سالنامه، پیام‌ها، عکس‌ها، ویدئوها و سایر موارد، فضای ابری Xiaomi برای دسترسی به سالنامه، حساب‌ها، وضعیت سیم‌کارت، پیام‌ها، عکس‌ها و ویدئوها نیاز به مجوز دارد.</string>
+    <string name="micloud_request_permission_content_pad_without_sim_but_contact">به منظور همگام‌سازی رویدادهای سالنامه، مخاطبین، عکس‌ها، ویدئوها و سایر موارد، فضای ابری Xiaomi برای دسترسی به سالنامه، مخاطبین، حساب‌ها، عکس‌ها و ویدئوها نیاز به مجوز دارد.</string>
+    <string name="micloud_request_permission_content_pad_without_sim_or_contact">به منظور همگام‌سازی رویدادهای سالنامه، عکس‌ها، ویدئوها و سایر موارد، فضای ابری Xiaomi برای دسترسی به سالنامه، حساب‌ها، عکس‌ها و ویدئوها نیاز به مجوز دارد.</string>
     <string name="micloud_request_permission_title">فضای ابری Xiaomi به مجوز نیاز دارد</string>
     <string name="micloud_request_sync_too_frequent">تلاش‌ها بیش از حد شد. چند دقیقه صبر کرده و دوباره تلاش کنید.</string>
     <string name="micloud_setting_antispam_summary">موارد استثنا و شماره تلفن‌های مسدود شده</string>
@@ -384,15 +460,17 @@
     <string name="micloud_storage_unit_gb">%s گ.ب</string>
     <string name="micloud_storage_unit_mb">%s م.ب</string>
     <string name="micloud_sync_alert_dialog_message">عکس‌ها، مخاطبین، یادداشت‌ها، و سایر موارد را در بین تمام دستگاه‌های خود همگام‌سازی کنید.</string>
+    <string name="micloud_sync_alert_dialog_message_pad">عکس‌ها، یادداشت‌ها و سایر موارد را در تمام دستگاه‌های خود همگام‌سازی کنید.</string>
     <string name="micloud_sync_alert_dialog_message_v2">عکس‌ها، مخاطبین، یادداشت‌ها، و سایر موارد را در بین تمام دستگاه‌های خود همگام‌سازی کنید.</string>
     <string name="micloud_sync_alert_dialog_negative">لغو</string>
     <string name="micloud_sync_alert_dialog_positive">تأیید</string>
     <string name="micloud_sync_alert_dialog_title">استفاده از فضای ابری Xiaomi</string>
     <string name="micloud_sync_prompt_for_no_gallery_sync">فقط مخاطبین، رویدادهای سالنامه و یادداشت‌ها همگام‌سازی می‌شوند. برای همگام‌سازی موارد بیشتر به تنظیمات فضای ابری Xiaomi بروید.</string>
+    <string name="micloud_sync_prompt_for_no_gallery_sync_pad">فقط رویدادهای سالنامه و یادداشت‌ها همگام‌سازی می‌شوند. برای همگام‌سازی موارد بیشتر به تنظیمات فضای ابری Xiaomi بروید.</string>
     <string name="micloud_sync_result_already_in_progress">درحال پردازش همگام‌سازی پیشین…</string>
     <string name="micloud_sync_result_auth_exception">خطای حساب</string>
     <string name="micloud_sync_result_cancel">همگام‌سازی قطع شد</string>
-    <string name="micloud_sync_result_cloud_storage_full">همگام‌سازی نشد. حافظه کافی در فضای ابری Xiaomi شما موجود نیست.</string>
+    <string name="micloud_sync_result_cloud_storage_full">همگام‌سازی نمی‌شود. حافظه فضای ابری Xiaomi کافی نیست.</string>
     <string name="micloud_sync_result_common_message">همگام‌سازی قطع شد. دوباره تلاش کنید.</string>
     <string name="micloud_sync_result_cta_permission_error">برای همگام‌سازی اجازه اتصال به شبکه را بدهید</string>
     <string name="micloud_sync_result_get_sim_info_error">اطلاعات سیم‌کارت دریافت نشد. چند دقیقه صبر کرده و سپس دوباره تلاش کنید.</string>
@@ -416,6 +494,7 @@
     <string name="micloud_wipe_data_confirm_title">برخی موارد از برنامه‌های زیر با فضای ابری Xiaomi همگام‌سازی شده‌اند. می‌توانید آن‌ها را از این دستگاه حذف کرده و همچنان در فضای ابری نگه دارید.</string>
     <string name="micloud_wipe_data_remove">حذف</string>
     <string name="micloud_wipe_data_retain">نگه داشتن</string>
+    <string name="midnight">شب</string>
     <string name="midrive_guide1_desc">برای آزاد کردن فضای ذخیره‌سازی در دستگاه خود، از موارد موجود درفضای ابری پشتیبان‌گیری کنید.</string>
     <string name="midrive_guide1_title">پشتیبان‌گیری امن</string>
     <string name="midrive_guide2_desc">موارد را با سرعت فوق‌العاده دانلود کنید.</string>
@@ -425,6 +504,69 @@
     <string name="midrive_guide_btn_install">نصب Mi Drive</string>
     <string name="midrive_guide_btn_installed">باز کردن Mi Drive</string>
     <string name="midrive_guide_btn_installing">در حال نصب…</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
+    <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
+    <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">بیشتر</string>
+    <string name="miuix_appcompat_cancel_description">لغو</string>
+    <string name="miuix_appcompat_confirm_description">تأیید</string>
+    <string name="miuix_appcompat_delete_description">حذف</string>
+    <string name="miuix_appcompat_deselect_all">لغو انتخاب</string>
+    <string name="miuix_appcompat_deselect_all_description">لغو انتخاب همه</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">لغو</string>
+    <string name="miuix_appcompat_search_input_description">جستجو</string>
+    <string name="miuix_appcompat_select_all">انتخاب همه</string>
+    <string name="miuix_appcompat_select_all_description">انتخاب همه</string>
+    <string name="miuix_appcompat_select_item">انتخاب موارد</string>
+    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">برای تازه‌سازی پایین بکشید</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshed">با موفقیت تازه‌سازی شد</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">در حال تازه سازی…</string>
+    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">برای تازه سازی رها کنید</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_nodata">به پایان صفحه رسیدید</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_none">به پایان صفحه رسیدید</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">چند لحظه صبر کنید…</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">موارد بارگذاری نشدند</string>
+    <string name="monday">دوشنبه</string>
+    <string name="monday_short">دوشنبه</string>
+    <string name="monday_shortest">دوشنبه</string>
+    <string name="month_april">آوریل</string>
+    <string name="month_april_short">آوریل</string>
+    <string name="month_april_shortest">آوریل</string>
+    <string name="month_august">آگوست</string>
+    <string name="month_august_short">آگوست</string>
+    <string name="month_august_shortest">آگوست</string>
+    <string name="month_december">دسامبر</string>
+    <string name="month_december_short">دسامبر</string>
+    <string name="month_december_shortest">دسامبر</string>
+    <string name="month_february">فوریه</string>
+    <string name="month_february_short">فوریه</string>
+    <string name="month_february_shortest">فوریه</string>
+    <string name="month_january">ژانویه</string>
+    <string name="month_january_short">ژانویه</string>
+    <string name="month_january_shortest">ژانویه</string>
+    <string name="month_july">جولای</string>
+    <string name="month_july_short">جولای</string>
+    <string name="month_july_shortest">جولای</string>
+    <string name="month_june">ژوئن</string>
+    <string name="month_june_short">ژوئن</string>
+    <string name="month_june_shortest">ژوئن</string>
+    <string name="month_march">مارس</string>
+    <string name="month_march_short">مارس</string>
+    <string name="month_march_shortest">مارس</string>
+    <string name="month_may">مه</string>
+    <string name="month_may_short">مه</string>
+    <string name="month_may_shortest">مه</string>
+    <string name="month_november">نوامبر</string>
+    <string name="month_november_short">نوامبر</string>
+    <string name="month_november_shortest">نوامبر</string>
+    <string name="month_october">اکتبر</string>
+    <string name="month_october_short">اکتبر</string>
+    <string name="month_october_shortest">اکتبر</string>
+    <string name="month_september">سپتامبر</string>
+    <string name="month_september_short">سپتامبر</string>
+    <string name="month_september_shortest">سپتامبر</string>
+    <string name="more">بیشتر</string>
+    <string name="morning">صبح</string>
     <string name="mx_dspt">پیام‌رسان Mi</string>
     <string name="mx_dspt_provision">"پیام‌رسان Mi به شما این امکان را می‌دهد تا هنگام اتصال به Wi-Fi بدون تحمل هزینه، به دیگر دستگاه‌های MIUI پیام بفرستید.
 
@@ -438,12 +580,15 @@
     <string name="mx_dspt_provision_privacy_no_sim">"این ویژگی ممکن است نیازمند شماره تلفن شما باشد. هنگامی که سیم‌کارت شناسایی شود ممکن است یک پیامک خروجی برای فعال‌کردن این خدمات لازم باشد. شرکت مخابراتی شما برای این پیامک از شما هزینه دریافت خواهد کرد.
 
 این ویژگی، شناسه دستگاه شما را رمزگذاری کرده و به سرورهای Mi ارسال خواهد کرد."</string>
-    <string name="mx_dspt_provision_with_voip">با استفاده از اتصال به اینترنت با دیگر دستگاه‌های MIUI تماس رایگان برقرار کنید. شما می‌توانید این ویژگی را در بخش تنظیمات در هر زمانی روشن یا خاموش کنید. VoIP توسط Wihui پیشتیبانی می‌شود. سیاست حفظ حریم خصوصی Weihui را مشاهده کنید</string>
+    <string name="mx_dspt_provision_with_voip">با استفاده از اتصال به اینترنت با دیگر دستگاه‌های MIUI تماس رایگان برقرار کنید. شما می‌توانید این ویژگی را در بخش تنظیمات در هر زمانی روشن یا خاموش کنید. VoIP توسط Wihui پیشتیبانی می‌شود. سیاست حفظ حریم خصوصی Weihui را نمایش کنید</string>
     <string name="mx_dspt_provision_with_voip2">سیاست حفظ حریم خصوصی</string>
     <string name="mx_sub_dspt_provision">پیام Mi</string>
     <string name="mx_sub_dspt_provision_with_voip">تماس اینترنتی</string>
     <string name="mx_voip_dspt">صدای Mi</string>
+    <string name="night">شب</string>
+    <string name="no_network">به شبکه متصل نشد</string>
     <string name="no_sim">سیم‌کارت یافت نشد</string>
+    <string name="noon">ظهر</string>
     <string name="notification_reinstall_key_text">شناسه خود را تأیید کرده و دوباره تلاش کنید</string>
     <string name="notification_sync_fail_title">همگام‌سازی انجام نشد</string>
     <string name="notification_update_key_text">رمز عبور شما تازه‌سازی شده بود</string>
@@ -454,6 +599,7 @@
     <string name="picker_list_empty">هیچ مخاطبی اینجا نیست</string>
     <string name="picker_search_empty">مخاطبی یافت نشد</string>
     <string name="picker_search_hint">جستجو</string>
+    <string name="pm">ب.ظ</string>
     <string name="power_off_locate_summary">"گزارش موقعیت با فشار دادن طولانی دکمه روشن/خاموش.
 هنگامی که اتصال به شبکه ضعیف است، ممکن است اطلاعات موقعیت مکانی گزارش نشود."</string>
     <string name="power_off_locate_title">گزارش موقعیت مکانی پیش از خاموش شدن</string>
@@ -469,24 +615,47 @@
     <string name="privacy_dialog_sync_all_purpose">به خدمات فضای ابری Xiaomi خوش آمدید! شما با استفاده از فضای ابری Xiaomi می‌توانید پیام‌ها، تاریخچه تماس، مخاطبین، یادداشت‌ها، تنظیمات مرورگر، آهنگ‌ها، عکس‌ها و ویدئوها، تنظیمات Wi-Fi، موارد ضبط شده، چیدمان صفحه اصلی، برنامه‌ها، رویدادهای سالنامه، موارد فهرست سیاه و قفسه برنامه خود را بین همه دستگاه‌های وصل شده‌ همگام‌سازی کنید.</string>
     <string name="privacy_dialog_sync_all_purpose_china">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
     <string name="privacy_dialog_sync_all_purpose_china_v2">Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad">به خدمات فضای ابری Xiaomi خوش آمدید! شما با استفاده از فضای ابری Xiaomi می‌توانید پیام‌ها، مخاطبین، یادداشت‌ها، تنظیمات مرورگر، عکس‌ها و ویدئوها، موارد ضبط شده، چیدمان صفحه اصلی، برنامه‌ها، رویدادهای سالنامه و موارد فهرست سیاه خود را بین همه دستگاه‌های وصل شده‌ همگام‌سازی کنید.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_contact_but_sim">به خدمات فضای ابری Xiaomi خوش آمدید! شما با استفاده از فضای ابری Xiaomi می‌توانید پیام‌ها، یادداشت‌ها، تنظیمات مرورگر، عکس‌ها و ویدئوها، موارد ضبط شده، چیدمان صفحه اصلی، برنامه‌ها، رویدادهای سالنامه و موارد فهرست سیاه خود را بین همه دستگاه‌های وصل شده‌ همگام‌سازی کنید.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_sim_but_contact">به خدمات فضای ابری Xiaomi خوش آمدید! شما با استفاده از فضای ابری Xiaomi می‌توانید مخاطبین، یادداشت‌ها، تنظیمات مرورگر، عکس‌ها و ویدئوها، موارد ضبط شده، چیدمان صفحه اصلی، برنامه‌ها، رویدادهای سالنامه و موارد فهرست سیاه خود را بین همه دستگاه‌های وصل شده‌ همگام‌سازی کنید.</string>
+    <string name="privacy_dialog_sync_all_purpose_pad_without_sim_or_contact">به خدمات فضای ابری Xiaomi خوش آمدید! شما با استفاده از فضای ابری Xiaomi می‌توانید یادداشت‌ها، تنظیمات مرورگر، عکس‌ها و ویدئوها، موارد ضبط شده، چیدمان صفحه اصلی، برنامه‌ها، رویدادهای سالنامه و موارد فهرست سیاه خود را بین همه دستگاه‌های وصل شده‌ همگام‌سازی کنید.</string>
     <string name="privacy_dialog_sync_all_purpose_v2">به خدمات فضای ابری Xiaomi خوش آمدید! شما با استفاده از فضای ابری Xiaomi می‌توانید پیام‌ها، تاریخچه تماس، مخاطبین، یادداشت‌ها، تنظیمات مرورگر، آهنگ‌ها، عکس‌ها و ویدئوها، تنظیمات Wi-Fi، موارد ضبط شده، چیدمان صفحه اصلی، برنامه‌ها، رویدادهای سالنامه، موارد فهرست سیاه و قفسه برنامه خود را بین همه دستگاه‌های وصل شده‌ همگام‌سازی کنید.</string>
-    <string name="privacy_doc_cloudservice">به خدمات فضای ابری Xiaomi خوش آمدید! شما می‌توانید از فضای ابری Xiaomi برای همگام‌سازی پیام‌ها، تاریخچه تماس، مخاطبین، یادداشت‌ها، تنظیمات مرورگر، آهنگ‌ها، عکس‌ها و ویدئوها، تنظیمات Wi-Fi، موارد ضبط شده، چیدمان صفحه اصلی، برنامه‌ها، رویدادهای سالنامه، موارد فهرست سیاه و قفسه برنامه بین همه دستگاه‌های وصل شده استفاده کنید. به مواردی که از هر مرورگری همگام‌سازی کردید در &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> دسترسی پیدا کنید.&lt;br />&lt;br />برای فعال‌سازی این خدمات ممکن است یک پیامک خروجی لازم شود. شرکت مخابراتی شما بابت این پیام از شما هزینه دریافت خواهد کرد. در صورت جابجایی سیم‌کارت خود، ممکن است پیامی به صورت خودکار برای فعال‌سازی دوباره این خدمات ارسال شود.&lt;br />&lt;br />ما بر اساس قوانین، مقررات و سیاست‌های حفظ حریم خصوصی مربوطه از اطلاعات شخصی شما محافظت می‌کنیم.&lt;br />برای کارکرد عادی، این خدمات نیاز به اتصال به اینترنت داشته و به منظور گردآوری اطلاعات شخصی نیازمند مجوزهای زیر است:&lt;br />• سالنامه:&lt;br />برای همگام‌سازی رویدادها&lt;br />• دسترسی به پیامک:&lt;br />برای همگام‌سازی پیام‌ها&lt;br />• دسترسی به MMS:&lt;br />برای همگام‌سازی پیام‌ها&lt;br />• دسترسی به مخاطبین:&lt;br />برای همگام‌سازی مخاطبین&lt;br />• ویرایش مخاطبین:&lt;br />برای همگام‌سازی مخاطبین&lt;br />• حافظه:&lt;br />برای ذخیره موارد در دستگاه شما (مانند تصاویر، ویدئوها، آهنگ‌ها)&lt;br />در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، دیگر نمی‌توانید از این خدمات استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که از این برنامه استفاده نکرده و یا مجوزها را در تنظیمات محدود کنید.&lt;br />پیش از استفاده از فضای ابری Xiaomi &lt;a href=%1$s>&lt;u>توافق‌نامه کاربر&lt;/u>&lt;/a> و &lt;a href=%2$s>&lt;u>سیاست حفظ حریم خصوصی&lt;/u>&lt;/a> ما را خوانده و بپذیرید.&lt;br /></string>
-    <string name="privacy_doc_cloudservice_china">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the things you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />An outgoing SMS message may be required to activate these services. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate these services.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos, songs)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%1$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%2$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using Xiaomi Cloud.&lt;br />"</string>
-    <string name="privacy_doc_cloudservice_china_v2">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, WLAN settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the things you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />An outgoing SMS message may be required to activate these services. Your carrier will charge you for this message. When you switch your SIM card, a message may be sent automatically to reactivate these services.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos, songs)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%1$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%2$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using Xiaomi Cloud.&lt;br />"</string>
-    <string name="privacy_doc_cloudservice_global">فضای ابری Xiaomi برای کارکرد عادی نیاز به اتصال به اینترنت دارد. ممکن است همگام‌سازی داده ها نیازمند استفاده از اینترنت همراه و روشن کردن Wi-Fi باشد. پیش از استفاده از خدمات فضای ابری Xiaomi، &lt;a href=%1$s>&lt;u> توافق‌نامه کاربر&lt;/u>&lt;/a> و &lt;a href=%2$s>&lt;u> سیاست حفظ حریم خصوصی&lt;/u>&lt;/a> را خوانده و با آن موافقت کنید.</string>
-    <string name="privacy_doc_finddevice_pad">به یافتن دستگاه خوش آمدید! در صورت گم شدن دستگاهتان شما می‌توانید با استفاده از این خدمات آن را مکان‌یابی یا قفل کرده و یا داده‌های آن را پاک کنید. با مراجعه به &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> نیز می‌توانید آن را مکان‌یابی، قفل و یا بازنشانی کنید.&lt;br />&lt;br />ما بر اساس قوانین، مقررات و سیاست‌های حفظ حریم خصوصی مربوطه از اطلاعات شخصی شما محافظت می‌کنیم.&lt;br />برای کارکرد عادی، این خدمات نیاز به اتصال به اینترنت داشته و به منظور گردآوری اطلاعات شخصی نیازمند مجوزهای زیر است:&lt;br />• دسترسی به اطلاعات دستگاه:&lt;br />برای شناسایی دستگاه&lt;br />• موقعیت:&lt;br />برای مکان‌یابی دستگاه شما و تعویض به حالت گم شده&lt;br />در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، دیگر نمی‌توانید از این خدمات استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که از این برنامه استفاده نکرده و یا مجوزها را در تنظیمات محدود کنید.&lt;br />پیش از استفاده از یافتن دستگاه Xiaomi &lt;a href=%1$s>&lt;u>توافق‌نامه کاربر&lt;/u>&lt;/a> و &lt;a href=%2$s>&lt;u>سیاست حفظ حریم خصوصی&lt;/u>&lt;/a> ما را خوانده و بپذیرید.&lt;br /></string>
-    <string name="privacy_doc_finddevice_phone">به یافتن دستگاه خوش آمدید! در صورت گم شدن دستگاهتان شما می‌توانید با استفاده از این خدمات آن را مکان‌یابی یا قفل کرده و یا داده‌های آن را پاک کنید. با مراجعه به &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> نیز می‌توانید آن را مکان‌یابی، قفل و یا بازنشانی کنید.&lt;br />&lt;br />ما بر اساس قوانین، مقررات و سیاست‌های حفظ حریم خصوصی مربوطه از اطلاعات شخصی شما محافظت می‌کنیم.&lt;br />برای کارکرد عادی، این خدمات نیاز به اتصال به اینترنت داشته و به منظور گردآوری اطلاعات شخصی نیازمند مجوزهای زیر است:&lt;br />• دسترسی به اطلاعات دستگاه:&lt;br />برای شناسایی دستگاه&lt;br />• موقعیت:&lt;br />برای مکان‌یابی دستگاه شما و تعویض به حالت گم شده&lt;br />در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، دیگر نمی‌توانید از این خدمات استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که از این برنامه استفاده نکرده و یا مجوزها را در تنظیمات محدود کنید.&lt;br />پیش از استفاده از یافتن دستگاه Xiaomi &lt;a href=%1$s>&lt;u>توافق‌نامه کاربر&lt;/u>&lt;/a> و &lt;a href=%2$s>&lt;u>سیاست حفظ حریم خصوصی&lt;/u>&lt;/a> ما را خوانده و بپذیرید.&lt;br /></string>
-    <string name="privacy_doc_finddevice_with_telephony_feature_pad">به یافتن دستگاه خوش آمدید! در صورت گم شدن دستگاهتان شما می‌توانید با استفاده از این خدمات آن را مکان‌یابی یا قفل کرده و یا داده‌های آن را پاک کنید. با مراجعه به &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> نیز می‌توانید آن را مکان‌یابی، قفل و یا بازنشانی کنید.&lt;br />&lt;br />برای فعال‌سازی این خدمات ممکن است یک پیامک خروجی لازم شود. شرکت مخابراتی شما بابت این پیام از شما هزینه دریافت خواهد کرد. در صورت جابجایی سیم‌کارت خود، ممکن است پیامی به صورت خودکار برای فعال‌سازی دوباره این خدمات ارسال شود.&lt;br />&lt;br />ما بر اساس قوانین، مقررات و سیاست‌های حفظ حریم خصوصی مربوطه از اطلاعات شخصی شما محافظت می‌کنیم.&lt;br />برای کارکرد عادی، این خدمات نیاز به اتصال به اینترنت داشته و به منظور گردآوری اطلاعات شخصی نیازمند مجوزهای زیر است:&lt;br />• دسترسی به اطلاعات دستگاه:&lt;br />برای شناسایی دستگاه&lt;br />• موقعیت:&lt;br />برای مکان‌یابی دستگاه شما و تعویض به حالت گم شده&lt;br />در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، دیگر نمی‌توانید از این خدمات استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که از این برنامه استفاده نکرده و یا مجوزها را در تنظیمات محدود کنید.&lt;br />پیش از استفاده از یافتن دستگاه Xiaomi &lt;a href=%1$s>&lt;u>توافق‌نامه کاربر&lt;/u>&lt;/a> و &lt;a href=%2$s>&lt;u>سیاست حفظ حریم خصوصی&lt;/u>&lt;/a> ما را خوانده و بپذیرید.&lt;br /></string>
-    <string name="privacy_doc_finddevice_with_telephony_feature_phone">به یافتن دستگاه خوش آمدید! در صورت گم شدن دستگاهتان شما می‌توانید با استفاده از این خدمات آن را مکان‌یابی یا قفل کرده و یا داده‌های آن را پاک کنید. با مراجعه به &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> نیز می‌توانید آن را مکان‌یابی، قفل و یا بازنشانی کنید.&lt;br />&lt;br />برای فعال‌سازی این خدمات ممکن است یک پیامک خروجی لازم شود. شرکت مخابراتی شما بابت این پیام از شما هزینه دریافت خواهد کرد. در صورت جابجایی سیم‌کارت خود، ممکن است پیامی به صورت خودکار برای فعال‌سازی دوباره این خدمات ارسال شود.&lt;br />&lt;br />ما بر اساس قوانین، مقررات و سیاست‌های حفظ حریم خصوصی مربوطه از اطلاعات شخصی شما محافظت می‌کنیم.&lt;br />برای کارکرد عادی، این خدمات نیاز به اتصال به اینترنت داشته و به منظور گردآوری اطلاعات شخصی نیازمند مجوزهای زیر است:&lt;br />• دسترسی به اطلاعات دستگاه:&lt;br />برای شناسایی دستگاه&lt;br />• موقعیت:&lt;br />برای مکان‌یابی دستگاه شما و تعویض به حالت گم شده&lt;br />در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، دیگر نمی‌توانید از این خدمات استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که از این برنامه استفاده نکرده و یا مجوزها را در تنظیمات محدود کنید.&lt;br />پیش از استفاده از یافتن دستگاه Xiaomi &lt;a href=%1$s>&lt;u>توافق‌نامه کاربر&lt;/u>&lt;/a> و &lt;a href=%2$s>&lt;u>سیاست حفظ حریم خصوصی&lt;/u>&lt;/a> ما را خوانده و بپذیرید.&lt;br /></string>
+    <string name="privacy_doc_cloudservice_china_v2_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, Wi-Fi settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos, songs)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_china_with_charge_hint">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, call history, contacts, notes, Browser settings, songs, photos and videos, Wi-Fi settings, recordings, Home screen layout, apps, calendar events, Blocklist items, and App vault across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos, songs)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_global">فضای ابری Xiaomi برای کارکرد عادی نیاز به اتصال به اینترنت دارد. ممکن است همگام‌سازی داده ها نیازمند استفاده از اینترنت همراه و روشن کردن Wi-Fi باشد. پیش از استفاده از خدمات فضای ابری Xiaomi، &lt;a href=%1$s>&lt;u> توافق‌نامه کاربر&lt;/u>&lt;/a> و &lt;a href=%2$s>&lt;u> سیاست حفظ حریم خصوصی&lt;/u>&lt;/a> را خوانده و بپذیرید.</string>
+    <string name="privacy_doc_cloudservice_pad">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, contacts, notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_pad_without_contact_but_sim">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your messages, notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />To activate these services, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent. When you switch SIM cards, &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>domestic paid SMS&lt;/b>&lt;/font> will be sent automatically for reactivation.&lt;br/>All the SMS fees generated by the aforementioned actions will be collected by your carrier. Xiaomi won't charge you for these messages.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing SMS:&lt;br />For syncing messages&lt;br />• Accessing MMS:&lt;br />For syncing messages&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_pad_without_sim_but_contact">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your contacts, notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Accessing contacts:&lt;br />For syncing contacts&lt;br />• Editing contacts:&lt;br />For syncing contacts&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_cloudservice_pad_without_sim_or_contact">"Welcome to Xiaomi Cloud services! You can use Xiaomi Cloud to sync your notes, Browser settings, photos and videos, recordings, calendar events, and Blocklist items across all connected devices. Access the items you sync from any browser at &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font>.&lt;br />&lt;br />We shall protect your personal information in accordance with the relevant laws, regulations, and privacy policies.&lt;br />To be able to work normally, these services need to connect to the internet and require the following permissions in order to collect your personal information:&lt;br />• Calendar:&lt;br />For syncing events&lt;br />• Storage:&lt;br />For saving items on your device (e.g. images, videos)&lt;br />If you don't agree to grant such permissions or share and upload your personal information, you won't be able to use these services. You can choose to uninstall this app, sign out, or restrict permissions in the Settings in such cases.&lt;br />Read and agree to our &lt;a href=%2$s>&lt;u>User Agreement&lt;/u>&lt;/a> and &lt;a href=%3$s>&lt;u>Privacy Policy&lt;/u>&lt;/a> before using our services.&lt;br />"</string>
+    <string name="privacy_doc_finddevice_pad">به یافتن دستگاه خوش آمدید! در صورت گم شدن دستگاهتان شما می‌توانید با استفاده از این خدمات آن را مکان‌یابی یا قفل کرده و یا داده‌های آن را پاک کنید. با مراجعه به &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> نیز می‌توانید آن را مکان‌یابی، قفل و یا بازنشانی کنید.&lt;br />&lt;br />ما بر اساس قوانین، مقررات و سیاست‌های حفظ حریم خصوصی مربوطه از اطلاعات شخصی شما محافظت می‌کنیم.&lt;br />برای کارکرد عادی، این خدمات نیاز به اتصال به اینترنت داشته و به منظور گردآوری اطلاعات شخصی نیازمند مجوزهای زیر است:&lt;br />• دسترسی به اطلاعات دستگاه:&lt;br />برای شناسایی دستگاه&lt;br />• موقعیت:&lt;br />برای مکان‌یابی دستگاه شما و تعویض به حالت گم شده&lt;br />در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، دیگر نمی‌توانید از این خدمات استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که از این برنامه استفاده نکرده و یا مجوزها را در تنظیمات محدود کنید.&lt;br />پیش از استفاده از خدمات ما &lt;a href=%1$s>&lt;u>توافق‌نامه کاربر&lt;/u>&lt;/a> و &lt;a href=%2$s>&lt;u>سیاست حفظ حریم خصوصی&lt;/u>&lt;/a> ما را خوانده و بپذیرید.&lt;br /></string>
+    <string name="privacy_doc_finddevice_phone">به یافتن دستگاه خوش آمدید! در صورت گم شدن دستگاهتان شما می‌توانید با استفاده از این خدمات آن را مکان‌یابی یا قفل کرده و یا داده‌های آن را پاک کنید. با مراجعه به &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> نیز می‌توانید آن را مکان‌یابی، قفل و یا بازنشانی کنید.&lt;br />&lt;br />ما بر اساس قوانین، مقررات و سیاست‌های حفظ حریم خصوصی مربوطه از اطلاعات شخصی شما محافظت می‌کنیم.&lt;br />برای کارکرد عادی، این خدمات نیاز به اتصال به اینترنت داشته و به منظور گردآوری اطلاعات شخصی نیازمند مجوزهای زیر است:&lt;br />• دسترسی به اطلاعات دستگاه:&lt;br />برای شناسایی دستگاه&lt;br />• موقعیت:&lt;br />برای مکان‌یابی دستگاه شما و تعویض به حالت گم شده&lt;br />در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، دیگر نمی‌توانید از این خدمات استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که از این برنامه استفاده نکرده و یا مجوزها را در تنظیمات محدود کنید.&lt;br />پیش از استفاده از خدمات ما &lt;a href=%1$s>&lt;u>توافق‌نامه کاربر&lt;/u>&lt;/a> و &lt;a href=%2$s>&lt;u>سیاست حفظ حریم خصوصی&lt;/u>&lt;/a> ما را خوانده و بپذیرید.&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_pad_inter_with_charge_hint">به یافتن دستگاه خوش آمدید! در صورت گم شدن دستگاه خود می‌توانید با استفاده از این ویژگی، آن را مکان‌یابی، قفل و یا داده‌های آن را پاک کنید. بازدید از &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> به شما امکان مکان‌یابی، قفل و یا بازنشانی آن را می‌دهد.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی بین‌المللی&lt;/b>&lt;/font> برای فعال‌سازی این خدمات به صورت خودکار ارسال خواهد شد. هنگام تعویض سیم‌کارت‌های خود، &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی بین‌المللی&lt;/b>&lt;/font> به صورت خودکار برای فعال‌سازی دوباره ارسال خواهد شد.&lt;br/>همه هزینه‌های پیامکی ایجاد شده به وسیله اقدامات انجام گرفته بالا توسط کارور شما دریافت خواهد شد. Xiaomi بابت این پیام‌ها از شما هزینه‌ای دریافت نخواهد کرد.&lt;br />&lt;br />ما بر اساس قوانین، مقررات و سیاست‌های حفظ حریم خصوصی مربوطه از اطلاعات شخصی شما محافظت می‌کنیم.&lt;br />این خدمات برای کارکرد عادی خود نیازمند اتصال به اینترنت و داشتن مجوزهای زیر به منظور گردآوری اطلاعات شخصی شماست:&lt;br />• دسترسی به اطلاعات دستگاه:&lt;br />برای شناسایی دستگاه شما&lt;br />• موقعیت:&lt;br />برای مکان‌یابی دستگاه شما و تعویض به حالت گم شده&lt;br />در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، دیگر نمی‌توانید از این خدمات استفاده کنید. در چنین شرایطی می‌توانید حذف این برنامه، خروج از حساب و یا محدود کردن مجوزها در تنظیمات را انتخاب نمایید.&lt;br />پیش از استفاده از خدمات ما &lt;a href=%2$s>&lt;u>توافق‌نامه کاربر&lt;/u>&lt;/a> و &lt;a href=%3$s>&lt;u>سیاست حفظ حریم خصوصی&lt;/u>&lt;/a> ما را خوانده و بپذیرید.&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_pad_with_common_charge_hint">به یافتن دستگاه خوش آمدید! در صورت گم شدن دستگاه خود می‌توانید با استفاده از این ویژگی، آن را مکان‌یابی، قفل و یا داده‌های آن را پاک کنید. بازدید از &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> به شما امکان مکان‌یابی، قفل و یا بازنشانی آن را می‌دهد.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی&lt;/b>&lt;/font> برای فعال‌سازی این خدمات به صورت خودکار ارسال خواهد شد. هنگام تعویض سیم‌کارت‌های خود، &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی&lt;/b>&lt;/font> به صورت خودکار برای فعال‌سازی دوباره ارسال خواهد شد.&lt;br/>همه هزینه‌های پیامکی ایجاد شده به وسیله اقدامات انجام گرفته بالا توسط کارور شما دریافت خواهد شد. Xiaomi بابت این پیام‌ها از شما هزینه‌ای دریافت نخواهد کرد.&lt;br />&lt;br />ما بر اساس قوانین، مقررات و سیاست‌های حفظ حریم خصوصی مربوطه از اطلاعات شخصی شما محافظت می‌کنیم.&lt;br />این خدمات برای کارکرد عادی خود نیازمند اتصال به اینترنت و داشتن مجوزهای زیر به منظور گردآوری اطلاعات شخصی شماست:&lt;br />• دسترسی به اطلاعات دستگاه:&lt;br />برای شناسایی دستگاه شما&lt;br />• موقعیت:&lt;br />برای مکان‌یابی دستگاه شما و تعویض به حالت گم شده&lt;br />در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، دیگر نمی‌توانید از این خدمات استفاده کنید. در چنین شرایطی می‌توانید حذف این برنامه، خروج از حساب و یا محدود کردن مجوزها در تنظیمات را انتخاب نمایید.&lt;br />پیش از استفاده از خدمات ما &lt;a href=%2$s>&lt;u>توافق‌نامه کاربر&lt;/u>&lt;/a> و &lt;a href=%3$s>&lt;u>سیاست حفظ حریم خصوصی&lt;/u>&lt;/a> ما را خوانده و بپذیرید.&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_pad_with_domestic_charge_hint">به یافتن دستگاه خوش آمدید! در صورت گم شدن دستگاه خود می‌توانید با استفاده از این ویژگی، آن را مکان‌یابی، قفل و یا داده‌های آن را پاک کنید. بازدید از &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> به شما امکان مکان‌یابی، قفل و یا بازنشانی آن را می‌دهد.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی داخلی&lt;/b>&lt;/font> برای فعال‌سازی این خدمات به صورت خودکار ارسال خواهد شد. هنگام تعویض سیم‌کارت‌های خود، &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی داخلی&lt;/b>&lt;/font> به صورت خودکار برای فعال‌سازی دوباره ارسال خواهد شد.&lt;br/>همه هزینه‌های پیامکی ایجاد شده به وسیله اقدامات انجام گرفته بالا توسط کارور شما دریافت خواهد شد. Xiaomi بابت این پیام‌ها از شما هزینه‌ای دریافت نخواهد کرد.&lt;br />&lt;br />ما بر اساس قوانین، مقررات و سیاست‌های حفظ حریم خصوصی مربوطه از اطلاعات شخصی شما محافظت می‌کنیم.&lt;br />این خدمات برای کارکرد عادی خود نیازمند اتصال به اینترنت و داشتن مجوزهای زیر به منظور گردآوری اطلاعات شخصی شماست:&lt;br />• دسترسی به اطلاعات دستگاه:&lt;br />برای شناسایی دستگاه شما&lt;br />• موقعیت:&lt;br />برای مکان‌یابی دستگاه شما و تعویض به حالت گم شده&lt;br />در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، دیگر نمی‌توانید از این خدمات استفاده کنید. در چنین شرایطی می‌توانید حذف این برنامه، خروج از حساب و یا محدود کردن مجوزها در تنظیمات را انتخاب نمایید.&lt;br />پیش از استفاده از خدمات ما &lt;a href=%2$s>&lt;u>توافق‌نامه کاربر&lt;/u>&lt;/a> و &lt;a href=%3$s>&lt;u>سیاست حفظ حریم خصوصی&lt;/u>&lt;/a> ما را خوانده و بپذیرید.&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_common_charge_hint">به یافتن دستگاه خوش آمدید! در صورت گم شدن دستگاه خود می‌توانید با استفاده از این ویژگی، آن را مکان‌یابی، قفل و یا داده‌های آن را پاک کنید. بازدید از &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> به شما امکان مکان‌یابی، قفل و یا بازنشانی آن را می‌دهد.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی&lt;/b>&lt;/font> برای فعال‌سازی این خدمات به صورت خودکار ارسال خواهد شد. هنگام تعویض سیم‌کارت‌های خود، &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی&lt;/b>&lt;/font> به صورت خودکار برای فعال‌سازی دوباره ارسال خواهد شد.&lt;br/>همه هزینه‌های پیامکی ایجاد شده به وسیله اقدامات انجام گرفته بالا توسط کارور شما دریافت خواهد شد. Xiaomi بابت این پیام‌ها از شما هزینه‌ای دریافت نخواهد کرد.&lt;br />&lt;br />ما بر اساس قوانین، مقررات و سیاست‌های حفظ حریم خصوصی مربوطه از اطلاعات شخصی شما محافظت می‌کنیم.&lt;br />این خدمات برای کارکرد عادی خود نیازمند اتصال به اینترنت و داشتن مجوزهای زیر به منظور گردآوری اطلاعات شخصی شماست:&lt;br />• دسترسی به اطلاعات دستگاه:&lt;br />برای شناسایی دستگاه شما&lt;br />• موقعیت:&lt;br />برای مکان‌یابی دستگاه شما و تعویض به حالت گم شده&lt;br />در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، دیگر نمی‌توانید از این خدمات استفاده کنید. در چنین شرایطی می‌توانید حذف این برنامه، خروج از حساب و یا محدود کردن مجوزها در تنظیمات را انتخاب نمایید.&lt;br />پیش از استفاده از خدمات ما &lt;a href=%2$s>&lt;u>توافق‌نامه کاربر&lt;/u>&lt;/a> و &lt;a href=%3$s>&lt;u>سیاست حفظ حریم خصوصی&lt;/u>&lt;/a> ما را خوانده و بپذیرید.&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_domestic_charge_hint">به یافتن دستگاه خوش آمدید! در صورت گم شدن دستگاه خود می‌توانید با استفاده از این ویژگی، آن را مکان‌یابی، قفل و یا داده‌های آن را پاک کنید. بازدید از &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> به شما امکان مکان‌یابی، قفل و یا بازنشانی آن را می‌دهد.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی داخلی&lt;/b>&lt;/font> برای فعال‌سازی این خدمات به صورت خودکار ارسال خواهد شد. هنگام تعویض سیم‌کارت‌های خود، &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی داخلی&lt;/b>&lt;/font> به صورت خودکار برای فعال‌سازی دوباره ارسال خواهد شد.&lt;br/>همه هزینه‌های پیامکی ایجاد شده به وسیله اقدامات انجام گرفته بالا توسط کارور شما دریافت خواهد شد. Xiaomi بابت این پیام‌ها از شما هزینه‌ای دریافت نخواهد کرد.&lt;br />&lt;br />ما بر اساس قوانین، مقررات و سیاست‌های حفظ حریم خصوصی مربوطه از اطلاعات شخصی شما محافظت می‌کنیم.&lt;br />این خدمات برای کارکرد عادی خود نیازمند اتصال به اینترنت و داشتن مجوزهای زیر به منظور گردآوری اطلاعات شخصی شماست:&lt;br />• دسترسی به اطلاعات دستگاه:&lt;br />برای شناسایی دستگاه شما&lt;br />• موقعیت:&lt;br />برای مکان‌یابی دستگاه شما و تعویض به حالت گم شده&lt;br />در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، دیگر نمی‌توانید از این خدمات استفاده کنید. در چنین شرایطی می‌توانید حذف این برنامه، خروج از حساب و یا محدود کردن مجوزها در تنظیمات را انتخاب نمایید.&lt;br />پیش از استفاده از خدمات ما &lt;a href=%2$s>&lt;u>توافق‌نامه کاربر&lt;/u>&lt;/a> و &lt;a href=%3$s>&lt;u>سیاست حفظ حریم خصوصی&lt;/u>&lt;/a> ما را خوانده و بپذیرید.&lt;br /></string>
+    <string name="privacy_doc_finddevice_with_telephony_feature_phone_with_inter_charge_hint">به یافتن دستگاه خوش آمدید! در صورت گم شدن دستگاه خود می‌توانید با استفاده از این ویژگی، آن را مکان‌یابی، قفل و یا داده‌های آن را پاک کنید. بازدید از &lt;font color=#0097FF>&lt;b>i.mi.com&lt;/b>&lt;/font> به شما امکان مکان‌یابی، قفل و یا بازنشانی آن را می‌دهد.&lt;br />&lt;br />&lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی بین‌المللی&lt;/b>&lt;/font> برای فعال‌سازی این خدمات به صورت خودکار ارسال خواهد شد. هنگام تعویض سیم‌کارت‌های خود، &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی بین‌المللی&lt;/b>&lt;/font> به صورت خودکار برای فعال‌سازی دوباره ارسال خواهد شد.&lt;br/>همه هزینه‌های پیامکی ایجاد شده به وسیله اقدامات انجام گرفته بالا توسط کارور شما دریافت خواهد شد. Xiaomi بابت این پیام‌ها از شما هزینه‌ای دریافت نخواهد کرد.&lt;br />&lt;br />ما بر اساس قوانین، مقررات و سیاست‌های حفظ حریم خصوصی مربوطه از اطلاعات شخصی شما محافظت می‌کنیم.&lt;br />این خدمات برای کارکرد عادی خود نیازمند اتصال به اینترنت و داشتن مجوزهای زیر به منظور گردآوری اطلاعات شخصی شماست:&lt;br />• دسترسی به اطلاعات دستگاه:&lt;br />برای شناسایی دستگاه شما&lt;br />• موقعیت:&lt;br />برای مکان‌یابی دستگاه شما و تعویض به حالت گم شده&lt;br />در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، دیگر نمی‌توانید از این خدمات استفاده کنید. در چنین شرایطی می‌توانید حذف این برنامه، خروج از حساب و یا محدود کردن مجوزها در تنظیمات را انتخاب نمایید.&lt;br />پیش از استفاده از خدمات ما &lt;a href=%2$s>&lt;u>توافق‌نامه کاربر&lt;/u>&lt;/a> و &lt;a href=%3$s>&lt;u>سیاست حفظ حریم خصوصی&lt;/u>&lt;/a> ما را خوانده و بپذیرید.&lt;br /></string>
     <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
     <string name="provision_back">بازگشت</string>
     <string name="provision_next">بعدی</string>
     <string name="provision_skip_underline">رد شدن</string>
     <string name="provision_sync_items_loading">درحال آماده‌سازی همگام‌سازی موارد</string>
+    <string name="quick_service_after_sale_policy_title">Policy</string>
+    <string name="quick_service_after_sale_service_title">Services</string>
+    <string name="quick_service_authenticity_check_title">Authentication</string>
+    <string name="quick_service_maintenance_price_title">Repairs</string>
+    <string name="quick_service_title">Quick services</string>
     <string name="reading_status">درحال بارگذاری وضعیت…</string>
     <string name="reading_status_failure">وضعیت بازگذاری نشد.</string>
+    <string name="recommend_service_cloudservice_description">Sync system app data, back up settings, Home screen layout, and more</string>
+    <string name="recommend_service_sharelocation_description">Locate, lock, and erase data on missing devices, and share location with your friends and family</string>
+    <string name="recommend_service_title">Recommended services</string>
     <string name="retain_data_high_quality_photo_waring_message">پس از خروج شما از حساب تصاویر با کیفیت بالا از گالری شما حذف خواهند شد. فایل‌های اصلی مربوطه همچنان در فضای ابری باقی خواهند ماند. همچنین می‌توانید پیش از خروج از حساب فایل‌های اصلی را دانلود کنید.</string>
     <string name="retain_data_high_quality_photo_waring_title">تصاویر با کیفیت بالا در دسترس نخواهند بود</string>
+    <string name="saturday">شنبه</string>
+    <string name="saturday_short">شنبه</string>
+    <string name="saturday_shortest">شنبه</string>
+    <string name="send">ارسال</string>
     <string name="share_cancel">هم‌رسانی لغو شد</string>
     <string name="share_failed">هم‌رسانی نشد</string>
     <string name="share_location_app_name">یافتن</string>
@@ -515,7 +684,7 @@
     <string name="share_sdk_btn_stop_share_text">توقف هم‌رسانی</string>
     <string name="share_sdk_btn_undo_invitation_confirm_text">دعوت پس گرفته شود؟</string>
     <string name="share_sdk_btn_undo_invitation_text">یادآوری دعوت‌نامه</string>
-    <string name="share_sdk_business_btn_grant_permission_text">موافقت و ادامه</string>
+    <string name="share_sdk_business_btn_grant_permission_text">پذیرفتن و ادامه</string>
     <string name="share_sdk_business_family_invite_preference_summary">مکان را به اشتراک گذاشته و دستگاه‌های یکدیگر را کنترل کنید</string>
     <string name="share_sdk_business_family_member_actionbar_subtitle">اطلاعات موقعیت را با دوستان خود به اشتراک بگذارید</string>
     <string name="share_sdk_business_high_risk_invite_success_summary">دعوت‌نامه شما از طریق پیام متنی و اعلان سیستم ارسال شده است.</string>
@@ -563,7 +732,7 @@
     <string name="share_sdk_pref_category_member_title">انتخاب اعضا</string>
     <string name="share_sdk_pref_category_search_local_title">مخاطبین</string>
     <string name="share_sdk_pref_category_title_scan_qr_code">اسکن کد QR</string>
-    <string name="share_sdk_pref_family_detail_title">مشاهده جزئیات گروه خانواده</string>
+    <string name="share_sdk_pref_family_detail_title">نمایش جزئیات گروه خانواده</string>
     <string name="share_sdk_privacy_link_description">پیش از استفاده از خدمات<a href="https://account.xiaomi.com/about/protocol/privacy"><u>سیاست حفظ حریم خصوصی حساب Mi </u></a> را خوانده و بپذیرید.</string>
     <string name="share_sdk_qr_code_description">%1$s دعوت‌نامه</string>
     <string name="share_sdk_qr_code_expire_time">مدت اعتبار کد QR:%1$s</string>
@@ -608,9 +777,12 @@
     <string name="storage_upgrade_card_title">ارتقای طرح</string>
     <string name="sub_alert_notif_content">روشن کردن فضای ابری Xiaomi</string>
     <string name="sub_alert_notif_title">با فضای ابری Xiaomi همگام‌سازی شود</string>
-    <string name="sub_sync_item_sms_summary">تنها پیام‌های حاوی عکس، صوت یا دیگر رسانه‌ها در هنگامی که به یک شبکه Wi-Fi متصل می‌شوید، همگام‌سازی شوند</string>
+    <string name="sub_sync_item_sms_summary">با روشن کردن این گزینه در مصرف اینترنت همراه صرفه جویی شده و پیام‌ها فقط با استفاده از Wi-Fi همگام‌سازی می‌شوند</string>
     <string name="sub_sync_item_sms_title_wifi_only">برای همگام‌سازی پیام چندرسانه‌ای فقط از Wi-Fi استفاده شود</string>
     <string name="sub_sync_item_sms_title_wifi_only_china">Only use WLAN to sync MMS</string>
+    <string name="sunday">یک‌شنبه</string>
+    <string name="sunday_short">یک‌شنبه</string>
+    <string name="sunday_shortest">یک‌شنبه</string>
     <string name="sync_detail_summary_master_sync_off">همگام‌سازی خاموش است</string>
     <string name="sync_detail_summary_off">همگام‌سازی خاموش است</string>
     <string name="sync_detail_text">جزئیات همگام‌سازی</string>
@@ -618,6 +790,7 @@
     <string name="sync_dspt_entrance_provision">عکس‌ها، مخاطبین، یادداشت‌ها و سایر موارد را بین همه دستگاه‌های خود همگام‌سازی کنید. به مواردی که همگام‌سازی کرده‌اید از هر مرورگری در %s دسترسی پیدا کنید.</string>
     <string name="sync_dspt_entrance_provision_confirm_close">استفاده نشود</string>
     <string name="sync_dspt_entrance_provision_confirm_content">برنامه‌های سیستمی داخل MIUI برای پشتیبان‌گیری از عکس‌ها، پیام‌ها، یادداشت‌ها، و غیره به فضای ابری Xiaomi نیاز دارند. فضای ابری Xiaomi رایگان بوده و بلافاصله آماده استفاده است.</string>
+    <string name="sync_dspt_entrance_provision_confirm_content_pad">با استفاده از فضای ابری Xiaomi می‌توانید عکس‌ها، پیام‌ها، یادداشت‌ها و موارد بیشتر را پشتیبان‌گیری کنید. فضای ابری Xiaomi رایگان بوده و آماده استفاده است.</string>
     <string name="sync_dspt_entrance_provision_confirm_content_v2">برنامه‌های سیستمی داخل MIUI برای پشتیبان‌گیری از عکس‌ها، پیام‌ها، یادداشت‌ها، و غیره به فضای ابری Xiaomi نیاز دارند. فضای ابری Xiaomi رایگان بوده و بلافاصله آماده استفاده است.</string>
     <string name="sync_dspt_entrance_provision_confirm_open">استفاده از فضای ابری Xiaomi</string>
     <string name="sync_dspt_entrance_provision_confirm_title">از فضای ابری Xiaomi استفاده نشود؟</string>
@@ -629,7 +802,7 @@
     <string name="sync_item_autofill_title">همگام‌سازی به صورت خودکار</string>
     <string name="sync_item_calllog_summary">همگام‌سازی تاریخچه تماس‌های گرفته شده و دریافت شده در این تلفن</string>
     <string name="sync_item_calllog_title">همگام‌سازی تاریخچه تماس</string>
-    <string name="sync_item_sms_summary">همگام‌سازی پیام‌های کوتاه ارسالی و دریافتی در این تلفن</string>
+    <string name="sync_item_sms_summary">همگام‌سازی پیام‌های ارسالی و دریافتی در این دستگاه</string>
     <string name="sync_item_sms_title">همگام‌سازی پیام‌ها</string>
     <string name="sync_item_title">همگام‌سازی داده‌های برنامه</string>
     <string name="sync_normal_summary">برخی موارد از فهرست زیر همگام‌سازی نشدند</string>
@@ -645,17 +818,65 @@
     <string name="sync_page_route_ok">روشن کردن</string>
     <string name="sync_page_route_remember">دوباره نمایش داده نشود</string>
     <string name="sync_setting_title">تنظیمات همگام‌سازی</string>
-    <string name="sync_sub_1_intl_sms">یک پیامک خروجی بین‌المللی ممکن است برای فعال‌سازی این خدمات لازم باشد. ممکن است شرکت مخابراتی شما برای این پیام از شما هزینه دریافت کند.</string>
-    <string name="sync_sub_1_sms">یک پیامک خروجی ممکن است برای فعال‌سازی این خدمات لازم باشد. ممکن است شرکت مخابراتی شما برای این پیام از شما هزینه دریافت کند.</string>
-    <string name="sync_sub_1_sms_1_intl_sms">۱ پیامک داخلی و ۱ پیامک بین‌المللی ممکن است برای فعال‌سازی این خدمات لازم باشد. ممکن است شرکت مخابراتی شما برای این پیامک‌ها از شما هزینه دریافت کند.</string>
-    <string name="sync_sub_2_intl_sms">۲ پیامک خروجی بین‌المللی ممکن است برای فعال‌سازی این خدمات لازم باشد. ممکن است شرکت مخابراتی شما برای این پیامک‌ها از شما هزینه دریافت کند.</string>
-    <string name="sync_sub_2_sms">۲ پیامک خروجی ممکن است برای فعال‌سازی این خدمات لازم باشد. ممکن است شرکت مخابراتی شما برای این پیامک‌ها از شما هزینه دریافت کند.</string>
     <string name="system_busy_or_network_error">خطایی رخ داده است. چند دقیقه صبر کرده و سپس دوباره تلاش کنید</string>
+    <string name="system_cta_retry_get_permission_btn_pad">آغاز</string>
+    <string name="system_cta_retry_get_permission_msg_pad">نیازمند مجوز است</string>
+    <string name="the_anniversary_of_lifting_martial_law">سالگرد لغو حکومت نظامی</string>
+    <string name="the_anti_aggression_day">روز ضد پرخاشگری</string>
+    <string name="the_arbor_day">روز درخت‌کاری</string>
+    <string name="the_armed_forces_day">روز ارتش</string>
+    <string name="the_armys_day">روز ارتش آزادی‌بخش خلق</string>
+    <string name="the_childrens_day">روز کودک</string>
+    <string name="the_chinese_youth_day">روز جوان</string>
+    <string name="the_christmas_day">کریسمس</string>
+    <string name="the_double_ninth_festival">جشنواره دوتا نُه</string>
+    <string name="the_dragon_boat_festival">جشنواره قایق اژدها</string>
+    <string name="the_easter_day">عید پاک</string>
+    <string name="the_eve_of_the_spring_festival">شب سال نوی چینی</string>
+    <string name="the_fifth_day">روز پنجم سال نوی چینی</string>
+    <string name="the_fools_day">دروغ اول آوریل</string>
+    <string name="the_forth_day">روز چهارم سال نوی چینی</string>
+    <string name="the_hksar_establishment_day">روز تأسیس منطقه ویژه اداری هنگ کنگ</string>
+    <string name="the_international_womens_day">روز زن</string>
+    <string name="the_laba_festival">جشنواره لابا</string>
+    <string name="the_labour_day">روز کارگر</string>
+    <string name="the_lantern_festival">جشنواره فانوس‌ها</string>
+    <string name="the_mid_autumn_festival">جشنواره میان‌پاییزه</string>
+    <string name="the_national_day">روز ملی</string>
+    <string name="the_national_father_day">زادروز سون یات سن</string>
+    <string name="the_new_years_day">سال نو</string>
+    <string name="the_night_of_sevens">جشنواره عشاق</string>
+    <string name="the_partys_day">روز حزب کمونیست چین</string>
+    <string name="the_peace_day">روز یادبود</string>
+    <string name="the_retrocession_day">روز بازپس گیری تایوان توسط چین</string>
+    <string name="the_second_day">روز دوم سال نوی چینی</string>
+    <string name="the_seventh_day">روز هفتم سال نوی چینی</string>
+    <string name="the_sixth_day">روز ششم سال نوی چینی</string>
+    <string name="the_spirit_festival">روز ارواح</string>
+    <string name="the_spring_festival">سال نوی چینی</string>
+    <string name="the_teachers_day">روز معلم</string>
+    <string name="the_third_day">روز سوم سال نوی چینی</string>
+    <string name="the_tw_childrens_day">روز کودک</string>
+    <string name="the_tw_youth_day">روز جوان</string>
+    <string name="the_united_nations_day">روز ملل متحد</string>
+    <string name="the_valentines_day">روز ولنتاین</string>
+    <string name="the_water_lantern_festival">جشنواره فانوس آبی</string>
+    <string name="thursday">پنج‌شنبه</string>
+    <string name="thursday_short">پنج‌شنبه</string>
+    <string name="thursday_shortest">پنج‌شنبه</string>
+    <string name="time_picker_dialog_title">تنظیم زمان</string>
+    <string name="time_picker_label_hour">ساعت</string>
+    <string name="time_picker_label_minute">دقیقه</string>
     <string name="tip_short_cut_added_success">با موفقیت ایجاد شد</string>
     <string name="tip_short_cut_already_added">ایجاد شد</string>
     <string name="title_back">بازگشت</string>
     <string name="title_reg">ایحاد حساب Mi</string>
+    <string name="today">امروز</string>
+    <string name="tomorrow">فردا</string>
     <string name="trying_to_connect_to_network">درحال اتصال به شبکه…</string>
+    <string name="tuesday">سه‌شنبه</string>
+    <string name="tuesday_short">سه‌شنبه</string>
+    <string name="tuesday_shortest">سه‌شنبه</string>
     <string name="user_agreement_content">با استفاده از این خدمات شما %s را می‌پذیرید.</string>
     <string name="user_agreement_link">شرایط استفاده از خدمات فضای ابری Xiaomi</string>
     <string name="user_agreement_p5">"
@@ -675,6 +896,12 @@
     <string name="warning_bar_title_network_unconnected">به شبکه متصل نشد</string>
     <string name="warning_bar_title_short_cut">میان‌بر صفحه اصلی برای فضای ابری Xiaomi افزوده شود؟</string>
     <string name="warning_bar_title_sync_off">همگام‌سازی با فضای ابری Xiaomi خاموش است</string>
+    <string name="web_sso_login_fail">باید دوباره وارد شوید</string>
+    <string name="web_sso_login_message">درحال ورود…</string>
+    <string name="webview_reload">دوباره تلاش کنید</string>
+    <string name="wednesday">چهارشنبه</string>
+    <string name="wednesday_short">چهارشنبه</string>
+    <string name="wednesday_shortest">چهارشنبه</string>
     <string name="wipe_data_dialog_button_check_sync">بررسی وضعیت همگام‌سازی</string>
     <string name="wipe_data_dialog_msg">برخی موارد %s همگام‌سازی نشده‌اند. آن‌ها در دستگاه شما ذخیره شده و حذف نخواهند شد.</string>
     <string name="wipe_data_dialog_msg_and_on">" و برخی موارد دیگر"</string>
@@ -684,4 +911,5 @@
     <string name="wipe_secret_photo_dialog_title">عکس‌های پنهان همگام‌سازی نشده‌اند</string>
     <string name="xiaomi_cloud_service">فضای ابری Xiaomi</string>
     <string name="xiaomi_cloud_service_subtitle">همه موارد مهم در یک جا</string>
+    <string name="yesterday">دیروز</string>
 </resources>

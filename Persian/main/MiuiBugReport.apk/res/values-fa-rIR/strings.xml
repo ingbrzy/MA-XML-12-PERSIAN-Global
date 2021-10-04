@@ -58,27 +58,30 @@
     <string name="bugreport_tool_log_dumping_title">درحال ایجاد گزارش اشکال</string>
     <string name="catch_full_log_action_cancel">لغو</string>
     <string name="catch_full_log_action_complete">پایان و بارگذاری</string>
-    <string name="catch_full_log_action_start">تولید گزارش</string>
+    <string name="catch_full_log_action_start">آغاز</string>
     <string name="catch_full_log_add_original_photo">تصویر اصلی یا یک ویدئوی کوتاه بیافزایید</string>
     <string name="catch_full_log_add_photo">افوزدن عکس</string>
     <string name="catch_full_log_add_photo_dialog_content">اگر اشکالی که گزارش می‌کنید به کیفیت تصویر دوربین مربوط می‌شود، یک عکس نمونه اصلی (بریده نشده) افزوده تا به ما در یافتن اشکال کمک کنید. اکنون عکس افزوده شود؟</string>
+    <string name="catch_full_log_category">انواع رخداد</string>
     <string name="catch_full_log_dialog_confirm_text">رفتن به صفحه اصلی</string>
-    <string name="catch_full_log_dialog_content">MIUI درحال ایجاد گزارش است. این کار ممکن است روی کارایی کلی دستگاه شما اثر بگذارد. در صورتی که نمی‌توانید اشکالی را که می‌خواهید گزارش کنید را بازتولید کنید به گزارشات باز گشته و روی \"لغو\" بزنید.</string>
+    <string name="catch_full_log_dialog_content">این ممکن است روی کارایی کلی دستگاه شما اثر بگذارد. در صورتی که نمی‌توانید اشکالی را که می‌خواهید گزارش کنید را بازتولید کنید به رخدادها باز‌گشته و روی «لغو» ضربه بزنید.</string>
+    <string name="catch_full_log_dialog_title">درحال تولید گزارشات…</string>
     <string name="catch_full_log_dump_hprof_failed">گزارش کندی تولید نشد</string>
     <string name="catch_full_log_item_content_catch_direct">"۱. به ویژگی که می‌خواهید آن را گزارش کنید باز گشته و باز تولید کنید.
 ۲. به این صفحه باز گشته و روی \"پایان و بارگذاری\" بزنید."</string>
-    <string name="catch_full_log_item_content_need_open">"۱. روی \"تولید گزارش\" بزنید.
-۲. به ویژگی که می‌خواهید آن را گزارش کنید باز گشته و باز تولید کنید.
-۳. به این صفحه باز گشته و روی \"پایان و بارگذاری\" بزنید."</string>
-    <string name="catch_full_log_item_content_title">مراحل</string>
-    <string name="catch_full_log_item_title_audio">صدا، ضبط صدا و صدای تماس</string>
+    <string name="catch_full_log_item_content_catching">درحال تولید رخداد…</string>
+    <string name="catch_full_log_item_content_need_open">"%1$d. روی «آغاز» زده تا تولید رخدادها آغاز شود.
+%2$d. اشکالی که با آن روبرو شده‌اید را باز تولید کنید.
+%3$d. به این صفحه بازگشته و روی «پایان و بارگذاری» ضربه بزنید."</string>
+    <string name="catch_full_log_item_content_title">چگونگی تولید رخداد</string>
+    <string name="catch_full_log_item_title_audio">صدا، صدای تماس و ضبط صدا</string>
     <string name="catch_full_log_item_title_bt">بلوتوث</string>
     <string name="catch_full_log_item_title_dump_heap">کند شدن</string>
     <string name="catch_full_log_item_title_gps">خدمات موقعیت</string>
     <string name="catch_full_log_item_title_sensor">حس‌گرها</string>
     <string name="catch_full_log_item_title_signal">تلفن، سیگنال و شبکه‌های موبایل</string>
-    <string name="catch_full_log_item_title_wifi">Wi-Fi و ShareMe</string>
-    <string name="catch_full_log_item_title_wifi_china">WLAN and ShareMe</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi</string>
+    <string name="catch_full_log_item_title_wifi_china">WLAN</string>
     <string name="catch_full_log_notification_content">برای بازگشت به گزارشات ضربه بزنید</string>
     <string name="catch_full_log_notification_title">درحال تولید گزارش…</string>
     <string name="catch_full_log_privacy_content_audio">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی اطلاعات درباره صداهای روی دستگاه شما، شامل تاریخچه پخش و تاریخچه ضبط باشند. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی \"پذیرفتن\" در زیر، شما می‌پذیرید که ما داده‌های بالا را در حین تولید گزارشات جمع‌آوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>

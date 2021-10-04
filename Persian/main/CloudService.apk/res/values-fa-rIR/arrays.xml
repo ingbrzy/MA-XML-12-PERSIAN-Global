@@ -1,5 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_table">
+        <item>ا</item>
+        <item>ب</item>
+        <item>پ</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>چ</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ز</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>ژ</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ک</item>
+        <item>گ</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>و</item>
+        <item>ه</item>
+        <item>ی</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>پ</item>
+        <item>ت</item>
+        <item>ث</item>
+        <item>ج</item>
+        <item>چ</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ز</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>ژ</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ک</item>
+        <item>گ</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>و</item>
+        <item>ه</item>
+        <item>ی</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="korea_permission_groups_descriptions">
         <item>برای شناسایی موارد همگام‌سازی شده</item>
         <item>برای همگام‌سازی پیام‌ها</item>
@@ -32,6 +105,10 @@
         <item>Back up important settings, including WLAN and display</item>
         <item>"Lock your device remotely if it's lost"</item>
     </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>عکس‌ها، یادداشت‌ها، موارد ضبط شده و سایر موارد را همگام‌سازی کنید</item>
+        <item>در صورت گم شدن دستگاهتان آن را از راه دور قفل کنید</item>
+    </string-array>
     <string-array name="micloud_entrance_subtitleArray_v2">
         <item>مخاطبین، پیام‌ها، یادداشت‌ها، تقویم و موارد بیشتر خود را همگام‌سازی کنید</item>
         <item>پشتیبان‌گیری از برنامه‌ها، چیدمان صفحه اصلی و تصویر زمینه</item>
@@ -42,6 +119,10 @@
         <item>همگام‌سازی داده‌های برنامه</item>
         <item>پشتیبان‌گیری چیدمان صفحه اصلی</item>
         <item>پشتیبان‌گیری از تنظیمات سیستم</item>
+        <item>یافتن دستگاه</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>همگام‌سازی داده‌های برنامه</item>
         <item>یافتن دستگاه</item>
     </string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
@@ -136,12 +217,22 @@
         <item>بازیابی مخاطبین، عکس‌ها، پیام‌ها و موارد بیشتر</item>
         <item>زباله;موارد حذف شده;سطل زباله;بازیابی;خدمات فضای ابری;فضای ابری Xiaomi</item>
     </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>موارد حذف شده در فضای ابری Xiaomi</item>
+        <item>بازیابی عکس‌ها، یادداشت‌ها و موارد بیشتر</item>
+        <item>زباله;موارد حذف شده;سطل زباله;بازیابی;خدمات فضای ابری;فضای ابری Xiaomi</item>
+    </string-array>
     <string-array name="settings_search_restore_device">
         <item>بازیابی موارد از فضای ابری Xiaomi</item>
         <item>موارد پشتیبان‌گیری شده را در دستگاه خود دانلود کنید</item>
         <item>فضای ابری;پشتیبان گیری;;پشتیبان‌گیری;بازیابی;خدمات فضای ابری;فضای ابری Xiaomi</item>
     </string-array>
     <string-array name="settings_search_security">
+        <item>همگام‌سازی فضای ابری امنیت</item>
+        <item>روشن کردن همگام‌سازی</item>
+        <item>امنیت;فضای ابری;فضای ابری Xiaomi;همگام‌سازی;خدمات فضای ابری</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
         <item>همگام‌سازی فضای ابری امنیت</item>
         <item>روشن کردن همگام‌سازی</item>
         <item>امنیت;فضای ابری;فضای ابری Xiaomi;همگام‌سازی;خدمات فضای ابری</item>
@@ -159,6 +250,11 @@
     <string-array name="settings_search_sync_manage">
         <item>فضای ابری Xiaomi. همه خدمات Mi در یک جا.</item>
         <item>به عکس‌ها، مخاطبین، پیام‌ها و دستگاه‌های خود از هر جایی دسترسی پیدا کنید</item>
+        <item>حافظه ناکافی;عضویت;حافظه;فضای ذخیره‌سازی;ابر;همگام‌سازی;خدمات ابری;فضای ابری Xiaomi;زباله;موارد حذف شده;امنیت</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>فضای ابری Xiaomi. همه خدمات Mi در یک جا.</item>
+        <item>به عکس‌ها، یادداشت‌ها و دستگاه‌های خود از هر جایی دسترسی پیدا کنید</item>
         <item>حافظه ناکافی;عضویت;حافظه;فضای ذخیره‌سازی;ابر;همگام‌سازی;خدمات ابری;فضای ابری Xiaomi;زباله;موارد حذف شده;امنیت</item>
     </string-array>
     <string-array name="settings_search_wlan">

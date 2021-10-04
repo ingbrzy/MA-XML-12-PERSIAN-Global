@@ -144,14 +144,14 @@
     <string name="er">پوشه مقصد</string>
     <string name="es">انتخاب شده</string>
     <string name="et">فایل‌های انتخاب شده: %1$d | کل: %2$s</string>
-    <string name="eu">۴ تا ۶ نویسه، حرف و عدد، حساس به حروف کوچک و بزرگ</string>
+    <string name="eu">نام کاربری و گذرواژه حساس به بزرگی و کوچکی حروف بوده و باید دارای %1$d تا %2$d نویسه باشند. شما می‌توانید حروف انگلیسی، نمادهای ویژه و اعداد را با هم ادغام کنید.</string>
     <string name="ev">ورود به صورت ناشناس</string>
     <string name="ew">نام کاربری یا گذرواژه اشتباه است</string>
     <string name="ex">درگاه باز نمی‌شود. اتصال شبکه خود را بررسی یا شماره درگاه را دوباره تنظیم نمایید.</string>
     <string name="ey">گذرواژه</string>
     <string name="ez">شماره درگاه</string>
     <string name="f0">امنیت</string>
-    <string name="f1">ورود به سیستم</string>
+    <string name="f1">تنظیم نام کاربری و گذرواژه</string>
     <string name="f2">نام کاربری</string>
     <string name="f3">رمزگذاری پیش‌فرض ویندوز برای چینی ساده شده</string>
     <string name="f4">GBK</string>
@@ -507,6 +507,6 @@
     <string name="ox">ShareMe یک برنامه سیستمی است. پس از حذف برنامه دیگر نمی‌توانید بدون استفاده از اینترنت فایل‌های خود را به سایر دستگاه‌ها انتقال دهید.</string>
     <string name="oy">ShareMe حذف شود؟</string>
     <string name="oz">ShareMe یک برنامه سیستمی است. پس از برداشتن میان‌بر از صفحه اصلی، دیگر نمی‌توانید بدون استفاده از اینترنت فایل‌ها را به دستگاه‌های دیگر منتقل کنید.</string>
-    <string name="p0">برداشتن «ShareMe» از صفحه اصلی</string>
+    <string name="p0">«ShareMe»‏ از صفحه اصلی برداشته شود؟</string>
     <string name="p1">دیروز</string>
 </resources>

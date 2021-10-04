@@ -24,7 +24,7 @@
     <string name="alarm_label_hint">برچسب هشدار</string>
     <string name="alarm_list_title">هشدار</string>
     <string name="alarm_notify_snooze_label">%s چرت زدن</string>
-    <string name="alarm_notify_text">چرت‌زدن یا نادیده گرفتن هشدار.</string>
+    <string name="alarm_notify_text">چرت زدن یا نادیده گرفتن هشدار.</string>
     <string name="alarm_repeat">تکرار</string>
     <string name="alarm_ringtone">صداهای هشدارها</string>
     <string name="alarm_ringtone_picker">هشدارها</string>
@@ -37,7 +37,7 @@
     <string name="alarmclock_silent_hint">هشدار بی‌صدا است</string>
     <string name="alert">صدای زنگ</string>
     <string name="alert_ringtone">صدای هشدار</string>
-    <string name="alert_vibrate_enable_summary">لرزش هنگام خاموش شدن زنگ</string>
+    <string name="alert_vibrate_enable_summary">لرزش هنگام به صدا در آمدن هشدار</string>
     <string name="alert_volume">میزان صدای آهنگ</string>
     <string name="alert_volume_summary">تنظیم میزان صدای آهنگ برای هشدارها و زمان‌سنج‌ها</string>
     <string name="already_exist">این زمان‌سنج از پیش وجود دارد</string>
@@ -176,17 +176,17 @@
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">ha</string>
+    <string name="fmt_time_12hour_pm">h a</string>
     <string name="fmt_time_24hour">"H 'o''clock'"</string>
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
     <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">"S'ms'"</string>
-    <string name="fmt_time_minute">"m'min'"</string>
-    <string name="fmt_time_minute_second">"m'min' s's'"</string>
-    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
-    <string name="fmt_time_second">"s's'"</string>
-    <string name="fmt_time_second_millis">"s.S's'"</string>
+    <string name="fmt_time_millis">"S'م.ث'"</string>
+    <string name="fmt_time_minute">"m'دق'"</string>
+    <string name="fmt_time_minute_second">"m'دق' و s'ث'"</string>
+    <string name="fmt_time_minute_second_millis">"m'دق' و s.S'ث'"</string>
+    <string name="fmt_time_second">"s'ث'"</string>
+    <string name="fmt_time_second_millis">"s.S'ث'"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
@@ -386,7 +386,7 @@
     <string name="normal_settings">تنظیمات عمومی</string>
     <string name="not_set_temporarily">خیر، سپاسگزارم</string>
     <string name="not_update">حالا نه</string>
-    <string name="oneshot_alarm">حذف پس از خاموش شدن</string>
+    <string name="oneshot_alarm">حذف پس از به صدا در آمدن</string>
     <string name="open_keep_screen">نمایشگر روشن خواهد ماند</string>
     <string name="open_sleep_record">روشن کردن</string>
     <string name="other_category_title">سایر</string>
@@ -446,6 +446,7 @@
     <string name="shutdown_alarm_enable_summary">در صورتی که تا رسیدن زمان هشدار بیش از ۱۰ دقیقه باشد پس از خاموش کردن دستگاه هشدار به صدا در خواهد آمد</string>
     <string name="shutdown_alarm_title">هشدار خاموش</string>
     <string name="silent_alarm_summary">بی‌صدا</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">خاموش کردن تنها در %s</string>
     <string name="sleep_analysis">آمار</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -496,6 +497,7 @@
     <string name="sunday">یک‌شنبه</string>
     <string name="sunday_short">یک‌شنبه</string>
     <string name="sunday_shortest">یک‌شنبه</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">برای دسترسی به همه ویژگی‌های این برنامه به آن اجازه اتصال به اینترنت را بدهید.</string>
     <string name="system_permission_main_purpose">نمایش زمان، تنظیم هشدارها و زمان‌سنج‌ها، استفاده از کرنومتر</string>
     <string name="system_permission_purpose">ایجاد هشدارهای هفتگی و تنظیم صداهای زنگ سفارشی</string>

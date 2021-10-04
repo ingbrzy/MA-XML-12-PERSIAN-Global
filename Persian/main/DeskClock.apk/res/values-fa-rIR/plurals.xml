@@ -141,8 +141,8 @@
         <item quantity="one">هشدار %2$s بار به صدا در خواهد آمد (%1$s دقیقه)</item>
     </plurals>
     <plurals name="snooze_message">
-        <item quantity="other">تعویق برای %d دقیقه</item>
-        <item quantity="one">تعویق برای %d دقیقه</item>
+        <item quantity="other">چرت زدن برای %d دقیقه</item>
+        <item quantity="one">چرت زدن برای %d دقیقه</item>
     </plurals>
     <plurals name="stopwatch_running_notification_day">
         <item quantity="other">کرونومتر به مدت %s روز است که درحال اجراست. برای نمایش ضربه بزنید.</item>

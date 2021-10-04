@@ -25,7 +25,7 @@
         <item>سفارشی</item>
     </string-array>
     <string-array name="alarm_set">
-        <item>صدای زنگ در کمتر از ۱ دقیقه خاموش می‌شود.</item>
+        <item>صدای زنگ کمتر از ۱ دقیقه دیگر به صدا در خواهد آمد.</item>
         <item>هشدار تا %1$s دیگر به صدا در خواهد آمد.</item>
         <item>هشدار تا %2$s دیگر به صدا در خواهد آمد.</item>
         <item>هشدار تا %1$s و %2$s دیگر به صدا در خواهد آمد.</item>
@@ -771,7 +771,7 @@
     </string-array>
     <string-array name="volume_button_setting_entries">
         <item>کاری انجام نشود</item>
-        <item>چرت</item>
+        <item>چرت زدن</item>
         <item>نادیده گرفتن</item>
     </string-array>
     <string-array name="volume_button_setting_values">

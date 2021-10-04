@@ -127,6 +127,10 @@
         <item>آیفون</item>
         <item>آی‌پد</item>
     </string-array>
+    <string-array name="setting_swipe_up_target">
+        <item>جستجو</item>
+        <item>اخبار</item>
+    </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>حذف</item>
         <item>خیر، سپاسگزارم</item>

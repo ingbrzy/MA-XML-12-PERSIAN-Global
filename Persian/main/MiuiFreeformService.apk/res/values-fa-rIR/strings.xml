@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">freeform</string>
+    <string name="app_name">پنجره‌های شناور</string>
+    <string name="bottom_bar_smallwindow_text">رها کرده تا الصاق شود</string>
     <string name="contentDescription">جابجایی پنجره</string>
     <string name="freeform_demo_back">بازگشت</string>
     <string name="freeform_demo_final_over">انجام شد</string>
@@ -9,6 +10,10 @@
     <string name="freeform_demo_go_on">بعدی</string>
     <string name="freeform_demo_title_finish">عالی!</string>
     <string name="freeform_demo_title_skip">رد کردن</string>
+    <string name="freeform_slide_to_small_freeform">کوچک‌سازی یک پنجره شناور</string>
+    <string name="freeform_slide_to_small_freeform_summary">نوار اقدام را فشرده و نگه دارید و به گوشه ای بکشید</string>
+    <string name="fullscreen_slide_to_small_freeform">کوچک‌سازی برنامه</string>
+    <string name="fullscreen_slide_to_small_freeform_summary">از پایین صفحه به گوشه بالا سمت راست بکشید</string>
     <string name="how_to_close_or_fullscreen_freeform">بستن پنجره‌های شناور یا تعویض به حالت تمام‌صفحه</string>
     <string name="how_to_drop_down_to_fullscreen">تعویض به حالت تمام‌صفحه</string>
     <string name="how_to_drop_down_to_fullscreen_summary">نوار اقدام یک نوار اقدام را فشرده و نگه داشته سپس به پایین بکشید</string>

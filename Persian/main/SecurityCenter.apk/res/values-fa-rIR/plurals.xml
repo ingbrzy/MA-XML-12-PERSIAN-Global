@@ -168,6 +168,10 @@
         <item quantity="other">جستجو میان %d برنامه</item>
         <item quantity="one">جستجو میان %d برنامه</item>
     </plurals>
+    <plurals name="find_leak_risk">
+        <item quantity="other">%d خطر مربوط به حریم خصوصی</item>
+        <item quantity="one">%d خطر مربوط به حریم خصوصی</item>
+    </plurals>
     <plurals name="first_aid_result_summary_exception">
         <item quantity="other">%1$d اشکال نیازمند بهینه‌سازی هستند</item>
         <item quantity="one">%1$d اشکال نیازمند بهینه‌سازی است</item>
@@ -223,6 +227,10 @@
     <plurals name="gb_signed_days_sum">
         <item quantity="other">%d بار پشت سر هم اعلام ورود شد</item>
         <item quantity="one">%d بار اعلام ورود شد</item>
+    </plurals>
+    <plurals name="gb_toolbox_guide_known">
+        <item quantity="other">فهمیدم (%d ثانیه)</item>
+        <item quantity="one">فهمیدم (%dثانیه)</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"اکنون تغییر دهنده صدا را امتحان کنید

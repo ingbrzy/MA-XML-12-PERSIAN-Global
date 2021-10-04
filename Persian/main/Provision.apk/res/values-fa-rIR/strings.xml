@@ -24,7 +24,6 @@
     <string name="boot_video_skip">رد شدن</string>
     <string name="calculator_introduction">از این برنامه می‌توانید برای محاسبات، تبدیل واحدهای اندازه‌گیری و ارزی و تخمین بازپرداخت وام مسکن استفاده کنید.</string>
     <string name="camera_introduction">می‌توانید از دوربین برای گرفتن عکس‌ها و ضبط ویدئوها استفاده کنید.</string>
-    <string name="carrier_introduction">به منظور ارائه خدمات بهتر به شما، دستگاه شما ممکن است به صورت دوره‌ای اطلاعات نسخه دستگاه، داده‌های شناسایی دستگاه (شامل IMEI/IMSI/MSISDN/نشانی MAC، MEID/ICCID) و اطلاعات موقعیت تقریبی شما (شامل شناسه ایستگاه پایه) را از طریق Wi-Fi، شبکه اینترنت همراه و یا پیامک رایگان به شرکت مخابراتی ارسال کند. شرکت مخابراتی متعهد می‌شود که اطلاعات مربوطه را فقط به منظور بهبود کیفیت خدمات یا ارائه خدمات یا فناوری‌های سفارشی‌شده تجزیه و تحلیل کرده و اطلاعات مربوطه به هر شکلی که شخص شما را شناسایی کند را برای هیچ سوم‌شخصی فاش نخواهد کرد. توضیحات شرکت مخابراتی مشخص مناط اعتبار است. درباره هزینه استفاده از این خدمات با شرکت مخابراتی خود مشورت کنید.</string>
     <string name="clock_introduction">از این برنامه می‌توانید برای دیدن زمان و همچنین استفاده از زمان‌سنج، ساعت جهانی، کرنومتر، تنظیم هشدار و موارد بیشتر استفاده کنید.</string>
     <string name="close_location_service_setting">می‌توانید انتخاب کنید که دسترسی به موقعیت را در تنظیمات > تنظیمات بیشتر > حریم خصوصی خاموش کرده و یا در امنیت مجوزها را برای برنامه‌های خاص محدود کنید.</string>
     <string name="cm_terms_content">جهت ارتقای ارائه خدمات به شما، اپراتور شبکه موبایل منتخبتان ممکن است داده‌های شخصی شما و اطلاعات درباره این دستگاه را به سرورهای خود با استفاده از شبکه‌های Wi-Fi یا اتصال اینترنت همراه بارگذاری کند. این اطلاعات تنها برای اهداف آماری در جهت ارتقای کیفیت خدمات و ارائه محتواهای شخصی سازی شده بیشتر استفاده خواهند شد. این اطلاعات برای شناسایی شخص شما استفاده نشده و برای سوم‌شخص‌ها فاش نخواهد شد.</string>
@@ -53,6 +52,7 @@
     <string name="disagreement_exit_app">در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این برنامه استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که از حساب خارج شده و یا مجوزها را در تنظیمات محدود کنید.</string>
     <string name="disagreement_function">در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این ویژگی استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که از این ویژگی استفاده نکنید.</string>
     <string name="disagreement_location_service">در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این خدمات استفاده کنید.</string>
+    <string name="disagreement_terminate_miuidaemon">چنانچه نپذیرید چنین مجوزهایی را داده یا اطلاعات شخصی خود را در اختیار قرار دهید، نمی‌توانید از این خدمات استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که از این خدمات استفاده نکرده یا مجوزها را در تنظیمات محدود کنید. توجه داشته باشید که ما فقط در صورتی از مجوزها استفاده می‌کنیم که شما انتقال داده‌ها از دستگاهی که نمایشگر آن آسیب دیده است را آغاز کرده باشید.</string>
     <string name="disagreement_terminate_service">در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این برنامه استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که برنامه را حذف، از حساب خارج و یا مجوزها را در تنظیمات محدود کنید.</string>
     <string name="download_introduction">«دانلودها» برای دانلود موارد در دستگاه شما از Xunlei استفاده می‌کند. این ابزار برای GetApps، به روزرسانی‌های سیستم، تم‌ها، ویدئوها و دانلودهای مرورگر کار می‌کند.</string>
     <string name="enable_accessibility_canceled">دسترسی‌پذیری لغو شد.</string>
@@ -133,7 +133,7 @@
     <string name="other_settings_user_experience">برنامه تجربه کاربر</string>
     <string name="other_settings_user_experience_summary">با همرسانی آمار مصرف خود با ما، به ما در بهبود محصولات و خدماتمان کمک کنید. نمایش جزئیات</string>
     <string name="other_settings_user_experience_summary_index">نمایش جزئیات</string>
-    <string name="permission_MIUIDaemon_introduction">MIUI Daemon allows you to transfer data from your device when its screen is damaged.</string>
+    <string name="permission_MIUIDaemon_introduction">MIUI Daemon به شما اجازه می‌دهد درصورت آسیب دیدن صفحه نمایش، داده را از دستگاه خود انتقال دهید.</string>
     <string name="permission_account">دسترسی به حساب‌های دستگاه شما:</string>
     <string name="permission_account_introduction">برای ورود با حساب Mi</string>
     <string name="permission_application_package_introduction">برای دسترسی به حافظه به منظور تجزیه و اسکن بسته‌های نصب</string>
@@ -166,9 +166,9 @@
     <string name="permission_picture_introduction">برای ذخیره، ویرایش و همگام‌سازی عکس‌ها و ویدئوها</string>
     <string name="permission_read_call_records">ویرایش تاریخچه تماس:</string>
     <string name="permission_read_call_records_introduction">برای افزودن موارد به تاریخچه تماس و حذف تماس‌های مسدود شده</string>
-    <string name="permission_read_contacts">Accessing contacts</string>
+    <string name="permission_read_contacts">دسترسی به مخاطبین</string>
     <string name="permission_read_contacts_introduction">For verifying your identity</string>
-    <string name="permission_read_message">Accessing text messages</string>
+    <string name="permission_read_message">دسترسی به پیام‌های متنی</string>
     <string name="permission_read_message_introduction">For verifying the ownership of your device</string>
     <string name="permission_read_note_introduction">برای دسترسی به یادداشت‌ها و پیوست‌ها</string>
     <string name="permission_read_write_file">دسترسی و ذخیره فایل‌ها و عکس‌های دستگاه شما:</string>
@@ -197,6 +197,7 @@
     <string name="provision_skip_underline">رد شدن</string>
     <string name="recorder_introduction">از این برنامه می‌توانید برای ضبط صدا و پشتیبان‌گیری موارد ضبط شده در فضای ابری استفاده کیند.</string>
     <string name="require_authority_statement">برای اجازه ارائه خدمات پایه‌ای ما به شما، لازم است تا مجوزهای زیر را به منظور گردآوری اطلاعات شخصی خود به ما بدهید:</string>
+    <string name="require_miuidaemon_authority_statement">برای اجازه ارائه خدمات ما به شما، لازم است تا مجوزهای زیر را به منظور گردآوری اطلاعات شخصی خود به ما بدهید:</string>
     <string name="require_network_authority_statement">برای اجازه ارائه خدمات پایه‌ای ما به شما، لازم است تا به اینترنت متصل شده و مجوزهای زیر را به منظور گردآوری اطلاعات شخصی خود به ما بدهید:</string>
     <string name="screen_recording_introduction">این برنامه به شما اجازه ضبط آن‌چه در صفحه نمایش شما اتفاق می‌افتد را می‌دهد.</string>
     <string name="security_introduction">از این برنامه می‌توانید برای پاک‌سازی زباله‌های دستگاهتان، یافتن و خنثی کردن ویروس‌ها، بهینه‌سازی کارایی برای بازی، بهینه‌سازی باتری، مدیریت برنامه‌ها، مجوزها و موارد بیشتر استفاده کنید.</string>
@@ -278,7 +279,7 @@
     <string name="title_fingerprint">تنظیم گذرواژه</string>
     <string name="title_set_fingerprint">قفل صفحه</string>
     <string name="user_agreement">توافقنامه کاربر</string>
-    <string name="user_agreement_declare">پیش از استفاده از MIUI شما باید توافق‌نامه کاربر و سیاست حفظ حریم خصوصی ما را خوانده و بپذیرید. مادامی که دستگاه شما فعال باشد، خدمات فعال‌سازی سیم‌کارت Mi، فضای ابری Xiaomi، یافتن دستگاه، صفحه اصلی، عبارات پرکاربرد، خدمات ترجمه MIUI Daemon، نمایش‌گر HTML، MIUI SDK، دستیار AI، باتری و کارایی، یابنده مصرف برق، Joyose، تنظیمات AI سیستم عامل، مدیریت مجوزها و به‌روزرسان به شبکه وصل خواهند شد. خدمات هوشمند به شبکه وصل و به موقعیت شما دسترسی خواهد داشت.</string>
+    <string name="user_agreement_declare">پیش از استفاده از MIUI، باید توافق‌نامه کاربر و سیاست حفظ حریم خصوصی ما را خوانده و بپذیرید. هنگام فعال شدن دستگاه شما خدمات فعال‌سازی سیم‌کارت Mi، فضای ابری Xiaomi، خدمات پشتیبان‌گیری، یافتن دستگاه، صفحه اصلی، عبارات پرکاربرد، خدمات ارتباط اینترنتی Xiaomi، خدمات ترجمه، MIUI Daemon، نمایشگر HTML‏، MIUI SDK، برنامه عنصر امن، دستیار AI ، باتری و کارایی، ردیاب برق، Joyose، تنظیمات AI سیستم عامل و به‌روزرسان به شبکه متصل خواهند شد. کارت‌های هوشمند، مدیر مجوزها و خدمات هوشمند به شبکه متصل شده و به موقعیت شما دسترسی خواهند یافت.</string>
     <string name="voice_assist_advice">Mi AI به شما اجازه استفاده از فرمان‌های صوتی را می‌دهد ولی باتری بیشتری مصرف می‌کند (هر ساعت ۱+%).</string>
     <string name="voice_assist_condition">"شما در موقعیت‌های زیر می‌توانید از Mi AI استفاده کنید:r
 ۱. هنگامی که نمایشگر روشن باشد.r

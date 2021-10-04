@@ -196,7 +196,6 @@
     <string name="card_game_title_1">پیشنهادات روزانه</string>
     <string name="card_game_title_2">پر طرفدار این هفته</string>
     <string name="card_game_title_3">پیشنهاد Mint</string>
-    <string name="cast_video">بازتاباندن ویدئو</string>
     <string name="category">دسته‌‌بندی</string>
     <string name="category_album">آلبوم‌ها</string>
     <string name="category_all">همه فایل‌ها</string>
@@ -236,7 +235,6 @@
     <string name="clear_history">پاک کردن تاریخچه</string>
     <string name="clear_most_visited">تاریخچه تازه</string>
     <string name="clear_search_history">پاک کردن تاریخچه</string>
-    <string name="clear_video_download">پاک کردن ویدئوها</string>
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
     <string name="click_always">روی «همیشه» بزنید</string>
     <string name="click_to_refresh">آخرین بار در اینجا متوقف شد. برای تازه‌سازی بزنید</string>
@@ -258,7 +256,6 @@
     <string name="cloud_time_tips">آخرین همگام‌سازی</string>
     <string name="cloud_up_to_loading_tips">برای همگام‌سازی رها کنید</string>
     <string name="collect_diagnosis_log">جمع‌آوری رخدادها</string>
-    <string name="collect_video">جمع‌آوری ویدیو</string>
     <string name="collection_articles">مقاله</string>
     <string name="collection_videos">ویدئوها</string>
     <string name="comment_app_menu">نظر</string>
@@ -300,7 +297,7 @@
     <string name="contextmenu_share_image">هم‌رسانی تصویر</string>
     <string name="contextmenu_sharelink">هم‌رسانی پیوند</string>
     <string name="contextmenu_view_image">مشاهده تصویر</string>
-    <string name="contextmenu_webpage_capture">ذخیره به‌عنوان عکس از صفحه</string>
+    <string name="contextmenu_webpage_capture">ذخیره به‌عنوان عکس صفحه</string>
     <string name="contextmenu_webpage_html">ذخیره به‌عنوان فایل HTML</string>
     <string name="contextmenu_webpage_pdf">ذخیره به عنوان PDF</string>
     <string name="contextmenu_webpage_snapshot">ذخیره صفحه</string>
@@ -318,15 +315,6 @@
     <string name="dark_mode">حالت تاریک</string>
     <string name="data_error">خطای داده‌ها</string>
     <string name="data_format_ymd">dd/MM/yyyy</string>
-    <string name="data_traffic_continue">در هر صورت پخش شود</string>
-    <string name="data_traffic_download_cancel">لغو</string>
-    <string name="data_traffic_download_prompt">فقط هنگامی که دستگاه شما به Wi-Fi وصل شود می‌توانید این ویدئو را دانلود کنید.</string>
-    <string name="data_traffic_download_setting">تنظیمات</string>
-    <string name="data_traffic_goto">بسته اینترنت همراه</string>
-    <string name="data_traffic_prompt_free_data">استفاده از اینترنت همراه برای پخش ویدئوها ممکن است باعث ایجاد هزینه‌های اضافی شود. تلاش کنید از بسته‌های اینترنتی مخصوص استفاده کنید.</string>
-    <string name="data_traffic_prompt_message">استفاده ازاتصال اینترنت همراه برای جستجوی ویدئو، مصرف اینترنت همراه شما را افزایش می‌دهد. اگر از حد مصرف تعرفه اینترنت خود فراتر بروید، ممکن است شرکت مخابراتی‌تان از شما هزینه اضافی دریافت کند.</string>
-    <string name="data_traffic_prompt_title">شما درحال استفاده از اینترنت همراه هستید</string>
-    <string name="data_traffic_stop">توقف</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -465,7 +453,6 @@
     <string name="download_title">دانلودها</string>
     <string name="download_unknown_title">نامشخص</string>
     <string name="download_update_background">درحال دانلود به‌روزرسانی‌ها در پس‌زمینه</string>
-    <string name="download_video">دانلود ویدئو</string>
     <string name="download_video_from_social_site">دانلود ویدئوها از رسانه‌های اجتماعی</string>
     <string name="download_videos_from_here">شما می‌توانید از این خدمات ویدئوها را دانلود کنید</string>
     <string name="download_wait_connect">در انتظار اتصال</string>
@@ -509,7 +496,6 @@
     <string name="exit_clear_dialog_btn_cancel">خروج</string>
     <string name="exit_clear_dialog_btn_ok">پاک‌سازی و خروج</string>
     <string name="exit_clear_dialog_msg">پاک کردن تاریخچه پیش از خروج؟</string>
-    <string name="exit_fullscreen">خروج از حالت تمام صفحه</string>
     <string name="exit_game">بستن</string>
     <string name="experience_improve">برنامه تجربه کاربر</string>
     <string name="external_app_restricted_access_error">مرورگر Mi به این مورد دسترسی ندارد.</string>
@@ -519,7 +505,7 @@
     <string name="fb_login_tips">برای دانلود ویدئوها از فیس‌بوک وارد حساب شوید</string>
     <string name="fb_register_btn">ایجاد حساب</string>
     <string name="feedback_info_app_package_name">"نام بسته: "</string>
-    <string name="feedback_info_app_version">"نسخه برنامه: "</string>
+    <string name="feedback_info_app_version">"نگارش برنامه: "</string>
     <string name="feedback_info_language">"زبان: "</string>
     <string name="feedback_info_location">"منطقه: "</string>
     <string name="feedback_info_product">"مدل: "</string>
@@ -644,8 +630,8 @@
     <string name="hint">اشاره</string>
     <string name="history">تاریخچه</string>
     <string name="home_description">صفحه اصلی</string>
-    <string name="home_feed_channel">نمایش «اخبار» در نوار مسیریابی</string>
-    <string name="home_game_channel">نمایش «بازی‌ها» در نوار مسیریابی</string>
+    <string name="home_feed_channel">نمایش «اخبار» در نوار پیمایش</string>
+    <string name="home_game_channel">نمایش «بازی‌ها» در نوار پیمایش</string>
     <string name="home_nf">محتوا خوان</string>
     <string name="home_nf_recommend_on">پیشنهاد به شما</string>
     <string name="homepage_delete_card_menu">حذف</string>
@@ -709,9 +695,9 @@
     <string name="local_apps">برنامه‌های محلی</string>
     <string name="local_bookmarks">Mi</string>
     <string name="lockpattern_continue_button_text">بعدی</string>
-    <string name="lockpattern_need_to_confirm">الگوی گشودن قفل را تأیید کنید</string>
+    <string name="lockpattern_need_to_confirm">الگوی باز کردن قفل را تأیید کنید</string>
     <string name="lockpattern_need_to_unlock_wrong">دوباره تلاش کنید</string>
-    <string name="lockpattern_pattern_confirmed_header">الگوی گشودن قفل شما این است:</string>
+    <string name="lockpattern_pattern_confirmed_header">الگوی باز کردن قفل شما این است:</string>
     <string name="lockpattern_pattern_entered_header">انجام شد!</string>
     <string name="lockpattern_recording_incorrect_too_short">دوباره تلاش کنید. حداقل ۴ نقطه را به هم وصل کنید.</string>
     <string name="lockpattern_recording_inprogress">انگشت خود را هنگام کامل شدن الگو بردارید</string>
@@ -727,15 +713,6 @@
     <string name="make_private_msg_2">این فایل‌ها پنهان شوند؟</string>
     <string name="max_tabs_warning">نمی‌توان زبانه‌های بیشتری را باز کرد</string>
     <string name="maximum_input_alert">نمی‌توان بیش از ۲۰۴۸ نویسه وارد کرد</string>
-    <string name="media_error_action_refresh">تازه‌سازی</string>
-    <string name="media_error_action_replace_video_source">منبع تغییر نکرد</string>
-    <string name="media_error_failure">نمی‌توان ویدئو را پخش نمود</string>
-    <string name="media_error_format">از فرمت ویدئو پشتیبانی نمی‌شود</string>
-    <string name="media_error_network_unreachable">به شبکه متصل نشد</string>
-    <string name="media_error_nomemory">حافظه کافی وجود ندارد</string>
-    <string name="media_error_source">منبع یافت نشد</string>
-    <string name="media_error_timeout">مهلت اتصال به شبکه پایان یافت</string>
-    <string name="media_error_video_not_exist">ویدئو وجود ندارد</string>
     <string name="menu_addtodesk">افزودن به صفحه اصلی</string>
     <string name="menu_exit_nightmode">خروج</string>
     <string name="menu_hv_swap">صفحه عمودی/افقی</string>
@@ -757,7 +734,7 @@
     <string name="miui_facebook_open_dialog_close">خاموش کردن</string>
     <string name="miui_facebook_open_dialog_msg">روشن کرده تا اعلان‌های فیسبوک را آسان‌تر مدیریت کنید</string>
     <string name="miui_facebook_open_dialog_open">روشن کردن</string>
-    <string name="miui_quicksearch_enable_pref_summary">نمایش نوار پیوند به جستجو در کرکره اعلان</string>
+    <string name="miui_quicksearch_enable_pref_summary">نمایش پیوند به نوار جستجو در کرکره اعلان</string>
     <string name="miui_quicksearch_enable_pref_title">نوار جستجو در کرکره اعلان</string>
     <string name="miui_search_notification_message">برای باز کردن نوار جستجو، لمس کنید.</string>
     <string name="miui_search_notification_title">جستجو</string>
@@ -831,6 +808,8 @@
     <string name="more_option">گزینه‌های بیشتر</string>
     <string name="more_recommend">پیشنهادات بیشتر</string>
     <string name="morning">صبح</string>
+    <string name="most_visited_sites">بیشتر مشاهده شده</string>
+    <string name="most_visited_sites_switch">نمایش تارنماهای پربازدید در صفحه آغاز‌</string>
     <string name="move_bookmark">انتقال</string>
     <string name="msn_ad_identification">آگهی</string>
     <string name="msn_privacy">توضیحات حریم خصوصی Microsoft</string>
@@ -850,6 +829,7 @@
     <string name="mw_actionbar_textselection_title">انتخاب متن</string>
     <string name="mw_actionbar_web_search">جستجوی وب</string>
     <string name="mw_autofill_popup_content_description">نمایش پنجره شناور پر کردن خودکار</string>
+    <string name="mw_chip_remove_icon_content_description">برداشتن «%1$s»</string>
     <string name="mw_color_picker_button_black">مشکی</string>
     <string name="mw_color_picker_button_blue">آبی</string>
     <string name="mw_color_picker_button_cancel">لغو</string>
@@ -889,6 +869,7 @@
     <string name="mw_js_dialog_title_default">JavaScript</string>
     <string name="mw_last_month">ماه گذشته</string>
     <string name="mw_license_activity_title">مجوزهای WebView سیستم</string>
+    <string name="mw_link_copied">URL با موفقیت کپی شد</string>
     <string name="mw_low_memory_error">به دلیل حافظه کم عملیات قبلی کامل نمی‌شود</string>
     <string name="mw_miui_content_copy">کپی</string>
     <string name="mw_miui_content_cut">بُرش</string>
@@ -993,6 +974,7 @@
     <string name="mw_save_password_never">هرگز</string>
     <string name="mw_save_password_notnow">حالا نه</string>
     <string name="mw_save_password_remember">به یاد داشتن</string>
+    <string name="mw_speech_recognition_service_not_found">موتور گفتار Google یافت نشد</string>
     <string name="mw_status_bar_notification_info_overflow">+۹۹۹</string>
     <string name="mw_time_picker_dialog_am">ق.ظ</string>
     <string name="mw_time_picker_dialog_hour_minute_separator">:</string>
@@ -1000,7 +982,6 @@
     <string name="mw_time_picker_dialog_pm">ب.ظ</string>
     <string name="mw_time_picker_dialog_second_subsecond_separator">&amp;.</string>
     <string name="mw_time_picker_dialog_title">تنظیم زمان</string>
-    <string name="mw_url_copied">URL با موفقیت کپی شد</string>
     <string name="mw_video_buffering_percent">درحال میانگیری</string>
     <string name="mw_video_download_no_permission">دانلود موارد نیازمند مجوز است</string>
     <string name="mw_video_float_drag_scale_msg">برای برش دادن بکشید</string>
@@ -1198,11 +1179,10 @@
     <string name="password">گذرواژه</string>
     <string name="per_month">هر ماه</string>
     <string name="permission_agree_service">من تمام شرایط و ضوابط زیر را خوانده و پذیرفته‌ام.</string>
-    <string name="permission_alert_window">برای استفاده از این ویژگی، در تنظیمات به نمایش دادن پنجره‌های بازشو اجازه دهید.</string>
     <string name="permission_contacts">مخاطبین</string>
     <string name="permission_dialog_msg_camera">%s می‌خواهد از دوربین شما استفاده کند</string>
-    <string name="permission_dialog_msg_camera_mic">%s می‌خواهد از دوربین و میکروفون شما استفاده کند</string>
-    <string name="permission_dialog_msg_mic">%s می‌خواهد از میکروفون شما استفاده کند</string>
+    <string name="permission_dialog_msg_camera_mic">%s می‌خواهد از دوربین و میکروفن شما استفاده کند</string>
+    <string name="permission_dialog_msg_mic">%s می‌خواهد از میکروفن شما استفاده کند</string>
     <string name="permission_dialog_msg_midi_sysex">%s می‌خواهد دستگاه MIDI شما را کنترل کند.</string>
     <string name="permission_dialog_msg_protected_content">%s می‌خواهد محتوای محافظت شده را پخش کند</string>
     <string name="permission_finish">انجام شد</string>
@@ -1212,7 +1192,7 @@
     <string name="permission_for_storage">برای دانلودها</string>
     <string name="permission_known">فهمیدم</string>
     <string name="permission_location">موقعیت</string>
-    <string name="permission_mic">میکروفون</string>
+    <string name="permission_mic">میکروفن</string>
     <string name="permission_non_essential">مجوزهای اختیاری</string>
     <string name="permission_notification">%s می‌خواهد به شما اعلان بفرستد.</string>
     <string name="permission_notification_prompt">شما می‌توانید اعلان‌های این تارنما را در تنظیمات محدود کنید.</string>
@@ -1222,7 +1202,6 @@
     <string name="permission_open_storage">ابتدا در تنظیمات به مرورگر Mi اجازه دسترسی به حافظه داخلی را بدهید</string>
     <string name="permission_service">شرایط و ضوابط</string>
     <string name="permission_storage">حافظه</string>
-    <string name="permission_unknown">خطای ناشناخته</string>
     <string name="permission_use">مجوزها</string>
     <string name="personalized_content_services">خدمات محتوایی سفارشی شده</string>
     <string name="personalized_services">خدمات سفارشی شده</string>
@@ -1248,12 +1227,9 @@
     <string name="photoPickerNotFoundText">هیچ عکسی در دسترس نیست.</string>
     <string name="pick_file">انتخاب فایل‌ها</string>
     <string name="ping_test_title">تاخیر شبکه</string>
-    <string name="play_pause_video">پخش یا مکث ویدئو</string>
-    <string name="play_video">پخش ویدئو</string>
     <string name="players_still_play">&lt;font color=\"#ff2458\">%s&lt;/font> از بازیکن‌ها نیز این‌ها را دوست دارند</string>
     <string name="pm">ب.ظ</string>
     <string name="popular_game_video">Popular Game Video</string>
-    <string name="popup_video">پنجره شناور ویدئو</string>
     <string name="popup_window_attempt">اجازه باز کردن پنجره شناور را به این سایت می‌دهید؟</string>
     <string name="positive_confirm_message">درهرصورت خاموش شود</string>
     <string name="pref_accessibility">دسترسی‌پذیری</string>
@@ -1396,7 +1372,7 @@
     <string name="pref_site_settings_location">موقعیت مکانی</string>
     <string name="pref_site_settings_location_ask">سایت‌ها باید مجوز برای دسترسی به اطلاعات موقعیت شما را درخواست کرده و به دست آورند.</string>
     <string name="pref_site_settings_location_permission">مجوزهای موقعیت را در &lt;font color=\"#247BFF\">تنظیمات Android&lt;/font> روشن کنید.</string>
-    <string name="pref_site_settings_mic">میکروفون</string>
+    <string name="pref_site_settings_mic">میکروفن</string>
     <string name="pref_site_settings_mic_ask">سایت‌ها برای استفاده از میکروفن شما باید درخواست کنند و اجازه شما را بگیرند (پیشنهاد می‌شود)</string>
     <string name="pref_site_settings_mic_ask_permission">مجوزهای میکروفن را در &lt;font color=\"#247BFF\">تنظیمات Android&lt;/font> روشن کنید.</string>
     <string name="pref_site_settings_midi_sysex_permission">کنترل کامل دستگاه MIDI</string>
@@ -1417,7 +1393,7 @@
     <string name="pref_volume_key_action">جابجایی با استفاده از دکمه‌های میزان صدا</string>
     <string name="preference_des_autocomplete_search">تکمیل خودکار جستجوها بر اساس تاریخچه مرور، پیشنهادات موتور و تارنماهای پرطرفدار</string>
     <string name="preference_title_autocomplete_search">تکمیل خودکار جستجوها و پیوندها</string>
-    <string name="privacy_accept">پذیرش و ادامه</string>
+    <string name="privacy_accept">پذیرفتن و ادامه</string>
     <string name="privacy_agreement">توافقنامه کاربر</string>
     <string name="privacy_authorize_cannot_revoke_dialog_msg">این اقدام نیاز به بارگذاری شناسه کارایی شما دارد، که نمی‌تواند در حالت ناشناس انجام شود. از حالت ناشناس خارج شده و دوباره تلاش کنید.</string>
     <string name="privacy_authorize_network_error">برای پس گرفتن رضایت شما، دستگاهتان نیاز به اتصال به شبکه دارد. تنظیمات شبکه را بررسی کرده و سپس دوباره تلاش کنید.</string>
@@ -1431,8 +1407,8 @@
     <string name="privacy_authorize_summary">با تغییر وضعیت کلید، اجازه را داده و یا باطل کنید</string>
     <string name="privacy_authorize_title">مجوز</string>
     <string name="privacy_btn_more">بیشتر</string>
-    <string name="privacy_improve_performance">کمک به بهبود کارایی مرورگر Mi</string>
-    <string name="privacy_improve_performance_desc">ارسال خودکار داده‌های گردآوری شده و گزارشات خرابی‌ها به مرورگر Mi</string>
+    <string name="privacy_improve_performance">برنامه تجربه کاربر</string>
+    <string name="privacy_improve_performance_desc">به Xiaomi اجازه گردآوری و تجزیه و تحلیل داده‌های کاربر را داده تا بتوانیم محصولات و خدماتمان را بهبود بخشیم.</string>
     <string name="privacy_message">پیش از استفاده از مرورگر، شما باید &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">توافق‌نامه کاربر&lt;/a>&lt;/font> و &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">سیاست حفظ حریم خصوصی&lt;/a>&lt;/font> ما را بپذیرید.</string>
     <string name="privacy_message_main_tips_first">مرورگر Mi برای ارائه خدمات پایه‌ای خود نیاز به گردآوری اطلاعات شخصی لازم دارد. شما می‌توانید در &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">سیاست حفظ حریم خصوصی&lt;/a>&lt;/font> ما از چگونگی استفاده از اطلاعاتی که گردآوری می‌کنیم آگاه شوید. شما همواره می‌توانید در تنظیمات > حریم خصوصی و امنیت رضایت خود را نسبت به سیاست حفظ حریم خصوصی مرورگر Mi پس بگیرید. پیش از استفاده از مرورگر Mi &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">توافق‌نامه کاربر&lt;/a>&lt;/font> و &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">سیاست حفظ حریم خصوصی&lt;/a>&lt;/font> ما را خوانده و بپذیرید.</string>
     <string name="privacy_message_main_tips_second">برای اینکه بتوانید برنامه‌ها را در این دستگاه جستجو کنید و بدانید کدام برنامه‌ها نصب شده‌اند، مرورگر Mi باید به اطلاعات نصب برنامه دسترسی پیدا کند، که به صورت محلی ذخیره یا به هر شکلی بارگذاری نمی‌شود.</string>
@@ -1440,6 +1416,7 @@
     <string name="privacy_message_welcome_tip_first">- مرورگر وب سریع و ایمن</string>
     <string name="privacy_message_welcome_tip_second">- دانلود تصاویر و ویدئوها از سکوهای رسانه‌های اجتماعی</string>
     <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
+    <string name="privacy_reset_fail">تنظیم دوباره نشد. دوباره تلاش کنید.</string>
     <string name="privacy_sub_title">شرایط و ضوابط</string>
     <string name="privacy_title">به مرورگر Mi خوش آمدید</string>
     <string name="private_title">فایل‌های پنهان</string>
@@ -1540,7 +1517,7 @@
     <string name="save_image_failed">تصویر ذخیره نشد</string>
     <string name="save_image_success">تصویر ذخیره شد</string>
     <string name="save_page_capture_tip">برای مشاهده عکس از صفحه کرکره اعلان را باز کنید.</string>
-    <string name="save_page_capture_to_camera">عکس از صفحه ذخیره شد</string>
+    <string name="save_page_capture_to_camera">عکس صفحه ذخیره شد</string>
     <string name="save_to_camera">ذخیره در گالری</string>
     <string name="save_to_camera_failed">نمی‌توان تصویر را ذخیره کرد</string>
     <string name="save_to_camera_success">در گالری ذخیره شد</string>
@@ -1611,10 +1588,10 @@
     <string name="setting_app_language">زبان مرورگر</string>
     <string name="setting_feed_language">زبان خبرخوان</string>
     <string name="setting_privacy_password">تنظیم الگوی باز کردن قفل</string>
+    <string name="setting_swipe_up">کشیدن صفحه اصلی به سمت بالا</string>
     <string name="share_image_text">ببینید چه چیز را هم‌رسانی کرده‌ام! @MIUI</string>
     <string name="share_page_text">ببینید چه چیزی را هم‌رسانی کرده‌ام: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">ببینید چه چیزی را هم‌رسانی کرده‌ام: %1$s</string>
-    <string name="share_video">هم‌رسانی ویدئو</string>
     <string name="sign_in">درحال ورود</string>
     <string name="sign_in_by_others">راه‌های دیگر برای ورود</string>
     <string name="sign_in_by_xiaommi">ورود با حساب Mi</string>
@@ -1655,7 +1632,7 @@
     <string name="ssl_unknown">خطای ناشناخته در گواهی.</string>
     <string name="ssl_untrusted">این گواهی از یک مرجع معتبر نیست.</string>
     <string name="ssl_warnings_header">در گواهی امنیتی این سایت مشکلاتی وجود دارد.</string>
-    <string name="start_save_page_capture">ذخیره کردن عکس از صفحه…</string>
+    <string name="start_save_page_capture">درحال ذخیره عکس صفحه…</string>
     <string name="storage_info_detail">در دسترس:%1$s مجموع: %2$s</string>
     <string name="storage_internal">حافظه داخلی</string>
     <string name="storage_permission_request_toast">دانلودها نیاز به دسترسی به حافظه دستگاه شما دارند</string>
@@ -1762,8 +1739,6 @@
     <string name="traffic_fail_free_no_left">ترافیک شما تمام شد. برای ادامه مشترک شوید.</string>
     <string name="traffic_fail_no_left">ترافیک VPN شما تمام شد</string>
     <string name="traffic_fail_upload">خطایی رخ داد VPN را دوباره روشن کنید.</string>
-    <string name="transfer_prompt_0">پخش ویدئو</string>
-    <string name="transfer_restart">راه اندازی دوباره</string>
     <string name="translate">ترجمه</string>
     <string name="translate_cur_page">این صفحه ترجمه شود؟</string>
     <string name="translate_into">ترجمه به</string>
@@ -1817,9 +1792,7 @@
     <string name="user_guide_read_info_tips">برای گنجاندن برنامه‌ها در نتایج جستجو، مرورگر Mi نیاز به دسترسی به فهرست برنامه‌های نصب شده روی دستگاه شما دارد.</string>
     <string name="user_id_hint">ایمیل/تلفن/شناسه حساب Mi</string>
     <string name="username">نام</string>
-    <string name="v5_deselect_all">لغو انتخاب همه</string>
-    <string name="v5_edit_mode_title_empty">۰ مورد انتخاب شد</string>
-    <string name="v5_select_all">انتخاب همه</string>
+    <string name="v5_edit_mode_title_empty">انتخاب موارد</string>
     <string name="v_code_title">کد تأیید را وارد کنید</string>
     <string name="verify_subscription">درحال به‌روزرسانی اشتراک…</string>
     <string name="version_check_button_checking">درحال بررسي…</string>
@@ -1837,59 +1810,18 @@
     <string name="version_dialog_buttion_update">به‌روزرسانی</string>
     <string name="version_update_file_download_toast">در حال دانلود</string>
     <string name="version_update_file_not_found">به‌روزرسانی‌ها پیدا نشد</string>
-    <string name="video_activity_name">موارد پسندیده</string>
-    <string name="video_buffering_percent_string">"درحال پردازش "</string>
-    <string name="video_collect_cancel">حذف از موارد پسندیده</string>
-    <string name="video_collect_success">به موارد پسندیده افزوده شد</string>
     <string name="video_collection_click_view">ویدئوهایی که به موارد پسندیده افزوده‌اید اینجا هستند</string>
     <string name="video_collection_empty">هنوز ویدئویی اینجا نیست</string>
     <string name="video_collection_known">فهمیدم</string>
     <string name="video_collection_view">نمایش</string>
-    <string name="video_download_complete">با موفقیت دانلود شد</string>
-    <string name="video_download_empty">ویدئویی وجود ندارد</string>
-    <string name="video_download_error">خطا</string>
-    <string name="video_download_error_http_gone">فایل پیدا نشد</string>
-    <string name="video_download_exists">ویدئو درحال‌حاضر موجود است.</string>
-    <string name="video_download_fail">دانلود نشد</string>
-    <string name="video_download_failed">دانلود نشد</string>
-    <string name="video_download_finding_address">درحال دریافت پیوند دانلود</string>
-    <string name="video_download_pause">مکث شد</string>
-    <string name="video_download_start">در حال دانلود…</string>
-    <string name="video_download_success">با موفقیت دانلود شد</string>
-    <string name="video_download_unknown_name">ویدئوی ناشناخته</string>
-    <string name="video_download_unknown_size">اندازه نامشخص</string>
-    <string name="video_download_unsupport">پشتیبانی نمی‎شود</string>
-    <string name="video_download_wait_for_wifi">در انتظار Wi-Fi</string>
-    <string name="video_downloaded_group">دانلود شد</string>
+    <string name="video_download_complete">ویدئو با موفقیت دانلود شد</string>
     <string name="video_downloader_edit_hint">"یک پیوند را برای دانلود یک ویدئو جای‌گذاری کنید. برای نمونه:
 https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="video_downloader_fail">این مورد دانلود نشد</string>
     <string name="video_downloader_retry">تلاش دوباره</string>
-    <string name="video_downloading_group">در حال دانلود</string>
-    <string name="video_edit">ویرایش</string>
-    <string name="video_float_window_text">ویدئوی بازشو</string>
-    <string name="video_fragment_name_collections">موارد پسندیده</string>
-    <string name="video_fragment_name_download">ویدئوی آفلاین</string>
-    <string name="video_fragment_name_historys">تاریخچه</string>
-    <string name="video_fragment_name_offine">آفلاین</string>
-    <string name="video_group_noupdates_list">هیچ به‌روزرسانی موجود نیست</string>
-    <string name="video_group_updates_list">به‌روزرسانی‌ها</string>
-    <string name="video_history_empty">بدون تاریخچه</string>
-    <string name="video_manager_action_bar_end_view">ویدئوهای آنلاین</string>
     <string name="video_play_next">برنامه بعدی</string>
-    <string name="video_project_button">توقف</string>
-    <string name="video_project_msg">ویدئو در حال بازتاباندن به %s است</string>
-    <string name="video_project_title">بازتاباندن ویدئو</string>
-    <string name="video_push_multi_title">به‌روزرسانی در دسترس است</string>
-    <string name="video_push_single_message">برای به‌روز‌رسانی به %1$d ضربه بزنید.</string>
     <string name="video_replay_btn">بازپخش</string>
     <string name="video_retry_btn">تلاش دوباره</string>
-    <string name="video_service_notification_title">درحال پخش ویدئوی بازشو…</string>
-    <string name="video_subtitle_last_message1">کمتر از ۱ دقیقه باقی مانده است</string>
-    <string name="video_subtitle_prefix1">تماشا شده</string>
-    <string name="video_subtitle_prefix2">"تماشا شده: "</string>
-    <string name="video_title_prefix_message">"آفلاین: "</string>
-    <string name="video_unknown_duration">مدت زمان نامشخص</string>
     <string name="view_certificate">مشاهده گواهی</string>
     <string name="view_document_downloaded_files">مشاهده فایل‌های دانلود شد در دانلودها</string>
     <string name="voice_check_network">تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید.</string>
@@ -1936,7 +1868,6 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="wednesday">چهارشنبه</string>
     <string name="wednesday_short">چهارشنبه</string>
     <string name="wednesday_shortest">چهارشنبه</string>
-    <string name="welcome_to_mi_browser">به مرورگر Mi خوش آمدید!</string>
     <string name="what_is_new">برنامه را به‌روز کرده تا به ویژگی‌های جدید دسترسی یابید</string>
     <string name="whatsapp_downloadpage_tips">ذخیره‌کننده وضعیت واتساپ</string>
     <string name="whatsapp_file_saved_success">با موفقیت ذخیره شد</string>

@@ -70,7 +70,7 @@
     <string name="function_settings">تنظیمات میانبر</string>
     <string name="handy_mode_default_to_close_whether_open">حالت کار با یک دست به صورت پیش فرض خاموش است. حالت کار با یک دست روشن شود؟</string>
     <string name="hide_touch_assistant">پنهان‌سازی خودکار</string>
-    <string name="hide_touch_assistant_intro">پنهان کردن توپ سریع در برنامه‌های انتخاب شده.</string>
+    <string name="hide_touch_assistant_intro">پنهان کردن توپ فوری در برنامه‌های انتخاب شده.</string>
     <string name="hide_when_fullscreen">انتقال به کنار در حالت تمام صفحه</string>
     <string name="hide_when_fullscreen_intro">هنگام ورود به حالت تمام صفحه به کنار منتقل می‌شود.</string>
     <string name="mi_ai">میان‌برهای Mi AI</string>
