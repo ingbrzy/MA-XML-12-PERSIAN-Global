@@ -104,8 +104,6 @@
     <string name="feedback_custom_hint">مشکلی که با آن روبرو شده‌اید را توضیح دهید. اگر پیشنهادی دارید ممنون می‌شویم جزئیات بیشتری ارائه دهید!</string>
     <string name="find_device">یافتن دستگاه</string>
     <string name="find_device_dspt_provision">در صورت گم کردن دستگاه می‌توانید به &lt;font color=#0097FF>%s&lt;/font> رفته تا آن را یافته، قفل نموده و یا بازنشانی کنید. این ویژگی را هر زمانی می‌توانید در تنظیمات روشن یا خاموش کنید.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_gdpr_prompt">با روشن کردن یافتن دستگاه، شما <a href="app://com.miui.cloudservice.gdpr.license"><u> سیاست حفظ حریم خصوصی</u></a> ما را می‌پذیرید. در صورتی که نیاز به لغو این مجوز دارید، این ویژگی را خاموش کنید.</string>
     <string name="find_device_operation_failure_rpc">عملیات به دلیل خطای RPC انجام نشد.</string>
     <string name="find_device_send_sms_alert">اگر سیم‌کارت خود را تغییر دهید، برای فعال کردن این کارایی ممکن است پیام کوتاه دیگری به‌طور خودکار ارسال شود.</string>
@@ -328,13 +326,10 @@
     <string name="micloud_find_device_open_fail">یافتن دستگاه روشن نشد</string>
     <string name="micloud_find_device_opened">یافتن دستگاه روشن شد</string>
     <string name="micloud_find_device_opened_content">یافتن دستگاه شما در %s</string>
-    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
     <string name="micloud_find_device_verify_button">فعال‌سازی دوباره یافتن دستگاه</string>
     <string name="micloud_find_device_verify_close">خاموش کردن یافتن دستگاه</string>
     <string name="micloud_find_device_verify_fail">یافتن دستگاه دوباره فعال نشد</string>
     <string name="micloud_find_device_verify_progress">درحال فعال‌سازی دوباره یافتن دستگاه…</string>
-    <string name="micloud_footer_international_url">mi.com/micloud</string>
-    <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_last_sync_canceled">همگام‌سازی لغو شده بود. دوباره تلاش کنید.</string>
     <string name="micloud_main_head_menu_cloud_backup">نسخه پشتیبان صفحه اصلی</string>
     <string name="micloud_main_head_menu_cloud_backup_summary">تنظیمات سیستم و چیدمان صفحه اصلی</string>
