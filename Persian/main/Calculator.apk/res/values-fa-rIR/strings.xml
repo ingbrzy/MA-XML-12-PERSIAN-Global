@@ -660,7 +660,6 @@ LPRهای یک‌ساله و پنج‌ساله در بیستم هر ماه (مم
     <string name="unit_data_display_currency_btn">گولتروم بوتان</string>
     <string name="unit_data_display_currency_bwp">پولای بوتسوانا</string>
     <string name="unit_data_display_currency_byn">روبل بلاروس</string>
-    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">دلار کانادا</string>
     <string name="unit_data_display_currency_cdf">فرانک کنگو</string>
     <string name="unit_data_display_currency_chf">فرانک سوئیس</string>
@@ -1001,15 +1000,12 @@ LPRهای یک‌ساله و پنج‌ساله در بیستم هر ماه (مم
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
-    <string name="xiaomi_bytes_unit">%1$s بایت</string>
     <string name="xiaomi_calculator_delete_description">ماشین حساب یک برنامه سیستمی است. پس از حذف برنامه، دیگر نمی‌توانید از مبدل‌های چندگانه و ویژگی‌های بیشتر استفاده کنید.</string>
     <string name="xiaomi_calculator_delete_title">ماشین حساب حذف شود؟</string>
     <string name="xiaomi_calculator_remove_icon_description">ماشین حساب یک برنامه سیستمی است. پس از برداشتن میان‌بر از صفحه اصلی، دیگر نمی‌توانید از مبدل‌های چندگانه و ویژگی‌های بیشتر استفاده کنید.</string>
     <string name="xiaomi_calculator_remove_icon_title">«ماشین حساب» از صفحه اصلی برداشته شود؟</string>
     <string name="xiaomi_connect_download_manager_fail">به دانلودها وصل نشد. بررسی کرده تا این برنامه همه مجوزهای لازم را در تنظیمات > برنامه‌های نصب شده داشته باشد.</string>
     <string name="xiaomi_external_storage_unavailable">حافظه موجود نیست. کارت SD خود را بررسی کنید.</string>
-    <string name="xiaomi_kilobytes_unit">%1$s کیلوبایت</string>
-    <string name="xiaomi_megabytes_unit">%1$s مگابایت</string>
     <string name="xiaomi_update_dialog_message">"معرفی نسخه %1$s
 اندازه: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"معرفی نسخه %1$s

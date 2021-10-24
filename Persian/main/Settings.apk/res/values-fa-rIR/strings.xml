@@ -632,7 +632,6 @@ Playback quality"</string>
 در صورتی که هر کدام از موارد بالا را انجام داده‌اید، حساب Mi خود را دوباره بیافزایید؛ در غیر این صورت دیگر نمی‌توانید قفل دستگاه خود را باز کنید."</string>
     <string name="bootloader_tips_ok">فهمیدم</string>
     <string name="bootloader_tips_warning">اتصال شبکه را قطع نکرده، از حساب Mi خود خارج نشده، به تنظیمات کارخانه بازنشانی نکرده و داده‌های سیستمی را پاک نکنید.</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bottom_function_settings">Functions of additional buttons</string>
     <string name="breathing_light_color_menu_title">Light color</string>
     <string name="breathing_light_color_summary">Light color when receiving new notifications</string>
@@ -1103,7 +1102,6 @@ This setting affects all users of this device."</string>
     <string name="dialog_wifi_context">You need to connect to the internet to set up your device. Unless you connect to Wi-Fi, mobile data might be used. Using mobile data might generate additional carrier fees. Use mobile data anyway?</string>
     <string name="dialog_wifi_title">Using mobile data</string>
     <string name="dialog_yes">Yes</string>
-    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">"Note: After a reboot, this app won't start until you unlock your device."</string>
     <string name="disable_overlays">غیرفعال کردن پوشش سخت‌افزاری</string>
     <string name="disable_overlays_summary">همیشه از GPU برای رندر کردن صفحه استفاده شود</string>
@@ -1137,7 +1135,6 @@ This setting affects all users of this device."</string>
     <string name="dndm_auto_button_title">Repeat do not disturb time</string>
     <string name="dndm_auto_setting_group">Scheduled</string>
     <string name="dndm_auto_time_setting">Set time</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">To</string>
     <string name="dndm_auto_time_turn_off_title">Automatically turn off do not disturb</string>
     <string name="dndm_auto_time_turn_on">From</string>
@@ -2957,7 +2954,6 @@ Read and agree to %s before using this service."</string>
     <string name="power_remaining_less_than_duration_only">کمتر از %1$s مانده</string>
     <string name="power_remaining_more_than_subtext">بیشتر از %1$s مانده (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">بیشتر از %1$s مانده</string>
-    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_settings_title">System performance</string>
     <string name="power_suggestion_battery_run_out">ممکن است باتری تمام شود با %1$s</string>
     <string name="power_usage_history">Battery use</string>
@@ -3097,7 +3093,6 @@ Read and agree to %s before using this service."</string>
     <string name="private_sms_need_to_unlock">Enter password</string>
     <string name="private_sms_recording_intro_header">Draw an unlock pattern</string>
     <string name="private_sms_reset_by_account">To reset your password, sign in to your Mi Account.</string>
-    <string name="process_kernel_label">سیستم عامل Android</string>
     <string name="profile_connect_timeout_subtext">در اتصال اشکالی رخ داد. دستگاه را خاموش کرده و دوباره بازگردید.</string>
     <string name="profile_info_settings_title">اطلاعات نمایه</string>
     <string name="provision_activation">Active</string>
@@ -3564,7 +3559,6 @@ Read and agree to %s before using this service."</string>
     <string name="security_encryption_attention_3">"You'll have to set a new screen lock."</string>
     <string name="security_encryption_attention_4">"Make sure you remember your screen lock, otherwise you'll have to complete a full reset and erase all data on the device."</string>
     <string name="security_encryption_attention_info">You can encrypt accounts, settings, downloaded apps and their data, media, and other files.</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">Important</string>
     <string name="security_encryption_close_dialog_info">Choosing not to encrypt the device using a screen lock may make some Google services unavailable.</string>
     <string name="security_encryption_close_dialog_title">Go back to default system encryption</string>
@@ -3702,7 +3696,6 @@ Double tap to open Recents."</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">TB</string>
     <string name="skip_lock_screen_confirm_msg">"Notifications, music player controls, and shortcuts won't be displayed on the Lock screen."</string>
     <string name="skip_step">Skip</string>
@@ -3822,7 +3815,6 @@ Double tap to open Recents."</string>
     <string name="status_bar_carrier_settings_no_sim_card">بدون سیم‌کارت</string>
     <string name="status_bar_settings">اعلان‌ها و نوار وضعیت</string>
     <string name="status_bar_settings_all_app_display_loading">چند لحظه صبر کنید…</string>
-    <string name="status_bar_settings_carrier_sim">"سیم‌کارت %1$s: "</string>
     <string name="status_bar_settings_manage_notification">اعلان‌های برنامه</string>
     <string name="status_bar_settings_notification_bar">کرکره اعلان</string>
     <string name="status_bar_settings_status_bar">نوار وضعیت</string>
@@ -4386,7 +4378,6 @@ Tap the plus to add words."</string>
     <string name="visibility_override_title">روی صفحه قفل</string>
     <string name="voice_access">Voice controls</string>
     <string name="voice_assist">Mi AI</string>
-    <string name="voice_assist_volume_option_title">@string/voice_assist</string>
     <string name="voice_category">Speech</string>
     <string name="voice_helper_title">Voice assistant</string>
     <string name="voip_assistant_settings">VoIP assistant</string>

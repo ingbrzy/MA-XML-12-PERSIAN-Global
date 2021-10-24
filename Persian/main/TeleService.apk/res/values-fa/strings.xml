@@ -893,7 +893,6 @@
     <string name="mtrl_picker_a11y_next_month">تغییر به ماه بعدی</string>
     <string name="mtrl_picker_a11y_prev_month">تغییر به ماه قبلی</string>
     <string name="mtrl_picker_announce_current_selection">انتخاب کنونی: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">انتخاب تاریخ</string>
     <string name="mtrl_picker_date_header_unselected">تاریخ انتخابی</string>
@@ -1131,7 +1130,6 @@
     <string name="private_dns_mode_provider_failure">متصل نشد</string>
     <string name="private_dns_mode_provider_hostname_hint">‏نام میزبان ارائه‌دهنده DNS خصوصی را وارد کنید</string>
     <string name="private_num">شماره خصوصی</string>
-    <string name="process_kernel_label">‏سیستم‌عامل Android</string>
     <string name="profile_connect_timeout_subtext">مشکل در اتصال. دستگاه را خاموش و دوباره روشن کنید</string>
     <string name="profile_info_settings_title">اطلاعات نمایه</string>
     <string name="progress_dialog_exiting_ecm">خروج از حالت پاسخ تماس اضطراری</string>
