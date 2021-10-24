@@ -53,7 +53,7 @@
     <string name="backup_is_running">درحال پشتیبان‌گیری از دستگاه</string>
     <string name="backup_new">تازه:</string>
     <string name="backup_progress">درحال پشتیبان‌گیری…</string>
-    <string name="backup_report">مشاهده جزئیات</string>
+    <string name="backup_report">نمایش جزئیات</string>
     <string name="backup_security_tips_message">برخی برنامه‌ها ممکن است پشتیبان‌گیری یا بازیابی نشوند.</string>
     <string name="backup_security_tips_title">پشتیبان‌گیری‌ها ممکن است کار نکنند</string>
     <string name="backup_update">به‌روزرسانی</string>
@@ -81,7 +81,7 @@
     <string name="cancel_restore">توقف</string>
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
     <string name="click_soft_ap_to_link">یک کانون داغ برای اتصال انتخاب کنید</string>
-    <string name="click_to_view">برای مشاهده ضربه بزنید</string>
+    <string name="click_to_view">برای نمایش ضربه بزنید</string>
     <string name="close">بستن</string>
     <string name="close_twice_auth_btn">خاموش کردن مجوز دو مرحله‌ای</string>
     <string name="close_twice_auth_note">"توجه:
@@ -140,10 +140,11 @@
     <string name="dialog_backup_password_auto_backup_tips">هنگام روشن بودن گذرواژه پشتیبان‌گیری، موارد به صورت خودکار پشتیبان‌گیری نمی‌شوند. ابتدا گذرواژه پشتیبان‌گیری را خاموش کنید.</string>
     <string name="dialog_backup_password_backup_tips">موارد را در صورت روشن بودن گذرواژه نمی‌توان پشتیبان‌گیری کرد. گذرواژه پشتیبان‌گیری را خاموش کنید.</string>
     <string name="dialog_backup_password_cancel">لغو</string>
-    <string name="dialog_backup_password_change_device_restore_tips">هنگام روشن بودن گذرواژه پشتیبان‌گیری، از جابجاگر Mi نمی‌توان استفاده کرد. ابتدا گذرواژه پشتیبان‌گیری را خاموش کنید.</string>
+    <string name="dialog_backup_password_change_device_restore_tips">هنگام روشن بودن گذرواژه پشتیبان‌، از جابجاگر Mi نمی‌توان استفاده کرد. ابتدا گذرواژه پشتیبان‌ را خاموش کنید.</string>
     <string name="dialog_backup_password_change_machine_tips">شما نمی‌توانید نسخه‌های پشتیبان محافظت شده با رمز را انتقال دهید. پیش از استفاده از جابجاگر Mi گذرواژه پشتیبان‌گیری را خاموش کنید.</string>
-    <string name="dialog_backup_password_restore_tips">هنگام روشن بودن گذرواژه پشتیبان‌گیری، موارد را نمی‌توان بازیابی کرد. ابتدا گذرواژه پشتیبان‌گیری را خاموش کنید.</string>
+    <string name="dialog_backup_password_restore_tips">هنگام روشن بودن گذرواژه پشتیبان‌، موارد را نمی‌توان بازیابی کرد. ابتدا گذرواژه پشتیبان را خاموش کنید.</string>
     <string name="dialog_backup_password_to_settings">تنظیمات</string>
+    <string name="digit_percent">%</string>
     <string name="dir_date_format">yyyyMMdd_HHmmss</string>
     <string name="disable_encrypt_description">رمزگذاری نشده</string>
     <string name="disable_encrypt_title">خاموش کردن رمزگذاری</string>
@@ -169,13 +170,13 @@
     <string name="err_bakfile_broken">از این نسخه پشتیبان نمی‌توان استفاده کرد.</string>
     <string name="err_bakfile_not_exist">فایل پشتیبان موجود نیست.</string>
     <string name="err_binder_died">برنامه به صورت غیر منتظره متوقف شد.</string>
-    <string name="err_filesystem_mount">نمی‌توان به حافظه روتر دسترسی پیدا کرد</string>
+    <string name="err_filesystem_mount">نمی‌توان به حافظه رهیاب دسترسی پیدا کرد</string>
     <string name="err_low_storage">فضای کافی وجود ندارد</string>
-    <string name="err_no_gms">نسخه برنامه ناسازگار است. این برنامه را به صورت جدا نصب کنید.</string>
+    <string name="err_no_gms">نگارش برنامه ناسازگار است. این برنامه را به صورت جدا نصب کنید.</string>
     <string name="err_not_allow">مورد پشتیبانی نیست</string>
     <string name="err_pkg_not_exist">برنامه یافت نشد.</string>
-    <string name="err_router_disconnected">اتصال روتر خود را بررسی کرده و دوباره تلاش کنید.</string>
-    <string name="err_router_files_delete">فایل‌های پشتیبان‌گیری روتر حذف نشدند</string>
+    <string name="err_router_disconnected">اتصال رهیاب خود را بررسی کرده و دوباره تلاش کنید.</string>
+    <string name="err_router_files_delete">فایل‌های پشتیبان‌گیری رهیاب حذف نشدند</string>
     <string name="err_unknown">خطای ناشناخته</string>
     <string name="err_user_abort">توسط کاربر لغو شد.</string>
     <string name="err_version_too_old">فایل پشتیبان بسیار قدیمی است.</string>
@@ -193,7 +194,7 @@
     <string name="feature_title_mms">MMS</string>
     <string name="feature_title_mms_setting">تنظیمات پیام‌رسان</string>
     <string name="feature_title_sms">پیام‌ها</string>
-    <string name="file_uploading">در حال آپلودU2026</string>
+    <string name="file_uploading">در حال آپلود…</string>
     <string name="files_backup_info">تمام پوشه‌های کارت SD (شامل عکس، آهنگ، ویدئو، اطلاعات برنامه و غیره)</string>
     <string name="findlost_contact">بازیابی مخاطبین</string>
     <string name="findlost_contact_online">بازیابی مخاطبین از فضای ابری</string>
@@ -283,7 +284,7 @@
     <string name="hsa_verify_failed_message">مجوز دو مرحله‌ای ناموفق بود. می‌توانید دوباره تلاش کرده یا مجوز دو مرحله‌ای را خاموش کنید.</string>
     <string name="hsa_verify_retry">تلاش دوباره</string>
     <string name="hsa_verify_shutdown">خاموش کردن</string>
-    <string name="iCloud_ID_verification_tip">در دستگاه Apple خود روی «Allow» زده تا کد تایید نمایان شود. کد تأیید را اینجا وارد کنید.</string>
+    <string name="iCloud_ID_verification_tip">در دستگاه Apple خود روی «اجازه دادن» زده تا کد تایید نمایان شود. کد تأیید را اینجا وارد کنید.</string>
     <string name="icloud_backup_tip">وارد حساب iCloud دستگاه iOS قدیمی خود شوید</string>
     <string name="icloud_how_to_backup_tip_steps">"۱. تنظیمات دستگاه iOS خود را باز کرده و iCloud را انتخاب کنید.r
 ۲. کلید وضعیت مخاطبین و سایر موارد (contacts and other items) را تغییر دهید.r
@@ -303,6 +304,7 @@
 2.\u0009به تنظیمات Mi Talk رفته «پشتیبان‌گیری از مخاطبین به حساب Mi» را بزنید"</string>
     <string name="import_from_xiaomi_account_hint2">اگر قبلاً نسخه پشتیبان تهیه کرده‌اید، بعدی را بزنید.</string>
     <string name="import_from_xiaomi_account_hint_title">از Mi Talk برای پشتیبان‌گیری از مخاطبین بین دستگاه‌هایتان استفاده کنید.</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">به دلیل مسائل سازگاری، شما فقط می‌توانید بخشی از داده‌ها را از دستگاه‌های iOS منتقل کنید. مطمئن شوید که پیش از آغاز انتقال یک نسخه پشتیبان از iCloud ایجاد کرده‌اید.</string>
     <string name="lack_perm_msg">جابجاگر Mi نیاز به مجوزهای زیر دارد: &lt;b>%s&lt;/b>.</string>
     <string name="lack_perm_title">نیازمند مجوز است</string>
@@ -332,7 +334,7 @@
     <string name="local_main_backup_manager_title">مدیریت پشتیبان‌گیری‌ها</string>
     <string name="local_main_backup_settings">تنظیمات پشتیبان‌گیری محلی</string>
     <string name="local_main_backup_time">آخرین پشتیبان‌گیری: %1$s</string>
-    <string name="local_main_date_format">yyyy/MM/dd HH:mm</string>
+    <string name="local_main_date_format">dd/MM/yyyy HH:mm</string>
     <string name="local_main_encrypt_backup_summary">رمزگذاری مواردی که پشتیبان‌گیری می‌کنید به وسیله حساب Mi شما</string>
     <string name="local_main_encrypt_backup_title">رمزگذاری نسخه‌های پشتیبان</string>
     <string name="local_main_latest_backup_time_loading">چند لحظه صبر کنید…</string>
@@ -353,8 +355,9 @@
     <string name="login_failed">وارد نشد. دوباره تلاش کنید.</string>
     <string name="logining">درحال ورود…</string>
     <string name="midnight">شب</string>
-    <string name="miliao_account_guide">برای ورود به فضای ابری Xiaomi، تم‌های MIUI و دیگر خدمات Mi از هرجا، از حساب کاربری Mi استفاده کنید.</string>
+    <string name="miliao_account_guide">برای ورود به فضای ابری Xiaomi، تم‌های MIUI و دیگر خدمات Mi از هرجا، از حساب Mi استفاده کنید.</string>
     <string name="miliao_account_login">ورود با Mi Talk</string>
+    <string name="miuix_access_state_desc">انتخاب شده</string>
     <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
     <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
@@ -549,7 +552,7 @@
     <string name="restore_backup">بازیابی</string>
     <string name="restore_contact">بازیابی مخاطبین</string>
     <string name="restore_contact_content">بازیابی ممکن است مخاطبین تکراری ایجاد کند.</string>
-    <string name="restore_contacts_hit">ممکن است برای مشاهده اطلاعات بازیابی شده نیاز باشد دوباره وارد سیستم شوید.</string>
+    <string name="restore_contacts_hit">ممکن است برای نمایش اطلاعات بازیابی شده نیاز باشد دوباره وارد سیستم شوید.</string>
     <string name="restore_counts">بازیابی:</string>
     <string name="restore_data">انتخاب موارد برای بازیابی</string>
     <string name="restore_failed">بازیابی نشد</string>
@@ -587,7 +590,7 @@ Wi-Fi را خاموش نکنید"</string>
     <string name="sdcard_no_enough_space">فضای کافی وجود ندارد</string>
     <string name="sdcard_no_enough_space_message">در کارت SD شما فضای کافی برای پشتیبان‌گیری وجود ندارد.</string>
     <string name="sdcard_unmounted">اکنون کارت SD را وارد کنید</string>
-    <string name="see_backup_files_on_router">مشاهده نسخه‌های پشتیبان بر روی روتر Mi %s</string>
+    <string name="see_backup_files_on_router">نمایش نسخه‌های پشتیبان بر روی رهیاب Mi %s</string>
     <string name="select_all">انتخاب همه</string>
     <string name="select_backup_item">انتخاب موارد</string>
     <string name="select_empty">موارد را برای وارد کردن انتخاب کنید</string>
@@ -603,9 +606,9 @@ Wi-Fi را خاموش نکنید"</string>
     <string name="service_stoped">خدمات متوقف شده است</string>
     <string name="settings_summary">تنظیمات تلفن و پیام‌رسانی</string>
     <string name="size_byte">بایت</string>
-    <string name="size_giga_byte">گیگابایت</string>
-    <string name="size_kilo_byte">کیلوبایت</string>
-    <string name="size_mega_byte">مگابایت</string>
+    <string name="size_giga_byte">گ.ب</string>
+    <string name="size_kilo_byte">ک.ب</string>
+    <string name="size_mega_byte">م.ب</string>
     <string name="size_peta_byte">پتابایت</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">ترابایت</string>
@@ -615,7 +618,7 @@ Wi-Fi را خاموش نکنید"</string>
     <string name="software_backup_info">داده‌های برنامه</string>
     <string name="start_backup">پشتیبان‌گیری</string>
     <string name="start_restore">بازیابی</string>
-    <string name="state_mounting">درحال دسترسی به حافظه روتر…</string>
+    <string name="state_mounting">درحال دسترسی به حافظه رهیاب…</string>
     <string name="state_waiting">چند لحظه صبر کنید…</string>
     <string name="storage_sd_card">کارت SD</string>
     <string name="storage_usb">درایو USB</string>
@@ -649,11 +652,11 @@ Wi-Fi را خاموش نکنید"</string>
     <string name="task_restore_cancel_progress">متوقف کردن…</string>
     <string name="task_restore_finished_local">"بازیابی شد "</string>
     <string name="task_restore_none">چیزی برای بازیابی وجود ندارد</string>
-    <string name="task_running_backup_dialog">پشتیبان‌گیری درحال انجام است. برای مشاهده تأیید را بزنید.</string>
+    <string name="task_running_backup_dialog">پشتیبان‌گیری درحال انجام است. برای نمایش تأیید را بزنید.</string>
     <string name="task_running_backup_hint">این کارایی درحال حاضر در پس‌زمینه در حال اجرا است</string>
-    <string name="task_running_dialog">پشتیبان‌گیری و بازیابی درحال اجرا است. برای مشاهده تأیید را بزنید.</string>
+    <string name="task_running_dialog">پشتیبان‌گیری و بازیابی درحال اجرا است. برای نمایش تأیید را بزنید.</string>
     <string name="task_running_hint">این فرآیند درحال حاضردر پس‌زمینه درحال اجرا است</string>
-    <string name="task_running_restore_dialog">بازیابی درحال اجرا است. برای مشاهده تأیید را بزنید.</string>
+    <string name="task_running_restore_dialog">بازیابی درحال اجرا است. برای نمایش تأیید را بزنید.</string>
     <string name="task_running_restore_hint">این کارایی درحال حاضر در پس‌زمینه در حال اجرا است</string>
     <string name="task_service_not_launched">کار هنوز آغاز نشده است</string>
     <string name="task_stopped_exception">بازیابی لغو شد</string>
@@ -777,11 +780,11 @@ Wi-Fi را خاموش نکنید"</string>
     <string name="trans_intro_desc_4">جابجاگر Mi از Wi-Fi برای انتقال فایل‌ها استفاده می‌کند. به همین دلیل است که نمی‌توانید هنگام انتقال با استفاده از Wi-Fi روی دستگاه دیگر به اینترنت وصل شوید. گرچه هنوز می‌توانید از اینترنت همراه استفاده کنید. در هر صورت، برخی دستگاه‌های جدید (مانند Mi 6) هنگام انتقال با استفاده از Wi-Fi همچنان می‌توانند به اینترنت متصل بمانند.</string>
     <string name="trans_intro_desc_4_market">جابجاگر Mi برای انتقال فایل‌ها از Wi-Fi استفاده می‌کند. به همین دلیل است که دستگاه شما هنگام انتقال با Wi-Fi به اینترنت وصل نمی‌شود. اما همچنان می‌توانید از اینترنت همراه استفاده کنید.</string>
     <string name="trans_intro_desc_5">فضای ذخیره‌سازی در دستگاه‌های قدیمی برای ایجاد بسته‌های انتقال استفاده می‌شود. مطمئن شوید که پیش از آغاز انتقال، حداقل ۵۰۰ مگابایت - ۱ گیگابایت فضای موجود در دستگاه قدیمی خود دارید.</string>
-    <string name="trans_intro_desc_6">چند دلیل ممکن است وجود داشته باشد: مشکلات، سازگاری نسخه سیستم و برنامه، مشکلات شبکه، مشکلات سازگاری خاص برای دستگاه به خصوص و غیره.</string>
+    <string name="trans_intro_desc_6">چند دلیل ممکن است وجود داشته باشد: مشکلات، سازگاری نگارش سیستم و برنامه، مشکلات شبکه، مشکلات سازگاری خاص برای دستگاه به خصوص و غیره.</string>
     <string name="trans_intro_desc_7">برخی نمایه‌های برنامه‌ها (بانکداری اینترنتی، مالی و غیره) به دلایل امنیتی با دستگاه خاصی مرتبط هستند. تلاش کنید تا داده‌های برنامه را پاک کرده یا برنامه را روی یک دستگاه جدید دوباره نصب کنید.</string>
     <string name="trans_intro_desc_8">داده‌های برنامه و تاریخچه گپ WeChat ممکن است به طور کامل با جابجاگر Mi منتقل نشوند. به تنظیمات WeChat رفته و از حساب خود خارج شده تا شانس بیشتری برای انتقال موفق پیدا کنید.</string>
     <string name="trans_intro_desc_9_method_1_dec">به صفحه اصلی > ابزار > باز خورد بروید.</string>
-    <string name="trans_intro_desc_9_method_1_title">۱. با برنامه «بازخورد» بازخوردتان را با ما همرسانی کنید.</string>
+    <string name="trans_intro_desc_9_method_1_title">۱. با برنامه «بازخورد» بازخوردتان را با ما هم‌رسانی کنید.</string>
     <string name="trans_intro_desc_9_method_2_dec">ایمیل خود را به miui-mover@xiaomi.com ارسال کنید.</string>
     <string name="trans_intro_desc_9_method_2_title">۲. به ما ایمیل بزنید</string>
     <string name="trans_intro_desc_9_method_3_dec">گروه QQ جابجاگر Mi: 687338378</string>
@@ -837,7 +840,7 @@ Wi-Fi را خاموش نکنید"</string>
 سپس «اتصال دوباره» را زده تا یک کد QR ایجاد کنید."</string>
     <string name="trans_operate_reconnect_old_tips">"صبر کرده تا گوشی قدیمی «اتصال قطع شد» را نمایش دهد.
 سپس «اتصال دوباره» را زده تا کد QR اسکن شود."</string>
-    <string name="trans_operate_tip_for_other_android">جابجاگر Mi را در گوشی قدیمی خود باز کرده، «آغاز» را زده و کد QR بالا را اسکن کنید.</string>
+    <string name="trans_operate_tip_for_other_android">جابجاگر Mi را در گوشی قدیمی خود باز کرده، \"آغاز\" را زده و کد QR بالا را اسکن کنید.</string>
     <string name="trans_pausing">درحال مکث کردن…</string>
     <string name="trans_please_waiting">چند لحظه صبر کنید…</string>
     <string name="trans_progress_subdescript_br_receiver">بازیابی %1$s، %2$s کامل شد</string>
@@ -873,7 +876,7 @@ Wi-Fi را خاموش نکنید"</string>
 فقط موارد مهم را انتخاب کرده تا انتقال سریع‌تر انجام شود."</string>
     <string name="trans_select_device_receive">یک دستگاه را برای دریافت اطلاعات انتخاب کنید.</string>
     <string name="trans_select_device_send">یک دستگاه را برای انتقال اطلاعات انتخاب کنید.</string>
-    <string name="trans_select_notification_message">برای مشاهده ضربه بزنید</string>
+    <string name="trans_select_notification_message">برای نمایش ضربه بزنید</string>
     <string name="trans_select_notification_title">جابجاگر Mi درحال کار است…</string>
     <string name="trans_sender">من یک فرستنده‌ام</string>
     <string name="trans_sender_connectting">تایید برروی دستگاه جدید</string>
@@ -936,10 +939,13 @@ Wi-Fi را خاموش نکنید.
     <string name="wednesday_short">چهارشنبه</string>
     <string name="wednesday_shortest">چهارشنبه</string>
     <string name="wifi_title">تنظیمات Wi-Fi</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_connect_download_manager_fail">دانلود آعاز نشد. مطمئن شوید مدیریت دانلود به صورت عادی کار می‌کند.</string>
     <string name="xiaomi_external_storage_unavailable">حافظه در دسترس نیست. کارت SD خود را بررسی کنید.</string>
-    <string name="xiaomi_router">روتر Mi</string>
-    <string name="xiaomi_router_location">روترMi %s</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sمگابایت</string>
+    <string name="xiaomi_router">رهیاب Mi</string>
+    <string name="xiaomi_router_location">رهیابMi %s</string>
     <string name="xiaomi_update_dialog_message">"معرفی نسخه %1$s
 اندازه: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"معرفی نسخه %1$s

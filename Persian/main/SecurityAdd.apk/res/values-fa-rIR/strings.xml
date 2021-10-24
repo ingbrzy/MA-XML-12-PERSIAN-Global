@@ -29,6 +29,7 @@
     <string name="dual_app_title">برنامه‌های همزاد</string>
     <string name="dual_app_words">هر حسابی سزاوار برنامه‌های خودش است</string>
     <string name="early_morning">صبح</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">میلادی</string>
     <string name="eras_bc">پیش از میلاد</string>
     <string name="evening">بعد از ظهر</string>
@@ -206,6 +207,7 @@
     <string name="gb_pannel_control_mode_power_saving">صرفه جویی در برق</string>
     <string name="gb_weixinpay_can_not_complete">پرداخت کامل نمی‌شود. برای ادامه نصب کنید.</string>
     <string name="gdpr_msg">&lt;Data>برای استفاده از ویژگی‌های ابتدایی امنیت، شما باید بپذیرید که Xiaomi داده‌های شخصی شما شامل اطلاعات درباره راه‌های استفاده از ویژگی‌های امنیت (مانند: آمار مصرف اینترنت همراه، اطلاعات درباره بدافزار، همچنین اطلاعات پایه‌ای درباره دستگاه شما) و دیگر انواع اطلاعاتی که در &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">سیاست حفظ حریم خصوصی&lt;/a> مشخص شده است را گردآوری، پردازش و استفاده خواهد کرد.&lt;/Data></string>
+    <string name="hybrid_provider">ارائه شده توسط %1$s</string>
     <string name="install_success">%s Install Success</string>
     <string name="lucky_result_title">پاکت سرخ</string>
     <string name="main_toolbar_purchase">خرید اعتبار</string>
@@ -282,6 +284,7 @@
     <string name="net_booster_overdue_notification_tip">دوره افزایش سرعت شبکه به زودی پایان می‌یابد. دوره تمدید شود؟</string>
     <string name="network_not_available">به شبکه متصل نمی‌شود</string>
     <string name="night">شب</string>
+    <string name="no_network">به شبکه متصل نشد</string>
     <string name="no_network_btn">تلاش دوباره</string>
     <string name="noon">ظهر</string>
     <string name="ok_button">تأیید</string>
@@ -389,6 +392,9 @@
     <string name="tuesday_short">سه‌شنبه</string>
     <string name="tuesday_shortest">سه‌شنبه</string>
     <string name="usage_sorted_loading_text">چند لحظه صبر کنید…</string>
+    <string name="web_sso_login_fail">باید دوباره وارد شوید</string>
+    <string name="web_sso_login_message">درحال ورود…</string>
+    <string name="webview_reload">دوباره تلاش کنید</string>
     <string name="wednesday">چهارشنبه</string>
     <string name="wednesday_short">چهارشنبه</string>
     <string name="wednesday_shortest">چهارشنبه</string>

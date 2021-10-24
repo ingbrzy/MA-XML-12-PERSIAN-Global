@@ -112,7 +112,7 @@
     <string name="buy_vip_skip_ad">حذف تبلیغات</string>
     <string name="cancel">لغو</string>
     <string name="cancel_running_download">لغو</string>
-    <string name="cannot_download_to_sdcard_hint">به دلیل محدودیت‌های حق چاپ، موارد در کارت SD دانلود نمی‌شوند. موارد به‌جای آن در حافظه داخلی دانلود خواهند شد.</string>
+    <string name="cannot_download_to_sdcard_hint">به دلیل محدودیت‌های حق چاپ و نشر، موارد در کارت SD دانلود نمی‌شوند. موارد به‌جای آن در حافظه داخلی دانلود خواهند شد.</string>
     <string name="change_download_quality">تغییر کیفیت دانلود</string>
     <string name="checking_new_version">درحال بررسی به‌روزرسانی‌ها…</string>
     <string name="choose_download_quality">کیفیت دانلود را انتخاب کنید</string>
@@ -122,6 +122,8 @@
     <string name="click_to_add_album_cover_and_lyric">برای افزودن جلد آلبوم و متن ترانه ضربه بزنید</string>
     <string name="click_to_shuffle">پخش تصادفی‌</string>
     <string name="close_music_time">"زمان باقی‌مانده: "</string>
+    <string name="columbus_ad_flag_text">آگهی</string>
+    <string name="columbus_skip_ad">رد شدن</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="confirm">تأیید</string>
     <string name="confirm_exit">تغییرات ذخیره شوند؟</string>
@@ -244,7 +246,9 @@
     <string name="download_method">دانلود</string>
     <string name="download_no_application_title">فایل را نمی توان باز کرد</string>
     <string name="download_paused_in_power_save_mode">دانلودها هنگامی که بهینه‌ساز باتری روشن است متوقف می‌شوند</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">در حال دانلود…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">کیفیت دانلود</string>
     <string name="download_quality_summary">تنظیمات بیشتر برای آهنگ‌هایی که دانلود می‌کنید</string>
     <string name="download_queued">در نوبت قرار گرفت</string>
@@ -668,6 +672,7 @@
     <string name="privacy_authorize_revoking">درحال باطل کردن مجوز…</string>
     <string name="privacy_desc">سیاست حفظ حریم خصوصی (اجباری)</string>
     <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=fa_IR</string>
     <string name="privacy_request_desc">"&lt;Data>موسیقی Mi برای ارائه خدمات پخش آنلاین نیاز به گردآوری اطلاعات شخصی لازم دارد. شما می‌توانید در &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما از چگونگی به‌کارگیری اطلاعاتی که گردآوری می‌کنیم آگاه شوید. شما در هر زمانی می‌توانید در تنظیمات رضایت خود را نسبت به سیاست حفظ حریم خصوصی موسیقی Mi پس بگیرید.
 پیش از استفاده از موسیقی Mi &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.
 چنانچه سیاست حفظ حریم خصوصی ما را نپذیرید، نمی‌توانید از برخی ویژگی‌های این برنامه استفاده کنید؛ با این وجود، کارایی‌های پایه‌ای همچنان برای شما در دسترس خواهند بود.&lt;/Data>"</string>
@@ -902,6 +907,7 @@
     <string name="upload_playlist_to_hungama_title">آهنگ‌های آنلاین را در Hungama همگام‌سازی کرده تا بتوانید در سایر دستگاه‌هایی که از حساب Mi خود استفاده می‌کنید به آن‌ها دسترسی یابید.</string>
     <string name="upload_playlist_to_hungama_toast">آهنگ‌های آنلاین در Hungama همگام‌سازی خواهند شد</string>
     <string name="user_agreement">توافق‌نامه کاربر</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=fa_IR</string>
     <string name="user_playlist_plaza">فهرست‌های پخش</string>
     <string name="user_privacy_dialog_negative_text">لغو</string>
     <string name="user_privacy_dialog_positive_count_down_text">پس گرفتن (%s ثانیه)</string>

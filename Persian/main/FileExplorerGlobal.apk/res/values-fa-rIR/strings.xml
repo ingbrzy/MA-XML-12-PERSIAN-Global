@@ -170,7 +170,7 @@
     <string name="folder_name_empty">نام پوشه نمی‌تواند خالی باشد</string>
     <string name="folder_name_illegal">نام پوشه نامعتبر</string>
     <string name="found_usb">حافظه USB وصل شد</string>
-    <string name="ftp_account_req_notice">۴ تا ۶ نویسه، حرف و عدد، حساس به حروف کوچک و بزرگ</string>
+    <string name="ftp_account_req_notice">نام کاربری و گذرواژه حساس به بزرگی و کوچکی حروف بوده و باید دارای %1$d تا %2$d نویسه باشند. شما می‌توانید حروف انگلیسی، نمادهای ویژه و اعداد را با هم ادغام کنید.</string>
     <string name="ftp_anonymous_login">ورود به صورت ناشناس</string>
     <string name="ftp_invalid_username_or_password">نام کاربری و گذرواژه وارد شده نامعتبر است.</string>
     <string name="ftp_open_port_error">درگاه باز نمی‌شود. اتصال شبکه خود را بررسی یا شماره درگاه را دوباره تنظیم نمایید.</string>
@@ -178,7 +178,7 @@
     <string name="ftp_port_number">شماره درگاه</string>
     <string name="ftp_random_port">درگاه تصادفی</string>
     <string name="ftp_transfer_secure">امنیت</string>
-    <string name="ftp_username_and_passworld">ورود به حساب</string>
+    <string name="ftp_username_and_passworld">تنظیم نام کاربری و گذرواژه</string>
     <string name="ftp_username_hint">نام کاربری</string>
     <string name="gbk_summary">کدگذاری پیش‌فرض ویندوز برای چینی ساده شده</string>
     <string name="gigabyteShort">گیگابایت</string>
@@ -325,14 +325,6 @@
     <string name="phone_storage_zip_title">بایگانی‌ها:</string>
     <string name="pick_file">انتخاب فایل‌ها</string>
     <string name="pick_folder">انتخاب پوشه</string>
-    <string name="player_tips_brightness">تنظیم روشنایی</string>
-    <string name="player_tips_double_click">دو بار روی نمایشگر بزنید</string>
-    <string name="player_tips_landscape">به صورت افقی بکشید</string>
-    <string name="player_tips_pause_player">مکث/ادامه بازپخش</string>
-    <string name="player_tips_rewind">تنظیم روند پخش</string>
-    <string name="player_tips_up_down_left">در بخش چپ از بالا به پایین بکشید</string>
-    <string name="player_tips_up_down_right">در بخش راست از بالا به پایین بکشید</string>
-    <string name="player_tips_volume">تنظیم صدا</string>
     <string name="port">درگاه</string>
     <string name="port_range">شماره درگاه باید بین ۱۰۲۴–۶۵۵۳۵ باشد</string>
     <string name="possible_permissions">مجوزهای اختیاری</string>
@@ -383,8 +375,6 @@
     <string name="rlv_release_to_refresh">برای تازه‌سازی رها کنید</string>
     <string name="save_seven_day">پاک‌سازی هفته‌ای یک بار</string>
     <string name="scan_code_download_from_play">این کد QR را اسکن کرده تا از فروشگاه Play دانلود کنید</string>
-    <string name="screenshot_fail">تصویر صفحه گرفته نشد</string>
-    <string name="screenshot_success">عکس در %1$s ذخیره شد</string>
     <string name="search_description">جستجو در تمام فایل‎های دستگاه</string>
     <string name="search_empty_view_hint">چیزی یافت نشد</string>
     <string name="search_error_hint">جستجو</string>
@@ -441,8 +431,6 @@
     <string name="terabyteShort">ترابایت</string>
     <string name="terms_conditions">شرایط و ضوابط</string>
     <string name="terms_conditions_desc">موارد زیر را به دقت خوانده و انتخاب کنید که آیا آن‌ها را می‌پذیرید یا نه.</string>
-    <string name="time_am">ق.ظ</string>
-    <string name="time_pm">ب.ظ</string>
     <string name="time_to_upgrade">یک به‌روزرسانی در دسترس است</string>
     <string name="tip">توجه</string>
     <string name="tips_by_forbid_access">محتوای این پوشه به دلیل محدودیت‌های سیستمی معرفی شده در Android R دیگر در دسترس نخواهند بود. فایل‌های شخصی خود را در سریع‌ترین زمان ممکن از این پوشه بردارید.</string>
@@ -472,9 +460,11 @@
     <string name="user_notice_term_of_service">توافقنامه کاربر</string>
     <string name="utf8_summary">کدگذاری پیش‌فرض FTP سیستم</string>
     <string name="version_name">نسخه</string>
-    <string name="video_replay_btn">بازپخش</string>
     <string name="view_by_document">نمایش در فایل‌ها</string>
     <string name="wechat_video">ویدئو در %s</string>
+    <string name="whatsapp_cache_garbage">حافظه پنهان</string>
+    <string name="whatsapp_cache_garbage_cleanup">پاک‌سازی</string>
+    <string name="whatsapp_cache_garbage_tip">پاک‌سازی حافظه پنهان هیچ چیز مهمی را حذف نمی‌کند. پس از پاک‌سازی می‌توانید از برنامه همانند گذشته استفاده کنید.</string>
     <string name="wifi_state">وضعیت Wi-Fi</string>
     <string name="year_month_day_format">dd MMM yyyy</string>
     <string name="yes">بله</string>

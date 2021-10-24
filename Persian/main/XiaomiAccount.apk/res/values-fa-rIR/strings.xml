@@ -4,6 +4,7 @@
     <string name="access_token_expired_warning">حساب Weibo به پایان رسیده است</string>
     <string name="access_token_invalid_warning">حساب Weibo نامعتبر است</string>
     <string name="account">حساب</string>
+    <string name="account_and_password">گذرواژه</string>
     <string name="account_bind_devices">دستگاه‌ها</string>
     <string name="account_bind_secure_email_title">افزودن ایمیل</string>
     <string name="account_bind_secure_phone_title">افزودن شماره تلفن</string>
@@ -48,7 +49,11 @@
     <string name="account_user_name_dialog_title">نام کاربری را وارد کنید</string>
     <string name="account_user_other_info">منابع بیشتر</string>
     <string name="account_user_phone">شماره بازیابی</string>
+    <string name="account_user_phone_show">تلفن: %s</string>
     <string name="account_user_region">منطقه</string>
+    <string name="account_verify_guide_bind_mail_desc">یک ایمیل بازیابی اضافه کنید</string>
+    <string name="account_verify_guide_bind_phone_desc">یک شماره بازیابی اضافه کنید</string>
+    <string name="account_verify_guide_set_password_desc">یک گذرواژه تنظیم کنید</string>
     <string name="account_xiaomi_service">خدمات</string>
     <string name="action_add_phone">افزودن شماره تلفن</string>
     <string name="action_retry">تلاش دوباره</string>
@@ -131,6 +136,7 @@
     <string name="facebook_app_id">2263965750590514</string>
     <string name="facebook_login">ورود با فیسبوک</string>
     <string name="failed_dup_secure_phone_number">این شماره تلفن قبلاً با حساب Mi دیگری مرتبط شده است</string>
+    <string name="family_share">اشتراک خانوادگی</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="find_device">یافتن دستگاه</string>
     <string name="find_device_access_denied">وضعیت دریافت نمی‌شود. امکان دسترسی نیست</string>
@@ -160,6 +166,7 @@
     <string name="find_device_set_lost_model">حالت گم شده</string>
     <string name="find_device_title">یافتن دستگاه</string>
     <string name="find_device_unknown_error">وضعیت دستگاه دریافت نشد. چند دقیقه صبر کرده و سپس دوباره تلاش کنید.</string>
+    <string name="find_equipment">یافتن دستگاه</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -216,6 +223,7 @@
     <string name="friday">جمعه</string>
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
+    <string name="get_back_password">تنظیم دوباره گذرواژه</string>
     <string name="get_back_pwd">درحال بازنشانی گذرواژه</string>
     <string name="get_device_list_failed">نمی‌توان فهرست دستگاه‌ها را به‌دست آورد</string>
     <string name="get_identity_auth_url_failed">شناسه تأیید نشد</string>
@@ -256,6 +264,7 @@
     <string name="mi_finance">امور مالی من</string>
     <string name="mi_finance_info">جوایز کاربران جدید</string>
     <string name="mi_health">سلامت Xiaomi</string>
+    <string name="mi_member">مجمع Mi</string>
     <string name="mi_vip_info">نمایش امتیازات</string>
     <string name="midnight">شب</string>
     <string name="mipay">پرداخت</string>
@@ -266,6 +275,7 @@
     <string name="mipay_indentity_done">تأیید شده</string>
     <string name="mipay_others">سایر</string>
     <string name="mipay_transit_card">کارت حمل‌ونقل</string>
+    <string name="miuix_access_state_desc">انتخاب شده</string>
     <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
     <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
@@ -335,13 +345,17 @@
     <string name="my_device_title">دستگاه فعلی</string>
     <string name="need_install_wechat">ابتدا WeChat را نصب کنید</string>
     <string name="night">شب</string>
+    <string name="no_install">نصب نشده است</string>
     <string name="no_network_btn">تازه‌سازی</string>
     <string name="no_network_title">نمی‌توان به شبکه متصل شد.</string>
+    <string name="no_password_set">تنظیم نشده است</string>
     <string name="no_phone">شماره تلفن وجود ندارد</string>
     <string name="no_response_retry">پاسخی دریافت نشد. دوباره تلاش کنید.</string>
     <string name="no_sim_card_or_unactivated">سیم‌کارت نصب یا فعال نشده است</string>
     <string name="nobind">متصل نشد</string>
     <string name="noon">ظهر</string>
+    <string name="notify_bind_security_phone">یک شماره بازیابی اضافه کنید</string>
+    <string name="notify_complete_security_info">اطلاعات بازیابی را اضافه کنید</string>
     <string name="notify_network_restricted_content_bg_network">دسترسی به اینترنت حساب Mi محدود شده است. برای اجازه دادن ضربه بزنید.</string>
     <string name="notify_network_restricted_content_hidden_state">فعالیت پس زمینه حساب Mi محدود شده است. برای اجازه دادن ضربه بزنید.</string>
     <string name="notify_network_restricted_content_mobile_network">دسترسی به اینترنت حساب Mi محدود شده است. برای اجازه دادن ضربه بزنید.</string>
@@ -374,6 +388,7 @@
     <string name="passport_activing_account">درحال فعال‌سازی…</string>
     <string name="passport_adding_account">درحال افزودن حساب</string>
     <string name="passport_area_code_hot">پر استفاده</string>
+    <string name="passport_area_code_others">استفاده از یک پیش‌شماره متفاوت</string>
     <string name="passport_area_code_title">کد کشور</string>
     <string name="passport_auto_generate_pwd">ساخت گذرواژه امن</string>
     <string name="passport_back">بازگشت</string>
@@ -566,6 +581,7 @@
     <string name="passport_title_reg">ایجاد یک حساب</string>
     <string name="passport_trust_device">افزودن این دستگاه به دستگاه‌های تأیید شده</string>
     <string name="passport_trying_read_verify_code_sms">درحال دریافت کد تایید…</string>
+    <string name="passport_tz_invalid">اشکالات امنیتی یافت شد. این دستگاه ممکن است روت و یا فلش شده باشد. از گزینه‌های دیگر برای ورود استفاده کنید.</string>
     <string name="passport_uplink_reg">با استفاده از شماره تلفن</string>
     <string name="passport_uplink_send_sms_hint">بعد از اینکه با یک پیام ساخته شده به صفحه هدایت شدید، روی «ارسال» ضربه بزنید.</string>
     <string name="passport_uplink_slot1_reg">استفاده از SIM ۱</string>
@@ -603,6 +619,7 @@
     <string name="permission_group_phone">تلفن</string>
     <string name="permission_group_sms">پیامک</string>
     <string name="permission_group_storage">حافظه</string>
+    <string name="personal_info_desc">عکس، نام مستعار و موارد بیشتر</string>
     <string name="phone_num_use_for">شماره تلفن استفاده شده است برای:</string>
     <string name="photoPickerNotFoundText">هیچ عکسی در دسترس نیست.</string>
     <string name="pm">ب.ظ</string>
@@ -647,6 +664,7 @@
     <string name="search_user_detail_path">تنظیمات/حساب Mi/اطلاعات شخصی</string>
     <string name="search_user_detail_top_key_words">اطلاعات شخصی,تغییر عکس نمایه,تغییر نام کاربری,تغییر نام مستعار,تغییر زادروز,تغییر جنسیت</string>
     <string name="select_all">انتخاب همه</string>
+    <string name="self_account_info">اطلاعات شخصی</string>
     <string name="send">ارسال</string>
     <string name="send_diagnosis_log">ارسال گزارش اشکال‌یابی</string>
     <string name="send_email_activate_message">ایمیل تایید ارسال شد</string>
@@ -714,6 +732,7 @@
     <string name="the_united_nations_day">روز ملل متحد</string>
     <string name="the_valentines_day">روز ولنتاین</string>
     <string name="the_water_lantern_festival">جشنواره فانوس آبی</string>
+    <string name="third_party_login">حساب‌های سوم شخص</string>
     <string name="thursday">پنج‌شنبه</string>
     <string name="thursday_short">پنج‌شنبه</string>
     <string name="thursday_shortest">پنج‌شنبه</string>

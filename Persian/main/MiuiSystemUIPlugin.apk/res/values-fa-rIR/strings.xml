@@ -3,6 +3,9 @@
     <string name="accessibility_back">بازگشت</string>
     <string name="accessibility_desc_close">بستن</string>
     <string name="accessibility_desc_edit">ویرایش</string>
+    <string name="accessibility_description_hours">ساعت</string>
+    <string name="accessibility_description_minutes">دقیقه</string>
+    <string name="accessibility_description_seconds">ثانیه</string>
     <string name="accessibility_menu">منو</string>
     <string name="accessibility_quick_settings_page">صفحه %1$d از %2$d</string>
     <string name="accessibility_volume_collapse">بستن</string>
@@ -120,6 +123,20 @@
     <string name="kddi_miui_toast_zen_to_standard">به حالت بی‌صدا تعویض شد. تماس‌ها و اعلان‌ها اکنون بی‌صدا خواهند شد.</string>
     <string name="loading">وضعیت ناشناخته</string>
     <string name="midnight">شب</string>
+    <string name="miplay_accessibility_cast">انتخاب دستگاه</string>
+    <string name="miplay_accessibility_cover">جلد</string>
+    <string name="miplay_accessibility_next">آهنگ بعدی</string>
+    <string name="miplay_accessibility_pause">مکث</string>
+    <string name="miplay_accessibility_play">پخش</string>
+    <string name="miplay_accessibility_prev">آهنگ قبلی</string>
+    <string name="miplay_accessibility_seekbar">نوار پیشرفت</string>
+    <string name="miplay_accessibility_volume">میزان صدا</string>
+    <string name="miplay_detail_divider_title">تلویزیون‌ها و بلندگوها</string>
+    <string name="miplay_detail_header_no_song">بدون تاریخچه پخش</string>
+    <string name="miplay_device_full_name">%2$s از %1$s</string>
+    <string name="miplay_headset_lc3_hint">LC3 را خاموش کرده تا بتوانید خروجی صدا را به این دستگاه تعویض کنید</string>
+    <string name="miplay_service_timeout_toast">مهلت اتصال تمام شد. دوباره تلاش کنید.</string>
+    <string name="miplay_song_title_empty">بدون آهنگ</string>
     <string name="miui_dnd_count_down">با کشیدن، زمان‌سنج را تنظیم کنید</string>
     <string name="miui_dnd_count_down_time">"زمان‌سنج مزاحم نشوید
 %s"</string>
@@ -143,10 +160,17 @@
     <string name="miui_toast_zen_to_dnd_when_lock">با قفل شدن دستگاه، تماس‌ها و اعلان‌ها ساکت خواهند شد</string>
     <string name="miui_toast_zen_to_standard">حالت بی‌صدا روشن است</string>
     <string name="miui_toast_zen_to_standard_when_shield_media">به حالت بی‌صدا تعویض شد. صدای زنگ و همچنین اعلان‌ها و صدای رسانه‌ها قطع شدند.</string>
-    <string name="miuix_appcompat_cloud_state_disabled">همگام‌سازی با فضای ابری خاموش است</string>
-    <string name="miuix_appcompat_cloud_state_finished">با موفقیت با فضای ابری همگام‌سازی شد</string>
-    <string name="miuix_appcompat_cloud_state_syncing">درحال همگام‌سازی با فضای ابری…</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
+    <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
+    <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
+    <string name="miuix_appcompat_actionbar_immersion_button_more_description">بیشتر</string>
+    <string name="miuix_appcompat_cancel_description">لغو</string>
+    <string name="miuix_appcompat_confirm_description">تأیید</string>
+    <string name="miuix_appcompat_delete_description">حذف</string>
+    <string name="miuix_appcompat_deselect_all_description">لغو انتخاب همه</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">لغو</string>
     <string name="miuix_appcompat_search_input_description">جستجو</string>
+    <string name="miuix_appcompat_select_all_description">انتخاب همه</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">برای تازه‌سازی پایین بکشید</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">با موفقیت تازه‌سازی شد</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">در حال تازه سازی…</string>
@@ -211,6 +235,7 @@
     <string name="quick_settings_pcmode_dialog_message_turnoff">خاموش کردن حالت رایانه</string>
     <string name="quick_settings_pcmode_dialog_message_turnon">روشن کردن حالت رایانه</string>
     <string name="quick_settings_pcmode_dialog_remember_text">دوباره نمایش داده نشود</string>
+    <string name="quick_settings_pcmode_error">No application found, please install and try again.</string>
     <string name="quick_settings_pcmode_label">حالت رایانه</string>
     <string name="quick_settings_pcmode_ok_button">تأیید</string>
     <string name="quick_settings_pcmode_turn_off_description">نمایشگر تلفن شما در نمایشگر خارجی نمایش داده می‌شود. حالت رایانه خاموش شود؟</string>
@@ -222,7 +247,7 @@
     <string name="reboot_info_shutdown_alarm">هشدار خاموش: %s</string>
     <string name="reset">بازنشانی</string>
     <string name="restart">راه‌اندازی دوباره</string>
-    <string name="safe_media_volume_warning">"میزان صدا را از سطح توصیه شده بالاتر می‌برید؟
+    <string name="safe_media_volume_warning">"میزان صدا از سطح توصیه شده بالاتر رود؟
 
 قرار گرفتن طولانی مدت در معرض صدای بلند می‌تواند مشکلات شنوایی ایجاد کند."</string>
     <string name="saturday">شنبه</string>

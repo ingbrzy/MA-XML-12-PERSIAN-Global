@@ -198,10 +198,12 @@
     <string name="noon">ظهر</string>
     <string name="operation_delete">حذف</string>
     <string name="operation_send">ارسال</string>
+    <string name="permission_desc">Permissions details</string>
     <string name="permission_intro_microphone">برای ضبط صدا هنگامی که منبع صدا روی میکروفن تنظیم باشد</string>
     <string name="permission_intro_storage">برای ذخیره موارد ضبط شده صفحه</string>
     <string name="permission_microphone_desc">استفاده از میکروفن به عنوان منبع صدا برای ضبط نمایشگر</string>
     <string name="pm">ب.ظ</string>
+    <string name="privacy_settings">Privacy</string>
     <string name="quit_recording">از ضبط نمایشگر خارج شد</string>
     <string name="recording_failure">ضبط نشد. از نو آغاز کنید</string>
     <string name="recording_max_size">ضبط کردن متوقف و ذخیره شد، زیرا فایل ویدئویی به سقف اندازه خود رسید. اگر هنوز کار شما تمام نشده است، ضبط کردن را از جایی که ترک کردید آغاز کنید.</string>
@@ -301,6 +303,7 @@
     <string name="uninstall_warning_title">ضبط نمایشگر حذف شود؟</string>
     <string name="using_record_confirm_cancel">محدود کردن</string>
     <string name="using_record_confirm_ok">اجازه دادن</string>
+    <string name="view_privacy">View Privacy Policy</string>
     <string name="view_recorded_file">ضربه زده تا فایل ضبط شده نمایش داده شود</string>
     <string name="view_recorded_videos">مشاهده ضبط‌ها</string>
     <string name="warning_recording_when_a2dp_connect">دستگاه شما هنگام استفاده از هدست بلوتوثی از ضبط صداهای سیستم پشتیبانی نمی‌کند.</string>

@@ -97,7 +97,7 @@
     <string name="dlg_quick_delete_title">حذف فوری</string>
     <string name="dlg_restore_message">در حال بازیابی…</string>
     <string name="dlg_stick_message">درحال الصاق…</string>
-    <string name="dlg_title_password_reset">گذرواژه خود را به‌روز کنید</string>
+    <string name="dlg_title_password_reset">گذرواژه خود را ارتقاء دهید</string>
     <string name="dlg_title_set_password">تنظیم گذرواژه</string>
     <string name="dlg_title_use_privacy_password">استفاده از گذرواژه حفاظت از حریم خصوصی</string>
     <string name="dlg_unhide_message">درحال آشکار کردن…</string>
@@ -401,6 +401,7 @@
     <string name="note_gesture_guide_step3">برای انتقال یک یادداشت، آن را فشرده و نگه داشته و سپس روی یک پوشه بکشید</string>
     <string name="note_header_first_enter_guide">برای نمایش بیشتر صفحه را به پایین بکشید</string>
     <string name="note_invalid_mindnote_hint">نقشه‌های ذهنی در این نسخه در دسترس نیستند. برای استفاده از این ویژگی برنامه را به‌روز کنید.</string>
+    <string name="note_item_default_title">یادداشت خالی</string>
     <string name="note_link_email">ایجاد ایمیل</string>
     <string name="note_link_other">بازکردن با استفاده از برنامه ننقشه</string>
     <string name="note_link_select">انتخاب متن</string>
@@ -414,6 +415,7 @@
     <string name="note_sort_way">چینش</string>
     <string name="notealert_enter">بازکردن یادداشت</string>
     <string name="notealert_ok">نادیده گرفتن</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">یادداشت‌ها یک برنامه‌ی سیستمی است. پس از حذف برنامه دیگر نمی‌توانید از آن استفاده کنید.</string>
     <string name="notes_description_title">یادداشت‌ها حذف شود؟</string>
     <string name="notification_content_add_todo_from_other_app">یک کار جدید افزودید. برای نمایش ضربه بزنید.</string>
@@ -471,6 +473,12 @@
     <string name="pref_desc_skip_confirm_for_quick_delete">با دو انگشت به سمت بالا کشیده تا یادداشت‌ها را بدون تأیید حذف کنید</string>
     <string name="pref_desc_todo_float_mode">برای باز کردن جعبه ابزار کار، انگشت خود را از لبه بالای نمایشگر به پایین بکشید</string>
     <string name="pref_excerpt_link_float">برای ایجاد یک گزیده، هر بار که URL کپی می‌شود، یادآوری دریافت می‌کنید</string>
+    <string name="pref_permission_allowed">Granted</string>
+    <string name="pref_permission_manage">Permissions details</string>
+    <string name="pref_permission_manage_key_contact">Access contacts</string>
+    <string name="pref_permission_manage_key_recording">Record audio</string>
+    <string name="pref_permission_manage_key_storage">Access storage</string>
+    <string name="pref_permission_not_allowed">Not granted</string>
     <string name="pref_quick_note_desc">برای ایجاد یادداشت‌ها و وظایف و همچنین ذخیره URLها، متن و تصاویر کپی شده در یادداشت‌ها، از میانبر در لبه نمایشگر استفاده کنید.</string>
     <string name="pref_remind_type_summary">صدای یادآوری در حالت بی‌صدا پخش می‌شود</string>
     <string name="pref_remind_type_summary_new">نادیده گرفتن حالت بی‌صدا و ادامه پخش صدا تا زمانی که هشدار خاموش شود</string>
@@ -781,6 +789,9 @@
     <string name="widget_size_item_2x2">%1$d×%2$d</string>
     <string name="widget_size_item_4x2">%1$d×%2$d</string>
     <string name="widget_size_item_4x4">%1$d×%2$d</string>
+    <string name="widget_size_item_big">بزرگ</string>
+    <string name="widget_size_item_medium">متوسط</string>
+    <string name="widget_size_item_small">کوچک</string>
     <string name="widget_take_notes_title">یادداشت‌ها</string>
     <string name="yesterday">دیروز</string>
 </resources>

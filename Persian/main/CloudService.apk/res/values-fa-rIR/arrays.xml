@@ -94,16 +94,16 @@
         <item>در صورت گم شدن دستگاهتان آن را از راه دور قفل کنید</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china">
-        <item>Sync your contacts, messages, notes, calendar, and more</item>
-        <item>Back up apps, Home screen layout, and wallpaper</item>
+        <item>مخاطبین، پیام‌ها، یادداشت‌ها، تقویم و موارد بیشتر خود را همگام‌سازی کنید</item>
+        <item>پشتیبان‌گیری از برنامه‌ها، چیدمان صفحه اصلی و تصویر زمینه</item>
         <item>Back up important settings, including WLAN and display</item>
-        <item>"Lock your device remotely if it's lost"</item>
+        <item>در صورت گم شدن دستگاهتان آن را از راه دور قفل کنید</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_china_v2">
-        <item>Sync your contacts, messages, notes, calendar, and more</item>
-        <item>Back up apps, Home screen layout, and wallpaper</item>
+        <item>مخاطبین، پیام‌ها، یادداشت‌ها، تقویم و موارد بیشتر خود را همگام‌سازی کنید</item>
+        <item>پشتیبان‌گیری از برنامه‌ها، چیدمان صفحه اصلی و تصویر زمینه</item>
         <item>Back up important settings, including WLAN and display</item>
-        <item>"Lock your device remotely if it's lost"</item>
+        <item>در صورت گم شدن دستگاهتان آن را از راه دور قفل کنید</item>
     </string-array>
     <string-array name="micloud_entrance_subtitleArray_pad">
         <item>عکس‌ها، یادداشت‌ها، موارد ضبط شده و سایر موارد را همگام‌سازی کنید</item>

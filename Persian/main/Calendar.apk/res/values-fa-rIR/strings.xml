@@ -121,6 +121,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">سالنامه سنتی چینی</string>
+    <string name="date_time_fmt" formatted="false">%s، %s</string>
     <string name="date_time_picker_dialog_title">تنظیم تاریخ و ساعت</string>
     <string name="date_today">" (امروز)"</string>
     <string name="day">روز</string>

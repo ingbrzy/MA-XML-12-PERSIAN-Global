@@ -98,15 +98,15 @@
         <item>، فعال (تلفن)</item>
     </string-array>
     <string-array name="bluetooth_avrcp_version_values">
-        <item>‏avrcp نسخه ۱۴</item>
-        <item>avrcp13</item>
         <item>avrcp15</item>
+        <item>avrcp13</item>
+        <item>‏avrcp نسخه ۱۴</item>
         <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
-        <item>‏AVRCP نسخه ۱.۴ (پیش‌فرض)</item>
+        <item>‏AVRCP نسخه ۱.۵ (پیش‌فرض)</item>
         <item>AVRCP 1.3</item>
-        <item>AVRCP 1.5</item>
+        <item>‏AVRCP نسخه ۱.۴</item>
         <item>AVRCP 1.6</item>
     </string-array>
     <string-array name="bluetooth_map_version_values">
@@ -198,7 +198,7 @@
         <item>۲۵۶ هزار در هر بافر گزارش</item>
         <item>۱ میلیون در هر بافر گزارش</item>
         <item>۴ میلیون در هر بافر گزارش</item>
-        <item>۱۶ میلیون در هر بافر گزارش</item>
+        <item>۸ مگابایت در هر میان‌گیری گزارش</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>خاموش</item>
@@ -206,7 +206,7 @@
         <item>۲۵۶ هزار</item>
         <item>۱ میلیون</item>
         <item>۴ میلیون</item>
-        <item>۱۶ میلیون</item>
+        <item>۸ مگابایت</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>خاموش</item>
@@ -224,6 +224,131 @@
         <item>غیرفعال</item>
         <item>کشیدن کلیپ قسمت غیر مربعی آبی</item>
         <item>هایلایت کردن دستورات کشیدن تست‌شده به رنگ سبز</item>
+    </string-array>
+    <string-array name="tile_states_airplane">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_alarm">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_battery">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_bt">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_cameratoggle">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_cast">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_cell">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_controls">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_dark">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_dnd">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_flashlight">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_hotspot">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_internet">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_inversion">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_location">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_mictoggle">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_night">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_reduce_brightness">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_reverse">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_rotation">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_saver">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_screenrecord">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_wallet">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_wifi">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
+    </string-array>
+    <string-array name="tile_states_work">
+        <item>دردسترس نیست</item>
+        <item>خاموش</item>
+        <item>روشن</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>خاموش</item>
@@ -285,6 +410,20 @@
         <item>ناموفق</item>
         <item>مسدود شده</item>
         <item>جلوگیری موقت از اتصال ضعیف</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>درحال اسکن کردن…</item>
+        <item>درحال اتصال…</item>
+        <item>درحال راستی‌آزمایی…</item>
+        <item>‏درحال دریافت نشانی IP…</item>
+        <item>متصل</item>
+        <item>معلق</item>
+        <item>درحال قطع اتصال…</item>
+        <item>اتصال قطع شد</item>
+        <item>ناموفق</item>
+        <item>مسدود</item>
+        <item>اجتناب موقت از اتصال ضعیف</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>پویانمایی خاموش</item>

@@ -4,7 +4,7 @@
     <string name="bugreport_add_details_to_zip_failed">‏جزئیات گزارش اشکال به فایل ZIP اضافه نشد</string>
     <string name="bugreport_confirm">گزارش‌های اشکال حاوی داده‌هایی از فایل‌های مختلف گزارش سیستم هستند، که ممکن است حاوی داده‌های حساس شما (از قبیل داده‌های استفاده از برنامه و مکان) باشند. گزارش‌های اشکال را فقط با افراد و برنامه‌هایی که به آن‌ها اعتماد دارید به‌اشتراک بگذارید.</string>
     <string name="bugreport_confirm_dont_repeat">دوباره نشان داده نشود</string>
-    <string name="bugreport_finished_pending_screenshot_text">برای اشتراک‌گذاری گزارش مشکل بدون نماگرفت، ضربه بزنید یا صبر کنید تا نماگرفت گرفته شود.</string>
+    <string name="bugreport_finished_pending_screenshot_text">برای هم‌رسانی گزارش مشکل بدون نماگرفت، ضربه بزنید یا صبر کنید تا نماگرفت گرفته شود.</string>
     <string name="bugreport_finished_text">برای هم‌رسانی گزارش اشکال، ضربه بزنید</string>
     <string name="bugreport_finished_title">گزارش اشکال #%d ثبت شد</string>
     <string name="bugreport_in_progress_title">گزارش اشکال #%d در حال ایجاد شدن است</string>
