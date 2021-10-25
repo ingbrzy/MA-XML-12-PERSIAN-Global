@@ -509,7 +509,6 @@ d MMMM"</string>
     <string name="mock_location_app_not_set">هیچ برنامه موقعیت ساختگی تنظیم نشده است</string>
     <string name="mock_location_app_set">برنامه موقعیت ساختگی: %1$s</string>
     <string name="msim_set_sub_not_supported_phone_in_call">هنگام تماس تنظیم نمی‌شود</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="no_application">هیچ کدام</string>
     <string name="notification_control_center">اعلان‌ها و مرکز کنترل</string>
     <string name="notification_group_collapse_button_text">تا کردن</string>
@@ -567,7 +566,6 @@ d MMMM"</string>
     <string name="private_dns_mode_provider">نام میزبان ارائه دهنده DNS خصوصی</string>
     <string name="private_dns_mode_provider_failure">وصل نمی‌شود</string>
     <string name="private_dns_mode_provider_hostname_hint">نام میزبان ارائه دهنده DNS را وارد کنید</string>
-    <string name="process_kernel_label">سیستم عامل Android</string>
     <string name="profile_connect_timeout_subtext">در اتصال اشکالی رخ داد. دستگاه را خاموش کرده و دوباره بازگردید.</string>
     <string name="profile_info_settings_title">اطلاعات نمایه</string>
     <string name="qs_control_big_tile_state_closed">خاموش</string>

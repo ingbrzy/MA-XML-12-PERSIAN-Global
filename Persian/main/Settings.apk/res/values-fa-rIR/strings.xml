@@ -626,7 +626,6 @@
 در صورتی که هر کدام از موارد بالا را انجام داده‌اید، حساب Mi خود را دوباره بیافزایید؛ در غیر این صورت دیگر نمی‌توانید قفل دستگاه خود را باز کنید."</string>
     <string name="bootloader_tips_ok">فهمیدم</string>
     <string name="bootloader_tips_warning">اتصال شبکه را قطع نکرده، از حساب Mi خود خارج نشده، به تنظیمات کارخانه بازنشانی نکرده و داده‌های سیستمی را پاک نکنید.</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bottom_function_settings">کارایی‌های دکمه‌های افزوده</string>
     <string name="breathing_light_color_menu_title">رنگ نور</string>
     <string name="breathing_light_color_summary">رنگ روشن چراغ هنگام دریافت اعلان‌های جدید</string>
@@ -1068,7 +1067,6 @@
     <string name="dialog_title_hdmi_color_calibration">اصلاح رنگ از پیش تعیین شده</string>
     <string name="dialog_title_login">وارد حساب Mi خود شوید</string>
     <string name="dialog_yes">بله</string>
-    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">توجه: پس از راه‌اندازی دوباره، تا زمانی که قفل دستگاه خود را باز نکنید این برنامه آغاز نخواهد شد.</string>
     <string name="disable_overlays">غیرفعال کردن پوشش سخت‌افزاری</string>
     <string name="disable_overlays_summary">همیشه از GPU برای رندر کردن صفحه استفاده شود</string>
@@ -1102,7 +1100,6 @@
     <string name="dndm_auto_button_title">تکرار زمان مزاحم نشوید</string>
     <string name="dndm_auto_setting_group">زمان‌بندی شده</string>
     <string name="dndm_auto_time_setting">تنظیم زمان</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">تا</string>
     <string name="dndm_auto_time_turn_off_title">حالت مزاحم نشوید به‌طور خودکار خاموش شود</string>
     <string name="dndm_auto_time_turn_on">از</string>
@@ -2771,7 +2768,6 @@ Read and agree to %s before using this service."</string>
     <string name="power_remaining_less_than_duration_only">کمتر از %1$s مانده</string>
     <string name="power_remaining_more_than_subtext">بیشتر از %1$s مانده (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">بیشتر از %1$s مانده</string>
-    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_settings_title">عملکرد سیستم</string>
     <string name="power_suggestion_battery_run_out">ممکن است باتری تمام شود با %1$s</string>
     <string name="power_usage_history">مصرف باتری</string>
@@ -2910,7 +2906,6 @@ Read and agree to %s before using this service."</string>
     <string name="private_sms_need_to_unlock">گذرواژه را وارد کنید</string>
     <string name="private_sms_recording_intro_header">یک الگوی باز کردن قفل بکشید</string>
     <string name="private_sms_reset_by_account">برای بازنشانی گذرواژه، وارد حساب Mi خود شوید.</string>
-    <string name="process_kernel_label">سیستم عامل Android</string>
     <string name="profile_connect_timeout_subtext">در اتصال اشکالی رخ داد. دستگاه را خاموش کرده و دوباره بازگردید.</string>
     <string name="profile_info_settings_title">اطلاعات نمایه</string>
     <string name="provision_activation">فعال</string>
@@ -3368,7 +3363,6 @@ Read and agree to %s before using this service."</string>
     <string name="security_encryption_attention_3">باید یک قفل صفحه جدید تنظیم کنید.</string>
     <string name="security_encryption_attention_4">مطمئن شوید گذرواژه صفحه قفل را به خاطر سپرده‌اید، در غیر این صورت لازم می‌شود یک بازنشانی کامل انجام داده و همه داده‌های دستگاه را پاک کنید.</string>
     <string name="security_encryption_attention_info">شما می‌توانید همه حساب‌ها، تنظیمات، برنامه‌های دانلود شده و اطلاعات، رسانه‌ها و سایر فایل‌های آن‌ها را رمزگذاری کنید.</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">مهم</string>
     <string name="security_encryption_close_dialog_info">انتخاب رمزگذاری نکردن دستگاه با قفل صفحه ممکن است برخی خدمات Google را از دسترس خارج کند.</string>
     <string name="security_encryption_close_dialog_title">بازگشت به رمزگذاری سیستم پیش‌فرض</string>
@@ -3520,7 +3514,6 @@ Read and agree to %s before using this service."</string>
     <string name="size_kilo_byte">کیلوبایت</string>
     <string name="size_mega_byte">مگابایت</string>
     <string name="size_peta_byte">پتابایت</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">ترابایت</string>
     <string name="skip_lock_screen_confirm_msg">اعلان‌ها، صفحه کنترل پخش موسیقی و میان‌برها روی صفحه قفل نمایش داده نخواهند شد.</string>
     <string name="skip_step">رد شدن</string>
@@ -3641,7 +3634,6 @@ Read and agree to %s before using this service."</string>
     <string name="status_bar_carrier_settings_no_sim_card">بدون سیم‌کارت</string>
     <string name="status_bar_settings">اعلان‌ها و نوار وضعیت</string>
     <string name="status_bar_settings_all_app_display_loading">چند لحظه صبر کنید…</string>
-    <string name="status_bar_settings_carrier_sim">"سیم‌کارت %1$s: "</string>
     <string name="status_bar_settings_manage_notification">اعلان‌های برنامه</string>
     <string name="status_bar_settings_notification_bar">کرکره اعلان</string>
     <string name="status_bar_settings_status_bar">نوار وضعیت</string>
@@ -4149,7 +4141,6 @@ Read and agree to %s before using this service."</string>
     <string name="visibility_override_title">روی صفحه قفل</string>
     <string name="voice_access">فرمان‌های صوتی</string>
     <string name="voice_assist">Mi AI</string>
-    <string name="voice_assist_volume_option_title">@string/voice_assist</string>
     <string name="voice_category">صحبت کردن</string>
     <string name="voice_helper_title">دستیار صوتی</string>
     <string name="volume_adjustment">تنظیم صدا</string>

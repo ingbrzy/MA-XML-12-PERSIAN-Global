@@ -454,7 +454,6 @@
     <string name="shutdown_alarm_enable_summary">در صورتی که تا رسیدن زمان هشدار بیش از ۱۰ دقیقه باشد پس از خاموش کردن دستگاه هشدار به صدا در خواهد آمد</string>
     <string name="shutdown_alarm_title">هشدار خاموش</string>
     <string name="silent_alarm_summary">بی‌صدا</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">خاموش کردن تنها در %s</string>
     <string name="sleep_analysis">آمار</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -505,7 +504,6 @@
     <string name="sunday">یک‌شنبه</string>
     <string name="sunday_short">یک‌شنبه</string>
     <string name="sunday_shortest">یک‌شنبه</string>
-    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">برای دسترسی به همه ویژگی‌های این برنامه به آن اجازه اتصال به اینترنت را بدهید.</string>
     <string name="system_permission_main_purpose">نمایش زمان، تنظیم هشدارها و زمان‌سنج‌ها، استفاده از کرنومتر</string>
     <string name="system_permission_purpose">ایجاد هشدارهای هفتگی و تنظیم صداهای زنگ سفارشی</string>

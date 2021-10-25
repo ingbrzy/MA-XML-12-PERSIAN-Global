@@ -590,7 +590,6 @@
     <string name="edit_smile">لبخند</string>
     <string name="edit_solid">کانتورها</string>
     <string name="emoticon">بسته استیکر</string>
-    <string name="empty" />
     <string name="eras_ad">میلادی</string>
     <string name="eras_bc">پیش از میلاد</string>
     <string name="error_fail_to_start_audio_capture">ضبط صدا آغاز نشد</string>
@@ -1173,7 +1172,6 @@
     <string name="pref_camera_auxiliary_close">خاموش</string>
     <string name="pref_camera_auxiliary_exposure_feedback">تأیید نوردهی</string>
     <string name="pref_camera_auxiliary_focus_peak">اوج فوکوس</string>
-    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">زیاد</string>
     <string name="pref_camera_beautify_entry_low">کم</string>
     <string name="pref_camera_beautify_entry_normal">متوسط</string>
