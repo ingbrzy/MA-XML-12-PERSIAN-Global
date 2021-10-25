@@ -148,7 +148,6 @@
     <string name="app_name">خدمات فعال‌سازی سیم‌کارت Xiaomi</string>
     <string name="checking_client">درحال بررسی محیط فعال‌سازی</string>
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
-    <string name="close">بستن</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -175,8 +174,6 @@
     <string name="explain_send_sms_permission_button">تأیید</string>
     <string name="explain_send_sms_permission_msg">برای روشن کردن %s، بدنه خدمات Xiaomi یک پیامک برای تأیید شماره تلفن شما ارسال خواهد کرد. هزینه پیامک عادی توسط شرکت مخابرات از شما دریافت خواهد شد.</string>
     <string name="explain_send_sms_permission_title">شماره تلفن خود را تأیید کنید</string>
-    <string name="fmt_chinese_date">N月e</string>
-    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -192,11 +189,7 @@
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">D T z</string>
-    <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -215,18 +208,8 @@
     <string name="fmt_time_minute_second_millis">m:s.S</string>
     <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
-    <string name="fmt_time_timezone">T z</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">جمعه</string>
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
@@ -309,7 +292,6 @@
     <string name="saturday">شنبه</string>
     <string name="saturday_short">شنبه</string>
     <string name="saturday_shortest">شنبه</string>
-    <string name="send">ارسال</string>
     <string name="sim_activate_failed">خدمات فعال نشد</string>
     <string name="sim_activate_prepare">فعال‌سازی خدمات</string>
     <string name="sim_activated_failed_msg">خدمات فعال نشد. برای تلاش دوباره، ضربه بزنید.</string>

@@ -56,14 +56,6 @@
         <item quantity="other">شما هر بار می‌توانید تا %d همتا ایجاد کنید.</item>
         <item quantity="one">شما هر بار می‌توانید تا %d همتا ایجاد کنید.</item>
     </plurals>
-    <plurals name="exit_camera_hint">
-        <item quantity="other">&lt;Data>به دوربین متصل نمی‌شود.&lt;br>این برنامه تا &lt;font color=#FFCE16>&lt;b>%1$d ثانیه&lt;/b>&lt;/font> دیگر بسته خواهد شد. پس از آن، چند دقیقه صبر کرده و سپس دوباره تلاش کنید.&lt;/Data></item>
-        <item quantity="one">&lt;Data>به دوربین متصل نمی‌شود.&lt;br>این برنامه تا &lt;font color=#FFCE16>&lt;b>%1$d ثانیه&lt;/b>&lt;/font> دیگر بسته خواهد شد. پس از آن، چند دقیقه صبر کرده و سپس دوباره تلاش کنید.&lt;/Data></item>
-    </plurals>
-    <plurals name="exit_thermal_hint">
-        <item quantity="other">&lt;Data>این دستگاه بسیار داغ شده است.&lt;br>برنامه تا &lt;font color=#FFCE16>&lt;b>%1$d ثانیه&lt;/b>&lt;/font> دیگر بسته خواهد شد. فرایند کنونی به صورت خودکار ذخیره شده است.&lt;/Data></item>
-        <item quantity="one">&lt;Data>این دستگاه بسیار داغ شده است.&lt;br>برنامه تا &lt;font color=#FFCE16>&lt;b>%1$d ثانیه&lt;/b>&lt;/font> دیگر بسته خواهد شد. فرایند کنونی به صورت خودکار ذخیره شده است.&lt;/Data></item>
-    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d دقیقه</item>
         <item quantity="one">%1$d دقیقه</item>

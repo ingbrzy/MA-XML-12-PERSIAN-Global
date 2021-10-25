@@ -37,13 +37,6 @@
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
     <string name="hello_world">سلام دنیا!</string>
     <string name="menu_settings">تنظیمات</string>
-    <string name="size_byte">بایت</string>
-    <string name="size_giga_byte">گیگابایت</string>
-    <string name="size_kilo_byte">کیلوبایت</string>
-    <string name="size_mega_byte">مگابایت</string>
-    <string name="size_peta_byte">پتابایت</string>
-    <string name="size_suffix">%1$s%2$s</string>
-    <string name="size_tera_byte">ترابایت</string>
     <string name="tencent_dialog_cloudscan">بارگذاری و اسکن نام‌ها و اطلاعات برنامه‌هایی که از تعاریف ویروس آنلاین استفاده می‌کنند.</string>
     <string name="tencent_dialog_dbupdate">به‌روزرسانی خودکار تعاریف ویروس</string>
     <string name="tencent_dialog_header">این ویژگی شناسه دستگاه شما را رمزگذاری کرده و به سرورهای Tencent می‌فرستد (%s).</string>

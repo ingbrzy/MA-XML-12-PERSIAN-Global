@@ -310,8 +310,8 @@
     <string name="galleryplus_chose_play_speed_2">درحال پخش با سرعت %1$.2fX</string>
     <string name="galleryplus_chose_play_speed_failure">سرعت پخش تنظیم نشد</string>
     <string name="galleryplus_click_to_higher_definition">برای باز کردن پیش‌نمایش HD دوبار ضربه بزنید</string>
-    <string name="galleryplus_copyright_unsported_audio">این فایل صوتی به دلیل محدودیت‌های حق نسخه برداری قابل پخش نیست</string>
-    <string name="galleryplus_copyright_unsported_video">این ویدئو به دلیل محدودیت‌های حق نسخه برداری قابل پخش نیست</string>
+    <string name="galleryplus_copyright_unsported_audio">این فایل صوتی به دلیل محدودیت‌های حق چاپ و نشر قابل پخش نیست</string>
+    <string name="galleryplus_copyright_unsported_video">این ویدئو به دلیل محدودیت‌های حق چاپ و نشر قابل پخش نیست</string>
     <string name="galleryplus_cta_tips">با عضویت در برنامه تجربه کاربر و اجازه اتصال ویدئوی Mi به اینترنت می‌توانید به ما در بهبود خدماتمان کمک کنید. می‌پذیرید؟</string>
     <string name="galleryplus_double_tap_to_higher_definition">برای باز کردن پیش‌نمایش HD یک بار دیگر دو بار ضربه بزنید</string>
     <string name="galleryplus_fr_unsupport_restore_speed">نرخ فریم پشتیبانی نشده است. به سرعت عادی تعویض شد.</string>
@@ -707,6 +707,7 @@
     <string name="off_tip_firework_recommend">شما دیگر پیشنهادات محتوای شخصی سازی شده از سوی Firework را دریافت نخواهید کرد</string>
     <string name="ok">تأیید</string>
     <string name="on_tip_firework_recommend">شما پیشنهادات محتوای شخصی سازی شده از سوی Firework دریافت خواهید کرد</string>
+    <string name="order_alphabet">به ترتیب حروف الفبا</string>
     <string name="order_recently_subscribe">اشتراک‌های تازه</string>
     <string name="order_recently_updated">به‌تازگی به‌روز شده</string>
     <string name="out_of_memory_background_playback_is_suspended">پخش پس‌زمینه به دلیل کمبود حافظه به صورت موقت متوقف شد</string>
@@ -1198,6 +1199,7 @@
     <string name="tab_name_moment">لحظات</string>
     <string name="tab_name_trending">پر بازدید</string>
     <string name="tab_name_video">ویدئوها</string>
+    <string name="target_sdk_version_30_upgrade_tips">به دلیل محدودیت‌های اندروید ۱۱ ممکن است برخی از ویدئوها در اینجا نمایش داده نشوند. برای یافتن سایر ویدئوها، روی «فایل‌ها» ضربه بزنید.</string>
     <string name="temporary_not_available">این قابلیت هنوز در دسترس نیست</string>
     <string name="the_anniversary_of_lifting_martial_law">سالگرد لغو حکومت نظامی</string>
     <string name="the_anti_aggression_day">روز ضد پرخاشگری</string>
@@ -1345,8 +1347,8 @@
     <string name="vp_VideoView_error_text_unknown">خطایی رخ داد</string>
     <string name="vp_VideoView_error_title">خطای ناشناخته</string>
     <string name="vp_app_name">پخش‌کننده ویدئو</string>
-    <string name="vp_copyright_unsported_audio">این فایل صوتی به دلیل محدودیت‌های حق نسخه برداری قابل پخش نیست</string>
-    <string name="vp_copyright_unsported_video">این ویدئو به دلیل محدودیت‌های حق نسخه برداری قابل پخش نیست</string>
+    <string name="vp_copyright_unsported_audio">این فایل صوتی به دلیل محدودیت‌های حق چاپ و نشر قابل پخش نیست</string>
+    <string name="vp_copyright_unsported_video">این ویدئو به دلیل محدودیت‌های حق چاپ و نشر قابل پخش نیست</string>
     <string name="vp_hardware_unsported">این ویدئو در دستگاه شما پخش نمی‌شود.</string>
     <string name="vp_notify_apk_installed">با موفقیت دانلود شد</string>
     <string name="vp_replay">بازپخش</string>

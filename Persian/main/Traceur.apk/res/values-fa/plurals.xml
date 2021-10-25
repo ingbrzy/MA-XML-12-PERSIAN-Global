@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="mtrl_badge_content_description">
-        <item quantity="other">%d اعلان جدید</item>
-        <item quantity="one">%d اعلان جدید</item>
-    </plurals>
     <plurals name="num_categories_selected">
         <item quantity="other">‏%d مورد انتخاب‌شده</item>
         <item quantity="one">‏%d مورد انتخاب‌شده</item>

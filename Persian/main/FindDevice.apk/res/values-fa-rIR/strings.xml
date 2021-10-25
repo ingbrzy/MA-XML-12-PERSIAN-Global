@@ -9,7 +9,6 @@
     <string name="captcha">کد امنیتی</string>
     <string name="change_find_device_status_failed">قفل باز نشد. %s.</string>
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
-    <string name="close">بستن</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -28,15 +27,15 @@
     <string name="emergency_call">تماس اضطراری</string>
     <string name="empty" />
     <string name="enable_find_device_error">یافتن دستگاه روشن نشد. %1$s</string>
-    <string name="enable_find_device_success">یافتن دستگاه روشن است</string>
+    <string name="enable_find_device_success">پیدا کردن دستگاه روشن است</string>
     <string name="eras_ad">میلادی</string>
     <string name="eras_bc">پیش از میلاد</string>
     <string name="evening">بعد از ظهر</string>
     <string name="find_device">یافتن دستگاه</string>
-    <string name="find_device_capture_done_notification_content">View the photo on i.mi.com</string>
-    <string name="find_device_capture_done_notification_title">Find device took a photo remotely</string>
-    <string name="find_device_capture_notification_content">A request to take a photo remotely with this device was submitted by your account</string>
-    <string name="find_device_capture_notification_title">Find device is about to take a photo</string>
+    <string name="find_device_capture_done_notification_content">مشاهده عکس در i.mi.com</string>
+    <string name="find_device_capture_done_notification_title">یافتن دستگاه از راه دور عکس گرفت</string>
+    <string name="find_device_capture_notification_content">درخواستی برای عکس گرفتن از راه دور با این دستگاه توسط حساب شما ارسال شده است</string>
+    <string name="find_device_capture_notification_title">یافتن دستگاه در آستانه عکس گرفتن است</string>
     <string name="find_device_crash">یافتن دستگاه به صورت غیر منتظره‌ای بسته شد.</string>
     <string name="find_device_error_access_denied">امکان دسترسی وجود ندارد.</string>
     <string name="find_device_error_account_sys_timeout">"به حساب کاربری Mi متصل نشد. "</string>
@@ -47,7 +46,7 @@
     <string name="find_device_error_server">خطای سرور (%s).</string>
     <string name="find_device_error_unknown">خطای ناشناخته (%s).</string>
     <string name="find_device_noise_title">هشدار یافتن دستگاه</string>
-    <string name="find_device_notice">به &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> رفته تا از راه دور دستگاه خود را قفل کرده، به عنوان گم‌شده علامت زده، داده‌ها را پاک‌سازی کرده و یا عکس بگیرید.</string>
+    <string name="find_device_notice">در صورت گم شدن دستگاهتان، می‌توانید از &lt;b>&lt;font color=#0099FF>i.mi.com&lt;/font>&lt;/b> برای مکان‌یابی، قفل کردن یا پاک کردن داده‌ها از راه دور دیدن کنید.</string>
     <string name="find_device_notice_sms_alert_with_common_charge_hint">به منظور به‌روزرسانی وضعیت سیم‌کارت و اطمینان از کارکرد عادی همه خدمات، پس از تعویض سیم‌کارت‌ها یک &lt;font color=#0097FF>&lt;b>پیام متنی پولی&lt;/b>&lt;/font> ارسال خواهد شد. هزینه این پیام توسط کارورتان از شما دریافت خواهد شد.</string>
     <string name="find_device_notice_sms_alert_with_domestic_charge_hint">به منظور به‌روزرسانی وضعیت سیم‌کارت و اطمینان از کارکرد عادی همه خدمات، پس از تعویض سیم‌کارت‌ها یک &lt;font color=#0097FF>&lt;b>پیام متنی پولی داخلی&lt;/b>&lt;/font> ارسال خواهد شد. هزینه این پیام توسط کارورتان از شما دریافت خواهد شد.</string>
     <string name="find_device_notice_sms_alert_with_internal_charge_hint">به منظور به‌روزرسانی وضعیت سیم‌کارت و اطمینان از کارکرد عادی همه خدمات، پس از تعویض سیم‌کارت‌ها یک &lt;font color=#0097FF>&lt;b>پیام متنی پولی بین‌المللی&lt;/b>&lt;/font> ارسال خواهد شد. هزینه این پیام توسط کارورتان از شما دریافت خواهد شد.</string>
@@ -55,8 +54,6 @@
     <string name="find_device_storage_corrupted">حافظه یافتن دستگاه خراب شده است. دستگاه شما اکنون ایمن نیست.</string>
     <string name="find_device_success_title">یافتن دستگاه روشن است</string>
     <string name="find_device_telephony_fault">یافتن دستگاه: خطای تلفنی (%s).</string>
-    <string name="fmt_chinese_date">N月e</string>
-    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -72,11 +69,7 @@
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">D T z</string>
-    <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -95,18 +88,8 @@
     <string name="fmt_time_minute_second_millis">m:s.S</string>
     <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
-    <string name="fmt_time_timezone">T z</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">جمعه</string>
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
@@ -197,7 +180,6 @@
     <string name="saturday">شنبه</string>
     <string name="saturday_short">شنبه</string>
     <string name="saturday_shortest">شنبه</string>
-    <string name="send">ارسال</string>
     <string name="stop_on_empty_captcha">کد امنیتی نمیتواند خالی باشد</string>
     <string name="stop_on_empty_password">گذرواژه نمیتواند خالی باشد</string>
     <string name="sunday">یک‌شنبه</string>

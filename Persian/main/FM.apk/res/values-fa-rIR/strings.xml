@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">خدمات رادیو FM</string>
+    <string name="frequency_mhz_fomart">%s مگاهرتز</string>
+    <string name="notification_rec_title">برای مشاهده موارد ضبط شده ضربه بزنید</string>
+    <string name="record_completed">ضبط کامل شد</string>
+    <string name="station_freq_format">%s مگاهرتز</string>
+</resources>

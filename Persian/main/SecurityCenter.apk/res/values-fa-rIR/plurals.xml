@@ -40,14 +40,6 @@
         <item quantity="other">%d بازی افزوده شد</item>
         <item quantity="one">%d بازی افزوده شد</item>
     </plurals>
-    <plurals name="app_behavior_dashboard_title_desc">
-        <item quantity="other">%d برنامه</item>
-        <item quantity="one">%d برنامه</item>
-    </plurals>
-    <plurals name="app_behavior_dashboard_total_usage_item">
-        <item quantity="other">%d برنامه</item>
-        <item quantity="one">%d برنامه</item>
-    </plurals>
     <plurals name="app_behavior_desc_allow">
         <item quantity="other">%3$d بار بین %1$s و %2$s مجاز شد</item>
         <item quantity="one">%3$d بار بین %1$s و %2$s مجاز شد</item>
@@ -63,18 +55,6 @@
     <plurals name="app_behavior_desc_deny_minute">
         <item quantity="other">در %1$s %2$d بار رد شد</item>
         <item quantity="one">در %1$s %2$d بار رد شد</item>
-    </plurals>
-    <plurals name="app_behavior_desc_duration_usage">
-        <item quantity="other">بین %1$s و %2$s %3$d بار مجاز شد</item>
-        <item quantity="one">بین %1$s و %2$s %3$d بار مجاز شد</item>
-    </plurals>
-    <plurals name="app_behavior_desc_duration_usage_time">
-        <item quantity="other">استفاده شده برای %1$d دقیقه</item>
-        <item quantity="one">استفاده شده برای %1$d دقیقه</item>
-    </plurals>
-    <plurals name="app_behavior_desc_duration_usage_time_end">
-        <item quantity="other">برای %1$d دقیقه تا %2$s استفاده می‌شود</item>
-        <item quantity="one">برای %1$d دقیقه تا %2$s استفاده می‌شود</item>
     </plurals>
     <plurals name="app_behavior_desc_virtual">
         <item quantity="other">%3$d پیام خالی بین %1$s و %2$s باز گردانده شد</item>
@@ -152,14 +132,6 @@
         <item quantity="other">%s برنامه با قفل برنامه محافظت می‌شود</item>
         <item quantity="one">%s برنامه با قفل برنامه محافظت می‌شود</item>
     </plurals>
-    <plurals name="behavior_widget_app_text">
-        <item quantity="other">%2$d برنامه از جمله %1$s</item>
-        <item quantity="one">%2$d برنامه از جمله %1$s</item>
-    </plurals>
-    <plurals name="behavior_widget_perm_counts">
-        <item quantity="other">%d بار</item>
-        <item quantity="one">%d بار</item>
-    </plurals>
     <plurals name="bg_network_allow_count">
         <item quantity="other">%d برنامه می‌توانند در پس‌زمینه به شبکه متصل شوند</item>
         <item quantity="one">%d برنامه می‌تواند در پس‌زمینه به شبکه متصل شود</item>
@@ -191,10 +163,6 @@
     <plurals name="deep_clean_auto_memory_clean">
         <item quantity="other">در %1$d دقیقه</item>
         <item quantity="one">در %1$d دقیقه</item>
-    </plurals>
-    <plurals name="exit_dialog_scan_message_new">
-        <item quantity="other">امتیاز کارایی دستگاه شما زیر %d است. اکنون بهینه‌سازی شود؟</item>
-        <item quantity="one">امتیاز کارایی دستگاه شما زیر %d است. اکنون بهینه‌سازی شود؟</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">جستجو میان %d برنامه</item>
@@ -261,7 +229,7 @@
         <item quantity="one">%d بار اعلام ورود شد</item>
     </plurals>
     <plurals name="gb_toolbox_guide_known">
-        <item quantity="other">فهمیدم (%dثانیه)</item>
+        <item quantity="other">فهمیدم (%d ثانیه)</item>
         <item quantity="one">فهمیدم (%dثانیه)</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
@@ -291,18 +259,6 @@
     <plurals name="gb_voice_changer_user_tips_info">
         <item quantity="other">دریافت %d روز آزمایشی رایگان</item>
         <item quantity="one">دریافت %d روز آزمایشی رایگان</item>
-    </plurals>
-    <plurals name="gtb_brightness_dialog_message">
-        <item quantity="other">این ویژگی پس از %d دقیقه کار نکردن روشنایی نمایشگر را به صورت خودکار کاهش می‌دهد تا در مصرف برق صرفه‌جویی شود. این ویژگی روشن بماند؟</item>
-        <item quantity="one">این ویژگی پس از %d دقیقه کار نکردن روشنایی نمایشگر را به صورت خودکار کاهش می‌دهد تا در مصرف برق صرفه‌جویی شود. این ویژگی روشن بماند؟</item>
-    </plurals>
-    <plurals name="gtb_setting_item_summary_brightness">
-        <item quantity="other">پس از %d دقیقه کار نکردن، روشنایی نمایشگر به صورت خودکار کاهش یافت تا در مصرف برق صرفه‌جویی شود</item>
-        <item quantity="one">پس از %d دقیقه کار نکردن، روشنایی نمایشگر به صورت خودکار کاهش یافت تا در مصرف برق صرفه‌جویی شود</item>
-    </plurals>
-    <plurals name="gtb_spring_festival_colored_egg">
-        <item quantity="other">"Congrats! You've unlocked %s Easter eggs."</item>
-        <item quantity="one">"Congrats! You've unlocked %s Easter egg."</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">نیم ساعت پیش</item>
@@ -357,8 +313,8 @@
         <item quantity="one">%d برنامه یافت شد</item>
     </plurals>
     <plurals name="hints_scan_danger_result_with_number">
-        <item quantity="other">%d خطر شناسایی شده است</item>
-        <item quantity="one">%d خطر شناسایی شده است</item>
+        <item quantity="other">%d خطر یافت شد. حالا برطرف شوند؟</item>
+        <item quantity="one">%d خطر یافت شد. حالا برطرف شود؟</item>
     </plurals>
     <plurals name="hints_traffic_disable_title">
         <item quantity="other">ردگیری مصرف اینترنت همراه مربوط به %d برنامه</item>
@@ -509,8 +465,8 @@
         <item quantity="one">%d برنامه قفل نیست</item>
     </plurals>
     <plurals name="number_to_mask_text">
-        <item quantity="other">%d اعلان قابل نمایش‌اند</item>
-        <item quantity="one">%d اعلان قابل نمایش است</item>
+        <item quantity="other">%d اعلان قابل مشاهده‌اند</item>
+        <item quantity="one">%d اعلان قابل مشاهده است</item>
     </plurals>
     <plurals name="numeric_recording_incorrect_too_short">
         <item quantity="other">حداقل %d رقم وارد کنید</item>
@@ -668,10 +624,6 @@
         <item quantity="other">مورد</item>
         <item quantity="one">مورد</item>
     </plurals>
-    <plurals name="power_center_unoffical_battery_dialog_negative">
-        <item quantity="other">لغو (%d ثانیه)</item>
-        <item quantity="one">لغو (%d ثانیه)</item>
-    </plurals>
     <plurals name="power_main_battery_last_day">
         <item quantity="other">%s روز دیگر مانده است</item>
         <item quantity="one">%s روز دیگر مانده است</item>
@@ -785,8 +737,8 @@
         <item quantity="one">%d برنامه غیر رسمی یافت شد</item>
     </plurals>
     <plurals name="result_virus_header">
-        <item quantity="other">%d برنامه مخرب شناسایی شد</item>
-        <item quantity="one">%d برنامه مخرب شناسایی شد</item>
+        <item quantity="other">%d برنامه ویروسی و ناامن یافت شد</item>
+        <item quantity="one">%d برنامه ویروس یافت شد</item>
     </plurals>
     <plurals name="search_app_count_txt_na">
         <item quantity="other">جستجوی %d برنامه</item>
@@ -864,19 +816,9 @@
         <item quantity="other">%d برنامه</item>
         <item quantity="one">%d برنامه</item>
     </plurals>
-    <plurals name="videobox_settings_timing_bubble">
-        <item quantity="other">"شما از پیش %d ساعت ویدئو تماشا کرده‌اید.
-کمی استراحت کنید!"</item>
-        <item quantity="one">"شما از پیش %d ساعت ویدئو تماشا کرده‌اید.
- کمی استراحت کنید!"</item>
-    </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$d بازدید</item>
         <item quantity="one">%1$d بازدید</item>
-    </plurals>
-    <plurals name="virus_clear_dialog_content">
-        <item quantity="other">%d برنامه انتخاب شده پاک شود؟</item>
-        <item quantity="one">%d برنامه انتخاب شده پاک شود؟</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">برنامه‌های خطرناک: %d</item>

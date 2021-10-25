@@ -4,7 +4,6 @@
     <string name="actionbar_button_up_description">بازگشت</string>
     <string name="afternoon">بعد از ظهر</string>
     <string name="am">ق.ظ</string>
-    <string name="app_name">بازتاباندن</string>
     <string name="app_pkg_name">com.milink.service</string>
     <string name="app_ver_code">۱</string>
     <string name="app_ver_name">۱.۰</string>
@@ -37,9 +36,9 @@
     <string name="dialog_miplay_permission_message">به بازتاباندن اجازه ضبط صدا، دسترسی به فایل‌ها در حافظه داخلی و دسترسی به موقعیت خود را داده تا بتوانید به طور عادی از این ویژگی استفاده کنید. برای ادامه روی «تنظیمات» کلیک کرده و «مجوزهای برنامه» را انتخاب کنید.</string>
     <string name="dialog_miplay_permission_positive">تنظیمات</string>
     <string name="dialog_miplay_permission_title">نیازمند مجوز است</string>
-    <string name="dialog_nfc_cast_wifi_off">Turn on WLAN to be able to cast using NFC. Turn on now?</string>
-    <string name="dialog_no_device_message">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. دستگاه همراه و تلویزیون خود را به شبکه Wi-Fi مشابه متصل کنید.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. در برخی مدل‌های تلویزیون‌ها این ویژگی فقط هنگامی که بازتاب صفحه روشن باشد در دسترس است. برای جزئیات بیشتر &lt;a href=milink://com.milink.service/specification>«راهنما»&lt;/a> را ببینید.&lt;/Data></string>
-    <string name="dialog_no_device_message_china">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same WLAN network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.&lt;/Data></string>
+    <string name="dialog_nfc_cast_wifi_off">برای امکان بازتاباندن با استفاده از NFC، Wi-Fi را روشن کنید. روشن شود؟</string>
+    <string name="dialog_no_device_message">&lt;Data>۱. گوشی و تلویزیون خود را به یک شبکه Wi-Fi متصل کنید.&lt;br>&lt;br>۲. در برخی مدل‌های تلویزیون، این ویژگی فقط هنگام روشن بودن آینه کردن تصویر (Screen Mirroring) در دسترس است. برای اطلاعات بیشتر &lt;a href=milink://com.milink.service/specification>«راهنما»&lt;/a> را ببینید.&lt;/Data></string>
+    <string name="dialog_no_device_message_china">&lt;Data>1. Connect both your phone and TV to the same WLAN network.&lt;br>&lt;br>2. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.&lt;/Data></string>
     <string name="dialog_ok">تأیید</string>
     <string name="dialog_only_suport_content">پخش عکس‌ها، ویدئوها یا موسیقی</string>
     <string name="dialog_open_wifi_bt">روشن</string>
@@ -47,17 +46,17 @@
 در صورت برخورد با اشکال اتصال راهنما را ببینید."</string>
     <string name="dialog_recent_connected">موارد تازه</string>
     <string name="dialog_retry">تلاش دوباره</string>
-    <string name="dialog_scan_message">"%1$d. دستگاه همراه و تلویزیون خود را به شبکه Wi-Fi مشابه متصل کنید.
+    <string name="dialog_scan_message">"۱. گوشی و تلویزیون خود را به یک شبکه Wi-Fi متصل کنید.
 
-%2$d. برای جزئیات بیشتر «راهنما» را ببینید."</string>
-    <string name="dialog_scan_message_china">"%1$d. Connect both your mobile device and TV to the same WLAN network.
+۲. در برخی مدل‌های تلویزیون، این ویژگی فقط هنگام روشن بودن آینه کردن تصویر (Screen Mirroring) در دسترس است. برای اطلاعات بیشتر «راهنما» را ببینید."</string>
+    <string name="dialog_scan_message_china">"1. Connect both your phone and TV to the same WLAN network.
 
-%2$d. View \"Help\" to learn more."</string>
+2. On some TV models, this feature is only available when screen mirroring is on. View \"Help\" to learn more."</string>
     <string name="dialog_scanning_device">درحال جستجوی دستگاه‌های نزدیک…</string>
     <string name="dialog_scanning_precondition">برای استفاده از نمایشگر بی‌سیم Wi-Fi و بلوتوث گوشی خود را روشن کنید.</string>
     <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
     <string name="dialog_scanning_precondition_new_global">برای استفاده از ویژگی بازتاباندن، Wi-Fi، بلوتوث و خدمات موقعیت را روشن کنید. روشن شوند؟</string>
-    <string name="dialog_select_tv">انتخاب دستگاه (%1$d)</string>
+    <string name="dialog_select_tv">انتخاب دستگاه (%d)</string>
     <string name="dialog_show_help">راهنما</string>
     <string name="disconnect">توقف بازتاباندن</string>
     <string name="early_morning">صبح</string>
@@ -66,58 +65,42 @@
     <string name="eras_ad">میلادی</string>
     <string name="eras_bc">پیش از میلاد</string>
     <string name="evening">بعد از ظهر</string>
-    <string name="fmt_chinese_date">N月e</string>
-    <string name="fmt_date">D</string>
-    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
-    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
-    <string name="fmt_date_numeric_month">M</string>
-    <string name="fmt_date_numeric_month_day">d-M</string>
+    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_numeric_day">dd</string>
+    <string name="fmt_date_numeric_month">MM</string>
+    <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M-yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
-    <string name="fmt_date_short_month">MMM</string>
-    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month">MM</string>
+    <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">D T z</string>
-    <string name="fmt_date_timezone">D z</string>
+    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">"h 'o''clock'"</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
-    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
-    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
-    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
-    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">h a</string>
-    <string name="fmt_time_24hour">"H 'o''clock'"</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
-    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">"S'م.ث'"</string>
-    <string name="fmt_time_minute">"m'دق'"</string>
-    <string name="fmt_time_minute_second">"m'دق' و s'ث'"</string>
-    <string name="fmt_time_minute_second_millis">"m'دق' و s.S'ث'"</string>
-    <string name="fmt_time_second">"s'ث'"</string>
-    <string name="fmt_time_second_millis">"s.S'ث'"</string>
-    <string name="fmt_time_timezone">T z</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
+    <string name="fmt_time_12hour">hh</string>
+    <string name="fmt_time_12hour_minute">hh:mm</string>
+    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
+    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
+    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
+    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
+    <string name="fmt_time_12hour_pm">hh aa</string>
+    <string name="fmt_time_24hour">H</string>
+    <string name="fmt_time_24hour_minute">HH:mm</string>
+    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
+    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
+    <string name="fmt_time_millis">S</string>
+    <string name="fmt_time_minute">m</string>
+    <string name="fmt_time_minute_second">m:s</string>
+    <string name="fmt_time_minute_second_millis">m:s.S</string>
+    <string name="fmt_time_second">s</string>
+    <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">جمعه</string>
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
@@ -138,34 +121,30 @@
     <string name="help_page_text_02">بازتاباندن چیست؟</string>
     <string name="help_page_text_03">بازتاباندن همان افکندن موارد صفحه نمایش گوشی روی یک نمایشگر خارجی بزرگ‌تر است. به شما امکان هم‌رسانی تصاویر و ویدئوها با دوستان و خانواده‌تان بدون استفاده از اینترنت همراه را می‌دهد.</string>
     <string name="help_page_text_04">چگونه موارد را روی یک نمایشگر بزرگ‌تر بازتاب دهیم؟</string>
-    <string name="help_page_text_05">گام %1$d: دستگاه‌ها و محیط شبکه خود را بررسی کنید</string>
-    <string name="help_page_text_06">"%1$d. Xiaomi TVs, set-top boxes, projectors:
-Connect both your mobile device and external monitor to the same WLAN network for best effect. If they are connected to different networks, it might take more time to find the external monitor and connect.
-Note: Older TV models might not support casting across different networks.
-%2$d. If you're using TVs, set-top boxes, or projectors of other brands, connect both your mobile device and external monitor to the same WLAN network.
-If the two devices can't be connected to the same network, turn on Miracast on your external monitor. The naming of Miracast functionality might vary."</string>
-    <string name="help_page_text_06_global">"%1$d. تلویزیون‌های Xiaomi، گیرنده‌های دیجیتال، پروژکتورها:
-برای تأثیر بهتر، دستگاه همراه و نمایشگر خارجی خود را به شبکه Wi-Fi مشابه وصل کنید. در صورت اتصال به شبکه‌های مختلف، ممکن است یافتن نمایشگر خارجی و اتصال به آن زمان بیشتری ببرد.
-نکته: مدل‌های قدیمی‌تر تلوزیو‌ن ممکن است از بازتاباندن به وسیله شبکه‌های مختلف پشتیبانی نکنند.
-%2$d. چنانچه از تلویزیون‌ها، گیرنده‌های دیجیتال یا پروژکتورهای برندهای دیگر استفاده می‌کنید، دستگاه همراه و نمایشگر خارجی خود را به شبکه Wi-Fi مشابه متصل کنید.
+    <string name="help_page_text_05">گام ۱: وضعیت دستگاه‌ها و شبکه را بررسی کنید</string>
+    <string name="help_page_text_06">"۱. برای بازتاباندن موارد از یک گوشی Mi به یک تلویزیون Mi نیازی به اتصال به اینترنت ندارید.
+۲. در صورتی که نمی‌توانید بین دو دستگاه اتصال برقرار کنید، تلاش کنید هر دو را به یک شبکه Wi-Fi وصل کنید."</string>
+    <string name="help_page_text_06_global">"۱. تلویزیون‌های Mi، گیرنده‌های دیجیتال Mi و پروژکتورهای Mi:
+برای تأثیر بهتر، گوشی و نمایشگر خارجی خود را به شبکه Wi-Fi مشابه وصل کنید. در صورت اتصال به شبکه‌های مختلف، ممکن است یافتن نمایشگر خارجی و اتصال به آن زمان بیشتری ببرد.
+نکته: تلوزیو‌ن‌های Mi قدیمی ممکن است از بازتاباندن به وسیله شبکه‌های مختلف پشتیبانی نکنند.
+۲. اگر از تلویزیون، گیرنده دیجیتال یا پروژکتور برندهای دیگر استفاده می‌کنید، گوشی و نمایشگر خارجی خود را به شبکه Wi-Fi مشابه متصل کنید.
 اگر هر دو دستگاه نتوانستند به شبکه مشابه متصل شوند، Miracast را در نمایشگر خارجی خود روشن کنید. نام‌گذاری کارایی Miracast ممکن است متنوع باشد."</string>
-    <string name="help_page_text_08">گام %1$d: روشن کردن بازتاباندن</string>
-    <string name="help_page_text_09">"Tap the \"Cast\" toggle on your phone's Notification shade. Turn on both WLAN and Bluetooth for a more stable connection."</string>
-    <string name="help_page_text_09_global">وضعیت «بازتاباندن» را در کرکره اعلان دستگاه همراه خود تغییر دهید. برای اتصال پایدارتر Wi-Fi و بلوتوث را نیز روشن کنید.</string>
-    <string name="help_page_text_10">چنانچه می‌خواهید عکس‌ها، ویدئوها، بازی‌ها یا ارائه‌ها را بازتاب دهید، می‌توانید از ویژگی‌های پخش محتوای داخلی در برنامه‌های مربوطه استفاده کنید.</string>
-    <string name="help_page_text_11">گام %1$d: انتخاب دستگاه</string>
+    <string name="help_page_text_08">گام ۲: بازتاباندن را روشن کنید</string>
+    <string name="help_page_text_09">وضعیت «بازتاباندن» را در کرکره اعلان خود تغییر دهید. برای اتصال پایدارتر Wi-Fi و بلوتوث را نیز روشن کنید.</string>
+    <string name="help_page_text_10">در صورتی که می‌خواهید مواردی را از گالری یا ویدئوی Mi بازتاب دهید، می‌توانید از ویژگی بازتاباندن در داخل این برنامه‌ها استفاده کنید.</string>
+    <string name="help_page_text_11">گام ۳: دستگاه را انتخاب کنید</string>
     <string name="help_page_text_12">برای آغاز بازتاباندن یک دستگاه خارجی را از فهرست دستگاه‌های موجود انتخاب کنید.</string>
     <string name="help_page_text_13">نمی‌توان به یک دستگاه خارجی وصل شد؟</string>
-    <string name="help_page_text_14">"%1$d. If you want to use a Xiaomi device, but can't find it in the list of available devices, try the following:
-Connect both your mobile device and the external monitor (e.g. your TV) to the same network, or connect the external monitor to your mobile device's hotspot. If there aren't any networks available or you can't connect both devices to the same network, check whether the casting features on your external monitor are up to date, turn on Bluetooth both on your mobile device and the external monitor, and turn on Miracast on your TV.
-%2$d. If you're casting on a Xiaomi device for the first time, you need to complete verification.
-%3$d. If you want to use a non-Xiaomi device, but can't find it in the list of available devices, try the following:
-Connect both your mobile device and the external monitor (e.g. your TV) to the same network, or connect the external monitor to your mobile device's hotspot. If this doesn't help, install the HappyCast app on your TV and follow the instructions."</string>
-    <string name="help_page_text_14_global">"%1$d. در صورتی که می‌خواهید از یک دستگاه Xiaomi استفاده کنید اما آن را نمی‌توانید در فهرست دستگاه‌های موجود بیابید،‌ موارد زیر را انجام دهید:
-دستگاه همراه و نمایشگر خارجی (مانند تلویزیون) خود را به یک شبکه وصل کرده و یا نمایشگر خارجی را به کانون داغ دستگاه همراه خود وصل کنید. در صورتی که هیچ شبکه موجود نبوده و یا نتوانید هر دو دستگاه را به یک شبکه وصل کنید، بررسی کرده که آیا ویژگی بازتاباندن نمایشگر خارجی‌تان به‌روز است یا نه، سپس بلوتوث دستگاه همراه و نمایشگر خارجی را روشن کرده و Miracast را در تلویزیون خود روشن کنید.
-%2$d. اگر نخستین بار است که روی یک دستگاه Xiaomi بازتاب می‌دهید، لازم است تا مراحل تأیید هویت را کامل کنید.
-%3$d. اگر می‌خواهید از یک دستگاه غیر Xiaomi استفاده کنید ولی آن را در فهرست دستگاه‌های موجود نمی‌یابید، موارد زیر را انجام دهید:
-دستگاه همراه و نمایشگر خارجی (مانند تلویزیون) خود را به یک شبکه وصل کرده و یا نمایشگر خارجی را به کانون داغ دستگاه همراه خود وصل کنید."</string>
+    <string name="help_page_text_14">"۱. در صورتی که می‌خواهید از یک دستگاه Xiaomi استفاده کنید اما آن را نمی‌توانید در فهرست دستگاه‌های موجود بیابید،‌ موارد زیر را انجام دهید:
+گوشی و نمایشگر خارجی (مانند تلویزیون) خود را به یک شبکه Wi-Fi وصل کرده و یا نمایشگر خارجی را به کانون داغ گوشی خود وصل کنید. در صورتی که هیچ شبکه Wi-Fi موجود نبوده و یا نتوانید هر دو دستگاه را به یک شبکه وصل کنید، بررسی کرده که آیا ویژگی بازتاباندن نمایشگر خارجی‌تان به‌روز است یا نه، سپس بلوتوث گوشی و نمایشگر خارجی را روشن کرده و Miracast را در تلویزیون خود روشن کنید. 
+۲. اگر نخستین بار است که روی یک دستگاه Xiaomi بازتاب می‌دهید، لازم است تا مراحل تأیید هویت را کامل کنید. 
+۳. اگر می‌خواهید از یک دستگاه غیر Xiaomi استفاده کنید ولی آن را در فهرست دستگاه‌های موجود نمی‌یابید، موارد زیر را انجام دهید:
+گوشی و نمایشگر خارجی (مانند تلویزیون) خود را به یک شبکه Wi-Fi وصل کرده و یا نمایشگر خارجی را به کانون داغ گوشی خود وصل کنید. در صورتی که انجام نشد، برنامه بازتاباندن LeEco را روی تلویزیون خود نصب کرده و دستورالعمل را دنبال کنید."</string>
+    <string name="help_page_text_14_global">"۱. در صورتی که می‌خواهید از یک دستگاه Xiaomi استفاده کنید اما آن را نمی‌توانید در فهرست دستگاه‌های موجود بیابید،‌ موارد زیر را انجام دهید:
+گوشی و نمایشگر خارجی (مانند تلویزیون) خود را به یک شبکه Wi-Fi وصل کرده و یا نمایشگر خارجی را به کانون داغ گوشی خود وصل کنید. در صورتی که هیچ شبکه Wi-Fi موجود نبوده و یا نتوانید هر دو دستگاه را به یک شبکه وصل کنید، بررسی کرده که آیا ویژگی بازتاباندن نمایشگر خارجی‌تان به‌روز است یا نه، سپس بلوتوث گوشی و نمایشگر خارجی را روشن کرده و Miracast را در تلویزیون خود روشن کنید.
+۲. اگر نخستین بار است که روی یک دستگاه Xiaomi بازتاب می‌دهید، لازم است تا مراحل تأیید هویت را کامل کنید.
+۳. اگر می‌خواهید از یک دستگاه غیر Xiaomi استفاده کنید ولی آن را در فهرست دستگاه‌های موجود نمی‌یابید، موارد زیر را انجام دهید:
+گوشی و نمایشگر خارجی (مانند تلویزیون) خود را به یک شبکه Wi-Fi وصل کرده و یا نمایشگر خارجی را به کانون داغ گوشی خود وصل کنید."</string>
     <string name="help_page_text_15">ویژگی Miracast در دستگاه‌های مختلف</string>
     <string name="help_page_text_16">تلویزیون Mi/فراتاب Mi</string>
     <string name="help_page_text_17">"شما می‌توانید بدون نیاز به روشن کردن Miracast به‌صورت دستی، موارد را از گوشی Mi خود بر روی بیشتر مدل‌های تلویزیون Mi دارای بلوتوث بیافکنید.
@@ -190,7 +169,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="help_page_text_34">ابتدا مطمئن شوید کارایی Miracast در دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید برنامه‌ها > بازتاباندن > دستگاه‌های Androidی > Miracast را انتخاب کنید.</string>
     <string name="help_page_text_35">پشتیبانی مشتریان Skyworth: ۹۵۱۰۵۵۵۵</string>
     <string name="help_page_text_36">Sony</string>
-    <string name="help_page_text_37">First, make sure that Miracast functionality is supported on your device. On some of the models, you can press the [SOURCE] button on the remote control and then select \"Screen Mirroring\". On some other models, you can turn this feature on in Networks > WLAN Direct. This feature is turned on by default on various models.</string>
+    <string name="help_page_text_37">بتدا مطمئن شوید کارایی Miracast توسط دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید دکمه [SOURCE] روی کنترل از راه دور را زده و سپس \"آینه کردن تصویر (Screen Mirroring)\" را انتخاب کنید. در برخی از مدل‌ها این ویژگی را می توانید در شبکه‌ها > Wi-Fi بی‌واسطه روشن کنید. این ویژگی به صورت پیش‌فرض در مدل‌های مختلف روشن است.</string>
     <string name="help_page_text_38">پشتیبانی مشتریان Sony: ۴۰۰-۸۱۰-۹۰۰۰</string>
     <string name="help_page_text_39">Panasonic</string>
     <string name="help_page_text_40">ابتدا مطمئن شوید کارایی Miracast در دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید برنامه‌ها برنامه‌ها > آینه کردن تصویر (Screen Mirroring) را انتخاب کنید.</string>
@@ -208,9 +187,9 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="help_page_text_52">ابتدا مطمئن شوید کارایی Miracast در دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید این ویژگی را در تنظیمات > شبکه‌ها > صفحات چندگانه > نمایشگر بی‌سیم رونش کنید.</string>
     <string name="help_page_text_53">پشتیبانی مشتریان LeEco: ۱۰۱۰۹۰۰۰</string>
     <string name="help_page_text_55">"اگر نمی‌توانید به شبکه متصل شوید، مطمئن شوید نمایشگر خارجی شما از ویژگی Miracast پشتیبانی کرده و روشن است. در برخی از مدل‌ها، این ویژگی نمایش بی‌سیم (Wireless Display)، آینه کردن تصویر (Screen Mirroring) و یا صفحات چندگانه (Multiple screens) نام دارد. اطلاعات زیر را خوانده تا درباره چگونگی روشن کردن Miracast بیشتر بدانید.
-%1$d. در صورت رویارویی با هرگونه اشکال، با استفاده از برنامه «خدمات و بازخورد» می‌توانید آن‌ها را گزارش کنید."</string>
+۴. در صورت رویارویی با هرگونه اشکال، با استفاده از برنامه «خدمات و بازخورد» می‌توانید آن‌ها را گزارش کنید."</string>
     <string name="help_page_text_55_global">"اگر نمی‌توانید به شبکه متصل شوید، مطمئن شوید نمایشگر خارجی شما از ویژگی Miracast پشتیبانی کرده و روشن است. در برخی از مدل‌ها، این ویژگی نمایش بی‌سیم (Wireless Display)، آینه کردن تصویر (Screen Mirroring) و یا صفحات چندگانه (Multiple screens) نام دارد.
-%1$d. در صورت رویارویی با هرگونه اشکال، با استفاده از برنامه «خدمات و بازخورد» می‌توانید آن‌ها را گزارش کنید."</string>
+۴. در صورت رویارویی با هرگونه اشکال، با استفاده از برنامه «خدمات و بازخورد» می‌توانید آن‌ها را گزارش کنید."</string>
     <string name="help_page_text_end">در صورتی که برند دستگاه شما در اینجا فهرست نشده است، با تولید کننده آن تماس گرفته تا درباره کارایی بازتاباندن بیشتر بدانید.</string>
     <string name="keyguard_security_setting_privacy_policy">سیاست حفظ حریم خصوصی</string>
     <string name="midnight">شب</string>
@@ -328,7 +307,6 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
 　　•دسترسی به موقعیت شما برای یافتن دستگاه‌های نزدیک"</string>
     <string name="privacy_title">توجه</string>
     <string name="private_protect">پنهان کردن موارد خصوصی</string>
-    <string name="required_permissions">android.permission.ACCESS_FINE_LOCATION;android.permission.ACCESS_COARSE_LOCATION;android.permission.ACCESS_BACKGROUND_LOCATION;android.permission.READ_PHONE_STATE;android.permission.READ_EXTERNAL_STORAGE;android.permission.RECORD_AUDIO;</string>
     <string name="san_wait_msg_1">بازتاباندن بی‌سیم را در دستگاه هدف روشن کنید</string>
     <string name="san_wait_msg_2">جستجو برای دستگاه‌ها ممکن است کمی طول بکشد…</string>
     <string name="san_wait_msg_3">دستگاه‌های خارجی اگر به همان شبکه که گوشی شما وصل است متصل شوند آسان‌تر پیدا می‌شوند</string>
@@ -410,10 +388,8 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="time_picker_dialog_title">تنظیم زمان</string>
     <string name="time_picker_label_hour">ساعت</string>
     <string name="time_picker_label_minute">دقیقه</string>
-    <string name="title_activity_permission">PermissionActivity</string>
     <string name="toast_guide_show_more">اطلاعات بیشتر</string>
     <string name="toast_guide_title">ویژگی‌های جدید ما را اینجا کشف کنید</string>
-    <string name="toast_invisible_mode">"You're incognito. Can't use casting now."</string>
     <string name="toast_msg_for_multi_window">این ویژگی با تجزیه نمایشگر کار نمی‌کند</string>
     <string name="toast_msg_for_small_window">شما می‌توانید با کوچک‌سازی پنجره‌ای که درحال بازتاباندن شدن است بدون قطع فرآیند بازتاباندن از سایر ویژگی‌های گوشی خود استفاده کنید.</string>
     <string name="toast_nfc_dont_move">گوشی خود را دور نکنید</string>

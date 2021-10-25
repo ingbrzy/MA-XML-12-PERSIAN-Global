@@ -44,6 +44,7 @@
     <string name="cast_forward">به جلو</string>
     <string name="cast_forward_10">ده ثانیه به جلو</string>
     <string name="cast_forward_30">سی ثانیه به جلو</string>
+    <string name="cast_intro_overlay_button_text">‪@android:string/ok</string>
     <string name="cast_live_label">زنده</string>
     <string name="cast_mute">بی‌صدا کردن</string>
     <string name="cast_notification_connected_message">متصل به %1$s</string>
@@ -148,4 +149,5 @@
     <string name="s6">به آگهی اجازه داده شود رویداد تقویم ایجاد کند؟</string>
     <string name="s7">آگهی آزمایشی</string>
     <string name="search_menu_title">جستجو</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

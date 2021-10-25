@@ -185,12 +185,12 @@
         <item quantity="one">روزهای آخر هفته: %d دقیقه</item>
     </plurals>
     <plurals name="usage_state_work_day_hour">
-        <item quantity="other">روزهای کاری: %d ساعت</item>
-        <item quantity="one">روزهای کاری: %d ساعت</item>
+        <item quantity="other">روزهای کاری هفته: %d ساعت</item>
+        <item quantity="one">روزهای کاری هفته: %d ساعت</item>
     </plurals>
     <plurals name="usage_state_work_day_minute">
-        <item quantity="other">روزهای کاری: %d دقیقه</item>
-        <item quantity="one">روزهای کاری: %d دقیقه</item>
+        <item quantity="other">روزهای کاری هفته: %d دقیقه</item>
+        <item quantity="one">روزهای کاری هفته: %d دقیقه</item>
     </plurals>
     <plurals name="usage_stats_remain_hour">
         <item quantity="other">%s ساعت</item>

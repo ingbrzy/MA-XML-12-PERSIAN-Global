@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_device_info">نمایش جزئیات دستگاه</string>
+    <string name="accept">اجازه دادن</string>
     <string name="access_token_expired_warning">حساب Weibo به پایان رسیده است</string>
     <string name="access_token_invalid_warning">حساب Weibo نامعتبر است</string>
     <string name="account">حساب</string>
@@ -80,6 +81,7 @@
     <string name="binded_description" formatted="false">"%s به حساب Mi شما وصل شد.
 حالا می‌توانید با استفاده از %s وارد حساب خود شوید."</string>
     <string name="button_unbind">قطع اتصال</string>
+    <string name="cancel">لغو</string>
     <string name="change_activate_email">تغییر نشانی ایمیل</string>
     <string name="change_email_address">تغییر نشانی ایمیل</string>
     <string name="change_password">تغییر گذرواژه</string>
@@ -111,6 +113,7 @@
     <string name="delete_device_btn">حذف</string>
     <string name="delete_device_failed">نمی‌توان دستگاه‌ها را حذف کرد</string>
     <string name="delete_device_notice">بعد از اینکه دستگاه حذف شد، به‌صورت خودکار از حساب Mi خارج می‌شود. نمی‌توانید از این دستگاه برای دسترسی به عکس‌ها، پیام‌ها یا سایر محتواهای ذخیره شده در حساب خود استفاده کنید.</string>
+    <string name="deny">رد کردن</string>
     <string name="device_delete_success_message">اگر با این دستگاه وارد نشده‌اید، فوراً گذرواژه خود را تغییر دهید.</string>
     <string name="device_delete_success_title">خارج شد</string>
     <string name="device_list__header">دستگاه‌های من</string>
@@ -124,6 +127,7 @@
     <string name="early_morning">صبح</string>
     <string name="empty" />
     <string name="empty_device_list_notice">هیچ دستگاهی وجود ندارد</string>
+    <string name="enable">تنظیمات</string>
     <string name="ep_unsupported">نمی‌توان وارد حساب Mi در دستگاه شما شد</string>
     <string name="eras_ad">میلادی</string>
     <string name="eras_bc">پیش از میلاد</string>
@@ -145,7 +149,7 @@
     <string name="find_device_bad_response_error">یک خطای سرور رخ داده است. چند دقیقه صبر کرده و دوباره تلاش کنید.</string>
     <string name="find_device_clear_data">پاک‌سازی داده‌ها</string>
     <string name="find_device_close">خاموش</string>
-    <string name="find_device_error_password_not_confirmed">یابنده دستگاه خاموش نمی‌شود. گذرواژه حساب Mi را دوباره وارد کنید.</string>
+    <string name="find_device_error_password_not_confirmed">یافتن دستگاه خاموش نمی‌شود. گذرواژه حساب Mi را دوباره وارد کنید.</string>
     <string name="find_device_error_password_recently_changed">شما ظرف %d روز گذشته گذرواژه خود را تغییر داده‌اید. به دلایل امنیتی اکنون نمی‌توانید یافتن دستگاه را خاموش کنید.</string>
     <string name="find_device_interrupted">انجام کار قطع شد. یک یا دو دقیقه صبر کرده و دوباره تلاش کنید</string>
     <string name="find_device_io_error">به شبکه متصل نمی‌شود</string>
@@ -231,6 +235,7 @@
     <string name="get_phone_verifycode_exceed_limit">کدهای تأیید زیادی برای این شماره فرستاده شده است. ۲۴ ساعت منتظر مانده و دوباره تلاش کنید.</string>
     <string name="google">Google</string>
     <string name="google_login">ورود با Google</string>
+    <string name="goto_accept">تأیید</string>
     <string name="guest_account_label">حساب مهمان Mi</string>
     <string name="health_action_activate">فعال‌سازی</string>
     <string name="health_action_install">نصب</string>
@@ -255,9 +260,11 @@
     <string name="kr_permission_sms_desc">برای پر کردن خودکار کدهای تایید</string>
     <string name="kr_permission_storage_desc">برای ذخیره عیب‌یابی‌ها</string>
     <string name="loading_micloud_sync_data">چند لحظه صبر کنید…</string>
+    <string name="login_3rd_app_with_system_account">ورود به حساب %s</string>
     <string name="login_check_find_device">درحال دریافت اطلاعات امنیت دستگاه…</string>
     <string name="login_check_find_device_failed_title">اطلاعات امنیت دستگاه بررسی نشد</string>
     <string name="login_find_device_bind">این دستگاه با یک شناسه حساب Mi موجود (%s) مرتبط است.</string>
+    <string name="login_with_other">گزینه‌های بیشتر</string>
     <string name="logout_account">خروج</string>
     <string name="logout_failed">نمی‌توان خارج شد</string>
     <string name="mi_account_identity_title">تأیید هویت شما</string>
@@ -388,7 +395,6 @@
     <string name="passport_activing_account">درحال فعال‌سازی…</string>
     <string name="passport_adding_account">درحال افزودن حساب</string>
     <string name="passport_area_code_hot">پر استفاده</string>
-    <string name="passport_area_code_others">استفاده از یک پیش‌شماره متفاوت</string>
     <string name="passport_area_code_title">کد کشور</string>
     <string name="passport_auto_generate_pwd">ساخت گذرواژه امن</string>
     <string name="passport_back">بازگشت</string>
@@ -615,10 +621,14 @@
     <string name="passport_yes">بله</string>
     <string name="password_view_hide_password">پنهان کردن گذرواژه</string>
     <string name="password_view_show_password">نمایش گذرواژه</string>
+    <string name="permission_desc_read_sms">برای پر کردن خودکار کدهای تایید</string>
+    <string name="permission_desc_write_external_storage">برای بازخورد و بارگذاری‌ رخدادها</string>
     <string name="permission_group_contacts">مخاطبین</string>
     <string name="permission_group_phone">تلفن</string>
     <string name="permission_group_sms">پیامک</string>
     <string name="permission_group_storage">حافظه</string>
+    <string name="permission_read_sms">دسترسی به پیام‌ها</string>
+    <string name="permission_write_external_storage">دسترسی و ذخیره موارد در حافظه</string>
     <string name="personal_info_desc">عکس، نام مستعار و موارد بیشتر</string>
     <string name="phone_num_use_for">شماره تلفن استفاده شده است برای:</string>
     <string name="photoPickerNotFoundText">هیچ عکسی در دسترس نیست.</string>
@@ -636,6 +646,12 @@
     <string name="recycle_phone_notification_title">خطر امنیتی حساب Mi</string>
     <string name="removing_account">درحال خارج شدن…</string>
     <string name="replace_binded_phone">جایگزین کردن تلفن</string>
+    <string name="request_open_permission">نیازمند مجوز است</string>
+    <string name="request_use_camera_message">به حساب Mi اجازه دسترسی به دوربین گوشی شما داده شود؟</string>
+    <string name="request_use_camera_title">دسترسی به دوربین</string>
+    <string name="request_use_gallery_message">به حساب Mi اجازه دسترسی به گالری داده شود؟</string>
+    <string name="request_use_gallery_title">دسترسی به گالری</string>
+    <string name="request_use_writing_clipboard_message">برای کپی شناسه حساب Mi شما، به حساب Mi اجازه ذخیره موارد در حافظه موقت را بدهید.</string>
     <string name="resend_active_email">ارسال دوباره</string>
     <string name="resend_email_reach_limit_message">شما ایمیل‌های تایید زیادی درخواست کرده‌اید. مطمئن شوید ایمیل تایید در پوشه هرزنامه صندوق دریافت شما نیست.</string>
     <string name="resend_email_reach_limit_title">ایمیل ارسال نمی‌شود</string>
@@ -744,7 +760,7 @@
     <string name="tuesday">سه‌شنبه</string>
     <string name="tuesday_short">سه‌شنبه</string>
     <string name="tuesday_shortest">سه‌شنبه</string>
-    <string name="turn_off_find_device_failed_title">یابنده دستگاه خاموش نمی‌شود</string>
+    <string name="turn_off_find_device_failed_title">یافتن دستگاه خاموش نمی‌شود</string>
     <string name="turning_off_find_device">درحال خاموش کردن یافتن دستگاه…</string>
     <string name="two_factor_auth">مجوز دو مرحله‌ای</string>
     <string name="two_factor_auth_click_confirm">تأیید ورود</string>
@@ -765,6 +781,10 @@
     <string name="used_cloud_storage_info">%s مصرف شده است</string>
     <string name="user_avatar_update_title">تغییر عکس نمایه</string>
     <string name="user_avatar_uploading">چند لحظه صبر کنید…</string>
+    <string name="user_instruction_all_purpose">به حساب Mi خوش آمدید! شما می‌توانید با استفاده از حساب خود به خدمات ارائه شده توسط Xiaomi و شرکت‌های وابسته به آن همچون mi.com، فضای ابری Xiaomi و GetApps دسترسی پیدا کنید. شما می‌توانید سکه Mi خریداری کرده، کالاهای مجازی خریده و از خدمات ارزش افزوده شامل بازی‌ها، تم‌ها و کتاب‌های الکترونیکی لذت ببرید.</string>
+    <string name="user_instruction_tip">برای ورود به حساب، شرایط و ضوابط را خوانده و بپذیرید.</string>
+    <string name="user_license_with_3rd_app">&lt;Data>با ورود به حساب به وسیله حساب Mi خود، من تأیید می‌نمایم که &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> و &lt;a href=%3$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%4$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi را خوانده و پذیرفته‌ام.&lt;/Data></string>
+    <string name="user_license_without_3rd_app">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi را خوانده و پذیرفته‌ام.&lt;/Data></string>
     <string name="vip_account_settings">تنظیمات VIP</string>
     <string name="vip_settings_info">تنظیمات VIP</string>
     <string name="wednesday">چهارشنبه</string>

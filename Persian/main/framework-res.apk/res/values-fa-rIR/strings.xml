@@ -16,7 +16,6 @@
     <string name="lockscreen_permanent_disabled_sim_instructions">"سیم‌کارت شما به صورت دائم غیرفعال شده است
 برای تهیه یک سیم‌کارت دیگر با ارائه دهنده خدمات بیسیم خود تماس بگیرید."</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">سیم‌کارت غیرقابل استفاده.</string>
-    <string name="tethered_notification_message">برای راه‌اندازی ضربه بزنید.</string>
     <string name="tethered_notification_multi_device_message">دستگاه‌های وصل شده: %1$s</string>
     <string name="tethered_notification_no_device_message">بدون دستگاه متصل</string>
     <string name="tethered_notification_one_device_message">دستگاه‌های وصل شده: %1$s</string>

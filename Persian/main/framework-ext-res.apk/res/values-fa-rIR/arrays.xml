@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item>تلاش دوباره</item>
+        <item></item>
+        <item></item>
+        <item>انگشت خود را روی اسکنر اثر انگشت قرار دهید و کمی فشار دهید</item>
+        <item></item>
+        <item>انگشت خود را روی اسکنر اثر انگشت قرار داده و کمی فشار دهید</item>
+        <item>حسگر اثر انگشت را تمیز کرده و دوباره امتحان کنید</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>انگشت خود را روی اسکنر اثر انگشت قرار داده و کمی فشار دهید</item>
+        <item>انگشت خود را روی اسکنر اثر انگشت قرار داده و کمی فشار دهید</item>
+        <item>خیلی سریع بود! تشخیص اثر انگشت انجام نشد</item>
+        <item>انگشت خود را کمی جابجا کرده و سپس دوباره تلاش کنید</item>
+        <item>انگشت خود را برداشته و آن را دوباره روی اسکنر بگذارید</item>
+        <item>انگشت خود را کمی بیشتر روی اسکنر نگه دارید</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>انگشت خود را کمی جابجا کنید</item>
+        <item>این اثر انگشت از پیش افزوده شده است. از یک انگشت دیگر استفاده کنید</item>
+    </string-array>
+</resources>

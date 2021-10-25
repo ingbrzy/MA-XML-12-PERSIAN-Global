@@ -69,17 +69,7 @@
     <string name="accessibility_flash_back_soft_light">فلاش در حالت نور ملایم کار می‌کند</string>
     <string name="accessibility_flash_off">فلاش خاموش است</string>
     <string name="accessibility_flash_on">فلاش روشن است</string>
-    <string name="accessibility_flash_screen_halo">نور حلقوی روشن است</string>
     <string name="accessibility_flash_torch">فلاش روشن است. حالت چراغ‌قوه</string>
-    <string name="accessibility_focus_face_pos_bottom">در نزدیکی لبه پایینی قاب قرار دارد</string>
-    <string name="accessibility_focus_face_pos_left">در نزدیکی لبه سمت چپ قاب قرار دارد</string>
-    <string name="accessibility_focus_face_pos_left_bottom">در گوشه سمت چپ پایین قاب قرار دارد</string>
-    <string name="accessibility_focus_face_pos_left_top">در گوشه سمت چپ بالای قاب قرار دارد</string>
-    <string name="accessibility_focus_face_pos_mid">در نزدیکی مرکز قاب قرار دارد</string>
-    <string name="accessibility_focus_face_pos_right">در نزدیکی مرکز قاب قرار دارد</string>
-    <string name="accessibility_focus_face_pos_right_bottom">در گوشه سمت راست پایین قاب قرار دارد</string>
-    <string name="accessibility_focus_face_pos_right_top">در گوشه سمت راست بالای قاب قرار دارد</string>
-    <string name="accessibility_focus_face_pos_top">در نزدیکی لبه بالایی قاب قرار دارد</string>
     <string name="accessibility_focus_status">بزرگ‌نمایی %1$s برابر</string>
     <string name="accessibility_foucs_peak">مقدار برجستگی</string>
     <string name="accessibility_front_preview_status">پیش‌نمایش دوربین جلو</string>
@@ -600,6 +590,7 @@
     <string name="edit_smile">لبخند</string>
     <string name="edit_solid">کانتورها</string>
     <string name="emoticon">بسته استیکر</string>
+    <string name="empty" />
     <string name="eras_ad">میلادی</string>
     <string name="eras_bc">پیش از میلاد</string>
     <string name="error_fail_to_start_audio_capture">ضبط صدا آغاز نشد</string>
@@ -1112,17 +1103,13 @@
     <string name="portait_effect_entry_cool">نعناع</string>
     <string name="portait_effect_entry_dusk">غروب</string>
     <string name="portait_effect_entry_fairytale">کودکی</string>
-    <string name="portait_effect_entry_holiday">روز تعطیل</string>
     <string name="portait_effect_entry_japanese">آبی آسمانی</string>
     <string name="portait_effect_entry_lilt">تار و پود</string>
     <string name="portait_effect_entry_maze">مارپیچ</string>
     <string name="portait_effect_entry_mood">احساسات</string>
     <string name="portait_effect_entry_movie">فیلم</string>
     <string name="portait_effect_entry_nature">طبیعت</string>
-    <string name="portait_effect_entry_original">اصلی</string>
-    <string name="portait_effect_entry_oxygen">اکسیژن</string>
     <string name="portait_effect_entry_pink">خجالتی</string>
-    <string name="portait_effect_entry_pink_orange">مرکبات</string>
     <string name="portait_effect_entry_riddle">آب نبات</string>
     <string name="portait_effect_entry_romance">عاشقانه</string>
     <string name="portait_effect_entry_sepia">قرمز قهوه‌ای</string>
@@ -1172,7 +1159,7 @@
     <string name="pref_camera_antibanding_entry_3">خودکار</string>
     <string name="pref_camera_antibanding_title">ضدپله‌پله شدن رنگ</string>
     <string name="pref_camera_asd_night_title">بهبود خودکارعکس‌ها در نورکم</string>
-    <string name="pref_camera_asd_popup_title">اعلام کردن هنگامی که به فلاش نیاز باشد</string>
+    <string name="pref_camera_asd_popup_title">هنگام نیاز به فلاش اعلام شود</string>
     <string name="pref_camera_audio_capture_title">صدا</string>
     <string name="pref_camera_auto_capture_when_stable_summary">برای انتخاب یک چیز، بر نقطه مورب نزدیک لبه‌اش ضربه بزنید. هنگامی‌که جسم ثابت باشد دوربین یک عکس به صورت خودکار می‌گیرد.</string>
     <string name="pref_camera_auto_capture_when_stable_title">تصویربرداری هنگام ثابت شدن اجسام انتخاب شده</string>
@@ -1186,6 +1173,7 @@
     <string name="pref_camera_auxiliary_close">خاموش</string>
     <string name="pref_camera_auxiliary_exposure_feedback">تأیید نوردهی</string>
     <string name="pref_camera_auxiliary_focus_peak">اوج فوکوس</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">زیاد</string>
     <string name="pref_camera_beautify_entry_low">کم</string>
     <string name="pref_camera_beautify_entry_normal">متوسط</string>
@@ -1240,7 +1228,6 @@
     <string name="pref_camera_flashmode_entry_back_soft_light">نور ملایم</string>
     <string name="pref_camera_flashmode_entry_off">خاموش</string>
     <string name="pref_camera_flashmode_entry_on">روشن</string>
-    <string name="pref_camera_flashmode_entry_screen_halo">نور حلقوی</string>
     <string name="pref_camera_flashmode_entry_torch">چراغ قوه</string>
     <string name="pref_camera_flashmode_title">حالت فلاش</string>
     <string name="pref_camera_focus_shoot_summary">برای فوکوس ضربه زده، سپس دوباره زده تا یک عکس گرفته شود.</string>
@@ -1288,7 +1275,7 @@
     <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">لنز Google</string>
     <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">قفل AE/AF</string>
     <string name="pref_camera_lying_summary">هنگامی که پشت گوشی موازی با زمین باشد درباره جهت کنونی اعلان می‌شود</string>
-    <string name="pref_camera_lying_title">اعلام کردن درباره جهت</string>
+    <string name="pref_camera_lying_title">اعلان درباره جهت</string>
     <string name="pref_camera_magic_mirror_title">آینه جادویی</string>
     <string name="pref_camera_manual_description_title">درباره ویژگی‌های حرفه‌ای</string>
     <string name="pref_camera_manual_mode_title">دستی</string>
@@ -1367,8 +1354,6 @@
     <string name="pref_camera_square_mode_title">مربع</string>
     <string name="pref_camera_stereo_mode_title">تنظیم فوکوس</string>
     <string name="pref_camera_super_resolution_title">روشن کردن SR</string>
-    <string name="pref_camera_tap_shoot_summary">برای گرفتن عکس روی صفحه پیش‌نمایش ضربه بزنید</string>
-    <string name="pref_camera_tap_shoot_title">برای گرفتن عکس ضربه بزنید</string>
     <string name="pref_camera_tilt_shift_entry_circle">دایره</string>
     <string name="pref_camera_tilt_shift_entry_parallel">موازی</string>
     <string name="pref_camera_tilt_shift_title">تیلت شیفت</string>
@@ -1418,8 +1403,6 @@
     <string name="pref_camera_zsl_entry_off">خاموش</string>
     <string name="pref_camera_zsl_entry_on">روشن</string>
     <string name="pref_capture_settings">دوربین</string>
-    <string name="pref_cup_camera_position_summary">نمایش موقعیت دوربین جلو هنگام استفاده</string>
-    <string name="pref_cup_camera_position_title">نمایش دوربین جلو</string>
     <string name="pref_custom_feature_layout_title">چینش ویژگی‌ها</string>
     <string name="pref_custom_shutter_sound_title">صدا</string>
     <string name="pref_custom_tint_title">رنگ‌ها</string>
@@ -1450,7 +1433,7 @@
     <string name="pref_k_h">هدفون توگوشی اجرای زنده</string>
     <string name="pref_k_s_i">کنترل پخش صدای ضبط شده در هنگام اتصال با استفاده از گوشی</string>
     <string name="pref_lens_dirty_detect_summary">دریافت اعلان هنگامی که لنز کثیف باشد</string>
-    <string name="pref_lens_dirty_detect_title">اعلام کثیف بودن لنز</string>
+    <string name="pref_lens_dirty_detect_title">اعلان کثیف بودن لنز</string>
     <string name="pref_manual_exposure_title">S</string>
     <string name="pref_menu_ai_ultra_pixel_photography">AI %s</string>
     <string name="pref_menu_ultra_pixel_photography">Ultra HD %s</string>
@@ -1469,7 +1452,7 @@
     <string name="pref_photo_assistance_tips_off">خاموش</string>
     <string name="pref_photo_assistance_tips_on">روشن</string>
     <string name="pref_pic_flaw_tip_summary">دریافت اعلان به‌موقع هنگامی که افراد داخل قاب چشمان خود را بسته باشند یا بخشی از لنز هنگام تصویربرداری پوشانده شده باشد</string>
-    <string name="pref_pic_flaw_tip_title">اعلام نواقص</string>
+    <string name="pref_pic_flaw_tip_title">اعلان نواقص</string>
     <string name="pref_popup_camera_title">دوربین بازشو</string>
     <string name="pref_priority_storage_title">ذخیره در کارت SD</string>
     <string name="pref_privacy_title">سیاست حفظ حریم خصوصی</string>
@@ -1491,10 +1474,6 @@
     <string name="pref_super_night_se_summary">تشخیص وضعیت نور ضعیف و بهبود کیفیت تصویر به صورت خودکار</string>
     <string name="pref_super_night_se_title">حالت شب خودکار</string>
     <string name="pref_userdefine_watermark_title">نشان سفارشی</string>
-    <string name="pref_video_ai_audio_effect_comparation_3d">3D</string>
-    <string name="pref_video_ai_audio_effect_comparation_3d_i">صدای 3D</string>
-    <string name="pref_video_ai_audio_effect_comparation_3d_ii">نسخه نمایشی</string>
-    <string name="pref_video_ai_audio_effect_comparation_3d_original">اصلی</string>
     <string name="pref_video_ai_audio_single">صدای جلو</string>
     <string name="pref_video_captrue_ability_title">عکس‌برداری هنگام ضبط</string>
     <string name="pref_video_cast_setting_summary">روشن کرده تا بتوانید یک ویدئو را با دستگاه‌های چندگانه ضبط کنید</string>

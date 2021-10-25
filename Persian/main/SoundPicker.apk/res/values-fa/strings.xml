@@ -30,7 +30,7 @@
     <string name="add_alarm_text">افزودن زنگ</string>
     <string name="add_notification_text">افزودن اعلان</string>
     <string name="add_ringtone_text">افزودن آهنگ زنگ</string>
-    <string name="alarm_sound_default">صدای زنگ ساعت پیش‌فرض</string>
+    <string name="alarm_sound_default">صدای زنگ پیش‌فرض</string>
     <string name="app_label">صداها</string>
     <string name="delete_ringtone_text">حذف</string>
     <string name="notification_sound_default">صدای اعلان پیش‌فرض</string>

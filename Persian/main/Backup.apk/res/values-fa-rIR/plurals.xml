@@ -125,12 +125,12 @@
         <item quantity="one">%1$s | %2$d مورد</item>
     </plurals>
     <plurals name="total_num">
-        <item quantity="other">%d مورد،</item>
+        <item quantity="other">%d موارد،</item>
         <item quantity="one">%d مورد،</item>
     </plurals>
     <plurals name="trans_failed_summary">
-        <item quantity="other">%d مورد منتقل نشدند. برای نمایش جزئیات ضربه بزنید</item>
-        <item quantity="one">%d مورد منتقل نشد. برای نمایش جزئیات ضربه بزنید.</item>
+        <item quantity="other">%d مورد منتقل نشدند. برای دیدن جزئیات ضربه بزنید.</item>
+        <item quantity="one">%d مورد منتقل نشد. برای دیدن جزئیات ضربه بزنید.</item>
     </plurals>
     <plurals name="trans_item_failed_summary">
         <item quantity="other">%d مورد منتقل نشدند.</item>
