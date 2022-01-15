@@ -10,6 +10,7 @@
     <string name="alert_message_delete_record">حذف مورد ضبط شده از دستگاه شما٬ این مورد را نیز از فضای ابری Xiaomi حذف خواهد کرد. حالا حذف شود؟</string>
     <string name="alert_message_delete_record_title">مورد ضبط شده حذف شود؟</string>
     <string name="all_record">همه موارد ضبط شده</string>
+    <string name="allowed">اعطا شده</string>
     <string name="am">ق.ظ</string>
     <string name="app_name">ضبط‌کننده</string>
     <string name="app_record">موارد ضبط‌ شده برنامه</string>
@@ -148,6 +149,7 @@
     <string name="head_set_tip_dialog_ok">فهمیدم</string>
     <string name="head_set_tip_dialog_title">استفاده از میکروفن داخلی</string>
     <string name="invalid_argument">مباحثه نامعتبر</string>
+    <string name="invisible_mode_error_tip">برای استفاده از میکروفن، حالت ناشناس را در تنظیمات خاموش کنید</string>
     <string name="keywords_search_call_record">ضبط تماس‌ها;ضبط تماس;ضبط تماس;تماس‌های ضبط شده</string>
     <string name="keywords_search_record">مورد ضبط شده جدید;افزودن ضبط;ضبط کردن;موارد ضبطی;متن;رونوشت;قابل رونویسی;ضبط‌کننده;ضبط‌کننده صحبت;ضبط‌کننده صدا;برنامه ضبط‌کننده;برنامه ضبط کردن;چگونه ضبط کنم;چگونه صدا را ضبط کنیم;ضبط‌کننده کجاست; ضبط‌کننده MIUI</string>
     <string name="keywords_search_record_list">ضبط‌کننده;متن;رونوشت;ضبط;هم‌رسانی ضبط;هم‌رسانی موارد ضبط شده;مورد ضبط شده;موارد ضبط شده</string>
@@ -172,6 +174,7 @@
     <string name="mi_account_ok">ورود به حساب</string>
     <string name="mi_account_title">ورود با حساب Mi</string>
     <string name="midnight">شب</string>
+    <string name="miuix_access_state_desc">انتخاب شده</string>
     <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
     <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
@@ -252,6 +255,7 @@
     <string name="no_records">هنوز مورد ضبط شده‌ای اینجا نیست</string>
     <string name="noon">ظهر</string>
     <string name="normal_settings_pref_title">تنظیمات عمومی</string>
+    <string name="not_allowed">اعطا نشده</string>
     <string name="notification_message_all_paused">درحال انتظار اتصال Wi-Fi.</string>
     <string name="notification_playback">در حال پخش…</string>
     <string name="notification_recording">در حال ضبط…</string>
@@ -295,6 +299,15 @@
     <string name="pay_error_cancel">پرداخت لغو شده است</string>
     <string name="pay_error_null">پرداخت کامل نشد، حساب خود را بررسی کنید.</string>
     <string name="pay_error_unknown">خطای ناشناخته</string>
+    <string name="permission_desc">جزئیات مجوزها</string>
+    <string name="permission_dialog_cancel">لغو</string>
+    <string name="permission_dialog_ok">تنظیمات</string>
+    <string name="permission_record">ضبط صدا</string>
+    <string name="permission_record_description">برای ارائه خدمات ضبط صدا</string>
+    <string name="permission_storage">دسترسی به حافظه</string>
+    <string name="permission_storage_description">برای مدیریت موارد ضبط شده و دانلود آن‌ها در فضای ابری</string>
+    <string name="permission_storage_description_for_download">برای دانلود موارد ضبط شده از فضای ابری</string>
+    <string name="permission_storage_description_for_manage_files">برای مدیریت موارد ضبط شده</string>
     <string name="play_speed">%1$.1fX سرعت</string>
     <string name="playback_delete_records">حذف مورد ضبط شده</string>
     <string name="playback_share_records">هم‌رسانی مورد ضبط شده</string>
@@ -315,6 +328,8 @@
     <string name="preference_status_bar_indicator_prompt">نمایش یک نشان‌گر آبی در صفحه قفل هنگام ضبط</string>
     <string name="preference_tip_rename">نامگذاری دستی مورد ضبط‌شده</string>
     <string name="privacy_policy_title">سیاست حفظ حریم خصوصی</string>
+    <string name="privacy_settings">حریم خصوصی</string>
+    <string name="progress">نوار فرآیند پخش</string>
     <string name="recognition_button_add_to_queue">افزودن به نوبت</string>
     <string name="recognition_button_cancel">اکنون نه</string>
     <string name="recognition_button_start">تبدیل به نوشتار</string>
@@ -382,6 +397,7 @@
     <string name="record_mark_point">علامت‌گذاری %s</string>
     <string name="record_name_hour">.</string>
     <string name="record_name_minute">​</string>
+    <string name="record_permission_dialog_title">نیازمند مجوز میکروفن است</string>
     <string name="record_quliaty_preference_title">کیفیت ضبط</string>
     <string name="record_resotre">بازیابی موارد ضبط شده</string>
     <string name="recorder_record">صوت</string>
@@ -414,6 +430,11 @@
     <string name="rename_no_more_tip">دوباره نمایش داده نشود</string>
     <string name="retry">تلاش دوباره</string>
     <string name="runtime_permission_ungranted">به دلیل نداشتن مجوز نمی‌توان از ضبط کننده استفاده کرد</string>
+    <string name="saf_permission_dialog_content">به دلیل محدودیت‌های Android، ضبط کننده نیاز به مجوزهایی برای دسترسی به موارد ضبط شده توسط سایر برنامه‌ها دارد. برای امکان دیدن آن‌ها، به ضبط کننده اجازه دسترسی به این موارد ضبط شده را بدهید.</string>
+    <string name="saf_permission_dialog_grant_permission_immediately">تنظیمات</string>
+    <string name="saf_permission_dialog_later">خیر، سپاسگزارم</string>
+    <string name="saf_permission_dialog_no_more_tip">دوباره نمایش داده نشود</string>
+    <string name="saf_permission_dialog_title">نیازمند مجوز است</string>
     <string name="saturday">شنبه</string>
     <string name="saturday_short">شنبه</string>
     <string name="saturday_shortest">شنبه</string>
@@ -431,6 +452,7 @@
     <string name="search_tip_rename">نامگذاری دستی موارد ضبط‌ شده</string>
     <string name="send">ارسال</string>
     <string name="service_instructions">درباره iflyrec.com</string>
+    <string name="settings_saf_permission">مجوزهای مدیریت فایل</string>
     <string name="share">هم‌رسانی</string>
     <string name="share_dialog_title">هم‌رسانی به وسیله</string>
     <string name="shortcut_records">موارد ضبط‌ شده</string>
@@ -450,6 +472,7 @@
     <string name="status_bar_back">جهت بازگشت به ضبط‌کننده ضربه بزنید</string>
     <string name="status_bar_recording">در حال ضبط…</string>
     <string name="status_bar_recording_pause">ضبط‌کننده متوقف شد</string>
+    <string name="storage_permission_dialog_title">نیازمند مجوز حافظه است</string>
     <string name="sunday">یک‌شنبه</string>
     <string name="sunday_short">یک‌شنبه</string>
     <string name="sunday_shortest">یک‌شنبه</string>
@@ -536,6 +559,7 @@
     <string name="uninstall_warning_title">ضبط کننده حذف شود؟</string>
     <string name="usage_description">نوشتار کردن صدا و همگام‌سازی موارد با فضای ابری</string>
     <string name="user_feedback">بازخورد</string>
+    <string name="view_privacy">نمایش سیاست حفظ حریم خصوصی</string>
     <string name="webview_check_network">تنظیمات شبکه</string>
     <string name="webview_data_error">خطایی رخ داد</string>
     <string name="webview_locating_fail">موقعیت مکانی شما پیدا نشد</string>

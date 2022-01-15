@@ -27,6 +27,8 @@ You'll be able to track your workouts and activity."</string>
     <string name="am">ق.ظ</string>
     <string name="audio_permission_dialog_desc">To analyze your sleep cycle and record talking and snoring, Xiaomi Health needs permission to record audio.</string>
     <string name="audio_permission_dialog_title">Allow recording audio</string>
+    <string name="audio_permission_subtitle">برای تشخیص خُر و پف و صحبت کردن</string>
+    <string name="audio_permission_title">ضبط صدا</string>
     <string name="audio_record_perm_description">For recording snoring and talking while analyzing sleep cycle</string>
     <string name="audio_record_permission_description">For recording talking and snoring while analyzing your sleep cycle</string>
     <string name="auto_start_fail">مجوز داده نشد</string>
@@ -67,9 +69,13 @@ You'll be able to track your workouts and activity."</string>
     <string name="bg_control_dialog_go_set">تنظیمات</string>
     <string name="bg_control_dialog_msg">بهینه‌ساز باتری فعالیت پس‌زمینه سلامت Xiaomi را محدود می‌کند. به سلامت Xiaomi اجازه اجرای همیشگی در پس‌زمینه را داده تا آمار دقیقی به‌دست آورید.</string>
     <string name="bg_control_dialog_title">محدودیت‌های پس‌زمینه</string>
+    <string name="body_sport_permission_subtitle">For tracking your steps</string>
+    <string name="body_sport_permission_title">Access health and activity data</string>
     <string name="breaststroke">Breaststroke</string>
     <string name="butterfly_stroke">Butterfly</string>
     <string name="button_record_menstruation">Record</string>
+    <string name="camera_permission_subtitle">به منظور به دست آوردن تغییرات جریان خون برای تشخیص تپش قلب و تنظیم عکس‌های نمایه</string>
+    <string name="camera_permission_title">استفاده از دوربین</string>
     <string name="cancel">لغو</string>
     <string name="cancel_edit">از تغییرات صرف نظر شود؟</string>
     <string name="cancel_mark_end">دوره تمام نشد</string>
@@ -90,6 +96,8 @@ You'll be able to track your workouts and activity."</string>
     <string name="complete_preference_basic_info">Complete your profile</string>
     <string name="complete_progress">Progress</string>
     <string name="completed">"Completed "</string>
+    <string name="contact_permission_subtitle">For setting emergency contacts</string>
+    <string name="contact_permission_title">Access contacts</string>
     <string name="copy_done">با موفقیت کپی شد</string>
     <string name="copyright_statement">Copyright © Xiaomi Inc. تمامی حقوق محفوظ است.</string>
     <string name="cousume_unit_float_format">%1$.2f Cal</string>
@@ -284,6 +292,8 @@ You can select a different data source in More > Data sources."</string>
     <string name="exit_running_tips_desc">"Looks like you haven't started working out yet. Finish this workout?"</string>
     <string name="exit_running_tips_title">Finish workout</string>
     <string name="expand_all">Show all</string>
+    <string name="external_storage_permission_subtitle">برای تنظیمات عکس‌های نمایه</string>
+    <string name="external_storage_permission_title">دسترسی و ذخیره موارد در حافظه</string>
     <string name="fall_sleep_hard">Trouble falling asleep</string>
     <string name="falling_duration">Falling asleep</string>
     <string name="falling_duration_hard_description">"Falling asleep is the period between the start of your sleep and falling asleep completely. If it takes you longer than 30 minutes to fall asleep, this might be a sign of insomnia.
@@ -437,6 +447,8 @@ If it's still difficult for you to fall asleep after 30 minutes in bed, reduce t
     <string name="load_failed">"Couldn't load items. Wait a minute or two and try again."</string>
     <string name="loading">چند لحظه صبر کنید…</string>
     <string name="location_perm_description">برای دنبال کردن تمرینات در فضای باز و ضبط مسیرها</string>
+    <string name="location_permission_subtitle">برای دنبال کردن تمرینات در فضای باز و ضبط مسیرها</string>
+    <string name="location_permission_title">دسترسی به موقعیت</string>
     <string name="low">کم</string>
     <string name="low_intensity">Low</string>
     <string name="low_intensity_description">Regular respiratory rate that allows you to maintain conversation</string>
@@ -866,6 +878,9 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="snore_record_audio_delete_title">Delete recording?</string>
     <string name="snore_section">Snoring %1$s</string>
     <string name="snore_write_description">For saving audio recordings to your device</string>
+    <string name="sport_data_use_subtitle">To track your workouts and fitness progress, we collect and process your information including workout routes, sleep data, heart rate, and weight.</string>
+    <string name="sport_data_use_tip">"Read and agree to our &lt;font color=\"#0D84FF\">&lt;a href=%1$s>Health and Activity Data Use Policy&lt;/a>&lt;/font> to better understand how we collect and process your information. You won't be able to use this service if you don't consent to our collection and processing."</string>
+    <string name="sport_data_use_title">Data permissions</string>
     <string name="sport_type">Workout type</string>
     <string name="standard_format">(standard: %1s)</string>
     <string name="state_agree">پذیرفتن</string>
@@ -896,6 +911,7 @@ If this problem occurs frequently, check your device for scheduled shutdown task
     <string name="swim_type">Style</string>
     <string name="swipe_right_to_end">برای پایان دادن انگشت خود را به سمت راست بکشید</string>
     <string name="swipe_up_to_end">برای پایان دادن انگشت خود را به سمت بالا بکشید</string>
+    <string name="system_permission">جزئیات مجوزها</string>
     <string name="tb_mens_mark_success">Marked successfully</string>
     <string name="tb_mens_select_column">Cycle starts on%1$s.%2$s.%3$s.</string>
     <string name="tb_mens_unmark_success">Canceled successfully</string>

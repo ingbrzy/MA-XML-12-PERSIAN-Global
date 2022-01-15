@@ -206,8 +206,8 @@ dd/MM"</string>
     <string name="my_style_title">تم من</string>
     <string name="night">شب</string>
     <string name="noon">ظهر</string>
-    <string name="notification_anim_pulse">تپش</string>
-    <string name="notification_anim_rhythm">ریتم</string>
+    <string name="notification_anim_pulse">تپش (قرمز)</string>
+    <string name="notification_anim_rhythm">تپش (آبی)</string>
     <string name="notification_anim_star">نور ستاره</string>
     <string name="notification_nothing">هیچ کدام</string>
     <string name="notification_screen_on">روشن شدن صفحه نمایش</string>
@@ -260,6 +260,7 @@ dd/MM"</string>
     <string name="sunday_short">یک‌شنبه</string>
     <string name="sunday_shortest">یک‌شنبه</string>
     <string name="temporary_style">برای ۱۰ ثانیه پس از ضربه</string>
+    <string name="temporary_style_5">برای ۵ ثانیه پس از ضربه</string>
     <string name="temporary_style_summary">پیشنهاد شده</string>
     <string name="text_color">رنگ متن</string>
     <string name="text_length_exceed_limit_alert">*متنی که وارد کرده‌اید خیلی طولانی است</string>

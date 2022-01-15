@@ -113,6 +113,8 @@
     <string name="created_successfully">با موفقیت ایجاد شد</string>
     <string name="crowned_hornbill">Crowned hornbill</string>
     <string name="cu_confirm">تنظیم</string>
+    <string name="customize_radio_btn_summary">ترجیح نرخ تازه‌سازی انتخاب شده</string>
+    <string name="customize_radio_btn_title">سفارشی</string>
     <string name="dall_sheep">Dall sheep</string>
     <string name="dart_frog_info">Its bright blue skin and poisonous glands are defense mechanisms to potential predators.</string>
     <string name="date_picker_label_day" />
@@ -122,7 +124,11 @@
     <string name="date_time_picker_dialog_title">تنظیم تاریخ و ساعت</string>
     <string name="dc_light_hint_enable_title">توجه</string>
     <string name="dc_light_hint_normal">نوردهی جریان مستقیم ممکن است در نحوه نمایش برخی موارد تأثیر بگذارد.</string>
+    <string name="dc_light_hint_normal_anit">حالت ضد سوسو زدن ممکن است بر نحوه نمایش برخی موارد تأثیر بگذارد.</string>
+    <string name="dc_light_hint_normal_other">حالت ضد سوسو زدن ممکن است بر نرخ تازه‌سازی و نحوه نمایش برخی موارد تأثیر بگذارد.</string>
     <string name="dc_light_hint_other">نوردهی جریان مستقیم می‌تواند بر نرخ تازه‌سازی و نحوه نمایش برخی موارد تأثیر بگذارد.</string>
+    <string name="dc_light_hint_unnormal_low">حالت ضد سوسو زدن کم نور ممکن است بر نحوه نمایش برخی موارد تأثیر بگذارد.</string>
+    <string name="dc_light_hint_unnormal_other">حالت ضد سوسو زدن در نور کم ممکن است بر نرخ تازه‌سازی و نحوه نمایش برخی موارد تأثیر بگذارد.</string>
     <string name="dc_lignt_enable_hint">حالت ضد لرزش نرخ تازه‌سازی صفحه را ۶۰ هرتز تنظیم می‌کند. به حالت ضد لرزش تغییر می‌دهید؟</string>
     <string name="delete_first_to_add_animal">To add a new item, delete one first.</string>
     <string name="desktop_widget_authorization">برای دادن مجوزها برای مشاهده آمار، ضربه بزنید</string>
@@ -208,13 +214,19 @@
     <string name="focus_mode_timer_pick_dialog_title">وارد کردن مدت</string>
     <string name="focus_time_exception_tip">به نظر می‌رسد زمان سیستم تغییر کرده است. حالت تمرکز خاموش شد.</string>
     <string name="follow_sim1">به‌کارگیری تنظیمات سیم‌کارت ۱</string>
+    <string name="fps_high">بالا</string>
     <string name="fps_nature_summary">نرخ تازه‌سازی حداکثر همه چیز را واضح و روشن نگه می‌دارد</string>
     <string name="fps_nature_title">حداکثر</string>
+    <string name="fps_normal">استاندارد</string>
+    <string name="fps_radio_btn_title">نرخ تازه‌سازی</string>
+    <string name="fps_save_battery_tips">بهینه‌ساز باتری روشن است. نرخ تازه‌سازی روی %d هرتز تنظیم شده است.</string>
     <string name="fps_smooth_summary">نرخ تازه‌سازی بالا وضوح بیشتری به جزئیات می‌‌افزاید</string>
     <string name="fps_smooth_title">بالا</string>
     <string name="fps_standard_summary">نرخ تازه‌سازی عادی در مصرف باتری صرفه‌جویی می‌کند</string>
     <string name="fps_standard_title">عادی</string>
     <string name="fps_user_tip">- جهت آگاهی شما این انیمیشن‌های نمایشی با سرعت کم پخش می‌شوند. کارایی حقیقی ممکن است بر اساس عوامل مختلف متفاوت به نظر آید.</string>
+    <string name="fps_user_tip_footer">"%1$d. برای آگاهی شما درباره تفاوت نرخ تازه‌سازی بالا و پایین، نسخه‌های نمایشی در اینجا آهسته‌تر پخش می‌شوند. ممکن است هنگام استفاده عادی تشخیص تفاوت برای شما سخت‌تر باشد.
+%2$d. در برخی موارد، نرخ تازه‌سازی ممکن است بر اساس مواردی که نمایش داده می‌شوند به صورت پویا تنظیم شوند."</string>
     <string name="friday">جمعه</string>
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
@@ -240,11 +252,14 @@
     <string name="healthy_use_phone">مدیریت مدت استفاده از نمایشگر</string>
     <string name="helmeted_guineafowl">Guineafowl</string>
     <string name="high_fps_description">نرخ تازه‌سازی صفحه بالا. مصرف برق بیشتر.</string>
+    <string name="high_fps_tip_footer">استفاده از نرخ تازه‌سازی بالاتر تجربه دیدن را روان‌تر می‌کند، اما مصرف برق را افزایش می‌دهد.</string>
     <string name="hippopotamus">Hippo</string>
     <string name="hsv_space_color">فضای رنگی HSV</string>
     <string name="hsv_space_color_hue">فام</string>
     <string name="hsv_space_color_saturation">اشباع</string>
     <string name="hsv_space_color_value">درخشندگی</string>
+    <string name="intelligent_radio_btn_summary">تنظیم پویای نرخ تازه‌سازی بر اساس موقعیت‌های مختلف به منظور تعادل کارایی با مصرف برق</string>
+    <string name="intelligent_radio_btn_title">خودکار (پیشنهاد شده)</string>
     <string name="intelligent_recognition_item_summary">استفاده از یک صدای زنگ مشخص برای تماس‌ها از سوی خدمات دهندگان تحویل بسته و تاکسی. این ویژگی هنگامی که %s به عنوان زنگ پیش‌فرض شما باشد کار خواهد کرد.</string>
     <string name="intelligent_recognition_item_title">شناسایی خدمات</string>
     <string name="item_anura">Anura</string>
@@ -285,6 +300,8 @@
     <string name="lion_info">Lions are fierce and powerful predators. They live in groups and have a strong sense of territory.</string>
     <string name="lock_summary">از اطلاعات شخصی حود محافظت کنید</string>
     <string name="long_tai1ed_iaeger">Long-tailed jaeger</string>
+    <string name="low_flicker_mode">کم نور</string>
+    <string name="low_flicker_mode_summary">جلوگیری از سوسو زدن در شرایط کم نور برای کاهش خستگی چشم</string>
     <string name="low_fps_description">نرخ تازه‌سازی صفحه پایین. مصرف برق کمتر.</string>
     <string name="low_light_preview">پیش‌نمایش در نور کم</string>
     <string name="lynx">Lynx</string>
@@ -294,6 +311,7 @@
     <string name="masked_palm_civet">Masked palm civet</string>
     <string name="medium_tree_finch">Medium tree finch</string>
     <string name="midnight">شب</string>
+    <string name="miuix_access_state_desc">انتخاب شده</string>
     <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
     <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
@@ -386,6 +404,7 @@
     <string name="noon">ظهر</string>
     <string name="normal_mode">عادی</string>
     <string name="normal_mode_summary">سوسو زدن در شرایط کم‌نور کاهش نیابد</string>
+    <string name="normal_mode_summary_new">اجازه سوسو زدن در شرایط کم نور</string>
     <string name="north_white_rhinoceros">White rhinoceros</string>
     <string name="norway_lemmings">Norway lemmings</string>
     <string name="norway_lemmings_info">The Norway lemming dwells in tundra and fells, and prefers to live near water.</string>
@@ -462,7 +481,7 @@
     <string name="several_days_use_time">مدت استفاده از نمایشگر: %2$s</string>
     <string name="short_eared_owl">Short-eared owl</string>
     <string name="shortcut_created">این میان‌بر از پیش وجود دارد</string>
-    <string name="silent_ringtone_hint">صدا در حالت بی‌صدا قرار گرفته است. میزان صدا را بالا برده و سپس دوباره تلاش کنید.</string>
+    <string name="silent_ringtone_hint">ابتدا حالت بی‌صدا را خاموش کنید</string>
     <string name="silver_pheasant">Silver pheasant</string>
     <string name="sim_slot_1">" (سیم‌کارت ۱)"</string>
     <string name="sim_slot_2">" (سیم‌کارت ۲)"</string>
@@ -474,6 +493,8 @@
     <string name="snowy_owl">Snowy owl</string>
     <string name="southern_elephant_seal">Southern elephant seal</string>
     <string name="southern_ground_hornbill">Ground hornbill</string>
+    <string name="split_page_authorization">به مدت استفاده از نمایشگر خوش آمدید! شما در اینجا می‌توانید برای استفاده از نمایشگر محدودیت تنظیم کرده و آمار را ببینید. برای روشن کردن این ویژگی روی «آغاز» بزنید.</string>
+    <string name="split_page_start">آغاز</string>
     <string name="spotted_hyaena">Spotted hyena</string>
     <string name="spotted_hyaena_info">Hyenas are nocturnal predators with the most complex social behaviours.</string>
     <string name="spur_winged_plover">Spur-winged lapwing</string>
@@ -482,7 +503,7 @@
     <string name="start_easymode">روشن کردن حالت ساده</string>
     <string name="steady_on_screen_notification_title">گوشی خود را زمین گذاشته و کمی استراحت کنید</string>
     <string name="steady_on_screen_notification_title_pad">دستگاه خود را زمین گذاشته و کمی استراحت کنید</string>
-    <string name="steady_on_screen_notify">اعلان درباره مصرف بی‌وقفه</string>
+    <string name="steady_on_screen_notify">اعلام درباره مصرف بی‌وقفه</string>
     <string name="steady_on_screen_setting">محدودیت زمانی برای دوره‌های بی‌وقفه</string>
     <string name="steady_on_screen_summary">محدودیت زمانی برای دوره‌های بی‌وقفه</string>
     <string name="stop_app_timer">خاموش کردن مدت استفاده از نمایشگر</string>
@@ -588,12 +609,15 @@
     <string name="usage_app_over_content">امروز به مدت %s از این برنامه استفاده کرده‌اید.</string>
     <string name="usage_app_over_summary">به محدودیت زمانی خود رسیدید. وقت تمام است!</string>
     <string name="usage_app_set_limit_time">تنظیم محدودیت</string>
+    <string name="usage_app_stop_desc">All Screen time data and permissions, including individual settings, as well as the related items stored locally, will be deleted after you turn this feature off.​</string>
     <string name="usage_app_system_app_summary">زمان استفاده از نمایشگر برای برنامه‌های سیستمی محدود نمی‌شود</string>
     <string name="usage_app_weekday_limit">روزهای کاری</string>
     <string name="usage_app_weekend_limit">آخر هفته‌ها</string>
     <string name="usage_beat_fans">بهتر از %s از هواداران Mi</string>
     <string name="usage_continuous_days">رسیدن به هدف پیاپی</string>
     <string name="usage_creating_weekly_report">درحال ایجاد گزارش هفتگی…</string>
+    <string name="usage_cta_desc">"Welcome to Settings! To provide Screen time and Focus mode stats to you, this app needs to collect the following data: the number of times you unlock the device, the list of your apps along with the corresponding usage duration, the number of times your screen lights up, and Focus mode settings. The collected data will only be stored locally on this device.
+"</string>
     <string name="usage_current_week_usage">%s میانگین ۷ روز گذشته</string>
     <string name="usage_device_limit_app_prolong">افزودن زمان</string>
     <string name="usage_device_limit_app_prolong_time1">افزودن ۲۰ دقیقه</string>
@@ -725,7 +749,7 @@
     <string name="usage_state_focus_level1">ستاره در حال درخشیدن</string>
     <string name="usage_state_focus_level_summary">سطح کنونی: %s</string>
     <string name="usage_state_focus_mode_experience_warning_message">حالت تمرکز فقط اجازه استفاده از دوربین و برقراری تماس‌های اضطراری را می‎دهد. نمی‌توانید حالت تمرکز را زودتر خاموش کنید.</string>
-    <string name="usage_state_focus_mode_experience_warning_message_pad">"Focus mode only allows using Camera. You won't be able to turn off Focus mode prematurely."</string>
+    <string name="usage_state_focus_mode_experience_warning_message_pad">حالت تمرکز فقط اجازه استفاده از دوربین را می‌‎دهد. نمی‌توانید حالت تمرکز را زودتر خاموش کنید.</string>
     <string name="usage_state_focus_mode_experience_warning_message_sim_pad">"Focus mode only allows using Camera and making emergency calls. You won't be able to turn off Focus mode prematurely."</string>
     <string name="usage_state_focus_mode_summary">محدود کردن تمام ویژگی‎‎‏ها به جز تماس‌های ضروری و دوربین</string>
     <string name="usage_state_focus_mode_summary1">یک شروع خوب نیمی از انجام دادن است</string>
@@ -733,14 +757,14 @@
     <string name="usage_state_focus_mode_summary3">برای مترکز ماندن کمی تلاش لازم است</string>
     <string name="usage_state_focus_mode_title">حالت تمرکز</string>
     <string name="usage_state_focus_mode_warning_message">حالت تمرکز فقط اجازه استفاده از دوربین و برقراری تماس‎های اضطراری را می‎دهد. نمی‌توانید حالت تمرکز را زودتر خاموش کنید.</string>
-    <string name="usage_state_focus_mode_warning_message_pad">"Focus mode only allows using Camera. You won't be able to turn off Focus mode prematurely."</string>
+    <string name="usage_state_focus_mode_warning_message_pad">حالت تمرکز فقط اجازه استفاده از دوربین را می‌‎دهد. نمی‌توانید حالت تمرکز را زودتر خاموش کنید.</string>
     <string name="usage_state_focus_mode_warning_message_sim_pad">"Focus mode only allows using Camera and making emergency calls. You won't be able to turn off Focus mode prematurely."</string>
     <string name="usage_state_focus_mode_warning_title">توجه</string>
     <string name="usage_state_focus_success">چالش کامل شد</string>
     <string name="usage_state_focus_take_photo">دوربین</string>
     <string name="usage_state_focus_warning_text">روی چیز مهمی تمرکز کنید</string>
     <string name="usage_state_focus_weak_summary">گوشی خود را کنار بگذارید</string>
-    <string name="usage_state_focus_weak_summary_pad">Put your device away</string>
+    <string name="usage_state_focus_weak_summary_pad">دستگاه خود را کنار بگذارید</string>
     <string name="usage_state_friday">جمعه</string>
     <string name="usage_state_go_more">برنامه‌های بیشتر</string>
     <string name="usage_state_holiday_day_hour_minute">روزهای تعطیل: %1$s و %2$s</string>
@@ -789,7 +813,7 @@
     <string name="usage_state_week_total_text">مدت استفاده از نمایشگر (۷ روز اخیر)</string>
     <string name="usage_state_which_mouth">MMM</string>
     <string name="usage_state_work_day">روزهای کاری</string>
-    <string name="usage_state_work_day_hour_minute">روزهای کاری هفته: %1$d ساعت و %2$d دقیقه</string>
+    <string name="usage_state_work_day_hour_minute">روزهای کاری: %1$d ساعت و %2$d دقیقه</string>
     <string name="usage_stats_device_limit">محدودیت مدت استفاده از نمایشگر روزانه</string>
     <string name="usage_stats_device_limit_summary">تنظیم محدودیت روزانه برای استفاده</string>
     <string name="usage_stats_experience_text">برای آزمایش ضربه بزنید (۱ دقیقه)</string>

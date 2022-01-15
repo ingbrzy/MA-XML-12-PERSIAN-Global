@@ -85,12 +85,20 @@
         <item>سبز</item>
         <item>آبی</item>
     </string-array>
+    <string-array name="nf_ad_feedback_reason">
+        <item>جالب نیست</item>
+        <item>تکراری</item>
+        <item>کیفیت پایین</item>
+        <item>عکس نامناسب</item>
+        <item>اطلاعات تقلبی</item>
+    </string-array>
     <string-array name="nf_feedback_reason">
         <item>محتوای جنسی</item>
         <item>دروغ</item>
         <item>اخبار قدیمی</item>
         <item>دیدگاه‌های افراطی</item>
         <item>تبلیغات نرم</item>
+        <item>آن را نمی‌پسندم</item>
     </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>رفتن به عقب/جلو</item>

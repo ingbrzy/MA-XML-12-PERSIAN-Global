@@ -124,6 +124,10 @@
         <item quantity="other">%d مورد ضبط شده یافت شد</item>
         <item quantity="one">%d مورد ضبط شده یافت شد</item>
     </plurals>
+    <plurals name="text_btn_list_with_message">
+        <item quantity="other">%d مورد ضبط شده جدید</item>
+        <item quantity="one">%d مورد ضبط شده جدید</item>
+    </plurals>
     <plurals name="time_left_for_clear_file">
         <item quantity="other">%d روز مانده</item>
         <item quantity="one">%d روز مانده</item>

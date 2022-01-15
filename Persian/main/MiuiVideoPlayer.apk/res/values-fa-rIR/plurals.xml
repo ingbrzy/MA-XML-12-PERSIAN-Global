@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="a_hour_ago">
-        <item quantity="other">۱ ساعت پیش</item>
-        <item quantity="one">۱ ساعت پیش</item>
-    </plurals>
-    <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">۱ ساعت پیش</item>
-        <item quantity="one">۱ ساعت پیش</item>
-    </plurals>
-    <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">نیم ساعت پیش</item>
-        <item quantity="one">نیم ساعت پیش</item>
-    </plurals>
-    <plurals name="abbrev_in_a_hour">
-        <item quantity="other">در ۱ ساعت</item>
-        <item quantity="one">در ۱ ساعت</item>
-    </plurals>
-    <plurals name="abbrev_in_half_hour">
-        <item quantity="other">در نیم ساعت</item>
-        <item quantity="one">در نیم ساعت</item>
-    </plurals>
-    <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">بلافاصله</item>
-        <item quantity="one">بلافاصله</item>
-    </plurals>
-    <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">در %d دقیقه</item>
-        <item quantity="one">در ۱ دقیقه</item>
-    </plurals>
-    <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">هم اکنون</item>
-        <item quantity="one">هم اکنون</item>
-    </plurals>
-    <plurals name="abbrev_num_minutes_ago">
-        <item quantity="other">%d دقیقه پیش</item>
-        <item quantity="one">۱ دقیقه پیش</item>
-    </plurals>
     <plurals name="comment_model_watch_reply">
         <item quantity="other">مشاهده %d پاسخ</item>
         <item quantity="one">مشاهده %d پاسخ</item>
@@ -47,34 +11,6 @@
     <plurals name="follower">
         <item quantity="other">%d دنبال‌کننده</item>
         <item quantity="one">%d دنبال‌کننده</item>
-    </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">نیم ساعت پیش</item>
-        <item quantity="one">نیم ساعت پیش</item>
-    </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">در ۱ ساعت</item>
-        <item quantity="one">در ۱ ساعت</item>
-    </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">در نیم ساعت</item>
-        <item quantity="one">در نیم ساعت</item>
-    </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">بلافاصله</item>
-        <item quantity="one">بلافاصله</item>
-    </plurals>
-    <plurals name="in_num_minutes">
-        <item quantity="other">در %d دقیقه</item>
-        <item quantity="one">در ۱ دقیقه</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">هم اکنون</item>
-        <item quantity="one">هم اکنون</item>
-    </plurals>
-    <plurals name="local_video_floder">
-        <item quantity="other">%d پوشه</item>
-        <item quantity="one">%d پوشه</item>
     </plurals>
     <plurals name="lv_subtitle_offset_advance_times">
         <item quantity="other">زیرنویس‌ها %.1f ثانیه زودتر نمایش داده خواهند شد</item>
@@ -96,10 +32,6 @@
         <item quantity="other">%s ثانیه مانده</item>
         <item quantity="one">%s ثانیه مانده</item>
     </plurals>
-    <plurals name="miuix_appcompat_items_selected">
-        <item quantity="other">%d مورد انتخاب شد</item>
-        <item quantity="one">%d مورد انتخاب شد</item>
-    </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">محتوای شما حاوی مواردی (%1$s) است که معیارهای جامعه ما را نقض می‌کند. حساب شما به مدت %2$d روز تا %3$s تعلیق می‌شود.</item>
         <item quantity="one">محتوای شما حاوی مواردی (%1$s) است که معیارهای جامعه ما را نقض می‌کند. حساب شما به مدت %2$d روز تا %3$s تعلیق می‌شود.</item>
@@ -107,10 +39,6 @@
     <plurals name="notification_close_tip">
         <item quantity="other">این ویژگی به مدت %s روز روشن خواهد بود</item>
         <item quantity="one">این ویژگی به مدت %s روز روشن خواهد بود</item>
-    </plurals>
-    <plurals name="num_minutes_ago">
-        <item quantity="other">%d دقیقه پیش</item>
-        <item quantity="one">۱ دقیقه پیش</item>
     </plurals>
     <plurals name="ovp_detail_v_video_count">
         <item quantity="other">%d ویدئو</item>

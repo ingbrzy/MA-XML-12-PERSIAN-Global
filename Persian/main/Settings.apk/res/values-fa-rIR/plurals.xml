@@ -24,10 +24,6 @@
         <item quantity="other">%d دستگاه موجود</item>
         <item quantity="one">%d دستگاه موجود</item>
     </plurals>
-    <plurals name="color_game_led_freq_entries">
-        <item quantity="other">هر %d ثانیه</item>
-        <item quantity="one">هر %d ثانیه</item>
-    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d دستگاه</item>
         <item quantity="one">%d دستگاه</item>

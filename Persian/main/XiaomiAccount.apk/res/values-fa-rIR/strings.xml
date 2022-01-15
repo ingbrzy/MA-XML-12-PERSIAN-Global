@@ -80,6 +80,9 @@
     <string name="binded">متصل شد</string>
     <string name="binded_description" formatted="false">"%s به حساب Mi شما وصل شد.
 حالا می‌توانید با استفاده از %s وارد حساب خود شوید."</string>
+    <string name="button_agree">می‌پذیرم</string>
+    <string name="button_close">بستن</string>
+    <string name="button_refuse">نمی‌پذیرم</string>
     <string name="button_unbind">قطع اتصال</string>
     <string name="cancel">لغو</string>
     <string name="change_activate_email">تغییر نشانی ایمیل</string>
@@ -395,6 +398,7 @@
     <string name="passport_activing_account">درحال فعال‌سازی…</string>
     <string name="passport_adding_account">درحال افزودن حساب</string>
     <string name="passport_area_code_hot">پر استفاده</string>
+    <string name="passport_area_code_others">استفاده از یک پیش‌شماره متفاوت</string>
     <string name="passport_area_code_title">کد کشور</string>
     <string name="passport_auto_generate_pwd">ساخت گذرواژه امن</string>
     <string name="passport_back">بازگشت</string>
@@ -627,12 +631,18 @@
     <string name="permission_group_phone">تلفن</string>
     <string name="permission_group_sms">پیامک</string>
     <string name="permission_group_storage">حافظه</string>
+    <string name="permission_instructions">استفاده از مجوز</string>
     <string name="permission_read_sms">دسترسی به پیام‌ها</string>
+    <string name="permission_withdraw">پس گرفتن</string>
     <string name="permission_write_external_storage">دسترسی و ذخیره موارد در حافظه</string>
     <string name="personal_info_desc">عکس، نام مستعار و موارد بیشتر</string>
     <string name="phone_num_use_for">شماره تلفن استفاده شده است برای:</string>
     <string name="photoPickerNotFoundText">هیچ عکسی در دسترس نیست.</string>
     <string name="pm">ب.ظ</string>
+    <string name="privacy_policy_reject_confirm_msg">تا زمانی که نسخه جدید سیاست حفظ حریم خصوصی حساب Mi را نپذیرید، نمی‌توانید از حساب Mi استفاده نمایید. &lt;a href=%1$s>سیاست حفظ حریم خصوصی&lt;/a> به‌روز شده حساب Mi را می‌پذیرید؟</string>
+    <string name="privacy_policy_reject_confirm_title">از حساب Mi استفاده نمی‌شود</string>
+    <string name="privacy_policy_update_msg">سیاست حفظ حریم خصوصی حساب Mi به‌روز شد:&lt;br/>%1$s&lt;br/>پیش از ادامه،&lt;a href=%2$s>&lt;u>سیاست حفظ حریم خصوصی&lt;/u>&lt;/a> نسخه جدید را خوانده و پذیرید.</string>
+    <string name="privacy_policy_update_title">سیاست حفظ حریم خصوصی به‌روز شده</string>
     <string name="provision_back">بازگشت</string>
     <string name="provision_next">بعدی</string>
     <string name="provision_skip_underline">رد شدن</string>
@@ -659,6 +669,9 @@
     <string name="restart_action">آغاز از نو</string>
     <string name="restart_phone_bind_message">ممکن است دریافت پیام کوتاه کمی زمان ببرد. در هر صورت از نو آغاز شود؟</string>
     <string name="restart_phone_bind_title">تغییر شماره بازیابی</string>
+    <string name="revoke_privacy_policy">پس گرفتن رضایت</string>
+    <string name="revoke_privacy_policy_instructions">در صورت ادامه، رضایت خود را نسبت به سیاست حفظ حریم خصوصی حساب Mi پس می‌گیرید. ما از گردآوری اطلاعات شخصی شما دست خواهیم کشید. اطلاعات شخصی که پیش‌تر گردآوری و نگهداری شده‌اند مطابق قوانین و مقررات قابل اجرا در مدت زمان مشخص حذف می‌شود مگر این‌که به نحو دیگری نیاز باشد. از آن‌جا که حساب Mi خدمات خود را بر اساس گردآوری اطلاعات شخصی لازم ارائه می دهد، پس گرفتن رضایت شما به منزله خودداری از پذیرش خدمات حساب Mi خواهد بود. رضایت پس گرفته شود؟</string>
+    <string name="revoke_privacy_policy_title">پس گرفتن رضایت</string>
     <string name="risky_pwd_not_allow">گذرواژه جدید ایمن نیست. یکی دیگر تنظیم کنید.</string>
     <string name="same_new_and_old_pwd">گذرواژه جدید باید با گذرواژه قدیمی متفاوت باشد</string>
     <string name="saturday">شنبه</string>
@@ -784,7 +797,15 @@
     <string name="user_instruction_all_purpose">به حساب Mi خوش آمدید! شما می‌توانید با استفاده از حساب خود به خدمات ارائه شده توسط Xiaomi و شرکت‌های وابسته به آن همچون mi.com، فضای ابری Xiaomi و GetApps دسترسی پیدا کنید. شما می‌توانید سکه Mi خریداری کرده، کالاهای مجازی خریده و از خدمات ارزش افزوده شامل بازی‌ها، تم‌ها و کتاب‌های الکترونیکی لذت ببرید.</string>
     <string name="user_instruction_tip">برای ورود به حساب، شرایط و ضوابط را خوانده و بپذیرید.</string>
     <string name="user_license_with_3rd_app">&lt;Data>با ورود به حساب به وسیله حساب Mi خود، من تأیید می‌نمایم که &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> و &lt;a href=%3$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%4$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi را خوانده و پذیرفته‌ام.&lt;/Data></string>
+    <string name="user_license_with_3rd_app_mobile">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a>، &lt;a href=%3$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%4$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi و همچنین &lt;a href=%5$s>شرایط و ضوابط خدمات تأیید China Mobile&lt;/a> را خوانده و پذیرفته‌ام.&lt;/Data></string>
+    <string name="user_license_with_3rd_app_no_operator">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> و &lt;a href=%3$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%4$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi را خوانده و پذیرفته‌ام.&lt;/Data></string>
+    <string name="user_license_with_3rd_app_telcom">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a>، &lt;a href=%3$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%4$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi و همچنین &lt;a href=%5$s>شرایط و ضوابط حساب eSurfing&lt;/a> را خوانده و پذیرفته‌ام.&lt;/Data></string>
+    <string name="user_license_with_3rd_app_unicom">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a>، &lt;a href=%3$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%4$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi و همچنین &lt;a href=%5$s>شرایط و ضوابط خدمات تأیید China Unicom&lt;/a> را خوانده و پذیرفته‌ام.&lt;/Data></string>
+    <string name="user_license_with_out_3rd_app_no_operator">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi را خوانده و پذیرفته‌ام.&lt;/Data></string>
     <string name="user_license_without_3rd_app">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi را خوانده و پذیرفته‌ام.&lt;/Data></string>
+    <string name="user_license_without_3rd_mobile">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi و همچنین &lt;a href=%3$s>شرایط و ضوابط خدمات تأیید China Mobile&lt;/a> را خوانده و پذیرفته‌ام.&lt;/Data></string>
+    <string name="user_license_without_3rd_telcom">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi و همچنین &lt;a href=%3$s>شرایط و ضوابط حساب eSurfing &lt;/a> را خوانده و پذیرفته‌ام.&lt;/Data></string>
+    <string name="user_license_without_3rd_unicom">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi و همچنین &lt;a href=%3$s>شرایط و ضوابط خدمات تأیید China Unicom&lt;/a> را خوانده و پذیرفته‌ام.&lt;/Data></string>
     <string name="vip_account_settings">تنظیمات VIP</string>
     <string name="vip_settings_info">تنظیمات VIP</string>
     <string name="wednesday">چهارشنبه</string>

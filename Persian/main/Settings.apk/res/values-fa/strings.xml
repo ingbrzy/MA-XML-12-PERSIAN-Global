@@ -757,6 +757,14 @@
     <string name="bluetooth_battery_level_untethered">چپ: %1$s باتری، راست: %2$s باتری</string>
     <string name="bluetooth_broadcasting">پخش</string>
     <string name="bluetooth_confirm_passkey_msg">‏برای مرتبط‌سازی با:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>مطمئن شوید که دستگاه این کلیدواژه را نمایش می‌دهد:&lt;br>&lt;b>%2$s&lt;/b></string>
+    <string name="bluetooth_connect_access_dialog_content">"%1$s می‌خواهد به این تلفن متصل شود.
+
+قبلاً به %2$s متصل نشده‌اید."</string>
+    <string name="bluetooth_connect_access_dialog_negative">متصل نشود</string>
+    <string name="bluetooth_connect_access_dialog_positive">متصل شود</string>
+    <string name="bluetooth_connect_access_dialog_title">به دستگاه بلوتوث متصل می‌شوید؟</string>
+    <string name="bluetooth_connect_access_notification_content">دستگاهی می‌خواهد متصل شود. برای دیدن جزئیات، ضربه بزنید.</string>
+    <string name="bluetooth_connect_access_notification_title">دستگاه بلوتوث دردسترس است</string>
     <string name="bluetooth_connect_failed">متصل نشد. دوباره امتحان کنید.</string>
     <string name="bluetooth_connect_specific_profiles_title">اتصال به...</string>
     <string name="bluetooth_connected">متصل%1$s</string>
@@ -853,6 +861,11 @@
     <string name="bluetooth_max_connected_audio_devices_dialog_title">حداکثر تعداد دستگاه‌های صوتی بلوتوث متصل را انتخاب کنید</string>
     <string name="bluetooth_max_connected_audio_devices_string">حداکثر تعداد دستگاه‌های صوتی بلوتوث متصل</string>
     <string name="bluetooth_menu_advanced">پیشرفته</string>
+    <string name="bluetooth_message_access_dialog_content">"دستگاه بلوتوثی (%1$s) می‌خواهد به پیام‌هایتان دسترسی داشته باشد.
+
+قبلاً به %2$s متصل نشده‌اید."</string>
+    <string name="bluetooth_message_access_dialog_title">دسترسی به پیام‌ها مجاز شود؟</string>
+    <string name="bluetooth_message_access_notification_content">دستگاهی می‌خواهد به پیام‌هایتان دسترسی داشته باشد. برای جزئیات ضربه بزنید.</string>
     <string name="bluetooth_middle_name">جلد محاف</string>
     <string name="bluetooth_name_not_set">نامی تنظیم نشده، از نام حساب استفاده کنید</string>
     <string name="bluetooth_no_devices_found">هیچ دستگاه بلوتوثی در این اطراف پیدا نشد.</string>
@@ -890,6 +903,11 @@
     <string name="bluetooth_pan_user_profile_summary_connected">برای دسترسی به اینترنت، به دستگاه متصل شد</string>
     <string name="bluetooth_pb_acceptance_dialog_text">%1$sمی‌خواهد به مخاطیبن و سابقه تماس شما دسترسی پیدا کند. به %2$s اجازه دسترسی می‌دهید؟</string>
     <string name="bluetooth_pb_remember_choice">دوباره سؤال نشود</string>
+    <string name="bluetooth_phonebook_access_dialog_content">"دستگاه بلوتوثی (%1$s) می‌خواهد به مخاطبین و گزارش تماس شما دسترسی داشته باشد. این شامل داده‌های مربوط به تماس‌های ورودی و خروجی می‌شود.
+
+تاکنون به %2$s متصل نشده‌اید."</string>
+    <string name="bluetooth_phonebook_access_dialog_title">دسترسی به مخاطبین و گزارش تماس مجاز شود؟</string>
+    <string name="bluetooth_phonebook_access_notification_content">دستگاهی می‌خواهد به مخاطبین و گزارش تماس شما دسترسی داشته باشد. برای جزئیات ضربه بزنید.</string>
     <string name="bluetooth_phonebook_request">درخواست دسترسی به دفترچه تلفن</string>
     <string name="bluetooth_pin_values_hint">معمولا 0000 یا 1234</string>
     <string name="bluetooth_pin_values_hint_16_digits">باید ۱۶ رقم باشد</string>
@@ -960,6 +978,12 @@
     <string name="bluetooth_show_devices_without_names_summary">‏دستگاه‌های بلوتوث بدون نام (فقط نشانی‌های MAC) نشان داده خواهند شد</string>
     <string name="bluetooth_show_files_received_via_bluetooth">فایل‌های دریافتی ازطریق بلوتوث</string>
     <string name="bluetooth_show_received_files">فایل‌های دریافت‌شده</string>
+    <string name="bluetooth_sim_card_access_dialog_content">"دستگاه بلوتوثی (%1$s) می‌خواهد به داده‌های سیم‌کارتتان دسترسی داشته باشد. این داده‌ها شامل مخاطبین شما می‌شود.
+
+وقتی متصل باشد، %2$s همه تماس‌هایی را که با %3$s برقرار می‌شود دریافت خواهد کرد."</string>
+    <string name="bluetooth_sim_card_access_dialog_title">دسترسی به سیم‌کارت مجاز شود؟</string>
+    <string name="bluetooth_sim_card_access_notification_content">دستگاهی می‌خواهد به سیم‌کارتتان دسترسی داشته باشد. برای دیدن جزئیات، ضربه بزنید.</string>
+    <string name="bluetooth_sim_card_access_notification_title">درخواست دسترسی به سیم‌کارت</string>
     <string name="bluetooth_talkback_bluetooth">بلوتوث</string>
     <string name="bluetooth_talkback_computer">رایانه</string>
     <string name="bluetooth_talkback_headphone">هدفون</string>
@@ -2235,6 +2259,7 @@
     <string name="legal_information">اطلاعات حقوقی</string>
     <string name="license_title">مجوز</string>
     <string name="lift_to_wake_title">بیدار شدن با بالا بردن</string>
+    <string name="link_speed">%1$d مگابیت در ثانیه</string>
     <string name="live_caption_summary">رسانه زیرنویس خودکار</string>
     <string name="live_caption_title">زیرنویس زنده</string>
     <string name="load_networks_progress">درحال جستجو…</string>
@@ -2556,6 +2581,7 @@
     <string name="memory_summary">به‌طور متوسط %1$s از %2$s حافظه استفاده شده است</string>
     <string name="memory_usage">استفاده از حافظه</string>
     <string name="memory_usage_apps">حافظه مورداستفاده برنامه‌ها</string>
+    <string name="memory_use_running_format">%1$s /‏ %2$s</string>
     <string name="memory_use_summary">%1$s متوسط حافظه استفاده شده در ۳ ساعت گذشته</string>
     <string name="menu_cancel">صرف‌نظر</string>
     <string name="menu_delete">حذف نام نقطه دستیابی</string>
@@ -2711,6 +2737,7 @@
     <string name="nfc_how_it_works_got_it">متوجه شدم</string>
     <string name="nfc_how_it_works_title">پرداخت در پایانه</string>
     <string name="nfc_more_title">بیشتر...</string>
+    <string name="nfc_payment_app_and_desc">%1$s -‏ %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">تنظیم پیش‌فرض</string>
     <string name="nfc_payment_btn_text_update">به‌روزرسانی</string>
     <string name="nfc_payment_default">پیش‌فرض پرداخت</string>
@@ -2944,6 +2971,7 @@
     <string name="overlay_settings_title">مجاز کردن هم‌پوشانی صفحه‌ها در «تنظیمات»</string>
     <string name="overlay_toast_failed_to_apply">همپوشانی اعمال نشد</string>
     <string name="owner_info_settings_edit_text_hint">‏مثلاً Android امیر.</string>
+    <string name="owner_info_settings_status">%1$d / ‏%2$d</string>
     <string name="owner_info_settings_summary">خالی</string>
     <string name="owner_info_settings_title">افزودن نوشتار در صفحه قفل</string>
     <string name="packages_subtitle">شامل بسته ها</string>
@@ -3021,6 +3049,7 @@
     <string name="power_remaining_less_than_duration_only">کمتر از %1$s شارژ باقی مانده است</string>
     <string name="power_remaining_more_than_subtext">بیش از %1$s شارژ باقی مانده است (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">بیش از %1$s شارژ باقی مانده است</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">صفحه‌نمایش</string>
     <string name="power_suggestion_battery_run_out">ممکن است باتری %1$s تمام شود</string>
     <string name="power_unaccounted">موارد دیگر</string>
@@ -3134,6 +3163,8 @@
     <string name="private_dns_mode_provider_failure">متصل نشد</string>
     <string name="private_dns_mode_provider_hostname_hint">‏نام میزبان ارائه‌دهنده DNS خصوصی را وارد کنید</string>
     <string name="process_dex2oat_label">بهینه‌سازی برنامه</string>
+    <string name="process_format">%1$s (%2$d)</string>
+    <string name="process_kernel_label">‏سیستم عامل Android</string>
     <string name="process_mediaserver_label">سرور رسانه</string>
     <string name="process_provider_in_use_description">ارائه دهنده %1$s در حال استفاده است.</string>
     <string name="process_service_in_use_description">سرویس %1$s در حال استفاده است.</string>
@@ -3215,6 +3246,7 @@
     <string name="remove_device_admin">غیرفعال کردن این برنامه سرپرست دستگاه</string>
     <string name="remove_managed_profile_label">حذف نمایه کار</string>
     <string name="repeat_title">تکرار</string>
+    <string name="request_manage_bluetooth_permission_dont_allow">مجاز نیست</string>
     <string name="reset_app_preferences">بازنشانی اولویت‌های برنامه</string>
     <string name="reset_app_preferences_button">بازنشانی برنامه‌ها</string>
     <string name="reset_app_preferences_desc">"با این کار همه اولویت‌های مربوط به موارد زیر بازنشانی می‌شود:
@@ -3722,6 +3754,7 @@
     <string name="sim_select_card">انتخاب سیم‌کارت</string>
     <string name="sim_selection_channel_title">انتخاب سیم‌کارت</string>
     <string name="sim_selection_required_pref">انتخاب مورد نیاز است</string>
+    <string name="sim_settings_summary">%1$s - %2$s</string>
     <string name="sim_settings_title">سیم‌کارت‌ها</string>
     <string name="sim_setup_wizard_title">سیم‌کارت‌ها</string>
     <string name="sim_signal_strength">%1$d dBm %2$d asu</string>
@@ -3781,6 +3814,7 @@
     <string name="standby_bucket_summary">وضعیت حالت آماده به‌کار برنامه: %s</string>
     <string name="starting_android">‏در حال راه‌اندازی Android…</string>
     <string name="status_awake_time">زمان بیداری</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bt_address">آدرس بلوتوث</string>
     <string name="status_data_network_type">نوع شبکه داده تلفن همراه</string>
     <string name="status_data_state">وضعیت شبکهٔ تلفن همراه</string>
@@ -4017,6 +4051,7 @@
     <string name="sum_carrier_select">انتخاب یک اپراتور شبکه</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="summary_divider_text">"، "</string>
+    <string name="summary_range_symbol_combination">%1$s ‏- %2$s</string>
     <string name="summary_range_verbal_combination">%1$s تا %2$s</string>
     <string name="summary_separator">" / "</string>
     <string name="support_summary">مقاله‌های راهنما، تلفن و گپ، شروع‌به‌کار</string>
@@ -5180,8 +5215,10 @@
     <string name="zen_suggestion_title">به‌روزرسانی «مزاحم نشوید»</string>
     <string name="zone_auto_title">استفاده از منطقه زمانی ارائه‌شده از شبکه</string>
     <string name="zone_change_to_from_dst">%1$s در %2$s شروع می‌شود.</string>
+    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer">از %1$s استفاده می‌کند. %2$s در %3$s شروع می‌شود.</string>
     <string name="zone_info_footer_no_dst">از %1$s استفاده می‌کند. بدون ساعت تابستانی.</string>
+    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_menu_by_offset">‏انتخاب براساس اختلاف با UTC</string>
     <string name="zone_menu_by_region">انتخاب براساس منطقه</string>
     <string name="zone_time_type_dst">ساعت تابستانی</string>

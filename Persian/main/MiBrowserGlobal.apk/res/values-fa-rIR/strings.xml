@@ -208,7 +208,7 @@
     <string name="category_folder">پوشه‌ها</string>
     <string name="category_installed_app">برنامه‌های نصب شده</string>
     <string name="category_midrive">Mi Drive</string>
-    <string name="category_move_limit_notice">شما می‌توانید از ۳ تا ۷ مورد را به بخش بالایی صفحه منتقل کنید</string>
+    <string name="category_move_limit_notice">شما می‌توانید از %1$d تا %2$d مورد را به بخش بالای نمایشگر منتقل کنید</string>
     <string name="category_music">موسیقی</string>
     <string name="category_other">سایر</string>
     <string name="category_photo">عکس‌ها</string>
@@ -305,6 +305,9 @@
     <string name="contextmenu_webpage_snapshot">ذخیره صفحه</string>
     <string name="copy_url">کپی نشانی اینترنتی</string>
     <string name="could_not_load_data">داده‌ها بارگذاری نشدند. تازه‌سازی کرده و دوباره تلاش کنید</string>
+    <string name="crash_page_button">تلاش دوباره</string>
+    <string name="crash_page_description">هنگام نمایش این تارنما اتفاقی رخ داد.</string>
+    <string name="crash_page_title">اوه! خراب شد!</string>
     <string name="create_qr_code">کد QR</string>
     <string name="current_version_pad">پد</string>
     <string name="current_version_pc">دسکتاپ</string>
@@ -363,7 +366,7 @@
     <string name="download_btn_select_none">لغو انتخاب همه</string>
     <string name="download_business_app_new_version">جدیدترین نسخه این برنامه قبلاً نصب شده است</string>
     <string name="download_business_app_update_install">آماده نصب به‌روزرسانی.</string>
-    <string name="download_business_v5_edit_mode_title_empty">۰ مورد انتخاب شد</string>
+    <string name="download_business_v5_edit_mode_title_empty">انتخاب موارد</string>
     <string name="download_change_dir">تغییر پوشه</string>
     <string name="download_complete">با موفقیت دانلود شد</string>
     <string name="download_completed">دانلود شد</string>
@@ -384,7 +387,7 @@
     <string name="download_dialog_failed_body">بعداً دوباره تلاش می‎کنید یا این فایل را از نوبت دانلود حذف شود؟</string>
     <string name="download_dialog_file_already_exists">این فایل را پیش‌تر دانلود کرده‌اید</string>
     <string name="download_dialog_file_length_hint_txt">"اندازه فایل: "</string>
-    <string name="download_dialog_file_length_lessthan1kb">کمتر از ۱ کیلوبایت</string>
+    <string name="download_dialog_file_length_lessthan1kb">کمتر از %1$d کیلوبایت</string>
     <string name="download_dialog_file_length_nolength_error_txt">دانلود نشد</string>
     <string name="download_dialog_file_length_nolength_txt">چند لحظه صبر کنید…</string>
     <string name="download_dialog_file_missing_body">فایل یافت نشد. آیا آن را حذف یا جابجا کرده‌اید؟</string>
@@ -591,6 +594,8 @@
     <string name="friday">جمعه</string>
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
+    <string name="game_center_recommend_play">بازی</string>
+    <string name="game_center_recommend_title">پیشنهاد شده برای شما</string>
     <string name="game_played">تازه</string>
     <string name="geolocation_permissions_prompt_dont_share">نپذیرفتن</string>
     <string name="geolocation_permissions_prompt_message">%s می‌خواهد موقعیت مکانی شما را بداند</string>
@@ -701,9 +706,9 @@
     <string name="lockpattern_need_to_unlock_wrong">دوباره تلاش کنید</string>
     <string name="lockpattern_pattern_confirmed_header">الگوی باز کردن قفل شما این است:</string>
     <string name="lockpattern_pattern_entered_header">انجام شد!</string>
-    <string name="lockpattern_recording_incorrect_too_short">دوباره تلاش کنید. حداقل ۴ نقطه را به هم وصل کنید.</string>
+    <string name="lockpattern_recording_incorrect_too_short">دوباره تلاش کنید. حداقل %1$d نقطه را به هم وصل کنید.</string>
     <string name="lockpattern_recording_inprogress">انگشت خود را هنگام کامل شدن الگو بردارید</string>
-    <string name="lockpattern_recording_intro_header">حداقل ۴ نقطه را به هم وصل کنید</string>
+    <string name="lockpattern_recording_intro_header">حداقل %1$d نقطه را به هم وصل کنید</string>
     <string name="lockpattern_retry_button_text">تنظیم دوباره</string>
     <string name="login_failed_toast">وارد نشد. تازه‌سازی کرده و دوباره تلاش کنید</string>
     <string name="login_or_register">یا</string>
@@ -714,7 +719,7 @@
     <string name="make_private_msg_1">این فایل پنهان شود؟</string>
     <string name="make_private_msg_2">این فایل‌ها پنهان شوند؟</string>
     <string name="max_tabs_warning">نمی‌توان زبانه‌های بیشتری را باز کرد</string>
-    <string name="maximum_input_alert">نمی‌توان بیش از ۲۰۴۸ نویسه وارد کرد</string>
+    <string name="maximum_input_alert">بیش از %1$d نویسه وارد نمی‌شود</string>
     <string name="menu_addtodesk">افزودن به صفحه اصلی</string>
     <string name="menu_exit_nightmode">خروج</string>
     <string name="menu_hv_swap">صفحه عمودی/افقی</string>
@@ -1218,7 +1223,7 @@
     <string name="pf_guide_msg_if_has_downloading">دانلودهای درحال انجام به پوشه خصوصی افزوده نمی‌شوند</string>
     <string name="pf_move_out">حذف از پوشه خصوصی</string>
     <string name="pf_move_out_dialog_btn_confirm">حذف</string>
-    <string name="pf_move_out_dialog_content">موارد حذف شده در موقعیت اصلی خودشان ذخیره خواهند شد.</string>
+    <string name="pf_move_out_dialog_content">موارد حذف شده در میان فایل‌های اخیر نمایش داده خواهند شد.</string>
     <string name="pf_move_out_dialog_title">حذف از پوشه خصوصی</string>
     <string name="pf_toast_add_success">با موفقیت به پوشه خصوصی انتقال یافت</string>
     <string name="phone">حافظه</string>
@@ -1508,7 +1513,7 @@
     <string name="rlv_pull_to_refresh">برای بروزرسانی به پایین بکشید</string>
     <string name="rlv_refreshing">در حال تازه سازی…</string>
     <string name="rlv_release_to_refresh">برای تازه‌سازی رها کنید</string>
-    <string name="rlz_access_point">Y1</string>
+    <string name="rlz_access_point">Y%1$d</string>
     <string name="root_folder_lable">خالی</string>
     <string name="router_download_exist">این فایل از پیش وجود دارد</string>
     <string name="router_download_failed">دانلود نشد</string>
@@ -1558,7 +1563,7 @@
     <string name="search_file_type_video">ویدئو</string>
     <string name="search_google">گوگل</string>
     <string name="search_hint">جستجو</string>
-    <string name="search_s139">139</string>
+    <string name="search_s139">%1$d</string>
     <string name="search_settings_description">نشانک‌ها و تاریخچه وب</string>
     <string name="search_shipin">ویدئو</string>
     <string name="search_sm">SM</string>
@@ -1853,8 +1858,8 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="vpn_data_used_info">%2$s از %1$s مصرف شده است</string>
     <string name="vpn_detail_guide1">قفل همه سرورها را باز کرده تا سرعت اتصال خود را افزایش دهید</string>
     <string name="vpn_detail_guide2">مشترک خدمات VPN شده تا به تارنماهای بیشتری دسترسی یابید</string>
-    <string name="vpn_detail_guide3">ترافیک شما تقریباً رو به اتمام است. طرح ۱۲ ماهه ما را آزمایش کنید. برای آگاهی از گزینه‌های بیشتر خود ضربه بزنید.</string>
-    <string name="vpn_detail_guide4">ترافیک شما تمام شد. طرح ۱۲ ماهه ما را آزمایش کنید. برای آگاهی از گزینه‌های بیشتر خود ضربه بزنید.</string>
+    <string name="vpn_detail_guide3">ترافیک شما تقریباً رو به اتمام است. طرح %1$d ماهه ما را آزمایش کنید. برای آگاهی از گزینه‌های بیشتر خود ضربه بزنید.</string>
+    <string name="vpn_detail_guide4">ترافیک شما تمام شد. طرح %1$d ماهه ما را آزمایش کنید. برای آگاهی از گزینه‌های بیشتر خود ضربه بزنید.</string>
     <string name="vpn_detail_guide5">ترافیک شما تقریباً رو به اتمام است</string>
     <string name="vpn_detail_guide6">ترافیک شما تمام شد</string>
     <string name="vpn_detail_subscribe">اشتراک</string>
@@ -1885,7 +1890,7 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="whatsapp_how_it_works">چگونه کار می‌کند</string>
     <string name="whatsapp_intro_dialog_title">ویژگی جدید</string>
     <string name="whatsapp_no_status_tips">هنوز تصویر یا ویدئویی اینجا نیست. به‌روزرسانی وضعیت واتساپ خود را دیده و دوباره اینجا بازگردید.</string>
-    <string name="whatsapp_principle_page_message">واتساپ عکس‌ها و ویدئوهایی که شما مرور می‌کنید را در یک پوشه پنهان ذخیره می‌کند. این موارد پس از ۲۴ ساعت ناپدید می‌شوند. حالا می‌توانید با استفاده از مرورگر Mi آن‌ها را ذخیره کنید.</string>
+    <string name="whatsapp_principle_page_message">واتساپ عکس‌ها و ویدئوهایی که شما مرور می‌کنید را در یک پوشه پنهان ذخیره می‌کند. این موارد پس از %1$d ساعت ناپدید می‌شوند. حالا می‌توانید با استفاده از مرورگر Mi آن‌ها را ذخیره کنید.</string>
     <string name="whatsapp_principle_page_title">شما با استفاده از مرورگر Mi می‌توانید تصاویر و ویدئوهای وضعیت واتساپ را ذخیره کنید</string>
     <string name="whatsapp_principle_step_1">تصاویر و ویدئوها را از زبانه «وضعیت» در واتساپ مرور کنید.</string>
     <string name="whatsapp_principle_step_2">برای ذخیره، دوباره به اینجا باز گردید.</string>

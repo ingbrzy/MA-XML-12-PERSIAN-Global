@@ -138,7 +138,6 @@
     <string name="clipboard_read_ai_deny_once">دسترسی به حافظه موقت برای %1$s محدود شد</string>
     <string name="clipboard_read_allow_once">%1$s به موارد موجود در حافظه موقت دسترسی پیدا کرد</string>
     <string name="clipboard_read_deny_dialog_title">دسترسی به حافظه موقت برای %1$s محدود شد</string>
-    <string name="close">بستن</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -330,7 +329,6 @@
     <string name="screen_overlay_button">باز کردن تنظیمات</string>
     <string name="screen_overlay_message">برای تغییر این مجوز، شما باید همپوشانی نمایشگر را در تنظیمات > برنامه‌ها خاموش کنید.</string>
     <string name="screen_overlay_title">همپوشانی صفحه شناسایی شد</string>
-    <string name="send">ارسال</string>
     <string name="size_byte">بایت</string>
     <string name="size_giga_byte">گیگابایت</string>
     <string name="size_kilo_byte">کیلوبایت</string>

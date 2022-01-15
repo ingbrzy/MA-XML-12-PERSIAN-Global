@@ -79,10 +79,14 @@
     <string name="device_status_success">با موفقیت ارسال شد</string>
     <string name="device_status_waiting">در حال انتظار…</string>
     <string name="device_type_pc">رایانه</string>
+    <string name="disable_nfc">NFC را برای شارژ بی‌سیم خاموش کرد</string>
+    <string name="disable_nfc_reverse">NFC را برای شارژ بی‌سیم معکوس خاموش کرد</string>
     <string name="eighthours">۸ ساعت</string>
     <string name="enable_livetalk_summary">70% صرفه جویی در هزینه‌های تماس</string>
     <string name="enable_livetalk_title">روشن کردن بسته‌های خرید اعتباری</string>
     <string name="enable_midrop">روشن کردن</string>
+    <string name="enable_nfc">دیگر شارژ نمی‌شود. NFC دوباره روشن شده است.</string>
+    <string name="enable_nfc_reverse">دیگر شارژ معکوس ندارد. NFC دوباره روشن شده است.</string>
     <string name="fc_dialog_body">گزارش خرابی برای تحلیل به Mi ارسال شود؟ این گزارش ممکن است شامل اطلاعات قابل شناسایی شخصی باشد. گزارش شما به حل این مشکل کمک می کند و هرگز برای مصارف بازرگانی بکار نمی‌رود.</string>
     <string name="fc_dialog_jump_to_preview">نمایش خلاصه</string>
     <string name="file_cannot_print">این مورد چاپ نمی‌شود.</string>
@@ -159,7 +163,6 @@
     <string name="open_close_tip_content">برای بستن پنجره شناور، نوار اقدام را فشرده و نگه داشته و سپس به بالا بکشید</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
-    <string name="other_ime">سایر صفحه کلید‌ها</string>
     <string name="package_delete_confirm_step_1">%s حذف شود؟</string>
     <string name="package_delete_confirm_step_2">حذف این برنامه ممکن است سبب ناپایدار شدن سیستم شما گردد.</string>
     <string name="package_delete_confirm_step_3">شما پس از حذف این برنامه دیگر قادر به بازکردن آن نخواهید بود.</string>

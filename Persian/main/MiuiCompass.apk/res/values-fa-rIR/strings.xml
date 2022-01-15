@@ -24,6 +24,7 @@
     <string name="calibrate_success">درجه‌بندی شد</string>
     <string name="calibrate_tip">دستگاه خود را کج کنید تا توپ در اطراف دایره به حرکت درآید</string>
     <string name="calibrate_title">درجه‌بندی قطب‌نما</string>
+    <string name="calibrating">درجه‌بندی قطب‌نما</string>
     <string name="cancel">لغو</string>
     <string name="cannot_get_location">--</string>
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
@@ -196,6 +197,7 @@
     <string name="month_september_shortest">سپتامبر</string>
     <string name="more">بیشتر</string>
     <string name="morning">صبح</string>
+    <string name="new_cta_app_purpose">نمایش جهت‌ها و مختصات</string>
     <string name="new_cta_v2_app_purpose">نمایش جهت‌ها، مختصات، فشار جوی و ارتفاع کنونی</string>
     <string name="new_permission_camera_desc">برای یکسان‌سازی</string>
     <string name="new_permission_location_desc">برای نمایش مختصات</string>
@@ -206,6 +208,7 @@
     <string name="open_perm_msg">قطب‌نما نیازمند دسترسی به اطلاعات موقعیت و دوربین است. این کار برای تعیین مختصات و ارائه پیش‌نمایش‌های زنده لازم است. اجازه داده شود؟</string>
     <string name="open_perm_msg_no_camera">برای تعیین مختصات، قطب‌نما باید به اطلاعات موقعیت دسترسی یابد. اجازه می‌دهید؟</string>
     <string name="open_perm_title">نیازمند مجوز است</string>
+    <string name="pageIndicator">%1$s. %2$s.</string>
     <string name="permission_camera_desc">برای نمایش آزیموت در پیش‌نمایش زنده</string>
     <string name="permission_description">جزئیات مجوزها</string>
     <string name="permission_location_desc">برای نمایش مختصات</string>

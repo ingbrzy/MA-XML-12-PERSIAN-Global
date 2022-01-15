@@ -44,6 +44,7 @@
     <string name="cast_forward">به جلو</string>
     <string name="cast_forward_10">ده ثانیه به جلو</string>
     <string name="cast_forward_30">سی ثانیه به جلو</string>
+    <string name="cast_intro_overlay_button_text">‪@android:string/ok</string>
     <string name="cast_live_label">زنده</string>
     <string name="cast_mute">بی‌صدا کردن</string>
     <string name="cast_notification_connected_message">متصل به %1$s</string>
@@ -140,6 +141,13 @@
     <string name="mr_controller_volume_slider">لغزنده میزان صدا</string>
     <string name="mr_system_route_name">سیستم</string>
     <string name="mr_user_route_category_name">دستگاه‌ها</string>
+    <string name="offline_notification_text">برای باز کردن آگهی، ضربه بزنید</string>
+    <string name="offline_notification_title">مشاهده آگهی‌ای که هنگام آفلاین بودن ذخیره کردید</string>
+    <string name="offline_opt_in_confirm">تأیید</string>
+    <string name="offline_opt_in_confirmation">وقتی دوباره آنلاین شدید، اعلانی حاوی پیوند دریافت خواهید کرد</string>
+    <string name="offline_opt_in_decline">نه متشکرم</string>
+    <string name="offline_opt_in_message">اعلانی با پیوندی به سایت آگهی‌دهنده برایتان ارسال خواهیم کرد.</string>
+    <string name="offline_opt_in_title">وقتی دوباره آنلاین شدید آگهی را باز کنید.</string>
     <string name="s1">ذخیره تصویر</string>
     <string name="s2">به آگهی اجازه داده شود تصویر را در گالری تصویر ذخیره کند؟</string>
     <string name="s3">پذیرفتن</string>
@@ -148,4 +156,5 @@
     <string name="s6">به آگهی اجازه داده شود رویداد تقویم ایجاد کند؟</string>
     <string name="s7">آگهی آزمایشی</string>
     <string name="search_menu_title">جستجو</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

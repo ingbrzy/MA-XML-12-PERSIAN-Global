@@ -176,4 +176,12 @@
         <item quantity="other">زیرنویس به مدت %.1f ثانیه تأخیر دارند</item>
         <item quantity="one">زیرنویس به مدت %.1f ثانیه تأخیر دارند</item>
     </plurals>
+    <plurals name="toast_bookmark_max_size">
+        <item quantity="other">تا %d نشانک افزوده می‌شود</item>
+        <item quantity="one">تا %d نشانک افزوده می‌شود</item>
+    </plurals>
+    <plurals name="video_view_count">
+        <item quantity="other">%d بازدید</item>
+        <item quantity="one">%d بازدید</item>
+    </plurals>
 </resources>

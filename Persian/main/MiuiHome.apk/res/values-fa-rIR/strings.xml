@@ -178,6 +178,13 @@
     <string name="content_description_workspace_thumbnail_item">عکس پیش‌نمایش، صفحه %1$s</string>
     <string name="current_preview">پیش‌نمایش</string>
     <string name="current_wallpaper">فعلی</string>
+    <string name="custom_define_permission_desc_android.permission.CALL_PHONE">برای برقراری تماس با مخاطبین اضطراری در حالت ساده</string>
+    <string name="custom_define_permission_desc_android.permission.READ_CONTACTS">برای نمایش مخاطبین اضطراری در حالت ساده</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">برای نمایش وضعیت دستگاه</string>
+    <string name="custom_define_permission_desc_android.permission_group.CALENDAR">برای نمایش ابزارک‌های سالنامه</string>
+    <string name="custom_define_permission_desc_android.permission_group.CAMERA">برای نمایش ابزارک‌های گالری</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">برای دسترسی به نام ابزارک WLAN در Android Q</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">برای ذخیره و دسترسی به داده‌های صفحه اصلی</string>
     <string name="custom_wallpaper_picker">مرور</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -400,7 +407,7 @@
     <string name="lock_screen_wallpaper">تصویر زمینه صفحه قفل</string>
     <string name="maml_download_dialog_cancel_text">منتظر Wi-Fi می‌مانم</string>
     <string name="maml_download_dialog_cancel_text_china">انتظار برای WLAN</string>
-    <string name="maml_download_dialog_checkbox_text">دوباره نمایش داده نشود</string>
+    <string name="maml_download_dialog_checkbox_text">به مدت %d دقیقه دوباره نمایش داده نشود</string>
     <string name="maml_download_dialog_confirm_text">دانلود</string>
     <string name="maml_download_dialog_message">%s مگابایت اینترنت همراه برای دانلود این مورد استفاده خواهد شد. در هر صورت دانلود شود؟</string>
     <string name="maml_download_dialog_title">هشدار مصرف اینترنت همراه</string>
@@ -551,7 +558,7 @@
     <string name="online_wallpaper">آنلاین</string>
     <string name="open_personal_assistant_dialog_btn_cancel">لغو</string>
     <string name="open_personal_assistant_dialog_btn_confirm">خاموش کردن</string>
-    <string name="open_personal_assistant_dialog_desc">شما نمی‌توانید از قفسه برنامه استفاده و به‌روزرسانی‌های آن را دریافت کنید. حالا خاموش شود؟</string>
+    <string name="open_personal_assistant_dialog_desc">پس از خاموش کردن قفسه برنامه دیگر نمی‌توانید ابزارک‌های قفسه برنامه را دیده و یا از آن‌ها استفاده کنید. نسخه‌های به‌روز شده نیز دیگر برای شما در دسترس نخواهند بود. در هر صورت خاموش شود؟</string>
     <string name="open_personal_assistant_dialog_desc_international">پس از خاموش کردن این ویژگی دیگر نمی‌توانید از کارت‌های قفسه برنامه (سهام، میان‌برها و غیره) استفاده کرده و به‌روزرسانی‌ها را دریافت نمایید.</string>
     <string name="open_personal_assistant_dialog_title">خاموش کردن قفسه برنامه</string>
     <string name="open_personal_assistant_settings">تنظیمات قفسه برنامه</string>

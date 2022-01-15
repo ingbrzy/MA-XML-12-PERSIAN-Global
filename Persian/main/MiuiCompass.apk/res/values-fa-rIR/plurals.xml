@@ -36,6 +36,10 @@
         <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">۱ دقیقه پیش</item>
     </plurals>
+    <plurals name="current_page_number">
+        <item quantity="other">درحال نمایش صفحه %d</item>
+        <item quantity="one">درحال نمایش صفحه %d</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">نیم ساعت پیش</item>
         <item quantity="one">نیم ساعت پیش</item>
@@ -67,5 +71,9 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">۱ دقیقه پیش</item>
+    </plurals>
+    <plurals name="total_pages">
+        <item quantity="other">کل %d صفحه</item>
+        <item quantity="one">کل %d صفحه</item>
     </plurals>
 </resources>
