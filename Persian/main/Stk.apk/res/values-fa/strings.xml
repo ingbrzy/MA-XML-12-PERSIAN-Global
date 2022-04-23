@@ -33,6 +33,7 @@
     <string name="button_no">نه</string>
     <string name="button_ok">تأیید</string>
     <string name="button_yes">بله</string>
+    <string name="copy">کپی</string>
     <string name="default_call_setup_msg">تماس در حال انجام...</string>
     <string name="default_close_channel_msg">کانال بسته شد</string>
     <string name="default_open_channel_msg">کانال باز شود؟</string>
@@ -43,10 +44,13 @@
     <string name="digits">ارقام (0-9، *، #، +)</string>
     <string name="disable_app">غیرفعال شد</string>
     <string name="enable_app">فعال شد</string>
+    <string name="expand_button_title">پیشرفته</string>
     <string name="help">راهنمایی</string>
     <string name="menu_back">برگشت</string>
     <string name="menu_end_session">پایان جلسه</string>
     <string name="no_sim_card_inserted">‏برای راه‌اندازی ابزار کار SIM، لطفاً سیم‌کارت را وارد کنید.</string>
+    <string name="not_set">تنظیم نشده است</string>
+    <string name="preference_copied">«%1$s» در کلیپ‌بورد کپی شد.</string>
     <string name="search_menu_title">جستجو</string>
     <string name="service_name">نام سرویس</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -56,4 +60,7 @@
     <string name="stk_dialog_reject">نه</string>
     <string name="stk_dialog_title">‏ابزار کار SIM</string>
     <string name="stk_no_service">سرویسی موجود نیست</string>
+    <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
+    <string name="v7_preference_off">خاموش</string>
+    <string name="v7_preference_on">روشن</string>
 </resources>

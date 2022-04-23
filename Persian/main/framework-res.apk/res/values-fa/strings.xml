@@ -23,6 +23,7 @@
     <string name="dialog_alert_title">توجه</string>
     <string name="VideoView_error_text_invalid_progressive_playback">متأسفیم، این ویدئو برای پخش جریانی با این دستگاه معتبر نیست.</string>
     <string name="selectTextMode">انتخاب متن</string>
+    <string name="status_bar_notification_info_overflow">۹۹۹+</string>
     <string name="fingerprint_icon_content_description">نماد اثر انگشت</string>
     <string name="paste_as_plain_text">جای‌گذاری به عنوان متن ساده</string>
     <string name="autofill">تکمیل خودکار</string>
@@ -172,16 +173,16 @@
     <string name="accessibility_button_instructional_text">برای جابه‌جایی بین ویژگی‌ها، دکمه دسترس‌پذیری را لمس کنید و نگه دارید.</string>
     <string name="accessibility_button_prompt_text">ویژگی را انتخاب کنید که هنگام ضربه زدن روی دکمه دسترس‌پذیری استفاده می‌شود:</string>
     <string name="accessibility_dialog_button_allow">مجاز</string>
-    <string name="accessibility_dialog_button_deny">رد کردن</string>
+    <string name="accessibility_dialog_button_deny">مجاز نبودن</string>
     <string name="accessibility_edit_shortcut_menu_button_title">انتخاب ویژگی‌های موردنظر برای استفاده با دکمه دسترس‌پذیری</string>
     <string name="accessibility_edit_shortcut_menu_volume_title">انتخاب ویژگی‌های موردنظر برای استفاده با میان‌بر کلید میزان صدا</string>
     <string name="accessibility_enable_service_encryption_warning">اگر %1$s را روشن کنید، دستگاه شما از قفل صفحه شما جهت بهبود رمزگذاری اطلاعات استفاده نخواهد کرد.</string>
     <string name="accessibility_enable_service_title">به %1$s اجازه می‌دهید بر دستگاهتان کنترل کامل داشته باشد؟</string>
     <string name="accessibility_freeform_caption">نوار شرح %1$s.</string>
-    <string name="accessibility_gesture_3finger_instructional_text">برای جابه‌جایی بین ویژگی‌ها، با سه انگشت صفحه را تند به بالا بکشید و نگه دارید.</string>
-    <string name="accessibility_gesture_3finger_prompt_text">ویزگی را برای استفاده با اشاره دسترس‌پذیری انتخاب کنید (با سه انگشت صفحه را از پایین تند به بالا بکشید):</string>
-    <string name="accessibility_gesture_instructional_text">برای جابه‌جایی بین ویژگی‌ها، با دو انگشت صفحه را تند به بالا بکشید و نگه دارید.</string>
-    <string name="accessibility_gesture_prompt_text">ویژگی را برای استفاده با اشاره دسترس‌پذیری انتخاب کنید (با دو انگشت صفحه را از پایین تند به بالا بکشید):</string>
+    <string name="accessibility_gesture_3finger_instructional_text">برای جابه‌جایی بین ویژگی‌ها، با سه انگشت صفحه را تند به‌بالا بکشید و نگه دارید.</string>
+    <string name="accessibility_gesture_3finger_prompt_text">ویزگی را برای استفاده با اشاره دسترس‌پذیری انتخاب کنید (با سه انگشت صفحه را از پایین تند به‌بالا بکشید):</string>
+    <string name="accessibility_gesture_instructional_text">برای جابه‌جایی بین ویژگی‌ها، با دو انگشت صفحه را تند به‌بالا بکشید و نگه دارید.</string>
+    <string name="accessibility_gesture_prompt_text">ویژگی را برای استفاده با اشاره دسترس‌پذیری انتخاب کنید (با دو انگشت صفحه را از پایین تند به‌بالا بکشید):</string>
     <string name="accessibility_magnification_chooser_text">درشت‌نمایی</string>
     <string name="accessibility_select_shortcut_menu_title">برای استفاده از ویژگی، روی آن ضربه بزنید:</string>
     <string name="accessibility_service_action_perform_description">این عملکرد می‌تواند با برنامه یا حسگری سخت‌افزاری تعاملاتتان را ردیابی کند و ازطرف شما با برنامه‌ها تعامل داشته باشد.</string>
@@ -206,7 +207,7 @@
     <string name="accessibility_shortcut_single_service_warning">"با پایین نگه داشتن هردو کلید میزان صدا به‌مدت چند ثانیه، %1$s (یکی از ویژگی‌های دسترس‌پذیری) روشن می‌شود. با این کار نحوه عملکرد دستگاهتان تغییر می‌کند.
 
 می‌توانید در «تنظیمات > دسترس‌پذیری»،‌این میان‌بر را به ویژگی دیگری تغییر دهید."</string>
-    <string name="accessibility_shortcut_single_service_warning_title">%1$s روشن شود؟</string>
+    <string name="accessibility_shortcut_single_service_warning_title">سرویس %1$s روشن شود؟</string>
     <string name="accessibility_shortcut_spoken_feedback">برای استفاده از %1$s، هر دو کلید صدا را فشار دهید و سه ثانیه نگه دارید</string>
     <string name="accessibility_shortcut_toogle_warning">وقتی میان‌بر روشن باشد، با فشار دادن هردو دکمه صدا به‌مدت ۳ ثانیه ویژگی دسترس‌پذیری فعال می‌شود.</string>
     <string name="accessibility_shortcut_warning_dialog_title">از میان‌بر دسترس‌پذیری استفاده شود؟</string>
@@ -345,22 +346,22 @@
     <string name="battery_saver_charged_notification_summary">تلفن به‌اندازه کافی شارژ دارد. ویژگی‌ها دیگر محدود نمی‌شوند.</string>
     <string name="battery_saver_description">"‏برای افزایش عمر باتری، «بهینه‌سازی باتری»:
 
-•«طرح زمینه تیره» را روشن می‌کند
-•فعالیت پس‌زمینه، برخی جلوه‌های بصری، و دیگر ویژگی‌ها مانند «Ok Google» را خاموش یا محدود می‌کند"</string>
+• «طرح زمینه تیره» را روشن می‌کند
+• فعالیت پس‌زمینه، برخی جلوه‌های بصری، و دیگر ویژگی‌ها مثل «Ok Google» را خاموش یا محدود می‌کند"</string>
     <string name="battery_saver_description_with_learn_more">"‏برای افزایش عمر باتری، «بهینه‌سازی باتری»:
 
-•«طرح زمینه تیره» را روشن می‌کند
-•فعالیت پس‌زمینه، برخی جلوه‌های بصری، و دیگر ویژگی‌ها مانند «Ok Google» را خاموش یا محدود می‌کند
+• «طرح زمینه تیره» را روشن می‌کند
+• فعالیت پس‌زمینه، برخی جلوه‌های بصری، و دیگر ویژگی‌ها مانند «Ok Google» را خاموش یا محدود می‌کند
 
 "<annotation id="url">بیشتر بدانید</annotation></string>
     <string name="battery_saver_notification_channel_name">بهینه‌سازی باتری</string>
     <string name="battery_saver_off_notification_title">«بهینه‌سازی باتری» خاموش شد</string>
     <string name="beforeOneMonthDurationPast">قبل از ۱ ماه گذشته</string>
     <string name="biometric_dialog_default_title">تأیید کنید این شما هستید</string>
-    <string name="biometric_error_canceled">احراز هویت لغو شد</string>
+    <string name="biometric_error_canceled">اصالت‌سنجی لغو شد</string>
     <string name="biometric_error_device_not_secured">پین، الگو یا گذرواژه‌ای تنظیم نشده است</string>
     <string name="biometric_error_hw_unavailable">سخت‌افزار زیست‌سنجی دردسترس نیست</string>
-    <string name="biometric_error_user_canceled">احراز هویت لغو شد</string>
+    <string name="biometric_error_user_canceled">اصالت‌سنجی لغو شد</string>
     <string name="biometric_not_recognized">شناسایی نشد</string>
     <string name="bluetooth_a2dp_audio_route_name">بلوتوث‌های صوتی</string>
     <string name="bluetooth_airplane_mode_toast">بلوتوث درطول حالت هواپیما روشن خواهد بود</string>
@@ -478,7 +479,7 @@
     <string name="deleted_key">%1$s حذف شد</string>
     <string name="demo_restarting_message">در حال بازنشانی دستگاه…</string>
     <string name="demo_starting_message">در حال شروع نسخه نمایشی…</string>
-    <string name="deny">اجازه ندارد</string>
+    <string name="deny">مجاز نبودن</string>
     <string name="deprecated_target_sdk_app_store">بررسی وجود به‌روزرسانی</string>
     <string name="deprecated_target_sdk_message">‏این برنامه برای نسخه قدیمی‌تری از Android ساخته شده است و ممکن است درست کار نکند. وجود به‌روزرسانی را بررسی کنید یا با برنامه‌نویس تماس بگیرید.</string>
     <string name="description_target_unlock_tablet">برای بازگشایی قفل، بلغزانید.</string>
@@ -577,12 +578,12 @@
     <string name="face_acquired_insufficient">داده‌های دقیق چهره ضبط نشد. دوباره امتحان کنید.</string>
     <string name="face_acquired_not_detected">صورتتان را مستقیماً روبروی تلفن قرار دهید.</string>
     <string name="face_acquired_obscured">هرچیزی را که حائل چهره‌تان است بردارید.</string>
-    <string name="face_acquired_pan_too_extreme">سرتان را کمی پایین آورید.</string>
+    <string name="face_acquired_pan_too_extreme">سرتان را کمی صاف بگیرید.</string>
     <string name="face_acquired_poor_gaze">لطفاً مستقیم به دستگاه نگه کنید.</string>
     <string name="face_acquired_recalibrate">لطفاً چهره‌تان را مجدداً ثبت کنید.</string>
-    <string name="face_acquired_roll_too_extreme">سرتان را کمی پایین آورید.</string>
+    <string name="face_acquired_roll_too_extreme">سرتان را کمی صاف بگیرید.</string>
     <string name="face_acquired_sensor_dirty">بالای صفحه و همچنین نوار مشکی را تمیز کنید.</string>
-    <string name="face_acquired_tilt_too_extreme">سرتان را کمی پایین آورید.</string>
+    <string name="face_acquired_tilt_too_extreme">سرتان را کمی صاف بگیرید.</string>
     <string name="face_acquired_too_bright">خیلی روشن است. روشنایی‌اش را ملایم‌تر کنید.</string>
     <string name="face_acquired_too_close">تلفن را به دورتر منتقل کنید.</string>
     <string name="face_acquired_too_dark">خیلی تاریک است. تصویر را روشن‌تر کنید.</string>
@@ -594,8 +595,8 @@
     <string name="face_acquired_too_much_motion">حرکت خیلی زیاد است. تلفن را ثابت نگه‌دارید.</string>
     <string name="face_acquired_too_right">تلفن را به‌سمت چپ حرکت دهید.</string>
     <string name="face_acquired_too_similar">بسیار شبیه قبلی است، لطفاً قیافه دیگری بگیرید.</string>
-    <string name="face_authenticated_confirmation_required">چهره احراز هویت شد، لطفاً تأیید را فشار دهید</string>
-    <string name="face_authenticated_no_confirmation_required">چهره احراز هویت شد</string>
+    <string name="face_authenticated_confirmation_required">چهره اصالت‌سنجی شد، لطفاً تأیید را فشار دهید</string>
+    <string name="face_authenticated_no_confirmation_required">چهره اصالت‌سنجی شد</string>
     <string name="face_error_canceled">عملیات شناسایی چهره لغو شد.</string>
     <string name="face_error_hw_not_available">چهره تأیید نشد. سخت‌افزار در دسترس نیست.</string>
     <string name="face_error_hw_not_present">«بازگشایی با چهره» در این دستگاه پشتیبانی نمی‌شود.</string>
@@ -626,6 +627,7 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">کد ویژگی کامل شد.</string>
     <string name="fcError">مشکل در اتصال یا کد ویژگی نامعتبر.</string>
+    <string name="fileSizeSuffix">%1$s ‏%2$s</string>
     <string name="find">یافتن</string>
     <string name="find_next">یافتن بعدی</string>
     <string name="find_on_page">یافتن در صفحه</string>
@@ -635,7 +637,7 @@
     <string name="fingerprint_acquired_partial">بخشی از اثر انگشت شناسایی شد. لطفاً دوباره امتحان کنید.</string>
     <string name="fingerprint_acquired_too_fast">حرکت انگشت خیلی سریع بود. لطفاً دوباره امتحان کنید.</string>
     <string name="fingerprint_acquired_too_slow">حرکت انگشت خیلی آهسته بود. لطفاً دوباره امتحان کنید.</string>
-    <string name="fingerprint_authenticated">اثر انگشت احراز هویت شد</string>
+    <string name="fingerprint_authenticated">اثر انگشت اصالت‌سنجی شد</string>
     <string name="fingerprint_error_canceled">عملکرد اثر انگشت لغو شد.</string>
     <string name="fingerprint_error_hw_not_available">سخت‌افزار اثرانگشت در دسترس نیست.</string>
     <string name="fingerprint_error_hw_not_present">این دستگاه حسگر اثر انگشت ندارد.</string>
@@ -714,11 +716,11 @@
     <string name="httpErrorIO">برقراری ارتباط با سرور ممکن نبود. بعداً دوباره امتحان کنید.</string>
     <string name="httpErrorLookup">نشانی اینترنتی پیدا نشد.</string>
     <string name="httpErrorOk">تأیید</string>
-    <string name="httpErrorProxyAuth">احراز هویت از طریق سرور پروکسی انجام نشد.</string>
+    <string name="httpErrorProxyAuth">اصالت‌سنجی از طریق سرور پروکسی انجام نشد.</string>
     <string name="httpErrorRedirectLoop">این صفحه دارای تعداد بسیار زیادی تغییر مسیر سرور است.</string>
     <string name="httpErrorTimeout">زمان اتصال به سرور تمام شده است.</string>
     <string name="httpErrorTooManyRequests">درخواست‌های زیادی درحال پردازش است. بعداً دوباره امتحان کنید.</string>
-    <string name="httpErrorUnsupportedAuthScheme">‏طرح کلی احراز هویت سایت پشتیبانی نمی‌‎شود.</string>
+    <string name="httpErrorUnsupportedAuthScheme">‏طرح کلی اصالت‌سنجی سایت پشتیبانی نمی‌‎شود.</string>
     <string name="imProtocolAim">AIM</string>
     <string name="imProtocolCustom">سفارشی</string>
     <string name="imProtocolGoogleTalk">Hangouts</string>
@@ -833,6 +835,7 @@
     <string name="kg_reordering_delete_drop_target_text">حذف</string>
     <string name="kg_sim_pin_instructions">پین سیم کارت را وارد کنید</string>
     <string name="kg_sim_unlock_progress_dialog_message">بازگشایی قفل سیم کارت...</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"گذرواژه خود را %1$d بار اشتباه تایپ کردید. 
 
 پس از %2$d ثانیه دوباره امتحان کنید."</string>
@@ -847,7 +850,7 @@
     <string name="kg_wrong_pin">پین اشتباه</string>
     <string name="kilobyteShort">کیلوبایت</string>
     <string name="language_picker_section_all">همه زبان‌ها</string>
-    <string name="language_picker_section_suggested">پیشنهادشده</string>
+    <string name="language_picker_section_suggested">پیشنهادی</string>
     <string name="language_selection_title">افزودن زبان</string>
     <string name="last_month">ماه گذشته</string>
     <string name="launchBrowserDefault">مرورگر راه‌اندازی شود؟</string>
@@ -870,7 +873,7 @@
     <string name="lockscreen_access_pattern_detected">الگو کامل شد</string>
     <string name="lockscreen_access_pattern_start">الگو شروع شد</string>
     <string name="lockscreen_carrier_default">بدون سرویس</string>
-    <string name="lockscreen_emergency_call">اضطراری</string>
+    <string name="lockscreen_emergency_call">تماس اضطراری</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe">شما به اشتباه %1$d بار اقدام به باز کردن قفل تلفن کرده‌اید. پس از%2$d تلاش ناموفق دیگر، تلفن به پیش‌فرض کارخانه بازنشانی می‌شود و تمام داده‌های کاربر از دست خواهد رفت.</string>
     <string name="lockscreen_failed_attempts_almost_glogin">"‏الگوی قفل‌گشایی را %1$d بار اشتباه کشیده‌اید. پس از %2$d تلاش ناموفق دیگر از شما خواسته می‎شود که برای بازگشایی قفل گوشی خود به برنامه Google وارد شوید.
 
@@ -888,7 +891,7 @@
     <string name="lockscreen_glogin_too_many_attempts">‏تلاش‎های زیادی برای کشیدن الگو صورت گرفته است</string>
     <string name="lockscreen_glogin_username_hint">نام کاربری (ایمیل)</string>
     <string name="lockscreen_instructions_when_pattern_disabled">برای بازگشایی قفل روی منو فشار دهید.</string>
-    <string name="lockscreen_instructions_when_pattern_enabled">برای بازگشایی قفل یا انجام تماس اضطراری روی منو فشار دهید.</string>
+    <string name="lockscreen_instructions_when_pattern_enabled">برای بازکردن قفل یا انجام تماس اضطراری روی «منو» فشار دهید.</string>
     <string name="lockscreen_missing_sim_instructions">سیم کارت را وارد کنید.</string>
     <string name="lockscreen_missing_sim_instructions_long">سیم کارت موجود نیست یا قابل خواندن نیست. یک سیم کارت وارد کنید.</string>
     <string name="lockscreen_missing_sim_message">سیم کارت درون تلفن نیست.</string>
@@ -1144,7 +1147,8 @@
     <string name="notification_hidden_text">اعلان جدید</string>
     <string name="notification_history_title_placeholder">اعلان برنامه سفارشی</string>
     <string name="notification_listener_binding_label">شنونده اعلان</string>
-    <string name="notification_ranker_binding_label">سرویس رتبه‌بندی اعلان</string>
+    <string name="notification_messaging_title_template">%1$s:‏ %2$s</string>
+    <string name="notification_ranker_binding_label">سرویس رده‌بندی اعلان</string>
     <string name="notification_reply_button_accessibility">پاسخ</string>
     <string name="notification_title">خطای ورود به سیستم برای %1$s</string>
     <string name="notification_work_profile_content_description">نمایه کاری</string>
@@ -1154,7 +1158,7 @@
     <string name="number_picker_increment_scroll_action">برای افزایش به بالا بلغزانید و برای کاهش به پایین بلغزانید.</string>
     <string name="number_picker_increment_scroll_mode">%s را لمس کنید و نگه دارید.</string>
     <string name="old_app_action">به %1$s برگردید</string>
-    <string name="older">قدیمی تر</string>
+    <string name="older">قدیمی‌تر</string>
     <string name="oneMonthDurationPast">۱ ماه قبل</string>
     <string name="open_permission_deny">شما اجازه بازکردن این صفحه را ندارید.</string>
     <string name="orgTypeCustom">سفارشی</string>
@@ -1286,10 +1290,10 @@
     <string name="permdesc_systemCamera">‏این برنامه سیستم یا دارای امتیاز، می‌تواند با استفاده از دوربین سیستم در هرزمانی عکس‌برداری و فیلم‌برداری کند. برنامه به اجازه android.permission.CAMERA هم نیاز دارد.</string>
     <string name="permdesc_transmitIr">به برنامه اجازه می‌دهد تا از فرستنده مادون قرمز تلفن استفاده کند.</string>
     <string name="permdesc_uninstall_shortcut">به برنامه اجازه می‌دهد میان‌برهای صفحه اصلی را بدون دخالت کاربر حذف کند.</string>
-    <string name="permdesc_useBiometric">به برنامه امکان می‌دهد از سخت‌افزار بیومتریک برای احراز هویت استفاده کند</string>
+    <string name="permdesc_useBiometric">به برنامه امکان می‌دهد از سخت‌افزار بیومتریک برای اصالت‌سنجی استفاده کند</string>
     <string name="permdesc_useDataInBackground">این برنامه می‌تواند در پس‌زمینه داده مصرف کند. ممکن است مصرف داده افزایش یابد.</string>
-    <string name="permdesc_useFaceAuthentication">به برنامه امکان می‌دهد از سخت‌افزار «بازگشایی با چهره» برای احراز هویت استفاده کند</string>
-    <string name="permdesc_useFingerprint">به برنامه امکان می‌دهد از سخت‌افزار اثر انگشت برای احراز هویت استفاده کند</string>
+    <string name="permdesc_useFaceAuthentication">به برنامه امکان می‌دهد از سخت‌افزار «بازگشایی با چهره» برای اصالت‌سنجی استفاده کند</string>
+    <string name="permdesc_useFingerprint">به برنامه امکان می‌دهد از سخت‌افزار اثر انگشت برای اصالت‌سنجی استفاده کند</string>
     <string name="permdesc_use_sip">‏به برنامه اجازه می‌دهد تماس‌های SIP بگیرد یا دریافت کند.</string>
     <string name="permdesc_vibrate">‏به برنامه اجازه می‎دهد تا لرزاننده را کنترل کند.</string>
     <string name="permdesc_vibrator_state">به برنامه اجازه می‌دهد تا به وضعیت لرزاننده دسترسی داشته باشد.</string>
@@ -1696,7 +1700,7 @@
     <string name="slice_more_content">‎+ %1$d‎</string>
     <string name="slices_permission_request">%1$s می‌خواهد تکه‌های %2$s را نشان دهد</string>
     <string name="sms_control_message">‏&lt;b>%1$s&lt;/b> درحال ارسال تعداد زیادی پیامک است. آیا اجازه می‌دهید این برنامه همچنان پیامک ارسال کند؟</string>
-    <string name="sms_control_no">اجازه ندارد</string>
+    <string name="sms_control_no">مجاز نبودن</string>
     <string name="sms_control_title">درحال ارسال پیامک‌ها</string>
     <string name="sms_control_yes">مجاز است</string>
     <string name="sms_premium_short_code_details"><b>این مورد هزینه‌ای را به حساب دستگاه همراهتان می‌گذارد.</b></string>
@@ -1759,7 +1763,7 @@
     <string name="time_picker_minute_label">دقیقه</string>
     <string name="time_picker_prompt_label">زمان را تایپ کنید</string>
     <string name="time_picker_radial_mode_description">برای وارد کردن زمان، به حالت ساعت تغییر وضعیت دهید.</string>
-    <string name="time_picker_text_input_mode_description">برای وارد کردن زمان، به حالت وارد کردن نوشتار تغییر وضعیت دهید.</string>
+    <string name="time_picker_text_input_mode_description">برای وارد کردن زمان، به حالت ورودی نوشتاری تغییر وضعیت دهید.</string>
     <string name="toolbar_collapse_description">کوچک کردن</string>
     <string name="tooltip_popup_title">نکته‌ابزار</string>
     <string name="turn_off_radio">خاموش کردن بی سیم</string>
@@ -1854,9 +1858,9 @@
     <string name="wfc_mode_cellular_preferred_summary">تماس ازطریق شبکه تلفن همراه</string>
     <string name="wfc_mode_wifi_only_summary">‏فقط Wi-Fi</string>
     <string name="wfc_mode_wifi_preferred_summary">‏تماس ازطریق Wi-Fi</string>
-    <string name="whichApplication">تکمیل عملکرد با استفاده از</string>
+    <string name="whichApplication">تکمیل کنش بااستفاده از</string>
     <string name="whichApplicationLabel">تکمیل عملکرد</string>
-    <string name="whichApplicationNamed">‏تکمیل عملکرد با استفاده از %1$s</string>
+    <string name="whichApplicationNamed">‏تکمیل کنش بااستفاده از %1$s</string>
     <string name="whichEditApplication">ویرایش با</string>
     <string name="whichEditApplicationLabel">ویرایش</string>
     <string name="whichEditApplicationNamed">‏ویرایش با %1$s</string>
@@ -1905,6 +1909,7 @@
     <string name="zen_mode_feature_name">مزاحم نشوید</string>
     <string name="zen_mode_forever">تا زمانی‌که آن را خاموش کنید</string>
     <string name="zen_mode_forever_dnd">تا زمانی که «مزاحم نشوید» را خاموش کنید</string>
+    <string name="zen_mode_rule_name_combination">%1$s /‏ %2$s</string>
     <string name="zen_mode_until">تا %1$s</string>
     <string name="zen_upgrade_notification_content">برای بررسی موارد مسدودشده ضربه بزنید.</string>
     <string name="zen_upgrade_notification_title">«مزاحم نشوید» تغییر کرده است</string>

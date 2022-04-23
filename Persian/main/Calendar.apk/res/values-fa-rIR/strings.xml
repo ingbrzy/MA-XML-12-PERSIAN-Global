@@ -30,6 +30,7 @@
     <string name="alert_title">اعلان‌های سالنامه</string>
     <string name="all_events">همه رویدادها</string>
     <string name="all_records">همه موارد ضبط شده</string>
+    <string name="already_num">زمان از %s</string>
     <string name="am">ق.ظ</string>
     <string name="anniversary_event_title">سالگرد: %1$s</string>
     <string name="anniversary_secondary_tag">سالگرد</string>
@@ -84,6 +85,7 @@
     <string name="close">بستن</string>
     <string name="close_alarm">خاموش کردن</string>
     <string name="contacts_permission_desc">دسترسی به اطلاعات مخاطب</string>
+    <string name="count_down_date_view">شمارش معکوس</string>
     <string name="countdown_event_title">شمارش معکوس: %1$s</string>
     <string name="countdown_notify_before_3_day_title">شمارش معکوس: %2$d روز دیگر تا %1$s</string>
     <string name="countdown_notify_title">شمارش معکوس: %1$s</string>
@@ -121,8 +123,10 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">سالنامه سنتی چینی</string>
+    <string name="date_time_fmt" formatted="false">%s، %s</string>
     <string name="date_time_picker_dialog_title">تنظیم تاریخ و ساعت</string>
     <string name="date_today">" (امروز)"</string>
+    <string name="date_view">تاریخ</string>
     <string name="day">روز</string>
     <string name="day_view_new_event_hint">رویداد جدید</string>
     <string name="default_reminder_mode">یادآوری‌ها</string>
@@ -318,6 +322,7 @@
     <string name="import_action">وارد کردن</string>
     <string name="import_birthday">وارد کردن زادروز</string>
     <string name="imported">وارد شد</string>
+    <string name="in_progress">درحال انجام</string>
     <string name="insert_event_dialog_btn_negative">خیر</string>
     <string name="insert_event_dialog_btn_positive">بله</string>
     <string name="insert_event_dialog_message">این رویداد به سالنامه افزوده شود؟</string>
@@ -468,6 +473,7 @@
     <string name="movie_card_title">فیلم</string>
     <string name="movie_card_trailer">پیش‌نمایش</string>
     <string name="name_title_menstruation_today_end">دوره پیش‌بینی می‌شود امروز تمام شود</string>
+    <string name="near_agenda_view">رویدادهای پیش رو</string>
     <string name="network_not_available">به اینترنت وصل نشد</string>
     <string name="never">هرگز</string>
     <string name="new_event_description">جدید</string>
@@ -668,8 +674,11 @@
     <string name="size_tera_byte">ترابایت</string>
     <string name="skip">رد کردن</string>
     <string name="small_week_date_format">EEE dd/MM/yyyy</string>
+    <string name="spec_agenda_day_and_month">%1$s/%2$s</string>
+    <string name="spec_agenda_view">رویدادهای ویژه</string>
     <string name="start_date_calculate">محاسبه</string>
     <string name="stats_title">آمار</string>
+    <string name="still_num">زمان باقی‌مانده تا %s</string>
     <string name="storage_permission_denied">ابتدا اجازه دسترسی به حافظه بدهید</string>
     <string name="subscribe_card">اشتراک همین حالا</string>
     <string name="subscribe_card_success">اشتراک با موفقیت انجام شد! جزئیات را در صفحه اصلی بررسی کنید.</string>
@@ -793,6 +802,7 @@
     <string name="today">امروز</string>
     <string name="today_at_time_fmt">امروز ساعت %s</string>
     <string name="today_icon_voice_contentdescription">بازگشت به امروز</string>
+    <string name="today_no_event">هیچ رویدادی برای امروز وجود ندارد.</string>
     <string name="today_no_events">بدون رویداد</string>
     <string name="todays_panchang_title">پانچنگ امروز</string>
     <string name="todo_audio_event">"[کار صوتی] "</string>
@@ -856,7 +866,13 @@
     <string name="widget_events">رویداد بعدی</string>
     <string name="widget_get_weather_info">دریافت اطلاعات آب و هوا</string>
     <string name="widget_no_events">بدون رویداد</string>
+    <string name="widget_normal_agenda_tip_empty">هیچ رویدادی برای امروز وجود ندارد.</string>
+    <string name="widget_normal_agenda_today_done">همه رویدادهای امروز کامل شدند.</string>
+    <string name="widget_normal_more_event">رویدادهای بیشتر</string>
+    <string name="widget_normal_new_event">افزودن رویداد</string>
+    <string name="widget_normal_weekN">هفته %d</string>
     <string name="widget_select_style">انتخاب سبک</string>
+    <string name="widget_spec_agenda_birth_today">امروز</string>
     <string name="work_day_indication">: (</string>
     <string name="xiaomi_calendar_delete_description">سالنامه یک برنامه سیستمی است که به شما امکان ایجاد و مدیریت رویدادها را می‌دهد. پس از حذف میان‌بر صفحه اصلی برخی ویژگی‌های آن همچنان برای شما در دسترس خواهند بود.</string>
     <string name="xiaomi_calendar_delete_title">«سالنامه» از صفحه اصلی برداشته شود؟</string>

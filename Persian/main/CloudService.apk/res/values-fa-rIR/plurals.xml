@@ -36,10 +36,6 @@
         <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">۱ دقیقه پیش</item>
     </plurals>
-    <plurals name="cloud_space_full_gallery_notification_content_title">
-        <item quantity="other">%s مورد همگام‌سازی نمی‌شود</item>
-        <item quantity="one">%s مورد همگام‌سازی نمی‌شود</item>
-    </plurals>
     <plurals name="dirty_blocklist_count">
         <item quantity="other">%d مورد در فهرست سیاه</item>
         <item quantity="one">%d مورد در فهرست سیاه</item>
@@ -68,10 +64,6 @@
         <item quantity="other">%d پیام</item>
         <item quantity="one">%d پیام</item>
     </plurals>
-    <plurals name="dirty_music_count">
-        <item quantity="other">%d آهنگ</item>
-        <item quantity="one">%d آهنگ</item>
-    </plurals>
     <plurals name="dirty_note_count">
         <item quantity="other">%d یادداشت</item>
         <item quantity="one">%d یادداشت</item>
@@ -92,10 +84,6 @@
         <item quantity="other">%d مورد ضبط شده</item>
         <item quantity="one">%d مورد ضبط شده</item>
     </plurals>
-    <plurals name="dirty_secretphoto_count">
-        <item quantity="other">%d عکس پنهان همگام‌سازی نشده‌اند. پس از همگام‌سازی همه موارد خارج شده تا آن‌ها را نگه دارید؛ در غیر این صورت، موارد حذف خواهند شد.</item>
-        <item quantity="one">%d عکس پنهان همگام‌سازی نشده است. پس از همگام‌سازی همه موارد خارج شده تا آن‌ها را نگه دارید؛ در غیر این صورت، موارد حذف خواهند شد.</item>
-    </plurals>
     <plurals name="dirty_wlan_count">
         <item quantity="other">%d شبکه Wi-Fi</item>
         <item quantity="one">%d شبکه Wi-Fi</item>
@@ -104,9 +92,25 @@
         <item quantity="other">%d WLAN networks</item>
         <item quantity="one">%d WLAN network</item>
     </plurals>
+    <plurals name="error_retry_hour">
+        <item quantity="other">%s ساعت</item>
+        <item quantity="one">%s ساعت</item>
+    </plurals>
+    <plurals name="error_retry_minute">
+        <item quantity="other">%s دقیقه</item>
+        <item quantity="one">%s دقیقه</item>
+    </plurals>
+    <plurals name="error_retry_second">
+        <item quantity="other">%s ثانیه</item>
+        <item quantity="one">%s ثانیه</item>
+    </plurals>
     <plurals name="error_screen_pwd_next_retry_time">
         <item quantity="other">تلاش دوباره در %d ثانیه</item>
         <item quantity="one">تلاش دوباره در %d ثانیه</item>
+    </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_title">
+        <item quantity="other">%s مورد همگام‌سازی نشدند</item>
+        <item quantity="one">%s مورد همگام‌سازی نشد</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">نیم ساعت پیش</item>

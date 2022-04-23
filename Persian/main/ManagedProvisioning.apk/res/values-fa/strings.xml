@@ -48,6 +48,18 @@
     <string name="cant_replace_or_remove_work_profile">نمی‌توان نمایه کاری را جایگزین کرد یا برداشت</string>
     <string name="cant_set_up_device">نمی‌توان دستگاه را راه‌اندازی کرد</string>
     <string name="cant_set_up_profile">نمی‌توان نمایه را تنظیم کرد</string>
+    <string name="car_ui_alert_dialog_default_button">بستن</string>
+    <string name="car_ui_preference_switch_off">خاموش</string>
+    <string name="car_ui_preference_switch_on">روشن</string>
+    <string name="car_ui_restricted_while_driving">این ویژگی هنگام رانندگی در دسترس نیست</string>
+    <string name="car_ui_scrollbar_page_down_button">پیمایش به پایین</string>
+    <string name="car_ui_scrollbar_page_up_button">پیمایش به بالا</string>
+    <string name="car_ui_scrolling_limited_message">پیمایش درحین رانندگی محدود شده است</string>
+    <string name="car_ui_toolbar_default_search_hint">جستجو…</string>
+    <string name="car_ui_toolbar_menu_item_overflow_title">لبریزشده</string>
+    <string name="car_ui_toolbar_menu_item_search_title">جستجو</string>
+    <string name="car_ui_toolbar_menu_item_settings_title">تنظیمات</string>
+    <string name="car_ui_toolbar_nav_icon_content_description">برگشت</string>
     <string name="change_device_launcher">راه‌انداز دستگاه را تغییر دهید</string>
     <string name="close_list">بستن فهرست</string>
     <string name="collapse">کوچک کردن</string>
@@ -103,7 +115,7 @@
     <string name="frp_clear_progress_title">در حال پاک کردن</string>
     <string name="fully_managed_device_provisioning_accept_header">بیایید دستگاه محل کارتان را راه‌اندازی کنیم</string>
     <string name="fully_managed_device_provisioning_privacy_body">‏ممکن است سرپرست IT بتواند داده‌ها و فعالیت شما را در این دستگاه ببیند</string>
-    <string name="fully_managed_device_provisioning_privacy_title">یادآوری حریم خصوصی</string>
+    <string name="fully_managed_device_provisioning_privacy_title">یادآوری حریم‌خصوصی</string>
     <string name="fully_managed_device_provisioning_progress_label">درحال راه‌اندازی دستگاه…</string>
     <string name="fully_managed_device_provisioning_step_1_header">دردسترس قرار دادن برنامه‌های کاری</string>
     <string name="fully_managed_device_provisioning_step_2_header">این دستگاه خصوصی نیست</string>

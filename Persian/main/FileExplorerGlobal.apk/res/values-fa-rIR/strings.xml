@@ -25,7 +25,8 @@
     <string name="app_name_miuimusic">موسیقی</string>
     <string name="app_name_miuiringtone">آهنگ زنگ</string>
     <string name="app_name_miuiwallpaper">تصاویر زمینه</string>
-    <string name="app_name_screenshot">عکس از صفحه</string>
+    <string name="app_name_screenshot">عکس‌های صفحه</string>
+    <string name="app_name_transport">بلوتوث و دانلودها</string>
     <string name="app_permissions">مجوزهای برنامه</string>
     <string name="app_permissions_desc">مدیریت فایل‌ها برای کارکرد عادی نیاز به چند مجوز دارد.</string>
     <string name="authorization_item_desc">با تغییر وضعیت این کلید مجوز را داده و یا باطل کنید</string>
@@ -62,6 +63,7 @@
     <string name="category_picture">تصاویر</string>
     <string name="category_recent">تازه</string>
     <string name="category_theme">تم‌ها</string>
+    <string name="category_transport">بلوتوث و دانلودها</string>
     <string name="category_type_other">سایر</string>
     <string name="category_video">ویدئوها</string>
     <string name="category_zip">بایگانی</string>
@@ -72,6 +74,8 @@
     <string name="clean_marquee_text">یافتن فایل‌های آشغال بیشتر</string>
     <string name="click_to_switch_volume">برای جابجایی بین حافظه داخلی و کارت SD ضربه بزنید</string>
     <string name="click_to_switch_volume_pad">برای جابجایی بین حافظه داخلی و کارت SD ضربه بزنید</string>
+    <string name="columbus_ad_flag_text">آگهی</string>
+    <string name="columbus_skip_ad">رد شدن</string>
     <string name="compress_fail">فشرده‌سازی ناموفق بود. فایلی با همین نام وجود دارد.</string>
     <string name="compress_fail_unknown">فشرده سازی نشد. حافظه پر شده یا خطای ناشناخته رخ داده است.</string>
     <string name="compress_message">فشرده‌سازی در…</string>
@@ -122,7 +126,7 @@
     <string name="display_name">نمایش نام</string>
     <string name="domain">دامنه</string>
     <string name="download_success">با موفقیت دانلود شد</string>
-    <string name="empty_by_forbid_access">محتوای این پوشه به دلیل محدودیت‌های Android 11 در اینجا نمایش داده نمی‌شوند.</string>
+    <string name="empty_by_forbid_access">محتوای این پوشه به دلیل محدودیت‌های Android در اینجا نمایش داده نمی‌شوند.</string>
     <string name="enable_documentsui">ابتدا%s را در تنظیمات > برنامه های نصب شده روشن کنید</string>
     <string name="enable_sd_card">کارت SD خراب یا قطع شده است</string>
     <string name="enable_usb">دستگاه USB خراب یا قطع شده است</string>
@@ -154,7 +158,7 @@
 برای افزودن، یک پوشه را فشرده و نگه داشته و روی \"بیشتر\" بزنید."</string>
     <string name="favorite_photo">عکس‌ها</string>
     <string name="favorite_ringtone">آهنگ‌های زنگ</string>
-    <string name="favorite_screen_cap">عکس از صفحه</string>
+    <string name="favorite_screen_cap">عکس‌های صفحه</string>
     <string name="feedback_desc">مشکلی که با آن روبرو شدید را شرح دهید</string>
     <string name="feedback_send_email_body_extra_info">اطلاعات زیر را حذف نکنید. به ما در پیدا کردن مشکل کمک می‌کند.</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
@@ -170,7 +174,7 @@
     <string name="folder_name_empty">نام پوشه نمی‌تواند خالی باشد</string>
     <string name="folder_name_illegal">نام پوشه نامعتبر</string>
     <string name="found_usb">حافظه USB وصل شد</string>
-    <string name="ftp_account_req_notice">۴ تا ۶ نویسه، حرف و عدد، حساس به حروف کوچک و بزرگ</string>
+    <string name="ftp_account_req_notice">نام کاربری و گذرواژه حساس به بزرگی و کوچکی حروف بوده و باید دارای %1$d تا %2$d نویسه باشند. شما می‌توانید حروف انگلیسی، نمادهای ویژه و اعداد را با هم ادغام کنید.</string>
     <string name="ftp_anonymous_login">ورود به صورت ناشناس</string>
     <string name="ftp_invalid_username_or_password">نام کاربری و گذرواژه وارد شده نامعتبر است.</string>
     <string name="ftp_open_port_error">درگاه باز نمی‌شود. اتصال شبکه خود را بررسی یا شماره درگاه را دوباره تنظیم نمایید.</string>
@@ -178,7 +182,7 @@
     <string name="ftp_port_number">شماره درگاه</string>
     <string name="ftp_random_port">درگاه تصادفی</string>
     <string name="ftp_transfer_secure">امنیت</string>
-    <string name="ftp_username_and_passworld">ورود به حساب</string>
+    <string name="ftp_username_and_passworld">تنظیم نام کاربری و گذرواژه</string>
     <string name="ftp_username_hint">نام کاربری</string>
     <string name="gbk_summary">کدگذاری پیش‌فرض ویندوز برای چینی ساده شده</string>
     <string name="gigabyteShort">گیگابایت</string>
@@ -192,7 +196,7 @@
     <string name="image_loading_error">تصویر بازگذاری نشد</string>
     <string name="implicit">ضمنی</string>
     <string name="info_app_package_name">نام بسته:</string>
-    <string name="info_app_version">نسخه برنامه:</string>
+    <string name="info_app_version">نگارش برنامه:</string>
     <string name="info_language">زبان:</string>
     <string name="info_location">منطقه:</string>
     <string name="info_product">دستگاه:</string>
@@ -201,6 +205,7 @@
     <string name="invalid_name_or_password">نام کاربری یا گذرواژه نامعتبر</string>
     <string name="just_now">چند لحظه پیش</string>
     <string name="kilobyteShort">کیلوبایت</string>
+    <string name="lack_perm_dialog_title">نیازمند مجوز است</string>
     <string name="list_order">نمای فهرستی</string>
     <string name="load_more">مشاهده موارد بیشتر</string>
     <string name="loading">چند لحظه صبر کنید…</string>
@@ -302,6 +307,7 @@
     <string name="partial_delete_failure">برخی فایل‎ها حذف نشدند. دوباره تلاش کنید.</string>
     <string name="partial_encrypt_success">برخی فایل‌ها خصوصی نشدند. دوباره تلاش کنید.</string>
     <string name="passive">غیرفعال</string>
+    <string name="perm_manage_external_storage">برای استفاده از این ویژگی، به مدیریت فایل‌ها اجازه دسترسی به عکس‌ها و ویدئوها را بدهید. این کار را در تنظیمات می‌توانید انجام دهید.</string>
     <string name="permission_denial">نمی‌توان به فایل‌ها دسترسی پیدا کرد. به مدیریت فایل‌ها اجازه دسترسی به فایل‌ها را در تنظیمات بدهید.</string>
     <string name="permission_phone">تلفن</string>
     <string name="permission_phone_desc">دسترسی به IMEI برای شناسایی، ذخیره و رسیدگی به فایل‌های خصوصی</string>
@@ -325,24 +331,16 @@
     <string name="phone_storage_zip_title">بایگانی‌ها:</string>
     <string name="pick_file">انتخاب فایل‌ها</string>
     <string name="pick_folder">انتخاب پوشه</string>
-    <string name="player_tips_brightness">تنظیم روشنایی</string>
-    <string name="player_tips_double_click">دو بار روی نمایشگر بزنید</string>
-    <string name="player_tips_landscape">به صورت افقی بکشید</string>
-    <string name="player_tips_pause_player">مکث/ادامه بازپخش</string>
-    <string name="player_tips_rewind">تنظیم روند پخش</string>
-    <string name="player_tips_up_down_left">در بخش چپ از بالا به پایین بکشید</string>
-    <string name="player_tips_up_down_right">در بخش راست از بالا به پایین بکشید</string>
-    <string name="player_tips_volume">تنظیم صدا</string>
     <string name="port">درگاه</string>
     <string name="port_range">شماره درگاه باید بین ۱۰۲۴–۶۵۵۳۵ باشد</string>
     <string name="possible_permissions">مجوزهای اختیاری</string>
-    <string name="privacy_accept">پذیرش و ادامه</string>
-    <string name="privacy_cancel"><u>نمی‌پذیرم</u></string>
+    <string name="privacy_accept">پذیرفتن و ادامه</string>
+    <string name="privacy_cancel"><u>مخالف</u></string>
     <string name="privacy_desc">به مدیریت فایل‌ها خوش آمدید! در کنار ویژگی‌های پایه‌ای، این برنامه همچنان می‌تواند خدمات زیر را به شما ارائه نماید:</string>
     <string name="privacy_experience_statement">به برنامه تجربه کاربر پیوسته و با هم‌رسانی داده‌های کاربر با ما به ما در بهبود محصولات و خدماتمان یاری نمایید.</string>
     <string name="privacy_item1">دسته‌بندی موارد تازه استفاده شده</string>
     <string name="privacy_item2">نمایش و ویرایش فایل‌ها</string>
-    <string name="privacy_message">"&lt;Data>مدیریت فایل‌ها به منظور ارائه خدمات پایه‌ای که آمار مصرف تولید می‌کنند نیاز به گردآوری اطلاعات شخصی لازم دارد.  شما می‌توانید در &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما از چگونگی به‌کارگیری اطلاعاتی که گردآوری می‌کنیم آگاه شوید. پیش از استفاده از مدیریت فایل‌ها &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید. شما در هر زمانی می‌توانید در تنظیمات رضایت خود را نسبت به سیاست حفظ حریم خصوصی دانلودها پس بگیرید. چنانچه نپذیرید از خدمات ذکر شده در بالا استفاده کنید، نمی‌توانید از برخی ویژگی‌های این برنامه استفاده نمایید؛ با این وجود، کارایی‌های پایه‌ای همچنان برای شما در دسترس خواهند بود.&lt;/Data>"</string>
+    <string name="privacy_message">&lt;Data>مدیریت فایل‌ها به منظور ارائه خدمات پایه‌ای که آمار مصرف تولید می‌کنند نیاز به گردآوری اطلاعات شخصی لازم دارد. شما می‌توانید در &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما از چگونگی به‌کارگیری اطلاعاتی که گردآوری می‌کنیم آگاه شوید. پیش از استفاده از مدیریت فایل‌ها &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید. شما در هر زمانی می‌توانید در تنظیمات رضایت خود را نسبت به سیاست حفظ حریم خصوصی دانلودها پس بگیرید. چنانچه نپذیرید از خدمات ذکر شده در بالا استفاده کنید، نمی‌توانید از برخی ویژگی‌های این برنامه استفاده نمایید؛ با این وجود، کارایی‌های پایه‌ای همچنان برای شما در دسترس خواهند بود.&lt;/Data></string>
     <string name="privacy_title">به مدیریت فایل‌ها خوش آمدید</string>
     <string name="private_files">خصوصی</string>
     <string name="private_folder">فایل‌های خصوصی</string>
@@ -359,7 +357,7 @@
     <string name="rename_failed">نمی‌توان %1$s را تغییر نام داد</string>
     <string name="repair_done">با موفقیت بازیابی شد</string>
     <string name="repair_error">بازیابی نشد. دوباره تلاش کنید.</string>
-    <string name="repair_file">بازیابی فایل‎های رمزگذاری شده</string>
+    <string name="repair_file">بازیابی فایل‌های رمزگذاری شده</string>
     <string name="request_document_permission">فایل‌های زیادی در کارت SD شما وجود دارد. به مدیریت فایل‌ها مجوزهای لازم را بدهید.</string>
     <string name="request_document_permission_title">نیازمند مجوز است</string>
     <string name="restoring">در حال بازیابی…</string>
@@ -383,8 +381,6 @@
     <string name="rlv_release_to_refresh">برای تازه‌سازی رها کنید</string>
     <string name="save_seven_day">پاک‌سازی هفته‌ای یک بار</string>
     <string name="scan_code_download_from_play">این کد QR را اسکن کرده تا از فروشگاه Play دانلود کنید</string>
-    <string name="screenshot_fail">تصویر صفحه گرفته نشد</string>
-    <string name="screenshot_success">عکس در %1$s ذخیره شد</string>
     <string name="search_description">جستجو در تمام فایل‎های دستگاه</string>
     <string name="search_empty_view_hint">چیزی یافت نشد</string>
     <string name="search_error_hint">جستجو</string>
@@ -441,8 +437,6 @@
     <string name="terabyteShort">ترابایت</string>
     <string name="terms_conditions">شرایط و ضوابط</string>
     <string name="terms_conditions_desc">موارد زیر را به دقت خوانده و انتخاب کنید که آیا آن‌ها را می‌پذیرید یا نه.</string>
-    <string name="time_am">ق.ظ</string>
-    <string name="time_pm">ب.ظ</string>
     <string name="time_to_upgrade">یک به‌روزرسانی در دسترس است</string>
     <string name="tip">توجه</string>
     <string name="tips_by_forbid_access">محتوای این پوشه به دلیل محدودیت‌های سیستمی معرفی شده در Android R دیگر در دسترس نخواهند بود. فایل‌های شخصی خود را در سریع‌ترین زمان ممکن از این پوشه بردارید.</string>
@@ -469,12 +463,14 @@
     <string name="user_experience_title">برنامه تجربه کاربر</string>
     <string name="user_not_login">ابتدا وارد شوید</string>
     <string name="user_notice_privacy_policy">سیاست حفظ حریم خصوصی</string>
-    <string name="user_notice_term_of_service">توافقنامه کاربر</string>
+    <string name="user_notice_term_of_service">توافق‌نامه کاربر</string>
     <string name="utf8_summary">کدگذاری پیش‌فرض FTP سیستم</string>
     <string name="version_name">نسخه</string>
-    <string name="video_replay_btn">بازپخش</string>
     <string name="view_by_document">نمایش در فایل‌ها</string>
     <string name="wechat_video">ویدئو در %s</string>
+    <string name="whatsapp_cache_garbage">حافظه پنهان</string>
+    <string name="whatsapp_cache_garbage_cleanup">پاک‌سازی</string>
+    <string name="whatsapp_cache_garbage_tip">پاک‌سازی حافظه پنهان هیچ چیز مهمی را حذف نمی‌کند. پس از پاک‌سازی می‌توانید از برنامه همانند گذشته استفاده کنید.</string>
     <string name="wifi_state">وضعیت Wi-Fi</string>
     <string name="year_month_day_format">dd MMM yyyy</string>
     <string name="yes">بله</string>

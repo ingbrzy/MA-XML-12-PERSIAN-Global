@@ -129,9 +129,10 @@
     <string name="dc_light_hint_other">نوردهی جریان مستقیم می‌تواند بر نرخ تازه‌سازی و نحوه نمایش برخی موارد تأثیر بگذارد.</string>
     <string name="dc_light_hint_unnormal_low">حالت ضد سوسو زدن کم نور ممکن است بر نحوه نمایش برخی موارد تأثیر بگذارد.</string>
     <string name="dc_light_hint_unnormal_other">حالت ضد سوسو زدن در نور کم ممکن است بر نرخ تازه‌سازی و نحوه نمایش برخی موارد تأثیر بگذارد.</string>
-    <string name="dc_lignt_enable_hint">حالت ضد لرزش نرخ تازه‌سازی صفحه را ۶۰ هرتز تنظیم می‌کند. به حالت ضد لرزش تغییر می‌دهید؟</string>
+    <string name="dc_lignt_enable_hint">حالت ضد سوسو زدن نرخ تازه‌سازی صفحه را ۶۰ هرتز تنظیم می‌کند. به حالت ضد سوسو زدن تغییر می‌دهید؟</string>
     <string name="delete_first_to_add_animal">To add a new item, delete one first.</string>
     <string name="desktop_widget_authorization">برای دادن مجوزها برای مشاهده آمار، ضربه بزنید</string>
+    <string name="desktop_widget_authorization_new">برای نمایش آمار مدت استفاده از نمایشگر، ضربه بزنید</string>
     <string name="desktop_widget_not_support">"آمار مدت استفاده از نمایشگر
 در فضای دوم ایجاد نمی‌شود"</string>
     <string name="desktop_widget_screen_use_time">مدت استفاده از نمایشگر</string>
@@ -259,7 +260,7 @@
     <string name="hsv_space_color_saturation">اشباع</string>
     <string name="hsv_space_color_value">درخشندگی</string>
     <string name="intelligent_radio_btn_summary">تنظیم پویای نرخ تازه‌سازی بر اساس موقعیت‌های مختلف به منظور تعادل کارایی با مصرف برق</string>
-    <string name="intelligent_radio_btn_title">خودکار (پیشنهاد شده)</string>
+    <string name="intelligent_radio_btn_title">پیش‌فرض (پیشنهاد شده)</string>
     <string name="intelligent_recognition_item_summary">استفاده از یک صدای زنگ مشخص برای تماس‌ها از سوی خدمات دهندگان تحویل بسته و تاکسی. این ویژگی هنگامی که %s به عنوان زنگ پیش‌فرض شما باشد کار خواهد کرد.</string>
     <string name="intelligent_recognition_item_title">شناسایی خدمات</string>
     <string name="item_anura">Anura</string>
@@ -609,14 +610,14 @@
     <string name="usage_app_over_content">امروز به مدت %s از این برنامه استفاده کرده‌اید.</string>
     <string name="usage_app_over_summary">به محدودیت زمانی خود رسیدید. وقت تمام است!</string>
     <string name="usage_app_set_limit_time">تنظیم محدودیت</string>
-    <string name="usage_app_stop_desc">All Screen time data and permissions, including individual settings, as well as the related items stored locally, will be deleted after you turn this feature off.​</string>
+    <string name="usage_app_stop_desc">پس از خاموش کردن این ویژگی، همه داده‌های مدت استفاده از نمایشگر و مجوزها، از جمله تنظیمات فردی، و همچنین موارد مرتبط ذخیره محلی، حذف خواهند شد.</string>
     <string name="usage_app_system_app_summary">زمان استفاده از نمایشگر برای برنامه‌های سیستمی محدود نمی‌شود</string>
     <string name="usage_app_weekday_limit">روزهای کاری</string>
     <string name="usage_app_weekend_limit">آخر هفته‌ها</string>
     <string name="usage_beat_fans">بهتر از %s از هواداران Mi</string>
     <string name="usage_continuous_days">رسیدن به هدف پیاپی</string>
     <string name="usage_creating_weekly_report">درحال ایجاد گزارش هفتگی…</string>
-    <string name="usage_cta_desc">"Welcome to Settings! To provide Screen time and Focus mode stats to you, this app needs to collect the following data: the number of times you unlock the device, the list of your apps along with the corresponding usage duration, the number of times your screen lights up, and Focus mode settings. The collected data will only be stored locally on this device.
+    <string name="usage_cta_desc">"به نتظیمات خوش ‌آمدید! برای تهیه آمار مدت استفاده از نمایشگر و حالت تمرکز برای شما، این برنامه نیاز به گردآوری داده‌های زیر دارد: تعداد دفعاتی که دستگاه را قفل کرده‌اید، فهرست برنامه‌های شما به همراه مدت زمان استفاده از آن‌ها، تعداد دفعات روشن شدن صفحه نمایش شما، و تنظیمات حالت تمرکز. داده‌های گردآوری شده فقط به صورت محلی در این دستگاه ذخیره خواهند شد.
 "</string>
     <string name="usage_current_week_usage">%s میانگین ۷ روز گذشته</string>
     <string name="usage_device_limit_app_prolong">افزودن زمان</string>

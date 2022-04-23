@@ -100,6 +100,18 @@
         <item quantity="other">%d ویدئو</item>
         <item quantity="one">%d ویدئو</item>
     </plurals>
+    <plurals name="mangotv_feature_list_title1">
+        <item quantity="other">‏%1$1d قسمت از %2$2d قسمت در دسترس است</item>
+        <item quantity="one">‏%1$1d قسمت از %2$2d قسمت در دسترس است</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title2">
+        <item quantity="other">‏%1$1d قسمت از %2$2d قسمت در دسترس است</item>
+        <item quantity="one">‏%1$1d قسمت از %2$2d قسمت در دسترس است</item>
+    </plurals>
+    <plurals name="mangotv_feature_list_title_all">
+        <item quantity="other">‏%d قسمت در مجموع</item>
+        <item quantity="one">‏%d قسمت در مجموع</item>
+    </plurals>
     <plurals name="mediation_animate_close_after">
         <item quantity="other">%s ثانیه مانده</item>
         <item quantity="one">%s ثانیه مانده</item>

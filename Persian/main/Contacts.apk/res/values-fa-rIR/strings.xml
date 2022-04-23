@@ -120,6 +120,7 @@
     <string name="calllog_menu_blacklist">مسدود کردن</string>
     <string name="calllog_menu_edit_before_call">ویرایش</string>
     <string name="calllog_menu_send_sms">ارسال پیام</string>
+    <string name="calllog_record_none_toast">هیچ تماس ضبط شده‌ای برای نمایش نیست</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$dدقیقه و %2$dثانیه</string>
     <string name="callrecordview_item_op_time_missed">وصل نشد</string>
     <string name="callrecordview_item_op_time_only_minutes">%d دقیقه</string>
@@ -473,6 +474,7 @@
     <string name="friday">جمعه</string>
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">نام</string>
     <string name="gallery">گالری</string>
     <string name="ghostData_company">شرکت</string>
@@ -598,6 +600,7 @@
     <string name="menu_sync_remove">حذف گروه همگام‌سازی</string>
     <string name="midnight">شب</string>
     <string name="miprofile_account_type">کارت‎های مخاطب</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ویرایش نمایه</string>
     <string name="miprofile_name">نمایه من</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -691,6 +694,12 @@
     <string name="name_phonetic_middle">تلفظ نام میانی</string>
     <string name="name_prefix">پیشوند نام</string>
     <string name="name_suffix">پسوند نام</string>
+    <string name="new_saf_permission_dialog_content">"مجوزهای مخاطبین به‌روز شدند. به ضبط کننده اجازه دسترسی به تماس‌های مخاطبین را بدهید.
+
+چگونه مجوز اعطا کنیم
+روی «%1$s» زده و سپس «%2$s» را انتخاب کنید."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">بعدی</string>
+    <string name="new_saf_permission_dialog_title"><b>نیازمند مجوز است</b></string>
     <string name="next">بعدی</string>
     <string name="next_birthday">زادروز بعدی: %s</string>
     <string name="nfc_vcard_file_name">مخاطب از طریق NFC دریافت شد</string>
@@ -747,6 +756,7 @@
     <string name="permission_retry_dialog_msg_pad">برای امکان استفاده از سیم‌کارت خود با این برنامه و مدیریت مخاطبین خود، به این برنامه اجازه دسترسی و ویرایش مخاطبین و همچنین دسترسی به اطلاعات دستگاه را بدهید.</string>
     <string name="permission_retry_setting">تنظیمات</string>
     <string name="phoneLabelsGroup">تلفن</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">شماره طولانی است</string>
     <string name="phone_primary">اصلی</string>
     <string name="photoPickerNotFoundText">هیچ تصویری بر روی دستگاه وجود ندارد.</string>
@@ -803,7 +813,7 @@
     <string name="preference_privacy_settings_title">حریم خصوصی</string>
     <string name="preference_remove_duplicate">ادغام مخاطبین تکراری</string>
     <string name="preference_show_firewall_calllog">نمایش تماس‌های مسدود شده در تاریخچه تماس</string>
-    <string name="preference_show_yellowpage_tab_description">کتاب اول ممکن است هنگام خاموش کردن این ویژگی به درستی کار نکنند.</string>
+    <string name="preference_show_yellowpage_tab_description">در صورت خاموش کردن این ویژگی کتاب اول و خدمات آن نمایش داده نخواهند شد</string>
     <string name="preference_show_yellowpage_tab_title">نمایش کتاب اول</string>
     <string name="preference_simple_mode_title">نمایش عکس‌ها و اطلاعات</string>
     <string name="preference_smart_group_company_summary">گروه‌بندی براساس شرکت</string>
@@ -814,6 +824,7 @@
     <string name="preference_smart_group_location_title">موقعیت‌های مکانی</string>
     <string name="preference_smart_group_title">گروه‌های هوشمند</string>
     <string name="preference_tone_title">صداها</string>
+    <string name="preference_yellowpage_function_setting">تنظیمات کتاب اول</string>
     <string name="previous">قبلی</string>
     <string name="privacy_password_message1">گذرواژه حفاظت از حریم خصوصی برای عکس‌ها، یادداشت‌ها و پوشه‌های پنهان کار می‌کند.</string>
     <string name="privacy_password_message2">از گذرواژه حفاظت از حریم خصوصی استفاده کنید. این گذرواژه برای عکس‌ها، یادداشت‌ها و پوشه‌های پنهان کار می‌کند.</string>
@@ -823,6 +834,7 @@
     <string name="privacy_password_title2">استفاده از گذرواژه حفاظت از حریم خصوصی</string>
     <string name="privacy_password_title3">گذرواژه خود را ارتقاء دهید</string>
     <string name="privacy_password_title4">گذرواژه ارتقاء یافت</string>
+    <string name="privacy_settings_blue_scan_connect">اتصال به دستگاه‌های نزدیک</string>
     <string name="privacy_settings_call_phone">برقراری تماس</string>
     <string name="privacy_settings_call_phone_description">برای برقراری تماس از طریق میان‌برهای اصفی اصلی</string>
     <string name="privacy_settings_call_phone_description_for_pad">برای برقراری تماس‌ها در برنامه‌های سوم‌شخص</string>
@@ -985,6 +997,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">گروه بدون عضو</string>
     <string name="six_letter">ج چ ح خ</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">شرکت‌ها</string>
     <string name="smart_group_company_unavailable">بدون اطلاعات شرکت</string>
     <string name="smart_group_frequency_1">در طول ماه گذشته</string>
@@ -1083,6 +1096,7 @@
     <string name="the_united_nations_day">روز ملل متحد</string>
     <string name="the_valentines_day">روز ولنتاین</string>
     <string name="the_water_lantern_festival">جشنواره فانوس آبی</string>
+    <string name="this_folder">استفاده از این پوشه</string>
     <string name="three_letter">ا آ</string>
     <string name="thursday">پنج‌شنبه</string>
     <string name="thursday_short">پنج‌شنبه</string>
@@ -1091,7 +1105,7 @@
     <string name="time_picker_label_hour">ساعت</string>
     <string name="time_picker_label_minute">دقیقه</string>
     <string name="titleJoinContactDataWith">ادغام مخاطبین</string>
-    <string name="toast_call_no_SoundRecorder">برنامه ضبط‌کننده در دسترس نیست</string>
+    <string name="toast_call_no_SoundRecorder">برنامه ضبط کننده در دسترس نیست</string>
     <string name="toast_call_no_notes">برنامه یادداشت در دسترس نیست</string>
     <string name="toast_copy_done">انجام شد</string>
     <string name="toast_copying">درحال کپی کردن…</string>
@@ -1100,6 +1114,7 @@
     <string name="toast_for_failed_saving_nickname">نام مستعار ذخیره نشد</string>
     <string name="toast_for_saving_nickname">نام مستعار ذخیره شد</string>
     <string name="toast_join_with_empty_contact">نام مخاطب را قبل از ادغام تایپ کنید با دیگری</string>
+    <string name="toast_not_show_blue_scan_connect_perm_req">به این ویژگی اجازه اتصال به دستگاه‌های نزدیک از طریق بلوتوث را داده تا بتوان مخاطبین را از سایر دستگاه‌ها وارد کرد.</string>
     <string name="toast_not_show_camera_perm_req">برای امکان استفاده از دوربین برای گرفتن عکس‌های نمایه، ابتدا به این برنامه اجازه گرفتن عکس و ضبط ویدئو را بدهید.</string>
     <string name="toast_not_show_location_perm_req">برای امکان وارد کردن مخاطبین از سایر دستگاه‌ها با استفاده از بلوتوث، ابتدا به این برنامه اجازه دسترسی به موقعیت خود را بدهید.</string>
     <string name="toast_not_show_read_calllogs_perm_req">برای امکان نمایش تاریخچه تماس، ابتدا به این برنامه اجازه دسترسی به تاریخچه تماس را بدهید.</string>

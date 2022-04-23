@@ -12,7 +12,7 @@
     <string name="all_record">همه موارد ضبط شده</string>
     <string name="allowed">اعطا شده</string>
     <string name="am">ق.ظ</string>
-    <string name="app_name">ضبط‌کننده</string>
+    <string name="app_name">ضبط کننده</string>
     <string name="app_record">موارد ضبط‌ شده برنامه</string>
     <string name="app_record_preference_title">موارد ضبط‌ شده برنامه</string>
     <string name="back">برگشت</string>
@@ -80,7 +80,7 @@
     <string name="err_msg_transcript_queue">در انتظار تبدیل به نوشتار…</string>
     <string name="err_msg_transcript_success">با موفقیت به نوشتار تبدیل شد</string>
     <string name="error_app_internal">بررسی کنید که آیا برنامه دیگری در حال استفاده از ویژگی ضبط است.</string>
-    <string name="error_app_internal_title">خطای ضبط صوت</string>
+    <string name="error_app_internal_title">خطای ضبط کننده صدا</string>
     <string name="error_file_access">فایل وجود ندارد یا خراب شده است</string>
     <string name="error_filename_illegal_char">نام فایل حاوی نویسه‌های نامعتبر است.</string>
     <string name="error_filename_too_long">نام فایل خیلی طولانی است.</string>
@@ -151,8 +151,8 @@
     <string name="invalid_argument">مباحثه نامعتبر</string>
     <string name="invisible_mode_error_tip">برای استفاده از میکروفن، حالت ناشناس را در تنظیمات خاموش کنید</string>
     <string name="keywords_search_call_record">ضبط تماس‌ها;ضبط تماس;ضبط تماس;تماس‌های ضبط شده</string>
-    <string name="keywords_search_record">مورد ضبط شده جدید;افزودن ضبط;ضبط کردن;موارد ضبطی;متن;رونوشت;قابل رونویسی;ضبط‌کننده;ضبط‌کننده صحبت;ضبط‌کننده صدا;برنامه ضبط‌کننده;برنامه ضبط کردن;چگونه ضبط کنم;چگونه صدا را ضبط کنیم;ضبط‌کننده کجاست; ضبط‌کننده MIUI</string>
-    <string name="keywords_search_record_list">ضبط‌کننده;متن;رونوشت;ضبط;هم‌رسانی ضبط;هم‌رسانی موارد ضبط شده;مورد ضبط شده;موارد ضبط شده</string>
+    <string name="keywords_search_record">مورد ضبط شده جدید;افزودن ضبط;ضبط کردن;موارد ضبطی;متن;رونوشت;قابل رونویسی;ضبط کننده;ضبط کننده صحبت;ضبط کننده صدا;برنامه ضبط کننده;برنامه ضبط کردن;چگونه ضبط کنم;چگونه صدا را ضبط کنیم;ضبط کننده کجاست; ضبط کننده MIUI</string>
+    <string name="keywords_search_record_list">ضبط کننده;متن;رونوشت;ضبط;هم‌رسانی ضبط;هم‌رسانی موارد ضبط شده;مورد ضبط شده;موارد ضبط شده</string>
     <string name="korea_permission_phone">تلفن</string>
     <string name="korea_permission_phone_resc">برای دسترسی به وضعیت دستگاه و انجام ضبط هنگام تماس‌ها</string>
     <string name="korea_permission_record">میکروفن</string>
@@ -247,6 +247,11 @@
     <string name="network_tip_dialog_title">اتصال به اینترنت لازم است</string>
     <string name="network_unavailable_tip">به شبکه متصل شده و دوباره تلاش کنید.</string>
     <string name="new_record_name">ضبط جدید</string>
+    <string name="new_saf_permission_dialog_content">"مجوزهای ضبط کننده به‌روز شدند. به ضبط کننده اجازه دسترسی به تماس‌های ضبط شده را بدهید.
+
+چگونه مجوز اعطا کنیم
+روی «%1$s» زده و سپس «%2$s» را انتخاب کنید."</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">بعدی</string>
     <string name="night">شب</string>
     <string name="no_content">هنوز موردی اینجا نیست</string>
     <string name="no_file">خالی</string>
@@ -294,7 +299,7 @@
     <string name="order_item_number">شماره سفارش: %s</string>
     <string name="order_item_price">%s یوان</string>
     <string name="other_settings_pref_title">تنظیمات بیشتر</string>
-    <string name="path_soundrecorder_setting">برنامه‌های سیستمی/ضبط‌کننده</string>
+    <string name="path_soundrecorder_setting">برنامه‌های سیستمی/ضبط کننده</string>
     <string name="pause">توقف</string>
     <string name="pay_error_cancel">پرداخت لغو شده است</string>
     <string name="pay_error_null">پرداخت کامل نشد، حساب خود را بررسی کنید.</string>
@@ -302,6 +307,8 @@
     <string name="permission_desc">جزئیات مجوزها</string>
     <string name="permission_dialog_cancel">لغو</string>
     <string name="permission_dialog_ok">تنظیمات</string>
+    <string name="permission_read_phone_state">دسترسی به اطلاعات دستگاه</string>
+    <string name="permission_read_phone_state_description">برای دسترسی به وضعیت تماس به منظور توقف خودکار ضبط هنگام دریافت تماس</string>
     <string name="permission_record">ضبط صدا</string>
     <string name="permission_record_description">برای ارائه خدمات ضبط صدا</string>
     <string name="permission_storage">دسترسی به حافظه</string>
@@ -440,7 +447,7 @@
     <string name="saturday_shortest">شنبه</string>
     <string name="save_as">ذخیره به عنوان</string>
     <string name="save_record_dialog_title">ذخیره مورد ضبط شده</string>
-    <string name="search_app">ضبط‌کننده</string>
+    <string name="search_app">ضبط کننده</string>
     <string name="search_empty">نتیجه‌ای یافت نشد</string>
     <string name="search_enable_earpiece_title">حالت بلندگوی مکالمه</string>
     <string name="search_hint">جستجو</string>
@@ -452,7 +459,7 @@
     <string name="search_tip_rename">نامگذاری دستی موارد ضبط‌ شده</string>
     <string name="send">ارسال</string>
     <string name="service_instructions">درباره iflyrec.com</string>
-    <string name="settings_saf_permission">مجوزهای مدیریت فایل</string>
+    <string name="settings_saf_permission">مجوزهای مدیریت فایل‌ها</string>
     <string name="share">هم‌رسانی</string>
     <string name="share_dialog_title">هم‌رسانی به وسیله</string>
     <string name="shortcut_records">موارد ضبط‌ شده</string>
@@ -469,9 +476,9 @@
     <string name="speech_recognition_complete">به نوشتار تبدیل شد</string>
     <string name="speech_recognition_running_tip">"در حال پردازش "</string>
     <string name="start">ادامه</string>
-    <string name="status_bar_back">جهت بازگشت به ضبط‌کننده ضربه بزنید</string>
+    <string name="status_bar_back">برای بازگشت به ضبط کننده ضربه بزنید</string>
     <string name="status_bar_recording">در حال ضبط…</string>
-    <string name="status_bar_recording_pause">ضبط‌کننده متوقف شد</string>
+    <string name="status_bar_recording_pause">ضبط کننده متوقف شد</string>
     <string name="storage_permission_dialog_title">نیازمند مجوز حافظه است</string>
     <string name="sunday">یک‌شنبه</string>
     <string name="sunday_short">یک‌شنبه</string>
@@ -537,6 +544,7 @@
     <string name="the_united_nations_day">روز ملل متحد</string>
     <string name="the_valentines_day">روز ولنتاین</string>
     <string name="the_water_lantern_festival">جشنواره فانوس آبی</string>
+    <string name="this_folder">استفاده از این پوشه</string>
     <string name="thursday">پنج‌شنبه</string>
     <string name="thursday_short">پنج‌شنبه</string>
     <string name="thursday_shortest">پنج‌شنبه</string>

@@ -125,30 +125,10 @@
         <item>همگام‌سازی داده‌های برنامه</item>
         <item>یافتن دستگاه</item>
     </string-array>
-    <string-array name="privacy_dialog_finddevice_runtime_perm_desc">
-        <item>برای شناسایی دستگاه شما</item>
-        <item>برای مکان‌یابی دستگاه شما و تعویض به حالت گم شده</item>
-    </string-array>
     <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
         <item>برای مکان‌یابی دستگاه شما و تعویض به حالت گم شده</item>
         <item>برای مکان‌یابی این دستگاه زتبرای مکان‌یابی این دستگاه زمانی که به اینترنت متصل نیست</item>
         <item>برای دسترسی به شماره تلفن به منظور مکان‌یابی این دستگاه زمانی که به اینترنت متصل نیست</item>
-    </string-array>
-    <string-array name="privacy_dialog_sync_runtime_perm_desc">
-        <item>برای همگام‌سازی رویدادها</item>
-        <item>برای همگام‌سازی پیام‌ها</item>
-        <item>برای همگام‌سازی پیام‌ها</item>
-        <item>برای همگام‌سازی مخاطبین</item>
-        <item>برای همگام‌سازی مخاطبین</item>
-        <item>برای ذخیره موارد در دستگاه شما (مانند تصاویر، ویدئوها، آهنگ‌ها)</item>
-    </string-array>
-    <string-array name="privacy_dialog_sync_runtime_perm_title">
-        <item>دسترسی به رویدادهای سالنامه</item>
-        <item>ارسال پیامک</item>
-        <item>خواندن MMS</item>
-        <item>دسترسی به مخاطبین</item>
-        <item>ویرایش و حذف مخاطبین</item>
-        <item>دسترسی به عکس‌ها و فایل‌های دستگاه</item>
     </string-array>
     <string-array name="settings_search_backup_manage">
         <item>نسخه‌های پشتیبان</item>
@@ -194,11 +174,6 @@
         <item>همگام‌سازی گالری با فضای ابری Xiaomi</item>
         <item>روشن کردن/ایجاد همگام‌سازی</item>
         <item>گالری;عکس‌ها;فضای ابری;همگام‌سازی;خدمات فضای ابری;فضای ابری Xiaomi</item>
-    </string-array>
-    <string-array name="settings_search_music">
-        <item>همگام‌سازی موسیقی با فضای ابری Xiaomi</item>
-        <item>روشن کردن همگام‌سازی</item>
-        <item>موسیقی;فضای ابری;همگام‌سازی;خدمات فضای ابری;فضای ابری Xiaomi</item>
     </string-array>
     <string-array name="settings_search_notes">
         <item>همگام‌سازی یادداشت‌ها با فضای ابری Xiaomi</item>
@@ -279,9 +254,5 @@
         <item>Sync WLAN settings with Xiaomi Cloud</item>
         <item>روشن کردن همگام‌سازی</item>
         <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
-    </string-array>
-    <string-array name="user_detail_fixed_items">
-        <item>دیدن موارد همگام‌سازی شده</item>
-        <item>جزئیات حافظه</item>
     </string-array>
 </resources>

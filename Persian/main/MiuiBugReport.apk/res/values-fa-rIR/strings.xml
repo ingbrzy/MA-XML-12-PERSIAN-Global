@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="access_denied_info">تلاش‌ها بیش از اندازه هستند. چند دقیقه صبر کرده سپس دوباره تلاش کنید.</string>
     <string name="account_bind_secure_email_title">افزودن ایمیل بازیابی</string>
-    <string name="account_bind_secure_phone_title">افزودن شماره تلفن بازیابی</string>
+    <string name="account_bind_secure_phone_title">افزودن شماره بازیابی</string>
     <string name="account_crop_user_avatar">بریدن عکس</string>
     <string name="account_empty_user_name">نام کاربری حساب Mi خود را وارد کنید</string>
-    <string name="account_error_all_space_user_name">نام مستعار نمی‌تواند فقط حاوی فاصله باشد</string>
+    <string name="account_error_all_space_user_name">نام کاربری نمی‌تواند فقط حاوی فاصله باشد</string>
     <string name="account_error_invalid_user_name">نام نمی‌تواند حاوی &lt;, >, یا / باشد</string>
-    <string name="account_error_longer_user_name">نام نباید بیشتر از ۲۰ کاراکتر داشته باشد</string>
-    <string name="account_error_shorter_user_name">نام باید بیشتر از ۲ کاراکتر داشته باشد</string>
+    <string name="account_error_longer_user_name">نام نباید بیشتر از ۲۰ نویسه داشته باشد</string>
+    <string name="account_error_shorter_user_name">نام باید بیشتر از ۲ نویسه داشته باشد</string>
     <string name="account_error_user_birthday">زادروزی که وارد کرده‌اید نامعتبر است</string>
     <string name="account_error_user_name">نام مستعار نامعتبر است. یکی دیگر را انتخاب کنید.</string>
     <string name="account_invalid_user_avatar">این عکس نامعتبر است. یکی دیگر انتخاب کنید.</string>
@@ -29,7 +30,7 @@
     <string name="account_user_name">نام مستعار</string>
     <string name="account_user_name_dialog_title">نام کاربری را وارد کنید</string>
     <string name="account_user_other_info">جزئیات</string>
-    <string name="account_user_phone">تلفن بازیابی</string>
+    <string name="account_user_phone">شماره بازیابی</string>
     <string name="account_user_region">منطقه</string>
     <string name="action_add_phone">افزودن شماره تلفن</string>
     <string name="action_cancel">لغو</string>
@@ -77,12 +78,12 @@
     <string name="catch_full_log_item_title_audio">صدا، صدای تماس و ضبط صدا</string>
     <string name="catch_full_log_item_title_bt">بلوتوث</string>
     <string name="catch_full_log_item_title_camera">دوربین</string>
-    <string name="catch_full_log_item_title_charge">شارژ</string>
+    <string name="catch_full_log_item_title_charge">درحال شارژ</string>
     <string name="catch_full_log_item_title_dump_heap">کند شدن</string>
     <string name="catch_full_log_item_title_gps">خدمات موقعیت</string>
     <string name="catch_full_log_item_title_sensor">حس‌گرها</string>
     <string name="catch_full_log_item_title_signal">تلفن، سیگنال و شبکه‌های موبایل</string>
-    <string name="catch_full_log_item_title_trace">جانک</string>
+    <string name="catch_full_log_item_title_trace">کندی</string>
     <string name="catch_full_log_item_title_wifi">Wi-Fi</string>
     <string name="catch_full_log_item_title_wifi_china">WLAN</string>
     <string name="catch_full_log_notification_content">برای بازگشت به گزارشات ضربه بزنید</string>
@@ -90,11 +91,11 @@
     <string name="catch_full_log_privacy_content_audio">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی اطلاعات درباره صداهای روی دستگاه شما، شامل تاریخچه پخش و تاریخچه ضبط باشند. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی «پذیرفتن» در زیر، شما می‌پذیرید که ما داده‌های بالا را هنگام تولید گزارشات گردآوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
     <string name="catch_full_log_privacy_content_bt">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی اطلاعات مصرف دستگاه بلوتوث (شامل تاریخچه تماس، پیام‌ها، فایل‌های منتقل شده و غیره) باشند. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی «پذیرفتن» در زیر، شما می‌پذیرید که ما داده‌های بالا را هنگام تولید گزارشات گردآوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
     <string name="catch_full_log_privacy_content_camera">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی اطلاعات مصرف دوربین (از جمله فرکانس CPU، تماس سیستم، مصرف حافظه و غیره) باشند. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی «پذیرفتن» در زیر، شما می‌پذیرید که ما داده‌های بالا را هنگام تولید گزارشات گردآوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
-    <string name="catch_full_log_privacy_content_charge">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی اطلاعات شارژ باشند. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی «پذیرفتن» در زیر، شما می‌پذیرید که ما داده‌های بالا را هنگام تولید گزارشات گردآوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
+    <string name="catch_full_log_privacy_content_charge">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی آمار شارژ باشند. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی «پذیرفتن» در زیر، شما می‌پذیرید که ما داده‌های بالا را هنگام تولید گزارشات گردآوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
     <string name="catch_full_log_privacy_content_gps">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی اطلاعات شخصی و اطلاعات موقعیت مکانی شما باشند. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی «پذیرفتن» در زیر، شما می‌پذیرید که ما داده‌های بالا را هنگام تولید گزارشات گردآوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
     <string name="catch_full_log_privacy_content_sensor">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی اطلاعات جمع‌آوری شده توسط حس‌گرهای دستگاه شما (همچون حس‌گر نور محیطی، فشار سنج، گام شمار، مغناطیس سنج و غیره) باشند. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی «پذیرفتن» در زیر، شما می‌پذیرید که ما داده‌های بالا را هنگام تولید گزارشات گردآوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
     <string name="catch_full_log_privacy_content_signal">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی پیام‌ها، تاریخچه تماس، اطلاعات شبکه و داده‌های ارتباطات شما باشند. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی «پذیرفتن» در زیر، شما می‌پذیرید که ما داده‌های بالا را هنگام تولید گزارشات گردآوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
-    <string name="catch_full_log_privacy_content_trace">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی ضبط اجرای برنامه (از جمله فرکانس CPU، تماس سیستم، مصرف حافظه و غیره) باشند. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی «پذیرفتن» در زیر، شما می‌پذیرید که ما داده‌های بالا را هنگام تولید گزارشات گردآوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
+    <string name="catch_full_log_privacy_content_trace">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی آمار مصرف برنامه (از جمله فرکانس CPU، تماس سیستم، مصرف حافظه و غیره) باشند. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی «پذیرفتن» در زیر، شما می‌پذیرید که ما داده‌های بالا را هنگام تولید گزارشات گردآوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
     <string name="catch_full_log_privacy_content_wifi">شما در حال تولید گزارشات ضبط شده در دستگاه خود هستید. گزارشات ممکن است حاوی اطلاعات شخصی، اطلاعات موقعیت و نیز نشانی‌های IP و MAC دستگاه شما باشند. در صورتی که به یک شبکه Wi-Fi رمزگذاری نشده وصل شده‌اید، ممکن است بتوانیم به بخش‌هایی از داده‌های ارتباطاتی شما دسترسی پیدا کنیم. مراقب بوده و این گزارشات را در اختیار دیگران قرار ندهید. با زدن روی «پذیرفتن» در زیر، شما می‌پذیرید که ما داده‌های بالا را هنگام تولید گزارشات گردآوری کرده و سپس به منظور یافتن و حل اشکالاتی که گزارش می‌کنید گزارشات را در سرورهایمان بارگذاری می‌کنیم.</string>
     <string name="catch_full_log_privacy_content_wifi_china">"You're generating logs and saving them on your device. The logs may contain your personal info, location info, as well as the IP and MAC addresses of your device. If you're connected to an unencrypted WLAN network, we might also be able to access parts of your communication data. Be careful and don't disclose these logs to other people. By tapping \"Agree\" below, you're agreeing that we'll collect the above data while generating logs, and then upload the logs to our servers in order to locate and solve the issues you report."</string>
     <string name="catch_full_log_start_dump_hprof">تولید گزارش کندی</string>
@@ -133,6 +134,9 @@
     <string name="discard_draft_dialog_button_discard">صرف‌نظر</string>
     <string name="discard_draft_dialog_content">هر تغییری که در این گزارش ایجاد کرده باشید از دست خواهد رفت.</string>
     <string name="discard_draft_dialog_title">پیش‌نویس دور انداخته شود؟</string>
+    <string name="doing_login">درحال ورود…</string>
+    <string name="doing_query_account">درحال بررسی اطلاعات حساب…</string>
+    <string name="doing_register">درحال ایجاد حساب…</string>
     <string name="early_morning">صبح</string>
     <string name="empty" />
     <string name="eras_ad">میلادی</string>
@@ -334,12 +338,14 @@
     <string name="goon_feedback_main">ادامه</string>
     <string name="goto_sign_up">ایجاد حساب</string>
     <string name="hint_feedback_main">این مسئله را توضیح دهید</string>
-    <string name="i_get_it">Got it</string>
+    <string name="i_get_it">فهمیدم</string>
+    <string name="i_know">فهمیدم</string>
     <string name="identity">شناسایی</string>
     <string name="inconsistent_pwd">گذرواژه‌ها یکسان نیستند</string>
     <string name="input_email_address_notice">ما از این ایمیل برای تایید حساب شما استفاده خواهیم کرد</string>
+    <string name="input_length_exceeds_limit">متنی که وارد کرده‌اید خیلی طولانی است</string>
     <string name="input_new_pwd">گذرواژه جدید را وارد کنید</string>
-    <string name="isornot_your_mi_account">آیا این حساب کاربری Mi شماست؟</string>
+    <string name="isornot_your_mi_account">آیا این حساب Mi شماست؟</string>
     <string name="issue_search">جستجو</string>
     <string name="jump_full_log_dialog_cancel">لغو</string>
     <string name="jump_full_log_dialog_confirm">تولید</string>
@@ -363,6 +369,11 @@
     <string name="kr_authorization_user_protocol">توافق‌نامه کاربر (اجباری)</string>
     <string name="loading">چند لحظه صبر کنید…</string>
     <string name="loading_apps">درحال بارگذاری فهرست…</string>
+    <string name="login_by_local_phone_long_text">ورود به حساب</string>
+    <string name="login_by_local_phone_short_text">ورود به حساب</string>
+    <string name="login_other">حساب Mi دیگر</string>
+    <string name="login_register_by_local_phone_long_text">ایجاد حساب</string>
+    <string name="login_with_sns">راه‌های دیگر برای ورود</string>
     <string name="logo_title">بازخورد</string>
     <string name="logout_account">خروج از حساب</string>
     <string name="menu_copy">کپی</string>
@@ -464,6 +475,8 @@
     <string name="morning">صبح</string>
     <string name="net_error_info">هیچ اتصال شبکه‌ای موجود نیست. اینجا را زده تا به تنظیمات بروید</string>
     <string name="network_err">نمی‌توان به شبکه متصل شد.</string>
+    <string name="network_error_info">یک خطای شبکه رخ داد. تنظیمات شبکه خود را بررسی کرده و سپس دوباره تلاش کنید.</string>
+    <string name="network_timeout_info">به شبکه متصل نشد. دوباره تلاش کنید.</string>
     <string name="network_unavailable_dialog_button_ok">تأیید</string>
     <string name="network_unavailable_dialog_content">گزارش در هنگامی که یک اتصال اینترنت داشته باشید، ارسال خواهد شد.</string>
     <string name="network_unavailable_dialog_title">نمی‌توان به شبکه متصل شد</string>
@@ -476,6 +489,7 @@
     <string name="nothing">--</string>
     <string name="ok">تأیید</string>
     <string name="open_feedback_main">بیشتر</string>
+    <string name="open_settings">تنظیمات</string>
     <string name="passport_access_denied">دسترسی رد شد</string>
     <string name="passport_account_label">حساب Mi</string>
     <string name="passport_account_name">"حساب: %1$s "</string>
@@ -483,6 +497,7 @@
     <string name="passport_area_code_title">کد ناحیه</string>
     <string name="passport_bad_authentication">نام کاربری یا گذرواژه معتبر است</string>
     <string name="passport_barcode_add_account_prompt">برای افزودن یک حساب، بعد از وارد شدن کد QR را دوباره اسکن کنید.</string>
+    <string name="passport_can_not_receive_verification_code">کد تایید دریافت نمی‌شود؟</string>
     <string name="passport_captcha_title">کد امنیتی</string>
     <string name="passport_checking_account">درحال بررسی گذرواژه…</string>
     <string name="passport_close">بستن</string>
@@ -504,7 +519,7 @@
     <string name="passport_error_no_password_user">شما هنوز گذرواژه را تنظیم نکرده‌اید. با پیامک وارد شوید.</string>
     <string name="passport_error_phone_error">شماره تلفن نامعتبر</string>
     <string name="passport_error_server">خطای سرور</string>
-    <string name="passport_error_unknown">خطای نامشخص</string>
+    <string name="passport_error_unknown">خطای ناشناخته</string>
     <string name="passport_error_user_agreement_error">ابتدا همه شرایط و ضوابط را بپذیرید</string>
     <string name="passport_error_user_name">نام کاربری وارد شده نامعتبر است</string>
     <string name="passport_forget_password"><u>گذرواژه را فراموش کرده‌ام</u></string>
@@ -522,7 +537,7 @@
     <string name="passport_login_failed">نمی‌توان وارد شد</string>
     <string name="passport_next">بعدی</string>
     <string name="passport_next_step">بعدی</string>
-    <string name="passport_password_req_notice">گذرواژه باید به طول ۸ تا ۱۶ کاراکتر و ترکیبی از حداقل دو مورد از موارد زیر باشد: اعداد، حروف و نمادهای خاص (مانند: 123abc@# یا 123abc و یا abc@#).</string>
+    <string name="passport_password_req_notice">گذرواژه باید به طول ۸ تا ۱۶ نویسه و ترکیبی از حداقل دو مورد از موارد زیر باشد: اعداد، حروف و نمادهای خاص (مانند: 123abc@# یا 123abc و یا abc@#).</string>
     <string name="passport_querying_phone_info">در حال درخواست اطلاعات حساب…</string>
     <string name="passport_quick_login_dialog_step2_title">تأیید 2 مرحله‌ای</string>
     <string name="passport_quick_login_dialog_title">تأیید گذرواژه</string>
@@ -548,11 +563,11 @@
     <string name="passport_timeout_network_error">مهلت درخواست شبکه پایان یافت</string>
     <string name="passport_trust_device">این دستگاه مورد اعتماد است</string>
     <string name="passport_trying_read_verify_code_sms">درحال دریافت کد تایید…</string>
-    <string name="passport_unknow_error">یک خطای نامشخص روی داد</string>
+    <string name="passport_unknow_error">یک خطای ناشناخته رخ داد</string>
     <string name="passport_unknow_host_network_error">تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید</string>
     <string name="passport_unknow_network_error">خطای شبکه رخ داده است</string>
-    <string name="passport_user_agreement_link">&lt;Data>من &lt;a href=\"%1$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%2$s\">سیاست حفظ حریم خصوصی&lt;/a> Xiaomi را خوانده و می‌پذیریم.&lt;/Data></string>
-    <string name="passport_user_agreement_link_more">&lt;Data>من اسناد زیر را خوانده و می‌پذیرم: &lt;a href=\"%1$s\">توافقنامه کاربر&lt;/a> و &lt;a href=\"%4$s\">سیاست حفظ حریم خصوصی&lt;/a> Xiaomi، &lt;a href=\"%2$s\">\"%3$s\"&lt;/a>.&lt;/Data></string>
+    <string name="passport_user_agreement_link">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> Xiaomi را خوانده و می‌پذیریم.&lt;/Data></string>
+    <string name="passport_user_agreement_link_more">&lt;Data>من اسناد زیر را خوانده و می‌پذیرم: &lt;a href=%1$s>توافقنامه کاربر&lt;/a> و &lt;a href=%4$s>سیاست حفظ حریم خصوصی&lt;/a> Xiaomi، &lt;a href=%2$s>%3$s&lt;/a>.&lt;/Data></string>
     <string name="passport_user_id_intro">گذرواژه را برای %1$s وارد کنید</string>
     <string name="passport_v_code_error">کد تایید اشتباه است</string>
     <string name="passport_vcode_notification_title">تاییدیه ورود شما کامل نشده است</string>
@@ -577,23 +592,33 @@
     <string name="privacy_policy_update_hint">"%1$s Privacy Policy was updated:
 %2$s
 Read and agree to the new version of %3$s before you continue."</string>
-    <string name="privacy_policy_update_title">Updated Privacy Policy</string>
+    <string name="privacy_policy_update_title">سیاست حفظ حریم خصوصی به‌روز شده</string>
+    <string name="progressbar_title">درحال بررسی خطرات امنیتی…</string>
     <string name="psw_hint">گذرواژه</string>
     <string name="psw_sign_in">ورود با استفاده از گذرواژه</string>
     <string name="refresh">تازه‌سازی</string>
+    <string name="register_by_local_phone_long_text">ایجاد حساب</string>
+    <string name="register_by_local_phone_short_text">ایجاد حساب</string>
     <string name="related_question_answer_details">اشکالات مرتبط</string>
     <string name="reply_failed">پاسخ داده نشد</string>
     <string name="reply_option_log_hint">اختیاری</string>
     <string name="reply_select_log_hint">انتخاب گزارش</string>
     <string name="reply_successful">با موفقیت پاسخ داده شد</string>
     <string name="report_miui">گزارش اشکال</string>
+    <string name="request_agree">اجازه دادن</string>
+    <string name="request_camera_permission_message">ما بر اساس قوانین و مقررات مربوطه از اطلاعات شخصی شما محافظت خواهیم کرد. این برنامه برای کارکرد عادی نیاز به مجوزهای زیر دارد:&lt;br>&lt;br>&lt;b>استفاده از دوربین (برای تنظیم عکس نمایه شما)&lt;/b>&lt;br>&lt;br>در صورت نپذیرفتن از دادن چنین مجوزهایی، دیگر نمی‌توانید از برخی از ویژگی‌های این برنامه استفاده کنید؛ به هر حال، ویژگی‌های پایه‌ای آن همچنان برای شما فراهم هست. شما همواره می‌توانید در تنظیمات مجوزها را محدود و یا اجازه خود را بردارید.</string>
+    <string name="request_cancel">لغو</string>
+    <string name="request_error_invalid_token">تأیید نشد</string>
+    <string name="request_error_network">خطای شبکه رخ داد. تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید.</string>
+    <string name="request_error_unknown">خطای سیستم رخ داده است. بازگردید و دوباره تلاش کنید.</string>
+    <string name="request_gallery_permission_message">اجازه دسترسی به گالری:&lt;br />برای تنظیمات عکس‌های نمایه</string>
     <string name="resend_active_email">ارسال دوباره</string>
     <string name="resend_email_reach_limit_message">شما ایمیل‌های تایید زیادی درخواست کرده‌اید. مطمئن شوید ایمیل تایید در پوشه هرزنامه صندوق دریافت شما نیست.</string>
     <string name="resend_email_reach_limit_title">تلاش‌ها بیش از حد مجاز بود</string>
     <string name="resend_email_success">با موفقیت ارسال شد</string>
     <string name="restart_action">آغاز دوباره</string>
     <string name="restart_phone_bind_message">ممکن است دریافت پیام کوتاه کمی زمان ببرد. در هر صورت از نو آغاز شود؟</string>
-    <string name="restart_phone_bind_title">تغییر تلفن بازیابی</string>
+    <string name="restart_phone_bind_title">تغییر شماره بازیابی</string>
     <string name="same_new_and_old_pwd">با گذرواژه کنونی نمی‌تواند یکی باشد</string>
     <string name="saturday">شنبه</string>
     <string name="saturday_short">شنبه</string>
@@ -610,6 +635,7 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="sign_in">درحال ورود</string>
     <string name="sign_in_progress">درحال ورود…</string>
     <string name="sign_in_title">با حساب Mi خود وارد شوید</string>
+    <string name="skip_query_account">رد کردن</string>
     <string name="sms_send_success">با موفقیت ارسال شد</string>
     <string name="sns_access_token_expired_warning">مهلت به پایان رسیده است. برای اتصال دوباره به این حساب، دوباره وارد شوید.</string>
     <string name="sns_bind_limit">تلاش‌ها بیش از حد بودند. راه‌های دیگر را برای ورود انتخاب کنید.</string>
@@ -622,6 +648,7 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="submit_dialog_confirm">پذیرفتن</string>
     <string name="submit_dialog_content">&lt;Data>پیش از ارسال بازخورد، &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> و &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> ما را خوانده و بپذیرید. اشکالاتی که گزارش می‌کنید به همراه مواردی که پیوست می‌کنید (شامل گزارشات که ممکن است دارای اطلاعات شخصی و نیز اطلاعات درباره شبکه و دستگاه شما باشند) در سرورهای MIUI بارگذاری خواهند شد. این کار در مکان‌یابی و حل اشکالاتی که گزارش می‌کنید ما را یاری می‌کند. اگر اشکالاتی که گزارش می‌کنید به چندین دستگاه مربوط است، گزارشات از سایر دستگاه‌هایی که حساب Mi شما مورد استفاده آن‌ها قرار گرفته است نیز بارگذاری خواهد شد.&lt;/Data></string>
     <string name="submit_dialog_content_global">&lt;Data>بازخورد شما همراه با پیوست‌های آن (درصورت داشتن) و گزارشات (می‌توانید تیک مواردی را که نمی‌خواهید بارگذاری شوند را بردارید) به سرورهای MIUI ارسال خواهند شد. گزارشات ممکن است حاوی اطلاعات شخصی و داده‌های موقعیت مکانی شما باشند. انتخاب \"پذیرفتن\" به معنی آن است که شما &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> و &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> ما را خوانده و پذیرفته‌اید.&lt;/Data></string>
+    <string name="submit_dialog_content_global_with_contactinfo">&lt;Data>بازخورد شما همراه با پیوست‌های آن (درصورت داشتن)، رخدادها (می‌توانید تیک مواردی را که نمی‌خواهید بارگذاری شوند را بردارید) و شماره تلفن یا ایمیل (در صورت داشتن) به سرورهای MIUI ارسال خواهند شد. رخدادها ممکن است حاوی اطلاعات شخصی و داده‌های موقعیت مکانی شما باشند. انتخاب «پذیرفتن» به معنی آن است که شما &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> و &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> ما را خوانده و پذیرفته‌اید.&lt;/Data></string>
     <string name="submit_dialog_not_show_again">دوباره نمایش داده نشود</string>
     <string name="submit_dialog_title">ارسال گزارش</string>
     <string name="submit_feedback_info_failed">گزارش ارسال نشد</string>
@@ -634,6 +661,7 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="sunday_short">یک‌شنبه</string>
     <string name="sunday_shortest">یک‌شنبه</string>
     <string name="system_app_select">برنامه‌های داخلی</string>
+    <string name="system_error_info">سیستم مشغول است. چند دقیقه صبر کرده سپس دوباره تلاش کنید.</string>
     <string name="tab_title_chat">پرسش‌های متداول</string>
     <string name="tab_title_my_reports">گزارش‌های من</string>
     <string name="tab_title_preferences">تنظیمات</string>
@@ -725,6 +753,7 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="tuesday">سه‌شنبه</string>
     <string name="tuesday_short">سه‌شنبه</string>
     <string name="tuesday_shortest">سه‌شنبه</string>
+    <string name="unknown_error_info">خطای ناشناخته</string>
     <string name="update_dialog_cancel">لغو</string>
     <string name="update_dialog_confirm">به‌روزرسانی</string>
     <string name="update_dialog_content_log">"موارد تازه:
@@ -737,21 +766,31 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="update_phone_notice">تغییر تنظیمات امنیت</string>
     <string name="upload_error_log">بارگذاری رخدادها</string>
     <string name="upload_log_failed">گزارشات ارسال نشد</string>
+    <string name="user_agreement_hint_3rd_app">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> و &lt;a href=%3$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%4$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi را خوانده و پذیرفته‌ام.&lt;/Data></string>
+    <string name="user_agreement_hint_3rd_app_mobile">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a>، &lt;a href=%3$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%4$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi و همچنین &lt;a href=%5$s>شرایط و ضوابط خدمات تأیید China Mobile&lt;/a> را خوانده و پذیرفته‌ام.&lt;/Data></string>
+    <string name="user_agreement_hint_3rd_app_with_telecom">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a>، &lt;a href=%3$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%4$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi و همچنین &lt;a href=%5$s>شرایط و ضوابط حساب eSurfing&lt;/a> را خوانده و پذیرفته‌ام.&lt;/Data></string>
+    <string name="user_agreement_hint_3rd_app_with_unicom">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a>، &lt;a href=%3$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%4$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi و همچنین &lt;a href=%5$s>شرایط و ضوابط خدمات تأیید China Unicom&lt;/a> را خوانده و پذیرفته‌ام.&lt;/Data></string>
+    <string name="user_agreement_hint_default">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi را خوانده و پذیرفته‌ام.&lt;/Data></string>
+    <string name="user_agreement_hint_first_login">چنانچه نخستین بار است از شماره تلفن خود استفاده می‌کنید، ما برای شما به صورت خودکار حسابی ایجاد خواهیم کرد.</string>
+    <string name="user_agreement_hint_with_mobile">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi و همچنین &lt;a href=%3$s>شرایط و ضوابط خدمات تأیید China Mobile&lt;/a> را خوانده و پذیرفته‌ام.&lt;/Data></string>
+    <string name="user_agreement_hint_with_telecom">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi و همچنین &lt;a href=%3$s>شرایط و ضوابط حساب eSurfing &lt;/a> را خوانده و پذیرفته‌ام.&lt;/Data></string>
+    <string name="user_agreement_hint_with_unicom">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi و همچنین &lt;a href=%3$s>شرایط و ضوابط خدمات تأیید China Unicom&lt;/a> را خوانده و پذیرفته‌ام.&lt;/Data></string>
     <string name="user_avatar_update_title">تغییر عکس نمایه</string>
     <string name="user_avatar_uploading">چند لحظه صبر کنید…</string>
     <string name="user_id_hint">ایمیل/تلفن/شناسه حساب Mi</string>
-    <string name="user_must_known">Attention</string>
-    <string name="user_must_known_content">"You won't be able to keep using our services unless you agree to the new version of our %s. Agree to the updated Privacy Policy now?"</string>
+    <string name="user_must_known">توجه</string>
+    <string name="user_must_known_content">تا زمانی که نسخه جدید %s ما را نپذیرید، نمی‌توانید به استفاده از خدمات ما ادامه دهید. سیاست حفظ حریم خصوصی به‌روز شده را می‌پذیرید؟</string>
+    <string name="user_name_phone_number">شماره تلفن</string>
     <string name="v_code_title">کد تأیید را وارد کنید</string>
     <string name="wednesday">چهارشنبه</string>
     <string name="wednesday_short">چهارشنبه</string>
     <string name="wednesday_shortest">چهارشنبه</string>
-    <string name="withdraw">Withdraw</string>
-    <string name="withdraw_consent">Withdrawal of consent</string>
-    <string name="withdraw_consent_failed">"Couldn't withdraw consent"</string>
-    <string name="withdraw_consent_failed_hint">A server error occurred. Wait a minute or two and try again.</string>
-    <string name="withdraw_consent_failed_hint_connect_net">Your device needs to connect to the network for you to be able to withdraw consent. Check your network settings and try again.</string>
-    <string name="withdraw_consent_hint">"If you continue, you'll withdraw your consent to the Privacy Policy of %1$s. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As %2$s provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept %3$s services. Withdraw consent now?"</string>
-    <string name="withdrawing">Withdrawing consent…</string>
+    <string name="withdraw">پس گرفتن</string>
+    <string name="withdraw_consent">پس گرفتن رضایت</string>
+    <string name="withdraw_consent_failed">رضایت پس گرفته نشد</string>
+    <string name="withdraw_consent_failed_hint">یک خطای سرور رخ داده است. چند دقیقه صبر کرده و سپس دوباره تلاش کنید.</string>
+    <string name="withdraw_consent_failed_hint_connect_net">برای پس گرفتن رضایت شما، دستگاهتان نیاز به اتصال به شبکه دارد. تنظیمات شبکه را بررسی کرده و سپس دوباره تلاش کنید.</string>
+    <string name="withdraw_consent_hint">در صورت ادامه، رضایت خود را نسبت به سیاست حفظ حریم خصوصی %1$s بر می‌دارید. اطلاعات شخصی که تا کنون گردآوری و نگهداری شده‌اند بر اساس قوانین و مقررات قابل اجرا در مدت زمان مشخص حذف خواهند شد، مگر این‌که به شکل دیگری نیاز باشد. از آن‌جا که %2$s خدمات خود را بر اساس گردآوری اطلاعات شخصی لازم ارائه می‌دهد، پس گرفتن رضایت شما به منزله خودداری از پذیرش خدمات %3$s خواهد بود. رضایت پس گرفته شود؟</string>
+    <string name="withdrawing">درحال پس گرفتن رضایت…</string>
     <string name="yesterday">دیروز</string>
 </resources>

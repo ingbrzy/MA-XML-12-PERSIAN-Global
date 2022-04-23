@@ -70,7 +70,7 @@
     <string name="friday">جمعه</string>
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
-    <string name="i_get_it">Got it</string>
+    <string name="i_get_it">فهمیدم</string>
     <string name="icon_add_description">افزودن میان‌بر صفحه اصلی</string>
     <string name="icon_remove_confirm">حذف</string>
     <string name="icon_remove_description_content">«خدمات و بازخورد» یک برنامه سیستمی است. پس از حذف میانبر صفحه اصلی، همچنان می‌توانید از طریق تنظیمات از آن استفاده کنید.</string>
@@ -156,6 +156,9 @@
     <string name="miui_feedback_edit_toast_screenshot_too_large">تصاویر یا ویدئوهای بزرگ‌تر از ۱۰۰مگابایت بارگذاری نمی‌شوند</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">نام برنامه را وارد کنید</string>
     <string name="miui_feedback_main_answer_title">برای این پرسش پاسخی هست</string>
+    <string name="miui_feedback_main_customer_service_onfo_for_jp">"تماس مستقیم‏: ۰۱۲۰-۳۰۰-۵۲۱
+ساعات کاری: ۹:۰۰ تا ۱۸:۰۰ (به جز روزهای تعطیلی بانکی و از پیش تعیین شده)
+ایمیل: service.jp@xiaomi.com"</string>
     <string name="miui_feedback_main_frequent_question_title">پرسش‌های متداول</string>
     <string name="miui_feedback_main_item_catch_full_log">دریافت رخدادها</string>
     <string name="miui_feedback_main_item_customer_service">خدمات پس از فروش</string>
@@ -312,7 +315,7 @@
     <string name="privacy_policy_update_hint">"%1$s Privacy Policy was updated:
 %2$s
 Read and agree to the new version of %3$s before you continue."</string>
-    <string name="privacy_policy_update_title">Updated Privacy Policy</string>
+    <string name="privacy_policy_update_title">سیاست حفظ حریم خصوصی به‌روز شده</string>
     <string name="public_authorize_now">تنظیمات</string>
     <string name="public_loading_text">چند لحظه صبر کنید…</string>
     <string name="public_net_error_retry">تلاش دوباره</string>
@@ -379,14 +382,14 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="tuesday">سه‌شنبه</string>
     <string name="tuesday_short">سه‌شنبه</string>
     <string name="tuesday_shortest">سه‌شنبه</string>
-    <string name="user_must_known">Attention</string>
-    <string name="user_must_known_content">"You won't be able to keep using our services unless you agree to the new version of our %s. Agree to the updated Privacy Policy now?"</string>
+    <string name="user_must_known">توجه</string>
+    <string name="user_must_known_content">تا زمانی که نسخه جدید %s ما را نپذیرید، نمی‌توانید به استفاده از خدمات ما ادامه دهید. سیاست حفظ حریم خصوصی به‌روز شده را می‌پذیرید؟</string>
     <string name="wednesday">چهارشنبه</string>
     <string name="wednesday_short">چهارشنبه</string>
     <string name="wednesday_shortest">چهارشنبه</string>
-    <string name="withdraw_consent_failed">"Couldn't withdraw consent"</string>
-    <string name="withdraw_consent_failed_hint">A server error occurred. Wait a minute or two and try again.</string>
-    <string name="withdraw_consent_failed_hint_connect_net">Your device needs to connect to the network for you to be able to withdraw consent. Check your network settings and try again.</string>
-    <string name="withdrawing">Withdrawing consent…</string>
+    <string name="withdraw_consent_failed">رضایت پس گرفته نشد</string>
+    <string name="withdraw_consent_failed_hint">یک خطای سرور رخ داده است. چند دقیقه صبر کرده و دوباره تلاش کنید.</string>
+    <string name="withdraw_consent_failed_hint_connect_net">برای پس گرفتن رضایت شما، دستگاهتان نیاز به اتصال به شبکه دارد. تنظیمات شبکه را بررسی کرده و سپس دوباره تلاش کنید.</string>
+    <string name="withdrawing">درحال پس گرفتن رضایت…</string>
     <string name="yesterday">دیروز</string>
 </resources>

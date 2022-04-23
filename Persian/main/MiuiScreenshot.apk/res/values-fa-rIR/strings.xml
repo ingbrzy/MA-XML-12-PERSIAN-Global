@@ -7,9 +7,11 @@
     <string name="actionbar_button_up_description">بازگشت</string>
     <string name="afternoon">بعد از ظهر</string>
     <string name="am">ق.ظ</string>
-    <string name="app_name">عکس از صفحه</string>
+    <string name="app_name">عکس صفحه</string>
+    <string name="can_drag">برای وارد کردن یا ارسال بکشید</string>
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
     <string name="close">بستن</string>
+    <string name="custom_define_permission_desc_android.permission_group.STORAGE">برای ذخیره عکس‌های صفحه</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -75,12 +77,16 @@
     <string name="friday">جمعه</string>
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
+    <string name="long_screenshot_error">خطایی رخ داد. دوباره تلاش کنید.</string>
     <string name="long_screenshot_guide_text">"برای گرفتن طومار
 عکس ضربه بزنید"</string>
+    <string name="long_screenshot_intercepted_error">عکس صفحه گرفته نشد. دوباره تلاش کنید.</string>
     <string name="long_screenshot_out_of_memory_error">تصویر خیلی بزرگ است</string>
     <string name="long_screenshot_processing">درحال پردازش…</string>
+    <string name="long_screenshot_processing_description_accessibility">در حال پردازش</string>
     <string name="long_screenshot_stop">انجام شد</string>
     <string name="long_screenshot_top_msg">درحال ایجاد عکس صفحه…</string>
+    <string name="long_screenshot_top_msg_description_accessibility">درحال ایجاد عکس صفحه</string>
     <string name="long_screenshot_top_msg_manual">عکس صفحه را برش داده و دکمه را زده تا تمام شود</string>
     <string name="midnight">شب</string>
     <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
@@ -160,11 +166,13 @@
     <string name="saturday">شنبه</string>
     <string name="saturday_short">شنبه</string>
     <string name="saturday_shortest">شنبه</string>
+    <string name="save_success">با موفقیت ذخیره شد</string>
     <string name="screenshot_edit">ویرایش</string>
     <string name="screenshot_failed_in_landscape_mode">در حالت افقی عکس صفحه طوماری گرفته نمی‌شود</string>
     <string name="screenshot_feedback_txt">بازخورد</string>
     <string name="screenshot_insert_failed">عکس صفحه بارگذاری نشد. یک عکس جدید گرفته یا تصویر را در گالری مشاهده کنید.</string>
     <string name="screenshot_long_screenshot">طومار</string>
+    <string name="screenshot_save">ذخیره</string>
     <string name="screenshot_send">ارسال</string>
     <string name="screenshot_thumbnail">عکس صفحه کوچک</string>
     <string name="send">ارسال</string>

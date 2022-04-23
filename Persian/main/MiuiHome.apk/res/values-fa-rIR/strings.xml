@@ -33,7 +33,7 @@
     <string name="all_app_category_default">دسته‌‌بندی</string>
     <string name="all_app_category_entertainment">سرگرمی</string>
     <string name="all_app_category_finance_business">مالی و کسب و کار</string>
-    <string name="all_app_category_games">بازی‌ها</string>
+    <string name="all_app_category_games">بازی</string>
     <string name="all_app_category_knowledge_education">دانش و آموزش</string>
     <string name="all_app_category_lifestyle">سبک زندگی</string>
     <string name="all_app_category_news_reading">اخبار و خواندنی‌ها</string>
@@ -102,7 +102,7 @@
     <string name="app_category_education">آموزش</string>
     <string name="app_category_entertainment">سرگرمی</string>
     <string name="app_category_finance">امور مالی</string>
-    <string name="app_category_games">بازی‌ها</string>
+    <string name="app_category_games">بازی</string>
     <string name="app_category_health">سلامت</string>
     <string name="app_category_lifestyle">سبک زندگی</string>
     <string name="app_category_music_movie">تلویزیون و موسیقی</string>
@@ -132,7 +132,7 @@
     <string name="auto_add_app_shortcut">برنامه‌های جدید را روی صفحه اصلی قرار دهید</string>
     <string name="auto_delete_category_dialog_content">برنامه‌های کنونی از این دسته‌بندی حذف و دسته‌بندی نیز حذف خواهد شد. این دسته‌نبدی حذف شود؟</string>
     <string name="auto_delete_category_dialog_title">حذف دسته‌بندی</string>
-    <string name="auto_disable_screenbuttons_summary">برای فعال کردن دوباره، روی هر دکمه جهت‌یابی دو بار ضربه بزنید</string>
+    <string name="auto_disable_screenbuttons_summary">غیرفعال‌سازی خودکار دکمه‌های پیمایش هنگامی که نوار وضعیت نمایش داده نمی‌شود. برای فعال‌سازی دوباره روی هر کدام از دکمه‌های پیمایش دو بار بزنید.</string>
     <string name="auto_disable_screenbuttons_title">غیرفعال کردن خودکار دکمه‌های پیمایش</string>
     <string name="back">بازگشت</string>
     <string name="backup_fail">از لانچر نسخه پشتیبان گرفته نشد</string>
@@ -193,7 +193,7 @@
     <string name="date_time_picker_dialog_title">تنظیم تاریخ و ساعت</string>
     <string name="defalut_launcher_title">لانچر پیش‌فرض</string>
     <string name="default_folder_title_claro">Claro</string>
-    <string name="default_folder_title_game">بازی‌ها</string>
+    <string name="default_folder_title_game">بازی</string>
     <string name="default_folder_title_hot">برنامه‌های پرطرفدار</string>
     <string name="default_folder_title_meitu">برنامه‌های Meitu</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
@@ -431,6 +431,7 @@
     <string name="menu_launcher_setting">تنظیمات لانچر</string>
     <string name="menu_lock">قفل کردن چیدمان صفحه اصلی</string>
     <string name="menu_more">بیشتر</string>
+    <string name="menu_no_word">متن نمایش داده نشود</string>
     <string name="menu_picktheme">یک تم انتخاب کنید</string>
     <string name="menu_reset_scene">تنظیم دوباره به طرح پیش‌فرض</string>
     <string name="menu_search">جستجو</string>
@@ -443,6 +444,7 @@
     <string name="midnight">شب</string>
     <string name="minus_one_screen">قفسه برنامه</string>
     <string name="miui_screen_config_title">تنظیمات صفحه اصلی</string>
+    <string name="miuix_access_state_desc">انتخاب شده</string>
     <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
     <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
@@ -633,6 +635,11 @@
     <string name="recents_title_market">جستجوی برنامه‌ها</string>
     <string name="recents_title_security_scan">اسکن امنیتی</string>
     <string name="recents_tv_small_window_text">پنجره‌های شناور</string>
+    <string name="recents_worldcirculate_text">برای انتخاب رها کنید</string>
+    <string name="recnets_worldcirculate_button_text">Mi Smart Hub</string>
+    <string name="recnets_worldcirculate_display_computer_info">این برنامه در %s درحال کار کردن است.</string>
+    <string name="recnets_worldcirculate_display_default_info">ضربه زده تا به اینجا بازگردانده شود.</string>
+    <string name="recnets_worldcirculate_display_pad_info">این برنامه در %s درحال کار کردن است.</string>
     <string name="recommend_apk_size_and_desc">%1$dمگابایت | %2$s</string>
     <string name="recommend_app">پیشنهادات برنامه</string>
     <string name="recommend_apps_default_title">خالی</string>

@@ -21,6 +21,7 @@
     <string name="alert_message_delete_excerpt">این یادداشت حذف شود؟ گزیده نیز حذف خواهد شد.</string>
     <string name="alert_message_delete_note">این یادداشت حذف شود؟</string>
     <string name="alert_message_edit_anyway">اگر این یادداشت را ویرایش کنید، ممکن است برخی محتویات آن از بین برود.</string>
+    <string name="alert_message_edit_anyway_new">این یادداشت دارای محتویات پشتیبانی نشده است، ویرایش آن ممکن است باعث تغییر فرمت یا از دست دادن اطلاعات شود.</string>
     <string name="alert_message_restore">این یادداشت باز نشد. آن را بازیابی کرده تا محتوای آن را ویرایش کنید.</string>
     <string name="alert_title_delete">حذف یادداشت</string>
     <string name="alert_title_edit_anyway">این یادداشت حاوی مطالب پشتیبانی نشده است</string>
@@ -41,7 +42,7 @@
     <string name="audio_create_will_cancel_state">رها کنید تا لغو شود</string>
     <string name="audio_dialog_mode_meeting">حالت جلسه (بتا)</string>
     <string name="audio_dialog_mode_meeting_exit">خیر، سپاسگزارم</string>
-    <string name="audio_dialog_mode_meeting_sum">حالت ملاقات به شما امکان می‌دهد صدای حداکثر 4 نفر مختلف را تشخیص دهید. برخی از خطاهای تشخیص ممکن است در نسخه بتا رخ دهد.</string>
+    <string name="audio_dialog_mode_meeting_sum">حالت جلسه به شما این امکان را می‌دهد تا صداهای %1$d تا %2$d فرد مختلف را تشخیص دهید. ممکن است در نگارش بتا برخی اشکالات تشخیص رخ دهد.</string>
     <string name="audio_dialog_mode_meeting_use">آغاز</string>
     <string name="audio_panel_time_counter_default">۰۰:۰۰</string>
     <string name="audio_toast_file_invalid">فایل صوتی معتبر نیست</string>
@@ -169,6 +170,7 @@
     <string name="error_send_empty_note">یادداشت خالی را نمی‌توان ارسال کرد</string>
     <string name="error_send_empty_note_to_weibo">یادداشت خالی را نمی‌توان به Weibo ارسال کرد</string>
     <string name="error_unsupport_content">این یادداشت دارای محتویات پشتیبانی نشده است، ضربه بزنید تا به‌روزرسانی شود</string>
+    <string name="error_unsupport_content_format">این یادداشت حاوی محتوای پشتیبانی نشده است. به نسخه %1$s یا جدیدتر به‌روزرسانی کنید.</string>
     <string name="error_widget_exist_for_send_to_desktop">این یادداشت در حال حاضر روی صفحه اصلی شما قرار دارد</string>
     <string name="evening">بعد از ظهر</string>
     <string name="exceed_todo_text_limitation">توضیحات کار بسیار طولانی است.</string>
@@ -287,6 +289,7 @@
     <string name="menu_create_folder">پوشه جدید</string>
     <string name="menu_delete">حذف</string>
     <string name="menu_delete_forever">حذف برای همیشه</string>
+    <string name="menu_edit">ویرایش</string>
     <string name="menu_folders">پوشه‌ها</string>
     <string name="menu_group">ایجاد پوشه</string>
     <string name="menu_hide">پنهان کردن</string>
@@ -467,10 +470,12 @@
     <string name="note_mindnote_entrance_hint_newversion">"تایپ کردن را آغاز کنید "</string>
     <string name="note_mindnote_entrance_icon_text">یک نقشه ذهنی ایجاد کنید</string>
     <string name="note_mindnote_entrance_icon_text_newversion">یک نقشه ذهنی ایجاد کنید</string>
+    <string name="note_module_name">یادداشت‌ها</string>
     <string name="note_not_text_stub">بدون متن</string>
     <string name="note_sort_way">چینش</string>
     <string name="notealert_enter">بازکردن یادداشت</string>
     <string name="notealert_ok">نادیده گرفتن</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">یادداشت‌ها یک برنامه‌ی سیستمی است. پس از حذف برنامه دیگر نمی‌توانید از آن استفاده کنید.</string>
     <string name="notes_description_title">یادداشت‌ها حذف شود؟</string>
     <string name="notification_content_add_todo_from_other_app">یک کار جدید افزودید. برای نمایش ضربه بزنید.</string>
@@ -625,6 +630,13 @@
     <string name="select_account_prompt">همگام‌سازی یادداشت‌ها</string>
     <string name="send">ارسال</string>
     <string name="set_alarm_description">تنظیم هشدار</string>
+    <string name="setting_big_screen_layout_columns">نوار کناری</string>
+    <string name="setting_big_screen_layout_flat">آجر کاشی</string>
+    <string name="setting_big_screen_layout_title">چیدمان صفحه باز</string>
+    <string name="setting_cloud_service">خدمات فضای ابری</string>
+    <string name="setting_layout">طرح</string>
+    <string name="setting_micloud_sync_title">فضای ابری Xiaomi</string>
+    <string name="setting_note_list_layout_title">طرح</string>
     <string name="setting_other">سایر</string>
     <string name="setting_privacy">سیاست حفظ حریم خصوصی</string>
     <string name="single_link_excerpt_saving">درحال ذخیره موارد…</string>
@@ -844,6 +856,15 @@
     <string name="undo">بازگرداندن</string>
     <string name="unknown_source">منبع ناشناس</string>
     <string name="view_all_notes">نمایش همه</string>
+    <string name="warn_cannot_add_new_bullet">نمی‌توان فهرست نامنظم جدیدی اضافه کرد زیرا یادداشت بیش از حد طولانی است</string>
+    <string name="warn_cannot_add_new_checkbox">نمی‌توان کادر انتخاب جدید را افزود، زیرا یادداشت بسیار طولانی است</string>
+    <string name="warn_cannot_add_new_doodle">نمی‌توان خطخطی جدیدی اضافه کرد زیرا یادداشت بیش از حد طولانی است</string>
+    <string name="warn_cannot_add_new_element">نمی‌توان مورد جدیدی اضافه کرد زیرا یادداشت بیش از حد طولانی است</string>
+    <string name="warn_cannot_add_new_link_card">نمی‌توان پیوند جدیدی اضافه کرد زیرا یادداشت بیش از حد طولانی است</string>
+    <string name="warn_cannot_add_new_picture">نمی‌توان تصویر جدیدی اضافه کرد زیرا یادداشت بیش از حد طولانی است</string>
+    <string name="warn_cannot_add_new_style">نمی‌توان قالب جدیدی اضافه کرد زیرا یادداشت بیش از حد طولانی است</string>
+    <string name="warn_disable_edit_in_browse_mode">در حالت فقط خواندنی نمی‌توانید یادداشت‌ها را ویرایش کنید</string>
+    <string name="warn_enter_browse_mode">شما در حالت فقط خواندنی هستید</string>
     <string name="web_sso_login_fail">باید دوباره وارد شوید</string>
     <string name="web_sso_login_message">درحال ورود…</string>
     <string name="webview_reload">دوباره تلاش کنید</string>

@@ -9,6 +9,7 @@
     <string name="captcha">کد امنیتی</string>
     <string name="change_find_device_status_failed">قفل باز نشد. %s.</string>
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
+    <string name="close">بستن</string>
     <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">برای دسترسی به شماره تلفن به منظور مکان‌یابی این دستگاه زمانی که به اینترنت متصل نیست</string>
     <string name="custom_define_permission_desc_android.permission.SEND_SMS">برای مکان‌یابی این دستگاه زمانی که به اینترنت متصل نیست</string>
     <string name="custom_define_permission_desc_android.permission_group.LOCATION">برای مکان‌یابی دستگاه شما و تعویض به حالت گم شده</string>
@@ -57,6 +58,8 @@
     <string name="find_device_storage_corrupted">حافظه یافتن دستگاه خراب شده است. دستگاه شما اکنون ایمن نیست.</string>
     <string name="find_device_success_title">یافتن دستگاه روشن است</string>
     <string name="find_device_telephony_fault">یافتن دستگاه: خطای تلفنی (%s).</string>
+    <string name="fmt_chinese_date">N月e</string>
+    <string name="fmt_date">D</string>
     <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
@@ -72,7 +75,11 @@
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_time">D T</string>
+    <string name="fmt_date_time_timezone">D T z</string>
+    <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
+    <string name="fmt_time">T</string>
     <string name="fmt_time_12hour">hh</string>
     <string name="fmt_time_12hour_minute">hh:mm</string>
     <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
@@ -91,8 +98,18 @@
     <string name="fmt_time_minute_second_millis">m:s.S</string>
     <string name="fmt_time_second">s</string>
     <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time_timezone">T z</string>
+    <string name="fmt_timezone">z</string>
+    <string name="fmt_weekday">W</string>
+    <string name="fmt_weekday_date">W, D</string>
+    <string name="fmt_weekday_date_time">W, D T</string>
+    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
+    <string name="fmt_weekday_date_timezone">W, D z</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_weekday_short">E</string>
+    <string name="fmt_weekday_time">W T</string>
+    <string name="fmt_weekday_time_timezone">W T z</string>
+    <string name="fmt_weekday_timezone">W z</string>
     <string name="friday">جمعه</string>
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
@@ -183,6 +200,7 @@
     <string name="saturday">شنبه</string>
     <string name="saturday_short">شنبه</string>
     <string name="saturday_shortest">شنبه</string>
+    <string name="send">ارسال</string>
     <string name="stop_on_empty_captcha">کد امنیتی نمیتواند خالی باشد</string>
     <string name="stop_on_empty_password">گذرواژه نمیتواند خالی باشد</string>
     <string name="sunday">یک‌شنبه</string>
@@ -192,6 +210,9 @@
     <string name="sys_notification_async_open_failed_title">یافتن دستگاه روشن نشد</string>
     <string name="sys_notification_async_verify_content">بر اساس سیاست امنیت به‌روز شده ما، لازم است یافتن دستگاه دوباره فعال شود.</string>
     <string name="sys_notification_async_verify_title">فعال‌سازی دوباره یافتن دستگاه</string>
+    <string name="talkback_back">بازگشت</string>
+    <string name="talkback_hide_pwd">پنهان کردن گذرواژه</string>
+    <string name="talkback_show_pwd">نمایش گذرواژه</string>
     <string name="the_anniversary_of_lifting_martial_law">سالگرد لغو حکومت نظامی</string>
     <string name="the_anti_aggression_day">روز ضد پرخاشگری</string>
     <string name="the_arbor_day">روز درخت‌کاری</string>

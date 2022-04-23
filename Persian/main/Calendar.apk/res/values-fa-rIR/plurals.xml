@@ -60,6 +60,10 @@
         <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">۱ دقیقه پیش</item>
     </plurals>
+    <plurals name="after_num_minutes">
+        <item quantity="other">تا %d دقیقه دیگر</item>
+        <item quantity="one">تا %d دقیقه دیگر</item>
+    </plurals>
     <plurals name="anniversary_day">
         <item quantity="other">%1$s روز</item>
         <item quantity="one">%1$s روز</item>
@@ -188,6 +192,10 @@
         <item quantity="other">" روز"</item>
         <item quantity="one">" روز"</item>
     </plurals>
+    <plurals name="other_num_events">
+        <item quantity="other">%d رویداد دیگر</item>
+        <item quantity="one">%d رویداد دیگر</item>
+    </plurals>
     <plurals name="repeat_custom_prompt">
         <item quantity="other">هر %1$s در %2$s</item>
         <item quantity="one">هر %1$s در %2$s</item>
@@ -236,11 +244,39 @@
         <item quantity="other">تخمین زده می‌شود روز %1$d دوره باشد</item>
         <item quantity="one">تخمین زده می‌شود روز %1$d دوره باشد</item>
     </plurals>
+    <plurals name="today_has_num_event">
+        <item quantity="other">%d رویداد برای امروز</item>
+        <item quantity="one">%d رویداد برای امروز</item>
+    </plurals>
     <plurals name="travel_eta_advice">
         <item quantity="other">%2$s دقیقه رانندگی تا %1$s.</item>
         <item quantity="one">%2$s دقیقه رانندگی تا %1$s.</item>
     </plurals>
     <plurals name="weekN">
+        <item quantity="other">هفته %d</item>
+        <item quantity="one">هفته %d</item>
+    </plurals>
+    <plurals name="widget_countdown_day">
+        <item quantity="other">%1$s روز</item>
+        <item quantity="one">%1$s روز</item>
+    </plurals>
+    <plurals name="widget_custom_unit_day">
+        <item quantity="other">%d روز</item>
+        <item quantity="one">%d روز</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_going_counts">
+        <item quantity="other">‏%d رویداد درحال انجام</item>
+        <item quantity="one">‏%d رویداد درحال انجام</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_next_minutes">
+        <item quantity="other">‏%d دقیقه دیگر تا رویداد بعدی</item>
+        <item quantity="one">‏%d دقیقه دیگر تا رویداد بعدی</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_tomorrow_total">
+        <item quantity="other">%d رویداد برای فردا</item>
+        <item quantity="one">%d رویداد برای فردا</item>
+    </plurals>
+    <plurals name="widget_weekN">
         <item quantity="other">هفته %d</item>
         <item quantity="one">هفته %d</item>
     </plurals>

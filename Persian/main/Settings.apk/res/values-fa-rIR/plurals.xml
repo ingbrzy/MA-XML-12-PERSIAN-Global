@@ -1,5 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">۱ ساعت پیش</item>
+        <item quantity="one">۱ ساعت پیش</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">۱ ساعت پیش</item>
+        <item quantity="one">۱ ساعت پیش</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">نیم ساعت پیش</item>
+        <item quantity="one">نیم ساعت پیش</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">در ۱ ساعت</item>
+        <item quantity="one">در ۱ ساعت</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">در نیم ساعت</item>
+        <item quantity="one">در نیم ساعت</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">بلافاصله</item>
+        <item quantity="one">بلافاصله</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">در %d دقیقه</item>
+        <item quantity="one">در ۱ دقیقه</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">هم اکنون</item>
+        <item quantity="one">هم اکنون</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d دقیقه پیش</item>
+        <item quantity="one">۱ دقیقه پیش</item>
+    </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">هرگز برای %d برنامه غیرفعال نشود</item>
         <item quantity="one">هرگز برای %d برنامه غیرفعال نشود</item>
@@ -24,6 +60,10 @@
         <item quantity="other">%d دستگاه موجود</item>
         <item quantity="one">%d دستگاه موجود</item>
     </plurals>
+    <plurals name="color_game_led_freq_entries">
+        <item quantity="other">هر %d ثانیه</item>
+        <item quantity="one">هر %d ثانیه</item>
+    </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">%d دستگاه</item>
         <item quantity="one">%d دستگاه</item>
@@ -35,6 +75,30 @@
     <plurals name="free_wifi_connected_count">
         <item quantity="other">%1$d نفر وصل شدند</item>
         <item quantity="one">%1$d نفر وصل شد</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">نیم ساعت پیش</item>
+        <item quantity="one">نیم ساعت پیش</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">در ۱ ساعت</item>
+        <item quantity="one">در ۱ ساعت</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">در نیم ساعت</item>
+        <item quantity="one">در نیم ساعت</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">بلافاصله</item>
+        <item quantity="one">بلافاصله</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">در %d دقیقه</item>
+        <item quantity="one">در ۱ دقیقه</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">هم اکنون</item>
+        <item quantity="one">هم اکنون</item>
     </plurals>
     <plurals name="lockpassword_password_too_long">
         <item quantity="other">شما می‌توانید تا %d کاراکتر وارد کنید</item>
@@ -75,6 +139,14 @@
     <plurals name="miui_wifi_wakeup_summary">
         <item quantity="other">Wi-Fi هنگام شناسایی شبکه‌های ذخیره شده نزدیک به صورت خودکار روشن شده و چنانچه پس از %d دقیقه اتصال برقرار نشود خاموش خواهد شد.</item>
         <item quantity="one">Wi-Fi هنگام شناسایی شبکه‌های ذخیره شده نزدیک به صورت خودکار روشن شده و چنانچه پس از %d دقیقه اتصال برقرار نشود خاموش خواهد شد.</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d مورد انتخاب شد</item>
+        <item quantity="one">%d مورد انتخاب شد</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d دقیقه پیش</item>
+        <item quantity="one">۱ دقیقه پیش</item>
     </plurals>
     <plurals name="saved_network_checked_num">
         <item quantity="other">%d مورد انتخاب شد</item>
@@ -177,8 +249,8 @@
         <item quantity="one">%d خطر یافت شد</item>
     </plurals>
     <plurals name="wifi_share_count">
-        <item quantity="other">%d شبکه همرسانی شد</item>
-        <item quantity="one">%d شبکه همرسانی شد</item>
+        <item quantity="other">%d شبکه هم‌رسانی شد</item>
+        <item quantity="one">%d شبکه هم‌رسانی شد</item>
     </plurals>
     <plurals name="wifi_tether_connected_summary">
         <item quantity="other">%1$d دستگاه وصل است</item>

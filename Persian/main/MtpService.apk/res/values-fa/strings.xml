@@ -27,7 +27,12 @@
     <string name="abc_shareactionprovider_share_with">هم‌رسانی با</string>
     <string name="abc_shareactionprovider_share_with_application">هم‌رسانی با %s</string>
     <string name="abc_toolbar_collapse_description">کوچک کردن</string>
-    <string name="common_google_play_services_unknown_issue">‏%1$s برای استفاده از خدمات Google Play با مشکل روبرو است. لطفاً دوباره امتحان کنید.</string>
+    <string name="accessing_notification_title">دسترسی به فایل‌ها از %1$s</string>
+    <string name="app_label">‏میزبان MTP</string>
+    <string name="downloads_app_label">بارگیری‌ها</string>
+    <string name="error_busy_device">دستگاه دیگر مشغول است. تا زمانی که این دستگاه دردسترس قرار نگیرد نمی‌توانید فایل‌ها را منتقل کنید.</string>
+    <string name="error_locked_device">فایلی پیدا نشد. دستگاه دیگر ممکن است قفل باشد. اگر این‌طور است، قفل آن را باز کنید و دوباره تلاش کنید.</string>
+    <string name="root_name">%1$s %2$s</string>
     <string name="search_menu_title">جستجو</string>
     <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

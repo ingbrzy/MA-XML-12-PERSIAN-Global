@@ -10,6 +10,7 @@
     <string name="add_clock">افزودن ساعت</string>
     <string name="add_common_timer">افزودن زمان‌سنج</string>
     <string name="add_timer">زمان‌سنج پر استفاده</string>
+    <string name="add_timer_dialog_title">افزودن زمان‌سنج</string>
     <string name="add_timezone_title">افزودن زمان محلی</string>
     <string name="afternoon">بعد از ظهر</string>
     <string name="agree">پذیرفتن</string>
@@ -408,6 +409,10 @@
     <string name="reach_upper_limit">زمان‌سنج بیشتری افزوده نمی‌شود</string>
     <string name="read_external_storage_permission_desc">برای تنظیم صداهای زنگ سفارشی</string>
     <string name="read_internal_storage">دسترسی به حافظه</string>
+    <string name="read_phone_state">دسترسی به اطلاعات دستگاه</string>
+    <string name="read_phone_state_desc">دسترسی به وضعیت تماس هنگام به صدا در آمدن هشدار</string>
+    <string name="read_phone_state_desc_when_request">برای دسترسی به وضعیت تماس‌ها و مکث خودکار هشدارها هنگام دریافت تماس‌ها</string>
+    <string name="remark_hint">برچسب را وارد کنید</string>
     <string name="remind_ringtone">آهنگ زنگ</string>
     <string name="repeat_count">دفعات</string>
     <string name="repeat_count_value_five">۵</string>
@@ -451,6 +456,8 @@
     <string name="shortcut_new_alarm">تنظیم هشدار</string>
     <string name="shortcut_start_timer">آغاز زمان‌سنج</string>
     <string name="shortcut_stop_watch">آغاز کرنومتر</string>
+    <string name="show_life_post_desc">در صورت خاموش کردن این ویژگی، دیگر گزارش‌های صبح نمایش داده نمی‌شوند</string>
+    <string name="show_life_post_lable">نمایش گزارش صبحگاهی</string>
     <string name="shut_down_keep_screen">نمایشگر روشن نخواهد ماند</string>
     <string name="shutdown_alarm_alert_enable_summary">قطع هشدارهایی که حداقل ۱۰ دقیقه پس از خاموش کردن دستگاه شما به صدا در می‌آیند</string>
     <string name="shutdown_alarm_alert_enable_summary_new">با روشن کردن این ویژگی، هنگام خاموش بودن دستگاه شما هشدارها به صدا در خواهند آمد. فقط هشدارهایی که برای حداقل %d دقیقه پس از خاموش کردن دستگاهتان تنظیم شده باشند به صدا در خواهند آمد.</string>
@@ -459,10 +466,12 @@
     <string name="shutdown_alarm_enable_summary">در صورتی که تا رسیدن زمان هشدار بیش از ۱۰ دقیقه باشد پس از خاموش کردن دستگاه هشدار به صدا در خواهد آمد</string>
     <string name="shutdown_alarm_title">هشدار خاموش</string>
     <string name="silent_alarm_summary">بی‌صدا</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">خاموش کردن تنها در %s</string>
     <string name="sleep_analysis">آمار</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
     <string name="sleep_date_provider_text">داده‌های خواب توسط سلامت Xiaomi ارائه شده‌اند</string>
+    <string name="sleep_date_provider_text_new">Sleep data is provided by Mi Fitness</string>
     <string name="sleep_duration">"مدت خواب: "</string>
     <string name="sleep_duration_avg_text_diff">میانگین مدت خواب (%1$s تا %2$s)</string>
     <string name="sleep_duration_desc">به مدت %1$s و %2$s خوابیدید</string>
@@ -478,6 +487,7 @@
     <string name="sleep_record">دنبال کردن خواب</string>
     <string name="sleep_record_desc">با روشن کردن این گزینه داده‌های خواب دنبال می‌شوند</string>
     <string name="sleep_record_desc_detailed">کارایی دنبال کردن خواب توسط سلامت Xiaomi ارائه شده است. پس از روشن شدن، سلامت Xiaomi خواب شما را بر اساس میزان استفاده شما از گوشی، آمار فعالیت و همچنین زمان به خواب رفتن و بیدار شدنی که شما تنظیم می‌کنید به صورت خودکار ضبط می‌کند. برای دنبال کردن دقیق‌تر خواب، به سلامت MiXiaomiاجازه آغاز خودکار را بدهید. تمام داده‌های مربوطه به صورت محلی در دستگاه شما ذخیره خواهند شد که به شما امکان مدیریت آسان آن‌ها را می‌دهد.</string>
+    <string name="sleep_record_desc_detailed_new">Sleep tracking is provided by the Mi Fitness Sleep feature. If you turn this feature on, Mi Fitness will automatically collect and display data on your sleep based on your phone usage, activity, and the bedtime and wake-up time you set. To track sleep more accurately, allow Mi Fitness to autostart.</string>
     <string name="sleep_record_no_data">آمار شما پس از تجزیه و تحلیل داده‌های کافی توسط سلامت Xiaomi در اینجا نمایان خواهند شد</string>
     <string name="sleep_remind">یادآوری وقت خواب</string>
     <string name="sleep_time">به خواب رفتن</string>
@@ -509,6 +519,7 @@
     <string name="sunday">یک‌شنبه</string>
     <string name="sunday_short">یک‌شنبه</string>
     <string name="sunday_shortest">یک‌شنبه</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">برای دسترسی به همه ویژگی‌های این برنامه به آن اجازه اتصال به اینترنت را بدهید.</string>
     <string name="system_permission_main_purpose">نمایش زمان، تنظیم هشدارها و زمان‌سنج‌ها، استفاده از کرنومتر</string>
     <string name="system_permission_purpose">ایجاد هشدارهای هفتگی و تنظیم صداهای زنگ سفارشی</string>
@@ -576,6 +587,7 @@
     <string name="timer_alert_type_beach">ساحل</string>
     <string name="timer_alert_type_forest">جنگل</string>
     <string name="timer_alert_type_mute">پیش‌فرض</string>
+    <string name="timer_alert_type_no">خالی</string>
     <string name="timer_alert_type_rain">نم‌نم باران</string>
     <string name="timer_alert_type_spring_rain">باران تابستانی</string>
     <string name="timer_alert_type_stove_fire">شعله آتش</string>
@@ -587,6 +599,9 @@
     <string name="timer_continue">ادامه</string>
     <string name="timer_continue_timer">ادامه زمان‌سنج</string>
     <string name="timer_created">زمان‌سنج با موفقیت افزوده شد</string>
+    <string name="timer_desc_use_brush_teeth">مسواک زدن</string>
+    <string name="timer_desc_use_facial_mask">ماسک صورت</string>
+    <string name="timer_desc_use_sleep">چرت</string>
     <string name="timer_end_time">زمان‌سنج در %s خواهد ایستاد</string>
     <string name="timer_end_time_format">MMM dd HH:mm</string>
     <string name="timer_end_time_format_today">HH:mm</string>
@@ -595,6 +610,7 @@
     <string name="timer_is_paused">زمان‌سنج مکث شده است</string>
     <string name="timer_item_delete">حذف</string>
     <string name="timer_item_duration_display">%1$d دقیقه و %2$d ثانیه</string>
+    <string name="timer_item_edit">ویرایش</string>
     <string name="timer_item_label_hint">نام تایمر</string>
     <string name="timer_item_picker_hour">ساعت</string>
     <string name="timer_item_picker_minute">دقیقه</string>
@@ -624,6 +640,8 @@
     <string name="upcoming_alarm_hint">می‌توانید این هشدار را خاموش کنید</string>
     <string name="update_health_app">به‌روزرسانی سلامت Xiaomi</string>
     <string name="update_health_app_desc">کارایی دنبال کردن خواب توسط سلامت Xiaomi ارائه شده است. سلامت Xiaomi را به آخرین نسخه آن به‌روز کرده تا به ویژگی‌های مربوطه دسترسی پیدا کنید.</string>
+    <string name="update_health_app_desc_new">The sleep tracking feature is provided by Mi Fitness. Update Mi Fitness to its latest version to access related features.</string>
+    <string name="update_health_app_new">Update Mi Fitness</string>
     <string name="update_it">به‌روزرسانی</string>
     <string name="update_notification_info">درحال به‌روزرسانی داده‌ها در پس‌زمینه…</string>
     <string name="usage_start">آغاز</string>
@@ -646,6 +664,7 @@
     <string name="wednesday_shortest">چهارشنبه</string>
     <string name="week_ringtone_recommend_desc">زنگ ساعت طبعیت صداهای مختلفی بر اساس تاریخ پخش می‌کند. به عنوان زنگ ساعت پیش‌فرض تنظیم شود؟</string>
     <string name="white_noise">صدای محیط</string>
+    <string name="white_noise_guide_desc">یک صدای پس‌زمینه می‌افزاید تا تمرکز شما حفظ شود</string>
     <string name="white_noise_selector">انتخاب صدا</string>
     <string name="workday_alarm_clock">هشدار روز کاری</string>
     <string name="worldclock_edit_label">ساعت جهانی</string>
@@ -657,6 +676,7 @@
     <string name="worldclock_search_city">شهر را انتخاب کنید</string>
     <string name="worldclock_second_time">زمان در %s</string>
     <string name="worldclock_second_time_desc">"%s: "</string>
+    <string name="worldclock_second_time_new">%s</string>
     <string name="worldclock_title">ساعت</string>
     <string name="worldclock_world_time">مناطق زمانی</string>
     <string name="worldcolock_date_display_prefix">زمان کنونی: </string>

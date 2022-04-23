@@ -55,6 +55,7 @@
     <string name="account_verify_guide_bind_mail_desc">یک ایمیل بازیابی اضافه کنید</string>
     <string name="account_verify_guide_bind_phone_desc">یک شماره بازیابی اضافه کنید</string>
     <string name="account_verify_guide_set_password_desc">یک گذرواژه تنظیم کنید</string>
+    <string name="account_verify_guide_verify_phone_desc">تأیید شماره تلفن</string>
     <string name="account_xiaomi_service">خدمات</string>
     <string name="action_add_phone">افزودن شماره تلفن</string>
     <string name="action_retry">تلاش دوباره</string>
@@ -94,6 +95,10 @@
     <string name="cloud_description_closed">حافظه اشغال شده | همگام‌سازی خاموش است</string>
     <string name="cloud_description_normal">حافظه اشغال شده</string>
     <string name="cloud_service">فضای ابری Xiaomi</string>
+    <string name="cloud_service_status_backup_not_open">پشتیبان‌گیری خاموش است</string>
+    <string name="cloud_service_status_cloud_not_open">خاموش</string>
+    <string name="cloud_service_status_storage_full">حافظه پر است</string>
+    <string name="cloud_service_status_storage_not_enough">فضای کافی وجود ندارد</string>
     <string name="collect_diagnosis_log">تولید گزارش عیب‌یابی</string>
     <string name="completed">همه چیز درست است!</string>
     <string name="confirm_activate_email">تایید شد</string>
@@ -370,6 +375,8 @@
     <string name="notify_network_restricted_content_hidden_state">فعالیت پس زمینه حساب Mi محدود شده است. برای اجازه دادن ضربه بزنید.</string>
     <string name="notify_network_restricted_content_mobile_network">دسترسی به اینترنت حساب Mi محدود شده است. برای اجازه دادن ضربه بزنید.</string>
     <string name="notify_network_restricted_title">حساب Mi به شبکه وصل نشد</string>
+    <string name="notify_verify_again_security_phone">تأیید</string>
+    <string name="notify_verify_security_phone">تلفن</string>
     <string name="oauth_get_scopes_failed">اطلاعات حساب دریافت نشد</string>
     <string name="oauth_getting_scopes">درحال تأیید حساب…</string>
     <string name="oauth_scopes_intro">&lt;font color=#%1$s>%2$s&lt;/font> مجوزهای زیر را دریافت خواهد کرد:&lt;br> &lt;br> %3$s</string>
@@ -396,7 +403,7 @@
     <string name="passport_account_set_password_title">تنظیم گذرواژه</string>
     <string name="passport_active_email_visit">اینباکس خود را در %s چک کنید</string>
     <string name="passport_activing_account">درحال فعال‌سازی…</string>
-    <string name="passport_adding_account">درحال افزودن حساب</string>
+    <string name="passport_adding_account">درحال افزودن حساب…</string>
     <string name="passport_area_code_hot">پر استفاده</string>
     <string name="passport_area_code_others">استفاده از یک پیش‌شماره متفاوت</string>
     <string name="passport_area_code_title">کد کشور</string>

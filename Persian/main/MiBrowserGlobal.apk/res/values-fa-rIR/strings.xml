@@ -649,6 +649,7 @@
     <string name="homepage_search_hint">جستجو</string>
     <string name="homepage_top_card_menu">بالا</string>
     <string name="hot_games">پرطرفدار</string>
+    <string name="i_know">توقف</string>
     <string name="identity">شناسایی</string>
     <string name="if_cancel">این عملیات لغو شود؟</string>
     <string name="ignore_add_game_center_dialog_this_week">این هفته نمایش داده نشود</string>
@@ -1332,7 +1333,7 @@
     <string name="pref_save_bandwidth_mode_title">کاهش مصرف اینترنت همراه</string>
     <string name="pref_security_accept_cookies">پذیرفتن کوکی‌ها</string>
     <string name="pref_security_accept_cookies_summary">به سایت‌ها اجازه دهید کوکی‌ها را ذخیره کنند، خوانده و از آن‌ها استفاده کنند تا تنظیمات برگزیده خود را حتی اگر در این صفحات وب مشاهده نمی‌کنید به خاطر بسپارند</string>
-    <string name="pref_security_do_not_track">پیگیری نشود</string>
+    <string name="pref_security_do_not_track">ردیابی نشود</string>
     <string name="pref_security_do_not_track_summary">"این گزینه را انتخاب کرده تا به سایت‌هایی که نمی‌خواهید اطلاعات مرور شما را گردآوری یا ردیابی کنند، اطلاع دهید.
 برخی از سایت‌ها از تاریخجه مرور شما برای شخصی سازی تبلیغات خود برای شما استفاده نمی‌کنند، در حالی که برخی دیگر ممکن است تاریخچه مرور شما را برای اهداف مختلف (تضمین امنیت، تهیه محتوا، نمایش تبلیغات مرتبط و غیره) جمع‌آوری و استفاده کنند.)"</string>
     <string name="pref_security_passwords_title">گذرواژه‌ها</string>
