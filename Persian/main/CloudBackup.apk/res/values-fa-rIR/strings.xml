@@ -344,8 +344,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">کلید وضیعت پشتیبان‌گیری را تغییر دهید</string>
     <string name="other_device_main_space">فضای نخست</string>
     <string name="other_device_second_space">فضای دوم</string>
-    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
-    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">در حالت رایانه موارد بازیابی نمی‌شوند. حالت رایانه را خاموش کرده و سپس دوباره تلاش کنید.</string>
     <string name="pm">ب.ظ</string>
     <string name="process_whole_recovery">در حال بازیابی «%s»</string>
