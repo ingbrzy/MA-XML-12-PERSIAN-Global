@@ -663,7 +663,7 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="system_app_select">برنامه‌های داخلی</string>
     <string name="system_error_info">سیستم مشغول است. چند دقیقه صبر کرده سپس دوباره تلاش کنید.</string>
     <string name="tab_title_chat">پرسش‌های متداول</string>
-    <string name="tab_title_my_reports">گزارش‌های من</string>
+    <string name="tab_title_my_reports">بازخورد من</string>
     <string name="tab_title_preferences">تنظیمات</string>
     <string name="tab_title_report">بازخورد</string>
     <string name="temporary_not_available">این قابلیت هنوز در دسترس نیست</string>

@@ -3,7 +3,7 @@
     <string name="actionbar_button_up_description">بازگشت</string>
     <string name="afternoon">بعد از ظهر</string>
     <string name="am">ق.ظ</string>
-    <string name="bt_audio_share_notification_content">برای مشاهده گزینه ها ضربه بزنید</string>
+    <string name="bt_audio_share_notification_content">برای نمایش گزینه ها ضربه بزنید</string>
     <string name="bt_audio_share_notification_title">در حال هم‌رسانی صوت</string>
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
     <string name="close">بستن</string>
@@ -154,7 +154,7 @@
     <string name="size_peta_byte">پتابایت</string>
     <string name="size_suffix">%1$s%2$s</string>
     <string name="size_tera_byte">ترابایت</string>
-    <string name="snapdragon_sound_notification_content">این دستگاه از فن‌آوری ™Qualcomm® Snapdragon Sound پشتیبانی می‌کند</string>
+    <string name="snapdragon_sound_notification_content">این دستگاه از فن‌آوری ™Snapdragon Sound پشتیبانی می‌کند.</string>
     <string name="snapdragon_sound_notification_title">بلوتوث</string>
     <string name="sunday">یک‌شنبه</string>
     <string name="sunday_short">یک‌شنبه</string>

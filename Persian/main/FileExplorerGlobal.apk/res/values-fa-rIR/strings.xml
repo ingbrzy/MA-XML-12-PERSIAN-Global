@@ -10,6 +10,7 @@
     <string name="add_private_files">افزودن فایل</string>
     <string name="add_remote">افزودن دستگاه کنترل</string>
     <string name="agree_all">من تمام شرایط و ضوابط زیر را خوانده و پذیرفته‌ام.</string>
+    <string name="agree_privacy_policy">پذیرفتن سیاست حفظ حریم خصوصی</string>
     <string name="all">همه</string>
     <string name="already_latest_version">نسخه کنونی به‌روز است.</string>
     <string name="anonymous">بی‌نام</string>
@@ -161,6 +162,7 @@
     <string name="favorite_screen_cap">عکس‌های صفحه</string>
     <string name="feedback_desc">مشکلی که با آن روبرو شدید را شرح دهید</string>
     <string name="feedback_send_email_body_extra_info">اطلاعات زیر را حذف نکنید. به ما در پیدا کردن مشکل کمک می‌کند.</string>
+    <string name="feeling_ok">میانه</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">قابل خواندن:</string>
     <string name="file_info_canwrite">قابل نوشتن:</string>
@@ -186,6 +188,7 @@
     <string name="ftp_username_hint">نام کاربری</string>
     <string name="gbk_summary">کدگذاری پیش‌فرض ویندوز برای چینی ساده شده</string>
     <string name="gigabyteShort">گیگابایت</string>
+    <string name="great">بسیار راضی</string>
     <string name="grid_order">نمای مربعی</string>
     <string name="homepage_tab_recent">اخیر</string>
     <string name="host">میزبان</string>
@@ -261,6 +264,7 @@
     <string name="not_connect_user">وصل نمی‌شود: %1$s و %2$s</string>
     <string name="not_installed_documentsui">DocumentsUI نصب نشده است</string>
     <string name="not_support_documentui">DocumentUI در این دستگاه پشتیبانی نمی‌شود</string>
+    <string name="not_very_dissatisfied">ناراضی</string>
     <string name="notif_server_starting">درحال راه‌اندازی سرور FTP…</string>
     <string name="notif_title">سرور FTP در حال اجرا است</string>
     <string name="notification_wechat_expired_empty">WeChat پیشتر این ویدئو کلیپ‎ها را حذف کرده است.</string>
@@ -379,6 +383,7 @@
     <string name="rlv_pull_to_refresh">برای بروزرسانی به پایین بکشید</string>
     <string name="rlv_refreshing">در حال به‌روزرسانی…</string>
     <string name="rlv_release_to_refresh">برای تازه‌سازی رها کنید</string>
+    <string name="satisfied">راضی</string>
     <string name="save_seven_day">پاک‌سازی هفته‌ای یک بار</string>
     <string name="scan_code_download_from_play">این کد QR را اسکن کرده تا از فروشگاه Play دانلود کنید</string>
     <string name="search_description">جستجو در تمام فایل‎های دستگاه</string>
@@ -432,6 +437,8 @@
     <string name="storage_usb">حافظه USB</string>
     <string name="storage_warning">از حافظه خارجی نمی توان استفاده کرد</string>
     <string name="str_clean">پاک‌سازی</string>
+    <string name="switch_to_grid_mode">تعویض به نمای جدولی</string>
+    <string name="switch_to_list_mode">تعویض به نمای فهرستی</string>
     <string name="tab_common_app">برنامه‌ها و پوشه‌ها</string>
     <string name="tab_more">بیشتر</string>
     <string name="terabyteShort">ترابایت</string>
@@ -466,6 +473,7 @@
     <string name="user_notice_term_of_service">توافق‌نامه کاربر</string>
     <string name="utf8_summary">کدگذاری پیش‌فرض FTP سیستم</string>
     <string name="version_name">نسخه</string>
+    <string name="very_dissatisfied">بسیار ناراضی</string>
     <string name="view_by_document">نمایش در فایل‌ها</string>
     <string name="wechat_video">ویدئو در %s</string>
     <string name="whatsapp_cache_garbage">حافظه پنهان</string>

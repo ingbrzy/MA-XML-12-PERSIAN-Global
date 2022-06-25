@@ -68,7 +68,7 @@
     <string name="aqi_top_pollution">آلاینده‌های عمده</string>
     <string name="button_allow">تأیید</string>
     <string name="button_confirm">پذیرفتن</string>
-    <string name="button_exit">مخالف</string>
+    <string name="button_exit">مخالفت</string>
     <string name="button_settings_cancel">لغو</string>
     <string name="button_settings_confirm">پس گرفتن</string>
     <string name="button_settings_confirm_to_revoke_msg">با تغییر وضعیت کلید، شما رضایت خود را نسبت به سیاست حفظ حریم خصوصی آب و هوا پس می‌گیرید. ما از گردآوری اطلاعات شخصی شما دست خواهیم کشید. اطلاعات شخصی که تا کنون گردآوری شده و نگه داشته شده‌اند بنا به خواست قوانین اجرایی پس از یک دوره خاص حذف خواهند شد. آب و هوا برای ارائه خدمات پایه‌ای به شما نیاز به اطلاعات شخصی لازم دارد. پس گرفتن رضایت شما نسبت به سیاست حفظ حریم خصوصی آن به عنوان رد پذیرفتن خدمات آن بر اساس اطلاعات شخصی گردآوری شده تلقی خواهد شد.</string>
@@ -116,6 +116,7 @@
     <string name="dynamic_weather">آب و هوا</string>
     <string name="early_morning">صبح</string>
     <string name="edit_city">مدیریت شهرها</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">در حال به‌روزرسانی…</string>
     <string name="empty_view_net_unavailable">به شبکه متصل نشد</string>
     <string name="empty_view_refresh">تلاش دوباره</string>
@@ -192,13 +193,17 @@
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
     <string name="hourly_forcast_now">حالا</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="index_item_experience_now">اکنون نصب شود</string>
     <string name="indices_title_chance_of_rain">احتمال بارش باران</string>
     <string name="indices_title_feel">احساس واقعی</string>
     <string name="indices_title_pressure">فشار</string>
     <string name="indices_title_wind_speed">سرعت باد</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">شاخص پرتو فرا بنفش</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">روشن کردن خدمات موقعیت</string>
     <string name="location_tag">محل یابی</string>
     <string name="manager_city_option_add_home">افزودن به صفحه آغاز</string>
@@ -355,6 +360,7 @@
     <string name="share_menu_title">هم‌رسانی</string>
     <string name="share_subject">هم‌رسانی</string>
     <string name="share_weather_desc">\# آب و هوای MIUI# امروز%1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">عکس صفحه گرفته نشد</string>
     <string name="shortcut_short_label_24_hour_forecast">پیش‌بینی ۲۴ ساعته</string>

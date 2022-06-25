@@ -41,8 +41,8 @@
         <item quantity="one">فوکوس شد. %d چهره شناسایی شد</item>
     </plurals>
     <plurals name="accessibility_timer_burst_count">
-        <item quantity="other">%d عکس در یک شات پشت‌ سر‌ هم</item>
-        <item quantity="one">%d عکس در یک شات پشت سر هم</item>
+        <item quantity="other">%d عکس در یک عکس پشت‌ سر‌ هم</item>
+        <item quantity="one">%d عکس در یک عکس پشت‌ سر‌ هم</item>
     </plurals>
     <plurals name="accessibility_timer_burst_interval">
         <item quantity="other">بازه: %d ثانیه</item>

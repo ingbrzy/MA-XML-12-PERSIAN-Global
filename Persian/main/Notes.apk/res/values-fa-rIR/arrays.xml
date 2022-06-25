@@ -77,6 +77,10 @@
         <item>دوربین</item>
         <item>گالری</item>
     </string-array>
+    <string-array name="big_screen_layouts">
+        <item>@string/setting_big_screen_layout_flat</item>
+        <item>@string/setting_big_screen_layout_columns</item>
+    </string-array>
     <string-array name="common_folder_operations">
         <item>新建</item>
         <item>重命名</item>

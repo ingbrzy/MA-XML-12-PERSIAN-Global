@@ -9,6 +9,7 @@
     <string name="add_alarm">افزودن هشدار</string>
     <string name="add_clock">افزودن ساعت</string>
     <string name="add_common_timer">افزودن زمان‌سنج</string>
+    <string name="add_new_sound">افزودن صدای زنگ</string>
     <string name="add_timer">زمان‌سنج پر استفاده</string>
     <string name="add_timer_dialog_title">افزودن زمان‌سنج</string>
     <string name="add_timezone_title">افزودن زمان محلی</string>
@@ -27,7 +28,7 @@
     <string name="alarm_notify_snooze_label">%s چرت زدن</string>
     <string name="alarm_notify_text">چرت زدن یا نادیده گرفتن هشدار.</string>
     <string name="alarm_repeat">تکرار</string>
-    <string name="alarm_ringtone">صداهای هشدارها</string>
+    <string name="alarm_ringtone">زنگ هشدارها</string>
     <string name="alarm_ringtone_picker">هشدارها</string>
     <string name="alarm_settings">تنظیمات هشدار</string>
     <string name="alarm_settings_category_title">تنظیمات هشدار</string>
@@ -37,6 +38,7 @@
     <string name="alarmclock_empty_text">بدون هشدار</string>
     <string name="alarmclock_silent_hint">هشدار بی‌صدا است</string>
     <string name="alert">صدای زنگ</string>
+    <string name="alert_page_desc">برای خاموش کردن هشدار، فشرده و نگه داشته و سپس به بالا بکشید</string>
     <string name="alert_ringtone">صدای هشدار</string>
     <string name="alert_vibrate_enable_summary">لرزش هنگام به صدا در آمدن هشدار</string>
     <string name="alert_volume">میزان صدای آهنگ</string>
@@ -77,7 +79,7 @@
     <string name="bedtime_welcome">وقت خواب خود را مدیریت کنید</string>
     <string name="bedtime_welcome_desc">نگه داشتن یک زمان‌بندی درست و یک‌نواخت خواب برای سلامتی شما مفید است. تنظیم یادآوری به شما کمک می‌کند تا هر روز به موقع به رخت‌خواب رفته و از آن بلند شوید.</string>
     <string name="birthday_alarm">هشدار زادروز</string>
-    <string name="birthday_alarm_summary">پخش \"تولدت مبارک\" به‌جای صدای هشدار پیش‌فرض در زادروزتان</string>
+    <string name="birthday_alarm_summary">پخش «تولدت مبارک» به‌جای صدای هشدار پیش‌فرض در زادروزتان</string>
     <string name="cancel">لغو</string>
     <string name="channel_name_alarm">هشدار</string>
     <string name="channel_name_sleep">خواب</string>
@@ -98,12 +100,14 @@
     <string name="common_timer_selector">انتخاب زمان‌سنج</string>
     <string name="confirm">تأیید</string>
     <string name="confirm_abort">صرف نظر</string>
+    <string name="confirm_remove_custom_ringtone">در صورت حذف این صدای زنگ، هشدارها و زمان‌سنج‌هایی که از آن استفاده می‌کنند به جای آن از صدای زنگ پیش‌فرض استفاده خواهند کرد. حذف شود؟</string>
     <string name="content_desc_keep_screen">دکمه \"روشن نگه داشتن صفحه\"</string>
     <string name="continue_operation">ادامه</string>
     <string name="continue_step">بعدی</string>
     <string name="control_set_alarm">تنظیم هشدار</string>
     <string name="control_set_alarm_with_existing">هشدار تنظیم شده: %s</string>
     <string name="current_stopwatch_time">زمان کنونی</string>
+    <string name="custom_ringtone_lost_permissions">به این صدا دسترسی وجود ندارد.</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -119,6 +123,7 @@
     <string name="delete_timer_item_title">حذف کار تایمر</string>
     <string name="delete_timezone_title">حذف منطقه زمانی</string>
     <string name="deskclock_sleep_no_disturbance">ساعت - مدیریت وقت خواب - حالت مزاحم نشوید</string>
+    <string name="device_sounds">صداهای دستگاه</string>
     <string name="dialog_confirm_abort">تغییرات لغو شود؟</string>
     <string name="dialog_legal_off_day">&lt;Data>به نظر می‌رسد شما درحال استفاده از هشدارهای روزهای تعطیل هستید. این ویژگی برای کارکرد عادی نیاز به اتصال به اینترنت دارد. پیش از استفاده از این ویژگی شما باید &lt;a href=\"%1$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%2$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را بپذیرید. می‌پذیرید؟&lt;/Data></string>
     <string name="dialog_legal_off_day_desc">برنامه ساعت مجاز به اتصال به اینترنت نیست تا اطلاعات درباره روزهای تعطیل را به‌روز کند. هشدارهای تعطیلات روزهای شنبه و یک‌شنبه به صدا در خواهند آمد.</string>
@@ -126,9 +131,9 @@
     <string name="dialog_legal_workday_and_off_day">&lt;Data>به نظر می‌رسد شما درحال استفاده از هشدارهای روزهای کاری و تعطیلات هستید. این ویژگی برای کارکرد عادی نیاز به اتصال به اینترنت دارد. پیش از استفاده از این ویژگی شما باید &lt;a href=\"%1$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%2$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را بپذیرید. می‌پذیرید؟&lt;/Data></string>
     <string name="dialog_legal_workday_and_off_day_desc">برنامه ساعت مجاز به اتصال به اینترنت نیست تا اطلاعات درباره روزهای تعطیل را به‌روز کند. هشدارهای روزهای کاری از دوشنبه تا جمعه به صدا در خواهند آمد. هشدارهای تعطیلات روزهای شنبه و یک‌شنبه به صدا در خواهند آمد.</string>
     <string name="dialog_legal_workday_desc">برنامه ساعت مجاز به اتصال به اینترنت نیست تا اطلاعات درباره روزهای کاری را به‌روز کند. هشدارهای روزهای کاری از دوشنبه تا جمعه به صدا در خواهند آمد.</string>
-    <string name="dialog_message_agree">پذیرش</string>
+    <string name="dialog_message_agree">پذیرفتن</string>
     <string name="dialog_message_for_contact_permission">برای ممکن ساختن هشدارهای زادروز، ساعت نیاز به دسترسی به مخاطبین شما دارد. می‌پذیرید؟</string>
-    <string name="dialog_message_negative">مخالف</string>
+    <string name="dialog_message_negative">مخالفت</string>
     <string name="dialog_message_not_remind">دوباره نمایش داده نشود</string>
     <string name="dialog_net_permission_in_repeat_type">&lt;Data>این ویژگی برای کارکرد عادی نیاز به اتصال به اینترنت دارد. پیش از استفاده از این ویژگی شما باید &lt;a href=\"%1$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%2$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را بپذیرید. می‌پذیرید؟&lt;/Data></string>
     <string name="dialog_privacy_content">به منظور دریافت اطلاعات درباره تعطیلات رسمی، تنظیم ساعت و ارائه خدمات سفارشی شده، ساعت نیاز به اتصال به اینترنت دارد. پیش از استفاده از ساعت، شما باید %1$s و %2$s ما را خوانده و بپذیرید. می‌پذیرید؟</string>
@@ -136,7 +141,7 @@
     <string name="dialog_privacy_content_news">به منظور ارائه خدمات سفارشی شده و گنجاندن اخبار بامدادی در هشدارهای شما، ساعت نیاز به اتصال به اینترنت دارد. پیش از استفاده از ساعت، شما باید %1$s و %2$s ما را خوانده و بپذیرید. می‌پذیرید؟</string>
     <string name="dialog_privacy_content_timer">به منظور دانلود فایل‌های صوتی برای زمان‌سنج صداهای محیطی و ارائه خدمات سفارشی شده، ساعت نیاز به اتصال به اینترنت دارد. پیش از استفاده از ساعت، شما باید %1$s و %2$s ما را خوانده و بپذیرید. می‌پذیرید؟</string>
     <string name="dialog_privacy_content_timer_data">به منظور دانلود فایل‌های صوتی برای زمان‌سنج صداهای محیطی (≈۲۰ مگابایت) و ارائه خدمات سفارشی شده، ساعت نیاز به اتصال به اینترنت دارد. پیش از استفاده از ساعت، شما باید %1$s و %2$s ما را خوانده و بپذیرید. شما درحال استفاده از اینترنت همراه هستید. می‌پذیرید؟</string>
-    <string name="disagree">مخالف</string>
+    <string name="disagree">مخالفت</string>
     <string name="done">انجام شد</string>
     <string name="dynamic_alarm_speech">هشدار هوشمند</string>
     <string name="early_morning">صبح</string>
@@ -290,7 +295,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">به پایان صفحه رسیدید</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">چند لحظه صبر کنید…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">موارد بارگذاری نشدند</string>
-    <string name="module_dialog_negative">مخالف</string>
+    <string name="module_dialog_negative">مخالفت</string>
     <string name="module_dialog_neutral">فهمیدم</string>
     <string name="module_dialog_positive">پذیرفتن</string>
     <string name="module_download_cancel">خیر، سپاسگزارم</string>
@@ -376,7 +381,7 @@
     <string name="more_setting">تنظیمات بیشتر</string>
     <string name="more_settings">تنظیمات</string>
     <string name="morning">صبح</string>
-    <string name="net_permission_cancel">مخالف</string>
+    <string name="net_permission_cancel">مخالفت</string>
     <string name="net_permission_ok">پذیرفتن</string>
     <string name="network_privacy">&lt;Data>به منظور دریافت اطلاعات درباره تعطیلات رسمی محلی و تنظیم هشدارها، برنامه ساعت نیاز به اتصال به اینترنت دارد. پیش از استفاده از برنامه ساعت شما باید &lt;a href=\"%1$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%2$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید. می‌پذیرید؟&lt;/Data></string>
     <string name="network_privacy_global">&lt;Data>به منظور ارائه خدمات سفارشی شده، ساعت نیاز به اتصال به اینترنت دارد. پیش از استفاده از ساعت، شما باید &lt;a href=\"%1$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%2$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید. می‌پذیرید؟&lt;/Data></string>
@@ -466,6 +471,7 @@
     <string name="shutdown_alarm_enable_summary">در صورتی که تا رسیدن زمان هشدار بیش از ۱۰ دقیقه باشد پس از خاموش کردن دستگاه هشدار به صدا در خواهد آمد</string>
     <string name="shutdown_alarm_title">هشدار خاموش</string>
     <string name="silent_alarm_summary">بی‌صدا</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">خاموش کردن تنها در %s</string>
     <string name="sleep_analysis">آمار</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -518,6 +524,7 @@
     <string name="sunday">یک‌شنبه</string>
     <string name="sunday_short">یک‌شنبه</string>
     <string name="sunday_shortest">یک‌شنبه</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">برای دسترسی به همه ویژگی‌های این برنامه به آن اجازه اتصال به اینترنت را بدهید.</string>
     <string name="system_permission_main_purpose">نمایش زمان، تنظیم هشدارها و زمان‌سنج‌ها، استفاده از کرنومتر</string>
     <string name="system_permission_purpose">ایجاد هشدارهای هفتگی و تنظیم صداهای زنگ سفارشی</string>
@@ -633,6 +640,7 @@
     <string name="tv_blank_list_show_text">هنوز چیزی اینجا نیست. یک موقعیت را جستجو کرده تا به ساعت جهانی شما افزوده شود.</string>
     <string name="tv_world_clock_edit_title1">موقعیت‌های نمایش داده شده در صفحه اصلی</string>
     <string name="tv_world_clock_edit_title2">سایر موقعیت‌های ذخیره شده</string>
+    <string name="unknown_ringtone_title">ناشناخته</string>
     <string name="unselect_all">لغو انتخاب همه</string>
     <string name="upcoming_alarm">هشدار بعدی: %s</string>
     <string name="upcoming_alarm_hint">می‌توانید این هشدار را خاموش کنید</string>
@@ -643,7 +651,7 @@
     <string name="update_it">به‌روزرسانی</string>
     <string name="update_notification_info">درحال به‌روزرسانی داده‌ها در پس‌زمینه…</string>
     <string name="usage_start">آغاز</string>
-    <string name="user_agreement">توافقنامه کاربر</string>
+    <string name="user_agreement">توافق‌نامه کاربر</string>
     <string name="version_update_dialog_negative_desc">اکنون نه</string>
     <string name="version_update_dialog_positive_desc">به‌روزرسانی</string>
     <string name="version_update_dialog_title">یک به‌روزرسانی در دسترس است</string>
@@ -663,6 +671,8 @@
     <string name="week_ringtone_recommend_desc">زنگ ساعت طبعیت صداهای مختلفی بر اساس تاریخ پخش می‌کند. به عنوان زنگ ساعت پیش‌فرض تنظیم شود؟</string>
     <string name="white_noise">صدای محیط</string>
     <string name="white_noise_guide_desc">یک صدای پس‌زمینه می‌افزاید تا تمرکز شما حفظ شود</string>
+    <string name="white_noise_not_selected">انتخاب نشده</string>
+    <string name="white_noise_selected">انتخاب شده</string>
     <string name="white_noise_selector">انتخاب صدا</string>
     <string name="workday_alarm_clock">هشدار روز کاری</string>
     <string name="worldclock_edit_label">ساعت جهانی</string>
@@ -686,4 +696,5 @@
     <string name="worldcolock_timezone_local">همانند زمان محلی</string>
     <string name="xiaoai_ringtone_title">زنگ‌های ‏AI‏ Mi</string>
     <string name="yesterday">دیروز</string>
+    <string name="your_sounds">صداهای من</string>
 </resources>

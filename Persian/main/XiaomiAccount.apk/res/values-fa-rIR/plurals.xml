@@ -36,6 +36,10 @@
         <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">۱ دقیقه پیش</item>
     </plurals>
+    <plurals name="area_code_search_result_size">
+        <item quantity="other">%d نتیجه یافت شد</item>
+        <item quantity="one">%d نتیجه یافت شد</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">نیم ساعت پیش</item>
         <item quantity="one">نیم ساعت پیش</item>

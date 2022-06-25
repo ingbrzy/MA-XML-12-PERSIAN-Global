@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_to_recover">چند لحظه صبر کنید…</string>
+    <string name="access_denied_info">تلاش‌ها بیش از اندازه هستند. چند دقیقه صبر کرده سپس دوباره تلاش کنید.</string>
     <string name="actionbar_button_up_description">بازگشت</string>
     <string name="afternoon">بعد از ظهر</string>
     <string name="am">ق.ظ</string>
@@ -335,6 +336,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="msg_restore_with_metered_network_hint">در صورتی که اقدام به بازیابی این موارد کنید، از اینترنت همراه برای دانلود کردن استفاده خواهد شد.</string>
     <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> فایل‌ها دانلود خواهند شد."</string>
     <string name="network_error">اتصال به شبکه</string>
+    <string name="network_error_info">یک خطای شبکه رخ داد. تنظیمات شبکه خود را بررسی کرده و سپس دوباره تلاش کنید.</string>
+    <string name="network_timeout_info">به شبکه متصل نشد. دوباره تلاش کنید.</string>
     <string name="night">شب</string>
     <string name="no_account">وارد حساب Mi نشده‌اید.</string>
     <string name="no_backup">هیچ پشتیبان‌گیری در فضای ابری Xiaomi وجود ندارد.</string>
@@ -344,9 +347,12 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">کلید وضیعت پشتیبان‌گیری را تغییر دهید</string>
     <string name="other_device_main_space">فضای نخست</string>
     <string name="other_device_second_space">فضای دوم</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">در حالت رایانه موارد بازیابی نمی‌شوند. حالت رایانه را خاموش کرده و سپس دوباره تلاش کنید.</string>
     <string name="pm">ب.ظ</string>
     <string name="process_whole_recovery">در حال بازیابی «%s»</string>
+    <string name="progressbar_title">درحال بررسی خطرات امنیتی…</string>
     <string name="provision_back">بازگشت</string>
     <string name="provision_background_restore_more_data">بازیابی موارد بیشتر در پس‌زمینه</string>
     <string name="provision_error_connect_msg">شبکه را آزمایش کرده و دوباره تلاش کنید. نسخه‌های پشتیبان هنگامی که دستگاه شما آفلاین باشد در دسترس نیستند.</string>
@@ -423,6 +429,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="sunday">یک‌شنبه</string>
     <string name="sunday_short">یک‌شنبه</string>
     <string name="sunday_shortest">یک‌شنبه</string>
+    <string name="system_error_info">سیستم مشغول است. چند دقیقه صبر کرده سپس دوباره تلاش کنید.</string>
     <string name="the_anniversary_of_lifting_martial_law">سالگرد لغو حکومت نظامی</string>
     <string name="the_anti_aggression_day">روز ضد پرخاشگری</string>
     <string name="the_arbor_day">روز درخت‌کاری</string>
@@ -480,6 +487,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="tuesday">سه‌شنبه</string>
     <string name="tuesday_short">سه‌شنبه</string>
     <string name="tuesday_shortest">سه‌شنبه</string>
+    <string name="unknown_error_info">خطای ناشناخته</string>
     <string name="unselected">انتخاب نشده</string>
     <string name="unsupported_home">MIUI را به آخرین نسخه به‌روزرسانی کنید.</string>
     <string name="wait_icon_download">درحال دانلود آیکون‌های برنامه‌ها</string>

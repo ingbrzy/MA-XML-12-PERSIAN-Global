@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about_extreme_mode">بهینه‌ساز بی‌نهایت باتری</string>
+    <string name="about_extreme_mode">بهینه‌ساز فوق‌العاده باتری</string>
     <string name="about_hide_mode">درباره بهینه‌ساز باتری برنامه</string>
+    <string name="accessibility_service_description">بهینه‌ساز باتری</string>
     <string name="actionbar_button_up_description">بازگشت</string>
     <string name="active_classify">چینش بر اساس وضعیت فعالیت</string>
     <string name="adaptive_battery_summary">محدودسازی باتری برای برنامه‌هایی که به ندرت از آن‌ها استفاده می‌کنید</string>
@@ -17,6 +18,8 @@
     <string name="atrace_saving">درحال ذخیره گزارش atrace…</string>
     <string name="atrace_start">درحال ضبط گزارش atrace…</string>
     <string name="base_info">اطلاعات پایه</string>
+    <string name="checking_intranet">درحال بررسی اتصال اینترانت…</string>
+    <string name="clear_temperature">دمای پایانی</string>
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
     <string name="close">بستن</string>
     <string name="cloud_addr_info">اطلاعات فضای ابری</string>
@@ -35,11 +38,13 @@
 بهینه ساز باتری برنامه‌های مهم را به صورت انتخابی درمان می‌کند."</string>
     <string name="config_suggest_suffix_title">بهینه‌ساز باتری (توصیه شده)</string>
     <string name="confirm">تأیید</string>
+    <string name="connect_intranet_hint">اتصال به اینترانت</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">سالنامه سنتی چینی</string>
     <string name="date_time_picker_dialog_title">تنظیم تاریخ و ساعت</string>
+    <string name="delete_data_confirm">این مورد اکنون حذف شود؟</string>
     <string name="early_morning">صبح</string>
     <string name="empty" />
     <string name="empty_title_apps_container_list">بدون برنامه</string>
@@ -50,56 +55,56 @@
     <string name="evening">بعد از ظهر</string>
     <string name="extreme_add_white_list_summary">تا ۴ برنامه را انتخاب کنید</string>
     <string name="extreme_add_white_list_title">موارد استثنای پس‌زمینه</string>
-    <string name="extreme_mode_max_item_alert">هنگام روشن بودن بهینه‌ساز بی‌نهایت باتری می‌توانید تا ۴ برنامه را برای اجرا در پس‌زمینه انتخاب کنید</string>
-    <string name="extreme_power_config_mode_category">بهینه‌ساز بی‌نهایت باتری</string>
-    <string name="extreme_power_config_mode_desc"><li>بهینه‌ساز بی‌نهایت باتری تمام فعالیت پس‌زمینه یک برنامه را پس از خارج شدن و بازگشت به صفحه اصلی متوقف می‌کند. این برنامه به شما اعلان یا دریافت به‌روزرسانی ارسال نخواهد کرد.</li>"
-"<li>اگر می‌خواهید برنامه‌ای در پس‌زمینه اجرا شود، در بخش موارد تازه آن را قفل کرده و یا در زیر بخش موارد استثنای پس‌زمینه بیافزایید. هنگام روشن بودن بهینه‌ساز بی‌نهایت باتری تا ۴ برنامه می‌توانند در پس‌زمینه اجرا شوند.</li>"
-"<li>بهینه‌ساز بی‌نهایت باتری به صورت پیش‌فرض NFC را خاموش می‌کند. می‌توانید آن را در تنظیمات تغییر دهید.</li>"
-"<li>برای اطمینان از امکان استفاده عادی تمام ویژگی‌های دستگاه شما، بهینه‌ساز بی‌نهایت باتری پس از شارژ ۳۰% دستگاه به صورت خودکار خاموش خواهد شد.</li></string>
-    <string name="extreme_power_config_mode_summary">بهینه‌ساز بی‌نهایت باتری فعالیت پس‌زمینه را محدود کرده و همگام‌سازی را متوقف می‌کند.</string>
-    <string name="extreme_power_config_mode_title">بهینه‌ساز بی‌نهایت باتری</string>
+    <string name="extreme_mode_max_item_alert">هنگام روشن بودنبهینه‌ساز فوق‌العاده باتری می‌توانید تا ۴ برنامه را برای اجرا در پس‌زمینه انتخاب کنید</string>
+    <string name="extreme_power_config_mode_category">بهینه‌ساز فوق‌العاده باتری</string>
+    <string name="extreme_power_config_mode_desc"><li>بهینه‌ساز فوق‌العاده باتری تمام فعالیت پس‌زمینه یک برنامه را پس از خارج شدن و بازگشت به صفحه اصلی متوقف می‌کند. این برنامه به شما اعلان یا دریافت به‌روزرسانی ارسال نخواهد کرد.</li>"
+"<li>اگر می‌خواهید برنامه‌ای در پس‌زمینه اجرا شود، در بخش موارد تازه آن را قفل کرده و یا در زیر بخش موارد استثنای پس‌زمینه بیافزایید. هنگام روشن بودن بهینه‌ساز فوق‌العاده باتری تا ۴ برنامه می‌توانند در پس‌زمینه اجرا شوند.</li>"
+"<li>بهینه‌ساز فوق‌العاده باتری به صورت پیش‌فرض NFC را خاموش می‌کند. می‌توانید آن را در تنظیمات تغییر دهید.</li>"
+"<li>برای اطمینان از امکان استفاده عادی تمام ویژگی‌های دستگاه بهینه‌ساز فوق‌العاده باتری پس از شارژ ۳۰% دستگاه به صورت خودکار خاموش خواهد شد.</li></string>
+    <string name="extreme_power_config_mode_summary">بهینه‌ساز فوق‌العاده باتری فعالیت پس‌زمینه را محدود کرده و همگام‌سازی را متوقف می‌کند.</string>
+    <string name="extreme_power_config_mode_title">بهینه‌ساز فوق‌العاده باتری</string>
     <string name="extreme_power_settings_title">تنظیمات</string>
     <string name="failure">خطا</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
-    <string name="fmt_date_day">d</string>
+    <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
+    <string name="fmt_date_long_month_day">dd MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
-    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
-    <string name="fmt_date_numeric_month">M</string>
-    <string name="fmt_date_numeric_month_day">d-M</string>
+    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
+    <string name="fmt_date_numeric_day">dd</string>
+    <string name="fmt_date_numeric_month">MM</string>
+    <string name="fmt_date_numeric_month_day">dd/MM</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M-yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
-    <string name="fmt_date_short_month">MMM</string>
-    <string name="fmt_date_short_month_day">d MMM</string>
+    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_month">MM</string>
+    <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
+    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">D T z</string>
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">"h 'o''clock'"</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
-    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
-    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
-    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
-    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">h a</string>
-    <string name="fmt_time_24hour">"H 'o''clock'"</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
-    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">"S'م.ث'"</string>
-    <string name="fmt_time_minute">"m'دق'"</string>
-    <string name="fmt_time_minute_second">"m'دق' و s'ث'"</string>
-    <string name="fmt_time_minute_second_millis">"m'دق' و s.S'ث'"</string>
-    <string name="fmt_time_second">"s'ث'"</string>
-    <string name="fmt_time_second_millis">"s.S'ث'"</string>
+    <string name="fmt_time_12hour">hh</string>
+    <string name="fmt_time_12hour_minute">hh:mm</string>
+    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
+    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
+    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
+    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
+    <string name="fmt_time_12hour_pm">hh aa</string>
+    <string name="fmt_time_24hour">H</string>
+    <string name="fmt_time_24hour_minute">HH:mm</string>
+    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
+    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
+    <string name="fmt_time_millis">S</string>
+    <string name="fmt_time_minute">m</string>
+    <string name="fmt_time_minute_second">m:s</string>
+    <string name="fmt_time_minute_second_millis">m:s.S</string>
+    <string name="fmt_time_second">s</string>
+    <string name="fmt_time_second_millis">s.S</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
@@ -117,15 +122,20 @@
     <string name="friday_shortest">جمع</string>
     <string name="hide_mode_desc">هنگامی که برنامه‌ای در پس‌زمینه اجرا می‌شود، بر تمام فعالیت‌های آن به منظور کاهش مصرف باتری نظارت می‌شود. این کارایی بر اساس %s اطلاعات کاربر را دریافت و استفاده خواهد کرد</string>
     <string name="hide_system_app">پنهان کردن برنامه‌های سیستم</string>
+    <string name="high_temp_benchmark_state">داغ شدن</string>
+    <string name="high_temp_benchmark_state_message">"به نظر می‌رسد این دستگاه اکنون خیلی داغ است. پس از خنک شدن دستگاه از این برنامه استفاده کنید: "</string>
     <string name="high_temp_state">داغ شدن</string>
     <string name="high_temp_state_message">دستگاه شما درحال داغ شدن است. اینترنت همراه، کانون داغ Wi-Fi، GPS و دوربین محدود می‌شوند.</string>
     <string name="hints_loading_text">چند لحظه صبر کنید…</string>
     <string name="important_warning">توجه</string>
+    <string name="insert_data">Insert data</string>
+    <string name="kill_all_back_pro_toast_message">دستگاه شما بیش از حد داغ شده است. همه برنامه‌های درحال اجرا در پس‌زمینه بسته شدند.</string>
+    <string name="kill_pkg_toast_message">به دلیل داغ شدن دستگاه از برنامه‌ها نمی‌توان استفاده کرد</string>
+    <string name="kill_some_back_pro_toast_message">دستگاه شما بیش از حد داغ شده است. چند برنامه درحال اجرا در پس‌زمینه بسته شدند.</string>
     <string name="lasttime_applist_cloud">برنامه‌های به‌روز شده:</string>
     <string name="lasttime_feature_cloud">ویژگی‌های به‌روز شده:</string>
     <string name="message_i_know">فهمیدم</string>
     <string name="midnight">شب</string>
-    <string name="miuix_access_state_desc">انتخاب شده</string>
     <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
     <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
@@ -148,6 +158,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">به پایان صفحه رسیدید</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">چند لحظه صبر کنید…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">موارد بارگذاری نشدند</string>
+    <string name="modify_data">Modify data</string>
     <string name="monday">دوشنبه</string>
     <string name="monday_short">دوشنبه</string>
     <string name="monday_shortest">دوشنبه</string>
@@ -194,8 +205,8 @@
     <string name="nonui_mode_config_title">حالت غیر انفعالی</string>
     <string name="noon">ظهر</string>
     <string name="notification_exit_extreme_mode_text">باتری بیش از %s شارژ شده است</string>
-    <string name="notification_exit_extreme_mode_title">بهینه‌ساز بی‌نهایت باتری خاموش شد</string>
-    <string name="notification_open_extreme_mode_text">بهینه‌ساز بی‌نهایت باتری روشن شد</string>
+    <string name="notification_exit_extreme_mode_title">بهینه‌ساز فوق‌العاده باتری خاموش شد</string>
+    <string name="notification_open_extreme_mode_text">بهینه‌ساز فوق‌العاده باتری روشن شد</string>
     <string name="performance_category">کارایی</string>
     <string name="permstep_description">Allow this app to access your step count</string>
     <string name="permstep_label">Access step count</string>
@@ -228,9 +239,12 @@
     <string name="saturday">شنبه</string>
     <string name="saturday_short">شنبه</string>
     <string name="saturday_shortest">شنبه</string>
+    <string name="save_data">Save data</string>
     <string name="scenario_policies_summary">برای هماهنگ‌سازی‌های متفاوت راهبردهای متفاوت صرفه‌جویی برق را به‌کار گیرید.</string>
     <string name="scenario_policies_title">هماهنگ‌سازی‌های هوشمند</string>
     <string name="scenario_policies_warmcontrol">کنترل دما</string>
+    <string name="screen_off_current">صفحه خاموش با برق</string>
+    <string name="screen_on_current">صفحه روشن با برق</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">برنامه‌ای یافت نشد</string>
     <string name="send">ارسال</string>
@@ -240,9 +254,12 @@
     <string name="sleep_config_enhance_title">حالت خواب</string>
     <string name="sleepmode_disclaimer_agree">پذیرفتن</string>
     <string name="sleepmode_disclaimer_cancel">لغو</string>
-    <string name="sleepmode_privacy_content">این ویژگی از سیستم دستگاه و اطلاعات دستگاه شما استفاده خواهد کرد. این موارد در سرورهای ما بارگذاری نخواهد شد.</string>
+    <string name="sleepmode_privacy_content">این ویژگی نیاز به دسترسی به اطلاعات درباره سیستم و دستگاه شما دارد. این اطلاعات در سرورهای ما بارگذاری نخواهند شد.</string>
     <string name="sleepmode_privacy_link">درباره حریم خصوصی و امنیت بیشتر بدانید</string>
     <string name="sleepmode_privacy_title">حالت خواب</string>
+    <string name="softbank_high_temp_toast_time_10min">برای جلوگیری از داغ شدن، چراغ قوه خاموش شد</string>
+    <string name="softbank_high_temp_toast_time_4min">برای جلوگیری از داغ شدن، فلاش خاموش شد</string>
+    <string name="stricter_high_temp_state_message">به نظر می‌رسد این دستگاه داغ شده است. شما اکنون فقط می‌توانید از تلفن و مخاطبین استفاده کنید.</string>
     <string name="sucess">انجام شد</string>
     <string name="sunday">یک‌شنبه</string>
     <string name="sunday_short">یک‌شنبه</string>
@@ -287,6 +304,8 @@
     <string name="the_united_nations_day">روز ملل متحد</string>
     <string name="the_valentines_day">روز ولنتاین</string>
     <string name="the_water_lantern_festival">جشنواره فانوس آبی</string>
+    <string name="thermal_cancel">لغو</string>
+    <string name="thermal_confirm">تأیید</string>
     <string name="thursday">پنج‌شنبه</string>
     <string name="thursday_short">پنج‌شنبه</string>
     <string name="thursday_shortest">پنج‌شنبه</string>
@@ -295,6 +314,7 @@
     <string name="time_picker_label_minute">دقیقه</string>
     <string name="today">امروز</string>
     <string name="tomorrow">فردا</string>
+    <string name="trig_temperature">دمای آغازین</string>
     <string name="tuesday">سه‌شنبه</string>
     <string name="tuesday_short">سه‌شنبه</string>
     <string name="tuesday_shortest">سه‌شنبه</string>

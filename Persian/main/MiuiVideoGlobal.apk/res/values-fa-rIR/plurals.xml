@@ -40,13 +40,13 @@
         <item quantity="other">مشاهده %d پاسخ</item>
         <item quantity="one">مشاهده %d پاسخ</item>
     </plurals>
+    <plurals name="dialog_app_rating_choose_star">
+        <item quantity="other">%s ستاره انتخاب شدند</item>
+        <item quantity="one">%s ستاره انتخاب شد</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">درحال بازگشت به صفحه اصلی تا %1$d ثانیه دیگر…</item>
         <item quantity="one">درحال بازگشت به صفحه اصلی تا %1$d ثانیه دیگر…</item>
-    </plurals>
-    <plurals name="follower">
-        <item quantity="other">%d دنبال‌کننده</item>
-        <item quantity="one">%d دنبال‌کننده</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">نیم ساعت پیش</item>
@@ -68,9 +68,71 @@
         <item quantity="other">در %d دقیقه</item>
         <item quantity="one">در ۱ دقیقه</item>
     </plurals>
+    <plurals name="incentive_dialog_congratulation_get_credits_title">
+        <item quantity="other">شما %d امتیاز دریافت کردید!</item>
+        <item quantity="one">شما %d امتیاز دریافت کردید!</item>
+    </plurals>
+    <plurals name="incentive_dialog_credits">
+        <item quantity="other">%d امتیاز</item>
+        <item quantity="one">%d امتیاز</item>
+    </plurals>
+    <plurals name="incentive_dialog_login_and_get_credits_message">
+        <item quantity="other">با ورود به حساب %d امتیاز بیشتر برداشت کنید</item>
+        <item quantity="one">با ورود به حساب %d امتیاز بیشتر برداشت کنید</item>
+    </plurals>
+    <plurals name="incentive_dialog_seconds">
+        <item quantity="other">%d ثانیه</item>
+        <item quantity="one">%d ثانیه</item>
+    </plurals>
+    <plurals name="incentive_guide_all_time_tip">
+        <item quantity="other">با تماشای در مجموع %d دقیقه امتیاز دریافت کنید! این کار انجام گیرد؟</item>
+        <item quantity="one">با تماشای در مجموع %d دقیقه امتیاز دریافت کنید! این کار انجام گیرد؟</item>
+    </plurals>
+    <plurals name="incentive_guide_coins_tip">
+        <item quantity="other">"شما %d امتیاز برای برداشت دارید
+فقط امروز در دسترس است"</item>
+        <item quantity="one">"شما %d امتیاز برای برداشت دارید
+فقط امروز در دسترس است"</item>
+    </plurals>
+    <plurals name="incentive_guide_current_time_tip">
+        <item quantity="other">شما امروز %d دقیقه تماشا کرده‌اید</item>
+        <item quantity="one">شما امروز %d دقیقه تماشا کرده‌اید</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_begin">
+        <item quantity="other">%d امتیاز به دست آورید!</item>
+        <item quantity="one">%d امتیاز به دست آورید!</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_finish">
+        <item quantity="other">کارهای امروز کامل شدند! شما %d امتیاز به دست آوردید.</item>
+        <item quantity="one">کارهای امروز کامل شدند! شما %d امتیاز به دست آوردید.</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_of_one">
+        <item quantity="other">شما %1$1d ثانیه تماشا کرده و %2$2d امتیاز به دست آوردید!</item>
+        <item quantity="one">شما %1$1d ثانیه تماشا کرده و %2$2d امتیاز به دست آوردید!</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip1">
+        <item quantity="other">با تماشای یک ویدئوی تصادفی %d امتیاز به دست آورید</item>
+        <item quantity="one">با تماشای یک ویدئوی تصادفی %d امتیاز به دست آورید</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip2">
+        <item quantity="other">با تماشای %1$1d ثانیه از ویدئو %2$2d امتیاز به دست آورید</item>
+        <item quantity="one">با تماشای %1$1d ثانیه از ویدئو %2$2d امتیاز به دست آورید</item>
+    </plurals>
+    <plurals name="incentive_toast_share_success">
+        <item quantity="other">%d امتیاز به دست آمد. به هم‌رسانی ادامه داده تا امتیازات بیشتری به دست آورید.</item>
+        <item quantity="one">%d امتیاز به دست آمد. به هم‌رسانی ادامه داده تا امتیازات بیشتری به دست آورید.</item>
+    </plurals>
+    <plurals name="incentive_toast_subscribe_success">
+        <item quantity="other">%d امتیاز به دست آمد. به مشترک شدن ادامه داده تا امتیازات بیشتری به دست آورید.</item>
+        <item quantity="one">%d امتیاز به دست آمد. به مشترک شدن ادامه داده تا امتیازات بیشتری به دست آورید.</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">هم اکنون</item>
         <item quantity="one">هم اکنون</item>
+    </plurals>
+    <plurals name="local_diversion_video_number">
+        <item quantity="other">%d ویدئو</item>
+        <item quantity="one">%d ویدئو</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d پوشه</item>
@@ -120,6 +182,14 @@
         <item quantity="other">%d مورد انتخاب شد</item>
         <item quantity="one">%d مورد انتخاب شد</item>
     </plurals>
+    <plurals name="new_incentive_toast_share_success">
+        <item quantity="other">با موفقیت هم‌رسانی شد. شما %d امتیاز دریافت کردید. در مرکز امتیازات درخواست کنید.</item>
+        <item quantity="one">با موفقیت هم‌رسانی شد. شما %d امتیاز دریافت کردید. در مرکز امتیازات درخواست کنید.</item>
+    </plurals>
+    <plurals name="new_incentive_toast_subscribe_success">
+        <item quantity="other">اشتراک با موفقیت انجام شد. شما %d امتیاز دریافت کردید. در مرکز امتیازات درخواست کنید.</item>
+        <item quantity="one">اشتراک با موفقیت انجام شد. شما %d امتیاز دریافت کردید. در مرکز امتیازات درخواست کنید.</item>
+    </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">محتوای شما حاوی مواردی (%1$s) است که معیارهای جامعه ما را نقض می‌کند. حساب شما به مدت %2$d روز تا %3$s تعلیق می‌شود.</item>
         <item quantity="one">محتوای شما حاوی مواردی (%1$s) است که معیارهای جامعه ما را نقض می‌کند. حساب شما به مدت %2$d روز تا %3$s تعلیق می‌شود.</item>
@@ -147,6 +217,10 @@
     <plurals name="plus_edit_top_titletext">
         <item quantity="other">%s مورد انتخاب شدند</item>
         <item quantity="one">%s مورد انتخاب شد</item>
+    </plurals>
+    <plurals name="plus_local_edit_delete_confirm_text">
+        <item quantity="other">%s فایل برای همیشه حذف شوند؟</item>
+        <item quantity="one">%s فایل برای همیشه حذف شود؟</item>
     </plurals>
     <plurals name="plus_player_subtitle_online_size">
         <item quantity="other">اندازه فایل: %.2f کیلوبایت</item>
@@ -191,6 +265,10 @@
     <plurals name="toast_bookmark_max_size">
         <item quantity="other">تا %d نشانک افزوده می‌شود</item>
         <item quantity="one">تا %d نشانک افزوده می‌شود</item>
+    </plurals>
+    <plurals name="video_like_text">
+        <item quantity="other">%s نفر پسندیدند</item>
+        <item quantity="one">%s نفر پسندید</item>
     </plurals>
     <plurals name="video_view_count">
         <item quantity="other">%d بازدید</item>

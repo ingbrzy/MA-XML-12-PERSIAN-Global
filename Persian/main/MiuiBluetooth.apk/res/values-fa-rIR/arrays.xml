@@ -156,11 +156,6 @@
         <item>صدای Qualcomm® aptX™</item>
         <item>صدای Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>صدای Qualcomm® aptX™ Adaptive</item>
-        <item>صدای Qualcomm® aptX™ TWS+</item>
-        <item>LHDC V3/V4</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>استفاده از تنظیمات سیستم (پیش‌فرض)</item>
@@ -169,13 +164,6 @@
         <item>صدای Qualcomm® aptX™</item>
         <item>صدای Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>صدای Qualcomm® aptX™ Adaptive</item>
-        <item>صدای Qualcomm® aptX™ TWS+</item>
-        <item>LHDC V3/V4</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
-        <item>فعال کردن کدک‌های اختیاری</item>
-        <item>غیر فعال کردن کدک‌های اختیاری</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -209,8 +197,6 @@
         <item>غیرفعال</item>
         <item>فیلتر شده</item>
         <item>فعال</item>
-        <item>تیترها فیلتر شدند</item>
-        <item>بسته‌های رسانه‌ای فیلتر شدند</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>رنگ‌های بهبود یافته</item>

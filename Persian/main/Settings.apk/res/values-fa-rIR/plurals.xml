@@ -101,12 +101,12 @@
         <item quantity="one">هم اکنون</item>
     </plurals>
     <plurals name="lockpassword_password_too_long">
-        <item quantity="other">شما می‌توانید تا %d کاراکتر وارد کنید</item>
-        <item quantity="one">شما می‌توانید تا %d کاراکتر وارد کنید</item>
+        <item quantity="other">شما می‌توانید تا %d نویسه وارد کنید</item>
+        <item quantity="one">شما می‌توانید تا %d نویسه وارد کنید</item>
     </plurals>
     <plurals name="lockpassword_password_too_short">
-        <item quantity="other">حداقل %d کاراکتر وارد کنید</item>
-        <item quantity="one">حداقل %d کاراکتر وارد کنید</item>
+        <item quantity="other">حداقل %d نویسه وارد کنید</item>
+        <item quantity="one">حداقل %d نویسه وارد کنید</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">PIN باید %d رقم باشد</item>
@@ -126,7 +126,7 @@
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts">
         <item quantity="other">تلاش‌های نادرست بیش از حد بود. %d ثانیه دیگر دوباره تلاش کنید.</item>
-        <item quantity="one">تلاش‌های نادرست بیش از حد بود. %d ثانیه دیگر دوباره تلاش کنید.</item>
+        <item quantity="one">حداقل %d نقطه را به هم وصل کنید. دوباره تلاش کنید.</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">به مدت %d ثانیه صبر کرده و دوباره تلاش کنید.</item>
@@ -229,12 +229,12 @@
         <item quantity="one">روزهای هفته: %d دقیقه</item>
     </plurals>
     <plurals name="usage_state_work_day_hour">
-        <item quantity="other">روزهای هفته: %d ساعت</item>
-        <item quantity="one">روزهای هفته: %d ساعت</item>
+        <item quantity="other">روزهای کاری: %d ساعت</item>
+        <item quantity="one">روزهای کاری: %d ساعت</item>
     </plurals>
     <plurals name="usage_state_work_day_minute">
         <item quantity="other">روزهای هفته: %d دقیقه</item>
-        <item quantity="one">روزهای هفته: %d دقیقه</item>
+        <item quantity="one">روزهای کاری: %d دقیقه</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
         <item quantity="other">" ساعت"</item>

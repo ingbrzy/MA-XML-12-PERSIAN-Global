@@ -77,8 +77,6 @@
         <item>صوت Qualcomm® aptX™</item>
         <item>صوت Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>ﺹﻮﺗ Qualcomm® aptX™ Adaptive</item>
-        <item>ﺹﻮﺗ Qualcomm® aptX™ TWS+</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>استفاده از انتخاب سیستم (پیش‌فرض)</item>
@@ -87,8 +85,6 @@
         <item>صوت Qualcomm® aptX™</item>
         <item>صوت Qualcomm® aptX™ HD</item>
         <item>LDAC</item>
-        <item>ﺹﻮﺗ Qualcomm® aptX™ Adaptive</item>
-        <item>ﺹﻮﺗ Qualcomm® aptX™ TWS+</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -180,7 +176,7 @@
         <item>۲۵۶ هزار در هر بافر گزارش</item>
         <item>۱ میلیون در هر بافر گزارش</item>
         <item>۴ میلیون در هر بافر گزارش</item>
-        <item>۱۶ میلیون در هر بافر گزارش</item>
+        <item>۸ مگابایت در هر میان‌گیری گزارش</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>خاموش</item>
@@ -188,7 +184,7 @@
         <item>۲۵۶ هزار</item>
         <item>۱ میلیون</item>
         <item>۴ میلیون</item>
-        <item>۱۶ میلیون</item>
+        <item>۸ مگابایت</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>خاموش</item>
@@ -267,6 +263,20 @@
         <item>ناموفق</item>
         <item>مسدود شده</item>
         <item>جلوگیری موقت از اتصال ضعیف</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>درحال اسکن کردن…</item>
+        <item>درحال اتصال…</item>
+        <item>درحال راستی‌آزمایی…</item>
+        <item>‏درحال دریافت نشانی IP…</item>
+        <item>متصل</item>
+        <item>معلق</item>
+        <item>درحال قطع اتصال…</item>
+        <item>اتصال قطع شد</item>
+        <item>ناموفق</item>
+        <item>مسدود</item>
+        <item>اجتناب موقت از اتصال ضعیف</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>پویانمایی خاموش</item>

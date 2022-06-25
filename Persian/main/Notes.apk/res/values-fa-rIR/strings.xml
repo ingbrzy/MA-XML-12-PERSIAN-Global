@@ -58,7 +58,7 @@
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
     <string name="close">بستن</string>
     <string name="cloud_trash_bin_title">یادداشت‌های حذف شده از فضای ابری</string>
-    <string name="confirm_cancel">مخالف</string>
+    <string name="confirm_cancel">مخالفت</string>
     <string name="confirm_ok">پذیرفتن</string>
     <string name="continuous_default_hint">کپی متن، ذخیره تصاویر و عکس‌های صفحه به عنوان گزیده</string>
     <string name="continuous_new_excerpt_title">گزیده جدید</string>
@@ -475,6 +475,7 @@
     <string name="note_sort_way">چینش</string>
     <string name="notealert_enter">بازکردن یادداشت</string>
     <string name="notealert_ok">نادیده گرفتن</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">یادداشت‌ها یک برنامه‌ی سیستمی است. پس از حذف برنامه دیگر نمی‌توانید از آن استفاده کنید.</string>
     <string name="notes_description_title">یادداشت‌ها حذف شود؟</string>
     <string name="notification_content_add_todo_from_other_app">یک کار جدید افزودید. برای نمایش ضربه بزنید.</string>
@@ -857,6 +858,7 @@
     <string name="view_all_notes">نمایش همه</string>
     <string name="warn_cannot_add_new_bullet">نمی‌توان فهرست نامنظم جدیدی اضافه کرد زیرا یادداشت بیش از حد طولانی است</string>
     <string name="warn_cannot_add_new_checkbox">نمی‌توان کادر انتخاب جدید را افزود، زیرا یادداشت بسیار طولانی است</string>
+    <string name="warn_cannot_add_new_content">نمی‌توان محتوای جدیدی اضافه کرد زیرا یادداشت بیش از حد طولانی است</string>
     <string name="warn_cannot_add_new_doodle">نمی‌توان خطخطی جدیدی اضافه کرد زیرا یادداشت بیش از حد طولانی است</string>
     <string name="warn_cannot_add_new_element">نمی‌توان مورد جدیدی اضافه کرد زیرا یادداشت بیش از حد طولانی است</string>
     <string name="warn_cannot_add_new_link_card">نمی‌توان پیوند جدیدی اضافه کرد زیرا یادداشت بیش از حد طولانی است</string>
@@ -883,6 +885,8 @@
     <string name="widget_size_item_big">بزرگ</string>
     <string name="widget_size_item_medium">متوسط</string>
     <string name="widget_size_item_small">کوچک</string>
+    <string name="widget_size_item_super_big">خیلی بزرگ</string>
+    <string name="widget_size_not_support">ابزارک‌های خیلی بزرگ در این دستگاه پشتیبانی نمی‌شوند</string>
     <string name="widget_take_notes_title">یادداشت‌ها</string>
     <string name="yesterday">دیروز</string>
 </resources>

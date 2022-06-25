@@ -2,13 +2,13 @@
 <resources>
     <string-array name="alarm_in_furture">
         <item>هشدار در کمتر از ۱ دقیقه</item>
-        <item>هشدار در%1$s</item>
-        <item>هشدار در%2$s</item>
-        <item>هشدار در%1$s %2$s</item>
-        <item>هشدار در%3$s</item>
-        <item>هشدار در%1$s %3$s</item>
-        <item>هشدار در %2$s %3$s</item>
-        <item>هشدار در %1$s %2$s %3$s</item>
+        <item>هشدار تا %1$s دیگر</item>
+        <item>هشدار تا %2$s دیگر</item>
+        <item>هشدار تا %1$s و %2$s دیگر</item>
+        <item>هشدار تا %3$s دیگر</item>
+        <item>هشدار تا %1$s و %3$s دقیقه دیگر</item>
+        <item>هشدار تا %2$s و %3$s دیگر</item>
+        <item>هشدار تا %1$s و %2$s و %3$s دیگر</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>یکبار</item>

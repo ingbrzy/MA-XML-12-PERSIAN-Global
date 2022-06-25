@@ -33,7 +33,7 @@
     <string name="common_google_play_services_install_button">نصب</string>
     <string name="common_google_play_services_install_text">‏%1$s بدون خدمات Google Play که در دستگاه شما وجود ندارد اجرا نمی‌شود.</string>
     <string name="common_google_play_services_install_title">‏دریافت سرویس‌های Google Play</string>
-    <string name="common_google_play_services_notification_channel_name">‏قابلیت دسترسی خدمات Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">‏دردسترس بودن خدمات Google Play</string>
     <string name="common_google_play_services_notification_ticker">‏خطا در خدمات Google Play</string>
     <string name="common_google_play_services_unknown_issue">‏%1$s برای استفاده از خدمات Google Play با مشکل روبرو است. لطفاً دوباره امتحان کنید.</string>
     <string name="common_google_play_services_unsupported_text">‏%1$s بدون خدمات Google Play که در دستگاه شما پشتیبانی نمی‌شود، اجرا نخواهد شد.</string>

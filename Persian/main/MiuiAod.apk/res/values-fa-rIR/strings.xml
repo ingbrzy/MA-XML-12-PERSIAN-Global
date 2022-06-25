@@ -138,6 +138,7 @@ dd/MM"</string>
     <string name="midnight">شب</string>
     <string name="mini_time">ساعت کوچک</string>
     <string name="minimalist_clock">ساعت ساده</string>
+    <string name="miuix_access_state_desc">انتخاب شده</string>
     <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
     <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
@@ -238,7 +239,7 @@ dd/MM"</string>
     <string name="select_notification_notify_style">انتخاب جلوه اعلان</string>
     <string name="send">ارسال</string>
     <string name="share">هم‌رسانی</string>
-    <string name="share_to_community">هم‌رسانی در مجمع Mi</string>
+    <string name="share_to_community">هم‌رسانی در Xiaomi Community</string>
     <string name="show_battery">نمایش وضعیت باتری</string>
     <string name="show_battery_status">نمایش وضعیت باتری</string>
     <string name="show_lunar">نمایش سالنامه سنتی چینی</string>
@@ -254,7 +255,7 @@ dd/MM"</string>
     <string name="step_component_info_active_tip">گام‌شمار توسط سلامت Xiaomi ارائه شده است. برای ادامه، سلامت Xiaomi را نصب یا به‌روز کرده و شرایط و ضوابط آن را بپذیرید.</string>
     <string name="step_component_info_desc">هنگامی که شما به هدف خود برسید، گام‌شمار به یک جایزه تبدیل می‌شود. گام‌شمار توسط سلامت Xiaomi ارائه شده است.</string>
     <string name="step_component_info_tip">گام‌شمار توسط سلامت Xiaomi ارائه شده است. برای ادامه، سلامت Xiaomi را نصب یا به‌روز کرده و شرایط و ضوابط آن را بپذیرید.</string>
-    <string name="step_to_image_community">موارد بیشتر را در مجمع Mi بیابید</string>
+    <string name="step_to_image_community">موارد بیشتر را در Xiaomi Community بیابید</string>
     <string name="summary">هنگامی که دستگاه شما به مدت طولانی در تاریکی قرار بگیرد موارد نمایش داده نمی‌شوند تا مصرف برق کاهش یابد.</string>
     <string name="sunday">یک‌شنبه</string>
     <string name="sunday_short">یک‌شنبه</string>
@@ -305,6 +306,7 @@ dd/MM"</string>
     <string name="the_united_nations_day">روز ملل متحد</string>
     <string name="the_valentines_day">روز ولنتاین</string>
     <string name="the_water_lantern_festival">جشنواره فانوس آبی</string>
+    <string name="theme_manager_other">موارد بیشتر</string>
     <string name="thursday">پنج‌شنبه</string>
     <string name="thursday_short">پنج‌شنبه</string>
     <string name="thursday_shortest">پنج‌شنبه</string>

@@ -892,6 +892,7 @@
     <string name="card_main_private_space_summary">استفاده از فضای دوم مانند داشتن ۲ دستگاه است</string>
     <string name="card_main_private_space_title">فضای دوم</string>
     <string name="card_main_sectool_title">ابزار</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">ایجاد</string>
     <string name="card_main_xspace_summary">ایجاد حساب دوگانه برای هر برنامه‌ای</string>
     <string name="card_main_xspace_title">برنامه‌های همزاد</string>
@@ -944,6 +945,8 @@
     <string name="cmcc_app_check_dialog_negative">بعداً</string>
     <string name="cmcc_app_check_dialog_positive">راه‌اندازی دوباره</string>
     <string name="cmcc_app_check_dialog_title">سیستم تعمیر شد</string>
+    <string name="columbus_ad_flag_text">آگهی</string>
+    <string name="columbus_skip_ad">رد شدن</string>
     <string name="confirmSecondSpacePassword">گذرواژه فضای دوم را تأیید کنید</string>
     <string name="confirm_allow_all_permission">Allow all apps from using this feature?</string>
     <string name="confirm_bind_xiaomi_account_dialog_title">درحال افزودن حساب Mi</string>
@@ -1150,6 +1153,7 @@
     <string name="dual_setting_simcard1">سیم‌کارت ۱</string>
     <string name="dual_setting_simcard2">سیم‌کارت ۲</string>
     <string name="early_morning">صبح</string>
+    <string name="ellipsis">…</string>
     <string name="email">ایمیل</string>
     <string name="empty" />
     <string name="empty_app">بدون برنامه</string>
@@ -1430,6 +1434,7 @@
     <string name="gamebox_app_not_find">ابتدا برنامه را نصب کنید.</string>
     <string name="gamebox_brightness">روشنایی</string>
     <string name="gamebox_browser_not_find">ابتدا مرورگر Mi را نصب کنید</string>
+    <string name="gamebox_bullet_chat">نمایش نظرات روی صفحه</string>
     <string name="gamebox_collimator">منظره یاب</string>
     <string name="gamebox_display_1">هیچ کدام</string>
     <string name="gamebox_display_2">اشباع شده</string>
@@ -1531,6 +1536,10 @@
     <string name="gb_dialog_record_way_ai">موارد ضبط شده AI در جعبه بازی ذخیره شده‌اند و در آن‌جا ۷ روز می‌مانند.</string>
     <string name="gb_dialog_record_way_finish">انجام شد</string>
     <string name="gb_dialog_record_way_manual">ویدئوها را به صورت دستی به طول ۳۰ ثانیه ذخیره کنید</string>
+    <string name="gb_dialog_record_way_manual_desc" formatted="false">ضبط دستی %d تا %d ثانیه ویدئو هنگام بازی.</string>
+    <string name="gb_dialog_record_way_setting_tip_one">افزایش مصرف برق و کندی</string>
+    <string name="gb_dialog_record_way_setting_tip_title">این ویژگی ممکن است سبب بروز اشکالات زیر شود:</string>
+    <string name="gb_dialog_record_way_setting_tip_two">تداخل با سایر ضبط کننده‌های نمایشگر</string>
     <string name="gb_dialog_record_way_setting_tips">توجه: ضبط بخش‌های بازی شما به مصرف برق بیشتری نیاز دارد که ممکن است سبب کند شدن شود.</string>
     <string name="gb_dialog_record_way_title">شیوه ضبط را انتخاب کنید</string>
     <string name="gb_first_guide_function_shiled_title">خاموش کردن ویژگی‌های سیستمی هنگام روشن بودن افزاینده سرعت بازی</string>
@@ -1559,6 +1568,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_game_video_page_null">لحظات حساس بازی خود را ضبط کنید</string>
     <string name="gb_game_video_record_finish_tips">ویدئوی ضبط شده دستی در افزاینده سرعت بازی ذخیره شد</string>
     <string name="gb_game_video_save">ذخیره</string>
+    <string name="gb_game_video_save_tip">با موفقیت ذخیره شد</string>
     <string name="gb_game_video_type_ai">AI</string>
     <string name="gb_game_video_type_ai_record">ضبط با استفاده از AI</string>
     <string name="gb_game_video_type_manual">دستی</string>
@@ -1571,6 +1581,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_gpu_driver_update_app_tips">نسخه کنونی به‌روز است</string>
     <string name="gb_have_signed">امروز اعلام ورود شده است</string>
     <string name="gb_manual_record_dialog_del_video_message">ویدئوهای انتخاب شده برای همیشه حذف شوند؟</string>
+    <string name="gb_manual_video_record_title">موارد ضبط‌ شده</string>
     <string name="gb_msg_completely_shielded">پنهان کردن پیام‌ها</string>
     <string name="gb_msg_completely_shielded_summary">پنهان کردن</string>
     <string name="gb_msg_not_shielded_summary">نمایش</string>
@@ -1590,26 +1601,39 @@ Record sequences and use them anytime!"</string>
     <string name="gb_performance_tips">"حالت کارایی، کارایی گرافیکی را بهبود می‌بخشد،
 اما مصرف برق را نیز افزایش داده و به دستگاه شما اجازه گرم شدن را می‌دهد"</string>
     <string name="gb_shortcut_pref_title">میان‌بر صفحه اصلی</string>
-    <string name="gb_shoulder_key">دکمه‌های شانه</string>
+    <string name="gb_shoulder_guide_message1">دکمه [L] را به موقعیت هر کارایی حرکت داده و از طریق دکمه بازشو از آن استفاده کنید</string>
+    <string name="gb_shoulder_guide_message2">حرکت [1] با فشردن دکمه فعال شده است. حرکت [2] با رها کردن دکمه فعال شده است.</string>
+    <string name="gb_shoulder_guide_tips1">جعبه ابزار را باز کرده و دکمه‌های بازشو را پیکر بندی کنید</string>
+    <string name="gb_shoulder_guide_title1">حرکت</string>
+    <string name="gb_shoulder_guide_title2">متوالی</string>
+    <string name="gb_shoulder_key">دکمه‌های بازشو</string>
     <string name="gb_shoulder_key_add_show_btn">نمایش دکمه‌های مجازی هنگام بازی</string>
-    <string name="gb_shoulder_key_add_tips">دکمه‌های [L] و [R] را به موقعیت هر کارایی حرکت داده و از طریق دکمه‌های شانه از آن‌ها استفاده کنید</string>
+    <string name="gb_shoulder_key_add_tips">[L] و [R] را به موقعیت هر کارایی حرکت داده و از طریق دکمه‌های بازشو از آن‌ها استفاده کنید</string>
     <string name="gb_shoulder_key_btn_cancel">لغو</string>
     <string name="gb_shoulder_key_btn_save_exit">ذخیره</string>
-    <string name="gb_shoulder_key_dialog_message">هنگامی که در حال بازی نیستید می‌توانید با استفاده هم‌زمان از هر دو دکمه شانه، افزاینده سرعت بازی را آغاز کنید.</string>
-    <string name="gb_shoulder_key_dialog_txt">با استفاده از دکمه‌های شانه می‌توانید افزاینده سرعت بازی را روشن کنید.</string>
+    <string name="gb_shoulder_key_dialog_message">هنگامی که در حال بازی نیستید می‌توانید با استفاده هم‌زمان از هر دو دکمه بازشو، افزاینده سرعت بازی را آغاز کنید.</string>
+    <string name="gb_shoulder_key_dialog_txt">با استفاده از دکمه‌های بازشو می‌توانید افزاینده سرعت بازی را روشن کنید.</string>
     <string name="gb_shoulder_key_guide_btn_done">فهمیدم</string>
     <string name="gb_shoulder_key_guide_btn_next">بعدی</string>
-    <string name="gb_shoulder_key_guide_tips">دکمه‌های شانه را پیکربندی کرده تا مانند یک حرفه‌ای بازی کند!</string>
-    <string name="gb_shoulder_key_guide_tips1">جعبه ابزار را باز کرده و دکمه‌های شانه را پیکربندی کنید</string>
+    <string name="gb_shoulder_key_guide_tips">دکمه‌های بازشو را پیکربندی کرده و مانند یک حرفه‌ای بازی کنید!</string>
+    <string name="gb_shoulder_key_guide_tips1">جعبه ابزار را باز کرده و دکمه‌های بازشو را پیکر بندی کنید</string>
     <string name="gb_shoulder_key_light_effect">انیمیشن‌های رنگی</string>
     <string name="gb_shoulder_key_light_effect_color">رنگی</string>
-    <string name="gb_shoulder_key_light_effect_subtitle">هنگامی که دکمه‌های شانه روشن هستند و شما در حال بازی هستید، انیمیشن‌های رنگی نمایش داده می‌شوند</string>
+    <string name="gb_shoulder_key_light_effect_subtitle">هنگامی که دکمه‌های بازشو روشن هستند و شما در حال بازی هستید، انیمیشن‌های رنگی نمایش داده می‌شوند</string>
     <string name="gb_shoulder_key_light_effect_title">انیمیشن‌ها</string>
     <string name="gb_shoulder_key_settings_guide_tips1">دکمه‌های [L] و [R] را به موقعیت هر کارایی حرکت داده تا پیکربندی به پایان برسد</string>
-    <string name="gb_shoulder_key_settings_guide_tips2">از دکمه‌های شانه برای ویژگی‌هایی که هنگام بازی به آن‌ها اختصاص داده‌اید استفاده کنید</string>
-    <string name="gb_shoulder_key_settings_summary">آغاز افزاینده سرعت بازی با استفاده از هر دو دکمه شانه هنگامی که در حال بازی کردن نیستید</string>
-    <string name="gb_shoulder_key_settings_title">استفاده از دکمه‌های شانه برای افزاینده سرعت بازی</string>
+    <string name="gb_shoulder_key_settings_guide_tips2">هنگام بازی، از دکمه‌های بازشو برای ویژگی‌هایی که به آن‌ها اختصاص می‌دهید استفاده کنید</string>
+    <string name="gb_shoulder_key_settings_summary">آغاز افزاینده سرعت بازی با استفاده از هر دو دکمه بازشو هنگامی که در حال بازی کردن نیستید</string>
+    <string name="gb_shoulder_key_settings_title">استفاده از دکمه‌های بازشو برای افزاینده سرعت بازی</string>
     <string name="gb_shoulder_key_settings_title_new">آغاز فوری افزاینده سرعت بازی</string>
+    <string name="gb_shoulder_set_left_right">راه‌اندازی [%s]</string>
+    <string name="gb_shoulder_set_title">برای پیکربندی دکمه‌های بازشو، آن‌ها را روشن کنید</string>
+    <string name="gb_shoulder_set_title2">[%s] را به موقعیت هر کارایی حرکت داده و از طریق دکمه‌های بازشو از آن استفاده کنید</string>
+    <string name="gb_shoulder_single_trigger">حرکت</string>
+    <string name="gb_shoulder_subsection_down">فشردن</string>
+    <string name="gb_shoulder_subsection_trigger">متوالی</string>
+    <string name="gb_shoulder_subsection_up">رها کردن</string>
+    <string name="gb_shoulder_update_left_right">ویرایش %s</string>
     <string name="gb_sign_gift">اعلام ورود کرده تا جایزه بگیرید</string>
     <string name="gb_sign_gift_button_text">دریافت</string>
     <string name="gb_sign_notification_summary">پخش بازی‌ها بدون تاخیر در شبکه</string>
@@ -2104,6 +2128,7 @@ to join our egg hunt!"</string>
     <string name="menu_text_license_manager">مجوزها</string>
     <string name="menu_text_networkassistants">مصرف اینترنت همراه</string>
     <string name="menu_text_networkassistants_danger">%s فراتر</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s باقی‌مانده</string>
     <string name="menu_text_networkassistants_unit_b">بیت</string>
     <string name="menu_text_networkassistants_unit_gb">گیگابایت</string>
@@ -2112,6 +2137,7 @@ to join our egg hunt!"</string>
     <string name="menu_text_optimize_manage">افزایش سرعت</string>
     <string name="menu_text_optimize_manage_1">افزایش سرعت</string>
     <string name="menu_text_power_manager">باتری</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">حذف از موارد استثنا</string>
     <string name="menu_white">افزودن به استثناها</string>
     <string name="mi_ime_not_used">استفاده از صفحه کلید مجاز شده توسط Xiaomi</string>
@@ -2527,7 +2553,7 @@ to join our egg hunt!"</string>
     <string name="pc_fast_charge_notifi_action_text_on">افزایش سرعت</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">تنظیم میزان باتری برای یادآوری‌ها</string>
     <string name="pc_fast_charge_notifi_summary">شارژ تا %s سریع‌تر از حد معمول…</string>
-    <string name="pc_fast_charge_notifi_summary_on">این ویژگی ممکن است دستگاه شما را داغ کند</string>
+    <string name="pc_fast_charge_notifi_summary_on">وقتی صفحه نمایش خاموش باشد سرعت شارژ افزایش می‌یابد. دستگاه شما گرم خواهد شد.</string>
     <string name="pc_fast_charge_notifi_switch_summary">اعلام درباره افزایش سرعت شارژ هنگامی که شارژر %d واتی متصل بوده و باتری کمتر از سطح تنظیم شده است</string>
     <string name="pc_fast_charge_notifi_switch_title">اعلام درباره افزایش سرعت</string>
     <string name="pc_fast_charge_notifi_title">%dW درحال شارژ</string>
@@ -2741,6 +2767,11 @@ to join our egg hunt!"</string>
     <string name="power_center_dialog_msg_top">هنگام روشن بودن بهینه‌ساز باتری، MIUI بهینه‌سازی‌های زیر را انجام خواهد داد:</string>
     <string name="power_center_hints_scan_danger_result">حالا می‌توانید اشکالات باتری را برطرف کنید</string>
     <string name="power_center_list_item_auto_brightness">تنظیم خودکار روشنایی نمایشگر</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s ولت</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s میلی‌آمپر</string>
+    <string name="power_center_list_item_battery_status_capacity">میلی‌آمپر</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">ساعت</string>
     <string name="power_center_list_item_close_bluetooth">خاموش کردن بلوتوث</string>
     <string name="power_center_list_item_deep_save_title">تنظیمات پیشرفته</string>
@@ -2999,6 +3030,7 @@ to join our egg hunt!"</string>
     <string name="pref_normal_traffic_limit">وقتی که طرح اینترنت همراه مصرف شد</string>
     <string name="pref_open_adjust_traffic">به‌روزرسانی روزانه مصرف اینترنت همراه با استفاده از آمار شرکت مخابراتی شما</string>
     <string name="pref_operator_not_set">شرکت مخابرات تنظیم نیست</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">هنگامی که از طرح اینترنت همراه خود فراتر می‌روید</string>
     <string name="pref_package_traffic_settings">طرح اینترنت همراه</string>
     <string name="pref_pkg_begin_date">تاریخ بازنشانی مصرف</string>
@@ -3248,6 +3280,7 @@ to join our egg hunt!"</string>
     <string name="privacy_using_record">درحال ضبط صدا</string>
     <string name="privacyapp_number_masked_text">محتوای اعلان‌ها پنهان است</string>
     <string name="privacyapp_number_unmasked_text">محتوای اعلان‌ها می‌توانند پنهان شوند</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">سرور رسانه</string>
     <string name="process_vpnsdkmanager_label">افزاینده سرعت بازی</string>
     <string name="promotion">تبلیغ</string>
@@ -3323,6 +3356,7 @@ to join our egg hunt!"</string>
     <string name="result_sms_title_antispam">توسط پیوندهای پیامک‌های مخرب تهدید شده است</string>
     <string name="result_sms_title_auth">خطر افشای پیامک‌های مالی وجود دارد</string>
     <string name="result_wifi_header">خطرات Wi-Fi شناسایی شد</string>
+    <string name="resume">بازنشانی</string>
     <string name="right_precent">%۱۰۰</string>
     <string name="risk_app_install_agree_button">اعتماد کردن به این برنامه</string>
     <string name="risk_app_install_agree_checkbox">من همه خطرات احتمالی را میپذیرم.</string>
@@ -4340,7 +4374,7 @@ Rolled over extra data"</string>
     <string name="vb_video_effects_3d">صدای فراگیر</string>
     <string name="vb_video_effects_3d_summary">افزایش عمق تولید صدا برای ایرفون‌ها و بلندگوها</string>
     <string name="vb_video_effects_3d_summary_headset">افزایش حس شناوری و احاطه شدن هنگامی که با ایرفون‌ها به صدایی گوش می‌دهید</string>
-    <string name="vb_video_effects_3d_surround">صدای فراگیر</string>
+    <string name="vb_video_effects_3d_surround">صدای فراگیر مجازی</string>
     <string name="vb_video_effects_display_style">سبک</string>
     <string name="vb_video_effects_dolby">Dolby Atmos</string>
     <string name="vb_video_effects_dolby_dialog_enhancer">گفتگوی بهبود یافته</string>
@@ -4369,7 +4403,7 @@ Rolled over extra data"</string>
     <string name="vb_video_effects_some_headphone">پشتیبانی از مدل‌های ایرفون انتخاب شده</string>
     <string name="vb_video_effects_spatial">دنبال کردن حرکت سر</string>
     <string name="vb_video_effects_spatial_summary">"تنظیم صدای فراگیر بر اساس حرکت سر
-*فقط در مدل‌های ایرفون بازی پشتیبانی می‌شود"</string>
+*فقط در مدل‌های ایرفون مخصوص بازی پشتیبانی می‌شود"</string>
     <string name="vb_video_effects_srs_premium_sound">صدا</string>
     <string name="vb_video_super_division">افزایش وضوح</string>
     <string name="vb_video_super_division_desc">"افزایش وضوح به صورت خودکار هنگامی که ≤720p باشد.

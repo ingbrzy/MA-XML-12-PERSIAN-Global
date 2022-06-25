@@ -14,4 +14,12 @@
         <item quantity="other">اقدام انتخاب شده در حالت تماس اضطراری در دسترس نیست. این تلفن برای %s دقیقه در این حالت خواهد بود. می‌خواهید اکنون خارج شوید؟</item>
         <item quantity="one">اقدام انتخاب شده در حالت تماس اضطراری در دسترس نیست. این تلفن برای %s دقیقه در این حالت خواهد بود. می‌خواهید اکنون خارج شوید؟</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d اعلان جدید</item>
+        <item quantity="one">%d اعلان جدید</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">‏%1$d دستگاه متصل</item>
+        <item quantity="one">‏%1$d دستگاه متصل</item>
+    </plurals>
 </resources>

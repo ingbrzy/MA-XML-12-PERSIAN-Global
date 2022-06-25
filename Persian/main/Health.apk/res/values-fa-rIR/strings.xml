@@ -197,6 +197,11 @@ You'll be able to track your workouts and activity."</string>
     <string name="dialog_sleep_goal_title">Sleep duration goal</string>
     <string name="dialog_sleep_record_auto_start">برای دنبال کردن دقیق‌تر خواب، به سلامت Xiaomi اجازه آغاز خودکار بدهید.</string>
     <string name="dialog_sure">تأیید</string>
+    <string name="dialog_upgrade_description">"۱. طراحی جدید.
+۲. همگام‌سازی داده‌ها میان دستگاه‌ها.
+۳. دیدن داده‌های سلامت از برنامه‌های سلامت، Xiaomi Wear و سایر برنامه‌ها در یک محل."</string>
+    <string name="dialog_upgrade_positive_btn">به‌روزرسانی</string>
+    <string name="dialog_upgrade_title">Mi Fitness</string>
     <string name="dialog_user_agreement_purpose">به سلامت Xiaomi خوش آمدید! از این برنامه می‌توانید برای شمارش گام‌ها، دنبال کردن خواب، دوره‌های قاعدگی، وزن و همچنین همگام‌سازی آمار خود با فضای ابری استفاده کنید.</string>
     <string name="dialog_user_agreement_purpose2">Welcome to Xiaomi Health! You can use this app to count your steps, analyze sleep, track periods, record weight, and more.</string>
     <string name="disable">Off</string>

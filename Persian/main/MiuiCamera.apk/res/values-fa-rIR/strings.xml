@@ -14,8 +14,8 @@
     <string name="accessibility_beauty_function_panel_on">پنل زیبایی</string>
     <string name="accessibility_beauty_panel_closed">منوی زیبایی پنهان است</string>
     <string name="accessibility_beauty_panel_open">منوی زیبایی باز است</string>
-    <string name="accessibility_beauty_switch_closed">حالت زیبایی خاموش است</string>
-    <string name="accessibility_beauty_switch_open">حالت زیبایی روشن است</string>
+    <string name="accessibility_beauty_switch_closed">زیبایی خاموش است</string>
+    <string name="accessibility_beauty_switch_open">زیبایی روشن است</string>
     <string name="accessibility_bokeh_adjust">تنظیم تاری پس‌زمینه</string>
     <string name="accessibility_bokeh_level">دیافراگم F%1$s</string>
     <string name="accessibility_bokeh_normal">تار کردن پس‌زمینه دوربین جلو خاموش است</string>
@@ -349,7 +349,7 @@
     <string name="beauty_mo_or">اصلی</string>
     <string name="beauty_mode_reset_toast">جلوه‌های دوباره زیبایی با موفقیت پاک شدند</string>
     <string name="beauty_ne">اصلی</string>
-    <string name="beauty_no_t">حالت زیبایی خاموش است</string>
+    <string name="beauty_no_t">زیبایی خاموش است</string>
     <string name="beauty_origin_skincolor">اصلی</string>
     <string name="beauty_reset">بازنشانی</string>
     <string name="beauty_reset_toast">جلوه‌های زیبایی با موفقیت بازنشانی شدند</string>
@@ -366,7 +366,7 @@
     <string name="beauty_tab_name_live_beauty">زیبایی</string>
     <string name="beauty_tab_name_live_filter">فیلترها</string>
     <string name="bokeh_use_hint">جلوه عمق</string>
-    <string name="burst_shoot_exit_button_text">خاموش کردن عکسبرداری پشت‌سرهم</string>
+    <string name="burst_shoot_exit_button_text">خاموش کردن عکس‌برداری پشت‌سرهم</string>
     <string name="button_fisheye_camera_title">چشم ماهی</string>
     <string name="button_front_camera_title">یک سلفی بگیرید</string>
     <string name="button_normal_video_title">ضبط ویدئو</string>
@@ -583,7 +583,7 @@
     <string name="dolly_zoom_guide_tip9">کوچه.</string>
     <string name="dolly_zoom_guide_video_title1">بزرگ‌نمایی جادویی</string>
     <string name="dolly_zoom_guide_video_title2">صحنه‌ها</string>
-    <string name="download_alert">هنگام دانلودهای مداوم نمی‌توان ویرایش کرد</string>
+    <string name="download_alert">هنگام دانلودهای در حال انجام ویرایش نمی‌شود</string>
     <string name="download_automatic_cancel">لغو</string>
     <string name="download_automatic_confirm">دانلود</string>
     <string name="download_automatic_message">افزونه‌های ویژگی هنگامی که این دستگاه به Wi-Fi متصل است دانلود شوند؟</string>
@@ -638,6 +638,7 @@
     <string name="edit_smile">لبخند</string>
     <string name="edit_solid">کانتورها</string>
     <string name="emoticon">بسته استیکر</string>
+    <string name="empty" />
     <string name="eras_ad">میلادی</string>
     <string name="eras_bc">پیش از میلاد</string>
     <string name="error_fail_to_start_audio_capture">ضبط صدا آغاز نشد</string>
@@ -845,6 +846,9 @@
     <string name="live_sticker_updating">در حال به‌روزرسانی…</string>
     <string name="live_workspace_title">پیش‌نویسها</string>
     <string name="live_workspace_title_edit">موارد را برای حذف انتخاب کنید</string>
+    <string name="live_workspace_title_pause">توقف</string>
+    <string name="live_workspace_title_play">پخش</string>
+    <string name="live_workspace_title_pre_edit">موارد را برای حذف انتخاب کنید</string>
     <string name="location_access_allow">پذیرفتن</string>
     <string name="location_fromkeyguard_not_permission">دوربین اکنون مجاز به دسترسی به موقعیت شما نیست. ابتدا قفل دستگاه خود را باز کنید.</string>
     <string name="location_permission_des">به‌یاد داشتن موقعیت برای عکس‌ها و ویدئوها</string>
@@ -1040,6 +1044,10 @@
     <string name="module_name_multi_camera">چند دوربینه</string>
     <string name="module_name_new_slow_motion">حرکت آهسته</string>
     <string name="module_name_panorama">پانوراما</string>
+    <string name="module_name_pixel_108m">108MP</string>
+    <string name="module_name_pixel_48m">48MP</string>
+    <string name="module_name_pixel_50m">50MP</string>
+    <string name="module_name_pixel_64m">64MP</string>
     <string name="module_name_portrait">پرتره</string>
     <string name="module_name_professional">حرفه‌ای</string>
     <string name="module_name_scanner">اسکنر</string>
@@ -1172,10 +1180,11 @@
     <string name="pic_flaw_blink_one">به نظر می‌رسد شخص داخل قاب چشمانش را بسته است</string>
     <string name="pic_flaw_cover">به نظر می‌رسد بخشی از لنز پوشانده شده است</string>
     <string name="pm">ب.ظ</string>
-    <string name="popup_tip_3d_beauty_intro_text">زیباسازی سه‌بعدی</string>
+    <string name="popup_tip_3d_beauty_intro_text">زیبایی سه‌بعدی</string>
     <string name="popup_tips_near_range_mode">فوکوس نزدیک</string>
     <string name="popup_tips_privacy_watermark_edit">ویرایش نهان‌نگار</string>
     <string name="portait_effect_entry_blackwhite">سیاه و سفید</string>
+    <string name="portait_effect_entry_cold_white">نور ستاره</string>
     <string name="portait_effect_entry_cool">نعناع</string>
     <string name="portait_effect_entry_dusk">غروب</string>
     <string name="portait_effect_entry_fairytale">کودکی</string>
@@ -1193,6 +1202,7 @@
     <string name="portait_effect_entry_riddle">آب نبات</string>
     <string name="portait_effect_entry_romance">عاشقانه</string>
     <string name="portait_effect_entry_sepia">قرمز قهوه‌ای</string>
+    <string name="portait_effect_entry_shallots">پرتو خورشید</string>
     <string name="portait_effect_entry_story">داستان</string>
     <string name="portait_effect_entry_tea">چای</string>
     <string name="portrait_bokeh_first_tips">"از حالت پرتره برای تار کردن
@@ -1229,7 +1239,7 @@
     <string name="pref_audio_focus_title">فوکوس صوتی</string>
     <string name="pref_auto_boot">راه‌اندازی خودکار</string>
     <string name="pref_auto_boot_summary">با اجازه آغاز خودکار دادن به دوربین، واکنش آن را سریع‌تر کنید. شما در جزئیات برنامه می‌توانید مجوزهای آغاز خودکار را مدیریت کنید.</string>
-    <string name="pref_burst_shoot_title">عکسبرداری پشت‌سرهم</string>
+    <string name="pref_burst_shoot_title">عکس‌برداری پشت‌سرهم</string>
     <string name="pref_camcorder_settings">ویدئو</string>
     <string name="pref_camcorder_settings_category">تنظیمات دوربین</string>
     <string name="pref_camera_ai_scene_title">دوربین AI</string>
@@ -1255,6 +1265,7 @@
     <string name="pref_camera_auxiliary_close">خاموش</string>
     <string name="pref_camera_auxiliary_exposure_feedback">تأیید نوردهی</string>
     <string name="pref_camera_auxiliary_focus_peak">اوج فوکوس</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">زیاد</string>
     <string name="pref_camera_beautify_entry_low">کم</string>
     <string name="pref_camera_beautify_entry_normal">متوسط</string>
@@ -1352,7 +1363,7 @@
     <string name="pref_camera_jpegquality_title">کیفیت عکس</string>
     <string name="pref_camera_long_press_shutter_feature_title">فشردن و نگه داشتن دکمه شاتر</string>
     <string name="pref_camera_long_press_viewfinder_title">تنظیمات منظره یاب</string>
-    <string name="pref_camera_long_pressing_burst_shooting_entry_burst">عکسبرداری پشت‌سرهم</string>
+    <string name="pref_camera_long_pressing_burst_shooting_entry_burst">عکس‌برداری پشت‌سرهم</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">فوکوس</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_record">ضبط ویدئو</string>
     <string name="pref_camera_long_pressing_shutter_title">دکمه شاتر را فشار دهید و نگهدارید تا AE/AF/AWB قفل شود</string>
@@ -1384,8 +1395,8 @@
     <string name="pref_camera_portrait_mode_entry_off">حالت پرتره خاموش است</string>
     <string name="pref_camera_portrait_mode_entry_on">حالت پرتره روشن است</string>
     <string name="pref_camera_portrait_mode_title">حالت پرتره</string>
-    <string name="pref_camera_predictive_shutter_description">حرکت را دنبال کرده تا تاری عکس‌های بچه‌ها، حیوانات خانگی و سایر سوژه‌های فعال را به حداقل برسانید</string>
-    <string name="pref_camera_predictive_shutter_title">دنبال کردن حرکت</string>
+    <string name="pref_camera_predictive_shutter_description">با دنبال کردن حرکت، تاری عکس کودکان، حیوانات و سایر اشیاء فعال را به حداقل می‌رساند</string>
+    <string name="pref_camera_predictive_shutter_title">تصویر برداری در حرکت</string>
     <string name="pref_camera_proximity_lock_summary">قفل کردن اشاره‌های لمسی هنگامی که در یک جیب قرار می‌گیرد</string>
     <string name="pref_camera_proximity_lock_title">حالت جیب</string>
     <string name="pref_camera_quick_settings">تنظیمات سریع</string>
@@ -1447,10 +1458,12 @@
     <string name="pref_camera_tip_id_card">اسکنر کارت شناسایی</string>
     <string name="pref_camera_touchafaec_entry_off">خاموش</string>
     <string name="pref_camera_touchafaec_entry_on">روشن</string>
-    <string name="pref_camera_track_focus_intro_description">When you take photos or shoot videos with moving subjects, this feature detects people, cats, and dogs, and keeps them in focus automatically. Additionally, you can also double tap any subject to track movement.</string>
-    <string name="pref_camera_track_focus_intro_goto">Turn on</string>
+    <string name="pref_camera_track_eye_preferred_description">حرکات چشم را دنبال می‌کند تا هنگامی که شخصی در داخل قاب قرار می‌گیرد چشم‌ها را در فوکوس نگه دارد</string>
+    <string name="pref_camera_track_eye_preferred_title">فوکوس ردیابی چشم</string>
+    <string name="pref_camera_track_focus_intro_description">هنگام گرفتن عکس یا فیلم از اجسام در حال حرکت، این ویژگی افراد، گربه‌ها و سگ‌ها را شناسایی کرده و به صورت خودکار روی آن‌ها فوکوس می‌نماید. افزون بر این، شما می‌توانید با دو بار ضربه روی هر جسمی، حرکت آن را دنبال کنید.</string>
+    <string name="pref_camera_track_focus_intro_goto">روشن کردن</string>
     <string name="pref_camera_track_focus_preferred_description">افراد، گربه‌ها و سگ‌های درحال حرکت را به صورت خودکار در حالت فوکوس نگه می‌دارد و یا با دوبار ضربه روی هر چیزی آن را دنبال می‌کند</string>
-    <string name="pref_camera_track_focus_preferred_title">ردیابی فوکوس</string>
+    <string name="pref_camera_track_focus_preferred_title">فوکوس ردیابی حرکت</string>
     <string name="pref_camera_ubifocus_title">فوکوس دوباره</string>
     <string name="pref_camera_ultra_wide_ldc_description">اصلاح تصاویر خمیده به صورت خودکار</string>
     <string name="pref_camera_ultra_wide_ldc_title">تصحیح خمیدگی در تصاویر فوق باز</string>
@@ -1466,6 +1479,7 @@
     <string name="pref_camera_video_tag_description">هنگام ضبط ویدئو روی «برچسب» زده تا بتوانید هنگام بازپخش به لحظات علامت‌گذاری شده باز گردید</string>
     <string name="pref_camera_volumekey_function_entry_shutter">شاتر</string>
     <string name="pref_camera_volumekey_function_entry_timer">شمارش معکوس شاتر</string>
+    <string name="pref_camera_volumekey_function_entry_timer_new">Timer (%ds)</string>
     <string name="pref_camera_volumekey_function_entry_volume">میزان صدا</string>
     <string name="pref_camera_volumekey_function_entry_zoom">بزرگ‌نمایی</string>
     <string name="pref_camera_volumekey_function_title">عملکرد دکمه‌های میزان صدا</string>
@@ -1519,6 +1533,7 @@
     <string name="pref_hdr10_hdr10plus_video_mode_description">ضبط ویدئوهای با وضوح بالا به صورت HDR10+/HDR10 به منظور بهینه سازی رنگ‌ها و محدوده دینامیکی. ویدئوهای ضبط شده فقط در دستگاه‌های سازگار با HDR10+/HDR10 می‌توانند پخش شوند.</string>
     <string name="pref_hdr10_video_mode_description">به طور خودکار رنگ و کنتراست فیلم‌های 4K و 8K را بهبود می‌بخشد. فیلم‌های پیشرفته فقط در دستگاه‌های سازگار با HDR10 پخش می‌شوند.</string>
     <string name="pref_hdr10plus_video_mode_description">بهینه‌سازی رنگ‌ها و تنظیم کنتراست برای ویدئوهای 4K و 8K. این ویژگی فقط در دستگاه‌های سازگار با HDR10+ کار می‌کند.</string>
+    <string name="pref_hybrid_video_mode_description">استفاده از فناوری HLG برای بهبود رنگ‌ها و محدوده پویای ویدئوهای ضبط شده با کیفیت بالا</string>
     <string name="pref_i_n_r_b">کاهش سر و صدای هوشمند</string>
     <string name="pref_k_h">هدفون توگوشی اجرای زنده</string>
     <string name="pref_k_s_i">کنترل پخش صدای ضبط شده در هنگام اتصال با استفاده از ایرفون‌های سیمی</string>
