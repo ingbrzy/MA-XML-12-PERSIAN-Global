@@ -273,6 +273,7 @@
     <string name="menu_item_sort_by_gmt_offset">مرتب کردن براساس زمان</string>
     <string name="menu_item_sort_by_name">مرتب کردن براساس نام</string>
     <string name="midnight">شب</string>
+    <string name="miuix_access_state_desc">انتخاب شده</string>
     <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
     <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
@@ -296,7 +297,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">چند لحظه صبر کنید…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">موارد بارگذاری نشدند</string>
     <string name="module_dialog_negative">مخالفت</string>
-    <string name="module_dialog_neutral">فهمیدم</string>
+    <string name="module_dialog_neutral">متوجه‌ام</string>
     <string name="module_dialog_positive">پذیرفتن</string>
     <string name="module_download_cancel">خیر، سپاسگزارم</string>
     <string name="module_download_data_msg">برای در دسترس قرار دادن هشدارهای هوشمند MIUI، برنامه ساعت نیاز به دانلود فایل‌های صوتی دارد. هشدارهای هوشمند دارای ویژگی‌های صوتی هستند که اجازه می‌دهند اطلاعات آب و هوای کنونی نیز شامل هشدارها بشود. ≈۲۰ مگابایت از اینترنت همراه شما برای این دانلود لازم خواهد شد. دانلود شوند؟</string>
@@ -316,7 +317,7 @@
     <string name="module_downloading">درحال دانلود فایل صوتی…</string>
     <string name="module_unzipping">در حال بازکردن بسته صدا…</string>
     <string name="module_update_success">صداهای بارگذاری شده برای هشدارهای هوشمند MIUI با موفقیت دانلود شدند. شما می‌توانید هشدارهای هوشمند MIUI را در تنظیمات ساعت تنظیم کنید.</string>
-    <string name="module_update_success_control">فهمیدم</string>
+    <string name="module_update_success_control">متوجه‌ام</string>
     <string name="module_weather_ringtone_download_data">هشدارِ ساعت آب و هوا از صداهای زنگ متفاوت بر اساس آب و هوای کنونی انتخاب می‌شود. ساعت برای انجام آن نیاز به دانلود ≈۳۰ مگابایت فایل صوتی دارد. حالا دانلود شود؟</string>
     <string name="module_weather_ringtone_download_data_privacy">&lt;Data>هشدارِ ساعت آب و هوا از صداهای زنگ متفاوت بر اساس آب و هوای کنونی انتخاب می‌شود. ساعت برای انجام آن نیاز به دانلود ≈۳۰ مگابایت فایل صوتی دارد. پیش از استفاده از ساعت، شما باید &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> و &lt;a href=\"%2$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید. می‌پذیرید؟&lt;/Data></string>
     <string name="module_weather_ringtone_download_wifi">هشدارِ ساعت آب و هوا از صداهای زنگ متفاوت بر اساس آب و هوای کنونی انتخاب می‌شود. ساعت برای انجام آن نیاز به دانلود فایل صوتی دارد. حالا دانلود شود؟</string>
@@ -471,6 +472,7 @@
     <string name="shutdown_alarm_enable_summary">در صورتی که تا رسیدن زمان هشدار بیش از ۱۰ دقیقه باشد پس از خاموش کردن دستگاه هشدار به صدا در خواهد آمد</string>
     <string name="shutdown_alarm_title">هشدار خاموش</string>
     <string name="silent_alarm_summary">بی‌صدا</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">خاموش کردن تنها در %s</string>
     <string name="sleep_analysis">آمار</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
@@ -523,6 +525,7 @@
     <string name="sunday">یک‌شنبه</string>
     <string name="sunday_short">یک‌شنبه</string>
     <string name="sunday_shortest">یک‌شنبه</string>
+    <string name="symbol_colon">:</string>
     <string name="system_permission_agree_desc">برای دسترسی به همه ویژگی‌های این برنامه به آن اجازه اتصال به اینترنت را بدهید.</string>
     <string name="system_permission_main_purpose">نمایش زمان، تنظیم هشدارها و زمان‌سنج‌ها، استفاده از کرنومتر</string>
     <string name="system_permission_purpose">ایجاد هشدارهای هفتگی و تنظیم صداهای زنگ سفارشی</string>
@@ -693,6 +696,8 @@
     <string name="worldcolock_timezone_gap">%s ساعت</string>
     <string name="worldcolock_timezone_local">همانند زمان محلی</string>
     <string name="xiaoai_ringtone_title">زنگ‌های ‏AI‏ Mi</string>
+    <string name="xiaomi_deskclock_uninstall_description_content">ساعت یک برنامه سیستمی است. پس از حذف برنامه دیگر نمی‌توانید ساعت را بررسی، هشدارها را تنظیم و یا از سایر ویژگی‌های ساعت استفاده کنید.</string>
+    <string name="xiaomi_deskclock_uninstall_description_title">ساعت حذف شود؟</string>
     <string name="yesterday">دیروز</string>
     <string name="your_sounds">صداهای من</string>
 </resources>

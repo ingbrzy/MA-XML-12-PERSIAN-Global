@@ -98,6 +98,14 @@
         <item quantity="other">شما امروز %d دقیقه تماشا کرده‌اید</item>
         <item quantity="one">شما امروز %d دقیقه تماشا کرده‌اید</item>
     </plurals>
+    <plurals name="incentive_popup_window_share_success">
+        <item quantity="other">با موفقیت هم‌رسانی شد. شما %d امتیاز دریافت کردید.</item>
+        <item quantity="one">با موفقیت هم‌رسانی شد. شما %d امتیاز دریافت کردید.</item>
+    </plurals>
+    <plurals name="incentive_popup_window_subscribe_success">
+        <item quantity="other">اشتراک با موفقیت انجام شد. شما %d امتیاز دریافت کردید.</item>
+        <item quantity="one">اشتراک با موفقیت انجام شد. شما %d امتیاز دریافت کردید.</item>
+    </plurals>
     <plurals name="incentive_task_watchvideo_begin">
         <item quantity="other">%d امتیاز به دست آورید!</item>
         <item quantity="one">%d امتیاز به دست آورید!</item>

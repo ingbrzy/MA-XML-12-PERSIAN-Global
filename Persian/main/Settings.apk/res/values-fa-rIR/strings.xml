@@ -662,6 +662,7 @@
 در صورتی که هر کدام از موارد بالا را انجام داده‌اید، حساب Mi خود را دوباره بیافزایید؛ در غیر این صورت دیگر نمی‌توانید قفل دستگاه خود را باز کنید."</string>
     <string name="bootloader_tips_ok">فهمیدم</string>
     <string name="bootloader_tips_warning">اتصال شبکه را قطع نکرده، از حساب Mi خود خارج نشده، به تنظیمات کارخانه بازنشانی نکرده و داده‌های سیستمی را پاک نکنید.</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bottom_function_settings">کارایی‌های دکمه‌های افزوده</string>
     <string name="breathing_light_color_menu_title">رنگ نور</string>
     <string name="breathing_light_color_summary">رنگ روشن چراغ هنگام دریافت اعلان‌های جدید</string>
@@ -987,6 +988,11 @@
     <string name="dark_color_mode">حالت تاریک</string>
     <string name="dark_color_summary_lcd">از ترکیب رنگ تیره‌تر برای پس‌زمینه‌های سیستم و برنامه‌های سازگار استفاده می‌شود. روشن کردن حالت تاریک هنگام استفاده از دستگاه در محیط تاریک به کاهش خستگی چشمان شما کمک می‌کند.</string>
     <string name="dark_color_summary_oled">از ترکیب رنگ تیره‌تر برای پس‌زمینه‌های سیستم و برنامه‌های سازگار استفاده می‌شود. حالت تاریک مصرف برق را کم کرده و به کاهش خستگی چشم نیز کمک می‌کند.</string>
+    <string name="dark_mode_alert_dialog_cancel">لغو</string>
+    <string name="dark_mode_alert_dialog_checkbox">دوباره نمایش داده نشود</string>
+    <string name="dark_mode_alert_dialog_confirm">روشن کردن</string>
+    <string name="dark_mode_alert_dialog_message">این برنامه ممکن است در حالت تاریک به درستی نمایش داده نشود. در هر صورت حالت تاریک روشن شود؟</string>
+    <string name="dark_mode_alert_dialog_title">توجه</string>
     <string name="dark_mode_apps_header">برنامه‌های خاص</string>
     <string name="dark_mode_auto_time_summary">خاموش و روشن کردن حالت تاریک در زمان زمان‌بندی شده</string>
     <string name="dark_mode_auto_time_title">سفارشی</string>
@@ -1161,6 +1167,7 @@
     <string name="dialog_wifi_context">برای راه اندازی دستگاه خود باید به اینترنت متصل شوید. تا زمانی که به Wi-Fi وصل نشوید، ممکن است از اینترنت همراه استفاده شود. استفاده از اینترنت همراه ممکن است هزینه‌های مخابراتی اضافی ایجاد کند. به هر حال از ایترنت همراه استفاده می‌کنید؟</string>
     <string name="dialog_wifi_title">استفاده از اینترنت همراه</string>
     <string name="dialog_yes">بله</string>
+    <string name="digital_clock_dot">:</string>
     <string name="direct_boot_unaware_dialog_message">توجه: پس از راه‌اندازی دوباره، تا زمانی که قفل دستگاه خود را باز نکنید این برنامه آغاز نخواهد شد.</string>
     <string name="disable_overlays">غیرفعال کردن پوشش سخت‌افزاری</string>
     <string name="disable_overlays_summary">همیشه از GPU برای رندر کردن صفحه استفاده شود</string>
@@ -1194,6 +1201,7 @@
     <string name="dndm_auto_button_title">تکرار زمان مزاحم نشوید</string>
     <string name="dndm_auto_setting_group">زمان‌بندی شده</string>
     <string name="dndm_auto_time_setting">تنظیم زمان</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_off">تا</string>
     <string name="dndm_auto_time_turn_off_title">حالت مزاحم نشوید به‌طور خودکار خاموش شود</string>
     <string name="dndm_auto_time_turn_on">از</string>
@@ -1345,6 +1353,7 @@
     <string name="erase_sure">اجباری</string>
     <string name="error_apn_not_allowed">این APN در این دستگاه مجاز نیست. یکی دیگر را آزمایش کنید.</string>
     <string name="error_apn_restrict_string">قسمت APN نمی‌تواند حاوی %1$s باشد</string>
+    <string name="error_xcap_not_add">از XCAP به عنوان نوع نام نقطه دسترسی نمی‌توان استفاده کرد.</string>
     <string name="evening">بعد از ظهر</string>
     <string name="every_day">هر روز</string>
     <string name="exceptional_case">موارد استثنا</string>
@@ -1694,6 +1703,11 @@
     <string name="gmscore_settings_title">خدمات پایه‌ای Google</string>
     <string name="go_to_sleep">خاموش کردن نمایشگر</string>
     <string name="google_account_title">Google</string>
+    <string name="google_assistant_guide_cancel">لغو</string>
+    <string name="google_assistant_guide_message">برای آغاز گفتار با دستیار Google می‌توانید دکمه خاموش/روشن را به مدت %s ثانیه فشرده و نگه دارید. این میان‌بر تنظیم شود؟</string>
+    <string name="google_assistant_guide_ok">تنظیم</string>
+    <string name="google_assistant_guide_tip">*برای باز کردن منوی میان‌بر، دکمه روشن/خاموش را %s ثانیه فشرده و نگه دارید.</string>
+    <string name="google_assistant_guide_title">دستیار Google</string>
     <string name="google_assistant_label">دستیار Google</string>
     <string name="google_backup_enable">روشن کردن پشتیبان‌گیری‌ها</string>
     <string name="google_backup_section_title">نسخه‌های پشتیبان Google</string>
@@ -3070,6 +3084,7 @@ Read and agree to %s before using this service."</string>
     <string name="power_remaining_less_than_duration_only">کمتر از %1$s مانده</string>
     <string name="power_remaining_more_than_subtext">بیشتر از %1$s مانده (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">بیشتر از %1$s مانده</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_settings_title">کارایی سیستم</string>
     <string name="power_suggestion_battery_run_out">ممکن است باتری تمام شود با %1$s</string>
     <string name="power_usage_history">مصرف باتری</string>
@@ -3209,6 +3224,7 @@ Read and agree to %s before using this service."</string>
     <string name="private_sms_need_to_unlock">گذرواژه را وارد کنید</string>
     <string name="private_sms_recording_intro_header">یک الگوی باز کردن قفل بکشید</string>
     <string name="private_sms_reset_by_account">برای بازنشانی گذرواژه، وارد حساب Mi خود شوید.</string>
+    <string name="process_kernel_label">سیستم عامل Android</string>
     <string name="profile_connect_timeout_subtext">در اتصال اشکالی رخ داد. دستگاه را خاموش کرده و دوباره بازگردید.</string>
     <string name="profile_info_settings_title">اطلاعات نمایه</string>
     <string name="provision_activation">فعال</string>
@@ -3680,6 +3696,7 @@ Read and agree to %s before using this service."</string>
     <string name="security_encryption_attention_3">باید یک قفل صفحه جدید تنظیم کنید.</string>
     <string name="security_encryption_attention_4">مطمئن شوید گذرواژه صفحه قفل را به خاطر سپرده‌اید، در غیر این صورت لازم می‌شود یک بازنشانی کامل انجام داده و همه داده‌های دستگاه را پاک کنید.</string>
     <string name="security_encryption_attention_info">شما می‌توانید همه حساب‌ها، تنظیمات، برنامه‌های دانلود شده و اطلاعات، رسانه‌ها و سایر فایل‌های آن‌ها را رمزگذاری کنید.</string>
+    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_title">مهم</string>
     <string name="security_encryption_close_dialog_info">انتخاب رمزگذاری نکردن دستگاه با قفل صفحه ممکن است برخی خدمات Google را از دسترس خارج کند.</string>
     <string name="security_encryption_close_dialog_title">بازگشت به رمزگذاری سیستم پیش‌فرض</string>
@@ -3833,6 +3850,7 @@ Read and agree to %s before using this service."</string>
     <string name="size_kilo_byte">ک.ب</string>
     <string name="size_mega_byte">م.ب</string>
     <string name="size_peta_byte">پ.ب</string>
+    <string name="size_suffix">%1$s %2$s</string>
     <string name="size_tera_byte">ت.ب</string>
     <string name="skip_lock_screen_confirm_msg">اعلان‌ها، صفحه کنترل پخش موسیقی و میان‌برها روی صفحه قفل نمایش داده نخواهند شد.</string>
     <string name="skip_step">رد شدن</string>
@@ -3973,6 +3991,7 @@ Read and agree to %s before using this service."</string>
     <string name="status_bar_carrier_settings_no_sim_card">بدون سیم‌کارت</string>
     <string name="status_bar_settings">اعلان‌ها و نوار وضعیت</string>
     <string name="status_bar_settings_all_app_display_loading">چند لحظه صبر کنید…</string>
+    <string name="status_bar_settings_carrier_sim">"سیم‌کارت %1$s: "</string>
     <string name="status_bar_settings_manage_notification">اعلان‌های برنامه</string>
     <string name="status_bar_settings_notification_bar">کرکره اعلان</string>
     <string name="status_bar_settings_status_bar">نوار وضعیت</string>
@@ -4546,6 +4565,7 @@ Read and agree to %s before using this service."</string>
     <string name="visibility_override_title">روی صفحه قفل</string>
     <string name="voice_access">فرمان‌های صوتی</string>
     <string name="voice_assist">Mi AI</string>
+    <string name="voice_assist_volume_option_title">@string/voice_assist</string>
     <string name="voice_category">صحبت کردن</string>
     <string name="voice_helper_title">دستیار صوتی</string>
     <string name="voip_assistant_settings">دستیار VoIP</string>

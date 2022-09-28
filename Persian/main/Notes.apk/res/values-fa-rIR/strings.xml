@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="access_denied_info">تلاش‌ها بیش از اندازه هستند. چند دقیقه صبر کرده سپس دوباره تلاش کنید.</string>
     <string name="action_collapse">پنهان کردن</string>
     <string name="action_expand">نمایش بیشتر</string>
     <string name="action_folder_description">مشاهده پوشه‌ها</string>
@@ -93,7 +94,7 @@
     <string name="dialog_button_confirm">تأیید</string>
     <string name="dialog_button_confirm_delete">حذف</string>
     <string name="dialog_button_continue_work">ادامه</string>
-    <string name="dialog_button_i_know">فهمیدم</string>
+    <string name="dialog_button_i_know">متوجه‌ام</string>
     <string name="dialog_button_move">انتقال</string>
     <string name="dialog_privacy_revoke_tips">پس از باطل کردن مجوز، این برنامه جمع‌آوری داده‌ها را متوقف کرده و همه داده‌های مرتبط از سرورها حذف خواهد کرد. این کار ممکن است باعث گردد برنامه عملاً غیر قابل استفاده شود. در هر صورت مجوز باطل شود؟ برای تضمین امنیت حساب خود، پیش از باطل کردن مجوز، برای خدمات فضای ابری در i.mi.com وارد حساب شوید.</string>
     <string name="dialog_share_as_pic">هم‌رسانی یادداشت به عنوان عکس</string>
@@ -105,6 +106,7 @@
     <string name="dlg_hide_message">درحال پنهان کردن…</string>
     <string name="dlg_info_creating_message">درحال ایجاد تصویر…</string>
     <string name="dlg_info_save_to_gallery_message">درحال ذخیره عکس در گالری…</string>
+    <string name="dlg_info_save_to_local_message">در حال ذخیره کردن…</string>
     <string name="dlg_message_password_reset">گذرواژه یادداشت‌های پنهان با گذرواژه حفاظت از حریم خصوصی جابجا خواهد شد که برای پیام‌ها،‌ عکس‌ها و پوشه‌های پنهان کار می‌کند</string>
     <string name="dlg_message_set_password">گذرواژه حفاظت از حریم خصوصی برای پیام‌ها، عکس‌ها و پوشه‌های پنهان کار می‌کند</string>
     <string name="dlg_message_use_privacy_password">از گذرواژه حفاظت از حریم خصوصی استفاده کنید. این گذرواژه برای پیام‌ها، عکس‌ها و پوشه‌های پنهان کار می‌کند.</string>
@@ -441,6 +443,8 @@
     <string name="month_september_shortest">سپتامبر</string>
     <string name="more">بیشتر</string>
     <string name="morning">صبح</string>
+    <string name="network_error_info">یک خطای شبکه رخ داد. تنظیمات شبکه خود را بررسی کرده و سپس دوباره تلاش کنید.</string>
+    <string name="network_timeout_info">به شبکه متصل نشد. دوباره تلاش کنید.</string>
     <string name="new_app_name">یادداشت‌های Mi</string>
     <string name="new_audio_create_cancel_talkback_des">لغو شد</string>
     <string name="new_audio_create_done_talkback_des">ایجاد شد</string>
@@ -470,11 +474,14 @@
     <string name="note_mindnote_entrance_hint_newversion">"تایپ کردن را آغاز کنید "</string>
     <string name="note_mindnote_entrance_icon_text">یک نقشه ذهنی ایجاد کنید</string>
     <string name="note_mindnote_entrance_icon_text_newversion">یک نقشه ذهنی ایجاد کنید</string>
+    <string name="note_mindnote_not_support_in_phone_model">نقشه‌های ذهنی در این دستگاه ویرایش نمی‌شوند</string>
     <string name="note_module_name">یادداشت‌ها</string>
     <string name="note_not_text_stub">بدون متن</string>
     <string name="note_sort_way">چینش</string>
+    <string name="note_write_hint">نوشتن را آغاز کنید</string>
     <string name="notealert_enter">بازکردن یادداشت</string>
     <string name="notealert_ok">نادیده گرفتن</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">یادداشت‌ها یک برنامه‌ی سیستمی است. پس از حذف برنامه دیگر نمی‌توانید از آن استفاده کنید.</string>
     <string name="notes_description_title">یادداشت‌ها حذف شود؟</string>
     <string name="notification_content_add_todo_from_other_app">یک کار جدید افزودید. برای نمایش ضربه بزنید.</string>
@@ -536,6 +543,8 @@
     <string name="permission_phone_state_desc">برای توقف ضبط یادداشت‌های صوتی هنگام تماس</string>
     <string name="permission_read_contact_desc">مرتبط کردن یادداشت‌های ساخته شده هنگام تماس‌ها با مخاطبین</string>
     <string name="permission_storage_desc">برای ذخیره یادداشت‌ها به صورت تصویر</string>
+    <string name="permission_storage_desc_new_v12">برای افزودن تصاویر به یادداشت‌ها و ذخیره یادداشت‌ها به عنوان تصویر</string>
+    <string name="permission_storage_desc_pad_new_v12">برای افزودن تصاویر به یادداشت‌ها و ذخیره یادداشت‌ها به عنوان تصویر</string>
     <string name="permission_storage_desc_pad_v12">برای افزودن تصاویر به یادداشت‌ها و ذخیره یادداشت‌ها به عنوان تصویر</string>
     <string name="permission_storage_desc_v12">برای افزودن تصاویر به یادداشت‌ها و ذخیره یادداشت‌ها به عنوان تصویر</string>
     <string name="permission_xiaoai_desc">&lt;Data>Mi AI صداهای ضبط شده شما و شناسه دستگاه را برای نوشتاری کردن صدا و ایجاد یادداشت‌های صوتی گردآوری خواهد کرد. درباره Mi AI در &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> بیشتر بدانید.&lt;/Data></string>
@@ -572,6 +581,7 @@
     <string name="privacy_note_content_empty">هنوز موردی اینجا نیست.</string>
     <string name="private_entry_available">رها کرده تا پوشه خصوصی باز شود</string>
     <string name="private_entry_default">صفحه را به پایین کشیده تا پوشه خصوصی باز شود</string>
+    <string name="progressbar_title">درحال بررسی خطرات امنیتی…</string>
     <string name="quick_note_link_default_text">URL</string>
     <string name="quick_note_new_user_guide">یادداشت‌های فوری به شما امکان می‌دهد یادداشت‌ها و گزیده‌هایی ایجاد کنید</string>
     <string name="recover_notes_hint">خطایی رخ داد. به i.mi.com رفته تا یادداشت‌ها را بازیابی کنید.</string>
@@ -620,6 +630,9 @@
     <string name="save_to_gallery_failure_message">نمی‌توان ذخیره کرد</string>
     <string name="save_to_gallery_icon_name">ذخیره در گالری</string>
     <string name="save_to_gallery_success_message">با موفقیت ذخیره شد</string>
+    <string name="save_to_local_failure_message">ذخیره نشد</string>
+    <string name="save_to_local_icon_name">ذخیره</string>
+    <string name="save_to_local_success_message">با موفقیت ذخیره شد</string>
     <string name="search">یادداشت‌ها</string>
     <string name="search_hint">جستجوی یادداشت‌ها</string>
     <string name="search_keyword_notes">یادداشت‌ها;یادداشت</string>
@@ -678,6 +691,7 @@
     <string name="sync_note_folder">%1$s و %2$s</string>
     <string name="sync_note_todo">%1$s و %2$s</string>
     <string name="sync_tips">برای همگام‌سازی یادداشت‌ها با فضای ابری ضربه بزنید.</string>
+    <string name="system_error_info">سیستم مشغول است. چند دقیقه صبر کرده سپس دوباره تلاش کنید.</string>
     <string name="the_anniversary_of_lifting_martial_law">سالگرد لغو حکومت نظامی</string>
     <string name="the_anti_aggression_day">روز ضد پرخاشگری</string>
     <string name="the_arbor_day">روز درخت‌کاری</string>
@@ -760,8 +774,8 @@
     <string name="toast_reach_text_limit_checkbox">نمی‌توان کادر انتخاب را افزود، زیرا یادداشت بسیار طولانی است</string>
     <string name="toast_reach_text_limit_truncate">این یادداشت بسیار طولانی است. برخی قسمت‌های متن از انتها حذف شده است.</string>
     <string name="toast_refuse_to_record_when_in_call">هنگام تماس نمی‌توان از این ویژگی استفاده کرد</string>
-    <string name="toast_refuse_to_record_when_in_multi_window">این ویژگی با تجزیه نمایشگر کار نمی‌کند</string>
-    <string name="toast_refuse_to_record_when_in_multi_window_new">از این ویژگی در تجزیه نمایشگر یا پنجره‌های شناور استفاده نمی‌شود</string>
+    <string name="toast_refuse_to_record_when_in_multi_window">این ویژگی با تقسیم صفحه کار نمی‌کند</string>
+    <string name="toast_refuse_to_record_when_in_multi_window_new">از این ویژگی در تقسیم صفحه یا پنجره‌های شناور استفاده نمی‌شود</string>
     <string name="toast_refuse_to_use_contact">"مجوزهای مخاطبین محدود شده‌اند.
 به یادداشت‌ها اجازه خواندن مخاطبین و یافتن حساب‌ها در دستگاه را بدهید."</string>
     <string name="toast_refuse_to_use_external_storage">"مجوزهای حافظه محدود شده‌اند.
@@ -853,6 +867,7 @@
     <string name="tuesday_shortest">سه‌شنبه</string>
     <string name="unclassfied_folder_name">دسته‌بندی نشده</string>
     <string name="undo">بازگرداندن</string>
+    <string name="unknown_error_info">خطای ناشناخته</string>
     <string name="unknown_source">منبع ناشناس</string>
     <string name="view_all_notes">نمایش همه</string>
     <string name="warn_cannot_add_new_bullet">نمی‌توان فهرست نامنظم جدیدی اضافه کرد زیرا یادداشت بیش از حد طولانی است</string>

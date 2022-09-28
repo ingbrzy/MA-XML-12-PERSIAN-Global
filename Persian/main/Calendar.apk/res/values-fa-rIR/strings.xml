@@ -25,6 +25,8 @@
     <string name="agenda_tomorrow">فردا، %1$s</string>
     <string name="agenda_view">رویدادها</string>
     <string name="alarm_label">نادیده گرفتن</string>
+    <string name="alarm_open_reminder">روشن کردن یادآوری</string>
+    <string name="alarm_reminder_already">یادآوری روشن است</string>
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">به پایان رسیده</string>
     <string name="alert_title">اعلان‌های سالنامه</string>
@@ -60,6 +62,7 @@
     <string name="birthday_term">زادروز</string>
     <string name="button_record_menstruation">ضبط</string>
     <string name="calendar_permission_desc">مدیریت رویدادها</string>
+    <string name="calendar_privacy_policy">سیاست حفظ حریم خصوصی</string>
     <string name="can_not_create_long_event">نام رویداد بسیار طولانی است</string>
     <string name="can_not_modify_allday_event">نمی‌توان رویداد همه روزه را تغییر داد</string>
     <string name="can_not_modify_event">نمی‌توان رویداد را تغییر داد</string>
@@ -91,7 +94,7 @@
     <string name="countdown_notify_title">شمارش معکوس: %1$s</string>
     <string name="countdown_secondary_tag">شمارش معکوس</string>
     <string name="countdown_today">امروز</string>
-    <string name="create_an_account_desc">"سالنامه با حساب Mi بهتر کار می‌کند.
+    <string name="create_an_account_desc">"سالنامه با حساب Xiaomi بهتر کار می‌کند.
 
 • از هر مرورگری به آن دسترسی پیدا کنید.
 • رویدادهای خود را به صورت ایمن پشتیبان‌گیری کنید."</string>
@@ -123,11 +126,13 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">سالنامه سنتی چینی</string>
+    <string name="date_time_fmt" formatted="false">%s، %s</string>
     <string name="date_time_picker_dialog_title">تنظیم تاریخ و ساعت</string>
     <string name="date_today">" (امروز)"</string>
     <string name="date_view">تاریخ</string>
     <string name="day">روز</string>
     <string name="day_view_new_event_hint">رویداد جدید</string>
+    <string name="default_reminder_later_time">بازه پیش‌فرض برای «بعداً یادآوری شود»</string>
     <string name="default_reminder_mode">یادآوری‌ها</string>
     <string name="delete_menstruation_record_confirm">این مورد ضبط شده حذف شود؟</string>
     <string name="delete_recurring_event_title">%s حذف شود؟</string>
@@ -157,8 +162,10 @@
     <string name="edit_event_label">جزئیات</string>
     <string name="edit_event_no_reminder_value">یادآوری نشود</string>
     <string name="edit_event_reminder_3_days_before">و %d روز جلوتر یادآوری شود</string>
+    <string name="edit_event_reminder_3_days_before_time">همچنین %d روز جلوتر یادآوری شود</string>
     <string name="edit_event_reminder_summary">همان روز در %1$s</string>
     <string name="edit_event_reminder_summary_3_days_before">%2$d روز جلوتر و همان روز در %1$s</string>
+    <string name="edit_event_reminder_summary_3_days_before_today">%1$d روز پیش و در ساعت %1$s روز معین شده</string>
     <string name="edit_event_reminder_text">در %1$s در %2$s</string>
     <string name="edit_event_reminder_time">زمان یادآوری</string>
     <string name="edit_event_reminder_with_another_day_text">در %1$s، %2$s در %3$s</string>
@@ -167,6 +174,14 @@
     <string name="edit_event_tab_birthday">زادروز</string>
     <string name="edit_event_tab_countdown">شمارش معکوس</string>
     <string name="edit_event_tab_event">رویداد</string>
+    <string name="edit_event_title_create_agenda">ایجاد رویداد</string>
+    <string name="edit_event_title_create_anniversary">ایجاد سالگرد</string>
+    <string name="edit_event_title_create_birthday">ایجاد زادروز</string>
+    <string name="edit_event_title_create_countdown">ایجاد شمارش معکوس</string>
+    <string name="edit_event_title_edit_agenda">ویرایش رویداد</string>
+    <string name="edit_event_title_edit_anniversary">ویرایش سالگرد</string>
+    <string name="edit_event_title_edit_birthday">ویرایش زادروز</string>
+    <string name="edit_event_title_edit_countdown">ویرایش شمارش معکوس</string>
     <string name="edit_event_to_label">تا</string>
     <string name="edit_your_long_holidays">ویرایش تعطیلات</string>
     <string name="ee_dd_short_month">EEE، dd MMM</string>
@@ -334,7 +349,9 @@
     <string name="item_num_selected">%1$d انتخاب شد</string>
     <string name="language_change_confirmation">با موفقیت تغییر کرد. می‌توانید زبان را در تنظیمات سالنامه تغییر دهید.</string>
     <string name="launch_weather_comment">برای دریافت اطلاعات آب و هوا اینجا را بزنید</string>
-    <string name="load_more_hint">بارگذاری رویدادها از %1$d</string>
+    <string name="load_more_events">نمایش رویدادهای %d</string>
+    <string name="load_more_events_default">نمایش رویدادهای سال آینده</string>
+    <string name="load_more_hint">نمایش %1$d رویداد</string>
     <string name="loading">چند لحظه صبر کنید…</string>
     <string name="local_calendar_display_name">سالنامه محلی</string>
     <string name="local_owner_account_name">در این دستگاه ذخیره شد</string>
@@ -486,6 +503,7 @@
     <string name="no_internet_dialog_message">برای پس گرفتن رضایت شما، دستگاهتان نیاز به اتصال به شبکه دارد. تنظیمات شبکه را بررسی کرده و سپس دوباره تلاش کنید.</string>
     <string name="no_internet_dialog_title">خطایی رخ داد</string>
     <string name="no_long_holidays">هیچ تعطیلات طولانی در پیش نیست</string>
+    <string name="no_more_events">رویداد دیگری برای نمایش وجود ندارد</string>
     <string name="no_network">"به شبکه متصل نشد.
 تنظیمات شبکه را بررسی کرده و دوباره تلاش کنید."</string>
     <string name="no_network_btn">دوباره تلاش کنید</string>
@@ -538,6 +556,7 @@
     <string name="panchang_yog">Yog</string>
     <string name="partner_compatibility">سازگاری با شریک زندگی</string>
     <string name="path_calendar_settings">برنامه‌های سیستمی/سالنامه/تنظیمات</string>
+    <string name="permission_description">جزئیات مجوزها</string>
     <string name="picker_day">روز انتخاب شده: %1$d. برای انتخاب، انگشت خود را به صورت عمودی بکشید.</string>
     <string name="picker_month">ماه انتخاب شده: %1$d. برای انتخاب، انگشت خود را به صورت عمودی بکشید.</string>
     <string name="picker_year">سال انتخاب شده: %1$d. برای انتخاب، انگشت خود را به صورت عمودی بکشید.</string>
@@ -550,14 +569,20 @@
     <string name="pref_title_no_remind">بدون یاد آور</string>
     <string name="pref_title_notification_remind">یادآورهای اعلان</string>
     <string name="preferences_additional_cal_default">۰</string>
+    <string name="preferences_alarms_category_title">یادآورهای هشدار</string>
+    <string name="preferences_alarms_sound">صدا</string>
+    <string name="preferences_alarms_vibrateWhen">لرزش</string>
     <string name="preferences_alerts_ringtone_title">صدا</string>
     <string name="preferences_alerts_vibrateWhen_title">لرزش</string>
     <string name="preferences_alerts_vibrate_title">لرزاننده و صدای زنگ</string>
+    <string name="preferences_allow_remind">اجازه به یادآوری‌ها</string>
     <string name="preferences_default_allday_reminder_title">زمان یادآور هرروز پیش‌فرض</string>
     <string name="preferences_default_reminder_dialog">زمان یادآور پیش‌فرض</string>
     <string name="preferences_default_reminder_title">زمان یادآور پیش‌فرض</string>
     <string name="preferences_home_tz_title">منطقه زمانی خانه</string>
     <string name="preferences_notification_ringtone_title">صدا</string>
+    <string name="preferences_popup_alert_smart_summary_new">رویدادهای حساس به زمان رویدادهایی هستند با زمان دقیق</string>
+    <string name="preferences_popup_alert_title">بازشوی یادآوری‌ها</string>
     <string name="preferences_show_indic_date_title">نمایش سالنامه هندی</string>
     <string name="preferences_title">سالنامه</string>
     <string name="preferences_use_home_tz_descrip">هنگام مسافرت، سالنامه‌ها و زمان رویدادها در منطقه زمانی خانه شما را نشان می‌دهد</string>
@@ -565,12 +590,18 @@
     <string name="preferences_week_start_day_default">۱-</string>
     <string name="preferences_week_start_day_dialog">آغاز هفته</string>
     <string name="preferences_week_start_day_title">آغاز هفته</string>
+    <string name="privacy_and_permissions">حریم خصوصی و مجوزها</string>
     <string name="privacy_card_description">سیاست حفظ حریم خصوصی ما را پذیرفته تا به همه ویژگی‌ها دسترسی یابید.</string>
     <string name="privacy_policy_dialog_agree">پذیرفتن</string>
-    <string name="privacy_policy_dialog_dont_agree">مخالف</string>
+    <string name="privacy_policy_dialog_dont_agree">مخالفت</string>
     <string name="privacy_policy_dialog_message">&lt;Data>به سالنامه خوش آمدید!&lt;br/>شما با استفاده از این برنامه می‌توانید رویدادها را ایجاد و مدیریت کرده، یادآوری تنظیم کرده و اطلاعات اضافی خاص موقعیت خود را دریافت کنید.&lt;br/>سالنامه برای ارائه خدمات پایه‌ای نیاز به گردآوری اطلاعات شخصی لازم دارد. شما می‌توانید در &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما از چگونگی به‌کارگیری اطلاعاتی که گردآوری می‌کنیم آگاه شوید.&lt;br/>پیش از استفاده از سالنامه، &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%3$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید. شما در هر زمانی می‌توانید در تنظیمات رضایت خود را نسبت به سیاست حفظ حریم خصوصی سالنامه پس بگیرید.&lt;br/> چنانچه سیاست حفظ حریم خصوصی ما را نپذیرید، نمی‌توانید از برخی ویژگی‌های این برنامه استفاده کنید؛ با این وجود، کارایی‌های پایه‌ای همچنان برای شما در دسترس خواهند بود.&lt;/Data></string>
     <string name="privacy_policy_dialog_title">شرایط و ضوابط</string>
     <string name="privacy_revoke_switch_text">پس گرفتن رضایت</string>
+    <string name="pull_refresh_events">نمایش رویدادهای %d</string>
+    <string name="pull_refresh_events_default">نمایش رویدادهای سال گذشته</string>
+    <string name="pull_refresh_progress_load_finish">با موفقیت بارگیری شد</string>
+    <string name="pull_refresh_progress_loading">چند لحظه صبر کنید…</string>
+    <string name="pull_refresh_progress_release_to_load">برای بارگیری رها کنید</string>
     <string name="pull_to_refresh_hint">به سمت پایین کشیده تا رویدادها را از %1$d بارگذاری شود</string>
     <string name="recorded_menstruation">دوره ضبط شده</string>
     <string name="refresh">تازه‌سازی</string>
@@ -627,6 +658,8 @@
     <string name="search_calendar">تاریخ;دوره‌های خورشیدی;تقویم نجومی;طالع;دستور جلسه;ملاقات;یادآور;تعطیلات;تعطیل;زادروز;۲۰۱۶;۲۰۱۷;جشنواره بهار;روز سال نو;روز جهانی کارگر;جشنواره اواسط پاییز</string>
     <string name="search_calendar_edit_event">ملاقات;یادآور;دستور جلسه</string>
     <string name="search_calendar_settings">سالنامه;دستور جلسه;یادآور</string>
+    <string name="search_events">جستجوی رویدادها</string>
+    <string name="search_history">تاریخچه جستجو</string>
     <string name="second_saturday_holiday">هر شنبه دوم تعطیل است</string>
     <string name="select_date">پرش به تاریخ</string>
     <string name="select_menstruation_end_date">روز آخر این دوره را انتخاب کنید</string>
@@ -645,7 +678,9 @@
     <string name="setting_features_title">تنظیمات ویژگی</string>
     <string name="setting_holiday_display_desc">کارت‌های تعطیلات در زیر برنامه کاری شما روی صفحه اصلی قرار گرفته‌اند</string>
     <string name="setting_holiday_reminder">یادآوری تعطیلات</string>
+    <string name="setting_import_events">وارد کردن رویدادها</string>
     <string name="setting_others">اضافی</string>
+    <string name="setting_show_reject_agenda">نمایش رویدادهای رد شده</string>
     <string name="setting_title_about">درباره</string>
     <string name="setting_title_holiday_display">نمایش تعطیلات</string>
     <string name="setting_title_import_todo">وارد کردن کارها</string>
@@ -706,6 +741,10 @@
     <string name="tab_title_day">روز</string>
     <string name="tab_title_month">ماه</string>
     <string name="tab_title_week">هفته</string>
+    <string name="tab_view_day">روز</string>
+    <string name="tab_view_month">ماه</string>
+    <string name="tab_view_week">هفته</string>
+    <string name="tab_view_year">سال</string>
     <string name="talk_back_read_date">%1$s (%2$s بر اساس سالنامه کشاورزی).</string>
     <string name="talk_back_setting">تنظیمات</string>
     <string name="talk_back_tab_switch">تعویض حالت نمایش</string>
@@ -875,7 +914,7 @@
     <string name="work_day_indication">: (</string>
     <string name="xiaomi_calendar_delete_description">سالنامه یک برنامه سیستمی است که به شما امکان ایجاد و مدیریت رویدادها را می‌دهد. پس از حذف میان‌بر صفحه اصلی برخی ویژگی‌های آن همچنان برای شما در دسترس خواهند بود.</string>
     <string name="xiaomi_calendar_delete_title">«سالنامه» از صفحه اصلی برداشته شود؟</string>
-    <string name="xiaomi_calendar_display_name">سالنامه حساب Mi</string>
+    <string name="xiaomi_calendar_display_name">سالنامه حساب Xiaomi</string>
     <string name="year">سال</string>
     <string name="yearly">سالانه (هر %s)</string>
     <string name="yearly_plain">سالانه</string>

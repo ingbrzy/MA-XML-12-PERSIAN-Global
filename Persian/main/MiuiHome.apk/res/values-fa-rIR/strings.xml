@@ -8,8 +8,8 @@
     <string name="accessibility_enter_all_app_settings">باز کردن تنظیمات کشوی برنامه</string>
     <string name="accessibility_menu_item_smallwindow_disable">این برنامه از پنجره‌های شناور پشتیبانی نمی‌کند</string>
     <string name="accessibility_menu_item_smallwindow_enable">این برنامه از پنجره‌های شناور پشتیبانی می‌کند</string>
-    <string name="accessibility_menu_item_split_disable">برنامه از تجزیه نمایشگر پشتیبانی نمی‌کند</string>
-    <string name="accessibility_menu_item_split_enable">برنامه از تجزیه نمایشگر پشتیبانی می‌کند</string>
+    <string name="accessibility_menu_item_split_disable">برنامه از تقسیم صفحه پشتیبانی نمی‌کند</string>
+    <string name="accessibility_menu_item_split_enable">برنامه از تقسیم صفحه پشتیبانی می‌کند</string>
     <string name="accessibility_recent_task_enter">موارد تازه را باز کرد</string>
     <string name="accessibility_recent_task_exit">موارد تازه را بست</string>
     <string name="accessibility_recent_task_locked_state">قفل</string>
@@ -18,8 +18,8 @@
     <string name="accessibility_recent_task_unlocked_state">باز</string>
     <string name="accessibility_recents_item_dismissed">%1$s پاک‌سازی شد</string>
     <string name="accessibility_recents_item_open_app_info">باز کردن اطلاعات برنامه %s.</string>
-    <string name="accessibility_splite_screen_primary">به عنوان برنامه اصلی به تجزیه نمایشگر افزوده شد</string>
-    <string name="accessibility_splite_screen_secondary">به عنوان برنامه فرعی به تجزیه نمایشگر افزوده شد</string>
+    <string name="accessibility_splite_screen_primary">به عنوان برنامه اصلی به تقسیم صفحه افزوده شد</string>
+    <string name="accessibility_splite_screen_secondary">به عنوان برنامه فرعی به تقسیم صفحه افزوده شد</string>
     <string name="action_add_to_workspace">افزودن به فضای کار</string>
     <string name="actionbar_button_up_description">بازگشت</string>
     <string name="activity_not_found">برنامه بر روی دستگاه شما نصب نشده است</string>
@@ -61,6 +61,7 @@
     <string name="all_apps_setting_drawer_tips_desc">کشوی برنامه با بالا کشیدن صفحه اصلی باز می‌شود. تعویض به حالت صفحه اصلی با کشوی برنامه مرکز محتوا را غیرقابل دسترسی می‌کند. در هر صورت تعویض شود؟</string>
     <string name="all_apps_setting_drawer_tips_title">استفاده از کشوی برنامه</string>
     <string name="all_apps_setting_drawer_title">با کشوی برنامه</string>
+    <string name="all_apps_setting_jeejen_title">حالت ساده</string>
     <string name="all_apps_setting_letter_scrollbar">به ترتیب حروف الفبا</string>
     <string name="all_apps_setting_original_scrollbar">طرح اصلی</string>
     <string name="all_apps_setting_scroll_bar">نوار پیمایش</string>
@@ -293,6 +294,7 @@
     <string name="eras_bc">پیش از میلاد</string>
     <string name="evening">بعد از ظهر</string>
     <string name="exit_overview_because_task_stack_changed">به دلیل تغییراتی که در پس‌زمینه رخ داد، موارد تازه بسته شدند</string>
+    <string name="external_not_support_split_screen_j18">تقسیم صفحه بر روی صفحه خارجی پشتیبانی نمی‌شود</string>
     <string name="failed_to_delete_temporary">نمی‌توان حذف کرد</string>
     <string name="failed_to_drop">نمی‌توان منتقل کرد</string>
     <string name="failed_to_drop_widget_invalid">ابزارک معتبر نیست</string>
@@ -398,7 +400,7 @@
     <string name="gadget_weather_download_start">دانلود</string>
     <string name="gadget_weather_download_title">دانلود</string>
     <string name="gadget_weather_downloading">درحال دانلود محتوای برنامه. برنامه را پس از کامل شدن دانلود دوباره راه‌اندازی کنید.</string>
-    <string name="gadget_weather_loading">فاقد داده</string>
+    <string name="gadget_weather_loading">بدون داده</string>
     <string name="gadget_weather_low_temp">دمای پایین</string>
     <string name="gadget_weather_theme_type">نوع ابزار</string>
     <string name="gadget_weather_time_format">EEEE، d MMMM</string>
@@ -433,6 +435,9 @@
     <string name="invalid_contact_shortcut">مخاطب نامعتبر</string>
     <string name="is_setting_wallpaper_message">درحال تنظیم تصویر زمینه…</string>
     <string name="is_system_wallpaper_message">حذف منابع سیستمی ممکن نیست</string>
+    <string name="jeejen_description">"عناصر رابط کاربری بزرگ‌تر.
+تماس دسترسی‌پذیر بیشتر.
+امنیت بهبود یافت."</string>
     <string name="key_shortcut_settings_title">میان‌برهای دکمه‌ها</string>
     <string name="launcher_icon_management">مدیریت میان‌برهای صفحه اصلی</string>
     <string name="launcher_not_exist">خطایی رخ داد. به صفحه اصلی بازگشته و دوباره تلاش کنید.</string>
@@ -485,6 +490,7 @@
     <string name="menu_lock">قفل کردن چیدمان صفحه اصلی</string>
     <string name="menu_more">بیشتر</string>
     <string name="menu_no_word">متن نمایش داده نشود</string>
+    <string name="menu_only_widget_no_word">حذف متن از ابزارک‌ها</string>
     <string name="menu_picktheme">یک تم انتخاب کنید</string>
     <string name="menu_reset_scene">تنظیم دوباره به طرح پیش‌فرض</string>
     <string name="menu_search">جستجو</string>
@@ -497,6 +503,7 @@
     <string name="midnight">شب</string>
     <string name="minus_one_screen">قفسه برنامه</string>
     <string name="miui_screen_config_title">تنظیمات صفحه اصلی</string>
+    <string name="miui_widget_menu_replace_text">تعویض</string>
     <string name="miuix_access_state_desc">انتخاب شده</string>
     <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
     <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
@@ -592,7 +599,7 @@
     <string name="navigation_guide_dock_title_pad">نمایش لنگرگاه برنامه‌ها</string>
     <string name="navigation_guide_dock_title_spec_pad">نمایش لنگرگاه برنامه‌ها هنگام استفاده از یک برنامه</string>
     <string name="navigation_guide_dock_title_spec_with_quotation_pad">نمایش لنگرگاه برنامه‌ها هنگام استفاده از یک برنامه</string>
-    <string name="navigation_guide_finish_text">فهمیدم</string>
+    <string name="navigation_guide_finish_text">متوجه‌ام</string>
     <string name="navigation_guide_gesture_line_dialog_summary">پس از پنهان کردن نشان‌گر تمام‌صفحه، یک حرکت انگشت جدید برای تعویض میان برنامه‌ها استفاده خواهد شد. درباره این حرکت انگشت بیشتر بدانید.</string>
     <string name="navigation_guide_gesture_line_dialog_title">یادگیری حرکت انگشت جدید</string>
     <string name="navigation_guide_hide_gesture_line_summary">نمایش ندادن نشان‌گر تمام‌صفحه هنگام استفاده از اشارات تمام‌صفحه</string>
@@ -639,14 +646,18 @@
     <string name="notification_reset_title">آیکون‌ها با موفقیت مرتب شدند</string>
     <string name="one_key_call_title">تماس با یک ضربه</string>
     <string name="online_wallpaper">آنلاین</string>
+    <string name="open_pad_personal_assistant_settings">ابزارک‌های صفحه اصلی</string>
     <string name="open_personal_assistant_dialog_btn_cancel">لغو</string>
     <string name="open_personal_assistant_dialog_btn_confirm">خاموش کردن</string>
     <string name="open_personal_assistant_dialog_desc">پس از خاموش کردن قفسه برنامه دیگر نمی‌توانید ابزارک‌های قفسه برنامه را دیده و یا از آن‌ها استفاده کنید. نسخه‌های به‌روز شده نیز دیگر برای شما در دسترس نخواهند بود. در هر صورت خاموش شود؟</string>
     <string name="open_personal_assistant_dialog_desc_international">پس از خاموش کردن این ویژگی دیگر نمی‌توانید از کارت‌های قفسه برنامه (سهام، میان‌برها و غیره) استفاده کرده و به‌روزرسانی‌ها را دریافت نمایید.</string>
     <string name="open_personal_assistant_dialog_title">خاموش کردن قفسه برنامه</string>
     <string name="open_personal_assistant_settings">تنظیمات قفسه برنامه</string>
+    <string name="open_personal_assistant_settings_off">خاموش</string>
+    <string name="open_personal_assistant_settings_on">روشن</string>
+    <string name="open_personal_assistant_settings_simplified">قفسه برنامه</string>
     <string name="open_personal_assistant_title">قفسه برنامه</string>
-    <string name="ota_layout_adjustment_button_text">فهمیدم</string>
+    <string name="ota_layout_adjustment_button_text">متوجه‌ام</string>
     <string name="ota_layout_adjustment_content">چیدمان‌های صفحه اصلی درونی و بیرونی در نسخه جدید همگام‌سازی شده‌اند.</string>
     <string name="ota_layout_adjustment_title">چیدمان‌های صفحه اصلی</string>
     <string name="out_of_space">این صفحه اصلی دیگر فضا ندارد</string>
@@ -711,8 +722,8 @@
     <string name="recents_empty_message_dismissed_all">شما همه چیز را پاک‌سازی کرده‌اید</string>
     <string name="recents_empty_message_multi_window">باز کردن برنامه‌ها از صفحه اصلی</string>
     <string name="recents_exit_multi_window_mode">خروج</string>
-    <string name="recents_forbid_dock_when_screening_toast_text">هنگام بازتاباندن صفحه نمی‌توان از تجزیه نمایشگر استفاده کرد</string>
-    <string name="recents_incompatible_app_message">این برنامه از تجزیه نمایشگر پشتیبانی نمی‌کند</string>
+    <string name="recents_forbid_dock_when_screening_toast_text">هنگام بازتاباندن صفحه نمی‌توان از تقسیم صفحه استفاده کرد</string>
+    <string name="recents_incompatible_app_message">این برنامه از تقسیم صفحه پشتیبانی نمی‌کند</string>
     <string name="recents_layout_style">ترتیب دادن موارد در موارد تازه</string>
     <string name="recents_layout_style_horizontal">بصورت افقی</string>
     <string name="recents_layout_style_vertical">عمودی</string>
@@ -784,7 +795,7 @@
     <string name="shake_to_align_icons_title">پر کردن جاهای خالی با تکان دادن</string>
     <string name="share">هم‌رسانی</string>
     <string name="shortcut_share_dialog_content">فایل‌هایی که شما از گوشی خود ارسال می‌کنید و همچنین گیرندگان آن‌ها توسط شما انتخاب و مشخص می‌شوند. هنگام انتخاب فایل‌ها و مشخص کردن گیرندگان توجه لازم را داشته باشید. شما نباید هیچ‌گونه ویروس، بدافزار، تروجان، بمب ساعتی و یا سایر موارد مضر را به دیگران انتقال دهید. از گوشی خود برای انتقال هر نرم‌افزاری که ممکن است روی استفاده عادی دستگاه گیرنده یا هر موردی که ممکن است سبب آسیب، دخالت، قطعی یا از بین رفتن در هرگونه داده سیستمی یا اطلاعات شخصی دستگاه‌های موبایلی پایانی شود استفاده نکنید. شما در مقابل هرگونه آسیب وارده به دیگر کاربران یا دستگاه‌های پایانی مسئول خواهید بود. Xiaomi تمام تلاش خود را برای تضمین امنیت، اثرگذاری، دقت و قابل اعتماد بودن کارایی هم‌رسانی و همچنین فناوری و اطلاعات مربوطه به کار می‌گیرد. با این حال، به دلیل محدودیت‌های فناوری کنونی، Xiaomi بی‌عیب و نقص بودن ویژگی هم‌رسانی و قانع کردن همه نیازهای شما را تضمین نمی‌کند.</string>
-    <string name="shortcut_share_dialog_positive_button">فهمیدم</string>
+    <string name="shortcut_share_dialog_positive_button">متوجه‌ام</string>
     <string name="shortcut_share_dialog_title">سلب مسئولیت</string>
     <string name="show_all">نمایش همه</string>
     <string name="show_mem_info_title">نمایش وضعیت حافظه</string>
@@ -936,7 +947,7 @@
     <string name="work_mode_off_label">اعلان‌ها خاموش بوده و برنامه‌ها در دسترس نیستند</string>
     <string name="work_mode_on_label">مدیریت شده توسط سازمان شما</string>
     <string name="work_profile_first_content">داده‌های شخصی از برنامه‌های کاری جدا و پنهان است</string>
-    <string name="work_profile_got_button">فهمیدم</string>
+    <string name="work_profile_got_button">متوجه‌ام</string>
     <string name="work_profile_next_button">بعدی</string>
     <string name="work_profile_second_content">برنامه‌ها و داده‌های کاری برای سرپرست IT شما قابل مشاهده است</string>
     <string name="work_profile_title">نمایه کاری</string>

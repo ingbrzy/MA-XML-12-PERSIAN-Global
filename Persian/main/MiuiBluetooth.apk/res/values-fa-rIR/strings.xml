@@ -428,7 +428,9 @@
     <string name="hdcp_checking_dialog_title">تنظیم رفتار بررسی HDCP</string>
     <string name="hdcp_checking_title">در حال بررسی HDCP</string>
     <string name="headset_battery_fw_failed">ابتدا دستگاه خود را شارژ کنید</string>
+    <string name="headset_battery_low">باتری کم است. ایرفون‌های خود را شارژ کنید.</string>
     <string name="headset_connect_device">اتصال دستگاه</string>
+    <string name="headset_connect_timeout">مهلت اتصال تمام شد. از ابتدا آغاز کنید.</string>
     <string name="headset_device_check_failed">به‌روزرسانی‌ها بررسی نشدند</string>
     <string name="headset_device_donot_move">دستگاه را نزدیک نگه دارید</string>
     <string name="headset_device_enter_upgrade_failed">به‌روزرسانی آغاز نشد</string>
@@ -454,6 +456,7 @@
     <string name="headset_loss_notify_summary">به نظر می‌رسد حداقل یکی از هدفون‌های شما در جعبه شارژ قرار ندارد. نگاهی به دور و بر بیاندازید!</string>
     <string name="headset_loss_notify_summary1">به نظر می‌رسد ایرفون‌های شما در قوطی نیستند. آن‌ها را در جای خود قرار داده و بگذارید شارژ شوند.</string>
     <string name="headset_loss_notify_title">هشدار گم شدن هدفون</string>
+    <string name="headset_not_in_case">هر دو ایرفون‌ها را در قوطی قرار داده و از ابتدا آغاز کنید</string>
     <string name="headset_read_fw_state">اطلاعات به‌روزرسانی دریافت نشد</string>
     <string name="headset_update_failed">به‌روزرسانی نشد</string>
     <string name="headset_update_ok">انجام شد</string>

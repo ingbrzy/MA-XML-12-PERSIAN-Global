@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="access_denied_info">تلاش‌ها بیش از اندازه هستند. چند دقیقه صبر کرده سپس دوباره تلاش کنید.</string>
     <string name="actionbar_button_up_description">بازگشت</string>
     <string name="add_remark_hint">نشانک خود را اینجا وارد کنید</string>
     <string name="add_remark_tip">برای افزودن نشانک ضربه بزنید</string>
@@ -53,6 +54,8 @@
     <string name="dialog_privacy_revoke_tips">پس از باطل کردن مجوز، این برنامه جمع‌آوری داده‌ها را متوقف کرده و همه داده‌های مرتبط از سرورها حذف خواهد کرد. این کار ممکن است باعث گردد برنامه عملاً غیر قابل استفاده شود. در هر صورت مجوز باطل شود؟ برای تضمین امنیت حساب خود، پیش از باطل کردن مجوز، برای خدمات فضای ابری Xiaomi در i.mi.com وارد حساب شوید.</string>
     <string name="dialog_title_storage_full">فضای کافی وجود ندارد</string>
     <string name="download">دانلود</string>
+    <string name="download_pause">دانلود مکث شد. برای ادامه ضربه بزنید.</string>
+    <string name="downloading">درحال دانلود. برای مکث ضربه بزنید.</string>
     <string name="duration_format_hour">%s ساعت</string>
     <string name="duration_format_minute">%s دقیقه</string>
     <string name="duration_format_second">%s ثانیه</string>
@@ -146,7 +149,7 @@
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
     <string name="head_set_tip_dialog_msg">هدفون‌های خود را قطع کرده تا بتوانید صدا را با پیش‌تنظیمات خاص ضبط کنید (مانند: موسیقی، صدای صحبت).</string>
-    <string name="head_set_tip_dialog_ok">فهمیدم</string>
+    <string name="head_set_tip_dialog_ok">متوجه‌ام</string>
     <string name="head_set_tip_dialog_title">استفاده از میکروفن داخلی</string>
     <string name="invalid_argument">مباحثه نامعتبر</string>
     <string name="invisible_mode_error_tip">برای استفاده از میکروفن، حالت ناشناس را در تنظیمات خاموش کنید</string>
@@ -171,9 +174,9 @@
     <string name="mark_point_list_title">علامت‌زده شده</string>
     <string name="menu">منو</string>
     <string name="message_file_size_error">ضبط به حداکثر طول مورد پشتیبانی %s رسیده است</string>
-    <string name="mi_account_msg">برای تبدیل به نوشتار فایل‌ها در فضای ابری با حساب Mi وارد شده و ۶۰ دقیقه نخست را رایگان دریافت کنید.</string>
+    <string name="mi_account_msg">برای تبدیل به نوشتار فایل‌ها در فضای ابری با حساب Xiaomi وارد شده و ۶۰ دقیقه نخست را رایگان دریافت کنید.</string>
     <string name="mi_account_ok">ورود به حساب</string>
-    <string name="mi_account_title">ورود با حساب Mi</string>
+    <string name="mi_account_title">ورود با حساب Xiaomi</string>
     <string name="midnight">شب</string>
     <string name="miuix_access_state_desc">انتخاب شده</string>
     <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
@@ -242,6 +245,8 @@
     <string name="month_september_shortest">سپتامبر</string>
     <string name="more">بیشتر</string>
     <string name="morning">صبح</string>
+    <string name="network_error_info">یک خطای شبکه رخ داد. تنظیمات شبکه خود را بررسی کرده و سپس دوباره تلاش کنید.</string>
+    <string name="network_timeout_info">به شبکه متصل نشد. دوباره تلاش کنید.</string>
     <string name="network_tip_dialog_cancel">مخالفت</string>
     <string name="network_tip_dialog_content">ضبط کننده باید به اینترنت وصل باشد تا به‌طور عادی کار کند. می‌پذیرید؟</string>
     <string name="network_tip_dialog_ok">پذیرفتن</string>
@@ -338,6 +343,7 @@
     <string name="privacy_policy_title">سیاست حفظ حریم خصوصی</string>
     <string name="privacy_settings">حریم خصوصی</string>
     <string name="progress">نوار فرآیند پخش</string>
+    <string name="progressbar_title">درحال بررسی خطرات امنیتی…</string>
     <string name="recognition_button_add_to_queue">افزودن به نوبت</string>
     <string name="recognition_button_cancel">اکنون نه</string>
     <string name="recognition_button_start">تبدیل به نوشتار</string>
@@ -415,7 +421,7 @@
     <string name="recording_quality_standard">کیفیت عادی</string>
     <string name="recording_stopped">متوقف شد</string>
     <string name="recovery">بازیابی</string>
-    <string name="recovery_failed_dialog_button">فهمیدم</string>
+    <string name="recovery_failed_dialog_button">متوجه‌ام</string>
     <string name="recovery_failed_dialog_title">توجه</string>
     <string name="reg_error_audio_exist">این فایل از پیش وجود دارد.</string>
     <string name="reg_error_audio_large">فایل‌های صوتی نمی‌توانند بیش از ۵۰۰ مگابایت باشند.</string>
@@ -485,6 +491,7 @@
     <string name="sunday_short">یک‌شنبه</string>
     <string name="sunday_shortest">یک‌شنبه</string>
     <string name="sync_desc_state_complete">همگام‌سازی شده با فضای ابری: %1$s</string>
+    <string name="system_error_info">سیستم مشغول است. چند دقیقه صبر کرده سپس دوباره تلاش کنید.</string>
     <string name="tab_all">همه</string>
     <string name="tab_apps">برنامه‌ها</string>
     <string name="tab_call">تماس‌ها</string>
@@ -567,6 +574,7 @@
     <string name="tuesday_shortest">سه‌شنبه</string>
     <string name="uninstall_warning_content">ضبط کننده یک برنامه سیستم است. پس از حذف تماس، نمی‌توانید تماس‌های صوتی را ضبط و رونویسی کنید.</string>
     <string name="uninstall_warning_title">ضبط کننده حذف شود؟</string>
+    <string name="unknown_error_info">خطای ناشناخته</string>
     <string name="usage_description">نوشتار کردن صدا و همگام‌سازی موارد با فضای ابری</string>
     <string name="user_feedback">بازخورد</string>
     <string name="view_privacy">نمایش سیاست حفظ حریم خصوصی</string>
@@ -576,7 +584,7 @@
     <string name="webview_network_access_denied">دسترسی به شبکه رد شد</string>
     <string name="webview_network_unavaliable">به شبکه متصل نمی‌شود</string>
     <string name="webview_service_unavailiable">سرویس در دسترس نیست</string>
-    <string name="webview_try_again">دوباره تلاش کنید</string>
+    <string name="webview_try_again">تلاش دوباره</string>
     <string name="wednesday">چهارشنبه</string>
     <string name="wednesday_short">چهارشنبه</string>
     <string name="wednesday_shortest">چهارشنبه</string>

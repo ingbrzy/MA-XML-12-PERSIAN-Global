@@ -8,6 +8,7 @@
     <string name="app_pkg_name">com.milink.service</string>
     <string name="app_ver_code">۱</string>
     <string name="app_ver_name">۱.۰</string>
+    <string name="cast_image_des">آموزش بازتاباندن</string>
     <string name="casting_tips">درحال بازتاباندن…</string>
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
     <string name="close">بستن</string>
@@ -17,7 +18,7 @@
     <string name="config_wifi_label_china">Xiaomi Conference Tapcast WLAN</string>
     <string name="config_wifi_label_global">کنفرانس Xiaomi Tapcast Wi-Fi</string>
     <string name="connect_device_fail">به دستگاه متصل نشد</string>
-    <string name="console_guide_btn_got_it">فهمیدم</string>
+    <string name="console_guide_btn_got_it">متوجه‌ام</string>
     <string name="console_guide_subtitle_hang_up">می‌توانید بازتاباندن را هنگام خاموش بودن صفحه گوشی خود ادامه دهید. این ویژگی مصرف برق را کاهش می‌دهد.</string>
     <string name="console_guide_subtitle_private">اعلان‌های شناور، تماس‌های ورودی و سایر موارد خصوصی روی نمایشگر نمایش داده نمی‌شوند</string>
     <string name="console_guide_subtitle_small_window">با کوچک‌سازی پنجره‌ای که درحال بازتاباندن شدن است از سایر ویژگی‌های گوشی خود استفاده کنید</string>
@@ -60,7 +61,7 @@
     <string name="dialog_scanning_device">درحال جستجوی دستگاه‌های نزدیک…</string>
     <string name="dialog_scanning_precondition">برای استفاده از نمایشگر بی‌سیم Wi-Fi و بلوتوث گوشی خود را روشن کنید.</string>
     <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
-    <string name="dialog_scanning_precondition_new_global">برای استفاده از ویژگی بازتاباندن، Wi-Fi، بلوتوث و خدمات موقعیت را روشن کنید. روشن شوند؟</string>
+    <string name="dialog_scanning_precondition_new_global">برای استفاده از ویژگی بازتاباندن، Wi-Fi و خدمات موقعیت را روشن کنید. روشن شوند؟</string>
     <string name="dialog_select_tv">انتخاب دستگاه (%1$d)</string>
     <string name="dialog_show_help">راهنما</string>
     <string name="disconnect">توقف بازتاباندن</string>
@@ -132,8 +133,9 @@
     <string name="global_privacy_explain">به بازتاباندن خوش آمدید! این برنامه خدمات زیر را ارائه می‌دهد:</string>
     <string name="global_privacy_feature">استفاده از پنجره‌های کوچک شده، بازتاباندن با نمایشگر خاموش و پنهان کردن موارد خصوصی.</string>
     <string name="global_privacy_main">موارد را از صفحه گوشی شما روی یک نمایشگر خارجی بزرگ‌تر نمایش می‌دهد.</string>
-    <string name="global_privacy_negative">مخالف</string>
+    <string name="global_privacy_negative">مخالفت</string>
     <string name="global_privacy_positive">پذیرفتن</string>
+    <string name="global_privacy_screencast">در حین ضبط یا ارسال محتوا، خدمات ارائه‌دهنده این ویژگی می‌تواند اطلاعات حساسی را که روی صفحه نمایش شما نمایش داده می‌شوند یا از دستگاه شما پخش می‌شوند، از جمله اطلاعات حساسی مانند صدا، گذرواژه، اطلاعات پرداخت، عکس‌ها و پیام‌ها ضبط کند.</string>
     <string name="global_privacy_tip">&lt;Data>ما برای ارائه خدمات پایه‌ای و بهینه‌سازی روند بازتاباندن نیاز به گردآوری اطلاعات شخصی شما داریم. شما در &lt;a href=%1$s>سیاست حفظ حریم خصوصی&lt;/a> ما می‌توانید درباره چگونگی به‌کارگیری اطلاعاتی که ما گردآوری می‌کنیم آگاه شوید. شما در هر زمانی می‌توانید در تنظیمات رضایت خود را نسبت به سیاست حفظ حریم خصوصی پس بگیرید.&lt;/Data></string>
     <string name="hang_up">بازتاباندن با صفحه خاموش</string>
     <string name="hang_up_alert_dialog_content">هنگام خاموش بودن صفحه گوشی شما بازتاباندن ادامه داده می‌شود. این ویژگی مصرف برق را کاهش می‌دهد. برای روشن کردن دوباره صفحه، دکمه خاموش/روشن را فشار دهید.</string>
@@ -301,14 +303,14 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="notification_rc_title">دستیار تلویزیون Xiaomi</string>
     <string name="notification_show_more">برای دیدن ویژگی‌های بیشتر ضربه بزنید</string>
     <string name="notify_wifiap_dialog_msg">برای اسکن کد و پیکربندی شبکه، ابتدا کانون داغ همراه را خاموش کنید.</string>
-    <string name="notify_wifiap_dialog_negative">فهمیدم</string>
+    <string name="notify_wifiap_dialog_negative">متوجه‌ام</string>
     <string name="notify_wifiap_dialog_title">پیکربندی شبکه</string>
     <string name="open_game_accelerate">روشن کردن افزاینده سرعت بازی</string>
     <string name="paipai_connect_btn_text">انجام شد</string>
     <string name="paipai_connect_tv1_text">به دستگاه متصل شد</string>
     <string name="paipai_connect_tv2_text">داده‌ها متنقل شدند</string>
     <string name="paipai_error_dialog_msg">تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید.</string>
-    <string name="paipai_error_dialog_negative">فهمیدم</string>
+    <string name="paipai_error_dialog_negative">متوجه‌ام</string>
     <string name="path_setting_cast">اتصال و هم‌رسانی/بازتاباندن</string>
     <string name="path_setting_cast_demo">اتصال و هم‌رسانی/بازتاباندن/نسخه‌های نمایشی</string>
     <string name="path_setting_cast_demo_document">اتصال و هم‌رسانی/بازتاباندن/نسخه‌های نمایشی/اسناد</string>
@@ -335,6 +337,8 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="privacy_permission_nfc_desc">برای جفت‌سازی دستگاه‌ها با استفاده از NFC</string>
     <string name="privacy_permission_optional">مجوزهای اختیاری</string>
     <string name="privacy_permission_optional_desc">هنگامی که از ویژگی‌های بیشتر استفاده می‌کنید برای آن‌ها استفاده می‌شود</string>
+    <string name="privacy_permission_screencast">دسترسی به اطلاعات روی صفحه</string>
+    <string name="privacy_permission_screencast_desc">در حین ضبط یا ارسال محتوا، خدمات ارائه‌دهنده این ویژگی می‌تواند اطلاعات حساسی را که روی صفحه نمایش شما نمایش داده می‌شوند یا از دستگاه شما پخش می‌شوند، از جمله اطلاعات حساسی مانند صدا، گذرواژه، اطلاعات پرداخت، عکس‌ها و پیام‌ها ضبط کند.</string>
     <string name="privacy_permission_wlan">خاموش و روشن کردن Wi-Fi</string>
     <string name="privacy_permission_wlan_china">Turning WLAN on and off</string>
     <string name="privacy_permission_wlan_desc">برای یافتن دستگاه‌های نزدیک در دسترس</string>
@@ -462,7 +466,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="toast_guide_title">ویژگی‌های جدید ما را اینجا کشف کنید</string>
     <string name="toast_invisible_mode">شما در حالت ناشناس هستید. از بازتاباندن نمی‌توانید استفاده کنید.</string>
     <string name="toast_invisible_mode1">بازتاباندن در حالت ناشناس کار نمی‌کند</string>
-    <string name="toast_msg_for_multi_window">این ویژگی با تجزیه نمایشگر کار نمی‌کند</string>
+    <string name="toast_msg_for_multi_window">این ویژگی با تقسیم صفحه کار نمی‌کند</string>
     <string name="toast_msg_for_small_window">شما می‌توانید با کوچک‌سازی پنجره‌ای که درحال بازتاباندن شدن است بدون قطع فرآیند بازتاباندن از سایر ویژگی‌های گوشی خود استفاده کنید.</string>
     <string name="toast_nfc_dont_move">گوشی خود را دور نکنید</string>
     <string name="toast_title_for_small_window">در برنامه \"کوچک‌سازی پنجره\" را انتخاب کنید</string>

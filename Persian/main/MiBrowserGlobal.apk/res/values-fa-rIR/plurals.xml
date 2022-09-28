@@ -108,9 +108,17 @@
         <item quantity="other">در %d دقیقه</item>
         <item quantity="one">در ۱ دقیقه</item>
     </plurals>
+    <plurals name="intercept_panel_img_text">
+        <item quantity="other">%d</item>
+        <item quantity="one">%d</item>
+    </plurals>
+    <plurals name="intercept_panel_protection_total">
+        <item quantity="other">‏%d بار محافظت شد</item>
+        <item quantity="one">‏%d بار محافظت شد</item>
+    </plurals>
     <plurals name="le_notification_download_completed">
-        <item quantity="other">%d مورد با موفقیت دانلود شدند</item>
-        <item quantity="one">%d مورد با موفقیت دانلود شد</item>
+        <item quantity="other">%1$s مورد با موفقیت دانلود شدند</item>
+        <item quantity="one">%1$s مورد با موفقیت دانلود شد</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">هم اکنون</item>
@@ -141,12 +149,16 @@
         <item quantity="one">%s نفر پسندید</item>
     </plurals>
     <plurals name="numSelectedFile">
-        <item quantity="other">%1$d مورد انتخاب شد</item>
+        <item quantity="other">" %1$d مورد انتخاب شد"</item>
         <item quantity="one">%1$d مورد انتخاب شد</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">۱ دقیقه پیش</item>
+    </plurals>
+    <plurals name="person_menu_protect_count">
+        <item quantity="other">‏%s بار محافظت شد</item>
+        <item quantity="one">‏%s بار محافظت شد</item>
     </plurals>
     <plurals name="players">
         <item quantity="other">%d بازی‌کننده</item>
@@ -155,6 +167,10 @@
     <plurals name="pref_adblock_counts">
         <item quantity="other">%d تبلیغ مسدود شدند</item>
         <item quantity="one">%d تبلیغ مسدود شد</item>
+    </plurals>
+    <plurals name="reading__search_resultful">
+        <item quantity="other">%1$d نتیجه یافت شد</item>
+        <item quantity="one">%1$d نتیجه یافت شد</item>
     </plurals>
     <plurals name="search_trending_views">
         <item quantity="other">%s درخواست جستجو</item>
@@ -176,6 +192,10 @@
         <item quantity="other">%d آهنگ پرطرفدار</item>
         <item quantity="one">%d آهنگ پرطرفدار</item>
     </plurals>
+    <plurals name="tag_count">
+        <item quantity="other">%d زبانه</item>
+        <item quantity="one">%d زبانه</item>
+    </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d مورد انتخاب شد</item>
         <item quantity="one">%1$d مورد انتخاب شد</item>
@@ -183,6 +203,10 @@
     <plurals name="video_collection_reminder_view">
         <item quantity="other">شما هنوز %d ویدئوی پسندیده خود را مدت زیادی است که ندیده‌اید.</item>
         <item quantity="one">شما هنوز %d ویدئوی پسندیده را مدت زیادی است که ندیده‌اید.</item>
+    </plurals>
+    <plurals name="video_views">
+        <item quantity="other">%s بازدید</item>
+        <item quantity="one">%s بازدید</item>
     </plurals>
     <plurals name="videos_updated_amount">
         <item quantity="other">%1$d ویدئوی جدید را ببینید</item>
@@ -199,5 +223,45 @@
     <plurals name="vote_all_people">
         <item quantity="other">%d نفر رأی داده‌اند</item>
         <item quantity="one">%d نفر رأی داده است</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_ad">
+        <item quantity="other">%d تبلیغ مسدود شدند</item>
+        <item quantity="one">%d تبلیغ مسدود شد</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_allow_times">
+        <item quantity="other">‏%d بار مجاز شد</item>
+        <item quantity="one">‏%d بار مجاز شد</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_disallow_times">
+        <item quantity="other">‏%d بار محدود شد</item>
+        <item quantity="one">‏%d بار محدود شد</item>
+    </plurals>
+    <plurals name="web_intercept_record_behavior_hint_privacy">
+        <item quantity="other">‏%d بار متوقف شد</item>
+        <item quantity="one">‏%d بار متوقف شد</item>
+    </plurals>
+    <plurals name="web_permission_ad_subtitle">
+        <item quantity="other">%s تبلیغ مسدود شدند</item>
+        <item quantity="one">%s تبلیغ مسدود شد</item>
+    </plurals>
+    <plurals name="web_permission_allow_default_subtitle">
+        <item quantity="other">‏%s بار مجاز شد</item>
+        <item quantity="one">‏%s بار مجاز شد</item>
+    </plurals>
+    <plurals name="web_permission_deny_default_subtitle">
+        <item quantity="other">‏%s بار محدود شد</item>
+        <item quantity="one">‏%s بار محدود شد</item>
+    </plurals>
+    <plurals name="web_permission_privacy_subtitle">
+        <item quantity="other">‏%s بار متوقف شد</item>
+        <item quantity="one">‏%s بار متوقف شد</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_day">
+        <item quantity="other">%s روز</item>
+        <item quantity="one">%s روز</item>
+    </plurals>
+    <plurals name="web_permission_protect_subtitle_time">
+        <item quantity="other">%s بار</item>
+        <item quantity="one">%s بار</item>
     </plurals>
 </resources>

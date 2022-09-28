@@ -152,6 +152,7 @@
     <string name="callrecordview_menu_show_missed">تماس‌های از دست رفته</string>
     <string name="callrecordview_menu_show_sim">%s تماس</string>
     <string name="callrecordview_menu_show_stranger">تماس از شماره‌های ناشناس</string>
+    <string name="callrecordview_menu_xiaoaiphone">دستیار تماس AI Mi</string>
     <string name="cancel">لغو</string>
     <string name="cancel_confirmation_dialog_message">از تغییراتی که دادید صرف‌نظر می‌کنید؟</string>
     <string name="cancel_confirmation_dialog_title">لغو</string>
@@ -475,6 +476,7 @@
     <string name="friday">جمعه</string>
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">نام</string>
     <string name="gallery">گالری</string>
     <string name="ghostData_company">شرکت</string>
@@ -608,6 +610,7 @@
     <string name="menu_sync_remove">حذف گروه همگام‌سازی</string>
     <string name="midnight">شب</string>
     <string name="miprofile_account_type">کارت‎های مخاطب</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ویرایش نمایه</string>
     <string name="miprofile_name">نمایه من</string>
     <string name="miprofile_nick_name_divider">"  |  "</string>
@@ -763,6 +766,7 @@
     <string name="permission_retry_dialog_msg_pad">برای امکان استفاده از سیم‌کارت خود با این برنامه و مدیریت مخاطبین خود، به این برنامه اجازه دسترسی و ویرایش مخاطبین و همچنین دسترسی به اطلاعات دستگاه را بدهید.</string>
     <string name="permission_retry_setting">تنظیمات</string>
     <string name="phoneLabelsGroup">تلفن</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">شماره طولانی است</string>
     <string name="phone_primary">اصلی</string>
     <string name="photoPickerNotFoundText">هیچ تصویری بر روی دستگاه وجود ندارد.</string>
@@ -831,6 +835,9 @@
     <string name="preference_smart_group_title">گروه‌های هوشمند</string>
     <string name="preference_tone_title">صداها</string>
     <string name="preference_yellowpage_function_setting">تنظیمات کتاب اول</string>
+    <string name="presentation_payphone">تلفن همگانی</string>
+    <string name="presentation_private">شماره خصوصی</string>
+    <string name="presentation_unknown">شماره ناشناس</string>
     <string name="previous">قبلی</string>
     <string name="privacy_password_message1">گذرواژه حفاظت از حریم خصوصی برای عکس‌ها، یادداشت‌ها و پوشه‌های پنهان کار می‌کند.</string>
     <string name="privacy_password_message2">از گذرواژه حفاظت از حریم خصوصی استفاده کنید. این گذرواژه برای عکس‌ها، یادداشت‌ها و پوشه‌های پنهان کار می‌کند.</string>
@@ -907,7 +914,7 @@
     <string name="remove_duplicate">"MIUI در پیدا کردن و ادغام مخاطبین تکراری به شما کمک می‌کند.
 
  برای آغاز، روی آیکون ادغام در پایین صفحه نمایش ضربه بزنید."</string>
-    <string name="required_permissions">android.permission.WRITE_CONTACTS;android.permission.READ_CONTACTS;android.permission.WRITE_CALL_LOG;android.permission.READ_CALL_LOG;android.permission.READ_PHONE_STATE;android.permission.CALL_PHONE</string>
+    <string name="required_permissions">android.permission.WRITE_CONTACTS;android.permission.READ_CONTACTS;android.permission.WRITE_CALL_LOG;android.permission.READ_CALL_LOG;android.permission.READ_PHONE_STATE;android.permission.CALL_PHONE;android.permission.POST_NOTIFICATIONS</string>
     <string name="restore_app_btn_cancel">لغو</string>
     <string name="restore_app_btn_restore">تأیید</string>
     <string name="restore_app_description_content">برای دسترسی سریع‌تر به مخاطبین خود، یک میان‌بر صفحه اصلی اضافه کنید.</string>
@@ -1003,6 +1010,7 @@
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">گروه بدون عضو</string>
     <string name="six_letter">ج چ ح خ</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">شرکت‌ها</string>
     <string name="smart_group_company_unavailable">بدون اطلاعات شرکت</string>
     <string name="smart_group_frequency_1">در طول ماه گذشته</string>
@@ -1146,7 +1154,7 @@
     <string name="unknown_contact_name">مخاطب ناشناس</string>
     <string name="unknown_details_add_to_contact">موجود</string>
     <string name="unknown_details_new_contact">جدید</string>
-    <string name="unshow_qr_code_in_narrow_screen_split">هنگام استفاده از تجزیه نمایشگر کد QR نمایش داده نمی‌شود</string>
+    <string name="unshow_qr_code_in_narrow_screen_split">هنگام استفاده از تقسیم صفحه کد QR نمایش داده نمی‌شود</string>
     <string name="update_sim_contact_photo_toast">عکس‌های نمایه را نمی‌توان برای مخاطبین سیم‌کارت تنظیم کرد</string>
     <string name="upgrade_in_progress">فهرست مخاطبین در حال به‌روزرسانی است.</string>
     <string name="upgrade_out_of_memory">"مخاطبین در حال ارتقا هستند. 
@@ -1165,6 +1173,7 @@
     <string name="video_chat">گپ تصویری</string>
     <string name="viewContactDesription">مشاهده مخاطب</string>
     <string name="viewContactTitle">جزئیات مخاطب</string>
+    <string name="view_more_call_logs">نمایش بیشتر</string>
     <string name="view_updates_from_group">مشاهده به‌روزرسانی‌ها</string>
     <string name="voicemail">پست صوتی</string>
     <string name="websiteLabelsGroup">وب‌سایت</string>

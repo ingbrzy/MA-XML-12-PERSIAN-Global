@@ -202,6 +202,10 @@
         <item quantity="other">محو تدریجی بین آهنگ‌ها: %d ثانیه</item>
         <item quantity="one">محو تدریجی بین آهنگ‌ها: %d ثانیه</item>
     </plurals>
+    <plurals name="task_guide">
+        <item quantity="other">امروز %1$d سکه به دست آورید!</item>
+        <item quantity="one">امروز %1$d سکه به دست آورید!</item>
+    </plurals>
     <plurals name="video_count">
         <item quantity="other">ویدئو</item>
         <item quantity="one">ویدئو</item>

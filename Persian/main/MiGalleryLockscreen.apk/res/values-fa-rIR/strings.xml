@@ -41,6 +41,7 @@
     <string name="afternoon">بعد از ظهر</string>
     <string name="am">ق.ظ</string>
     <string name="auth_fail_warning">مهلت تمام شد. دوباره وارد شوید.</string>
+    <string name="back">بازگشت</string>
     <string name="bind_sign_in_title">افزودن حساب Mi</string>
     <string name="change_activate_email">تغییر نشانی ایمیل</string>
     <string name="change_password">تغییر گذرواژه</string>
@@ -48,6 +49,7 @@
     <string name="choose_to_signup">خیر. یکی خواهم ساخت</string>
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
     <string name="close">بستن</string>
+    <string name="close_country_code_content_description">کد کشور را حذف کنید</string>
     <string name="collect_diagnosis_log">جمع‌آوری رخدادها</string>
     <string name="confirm_activate_email">تأیید شده</string>
     <string name="confirm_bundled_phone_dialog_title">تأیید شماره تلفن مرتبط</string>
@@ -73,6 +75,7 @@
     <string name="error_invalid_bind_address">نشانی ایمیلی که وارد کردید نامعتبر است.</string>
     <string name="evening">بعد از ظهر</string>
     <string name="exceed_binded_phone_times_notice">این شماره تلفن در حال حاضر با یک حساب Mi دیگر مرتبط است.</string>
+    <string name="facebook_login_btn_content_description">ورود با فیسبوک</string>
     <string name="failed_dup_secure_phone_number">این شماره تلفن در حال حاضر با یک حساب Mi دیگر مرتبط است</string>
     <string name="find_psw">گذرواژه را فراموش کرده‌ام</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -135,7 +138,9 @@
     <string name="get_ph_ticket">دریافت کد</string>
     <string name="get_phone_bind_exceed_limit">شما می‌توانید تا ۳ حساب Mi را با یک شماره تلفن مرتبط کنید.</string>
     <string name="get_phone_verifycode_exceed_limit">کدهای تأیید زیادی برای این شماره فرستاده شده است. ۲۴ ساعت منتظر مانده و دوباره تلاش کنید.</string>
+    <string name="google_login_btn_content_description">ورود با Google</string>
     <string name="goto_sign_up">ایجاد حساب</string>
+    <string name="header_help">راهنما</string>
     <string name="i_know">فهمیدم</string>
     <string name="identity">شناسایی</string>
     <string name="inconsistent_pwd">گذرواژه‌ها یکسان نیستند</string>
@@ -152,6 +157,23 @@
     <string name="login_with_sns">راه‌های دیگر برای ورود</string>
     <string name="logout_account">خروج از حساب</string>
     <string name="midnight">شب</string>
+    <string name="miui_clock_city_name_local">محلی</string>
+    <string name="miui_clock_city_name_second">ساعت دوم</string>
+    <string name="miui_lock_screen_date">EEEE dd/MM</string>
+    <string name="miui_lock_screen_date_12">EEEE dd/MM</string>
+    <string name="miui_lock_screen_date_two_lines">"EEEE
+dd/MM"</string>
+    <string name="miui_lock_screen_date_two_lines_12">"EEEE
+dd/MM"</string>
+    <string name="miui_lock_screen_large_date">"EEE
+dd/MM"</string>
+    <string name="miui_lock_screen_large_date_12">"EEE
+dd/MM"</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
+    <string name="miuix_access_state_desc">انتخاب شده</string>
     <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
     <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
@@ -321,8 +343,12 @@
     <string name="photoPickerNotFoundText">هیچ عکسی در دسترس نیست.</string>
     <string name="pm">ب.ظ</string>
     <string name="progressbar_title">درحال بررسی خطرات امنیتی…</string>
+    <string name="protocal_dialog_cancel">لغو</string>
+    <string name="protocal_dialog_confirm">پذیرفتن</string>
+    <string name="protocal_dialog_title">توجه</string>
     <string name="psw_hint">گذرواژه</string>
     <string name="psw_sign_in">ورود با استفاده از گذرواژه</string>
+    <string name="qq_login_btn_content_description">ورود با QQ</string>
     <string name="register_by_local_phone_long_text">ایجاد حساب</string>
     <string name="register_by_local_phone_short_text">ایجاد حساب</string>
     <string name="request_agree">اجازه دادن</string>
@@ -430,6 +456,7 @@
     <string name="user_agreement_hint_with_mobile">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi و همچنین &lt;a href=%3$s>شرایط و ضوابط خدمات تأیید China Mobile&lt;/a> را خوانده و پذیرفته‌ام.&lt;/Data></string>
     <string name="user_agreement_hint_with_telecom">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi و همچنین &lt;a href=%3$s>شرایط و ضوابط حساب eSurfing &lt;/a> را خوانده و پذیرفته‌ام.&lt;/Data></string>
     <string name="user_agreement_hint_with_unicom">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi و همچنین &lt;a href=%3$s>شرایط و ضوابط خدمات تأیید China Unicom&lt;/a> را خوانده و پذیرفته‌ام.&lt;/Data></string>
+    <string name="user_agreement_protocal_dialog_hint_default">"&lt;Data>Read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>.&lt;/Data>"</string>
     <string name="user_avatar_update_title">تغییر عکس نمایه</string>
     <string name="user_avatar_uploading">چند لحظه صبر کنید…</string>
     <string name="user_id_hint">ایمیل/تلفن/شناسه حساب Mi</string>
@@ -438,5 +465,7 @@
     <string name="wednesday">چهارشنبه</string>
     <string name="wednesday_short">چهارشنبه</string>
     <string name="wednesday_shortest">چهارشنبه</string>
+    <string name="weibo_login_btn_content_description">ورود با Weibo</string>
+    <string name="weixin_login_btn_content_description">ورود با WeChat</string>
     <string name="yesterday">دیروز</string>
 </resources>

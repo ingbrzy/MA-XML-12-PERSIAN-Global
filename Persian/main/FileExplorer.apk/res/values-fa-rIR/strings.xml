@@ -8,6 +8,7 @@
     <string name="ad_download">دانلود</string>
     <string name="add_private">فایل‌ها را خصوصی کنید</string>
     <string name="add_private_files">افزودن فایل</string>
+    <string name="add_to_widget">افزودن به ابزارک</string>
     <string name="added_category">افزوده شده</string>
     <string name="afternoon">بعد از ظهر</string>
     <string name="aggree_desc">به این برنامه اجازه اتصال به اینترنت و مجوزهای اجباری فهرست شده در بالا را بدهید.</string>
@@ -128,6 +129,7 @@
     <string name="delete_folder">این پوشه حذف شود؟</string>
     <string name="des_hide_pwd">پنهان کردن گذرواژه</string>
     <string name="des_show_pwd">نمایش گذرواژه</string>
+    <string name="dialog_keep_choice">به یاد داشتن انتخاب من</string>
     <string name="dialog_select_type">انتخاب نوع</string>
     <string name="dialog_type_audio">صدا</string>
     <string name="dialog_type_image">تصاویر</string>
@@ -180,6 +182,7 @@
     <string name="favorite_photo">عکس‌ها</string>
     <string name="favorite_ringtone">زنگ‌ها</string>
     <string name="favorite_screen_cap">عکس‌های صفحه</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">قابل خواندن: </string>
     <string name="file_info_canwrite">قابل نوشتن: </string>
     <string name="file_info_ishidden">پنهان: </string>
@@ -293,6 +296,8 @@
     <string name="instruction_pre_phone">فایل‌های این دستگاه را با استفاده از یک رایانه مدیریت کنید</string>
     <string name="internal_storage">حافظه داخلی</string>
     <string name="just_now">چند لحظه پیش</string>
+    <string name="lack_perm_msg">مدیریت فایل‌ها برای کارکرد عادی به مجوزهای زیر نیاز دارد: &lt;b>%s&lt;/b></string>
+    <string name="lack_perm_title">نیازمند مجوز است</string>
     <string name="launcher_icon_add_description">افزودن میان‌بر صفحه اصلی</string>
     <string name="launcher_icon_remove_description_content">مدیریت فایل‌ها یک برنامه‌ سیستمی است. پس از حذف میان‌بر صفحه اصلی، دیگر نمی‌توانید فایل‌های دستگاه خود را مدیریت کنید.</string>
     <string name="launcher_icon_remove_description_title">«مدیریت فایل‌ها» از صفحه اصلی برداشته شود؟</string>
@@ -303,6 +308,9 @@
     <string name="local_image">تصاویر</string>
     <string name="local_music">فایل‌های صوتی</string>
     <string name="local_video">فایل‌های ویدئویی</string>
+    <string name="main_button_continue">تنظیمات</string>
+    <string name="main_button_ok">تأیید</string>
+    <string name="main_button_quit">لغو</string>
     <string name="make_private">خصوصی کردن</string>
     <string name="make_private_msg_1">این فایل خصوصی شود؟</string>
     <string name="make_private_msg_2">این فایل‌ها خصوصی شوند؟</string>
@@ -319,6 +327,7 @@
     <string name="menu_item_sort_type">نوع</string>
     <string name="menu_item_usb">USB</string>
     <string name="menu_set_wallpaper">تنظیم به عنوان تصویر زمینه</string>
+    <string name="message_request_manage_external_storage_perm">مدیریت فایل‌ها نیاز به مجوز برای دسترسی به مدیریت فایل‌های دستگاه شما دارد. شما می‌توانید این مجوز را در تنظیمات اعطاء کنید.</string>
     <string name="mi_router_label">رهیاب</string>
     <string name="mi_share">هم‌رسانی Mi</string>
     <string name="midnight">شب</string>
@@ -490,6 +499,7 @@
     <string name="partial_delete_failure">برخی فایل‌ها حذف نشدند. دوباره تلاش کنید.</string>
     <string name="partial_encrypt_success">برخی فایل‌ها خصوصی نشدند. دوباره تلاش کنید.</string>
     <string name="path_name_email">ایمیل</string>
+    <string name="perm_manage_external_storage">دسترسی به همه فایل‌ها</string>
     <string name="permission_denial">نمی‌توان به فایل‌ها دسترسی پیدا کرد. به مدیریت فایل‌ها اجازه دسترسی به فایل‌ها را در تنظیمات بدهید.</string>
     <string name="permission_description">جزئیات مجوزها</string>
     <string name="permission_required">نمی‌توان به فایل‌ها دسترسی پیدا کرد. به مدیریت فایل‌ها اجازه دسترسی به فایل‌ها را در تنظیمات بدهید.​</string>
@@ -588,6 +598,7 @@
     <string name="set_pattern">گذرواژه خود را ارتقاء دهید</string>
     <string name="set_pattern_btn">تنظیم</string>
     <string name="set_pattern_msg">گذرواژه خود را دوباره تنظیم کنید. گذرواژه حفاظت از حریم خصوصی برای عکس‌ها، پیام‌ها و یادداشت‌ها نیز کاربرد دارد.</string>
+    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">کوچک‌تر از %d کیلوبایت</string>
     <string name="size_lv2" formatted="false">%1d کیلوبایت - %2d مگابایت</string>
     <string name="size_lv3" formatted="false">%1d مگابایت - %2d مگابایت</string>
@@ -676,9 +687,11 @@
     <string name="time_picker_label_hour">ساعت</string>
     <string name="time_picker_label_minute">دقیقه</string>
     <string name="tip">توجه</string>
+    <string name="tips_add_to_widget">شما می‌توانید تا %d فایل به این ابزارک بیافزایید. در صورت افزودن فایل‌های بیشتر، فایل‌های افزوده پیشین جایگزین خواهند شد.</string>
     <string name="title_app_tags">برنامه‌ها</string>
     <string name="title_expire_video">نزدیک به انقضاء</string>
     <string name="title_recent">موارد تازه</string>
+    <string name="title_request_manage_external_storage_perm">نیازمند مجوز است</string>
     <string name="title_select_volume">انتخاب پوشه</string>
     <string name="to_open">تنظیمات</string>
     <string name="to_setting">تنظیمات</string>
@@ -717,6 +730,16 @@
     <string name="wednesday">چهارشنبه</string>
     <string name="wednesday_short">چهارشنبه</string>
     <string name="wednesday_shortest">چهارشنبه</string>
+    <string name="widget_add_files">افزودن فایل</string>
+    <string name="widget_added_fail_content">%1$s در صفحه اصلی موجود بوده است</string>
+    <string name="widget_added_fail_tips">افزوده نشد</string>
+    <string name="widget_added_success_content">‏%1$s‏ به صفحه اصلی افزوده شد</string>
+    <string name="widget_added_success_tips">با موفقیت افزوده شد</string>
+    <string name="widget_choose_document_please">انتخاب سند</string>
+    <string name="widget_choose_file">برای افزودن فایل‌ها ضربه بزنید</string>
+    <string name="widget_choose_fragment_title">انتخاب نوع فایل</string>
+    <string name="widget_finish">انجام شد</string>
+    <string name="widget_name">فایل‌های به تازگی نمایش داده شده</string>
     <string name="wifi_state">وضعیت Wi-Fi</string>
     <string name="withdraw">پس گرفتن</string>
     <string name="withdraw_consent">پس گرفتن رضایت</string>

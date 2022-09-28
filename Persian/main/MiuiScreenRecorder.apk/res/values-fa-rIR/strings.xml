@@ -6,7 +6,7 @@
     <string name="app_name">ضبط نمایشگر</string>
     <string name="app_notification_channel_record_complete">اعلان‌ها درباره موارد ضبط شده پایان یافته</string>
     <string name="app_notification_info">ضبط نمایشگر در پس‌زمینه درحال کار کردن است</string>
-    <string name="app_notification_record_complete">"ضبط نمایشگر در گالری ذخیره شد
+    <string name="app_notification_record_saved">"مورد ضبط شده با موفقیت ارسال شد
 برای نمایش ضربه بزنید"</string>
     <string name="app_notification_title">ضبط نمایشگر</string>
     <string name="auto_stop_title">ویدئو با موفقیت ذخیره شد</string>

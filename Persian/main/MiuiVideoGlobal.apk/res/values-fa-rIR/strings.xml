@@ -95,6 +95,8 @@
     <string name="choose">انتخاب</string>
     <string name="choose_to_signin">بله</string>
     <string name="choose_to_signup">خیر. یکی خواهم ساخت</string>
+    <string name="chromecast_connecting">درحال اتصال به Chromecast…</string>
+    <string name="chromecast_playing">شما درحال تماشای این ویدئو با Chromecast هستید</string>
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
     <string name="click_to_open_pip">برای تغییر به تصویر در تصویر ضربه بزنید</string>
     <string name="click_to_play_video_push_context">برای پخش ویدئو ضربه بزنید</string>
@@ -153,6 +155,8 @@
 برای بررسی ویژگی‌های جالب جدید، برنامه را اکنون به‌روزرسانی کنید!
 گروه ویدئوی Mi"</string>
     <string name="description">توضیحات</string>
+    <string name="desktop_widget_local_media">فایل‌های رسانه</string>
+    <string name="desktop_widget_new">جدید</string>
     <string name="detail_select_source">انتخاب منبع بازپخش</string>
     <string name="diagnosis_log_send_failed">رخدادها ارسال نشدند. دوباره تلاش کنید.</string>
     <string name="diagnosis_log_sent_format">"رخدادها با موفقیت ارسال شدند.
@@ -184,7 +188,7 @@
     <string name="dialog_jumpto_title">ویدئوی Mi</string>
     <string name="dialog_look_offline_btn">نمایش محتوای آفلاین</string>
     <string name="dialog_no_internet_des">به شبکه متصل نیستید. به جای آن محتوای آفلاین نمایش داده شود؟</string>
-    <string name="dialog_no_video_confirm">فهمیدم</string>
+    <string name="dialog_no_video_confirm">متوجه‌ام</string>
     <string name="dialog_no_video_tip">ابتدا تلاش کنید جزئیات ویدئو را باز کنید. دکمه دانلود بلافاصله پس از پیدا شدن ویدئو در دسترس خواهد بود.</string>
     <string name="dialog_no_video_title">ویدئو یافت نشد</string>
     <string name="dialog_open_internet_btn">اتصال به شبکه</string>
@@ -228,7 +232,7 @@
     <string name="download_delete_tip">موارد انتخاب شده حذف شوند؟</string>
     <string name="download_delete_title">حذف</string>
     <string name="download_guide_click_icon_to_website_or_enter_url">برای باز کردن یک تارنما یا وارد کردن URL، روی یک میان‌بر ضربه بزنید</string>
-    <string name="download_guide_known">فهمیدم</string>
+    <string name="download_guide_known">متوجه‌ام</string>
     <string name="download_paused">مکث شد</string>
     <string name="download_pending">در حال بررسی…</string>
     <string name="download_power_off_tips">این قابلیت اکنون در دسترس نیست</string>
@@ -409,6 +413,7 @@
     <string name="galleryplus_notification_linkvideo_title4">صدها ویدئو، برای مدت محدودی رایگان</string>
     <string name="galleryplus_notification_linkvideo_title5">پخش رایگان نمایش‌های مورد پسند شما</string>
     <string name="galleryplus_notification_try_now_btn">امتحان کردن</string>
+    <string name="galleryplus_notification_type_link_video">درحال تعویض به ویدئوهای محلی</string>
     <string name="galleryplus_online_cta">ویدئوی Mi برای کارکرد عادی نیاز به اتصال به اینترنت دارد. می‌پذیرید؟</string>
     <string name="galleryplus_online_cta_agree">پذیرفتن</string>
     <string name="galleryplus_online_cta_disagree">مخالفت</string>
@@ -481,7 +486,7 @@
     <string name="galleryplus_video_circulate_quit">توقف بازپخش ویدئو</string>
     <string name="galleryplus_video_edit_save_video">درحال ایجاد ویدئو با زیرنویس…</string>
     <string name="galleryplus_vp_hardware_unsported">این ویدئو در دستگاه شما پخش نمی‌شود.</string>
-    <string name="galleryplus_vp_videoview_error_button">فهمیدم</string>
+    <string name="galleryplus_vp_videoview_error_button">متوجه‌ام</string>
     <string name="galleryplus_vp_videoview_error_text_unknown">یک خطای بازپخش رخ داد</string>
     <string name="galleryplus_vp_videoview_error_title">این ویدئو پخش نمی‌شود</string>
     <string name="get_back_pwd">درحال بازنشانی گذرواژه</string>
@@ -489,7 +494,7 @@
     <string name="get_phone_bind_exceed_limit">شما می‌توانید تا ۳ حساب Mi را با یک شماره تلفن مرتبط کنید.</string>
     <string name="get_phone_verifycode_exceed_limit">کدهای تأیید زیادی برای این شماره فرستاده شده است. ۲۴ ساعت منتظر مانده و دوباره تلاش کنید.</string>
     <string name="goto_sign_up">ایجاد حساب</string>
-    <string name="have_learned">فهمیدم</string>
+    <string name="have_learned">متوجه‌ام</string>
     <string name="hidden_channels">کانال‌های زیر در صفحه اصلی نمایش داده نخواهند شد.</string>
     <string name="hide">پنهان کردن</string>
     <string name="hint_icon_ad_title">پیشنهاد شده</string>
@@ -512,8 +517,10 @@
     <string name="incentive_exchange">خرج کردن</string>
     <string name="incentive_exchange_code">کد</string>
     <string name="incentive_exchange_code_copy">کپی</string>
+    <string name="incentive_exchange_code_copy_and_start">استفاده</string>
     <string name="incentive_exchange_details">جزئیات</string>
     <string name="incentive_exchange_details_current">مجموع سفارش</string>
+    <string name="incentive_exchange_details_dotask">به دست آوردن امتیاز</string>
     <string name="incentive_exchange_details_total">موجودی</string>
     <string name="incentive_exchange_empty_tip">هنوز چیزی اینجا نیست. برای آغاز، امتیازها را خرج کنید.</string>
     <string name="incentive_exchange_expire_tip">امتیازات برداشت نشده نیمه شب ناپدید خواهند شد</string>
@@ -521,6 +528,7 @@
     <string name="incentive_exchange_successful">با موفقیت خرج شد</string>
     <string name="incentive_exchange_tip">این امتیازات فقط امروز در دسترس هستند</string>
     <string name="incentive_login_for_claim">با مورود به حساب Google خود امتیازها را برداشت کنید</string>
+    <string name="incentive_login_success_for_already_claimd">با موفقیت وارد شد. امتیازات برداشت شدند.</string>
     <string name="incentive_login_tip">برای دریافت امتیاز و گرفتن جایزه وارد حساب شوید</string>
     <string name="incentive_my_points">امتیازات من</string>
     <string name="incentive_popup_window_share">با هم‌رسانی امتیاز به دست آورید</string>
@@ -536,10 +544,16 @@
     <string name="incentive_task_title_novice">برای تازه‌واردها</string>
     <string name="incentive_task_to_get">آغاز</string>
     <string name="incentive_task_to_login">ورود به حساب</string>
+    <string name="incentive_toast_share_success_new">با موفقیت هم‌رسانی شد</string>
+    <string name="incentive_toast_subscribe_success_new">اشتراک با موفقیت انجام شد</string>
+    <string name="incentive_ui_tab_earn_credits">امتیاز</string>
     <string name="incentive_view_all_prizes">نمایش همه پاداش‌ها</string>
     <string name="incentive_view_details">جزئیات</string>
     <string name="inconsistent_pwd">گذرواژه‌ها یکسان نیستند</string>
     <string name="init_channels">بازیابی به پیش‌فرض</string>
+    <string name="inline_auto_play_tip">"در حال استفاده از اینترنت همراه… "</string>
+    <string name="inline_auto_play_to_set">تنظیمات</string>
+    <string name="inline_mute_click_tip">برای لغو بی‌صدایی ضربه بزنید</string>
     <string name="input_email_address_notice">ما از این ایمیل برای تایید حساب شما استفاده خواهیم کرد</string>
     <string name="input_new_pwd">گذرواژه جدید را وارد کنید</string>
     <string name="input_size_tips_new">می‌توانید تا %d نویسه وارد کنید</string>
@@ -554,6 +568,7 @@
     <string name="item_download_path">موقعیت دانلود</string>
     <string name="item_download_path_setting">تنظیمات موقعیت دانلود</string>
     <string name="item_setting_go_back">پس گرفتن رضایت</string>
+    <string name="item_title_for_search_page_hot">پرطرفدار</string>
     <string name="item_title_unknown">عنوان ناشناخته</string>
     <string name="just_a_second">چند لحظه صبر کنید…</string>
     <string name="language_later_setting_tips">شما می‌توانید تنظیمات زبان خود را در نمایه > زبان تغییر دهید.</string>
@@ -564,8 +579,14 @@
     <string name="later">بعداً</string>
     <string name="live_now">زنده</string>
     <string name="live_title">تلویزیون زنده</string>
+    <string name="live_tv_dialog_item_passed">این برنامه تمام شده است. دفعه بعدی آن را ببینید!</string>
+    <string name="live_tv_dialog_subscirbe_button">اشتراک</string>
+    <string name="live_tv_dialog_subscirbe_tips">اشتراک %1$s را گرفته و هرگز قسمتی را از دست ندهید</string>
     <string name="live_tv_title">تلویزیون زنده</string>
+    <string name="live_tv_toast_item_subscirbe">شما مشترک این برنامه شده‌اید</string>
     <string name="loading">چند لحظه صبر کنید…</string>
+    <string name="local_adjust_zoom_mode_hint">شما در حال تماشا به صورت %s هستید</string>
+    <string name="local_crop_zoom_mode">عکس بریده شده است</string>
     <string name="local_diversion_all_local_videos">همه ویدئوهای این دستگاه</string>
     <string name="local_diversion_close_recommend">بستن</string>
     <string name="local_diversion_download_more_video">ویدئوهای بیشتر</string>
@@ -583,6 +604,7 @@
     <string name="local_push_setting_power_tag">اعلان‌های مربوط به ویدئوهای محلی</string>
     <string name="local_push_title">پرطرفدار امروز</string>
     <string name="local_push_video_title">جستجو برای ویدئوهای محلی جدید</string>
+    <string name="local_stretch_zoom_mode">عکس کشیده شده است</string>
     <string name="local_video_create_a_new_playlist">فهرست پخش جدید</string>
     <string name="local_video_date">تاریخ</string>
     <string name="local_video_dialog_default">پیش‌فرض</string>
@@ -603,6 +625,7 @@
     <string name="local_video_size">اندازه</string>
     <string name="local_video_space">اشغال شده: %s</string>
     <string name="local_video_time">مدت</string>
+    <string name="local_zoom_adjust_button">تعویض حالت نمایش</string>
     <string name="lock_screen">قفل صفحه</string>
     <string name="login">ورود به حساب</string>
     <string name="login_tip">برای امکان دریافت پاسخ‌های ما به بازخوردهای خود وارد حساب شوید.</string>
@@ -620,7 +643,7 @@
     <string name="lp_play_mode_title">حالت پخش</string>
     <string name="lp_speed_title">سرعت پخش</string>
     <string name="lp_speed_toast">درحال پخش با سرعت %sX…</string>
-    <string name="lp_videoView_error_button">فهمیدم</string>
+    <string name="lp_videoView_error_button">متوجه‌ام</string>
     <string name="lp_videoView_error_text_unknown">این ویدئو پخش نمی‌شود.</string>
     <string name="lp_videoView_error_title">پخش نمی‌شود</string>
     <string name="lp_video_info_title">اطلاعات</string>
@@ -630,6 +653,7 @@
     <string name="lp_video_zoom_title">بزرگ‌نمایی</string>
     <string name="lv_advance_sound">بهبود صدا</string>
     <string name="lv_airkan_control_device_des">برای کنترل بازپخش، نوار پایین را بزنید.</string>
+    <string name="lv_airkan_device_my_device">دستگاه‌ من</string>
     <string name="lv_airkan_device_xiaomi_phone">تلفن Mi من</string>
     <string name="lv_airkan_playing">درحال بازتاباندن بر روی %s</string>
     <string name="lv_airkan_tips">ضربه زده تا بازتابانده شود</string>
@@ -708,10 +732,10 @@
     <string name="lv_subtitle_no_subtitle">زیرنویس‌ها در دسترس نیستند</string>
     <string name="lv_subtitle_non_subtitle_file">هیچ زیرنویسی در دسترس نیست</string>
     <string name="lv_subtitle_offset_add_1s_new">+%d ثانیه</string>
-    <string name="lv_subtitle_offset_add_dot5s_new">+%f ثانیه</string>
+    <string name="lv_subtitle_offset_add_dot5s_new">+%.1f ثانیه</string>
     <string name="lv_subtitle_offset_normal">زیرنویس‌ها جابجا نشوند</string>
     <string name="lv_subtitle_offset_sub_1s_new">-%d ثانیه</string>
-    <string name="lv_subtitle_offset_sub_dot5s_new">-%f ثانیه</string>
+    <string name="lv_subtitle_offset_sub_dot5s_new">-%.1f ثانیه</string>
     <string name="lv_subtitle_onlinesub_language">زبان: %s</string>
     <string name="lv_subtitle_onlinesub_loading">درحال بارگذاری زیرنویس…</string>
     <string name="lv_subtitle_onlinesub_loading_wait">درحال بارگذاری زیرنویس…</string>
@@ -826,7 +850,7 @@
     <string name="month_september_shortest">سپتامبر</string>
     <string name="more">بیشتر</string>
     <string name="morning">صبح</string>
-    <string name="music_new_user_dialog_got_it">فهمیدم</string>
+    <string name="music_new_user_dialog_got_it">متوجه‌ام</string>
     <string name="music_new_user_dialog_tip">به ویدئوی Mi خوش آمدید! این برنامه خدمات پخش کننده محلی ویدئو و پخش آنلاین موسیقی و ویدئو ارائه می‌دهد.</string>
     <string name="my_favorite_channels">کانال‌های مورد پسند من</string>
     <string name="my_feedback_title">بازخورد من</string>
@@ -866,10 +890,16 @@
     <string name="notification_recall_desc">ویدئوی Mi می‌تواند درباره ویدئوها و اشتراک‌های پرطرفدار شما را آگاه کند.</string>
     <string name="notification_recall_title">روشن کردن اعلان‌ها</string>
     <string name="notification_tool">جعبه ابزار</string>
+    <string name="notification_type_channel_music">پخش موسیقی</string>
     <string name="notify_apk_installed">با موفقیت دانلود شد</string>
     <string name="ok">تأیید</string>
     <string name="online_play_hint">برای نمونه: http://www.example.com/video.mp4</string>
+    <string name="online_play_start_loading_tip">چند لحظه صبر کنید…</string>
+    <string name="online_play_start_ready_loading_tip_b">درحال بارگیری %.2f ب/ث</string>
+    <string name="online_play_start_ready_loading_tip_kb">درحال بارگیری %.2f ک.ب/ث</string>
+    <string name="online_play_start_ready_loading_tip_mb">درحال بارگیری %.2f م.ب/ث</string>
     <string name="online_play_title">پیوند را وارد کنید</string>
+    <string name="order_alphabet">به ترتیب حروف الفبا</string>
     <string name="order_recently_subscribe">اشتراک‌های تازه</string>
     <string name="order_recently_updated">به‌تازگی به‌روز شده</string>
     <string name="out_of_memory_background_playback_is_suspended">پخش پس‌زمینه به دلیل کمبود حافظه به صورت موقت متوقف شد</string>
@@ -1229,6 +1259,7 @@
     <string name="popup_click_for_download_video">دانلود ویدئو</string>
     <string name="popup_pip_activate_button">تنظیمات</string>
     <string name="popup_pip_not_activated">ابتدا به ویدئوی Mi اجازه استفاده از تصویر در تصویر را بدهید.</string>
+    <string name="popup_recommend_text">ویدئوهای بیشتری که دوست دارید را کشف کنید</string>
     <string name="popup_window_home_tip">ویدئوهای آنلاین دانلود کنید</string>
     <string name="privacy_agree_subtitle">دادن رضایت به سیاست حفظ حریم خصوصی به شما امکان استفاده از همه ویژگی‌های ویدئوی Mi را می‌دهد</string>
     <string name="privacy_agree_title">رضایت</string>
@@ -1254,7 +1285,7 @@
     <string name="question_click_with_light">پس از روشن شدن دکمه دانلود ضربه بزنید.</string>
     <string name="question_edit_url_here">URL را جستجو کرده یا اینجا وارد کنید.</string>
     <string name="question_how_to_download_video">چگونه ویدئوها را دانلود کنیم؟</string>
-    <string name="question_known">فهمیدم</string>
+    <string name="question_known">متوجه‌ام</string>
     <string name="question_look_video_here">ویدئوهای دانلود شده در اینجا ذخیره می‌شوند.</string>
     <string name="question_next">بعدی</string>
     <string name="question_step">رد کردن</string>
@@ -1320,6 +1351,15 @@
     <string name="sending">درحال ارسال…</string>
     <string name="service_error">خطای سرور</string>
     <string name="set_success">با موفقیت تغییر کرد</string>
+    <string name="settings_inline_auto_play">همیشه به صورت خودکار پخش شود</string>
+    <string name="settings_inline_auto_play_close">پخش خودکار خاموش</string>
+    <string name="settings_inline_auto_play_tip_close_forever">همیشه خاموش</string>
+    <string name="settings_inline_auto_play_tip_close_month">خاموش به مدت یک ماه</string>
+    <string name="settings_inline_auto_play_tip_open">روشن</string>
+    <string name="settings_inline_auto_play_tip_title">یادآوری‌های مصرف اینترنت همراه</string>
+    <string name="settings_inline_auto_play_title">پخش خودکار</string>
+    <string name="settings_inline_auto_play_wify">پشخ خودکار فقط در حالت Wi-Fi</string>
+    <string name="settings_inline_title">پخش خودکار صفحه آغاز</string>
     <string name="settings_manager_hidden_folder">مدیریت ویدئوهای پنهان</string>
     <string name="share">هم‌رسانی</string>
     <string name="share_fail">هم‌رسانی نشد. تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید.</string>
@@ -1340,7 +1380,7 @@
     <string name="small_video_load_more_hint">برای پخش ویدئوهای بیشتر به طرف بالا بکشید</string>
     <string name="small_video_snack_download_description">با دانلود SnackVideo آخرین ویدئوهای سازندگان مورد پسند خود را ببینید.</string>
     <string name="small_video_snack_download_title">SnackVideo</string>
-    <string name="small_video_tab_expose_hint">Tap for more short videos</string>
+    <string name="small_video_tab_expose_hint">برای ویدئوهای کوتاه بیشتر ضربه بزنید</string>
     <string name="sms_send_success">با موفقیت ارسال شد</string>
     <string name="sns_access_token_expired_warning">مهلت به پایان رسیده است. برای اتصال دوباره به این حساب، دوباره وارد شوید.</string>
     <string name="sns_bind_limit">تلاش‌ها بیش از حد بودند. راه‌های دیگر را برای ورود انتخاب کنید.</string>
@@ -1614,6 +1654,12 @@
     <string name="welcome_tip_into_mivideo">آغاز</string>
     <string name="welcome_tip_skip">رد کردن</string>
     <string name="welcome_tip_title">به ویدئوی Mi خوش آمدید</string>
+    <string name="widget_local_video">ویدئوهای محلی</string>
+    <string name="widget_local_video_click">برای تماشای ویدئوهای ذخیره شده در دستگاه خود ضربه بزنید</string>
+    <string name="widget_more_channel">کانال‌های بیشتر</string>
+    <string name="widget_more_channel_click">برای دیدن کانال‌های تلویزیونی ضربه بزنید</string>
+    <string name="widget_trending_click">برای دیدن پرطرفدارترین ویدئوهای امروز ضربه بزنید</string>
+    <string name="widget_trending_today">پرطرفدار امروز</string>
     <string name="yesterday">دیروز</string>
     <string name="yt_subscription_notification_setting_title">اعلان‌های اشتراک‌ها</string>
     <string name="ytb_account">حساب‌ها</string>

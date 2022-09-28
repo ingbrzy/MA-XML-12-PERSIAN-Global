@@ -5,7 +5,7 @@
     <string name="accessibility_battery_level_charging">باتری در حال شارژ است. %d درصد.</string>
     <string name="actionbar_button_up_description">بازگشت</string>
     <string name="add_custom_image">عکس سفارشی</string>
-    <string name="add_from_album">افزودن از گالری</string>
+    <string name="add_from_local">انتخاب تصویر</string>
     <string name="afternoon">بعد از ظهر</string>
     <string name="align_center_horizontally">عمودی و چیدمان در وسط</string>
     <string name="align_center_vertically">انباشته و چیدمان در وسط</string>
@@ -43,7 +43,7 @@ dd/MM"</string>
     <string name="apply_succeed">با موفقیت به‌کار برده شد</string>
     <string name="background_icon">پس زمینه</string>
     <string name="below_image">پایین</string>
-    <string name="btn_know">فهمیدم</string>
+    <string name="btn_know">متوجه‌ام</string>
     <string name="cancel">لغو</string>
     <string name="choose_aod_style">انتخاب تم</string>
     <string name="chosen_picture">انتخاب پس‌زمینه</string>

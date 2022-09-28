@@ -82,6 +82,7 @@
     <string name="content_desc_activity_main_add_city">افزودن شهر</string>
     <string name="content_desc_activity_main_add_city_manage">مدیریت شهرها</string>
     <string name="content_desc_activity_main_more_settings">تنظیمات بیشتر</string>
+    <string name="content_desc_activity_main_page">صفحه %1$d از %2$d</string>
     <string name="content_desc_back_button">بازگشت</string>
     <string name="content_desc_city_manage_del">حذف</string>
     <string name="content_desc_close_button">بستن</string>
@@ -116,6 +117,7 @@
     <string name="dynamic_weather">آب و هوا</string>
     <string name="early_morning">صبح</string>
     <string name="edit_city">مدیریت شهرها</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">در حال به‌روزرسانی…</string>
     <string name="empty_view_net_unavailable">به شبکه متصل نشد</string>
     <string name="empty_view_refresh">تلاش دوباره</string>
@@ -192,13 +194,22 @@
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
     <string name="hourly_forcast_now">حالا</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="index_item_experience_now">اکنون نصب شود</string>
     <string name="indices_title_chance_of_rain">احتمال بارش باران</string>
     <string name="indices_title_feel">احساس واقعی</string>
     <string name="indices_title_pressure">فشار</string>
+    <string name="indices_title_uv">UV</string>
     <string name="indices_title_wind_speed">سرعت باد</string>
+    <string name="indices_wind_direction_east">شرق</string>
+    <string name="indices_wind_direction_north">شمال</string>
+    <string name="indices_wind_direction_south">جنوب</string>
+    <string name="indices_wind_direction_west">غرب</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">شاخص پرتو فرا بنفش</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">روشن کردن خدمات موقعیت</string>
     <string name="location_tag">محل یابی</string>
     <string name="manager_city_option_add_home">افزودن به صفحه آغاز</string>
@@ -297,7 +308,7 @@
     <string name="particulate_matter_not_exceeded">عادی</string>
     <string name="particulate_matter_serious_exceeded">بسیار زیاد</string>
     <string name="permission_device_info">اطلاعات دستگاه</string>
-    <string name="permission_device_introduce">برای شناسایی شناسه دستگاه بر اساس مدل دستگاه و IMEI و ارائه خدمات محلی بر اساس تنظیمات زبان</string>
+    <string name="permission_device_introduce">برای شناسایی دستگاه بر اساس مدل دستگاه و ارائه خدمات محلی بر اساس تنظیمات برگزیده زبان</string>
     <string name="permission_exit">خروج</string>
     <string name="permission_privacy">سیاست حفظ حریم خصوصی (اجباری)</string>
     <string name="permission_select_all">انتخاب همه</string>
@@ -344,6 +355,8 @@
     <string name="send">ارسال</string>
     <string name="set_degree_centigrade">C°</string>
     <string name="set_fahrenheit">F°</string>
+    <string name="setting_notification_manager">اعلان‌ها</string>
+    <string name="setting_used_to_push_reminder">دریافت هشدارهای هواشناسی</string>
     <string name="settings">تنظیمات</string>
     <string name="settings_atmospheric_pressure_atm">جو استاندارد (atm)</string>
     <string name="settings_atmospheric_pressure_hpa">هکتوپاسکال (hPa)</string>
@@ -355,6 +368,7 @@
     <string name="share_menu_title">هم‌رسانی</string>
     <string name="share_subject">هم‌رسانی</string>
     <string name="share_weather_desc">\# آب و هوای MIUI# امروز%1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">عکس صفحه گرفته نشد</string>
     <string name="shortcut_short_label_24_hour_forecast">پیش‌بینی ۲۴ ساعته</string>
