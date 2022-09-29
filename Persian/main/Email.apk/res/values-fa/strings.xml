@@ -202,7 +202,6 @@
     <string name="auto_advance_summary">انتخاب کنید که بعد از حذف یک پیام به کدام پیام حرکت کند</string>
     <string name="auto_sync_off">همگام سازی خودکار خاموش است.</string>
     <string name="bcc">گیرنده کپی مخفی</string>
-    <string name="bcc_heading">"Bcc: "</string>
     <string name="blank_feedback_toast">شما باید بازخورد خود را بنویسید</string>
     <string name="body_forward_email_text">[Forward]</string>
     <string name="body_hint">نوشتن ایمیل</string>
@@ -218,7 +217,6 @@
     <string name="cant_move_or_change_labels">"Can't move because selection contains multiple
         accounts."</string>
     <string name="cc">رونوشت</string>
-    <string name="cc_attribution">"رونوشت: %1$s  &lt; br >"</string>
     <string name="cc_bcc">رونوشت و گیرنده مخفی</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="change_folders_selection_dialog_title">تغییر پوشه ها</string>
@@ -235,7 +233,6 @@
     <string name="click_download_all_content">[برای دانلود محتوا ضربه بزنید]</string>
     <string name="click_to_reload">Tap screen to refresh</string>
     <string name="collapse_recipient_details">بستن جزئیات گیرنده</string>
-    <string name="colon">:</string>
     <string name="compose">نوشتن پیام</string>
     <string name="compose_picturesexceedlimits">پیغام نباید از 5 تصویر در-خط بیشتر باشد</string>
     <string name="compose_send">ارسال</string>
@@ -404,7 +401,6 @@
     <string name="gmail_login_failed_non_proxy_title">"Couldn't access Gmail server"</string>
     <string name="gmail_server_authorization_deleted">"Couldn't authenticate account. Try adding this account again."</string>
     <string name="header_category_account">حساب ها</string>
-    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_label_general_preferences">عمومی</string>
     <string name="help_and_info">راهنما</string>
     <string name="hide_elided">▼پنهان کردن متن نقل قول</string>
@@ -419,7 +415,6 @@
     <string name="installing_module">مدول نصب:</string>
     <string name="invalid_recipient_title">خطای گیرنده</string>
     <string name="kilobytes">%s KB</string>
-    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="load_from_remote">جستجوی صندوق پستی در سرور</string>
     <string name="load_more">بارگذاری بیشتر</string>
     <string name="loading_conversation">در حال بارگذاری…</string>
@@ -709,10 +704,8 @@
 %s"</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">رمز عبور سرور پست الکترونیکی خروجی نادرست است</string>
     <string name="sort_attachment">مرتب سازی بر اساس</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="str_select_all">انتخاب همه</string>
     <string name="str_select_none">عدم انتخاب همه</string>
     <string name="subject_and_snippet">%1$s — %2$s</string>

@@ -117,7 +117,6 @@
     <string name="dynamic_weather">آب و هوا</string>
     <string name="early_morning">صبح</string>
     <string name="edit_city">مدیریت شهرها</string>
-    <string name="empty">" "</string>
     <string name="empty_view_net_loading">در حال به‌روزرسانی…</string>
     <string name="empty_view_net_unavailable">به شبکه متصل نشد</string>
     <string name="empty_view_refresh">تلاش دوباره</string>
@@ -194,7 +193,6 @@
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
     <string name="hourly_forcast_now">حالا</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="index_item_experience_now">اکنون نصب شود</string>
     <string name="indices_title_chance_of_rain">احتمال بارش باران</string>
@@ -206,10 +204,7 @@
     <string name="indices_wind_direction_north">شمال</string>
     <string name="indices_wind_direction_south">جنوب</string>
     <string name="indices_wind_direction_west">غرب</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">شاخص پرتو فرا بنفش</string>
-    <string name="item_city_list_region_no_data">-- / --</string>
-    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">روشن کردن خدمات موقعیت</string>
     <string name="location_tag">محل یابی</string>
     <string name="manager_city_option_add_home">افزودن به صفحه آغاز</string>
@@ -368,7 +363,6 @@
     <string name="share_menu_title">هم‌رسانی</string>
     <string name="share_subject">هم‌رسانی</string>
     <string name="share_weather_desc">\# آب و هوای MIUI# امروز%1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">عکس صفحه گرفته نشد</string>
     <string name="shortcut_short_label_24_hour_forecast">پیش‌بینی ۲۴ ساعته</string>

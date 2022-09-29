@@ -299,17 +299,12 @@
     <string name="screen_editor_btn_save">ذخیره</string>
     <string name="screen_editor_btn_shell_off">حذف قاب دستگاه</string>
     <string name="screen_editor_btn_shell_on">افزودن قاب دستگاه</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">این عکس صفحه حذف شود؟</string>
     <string name="screen_editor_delete_dialog_picture_msg">این تصویر حذف شود؟</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">انجام شد</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">قاب دستگاه برای تصاویر صفحه بریده شده افوزده نمی‌شود</string>
     <string name="screen_editor_shell_net_error">به شبکه متصل شده تا قاب دستگاه دانلود شود</string>
     <string name="screen_editor_shell_res_downloading">درحال دانلود قاب دستگاه…</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">لغو</string>
     <string name="screen_save_dialog_btn_delete">حذف عکس صفحه</string>
     <string name="screen_save_dialog_btn_save">ذخیره در گالری</string>
