@@ -2,8 +2,10 @@
 <resources>
     <string name="access_limit">محدودیت‌های دسترسی</string>
     <string name="access_tips">به موارد دسترسی پیدا نمی‌شود. به جای آن از چارچوب دسترسی به حافظه Android استفاده کنید.</string>
+    <string name="action_cache_to_local">دانلود در دستگاه</string>
     <string name="action_mode_deselect_all">لغو انتخاب همه</string>
     <string name="action_mode_select_all">انتخاب همه</string>
+    <string name="action_release_file_cache">پاک‌سازی حافظه پنهان</string>
     <string name="actionbar_button_up_description">بازگشت</string>
     <string name="ad_download">دانلود</string>
     <string name="add_private">فایل‌ها را خصوصی کنید</string>
@@ -39,6 +41,16 @@
     <string name="can_not_send_with_too_many">نمی‌توان این همه موارد را یک‌جا ارسال کرد</string>
     <string name="cancel">لغو</string>
     <string name="cancel_error">برداشته نشد. دوباره تلاش کنید.</string>
+    <string name="cancel_mi_drive">لغو خدمات Mi Drive</string>
+    <string name="cancel_mi_drive_alert_description" formatted="false">همه موارد را از Mi Drive پاک کرده تا بتوانید خدمات را لغو کنید. این مراحل را برای پاک کردن موارد دنبال کنید:&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. در صفحه آغاز Mi Drive، یک مورد را فشار داده و نگه دارید تا دکمه «انتخاب همه» نمایان شود. از این دکمه برای انتخاب حداکثر ۲۰۰ فایل در یک زمان و حذف آن‌ها استفاده کنید.&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. پس از این، موارد حذف شده اخیر خود را پاک کنید.</string>
+    <string name="cancel_mi_drive_alert_reminder_card_summary" formatted="false">&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. پیشنهاد می‌کنیم پیش از حذف موارد خود از آنها نسخه پشتیبان تهیه کنید. برای انجام این کار، از i.mi.com دیدن کنید، روی Mi Drive کلیک کنید و موارد خود را در رایانه بارگیری کنید.&lt;br />&lt;xliff:g id=cancel_mi_drive_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. لطفاً توجه داشته باشید که موارد حذف شده اخیر پس از حذف قابل بازیابی نیستند.</string>
+    <string name="cancel_mi_drive_confirm_button">لغو خدمات</string>
+    <string name="cancel_mi_drive_confirm_description">در صورت ادامه، خدمات Mi Drive را لغو خواهید کرد. ما گردآوری اطلاعات شخصی شما را متوقف می‌کنیم و اطلاعات شخصی که پیش‌تر گردآوری و نگهداری شده‌اند، طبق قوانین و مقررات قابل اجرا در مدت زمان مشخص شده حذف خواهند شد، مگر اینکه به طور دیگری نیاز باشد.</string>
+    <string name="cancel_mi_drive_confirm_hint">لغو خدمات Mi Drive بر استفاده شما از سایر محصولات و خدمات Xiaomi تأثیری نخواهد داشت. اگر می‌خواهید حساب Xiaomi خود را حذف کنید، می‌توانید این کار را &lt;font color=#0097FF>&lt;a href=%1$s>اینجا&lt;/a>&lt;/font> انجام دهید.</string>
+    <string name="cancel_mi_drive_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424>موارد زیر پس از لغو خدمات برای همیشه حذف خواهند شد:&lt;/font>&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. همه موارد موجود در Mi Drive، شامل اما نه محدود به اسناد، فایل‌های خصوصی و موارد حذف شده.&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. مجوزهای دستگاه، تنظیمات، و سایر محتوای حافظه پنهان.&lt;br />&lt;xliff:g id=cancel_mi_drive_confirm_reminder_card_summary_list_3 refersto=3>%3d&lt;/xliff:g>. تاریخچه آپلود و دانلود Mi Drive.</string>
+    <string name="cancel_mi_drive_privacy_revoked_retry">Mi Drive را روشن کرده و سپس دوباره تلاش کنید</string>
+    <string name="cancel_mi_drive_success">خدمات با موفقیت لغو شدند</string>
+    <string name="cancel_mi_drive_title">لغو خدمات</string>
     <string name="cancel_msg">همه انتخاب‌ها لغو شوند؟</string>
     <string name="cancel_operation">لغو عملیات</string>
     <string name="cancel_success">فایل‌ها با موفقیت به %s منتقل شدند</string>
@@ -48,6 +60,7 @@
     <string name="category_all">همه فایل‌ها</string>
     <string name="category_apk">APKها</string>
     <string name="category_bluetooth">بلوتوث</string>
+    <string name="category_cloud_drive">Mi Drive</string>
     <string name="category_document">اسناد</string>
     <string name="category_download">دانلودها</string>
     <string name="category_editor_mode">ویرایش</string>
@@ -83,6 +96,26 @@
     <string name="click_to_switch_volume_pad">برای جابجایی بین حافظه داخلی و کارت SD ضربه بزنید</string>
     <string name="clock_in">درحال اعلام حضور…</string>
     <string name="close">بستن</string>
+    <string name="cloud_copy_to_local_title">ذخیره در…</string>
+    <string name="cloud_drive_files">فایل‌های Mi Drive</string>
+    <string name="cloud_drive_not_login_summary">وارد حساب نشده است</string>
+    <string name="cloud_drive_settings">تنظیمات Mi Drive</string>
+    <string name="cloud_empty_hint_text">"هنوز چیزی اینجا نیست.
+تلاش کنید فایل‌ها را از دستگاه خود به Mi Drive منتقل کنید."</string>
+    <string name="cloud_guide_summary_text">همگام‌سازی خودکار موارد شما بین دستگاه‌هایتان</string>
+    <string name="cloud_guide_title_text">همگام‌سازی با Mi Drive</string>
+    <string name="cloud_permission_storage_desc">برای ذخیره عکس‌ها و اسناد در دستگاه شما</string>
+    <string name="cloud_recycle_bin">موارد حذف شده اخیر</string>
+    <string name="cloud_space_full">حافظه فضای ابری پر شده است. برای امکان بارگذاری موارد بیشتر، طرح حافظه خود را ارتقاء دهید.</string>
+    <string name="cloud_transfer_download_error">دانلود نشد</string>
+    <string name="cloud_transfer_download_loading">در حال دانلود</string>
+    <string name="cloud_transfer_downloading">در حال دانلود</string>
+    <string name="cloud_transfer_pause">مکث شد</string>
+    <string name="cloud_transfer_upload_error">بازگذاری نشد</string>
+    <string name="cloud_transfer_uploading">درحال بارگذاری</string>
+    <string name="cloud_transfer_wait_download">در انتظار دانلود</string>
+    <string name="cloud_transfer_wait_network">در انتظار اینترنت</string>
+    <string name="cloud_transfer_wait_upload">در انتظار بارگذاری</string>
     <string name="compress_fail">فشرده‌سازی ناموفق بود. فایلی با همین نام وجود دارد.</string>
     <string name="compress_fail_unknown">فشرده سازی نشد. حافظه پر شده یا خطای ناشناخته رخ داده است.</string>
     <string name="compress_message">فشرده‌سازی در…</string>
@@ -96,6 +129,10 @@
     <string name="copy_to">کپی به…</string>
     <string name="create_folder">ایجاد</string>
     <string name="create_shortcut_success">میان‌بر با موفقیت افزوده شد</string>
+    <string name="cta_function_account_operation">برای ورود سریع به حساب Xiaomi کما</string>
+    <string name="data_consume_dialog_message">شما در حال استفاده از اینترنت همراه هستید. در صورت ادامه، %s از اینترنت همراه شما مصرف خواهد شد.</string>
+    <string name="data_consume_dialog_title">از اینترنت همراه استفاده شود؟</string>
+    <string name="data_consume_dialog_upload_title">بارگذاری با استفاده از اینترنت همراه</string>
     <string name="data_consumption_cancel">مخالف</string>
     <string name="data_consumption_checkbox_hint">دوباره نمایش داده نشود</string>
     <string name="data_consumption_confirm">تأیید</string>
@@ -129,7 +166,14 @@
     <string name="delete_folder">این پوشه حذف شود؟</string>
     <string name="des_hide_pwd">پنهان کردن گذرواژه</string>
     <string name="des_show_pwd">نمایش گذرواژه</string>
+    <string name="dialog_account_permission_denied_msg">برای امکان ورود به حساب در Mi Drive به این برنامه اجازه دسترسی به حساب‌های دستگاه را بدهید. در تنظیمات می‌توانید این مجوزها را بدهید.</string>
+    <string name="dialog_account_permission_denied_negative_button">لغو</string>
+    <string name="dialog_account_permission_denied_positive_button">تنظیمات</string>
+    <string name="dialog_account_permission_denied_title">نیازمند مجوز است</string>
     <string name="dialog_keep_choice">به یاد داشتن انتخاب من</string>
+    <string name="dialog_open_mi_drive_button">متوجه‌ام</string>
+    <string name="dialog_open_mi_drive_err">Mi Drive را دوباره راه‌اندازی کرده و سپس دوباره تلاش کنید.</string>
+    <string name="dialog_open_mi_drive_title">خطای سرور</string>
     <string name="dialog_select_type">انتخاب نوع</string>
     <string name="dialog_type_audio">صدا</string>
     <string name="dialog_type_image">تصاویر</string>
@@ -171,6 +215,7 @@
     <string name="error_not_support">پشتیبانی نمی‌شود</string>
     <string name="error_open_file_failed_no_app_found">هیچ برنامه‌ای برای انجام این کار یافت نشد.</string>
     <string name="evening">بعد از ظهر</string>
+    <string name="exception_net_not_available">تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید</string>
     <string name="exit">خروج</string>
     <string name="extended_storage_file_can_not_open">فایل باز نمی‌شود. به حافظه داخلی منتقل کنید.</string>
     <string name="extract">استخراج</string>
@@ -182,6 +227,7 @@
     <string name="favorite_photo">عکس‌ها</string>
     <string name="favorite_ringtone">زنگ‌ها</string>
     <string name="favorite_screen_cap">عکس‌های صفحه</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">قابل خواندن: </string>
     <string name="file_info_canwrite">قابل نوشتن: </string>
     <string name="file_info_ishidden">پنهان: </string>
@@ -278,6 +324,7 @@
     <string name="guide_three_title">بازچینی میان‌برها</string>
     <string name="guide_two_summary">عکس‌های گالری و عکس‌های صفحه به صورت پیش‌فرض پنهان هستند.</string>
     <string name="guide_two_title">دیدن فقط موارد ضروری</string>
+    <string name="h5_ppt_to_pdf_introduce_title">درباره ساخت PDFها</string>
     <string name="hint_switch_to_grid_mode">به نمای مربعی تغییر یافت</string>
     <string name="hint_switch_to_list_mode">به نمای فهرستی تغییر یافت</string>
     <string name="home_action_up">بازگشت</string>
@@ -286,10 +333,14 @@
     <string name="homepage_tab_file_view_phone">حافظه</string>
     <string name="homepage_tab_recent">موارد تازه</string>
     <string name="hot_sticker">استیکرها</string>
+    <string name="hybrid_provider">ارائه شده توسط %1$s</string>
     <string name="if_cancel">این عملیات لغو شود؟</string>
     <string name="image_loading_error">تصویر بازگذاری نشد</string>
     <string name="imm_str_storage">حافظه</string>
     <string name="import_files_from_old_phones">وارد کردن از دستگاه قدیمی</string>
+    <string name="install_media_editor_button_text">دانلود</string>
+    <string name="install_media_editor_message">برای ویرایش موارد، ابتدا افزونه را دانلود کنید. دانلود شود؟</string>
+    <string name="install_media_editor_title">نیازمند افزونه است</string>
     <string name="instruction">نشانی زیر را در بخش FTP client وارد کنید: </string>
     <string name="instruction_pre_pad">فایل‌های این دستگاه را با استفاده از یک رایانه مدیریت کنید</string>
     <string name="instruction_pre_phone">فایل‌های این دستگاه را با استفاده از یک رایانه مدیریت کنید</string>
@@ -314,6 +365,7 @@
     <string name="make_private_msg_1">این فایل خصوصی شود؟</string>
     <string name="make_private_msg_2">این فایل‌ها خصوصی شوند؟</string>
     <string name="make_private_msg_3">همه فایل‌های این پوشه خصوصی خواهند شد.</string>
+    <string name="manage_cloud_space">مدیریت حافظه فضای ابری</string>
     <string name="menu_item_cleanup">پاک‌سازی</string>
     <string name="menu_item_ftp">FTP</string>
     <string name="menu_item_router">رهیاب</string>
@@ -330,6 +382,12 @@
     <string name="mi_router_label">رهیاب</string>
     <string name="mi_share">هم‌رسانی Mi</string>
     <string name="midnight">شب</string>
+    <string name="midrive_display_related">نمایش</string>
+    <string name="midrive_get_cloudvideo_file">چند لحظه صبر کنید…</string>
+    <string name="midrive_hide_recent_cloud_files">فایل‌های Mi Drive در موارد تازه نشان داده نشوند</string>
+    <string name="midrive_not_found">به این مورد دسترسی پیدا نشد</string>
+    <string name="midrive_overseas_unavailable">این ویژگی تنها برای سرزمین اصلی چین در دسترس است.</string>
+    <string name="midrive_reset_privacy_and_check_availability_retry">Mi Drive روشن نشد. دوباره تلاش کنید.</string>
     <string name="midriver_install_button_text">نصب</string>
     <string name="midriver_not_install_title">Mi Drive حذف شده است</string>
     <string name="mirror_can_not_drag_mask">برای استفاده از هم‌رسانی Mi بکشید</string>
@@ -435,6 +493,7 @@
     <string name="need_read_storage_permission">مدیریت فایل‌ها برای کارکرد عادی نیازمند داشتن مجوز برای دسترسی به حافظه دستگاه است.</string>
     <string name="network_not_available">به شبکه متصل نمی‌شود</string>
     <string name="new_folder_name">پوشه جدید</string>
+    <string name="new_storage_info_detail">آزاد: %1$s | کل: %2$s</string>
     <string name="next">بعدی</string>
     <string name="night">شب</string>
     <string name="no">خیر</string>
@@ -443,6 +502,9 @@
     <string name="no_enough_storage_indication">فضای حافظه دستگاه پر است.</string>
     <string name="no_enough_storage_title">فضای کافی وجود ندارد</string>
     <string name="no_file">خالی</string>
+    <string name="no_network">به شبکه متصل نشد</string>
+    <string name="no_network_error_message">تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید.</string>
+    <string name="no_network_error_title">به شبکه وصل نشد</string>
     <string name="no_permission">برای دسترسی به این ویژگی، مجوزهای لازم را بدهید</string>
     <string name="no_wifi">بدون شبکه Wi-Fi</string>
     <string name="noon">ظهر</string>
@@ -451,16 +513,29 @@
     <string name="not_use">اکنون نه</string>
     <string name="notif_server_starting">درحال راه‌اندازی سرور FTP…</string>
     <string name="notif_title">سرور FTP در حال اجرا است</string>
+    <string name="notification_title_sync_result">همگام‌سازی کامل شد</string>
+    <string name="notification_title_syncing">درحال همگام‌سازی…</string>
+    <string name="notification_title_syncing_with_count">همگام‌سازی موارد. فایل‌های باقی مانده: %1$s</string>
     <string name="online_not_support">در حال حاضر نمی‌توان این فایل را مشاهده کرد.</string>
+    <string name="open_cloud_drive">روشن کردن Mi Drive</string>
     <string name="open_or_close_wlan">روشن و خاموش کردن Wi-Fi</string>
     <string name="open_private_folder">رها کرده تا فایل‌های خصوصی نمایش داده شوند</string>
     <string name="operation_add_fav">درحال افزودن به موارد پسندیده…</string>
+    <string name="operation_batch_failed_err">این اقدام برای چند فایل کامل نمی‌شود.</string>
+    <string name="operation_cache_use_data">دانلود</string>
+    <string name="operation_cache_use_free_network">منتظر Wi-Fi می‌مانم</string>
     <string name="operation_cancel">لغو</string>
+    <string name="operation_cloud_copy_to_local">ذخیره در…</string>
     <string name="operation_compress">فشرده‌سازی</string>
     <string name="operation_compressing">درحال فشرده‌سازی…</string>
     <string name="operation_copy">کپی</string>
     <string name="operation_create_folder">ایجاد پوشه</string>
     <string name="operation_create_folder_message">نام پوشه را وارد کنید</string>
+    <string name="operation_create_folder_name_conflict">پوشه ایجاد نشد. یک پوشه با همین نام موجود است.</string>
+    <string name="operation_create_folder_name_illegal_char">پوشه ایجاد نشد. نام پوشه دارای نویسه‌های پشتیبانی نشده است.</string>
+    <string name="operation_create_folder_network_not_available">پوشه ایجاد نشد. تنظیمات شبکه را بررسی کرده و دوباره تلاش کنید.</string>
+    <string name="operation_create_folder_not_support_for_overseas">پوشه ایجاد نشد. این ویژگی فقط در سرزمین اصلی چین موجود است.</string>
+    <string name="operation_create_folder_other">پوشه ایجاد نشد</string>
     <string name="operation_decompressing">درحال استخراج…</string>
     <string name="operation_del_fav">درحال حذف از موارد پسندیده…</string>
     <string name="operation_delete">حذف</string>
@@ -468,28 +543,59 @@
     <string name="operation_delete_confirm_message_folder">"تمام محتواهای پوشه حذف خواهند شد.
 "</string>
     <string name="operation_deleting">در حال حذف…</string>
+    <string name="operation_download">دانلود</string>
+    <string name="operation_download_error_no_space">حافظه کافی نیست</string>
+    <string name="operation_download_error_other">یک خطای سیستم رخ داده است. چند دقیقه صبر کرده و دوباره تلاش کنید.</string>
+    <string name="operation_download_error_title">دانلود نشد</string>
+    <string name="operation_editor">ویرایش</string>
     <string name="operation_encrypt_summary">فایل‌های پوشه خصوصی رمزگذاری می‌شوند. رمزگشایی فایل‌های بزرگ ممکن است کمی بیش از انتظار طول بکشد.</string>
     <string name="operation_encrypt_title">رمزگذاری فایل‌های خصوصی</string>
     <string name="operation_favorite">افزودن به موارد پسندیده</string>
+    <string name="operation_file_downloading_err">این اقدام کامل نمی‌شود. منتظر مانده تا دانلود این فایل تمام شده و سپس دوباره تلاش کنید.</string>
+    <string name="operation_file_exist_err">این اقدام کامل نمی‌شود. این فایل موجود است.</string>
+    <string name="operation_file_not_found_err">این اقدام کامل نمی‌شود. فایل اصلی یافت نشد.</string>
+    <string name="operation_gallary">نمایش در گالری</string>
     <string name="operation_hide_sys">عدم نمایش فایل‌های پنهان</string>
     <string name="operation_info">جزئیات</string>
     <string name="operation_move">انتقال</string>
     <string name="operation_moving">در حال انتقال…</string>
     <string name="operation_new_folder">ایجاد پوشه</string>
+    <string name="operation_no_network_err">به شبکه متصل نشد. تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید.</string>
+    <string name="operation_not_support_directory_rename">این پوشه تغییر نام نمی‌یابد.</string>
+    <string name="operation_not_support_err">این اقدام کامل نمی‌شود.</string>
     <string name="operation_open">باز کردن</string>
     <string name="operation_open_mode">باز کردن با</string>
     <string name="operation_other_apps">باز کردن در برنامه‌ای دیگر</string>
     <string name="operation_paste">جای‌گذاری</string>
     <string name="operation_paste_to_folder">جای‌گذاری در پوشه</string>
     <string name="operation_pasting">درحال کپی کردن…</string>
+    <string name="operation_pic_to_pdf">ایجاد PDF</string>
     <string name="operation_refresh">تازه‌سازی</string>
     <string name="operation_rename">تغییر نام</string>
+    <string name="operation_rename_err">تغییر نام داده نشد</string>
     <string name="operation_rename_message">نام جدید را وارد کنید</string>
+    <string name="operation_retry">تلاش دوباره</string>
     <string name="operation_send">ارسال</string>
     <string name="operation_send_to_pc">انتقال به رایانه</string>
+    <string name="operation_set_pic_wallpaper">تنظیم به عنوان تصویر زمینه</string>
     <string name="operation_show_privacy_policy">نمایش سیاست حفظ حریم خصوصی</string>
     <string name="operation_show_sys">نمایش فایل‌های پنهان</string>
+    <string name="operation_sync_cloud_data_error">یک خطای سرور رخ داده است. چند دقیقه صبر کرده و سپس دوباره تلاش کنید.</string>
     <string name="operation_unfavorite">حذف از موارد پسندیده</string>
+    <string name="operation_unknown_err">این اقدام کامل نمی‌شود.</string>
+    <string name="operation_upload_buy_space">ارتقاء</string>
+    <string name="operation_upload_delete">حذف</string>
+    <string name="operation_upload_err_file_not_found">به نظر می‌رسد این فایل موجود نیست.</string>
+    <string name="operation_upload_err_file_size_zero">فایل‌های خالی بارگذاری نمی‌شوند.</string>
+    <string name="operation_upload_err_full_space">حافظه فضای ابری پر شده است. برای امکان بارگذاری موارد بیشتر، طرح حافظه خود را ارتقاء دهید.</string>
+    <string name="operation_upload_err_illegal_char">این نام پوشه حاوی نویسه‌های پشتیبانی نشده است.</string>
+    <string name="operation_upload_err_larger_than_4g">فایل‌های بزرگ‌تر از %d گیگابایت بارگذاری نمی‌شوند.</string>
+    <string name="operation_upload_err_not_support_overseas">در حال حاضر فقط کاربران در سرزمین اصلی می‌توانند موارد را بارگذاری کنند.</string>
+    <string name="operation_upload_err_other">یک خطای سیستم رخ داده است. چند دقیقه صبر کرده و دوباره تلاش کنید.</string>
+    <string name="operation_upload_error_title">بازگذاری نشد</string>
+    <string name="operation_upload_retry">تلاش دوباره</string>
+    <string name="operation_upload_save_to_local">ذخیره در…</string>
+    <string name="operation_upload_use_data">بارگذاری</string>
     <string name="otg_data_transfer_success">با موفقیت انتقال یافت</string>
     <string name="otg_data_transferring">درحال انتقال فایل‌ها… اتصال حافظه خارجی را قطع نکنید.</string>
     <string name="otg_file_security_note">OGTSecurity</string>
@@ -499,9 +605,16 @@
     <string name="partial_encrypt_success">برخی فایل‌ها خصوصی نشدند. دوباره تلاش کنید.</string>
     <string name="path_name_email">ایمیل</string>
     <string name="perm_manage_external_storage">دسترسی به همه فایل‌ها</string>
+    <string name="permission_account_desc">برای دسترسی به اطلاعات حساب ذخیره شده در دستگاه شما</string>
+    <string name="permission_account_desc_pad">برای دسترسی به اطلاعات حساب ذخیره شده در دستگاه شما</string>
+    <string name="permission_account_title">دسترسی به حساب‌های دستگاه</string>
+    <string name="permission_account_title_pad">دسترسی به حساب‌های دستگاه</string>
     <string name="permission_denial">نمی‌توان به فایل‌ها دسترسی پیدا کرد. به مدیریت فایل‌ها اجازه دسترسی به فایل‌ها را در تنظیمات بدهید.</string>
     <string name="permission_description">جزئیات مجوزها</string>
     <string name="permission_required">نمی‌توان به فایل‌ها دسترسی پیدا کرد. به مدیریت فایل‌ها اجازه دسترسی به فایل‌ها را در تنظیمات بدهید.​</string>
+    <string name="permission_storage_desc_pad">برای ذخیره ویدئوها و اسناد در دستگاه شما</string>
+    <string name="permission_storage_title">دسترسی به حافظه دستگاه</string>
+    <string name="permission_storage_title_pad">دسترسی به حافظه دستگاه</string>
     <string name="phone">حافظه داخلی</string>
     <string name="phone_storage">حافظه</string>
     <string name="phone_storage_apk_title">APKها: </string>
@@ -520,12 +633,21 @@
     <string name="pick_folder">انتخاب پوشه</string>
     <string name="pm">ب.ظ</string>
     <string name="port_range">شماره درگاه باید بین ۱۰۲۴–۶۵۵۳۵ باشد</string>
+    <string name="pre_privacy_recall">پس گرفتن رضایت</string>
     <string name="pref_permission_allowed">اعطا شده</string>
     <string name="pref_permission_manage_key_storage">دسترسی به عکس‌ها و فایل‌های دستگاه</string>
     <string name="pref_permission_not_allowed">اعطا نشده</string>
     <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
     <string name="privacy_policy_renew">سیاست حفظ حریم خصوصی به‌روز شده</string>
     <string name="privacy_policy_renew_content">&lt;Data>&lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> مدیریت فایل‌ها به‌روز شد. به منظور آگاهی کامل از حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، پیش از ادامه نگارش جدید سیاست حفظ حریم خصوصی را خوانده و بپذیرید.&lt;/Data></string>
+    <string name="privacy_recall_alert_description" formatted="false">همه موارد را از Mi Drive پاک کنید تا بتوانید رضایت خود را پس بگیرید. این مراحل را برای پاک کردن موارد دنبال کنید:&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. در صفحه آغاز Mi Drive، یک مورد را فشار داده و نگه دارید تا دکمه «انتخاب همه» نمایان شود. از این دکمه برای انتخاب حداکثر ۲۰۰ فایل در یک زمان و حذف آن‌ها استفاده کنید.&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. پس از این، موارد حذف شده اخیر خود را پاک کنید.</string>
+    <string name="privacy_recall_alert_reminder_card_summary" formatted="false">&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. پیشنهاد می‌کنیم پیش از حذف موارد خود از آنها نسخه پشتیبان تهیه کنید. برای انجام این کار، از i.mi.com دیدن کنید، روی Mi Drive کلیک کنید و موارد خود را در رایانه بارگیری کنید.&lt;br />&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. لطفاً توجه داشته باشید که موارد حذف شده اخیر پس از حذف قابل بازیابی نیستند.</string>
+    <string name="privacy_recall_confirm_button">پس گرفتن</string>
+    <string name="privacy_recall_confirm_description">در صورت ادامه، رضایت خود را نسبت به سیاست حفظ حریم خصوصی مدیریت فایل‌ها بر می‌دارید. ما گردآوری اطلاعات شخصی شما را متوقف خواهیم کرد. اطلاعات شخصی که تا کنون گردآوری و نگهداری شده‌اند بر اساس قوانین و مقررات قابل اجرا در مدت زمان مشخص حذف خواهند شد، مگر این‌که به شکل دیگری نیاز باشد.</string>
+    <string name="privacy_recall_confirm_reminder_card_summary" formatted="false">&lt;font color=#F22424>موارد زیر پس از پس گرفتن رضایت برای همیشه حذف خواهند شد:&lt;&lt;/font>&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. همه موارد موجود در Mi Drive، شامل اما نه محدود به اسناد، فایل‌های خصوصی، و موارد حذف شده.&lt;&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. مجوزهای دستگاه، تنظیمات و سایر محتوای حافظه پنهان.&lt;br />&lt;xliff:g id=privacy_recall_confirm_reminder_card_summary_list_3 refersto=3>%3d&lt;/xliff:g>. تاریخچه بارگذاری و دانلود Mi Drive.</string>
+    <string name="privacy_recall_success">رضایت با موفقیت پس گرفته شد</string>
+    <string name="privacy_recall_title">پس گرفتن رضایت</string>
+    <string name="privacy_recalling">درحال پس گرفتن رضایت…</string>
     <string name="private_files">خصوصی</string>
     <string name="private_folder">فایل‌های خصوصی</string>
     <string name="private_folder_no_file_hints">با فشردن و نگه داشتن یک فایل یا پوشه آن را خصوصی کنید</string>
@@ -537,11 +659,15 @@
     <string name="pull_to_enter_private">صفحه را به پایین کشیده تا پوشه خصوصی باز شود</string>
     <string name="qq_msg">به دلیل محدودیت‌های Android 11، مدیریت فایل‌ها نمی‌تواند به اسناد QQ دسترسی یافته و آن‌ها را نمایش دهد.</string>
     <string name="qq_title">به اسناد WeChat دسترسی پیدا نمی‌شود</string>
+    <string name="query_quota_exception">یک خطای سرور رخ داده است. چند دقیقه صبر کرده و سپس دوباره تلاش کنید.</string>
+    <string name="query_quota_searching">چند لحظه صبر کنید…</string>
     <string name="recent_hide_camera_and_screenshots">موارد گالری و عکس‌های صفحه در فایل‌های اخیر نمایش داده نشوند</string>
+    <string name="recent_hide_cloud_drive_files">فایل‌های Mi Drive در موارد تازه نشان داده نشوند</string>
     <string name="refresh_success">تازه‌سازی کامل شد</string>
     <string name="reinstall_midriver_message">دوباره نصب شود؟</string>
     <string name="release_enter_private">رها کرده تا پوشه خصوصی باز شود</string>
     <string name="remainder_size">باقی‌مانده: %s</string>
+    <string name="reminder_card_title">توجه</string>
     <string name="rename_alert">اگر پسوند این فایل را تغییر دهید، شاید نتوانید آن را باز کنید.</string>
     <string name="rename_alert2">فایل پس از تغییر پسوند آن پنهان خواهد شد.</string>
     <string name="rename_failed">نام %1$s تغییر نیافت</string>
@@ -597,6 +723,7 @@
     <string name="set_pattern">گذرواژه خود را ارتقاء دهید</string>
     <string name="set_pattern_btn">تنظیم</string>
     <string name="set_pattern_msg">گذرواژه خود را دوباره تنظیم کنید. گذرواژه حفاظت از حریم خصوصی برای عکس‌ها، پیام‌ها و یادداشت‌ها نیز کاربرد دارد.</string>
+    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">کوچک‌تر از %d کیلوبایت</string>
     <string name="size_lv2" formatted="false">%1d کیلوبایت - %2d مگابایت</string>
     <string name="size_lv3" formatted="false">%1d مگابایت - %2d مگابایت</string>
@@ -712,16 +839,24 @@
     <string name="unknown_error">خطای ناشناخته‌ای رخ داده است.چند دقیقه صبر کرده و سپس دوباره تلاش کنید.</string>
     <string name="unlock_pattern_msg">گذرواژه حفاظت از حریم خصوصی برای عکس‌ها، پیام‌ها و یادداشت‌ها نیز کاربرد دارد.</string>
     <string name="unlock_pattern_title">گذرواژه جدید</string>
+    <string name="update_no_network">به شبکه متصل نشد. تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید.</string>
     <string name="upload_user_photo">بارگذاری</string>
     <string name="usb_label">USB</string>
     <string name="use">استفاده</string>
+    <string name="use_mobile_data_update_summary">استفاده از اینترنت همراه باری همگام‌سازی خودکار تغییرات در فایل‌های دانلود شده از Mi Drive</string>
+    <string name="use_mobile_data_update_title">استفاده از اینترنت همراه برای همگام‌سازی</string>
     <string name="use_to_all">به‌کارگیری برای همه</string>
     <string name="used">استفاده شده</string>
     <string name="user_guide_continue_use">تأیید</string>
     <string name="user_not_login">ابتدا وارد شوید</string>
     <string name="utf8_summary">کدگذاری پیش‌فرض FTP سیستم</string>
     <string name="utf8_title">UTF-8</string>
+    <string name="video_data_consume_dialog_confirm">ادامه</string>
+    <string name="video_data_consume_dialog_title">از اینترنت همراه استفاده شود؟</string>
     <string name="view_type">نمایش</string>
+    <string name="web_sso_login_fail">باید دوباره وارد شوید</string>
+    <string name="web_sso_login_message">درحال ورود…</string>
+    <string name="webview_reload">دوباره تلاش کنید</string>
     <string name="wechat_msg">به دلیل محدودیت‌های Android 11، مدیریت فایل‌ها نمی‌تواند به اسناد پیش‌نمایش شده در WeChat دسترسی یافته و آن‌ها را نمایش دهد. اسناد موجود در WeChat را باز و ذخیره کرده تا در اینجا نمایان شوند.</string>
     <string name="wechat_title">به اسناد WeChat دسترسی پیدا نمی‌شود</string>
     <string name="wechat_video">ویدئو در %s</string>

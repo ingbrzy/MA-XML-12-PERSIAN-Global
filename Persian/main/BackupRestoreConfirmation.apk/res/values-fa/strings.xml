@@ -7,7 +7,6 @@
 اگر شما درخواست تهیهٔ نسخهٔ پشتیبان را نداده‌اید، اجازه‌ ادامه عملیات را ندهید."</string>
     <string name="backup_confirm_title">پشتیبان‌گیری کامل</string>
     <string name="backup_enc_password_optional">اگر می‌خواهید تمام نسخه پشتیبانی داده را رمزدار کنید، یک گذرواژه در زیر وارد کنید:</string>
-    <string name="backup_enc_password_required">چون دستگاهتان رمز‌گذاری شده است، باید نسخه پشتیبان خودتان را رمزگذاری کنید. لطفاً گذرواژه‌ای را در زیر وارد کنید:</string>
     <string name="backup_enc_password_text">لطفاً یک گذرواژه برای رمزگذاری داده‌های کامل نسخهٔ پشتیبانی وارد کنید. اگر این خالی بماند، گذرواژه فعلی نسخهٔ پشتیبان مورد استفاده قرار خواهد گرفت:</string>
     <string name="current_password_text">لطفاً گذرواژه نسخهٔ پشتیبان فعلی خود را در زیر وارد کنید:</string>
     <string name="deny_backup_button_label">نسخهٔ پشتیبان تهیه نشود</string>

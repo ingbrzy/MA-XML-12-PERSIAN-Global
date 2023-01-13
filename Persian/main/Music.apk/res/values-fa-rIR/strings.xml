@@ -130,6 +130,8 @@
     <string name="audio_ad_pass">رد کردن تبلیغ</string>
     <string name="audio_picker_title">یک آهنگ انتخاب کنید</string>
     <string name="auth_fail_warning">مهلت تمام شد. دوباره وارد شوید.</string>
+    <string name="auto_play_switch">پخش خودکار ویدئوها</string>
+    <string name="auto_play_toast">پخش خودکار روشن است. می‌توانید آن را در تنظیمات روشن کنید.</string>
     <string name="auto_recommend">خودکار (پیشنهاد شده)</string>
     <string name="auto_sound_quality">خودکار</string>
     <string name="auto_update">به‌روزرسانی خودکار</string>
@@ -142,6 +144,7 @@
     <string name="back">بازگشت</string>
     <string name="back_confirm">دوباره ضربه بزنید تا برنامه را به پس‌زمینه بفرستید</string>
     <string name="best_experience">بهترین تجربه</string>
+    <string name="billion_char">%s میلیارد</string>
     <string name="bluetooth_device">دستگاه صوتی بلوتوث</string>
     <string name="btn_text_edit">ویرایش</string>
     <string name="btn_text_view_all">نمایش همه</string>
@@ -237,11 +240,11 @@
     <string name="dialog_my_playlist_online_changed_merge">نگه داشتن</string>
     <string name="dialog_my_playlist_online_changed_message">به نظر می‌رسد این فهرست پخش تغییر یافته است. می‌توانید آن را جایگزین نسخه جدید کرده و یا نسخه قدیمی را نگه دارید.</string>
     <string name="dialog_my_playlist_online_changed_replace">جایگزینی</string>
-    <string name="dialog_my_playlist_set_to_public">هم‌رسانی این فهرست پخش با همه کاربران موسیقی Mi و موسیقی Hungama</string>
+    <string name="dialog_my_playlist_set_to_public">هم‌رسانی این فهرست پخش با همه کاربران موسیقی Mi و موسیقی hungama</string>
     <string name="dialog_queued_body">این فایل برای دانلود در آینده در نوبت قرار گرفته است.</string>
     <string name="dialog_renew_failure">پوزش می‌خواهیم. عملیات انجام نشد</string>
-    <string name="dialog_renew_free_end">دوره آزمایشی شما به پایان رسیده است. اشتراک Hungama PRO را خریداری می‌کنید؟</string>
-    <string name="dialog_renew_positive_text">آره! می‌خوام مثه یک PRO بدرخشم!</string>
+    <string name="dialog_renew_free_end">دوره آزمایشی شما به پایان رسیده است. اشتراک hungama طلایی را خریداری می‌کنید؟</string>
+    <string name="dialog_renew_positive_text">عضویت طلایی من را تمدید کن!</string>
     <string name="dialog_renew_success">سپاس از تأیید شما</string>
     <string name="dialog_score_btn_good">امتیازدهی</string>
     <string name="dialog_score_msg_score_explorer">آیا موسیقی Mi را می‌پسندید؟</string>
@@ -310,7 +313,9 @@
     <string name="download_method">دانلود</string>
     <string name="download_no_application_title">فایل را نمی توان باز کرد</string>
     <string name="download_paused_in_power_save_mode">دانلودها هنگامی که بهینه‌ساز باتری روشن است متوقف می‌شوند</string>
+    <string name="download_percent">%d%%</string>
     <string name="download_processing">در حال دانلود…</string>
+    <string name="download_progress">%d%%</string>
     <string name="download_quality">کیفیت دانلود</string>
     <string name="download_quality_summary">تنظیمات بیشتر برای آهنگ‌هایی که دانلود می‌کنید</string>
     <string name="download_queued">در نوبت قرار گرفت</string>
@@ -354,7 +359,7 @@
     <string name="empty_page_no_album">هیچ آلبومی وجود ندارد.</string>
     <string name="empty_page_no_artist">هیچ هنرمندی وجود ندارد.</string>
     <string name="enabled">فعال</string>
-    <string name="enjoy_hungama_pro">از Hungama PRO لذت ببرید</string>
+    <string name="enjoy_hungama_pro">از hungama طلایی لذت ببرید</string>
     <string name="enroll_in">شرکت کردن</string>
     <string name="enter_garbage_clean">پاک‌سازی حافظه داخلی.</string>
     <string name="entertainment">سرگرمی</string>
@@ -515,17 +520,17 @@
     <string name="home_tab_recommend">آنلاین</string>
     <string name="home_tab_search">جستجو</string>
     <string name="hot_icon_in_fast_indexer">داغ</string>
-    <string name="hungama_batch_download_alert_summary">فقط اعضای PRO می‌توانند چندین آهنگ دانلود کنند. عضویت PRO دریافت شود؟</string>
+    <string name="hungama_batch_download_alert_summary">فقط اعضای طلایی می‌توانند چندین آهنگ دانلود کنند. عضویت طلایی دریافت شود؟</string>
     <string name="hungama_batch_download_alert_summary_toast">برای دانلود کل فهرست پخش یک اشتراک بگیرید.</string>
-    <string name="hungama_download_subscription_toast">برای دانلود این آهنگ، مشترک Hungama Music شوید</string>
-    <string name="hungama_free_download_out_summary">شما نمی‌توانید آهنگ‌های رایگان بیشتری دانلود کنید. برای دانلود نامحدود موسیقی عضویت PRO دریافت شود؟</string>
+    <string name="hungama_download_subscription_toast">برای دانلود این آهنگ، مشترک hungama Music شوید</string>
+    <string name="hungama_free_download_out_summary">شما نمی‌توانید آهنگ‌های رایگان بیشتری دانلود کنید. برای دانلود نامحدود موسیقی عضویت طلایی دریافت شود؟</string>
     <string name="hungama_free_download_out_summary_toast">ما تا کنون %d آهنگ را دانلود کرده‌ایم. برای دانلود بیشتر مشترک شوید.</string>
-    <string name="hungama_privacy_desc">سیاست حفظ حریم خصوصی Hungama (اختیاری)</string>
-    <string name="hungama_privacy_tips_content">برای دریافت محتوای آنلاین، شما باید <a href="/link/click">سیاست حفظ حریم خصوصی Hungama</a> را بپذیرید.</string>
-    <string name="hungama_privacy_tips_title">سیاست حفظ حریم خصوصی Hungama</string>
-    <string name="hungama_subscribe_message">عضویت PRO را خریده تا موسیقی را با کیفیت بالا دانلود کنید.</string>
-    <string name="hungama_subscribe_positive_button">خرید عضویت PRO</string>
-    <string name="hungama_subscribe_title">عضویت PRO</string>
+    <string name="hungama_privacy_desc">سیاست حفظ حریم خصوصی hungama (اختیاری)</string>
+    <string name="hungama_privacy_tips_content">برای دریافت محتوای آنلاین، شما باید <a href="/link/click">سیاست حفظ حریم خصوصی hungama</a> را بپذیرید.</string>
+    <string name="hungama_privacy_tips_title">سیاست حفظ حریم خصوصی hungama</string>
+    <string name="hungama_subscribe_message">با خرید عضویت طلایی موسیقی را با کیفیت بالا دانلود کنید.</string>
+    <string name="hungama_subscribe_positive_button">خرید عضویت طلایی</string>
+    <string name="hungama_subscribe_title">عضویت طلایی</string>
     <string name="i_know">تأیید</string>
     <string name="imported">وارد شده</string>
     <string name="impunity_declaration_content">پیش از استفاده از محصول شما باید &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=fa_IR\">توافقنامه کاربر&lt;/a> و &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=fa_IR\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و آن را بپذیرید.</string>
@@ -656,6 +661,7 @@
     <string name="middle_sound_quality">استاندارد</string>
     <string name="midnight">شب</string>
     <string name="milink_unavaliable_please_update">پیوند Mi در دسترس نیست. MIUI به‌روزرسانی کنید.</string>
+    <string name="million_char">%s میلیون</string>
     <string name="millions_songs">میلیون‌ها آهنگ</string>
     <string name="missing_title">&lt;نامشخص></string>
     <string name="miuishare_account_login_ok">ورود به حساب</string>
@@ -842,7 +848,7 @@
     <string name="online_switch_confirm_title">خاموش کردن خدمات محتوای آنلاین تمامی ویژگی‌های آنلاین را غیر ممکن می‌سازد. در هر صورت خاموش شود؟</string>
     <string name="online_switch_message">خاموش کردن حالت آنلاین روی خدمات VIP و پیشنهادات تأثیر می‌گذارد. در هر صورت خاموش شود؟</string>
     <string name="online_switch_setting">تنظیمات محتوای آنلاین</string>
-    <string name="only_pro_can_choose_hd_sound_quality">صدای HD فقط برای اعضای PRO امکان‌پذیر است</string>
+    <string name="only_pro_can_choose_hd_sound_quality">صدای HD فقط برای اعضای طلایی امکان‌پذیر است</string>
     <string name="open_online_service">برای استفاده از این ویژگی لازم است خدمات آنلاین را روشن کنید. اکنون روشن شود؟</string>
     <string name="open_service">روشن کردن</string>
     <string name="open_settings">تنظیمات</string>
@@ -949,7 +955,7 @@
     <string name="paused_waiting_for_network">در انتظار اتصال</string>
     <string name="paused_waiting_to_retry">درانتظار تلاش دوباره</string>
     <string name="pay_now">خدمات کنونی</string>
-    <string name="payment_success_message">سپاسگزاریم! پرداخت شما با موفقیت انجام شد. از خدمات PRO لذت ببرید.</string>
+    <string name="payment_success_message">سپاسگزاریم! پرداخت شما با موفقیت انجام شد. از خدمات طلایی لذت ببرید.</string>
     <string name="payment_success_title">تبریک!</string>
     <string name="pending_apk">در حال بررسی…</string>
     <string name="permission_declaration_message">به حافظه در بخش امنیت > مجوزها > مجوزها > حافظه > موسیقی اجازه دسترسی داده تا امکان استفاده عادی از موسیقی فراهم شود.</string>
@@ -988,6 +994,7 @@
     <string name="please_select_song">ابتدا یک آهنگ را انتخاب کنید</string>
     <string name="pm">ب.ظ</string>
     <string name="power_save_mode_dialog_msg">بهینه‌ساز باتری روشن است. دانلود حالا آغاز شود؟</string>
+    <string name="pre_watched">تماشا شده</string>
     <string name="preset_music_playlist">فهرست پخش موسیقی Mi</string>
     <string name="priority_storage">از کارت SD خارجی استفاده شود</string>
     <string name="priority_storage_summary">دانلود خودکار به کارت SD خارجی در صورتی که در دسترس باشد</string>
@@ -997,6 +1004,7 @@
     <string name="privacy_authorize_revoking">درحال باطل کردن مجوز…</string>
     <string name="privacy_desc">سیاست حفظ حریم خصوصی (اجباری)</string>
     <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=fa_IR</string>
     <string name="privacy_request_desc">"&lt;Data>موسیقی Mi برای ارائه خدمات پخش آنلاین نیاز به گردآوری اطلاعات شخصی لازم دارد. شما می‌توانید در &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما از چگونگی به‌کارگیری اطلاعاتی که گردآوری می‌کنیم آگاه شوید. شما در هر زمانی می‌توانید در تنظیمات رضایت خود را نسبت به سیاست حفظ حریم خصوصی موسیقی Mi پس بگیرید.
 پیش از استفاده از موسیقی Mi &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.
 چنانچه سیاست حفظ حریم خصوصی ما را نپذیرید، نمی‌توانید از برخی ویژگی‌های این برنامه استفاده کنید؛ با این وجود، کارایی‌های پایه‌ای همچنان برای شما در دسترس خواهند بود.&lt;/Data>"</string>
@@ -1005,7 +1013,7 @@
 - خدمات پخش آنلاین"</string>
     <string name="privacy_request_subtitle_offline">به موسیقی Mi خوش‌ آمدید! این برنامه یک پخش‌کننده محلی را برای فایل‌های صوتی فراهم می‌کند.</string>
     <string name="privacy_request_title">شرایط و ضوابط</string>
-    <string name="pro_member">عضو PRO</string>
+    <string name="pro_member">عضو طلایی</string>
     <string name="progressbar_title">درحال بررسی خطرات امنیتی…</string>
     <string name="project_device">تلفن Mi</string>
     <string name="prompt_grant_write_settings_permission">اجازه تغییر تنظیمات سیستم</string>
@@ -1016,7 +1024,7 @@
     <string name="pulluprefreshrecyclerview_loading_running">درحال بارگذاری…</string>
     <string name="qq_login_btn_content_description">ورود با QQ</string>
     <string name="queue_is_empty">نوبت پخش خالی است.</string>
-    <string name="read_and_agree_hungama_protocol">&lt;Data>من &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی Hungama &lt;/a>&lt;/font> را خوانده و پذیرفته‌ام&lt;/Data></string>
+    <string name="read_and_agree_hungama_protocol">&lt;Data>من &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی hungama &lt;/a>&lt;/font> را خوانده و پذیرفته‌ام&lt;/Data></string>
     <string name="read_and_agree_joox_protocol">&lt;Data>من &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی JOOX&lt;/a>&lt;/font> را خوانده و پذیرفته‌ام&lt;/Data></string>
     <string name="read_and_agree_mi_protocol">&lt;Data>من &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">توافق‌نامه کاربر&lt;/a>&lt;/font> و &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">سیاست حفظ حریم خصوصی&lt;/a>&lt;/font> را خوانده و پذیرفته‌ام.&lt;/Data></string>
     <string name="read_and_agree_protocol">پیش از ادامه توافق‌نامه کاربر و سیاست حفظ حریم خصوصی ما را خوانده و بپذیرید.</string>
@@ -1026,6 +1034,7 @@
     <string name="recommend_songs_when_playing_audio_files">هنگام گوش دادن به موسیقی آهنگ‌های پیشنهادی دریافت کنید</string>
     <string name="recommended_file_size_download_in_mobile">از %s اینترنت همراه برای دانلود این فایل استفاده شود؟</string>
     <string name="recommended_no_file_size_download_in_mobile">از اینترنت همراه برای دانلود این فایل استفاده شود؟</string>
+    <string name="refresh">تازه‌سازی</string>
     <string name="register_by_local_phone_long_text">ایجاد حساب</string>
     <string name="register_by_local_phone_short_text">ایجاد حساب</string>
     <string name="remove">حذف</string>
@@ -1054,7 +1063,7 @@
     <string name="retry">تلاش دوباره</string>
     <string name="retry_after_network_available">به شبکه متصل نمی‌شود. اتصال را بررسی کرده و دوباره تلاش کنید.</string>
     <string name="retry_download">تلاش دوباره</string>
-    <string name="revoke_upload_playlist_to_hungama_toast">آهنگ‌های آنلاین در Hungama همگام‌سازی نخواهند شد</string>
+    <string name="revoke_upload_playlist_to_hungama_toast">آهنگ‌های آنلاین در hungama همگام‌سازی نخواهند شد</string>
     <string name="ringtone_editing">ویرایشگر زنگ</string>
     <string name="ringtone_not_support">فرمت این آهنگ مورد پشتیبانی نیست</string>
     <string name="ringtone_selected">انتخاب شده</string>
@@ -1082,6 +1091,7 @@
     <string name="search_in_youtube">جستجو در YouTube</string>
     <string name="search_instant_online_music">آنلاین</string>
     <string name="search_more">بیشتر</string>
+    <string name="search_recommend">پیشنهاد شده</string>
     <string name="search_result_local_songs">محلی</string>
     <string name="search_result_online_songs">آنلاین</string>
     <string name="search_songs">جستجوی آهنگ</string>
@@ -1144,7 +1154,7 @@
     <string name="sleep_mode_canceled">حالت خواب خاموش شد</string>
     <string name="sleep_mode_summary">متوقف کردن پخش‌کننده پس از مدت زمان معین</string>
     <string name="sleep_mode_title">زمان‌سنج خواب</string>
-    <string name="sliding_pro_center">مرکز PRO</string>
+    <string name="sliding_pro_center">hungama طلایی</string>
     <string name="sns_access_token_expired_warning">مهلت به پایان رسیده است. برای اتصال دوباره به این حساب، دوباره وارد شوید.</string>
     <string name="sns_bind_limit">تلاش‌ها بیش از حد بودند. راه‌های دیگر را برای ورود انتخاب کنید.</string>
     <string name="sns_sign_in">راه‌های دیگر برای ورود</string>
@@ -1258,6 +1268,7 @@
     <string name="the_united_nations_day">روز ملل متحد</string>
     <string name="the_valentines_day">روز ولنتاین</string>
     <string name="the_water_lantern_festival">جشنواره فانوس آبی</string>
+    <string name="thousand_char">%s هزار</string>
     <string name="thursday">پنج‌شنبه</string>
     <string name="thursday_short">پنج‌شنبه</string>
     <string name="thursday_shortest">پنج‌شنبه</string>
@@ -1267,6 +1278,7 @@
     <string name="time_picker_label_hour">ساعت</string>
     <string name="time_picker_label_minute">دقیقه</string>
     <string name="time_to_upgrade">یک به‌روزرسانی موجود است</string>
+    <string name="tips_click_here_to_continue">برای ادامه بازپخش ضربه بزنید</string>
     <string name="title_online_fm_recommend">FM ویژه</string>
     <string name="title_online_recommend">فهرست‌های پخش ویژه</string>
     <string name="title_search_history">تاریخچه جستجو</string>
@@ -1279,8 +1291,8 @@
     <string name="toast_download_in_process">دانلود درحال انجام</string>
     <string name="toast_favorite_has_been_added">با موفقیت به فهرست پخش افزوده شد</string>
     <string name="toast_follow_success">با موفقیت دنبال شد</string>
-    <string name="toast_hungama_vip_song">این آهنگ فقط برای اعضای PRO در دسترس است. برای دانلود این آهنگ مشترک شوید.</string>
-    <string name="toast_is_pro">شما درحال حاضر یک عضو PRO هستید.</string>
+    <string name="toast_hungama_vip_song">این آهنگ فقط برای اعضای طلایی در دسترس است. برای دانلود این آهنگ مشترک شوید.</string>
+    <string name="toast_is_pro">شما درحال حاضر یک عضو طلایی هستید</string>
     <string name="toast_my_playlist_illegal_name">عنوان این فهرست پخش معتبر نیست. این فهرست پخش را دوباره نام‌گذاری کنید.</string>
     <string name="toast_my_playlist_set_to_private">این فهرست پخش خصوصی است. دیگران نمی‌توانند آن را ببینند.</string>
     <string name="toast_my_playlist_set_to_public">فهرست پخش عمومی شد. دیگران می‌توانند آن را ببینند.</string>
@@ -1289,7 +1301,7 @@
     <string name="toast_new_playlist_name_too_long">نام فهرست پخش بسیار طولانی است</string>
     <string name="toast_normal_songs_for_download">تنظیم کیفیت دانلود به حالت استاندارد</string>
     <string name="toast_normal_songs_for_stream">کیفیت پخش روی عادی تنظیم شد</string>
-    <string name="toast_not_pro">این ویژگی فقط برای اعضای PRO امکان‌پذیر است.</string>
+    <string name="toast_not_pro">این ویژگی فقط برای اعضای طلایی امکان‌پذیر است</string>
     <string name="toast_playlist_has_been_added">با موفقیت به نوبت افزوده شد</string>
     <string name="toast_playlist_has_been_private">این فهرست پخش خصوصی است</string>
     <string name="toast_playlist_has_been_public">این فهرست پخش عمومی است</string>
@@ -1325,8 +1337,8 @@
     <string name="upload_favorite_setting_title">همگام‌سازی آهنگ‌ها</string>
     <string name="upload_playlist_to_hungama_negative_text">همگام‌سازی نشود</string>
     <string name="upload_playlist_to_hungama_positive_text">همگام‌سازی</string>
-    <string name="upload_playlist_to_hungama_title">آهنگ‌های آنلاین را در Hungama همگام‌سازی کرده تا بتوانید در سایر دستگاه‌هایی که از حساب Xiaomi خود استفاده می‌کنید به آن‌ها دسترسی یابید.</string>
-    <string name="upload_playlist_to_hungama_toast">آهنگ‌های آنلاین در Hungama همگام‌سازی خواهند شد</string>
+    <string name="upload_playlist_to_hungama_title">آهنگ‌های آنلاین را در hungama همگام‌سازی کرده تا بتوانید در سایر دستگاه‌هایی که از حساب Xiaomi خود استفاده می‌کنید به آن‌ها دسترسی یابید.</string>
+    <string name="upload_playlist_to_hungama_toast">آهنگ‌های آنلاین در hungama همگام‌سازی خواهند شد</string>
     <string name="user_agreement">توافق‌نامه کاربر</string>
     <string name="user_agreement_hint_3rd_app">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> و &lt;a href=%3$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%4$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi را خوانده و پذیرفته‌ام.&lt;/Data></string>
     <string name="user_agreement_hint_3rd_app_mobile">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a>، &lt;a href=%3$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%4$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi و همچنین &lt;a href=%5$s>شرایط و ضوابط خدمات تأیید China Mobile&lt;/a> را خوانده و پذیرفته‌ام.&lt;/Data></string>
@@ -1337,6 +1349,7 @@
     <string name="user_agreement_hint_with_mobile">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi و همچنین &lt;a href=%3$s>شرایط و ضوابط خدمات تأیید China Mobile&lt;/a> را خوانده و پذیرفته‌ام.&lt;/Data></string>
     <string name="user_agreement_hint_with_telecom">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi و همچنین &lt;a href=%3$s>شرایط و ضوابط حساب eSurfing &lt;/a> را خوانده و پذیرفته‌ام.&lt;/Data></string>
     <string name="user_agreement_hint_with_unicom">&lt;Data>من &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> حساب Mi و همچنین &lt;a href=%3$s>شرایط و ضوابط خدمات تأیید China Unicom&lt;/a> را خوانده و پذیرفته‌ام.&lt;/Data></string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=fa_IR</string>
     <string name="user_avatar_update_title">تغییر عکس نمایه</string>
     <string name="user_avatar_uploading">چند لحظه صبر کنید…</string>
     <string name="user_experience_program_open">به دلیل محدودیت‌های حق چاپ و نشر، برای امکان پخش آهنگ‌های دانلود شده لازم است تا در برنامه تجربه کاربر شرکت کنید. شما این کار را می‌توانید در تنظیمات > گذرواژه‌ها و امنیت > حریم خصوصی > شرکت در برنامه تجربه کاربر انجام دهید.</string>
@@ -1356,7 +1369,7 @@
     <string name="video_retry_btn">تلاش دوباره</string>
     <string name="view_album">نمایش آلبوم</string>
     <string name="vip_required">بسته ممتاز را گرفته تا این آهنگ پخش شود. آهنگ اکنون رد شد.</string>
-    <string name="vip_required_with_song">%s فقط برای اعضای PRO در دسترس است. از این آهنگ رد شد.</string>
+    <string name="vip_required_with_song">%s فقط برای اعضای طلایی در دسترس است. از این آهنگ رد شد.</string>
     <string name="voice_search_first_hint">جستجوی صوتی را آزمایش کنید!</string>
     <string name="watch_video">تماشای ویدئو</string>
     <string name="wednesday">چهارشنبه</string>
@@ -1372,5 +1385,16 @@
     <string name="yesterday">دیروز</string>
     <string name="you_can_switch_mode_in_settings">می‌توانید بین حالت‌ها در تنظیمات تعویض کنید</string>
     <string name="you_may_like">مواردی که ممکن است بپسندید</string>
+    <string name="youtube_download_canl">لغو</string>
+    <string name="youtube_download_fail_net">به شبکه متصل نشد. تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید.</string>
+    <string name="youtube_download_fail_source">خطایی رخ داد. چند دقیقه صبر کرده و سپس دوباره تلاش کنید.</string>
+    <string name="youtube_download_fail_space">دانلود نشد. حافظه کافی نیست.</string>
+    <string name="youtube_download_fail_unknown">خطایی رخ داد. چند دقیقه صبر کرده و سپس دوباره تلاش کنید.</string>
+    <string name="youtube_download_hint">صدا از این ویدئو با قالب MP3 با عنوان ویدئو به عنوان نام فایل در دستگاه شما ذخیره می‌شود. دانلود شود؟</string>
+    <string name="youtube_download_ing">چند لحظه صبر کنید…</string>
+    <string name="youtube_download_start">دانلود</string>
+    <string name="youtube_download_suc">با موفقیت دانلود شد</string>
     <string name="youtube_play_history">تاریخچه بازپخش</string>
+    <string name="youtube_share_guide_tip">اکنون می‌توانید ویدئوها را با دوستانتان هم‌رسانی کنید</string>
+    <string name="youtube_tab_explore">یافتن</string>
 </resources>

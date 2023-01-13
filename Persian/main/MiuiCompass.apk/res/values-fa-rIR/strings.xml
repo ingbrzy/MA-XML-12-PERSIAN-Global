@@ -20,6 +20,7 @@
     <string name="calibrate_failed">درجه بندی ارتفاع ناموفق بود</string>
     <string name="calibrate_failed_no_location">درجه‌بندی نشد</string>
     <string name="calibrate_failed_timeout">نمی‌توان به سرور متصل شد</string>
+    <string name="calibrate_new_tip">به دستگاه خود شیب تند بدهید تا توپ را دور دایره، بچرخانید</string>
     <string name="calibrate_rotate_again">دوباره تلاش کنید</string>
     <string name="calibrate_success">درجه‌بندی شد</string>
     <string name="calibrate_tip">دستگاه خود را کج کنید تا توپ در اطراف دایره به حرکت درآید</string>
@@ -199,7 +200,7 @@
     <string name="morning">صبح</string>
     <string name="new_cta_app_purpose">نمایش جهت‌ها و مختصات</string>
     <string name="new_cta_v2_app_purpose">نمایش جهت‌ها، مختصات، فشار جوی و ارتفاع کنونی</string>
-    <string name="new_permission_camera_desc">برای یکسان‌سازی</string>
+    <string name="new_permission_camera_desc">برای نمایش پیش‌نمایش‌های زنده</string>
     <string name="new_permission_location_desc">برای نمایش مختصات</string>
     <string name="night">شب</string>
     <string name="noon">ظهر</string>

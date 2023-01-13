@@ -36,6 +36,14 @@
         <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">۱ دقیقه پیش</item>
     </plurals>
+    <plurals name="circulate_audio_group_subtitle_format">
+        <item quantity="other">دستگاه %1$d</item>
+        <item quantity="one">%1$d دستگاه</item>
+    </plurals>
+    <plurals name="circulate_audio_group_title_format">
+        <item quantity="other">دستگاه %1$d</item>
+        <item quantity="one">دستگاه %1$d</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">نیم ساعت پیش</item>
         <item quantity="one">نیم ساعت پیش</item>

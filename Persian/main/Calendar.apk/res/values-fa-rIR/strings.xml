@@ -61,6 +61,7 @@
     <string name="birthday_saved">زادروز ذخیره شد</string>
     <string name="birthday_term">زادروز</string>
     <string name="button_record_menstruation">ضبط</string>
+    <string name="calendar_account_settings">تنظیمات حساب</string>
     <string name="calendar_permission_desc">مدیریت رویدادها</string>
     <string name="calendar_privacy_policy">سیاست حفظ حریم خصوصی</string>
     <string name="can_not_create_long_event">نام رویداد بسیار طولانی است</string>
@@ -82,6 +83,7 @@
     <string name="change">تغییر</string>
     <string name="change_response_title">تغییر پاسخ</string>
     <string name="change_zodiac">تغییر نشان زودیاک</string>
+    <string name="check_new_version">بررسی به‌روزرسانی‌ها</string>
     <string name="choose_your_holidays">انتخاب تعطیلات</string>
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
     <string name="click_to_share">برای هم‌رسانی ضربه بزنید</string>
@@ -126,6 +128,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">سالنامه سنتی چینی</string>
+    <string name="date_time_fmt" formatted="false">%s، %s</string>
     <string name="date_time_picker_dialog_title">تنظیم تاریخ و ساعت</string>
     <string name="date_today">" (امروز)"</string>
     <string name="date_view">تاریخ</string>
@@ -140,6 +143,7 @@
     <string name="description_calendar_edit_event">برنامه‌های سیستمی/سالنامه/دستور جلسه</string>
     <string name="directory_searching_fmt">درحال جستجوی %s…</string>
     <string name="discard_label">لغو</string>
+    <string name="display_to_calendar">نمایش در سالنامه</string>
     <string name="does_not_repeat">رویداد تکرار نشدنی</string>
     <string name="early_morning">صبح</string>
     <string name="edit_date_calculate_days_backward_error_hint">نمی‌توان رو به جلو را محاسبه کرد</string>
@@ -331,6 +335,7 @@
     <string name="horoscope">طالع‌بینی</string>
     <string name="horoscope_card_title">طالع امروز</string>
     <string name="horoscope_select_activity_label">نشان زودیاک را انتخاب کنید</string>
+    <string name="hour_1">%d ساعت</string>
     <string name="image_processing">تصویر هنوز آماده نیست</string>
     <string name="import_action">وارد کردن</string>
     <string name="import_birthday">وارد کردن زادروز</string>
@@ -395,6 +400,10 @@
     <string name="mesens_card_title_today_begin">دوره ممکن است امروز آغاز شود</string>
     <string name="mesens_card_title_tomorrow_begin">دوره ممکن است فردا آغاز شود</string>
     <string name="midnight">شب</string>
+    <string name="minutes_10">%d دقیقه</string>
+    <string name="minutes_15">%d دقیقه</string>
+    <string name="minutes_30">%d دقیقه</string>
+    <string name="minutes_5">%d دقیقه</string>
     <string name="missing_name">(بدون نام)</string>
     <string name="missing_required_permission">شما مجوزهای لازم را محدود کرده‌اید.</string>
     <string name="miuix_access_state_desc">انتخاب شده</string>
@@ -654,7 +663,6 @@
     <string name="save">ذخیره</string>
     <string name="saving_event">رویداد ذخیره شد</string>
     <string name="saving_event_with_guest">درحال ارسال به‌روزرسانی‌ها…</string>
-    <string name="search_calendar">تاریخ;دوره‌های خورشیدی;تقویم نجومی;طالع;دستور جلسه;ملاقات;یادآور;تعطیلات;تعطیل;زادروز;۲۰۱۶;۲۰۱۷;جشنواره بهار;روز سال نو;روز جهانی کارگر;جشنواره اواسط پاییز</string>
     <string name="search_calendar_edit_event">ملاقات;یادآور;دستور جلسه</string>
     <string name="search_calendar_settings">سالنامه;دستور جلسه;یادآور</string>
     <string name="search_events">جستجوی رویدادها</string>
@@ -693,6 +701,9 @@
     <string name="share_image_label">هم‌رسانی از طریق</string>
     <string name="share_title">هم‌رسانی</string>
     <string name="short_date_format">dd MMM</string>
+    <string name="shortcut_new_event">افزودن رویداد</string>
+    <string name="shortcut_next_agenda">رویداد بعدی</string>
+    <string name="shortcut_settings">تنظیمات</string>
     <string name="show_day_view">نمایش روز</string>
     <string name="show_indic_date_summary">سالنامه هندی زمانی در دسترس خواهد بود که زبان سیستم را روی یکی از زبان‌های هند تنظیم کنید</string>
     <string name="show_menstruation_info">نمایش اطلاعات قاعدگی</string>
@@ -731,6 +742,7 @@
     <string name="subtitle_mi_calendar_predict_menstruation">دوره‌های آینده را با استفاده از سالنامه ضبط کرده و تخمین بزنید</string>
     <string name="subtitle_record_and_start_predict">یک دوره را ضبط کرده تا تخمین بزنید که دوره بعدی کی آغاز می‌شود</string>
     <string name="subtitle_stick_record">دوره‌های خود را ضبط کرده تا پیش‌بینی دقیق‌تری به دست آورید</string>
+    <string name="suggestions_and_feedback">بازخورد</string>
     <string name="sunday">یک‌شنبه</string>
     <string name="sunday_short">یک‌شنبه</string>
     <string name="sunday_shortest">یک‌شنبه</string>

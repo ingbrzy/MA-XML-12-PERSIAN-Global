@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="access_denied_info">تلاش‌ها بیش از اندازه هستند. چند دقیقه صبر کرده سپس دوباره تلاش کنید.</string>
     <string name="actionbar_button_up_description">بازگشت</string>
     <string name="afternoon">بعد از ظهر</string>
     <string name="am">ق.ظ</string>
@@ -135,9 +136,12 @@
     <string name="month_september_shortest">سپتامبر</string>
     <string name="more">بیشتر</string>
     <string name="morning">صبح</string>
+    <string name="network_error_info">یک خطای شبکه رخ داد. تنظیمات شبکه خود را بررسی کرده و سپس دوباره تلاش کنید.</string>
+    <string name="network_timeout_info">به شبکه متصل نشد. دوباره تلاش کنید.</string>
     <string name="night">شب</string>
     <string name="noon">ظهر</string>
     <string name="pm">ب.ظ</string>
+    <string name="progressbar_title">درحال بررسی خطرات امنیتی…</string>
     <string name="saturday">شنبه</string>
     <string name="saturday_short">شنبه</string>
     <string name="saturday_shortest">شنبه</string>
@@ -152,6 +156,7 @@
     <string name="sunday">یک‌شنبه</string>
     <string name="sunday_short">یک‌شنبه</string>
     <string name="sunday_shortest">یک‌شنبه</string>
+    <string name="system_error_info">سیستم مشغول است. چند دقیقه صبر کرده سپس دوباره تلاش کنید.</string>
     <string name="the_anniversary_of_lifting_martial_law">سالگرد لغو حکومت نظامی</string>
     <string name="the_anti_aggression_day">روز ضد پرخاشگری</string>
     <string name="the_arbor_day">روز درخت‌کاری</string>
@@ -203,6 +208,7 @@
     <string name="tuesday">سه‌شنبه</string>
     <string name="tuesday_short">سه‌شنبه</string>
     <string name="tuesday_shortest">سه‌شنبه</string>
+    <string name="unknown_error_info">خطای ناشناخته</string>
     <string name="wednesday">چهارشنبه</string>
     <string name="wednesday_short">چهارشنبه</string>
     <string name="wednesday_shortest">چهارشنبه</string>

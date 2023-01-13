@@ -238,6 +238,8 @@ dd/MM"</string>
     <string name="select_notification_animation_style">انتخاب جلوه ویژه</string>
     <string name="select_notification_notify_style">انتخاب جلوه اعلان</string>
     <string name="send">ارسال</string>
+    <string name="settings_view_btn_check_off">خاموش</string>
+    <string name="settings_view_btn_check_on">روشن</string>
     <string name="share">هم‌رسانی</string>
     <string name="share_to_community">هم‌رسانی در Xiaomi Community</string>
     <string name="show_battery">نمایش وضعیت باتری</string>

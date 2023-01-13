@@ -159,6 +159,7 @@
     <string name="data_enable_summary">به این دستگاه اجازه داده می‌شود تا از اینترنت همراه استفاده کند</string>
     <string name="data_enable_warning">اجازه استفاده همیشگی از اینترنت همراه ممکن است هزینه‌هایی خارج از طرح شرکت مخابراتی شما داشته باشد. در هر صوت وصل شود؟</string>
     <string name="data_enabled">اینترنت همراه</string>
+    <string name="data_interruption_remind_for_t">به نظر می‌رسد محیط شبکه شما قابل اطمینان نیست. برای بهبود اتصال، اجازه استفاده از اینترنت همراه هنگام انجام تماس‌های VoLTE روی سیم‌کارت دوم را به دستگاه خود بدهید.</string>
     <string name="data_plan">طرح‌های اینترنت همراه</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
@@ -188,6 +189,11 @@
     <string name="dial_related_setting_catory">شماره‌گیر</string>
     <string name="dialog_cancel">لغو</string>
     <string name="dialog_network_priority_title">شبکه مقدم‌تر</string>
+    <string name="dialog_ota_change_number_fail">شماره تلفن تغییر نکرد. اگر این خطا پس از تلاش دوباره شما نمایان شد، با فروشنده خود تماس بگیرید.</string>
+    <string name="dialog_ota_change_number_lgu">اکنون USIM دانلود شود؟</string>
+    <string name="dialog_ota_change_number_lgu_roaming">هنگام استفاده در خارج از کشور شماره تلفن‌ها تغییر نمی‌کنند.</string>
+    <string name="dialog_ota_change_number_processing">درحال دانلود USIM…</string>
+    <string name="dialog_ota_change_number_success">شماره تلفن با موفقیت تغییر کرد</string>
     <string name="dialog_report">گزارش</string>
     <string name="dialpad_eight">%d</string>
     <string name="dialpad_five">%d</string>
@@ -200,6 +206,11 @@
     <string name="dialpad_two">%d</string>
     <string name="dialpad_zero">%d</string>
     <string name="disable_all_cf">خاموش کردن تمام ویژگی‌های انتقال تماس</string>
+    <string name="disable_esim_dialog_summary">"در صورت غیرفعال‌سازی eSIM، سیم‌کارت %s فعال خواهد شد.
+در هر صورت eSIM غیرفعال شود؟"</string>
+    <string name="disable_esim_dialog_title">درحال غیرفعال‌سازی eSIM</string>
+    <string name="disable_esim_error_toast_message">eSIM غیرفعال نشد</string>
+    <string name="disable_esim_progress_activating_message">درحال غیرفعال‌سازی eSIM…</string>
     <string name="disabled_by_admin">توسط مدیریت غیرفعال شده است</string>
     <string name="do_not_show_again">دوباره نمایش داده نشود</string>
     <string name="dtmf_tone_entries_long">طولانی</string>
@@ -220,6 +231,12 @@
     <string name="enable_antispam_strange_title">سکوت نخستین زنگ</string>
     <string name="enable_dual_4g_if_dual_ct">هنگام نصب دو سیم‌کارت China Telecom برای استفاده از VoLTE روی سیم‌کارت دوم هر دو سیم‌کارت از شبکه‌های 4G استفاده کنند.</string>
     <string name="enable_dual_4g_prompt_when_turn_on_volte">VoLTE نیازمند اتصال 4G برای هر دو جایگاه سیم‌کارت است. اکنون به 4G دوگانه تعویض شود؟</string>
+    <string name="enable_esim_dialog_summary">"در صورت فعال‌سازی eSIM، سیم‌کارت %s غیرفعال خواهد شد.
+در هر صورت eSIM فعال شود؟"</string>
+    <string name="enable_esim_dialog_title">فعال‌سازی eSIM</string>
+    <string name="enable_esim_error_toast_message">eSIM فعال نشد</string>
+    <string name="enable_esim_progress_activating_message">درحال فعال‌سازی eSIM…</string>
+    <string name="enable_esim_title">استفاده از eSIM</string>
     <string name="enable_proximity_summary">هنگام گرفتن دستگاه کنار گوش زمان برقراری تماس، صفحه نمایش به صورت خودکار خاموش شود</string>
     <string name="enable_proximity_title">حسگر نزدیکی</string>
     <string name="enable_vice_volte_if_dual_ct">روشن کردن VoLTE به صورت خودکار برای سیم‌کارت دوم هنگامی که هر دو سیم‌کارت China Telecom نصب باشند.</string>
@@ -227,9 +244,14 @@
     <string name="enhanced_4g_lte_mode_off_failed">VoLTE خاموش نشد.</string>
     <string name="enhanced_4g_lte_mode_on_failed">VoLTE روشن نشد.</string>
     <string name="enter_callbarring_password">گذرواژه محدودیت تماس را وارد کنید (%d رقم)</string>
+    <string name="enter_esim_manager_title">مدیریت eSIM</string>
     <string name="enter_pin2_text">PIN2</string>
     <string name="eras_ad">میلادی</string>
     <string name="eras_bc">پیش از میلاد</string>
+    <string name="esim_inactive_notification_message_global">هیچ سیم‌کارتی شناسایی نشد. برای فعال‌سازی eSIM ضربه بزنید.</string>
+    <string name="esim_inactive_notification_title_global">سیم‌کارت دوگانه و شبکه‌های موبایل</string>
+    <string name="esim_is_activating_notification_message_for_o2">درحال فعال‌سازی طرح موبایلی…</string>
+    <string name="esim_setting_title">تنظیمات eSIM</string>
     <string name="evening">بعد از ظهر</string>
     <string name="fdn_enable_puk2_requested">گذرواژه اشتباه است، PIN2 مسدود شد. PIN2 را تغییر داده و دوباره تلاش کنید.</string>
     <string name="fdn_full">FDN به‌روز نشد به دلیل این‌که فهرست پر است.</string>
@@ -410,6 +432,7 @@
     <string name="miui_network_selection_reset_text">بازنشانی</string>
     <string name="miui_notification_network_selection_title">سیم‌کارت: بدون خدمات</string>
     <string name="miui_notification_network_selection_title_by_sim">سیم‌کارت %s: بدون خدمات</string>
+    <string name="miuix_access_state_desc">انتخاب شده</string>
     <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
     <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
@@ -531,7 +554,7 @@
     <string name="msim_setting_sim_info_editor_title">ویرایش اطلاعات سیم</string>
     <string name="msim_sim_lock">قفل شده</string>
     <string name="msim_sim_radio_off">خاموش</string>
-    <string name="msim_switch_data_conn_toast">سیمکارت‌ها جابجا شده. نوع شبکه تغییر کرده است. اطلاعات تکمیلی در بخش سیمکارتها و شبکه‌های موبایل در منوی تنظیمات قابل مشاهده است.</string>
+    <string name="msim_switch_data_conn_toast">سیم‌کارت‌ها جابجا شدند. نوع شبکه تغییر کرد.</string>
     <string name="msim_switch_data_conn_toast_for_h2xct">جایگاه سیم‌کارت ۲ فقط از GSM پشتیبانی می‌کند. نوع شبکه ترجیحی برای این جایگاه به 2G تغییر پیدا کرده است.</string>
     <string name="netcheck_title">عیبت‌یابی‌های شبکه تلفن همراه</string>
     <string name="network_active">شبکه‌های فعال</string>
@@ -563,6 +586,7 @@
     <string name="new_pin2_label">PIN2 جدید</string>
     <string name="new_pin_label">PIN جدید</string>
     <string name="night">شب</string>
+    <string name="no_active_esim_text">eSIM غیرفعال</string>
     <string name="no_checked_network">شما نمی‌توانید به شبکه موبایل وصل شده و تماس برقرار کنید. شبکه دیگری انتخاب شود؟</string>
     <string name="noon">ظهر</string>
     <string name="notallow">اعطا نشده</string>
@@ -614,7 +638,6 @@
     <string name="path_preference_dial_pad_touch_tone_title">برنامه‌های سیستمی/تلفن/تنظیمات پیشرفته/صدای لمس شماره‌گیر</string>
     <string name="path_preference_telocation_title">برنامه‌های سیستمی/تلفن/موقعیت</string>
     <string name="path_reject_via_sms">برنامه‌های سیستمی/تلفن/تنظیمات پیشرفته/پاسخ‌های فوری</string>
-    <string name="path_sip_settings">برنامه‌های سیستمی/تلفن/تنظیمات پیشرفته/تنظیمات SIP</string>
     <string name="path_t9_indexing_method_title">برنامه‌های سیستمی/تلفن/تنظیمات پیشرفته/ورودی جستجوی T9</string>
     <string name="path_telocation_auto_country_code">برنامه‌های سیستمی/تلفن/موقعیت/افزوده کن کشور</string>
     <string name="path_telocation_contacts_countrycode">برنامه‌های سیستمی/تلفن/موقعیت/کد کشور پیش‌فرض</string>
@@ -723,13 +746,44 @@
     <string name="saturday">شنبه</string>
     <string name="saturday_short">شنبه</string>
     <string name="saturday_shortest">شنبه</string>
+    <string name="search_answer_state_setting_title">@string/answer_state_setting_title</string>
     <string name="search_antispam_setting">فهرست سیاه</string>
     <string name="search_app_name">تلفن;ضبط تماس;تغییر مسیر تماس‌ها;تغییر مسیر;انتظار تماس;فهرست سیاه;کد کشور;کد ناحیه;کدهای کشورها;کدهای ناحیه‌ها;ضبط تماس‌ها;ضبط تماس;صفحه شماره‌گیر;تماس;تماس‌ها;تلفنی;VoIP;VoLTE;تماس از دست رفته;تماس‌های ازدست رفته;SIP;T9;تلفن IP; FDN</string>
+    <string name="search_auto_answer_pref_title">@string/auto_answer_pref_title</string>
+    <string name="search_auto_retry_mode_title">@string/auto_retry_mode_title</string>
+    <string name="search_call_forwarding_settings">@string/call_forwarding_settings</string>
+    <string name="search_call_record_auto_title">@string/call_record_auto_title</string>
+    <string name="search_call_record_setting">@string/call_record_setting</string>
+    <string name="search_call_recording_notification_toggle_title">@string/call_recording_notification_toggle_title</string>
+    <string name="search_call_waiting_title">@string/call_waiting_title</string>
+    <string name="search_call_waiting_tone_title">@string/call_waiting_tone_title</string>
+    <string name="search_caller_id_title">@string/caller_id_title</string>
+    <string name="search_cloud_antispam_title">@string/cloud_antispam_title</string>
+    <string name="search_connect_disconnect_vibrate_title">@string/connect_disconnect_vibrate_title</string>
+    <string name="search_crescendo_ringer_title">@string/crescendo_ringer_title</string>
+    <string name="search_dtmf_tones_title">@string/dtmf_tones_title</string>
+    <string name="search_enable_antispam_strange_title">@string/enable_antispam_strange_title</string>
+    <string name="search_enable_proximity_title">@string/enable_proximity_title</string>
+    <string name="search_fdn">@string/fdn</string>
+    <string name="search_flash_when_ring_title">@string/flash_when_ring_title</string>
+    <string name="search_handon_ringer_title">@string/handon_ringer_title</string>
+    <string name="search_missed_call_notify_times_title">@string/missed_call_notify_times_title</string>
+    <string name="search_preference_dial_pad_touch_tone_title">@string/preference_dial_pad_touch_tone_title</string>
+    <string name="search_preference_telocation_title">@string/preference_telocation_title</string>
+    <string name="search_reject_via_sms">@string/reject_via_sms</string>
+    <string name="search_t9_indexing_method_title">@string/t9_indexing_method_title</string>
+    <string name="search_telocation_auto_country_code">@string/telocation_auto_country_code</string>
+    <string name="search_telocation_contacts_countrycode">@string/telocation_contacts_countrycode</string>
+    <string name="search_telocation_custom_location_title">@string/telocation_custom_location_title</string>
+    <string name="search_telocation_enable_title">@string/telocation_enable_title</string>
+    <string name="search_turnover_mute_title">@string/turnover_mute_title</string>
+    <string name="search_voicemail_settings">@string/voicemail_settings</string>
     <string name="select_dds_dialog_title">انتخاب سیم‌کارت اینترنت همراه پیش‌فرض</string>
     <string name="select_voice_call_sim">سیم‌کارت را انتخاب کنید</string>
     <string name="send">ارسال</string>
     <string name="sensor_answer_summary">تلفن را روی گوش خود گذاشته تا به صورت خودکار به تماس ورودی پاسخ دهد</string>
     <string name="sensor_answer_title">برداشتن برای جواب دادن</string>
+    <string name="set_esim_toast_phone_in_call">این اقدام هنگام تماس‌ها انجام نمی‌شود</string>
     <string name="set_primary_summary">استفاده برای تماس‌های خارجی</string>
     <string name="set_primary_title">تنظیم به عنوان حساب اصلی</string>
     <string name="set_smsc_address_error">نمی‌توان شماره را تنظیم کرد</string>
@@ -776,6 +830,13 @@
     <string name="smart_dual_sim_prompt_title">هشدار مصرف اینترنت همراه (سیم‌کارت %s)</string>
     <string name="smart_dual_sim_summary">هنگام ضعیف بودن اتصال، روی سیم‌کارت دوم رفته و به صورت خودکار از اینترنت همراه آن استفاده می‌کند. زمانی که اتصال بهبود یافت، روی سیم‌کارت اصلی باز می‌گردد.</string>
     <string name="smart_dual_sim_title">سیم‌کارت دوگانه هوشمند</string>
+    <string name="smart_switch_dual_sim_diag_cancel">لغو</string>
+    <string name="smart_switch_dual_sim_diag_message">به نظر می‌رسد سیم‌کارت اینترنت همراه کنونی شما اتصال پایداری ارائه نمی‌دهد. تعویض خودکار میان سیم‌کارت‌های اینترنت همراه ممکن است کیفیت اتصال را بهبود بخشد. شما می‌توانید این ویژگی را در تنظیمات روشن کنید.</string>
+    <string name="smart_switch_dual_sim_diag_ok">تنظیمات</string>
+    <string name="smart_switch_dual_sim_diag_title">توجه</string>
+    <string name="smart_switch_dual_sim_prompt">اتصال دستگاه شما با استفاده از سیم‌کارت %1$s به یک شبکه اینترنت همراه ممکن است هزینه‌های اضافی در بر داشته باشد. سقف مصرف اینترنت همراه تنظیم کرده تا از ایجاد هزینه‌های اضافی جلوگیری شود.</string>
+    <string name="smart_switch_dual_sim_summary">تعویض خودکار بین سیم‌کارت‌های اینترنت همراه بر اساس کیفیت اتصال و وضعیت دستگاه</string>
+    <string name="smart_switch_dual_sim_title">تعویض بین سیم‌کارت‌های اینترنت همراه</string>
     <string name="sms_messages_title">پیامک</string>
     <string name="smsc_dialog_message">مطمئن شوید شماره‌ای که وارد کرده‌اید درست است. در غیر این صورت نمی‌توانید پیامک ارسال یا دریافت کنید. برای تأیید شماره SMSC با شرکت مخابراتی خود تماس بگیرید.</string>
     <string name="status_unavailable">در دسترس نیست</string>
@@ -787,6 +848,8 @@
     <string name="sunday">یک‌شنبه</string>
     <string name="sunday_short">یک‌شنبه</string>
     <string name="sunday_shortest">یک‌شنبه</string>
+    <string name="switch_cancel_btn_text">لغو</string>
+    <string name="switch_confirm_btn_text">تأیید</string>
     <string name="switch_dds_to_sub_alert">این کارت را به عنوان کارت پیش‌فرض اینترنت همراه تنظیم کنید.</string>
     <string name="switch_off">خاموش</string>
     <string name="switch_on">روشن</string>
@@ -968,5 +1031,6 @@
     <string name="wificall_switch_summary">استفاده از Wi-Fi برای برقراری و دریافت تماس‌ها در صورت امکان</string>
     <string name="wificall_switch_title">برقراری تماس با استفاده از Wi-Fi</string>
     <string name="wrong_password">گذرواژه‌ای که وارد کرده‌اید اشتباه است</string>
+    <string name="xiaoai_assistant_setting_title">دستیار تماس AI Mi</string>
     <string name="yesterday">دیروز</string>
 </resources>

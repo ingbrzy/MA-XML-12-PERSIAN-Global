@@ -81,8 +81,8 @@
         <item quantity="one">نزدیک به %d دقیقه مانده است</item>
     </plurals>
     <plurals name="keyguard_charging_info_could_use_time_text">
-        <item quantity="other">"نزدیک به %1$d  ساعت و %2$d  دقیقه مانده است"</item>
-        <item quantity="one">"نزدیک به %1$d  ساعت و %2$d  دقیقه مانده است"</item>
+        <item quantity="other">نزدیک به %1$d ساعت و %2$d دقیقه مانده است</item>
+        <item quantity="one">نزدیک به %1$d ساعت و %2$d دقیقه مانده است</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_hour_time_format">
         <item quantity="other">%d ساعت</item>
@@ -93,8 +93,8 @@
         <item quantity="one">%d دقیقه</item>
     </plurals>
     <plurals name="keyguard_charging_info_drained_time_format">
-        <item quantity="other">"%1$d  ساعت و %2$d  دقیقه"</item>
-        <item quantity="one">"%1$d  ساعت و %2$d  دقیقه"</item>
+        <item quantity="other">%1$d ساعت و %2$d دقیقه</item>
+        <item quantity="one">%1$d ساعت و %2$d دقیقه</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_hour_time_text">
         <item quantity="other">%d ساعت باقی مانده است</item>
@@ -105,8 +105,8 @@
         <item quantity="one">%d دقیقه باقی مانده است</item>
     </plurals>
     <plurals name="keyguard_extreme_power_info_could_use_time_text">
-        <item quantity="other">"%1$d  ساعت و %2$d  دقیقه مانده است"</item>
-        <item quantity="one">"%1$d  ساعت و %2$d  دقیقه مانده است"</item>
+        <item quantity="other">%1$d ساعت و %2$d دقیقه مانده است</item>
+        <item quantity="one">%1$d ساعت و %2$d دقیقه مانده است</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">هم اکنون</item>

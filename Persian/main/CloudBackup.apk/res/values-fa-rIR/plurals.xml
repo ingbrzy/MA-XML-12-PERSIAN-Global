@@ -36,6 +36,10 @@
         <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">۱ دقیقه پیش</item>
     </plurals>
+    <plurals name="backup_action_long_time_not_backup_content">
+        <item quantity="other">به نظر می‌رسد موارد را به مدت %s هفته است پشتیبان‌گیری نکرده‌اید. برای جلوگیری از از دست دادن موارد مهم، نسخه‌های پشتیبان ایجاد کنید.</item>
+        <item quantity="one">به نظر می‌رسد موارد را به مدت %s هفته است پشتیبان‌گیری نکرده‌اید. برای جلوگیری از از دست دادن موارد مهم، نسخه‌های پشتیبان ایجاد کنید.</item>
+    </plurals>
     <plurals name="cloud_backup_detail_manage_summary">
         <item quantity="other">%1$s نسخه پشتیبان (%2$s)</item>
         <item quantity="one">%1$s نسخه پشتیبان (%2$s)</item>
@@ -72,16 +76,16 @@
         <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">۱ دقیقه پیش</item>
     </plurals>
-    <plurals name="restore_app_order_installed">
-        <item quantity="other">%d برنامه در این دستگاه</item>
-        <item quantity="one">%d برنامه در این دستگاه</item>
+    <plurals name="session_starting_app_count_backup_text">
+        <item quantity="other">%d برنامه پشتیبان‌گیری شدند</item>
+        <item quantity="one">%d برنامه پشتیبان‌گیری شد</item>
     </plurals>
-    <plurals name="restore_app_order_normal">
-        <item quantity="other">اولویت عادی: %d برنامه</item>
-        <item quantity="one">اولویت عادی: %d برنامه</item>
+    <plurals name="session_starting_app_count_restore_text">
+        <item quantity="other">%d برنامه بازیابی شدند</item>
+        <item quantity="one">%d برنامه بازیابی شد</item>
     </plurals>
-    <plurals name="restore_app_order_prior">
-        <item quantity="other">اولویت بالا: %d برنامه</item>
-        <item quantity="one">اولویت بالا: %d برنامه</item>
+    <plurals name="session_time_remain">
+        <item quantity="other">حدود %s دقیقه مانده است</item>
+        <item quantity="one">حدود %s دقیقه مانده است</item>
     </plurals>
 </resources>

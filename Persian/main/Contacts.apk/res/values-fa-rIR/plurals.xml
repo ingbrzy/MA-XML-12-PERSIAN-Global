@@ -168,6 +168,10 @@
         <item quantity="other">%d مورد انتخاب شد</item>
         <item quantity="one">%d مورد انتخاب شد</item>
     </plurals>
+    <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d تماس از دست رفته</item>
+        <item quantity="one">%d تماس از دست رفته</item>
+    </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d انتخاب شد</item>
         <item quantity="one">%1$d انتخاب شد</item>

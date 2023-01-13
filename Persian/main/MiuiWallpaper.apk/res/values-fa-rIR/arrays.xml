@@ -1,78 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alphabet_table">
-        <item>ا</item>
-        <item>ب</item>
-        <item>پ</item>
-        <item>ت</item>
-        <item>ث</item>
-        <item>ج</item>
-        <item>چ</item>
-        <item>ح</item>
-        <item>خ</item>
-        <item>د</item>
-        <item>ز</item>
-        <item>ذ</item>
-        <item>ر</item>
-        <item>ز</item>
-        <item>ژ</item>
-        <item>س</item>
-        <item>ش</item>
-        <item>ص</item>
-        <item>ض</item>
-        <item>ط</item>
-        <item>ظ</item>
-        <item>ع</item>
-        <item>غ</item>
-        <item>ف</item>
-        <item>ق</item>
-        <item>ک</item>
-        <item>گ</item>
-        <item>ل</item>
-        <item>م</item>
-        <item>ن</item>
-        <item>و</item>
-        <item>ه</item>
-        <item>ی</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="alphabet_table_with_starred">
-        <item>!</item>
-        <item>ا</item>
-        <item>ب</item>
-        <item>پ</item>
-        <item>ت</item>
-        <item>ث</item>
-        <item>ج</item>
-        <item>چ</item>
-        <item>ح</item>
-        <item>خ</item>
-        <item>د</item>
-        <item>ز</item>
-        <item>ذ</item>
-        <item>ر</item>
-        <item>ز</item>
-        <item>ژ</item>
-        <item>س</item>
-        <item>ش</item>
-        <item>ص</item>
-        <item>ض</item>
-        <item>ط</item>
-        <item>ظ</item>
-        <item>ع</item>
-        <item>غ</item>
-        <item>ف</item>
-        <item>ق</item>
-        <item>ک</item>
-        <item>گ</item>
-        <item>ل</item>
-        <item>م</item>
-        <item>ن</item>
-        <item>و</item>
-        <item>ه</item>
-        <item>ی</item>
-        <item>\#</item>
-    </string-array>
     <string-array name="settings_search_earth">
         <item>زمین</item>
         <item>تصاویر زمینه/تصاویر زمینه فوق‌العاده/زمین</item>
@@ -102,10 +29,5 @@
         <item>تصاویر زمینه فوق‌العاده</item>
         <item>تصاویر زمینه/تصاویر زمینه فوق‌العاده</item>
         <item>تصاویر زمینه فوق‌العاده;تصویر زمینه;تصویر زمینه پویا;تصویر زمینه سه بعدی</item>
-    </string-array>
-    <string-array name="settings_search_weather">
-        <item>آب و هوا</item>
-        <item>تصاویر زمینه/تصاویر زمینه فوق‌العاده/آب و هوا</item>
-        <item>آب و هوا؛اطلاعات هوا؛تصویر زمینه فوق‌العاده;تصویر زمینه</item>
     </string-array>
 </resources>

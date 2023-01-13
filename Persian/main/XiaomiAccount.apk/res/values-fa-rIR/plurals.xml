@@ -40,6 +40,10 @@
         <item quantity="other">%d نتیجه یافت شد</item>
         <item quantity="one">%d نتیجه یافت شد</item>
     </plurals>
+    <plurals name="family_service_member_count">
+        <item quantity="other">%d نفر</item>
+        <item quantity="one">%d نفر</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">نیم ساعت پیش</item>
         <item quantity="one">نیم ساعت پیش</item>

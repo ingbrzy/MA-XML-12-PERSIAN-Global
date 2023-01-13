@@ -25,9 +25,9 @@
     <string name="activate_phone_server_failed_notif_title">فعال‌سازی «%s» انجام نشد</string>
     <string name="activate_phone_server_success_notif_title">با موفقیت \"%s\" فعال شد</string>
     <string name="activate_phone_success_notif_title_sim">\"%2$s\" با استفاده از سیم‌کارت %1$d با موفقیت فعال شد</string>
-    <string name="activate_popup_confirm_all_gateway_failed_query_info">تلاش دوباره</string>
+    <string name="activate_popup_confirm_all_gateway_failed_query_info">دوباره تلاش کنید</string>
     <string name="activate_popup_confirm_all_gateway_failed_send_sms">تلاش دوباره</string>
-    <string name="activate_popup_confirm_error_device_id">تلاش دوباره</string>
+    <string name="activate_popup_confirm_error_device_id">دوباره تلاش کنید</string>
     <string name="activate_popup_confirm_failed_phone_error">تلاش دوباره</string>
     <string name="activate_popup_confirm_failed_query_info">ارسال دوباره</string>
     <string name="activate_popup_confirm_failed_receive_sms">تلاش دوباره</string>
@@ -99,7 +99,7 @@
     <string name="error_sim_not_in_service_tip">سیم‌کارت %d نمی‌تواند به شبکه متصل شود. مطمئن شوید سیم‌کارت به درستی کار می‌کند و سپس دوباره تلاش کنید.</string>
     <string name="error_sim_not_in_service_tip_one_sim">به شبکه متصل نمی‌شود. مطمئن شوید سیم‌کارت شما به درستی کار کرده و سپس دوباره تلاش کنید.</string>
     <string name="evening">بعد از ظهر</string>
-    <string name="explain_activate_register_xiaomi_account_title">ایحاد حساب Mi</string>
+    <string name="explain_activate_register_xiaomi_account_title">ایجاد حساب Mi</string>
     <string name="explain_activate_send_sms_permission_msg">برای فعال کردن %s، دستگاه شما برای ارسال پیامک فعال سازی نیاز به مجوز دارد. شرکت مخابراتی شما بابت این پیام هزینه را از شما دریافت خواهد کرد.</string>
     <string name="explain_send_sms_permission_button">تأیید</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -232,6 +232,7 @@
     <string name="saturday_shortest">شنبه</string>
     <string name="send">ارسال</string>
     <string name="sim_activate_failed">خدمات فعال نشد</string>
+    <string name="sim_activate_notificat_channel">اعلان‌های فعال‌سازی</string>
     <string name="sim_activate_prepare">فعال‌سازی خدمات</string>
     <string name="sim_activated_failed_msg">خدمات فعال نشد. برای تلاش دوباره، ضربه بزنید.</string>
     <string name="sim_unactivated_feature_title">\"%s\" فعال نشده است</string>

@@ -38,6 +38,7 @@
     <string name="australian_magpie">Australian magpie</string>
     <string name="authorization_btn_text">آغاز</string>
     <string name="authorization_tips">نیازمند مجوز است</string>
+    <string name="avalible_per_day">مدت دوره</string>
     <string name="baboon_info">The olive baboon lives in groups with developed social ranking depending on the dominance of each individual.</string>
     <string name="back">بازگشت</string>
     <string name="bear_info">Bears are the largest land carnivores. They live in cold regions and are known for their keen sense of smell.</string>
@@ -87,6 +88,9 @@
     <string name="canada_goose">Canada goose</string>
     <string name="capybara">Capybara</string>
     <string name="capybara_info">Capybaras are semiaquatic herbivore rodents who can hold their breath underwater for up to five minutes at a time.</string>
+    <string name="category_limit_notify_title">هشدار مدت استفاده از نمایشگر</string>
+    <string name="category_list_expand">بیشتر</string>
+    <string name="category_list_packup">پنهان کردن</string>
     <string name="category_other">سایر</string>
     <string name="chacma_baboon">Chacma baboon</string>
     <string name="cheetah">Cheetah</string>
@@ -98,11 +102,14 @@
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
     <string name="click_to_save">Tap \"Done\" to set a general ringtone.</string>
     <string name="close">بستن</string>
+    <string name="closed_high_refresh_options">اپ هایی که از سرعت رفرش بالایی استفاده نمی کنند</string>
     <string name="color_gamut">طیف رنگ</string>
     <string name="common_brushtail">Brushtail possum</string>
     <string name="common_ostrich">Ostrich</string>
+    <string name="compulsor_tip">صفحه اصلی</string>
     <string name="contact_description">برقراری تماس با زدن روی میان‌بر صفحه اصلی</string>
     <string name="contact_title">میان‌برهای مخاطبین</string>
+    <string name="continue_time">مدت دوره</string>
     <string name="contrast_ratio">کنتراست</string>
     <string name="control_center_title">مدت استفاده از نمایشگر امروز</string>
     <string name="control_center_title_new">مصرف شده امروز</string>
@@ -113,6 +120,8 @@
     <string name="created_successfully">با موفقیت ایجاد شد</string>
     <string name="crowned_hornbill">Crowned hornbill</string>
     <string name="cu_confirm">تنظیم</string>
+    <string name="customize_high_refresh_summary">این قابلیت از سرعت رفرش تا %d هرتز پشتیبانی می کند. سرعت رفرش مناسب به صورت خودکار بر اساس تنظیمات مورد نظر تعیین می شود.</string>
+    <string name="customize_high_refresh_title">اپ هایی که از سرعت رفرش بالایی استفاده می کنند</string>
     <string name="customize_radio_btn_summary">ترجیح نرخ تازه‌سازی انتخاب شده</string>
     <string name="customize_radio_btn_title">سفارشی</string>
     <string name="dall_sheep">Dall sheep</string>
@@ -136,6 +145,8 @@
     <string name="desktop_widget_not_support">"آمار مدت استفاده از نمایشگر
 در فضای دوم ایجاد نمی‌شود"</string>
     <string name="desktop_widget_screen_use_time">مدت استفاده از نمایشگر</string>
+    <string name="device_limit_enable">روشن</string>
+    <string name="device_limit_un_enable">خاموش</string>
     <string name="display_description">بزرگ‌تر کردن آیکون‌ها، متن بزرگ‌تر، درهم ریختگی دیداری کمتر</string>
     <string name="display_title">بزرگ‌تر کردن موارد</string>
     <string name="dynamic_ringtone_desc">"We've explored different ecosystems and recreated their distinct sounds. Start exploring the sounds of nature with us!"</string>
@@ -214,7 +225,11 @@
     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d تا %d دقیقه</string>
     <string name="focus_mode_timer_pick_dialog_title">وارد کردن مدت</string>
     <string name="focus_time_exception_tip">به نظر می‌رسد زمان سیستم تغییر کرده است. حالت تمرکز خاموش شد.</string>
+    <string name="follow_apps_settings">بر اساس تنظیمات اپ</string>
     <string name="follow_sim1">به‌کارگیری تنظیمات سیم‌کارت ۱</string>
+    <string name="force_rest">استفاده از استراحت دوره</string>
+    <string name="force_rest_summary">استراحت‌های اجباری هنگامی که دوره به سقف تنظیم شده می‌رسد</string>
+    <string name="force_rest_time">مدت استراحت</string>
     <string name="fps_high">بالا</string>
     <string name="fps_nature_summary">نرخ تازه‌سازی حداکثر همه چیز را واضح و روشن نگه می‌دارد</string>
     <string name="fps_nature_title">حداکثر</string>
@@ -247,6 +262,16 @@
     <string name="green_peafowl">Green peafowl</string>
     <string name="green_warbler_finch">Green warbler-finch</string>
     <string name="grey_headed_flying_fox">Grey-headed flying fox</string>
+    <string name="guard_item_app_summary">حذف برنامه‌ها از راه دور</string>
+    <string name="guard_item_app_title">مدیریت برنامه‌ها</string>
+    <string name="guard_item_browser_summary">کنترل دسترسی به برنامه‌ها و محتواها</string>
+    <string name="guard_item_browser_title">محدودیت‌ها</string>
+    <string name="guard_item_call_summary">اجازه داده به مخاطبین خاص برای برقراری تماس‌ها</string>
+    <string name="guard_item_call_title">ارتباطات</string>
+    <string name="guard_item_eye_protect_summary">نظارت بر وضعیت</string>
+    <string name="guard_item_eye_protect_title">راحتی چشم</string>
+    <string name="guard_range_from">از</string>
+    <string name="guard_range_to">تا</string>
     <string name="harp_seal">Harp seal</string>
     <string name="harpy_eagle">Harpy eagle</string>
     <string name="has_applied">Applied</string>
@@ -254,11 +279,14 @@
     <string name="helmeted_guineafowl">Guineafowl</string>
     <string name="high_fps_description">نرخ تازه‌سازی صفحه بالا. مصرف برق بیشتر.</string>
     <string name="high_fps_tip_footer">استفاده از نرخ تازه‌سازی بالاتر تجربه دیدن را روان‌تر می‌کند، اما مصرف برق را افزایش می‌دهد.</string>
+    <string name="high_refresh_options_title">اپ های تحت پشتیبانی</string>
     <string name="hippopotamus">Hippo</string>
+    <string name="holiday_limit">روزهای تعطیل</string>
     <string name="hsv_space_color">فضای رنگی HSV</string>
     <string name="hsv_space_color_hue">فام</string>
     <string name="hsv_space_color_saturation">اشباع</string>
     <string name="hsv_space_color_value">درخشندگی</string>
+    <string name="in_forbidden_period">استفاده محدود شده است</string>
     <string name="intelligent_radio_btn_summary">تنظیم پویای نرخ تازه‌سازی بر اساس موقعیت‌های مختلف به منظور تعادل کارایی با مصرف برق</string>
     <string name="intelligent_radio_btn_title">پیش‌فرض (پیشنهاد شده)</string>
     <string name="intelligent_recognition_item_summary">استفاده از یک صدای زنگ مشخص برای تماس‌ها از سوی خدمات دهندگان تحویل بسته و تاکسی. این ویژگی هنگامی که %s به عنوان زنگ پیش‌فرض شما باشد کار خواهد کرد.</string>
@@ -299,6 +327,7 @@
     <string name="less_than_one">&lt; %d</string>
     <string name="lion">Lion</string>
     <string name="lion_info">Lions are fierce and powerful predators. They live in groups and have a strong sense of territory.</string>
+    <string name="loading_error">موارد بارگذاری نشدند</string>
     <string name="lock_summary">از اطلاعات شخصی حود محافظت کنید</string>
     <string name="long_tai1ed_iaeger">Long-tailed jaeger</string>
     <string name="low_flicker_mode">کم نور</string>
@@ -398,6 +427,8 @@
     <string name="nature_mix_summary">Create a custom mix</string>
     <string name="nazca_booby">Nazca booby</string>
     <string name="network_error">یک خطای شبکه رخ داد. دوباره تلاش کنید.</string>
+    <string name="new_customize_high_refresh_title">سرعت رفرش بالا</string>
+    <string name="next_day">"(روز بعدی) "</string>
     <string name="night">شب</string>
     <string name="nine_banded_armadillo">Armadillo</string>
     <string name="no_matching">برنامه‌ای برای باز کردن این پیوند یافت نشد</string>
@@ -412,6 +443,7 @@
     <string name="notification_sound">صداهای اعلان</string>
     <string name="ocelot">Ocelot</string>
     <string name="olive_baboon">Olive baboon</string>
+    <string name="opened_high_refresh_options">اپ هایی که از سرعت رفرش بالایی استفاده می کنند</string>
     <string name="orange_winged_amazon">Orange-winged amazon</string>
     <string name="orca">Killer whale</string>
     <string name="ostrich_info">Ostriches are large flightless birds of Africa who lay the largest eggs of any living land animal.</string>
@@ -476,6 +508,7 @@
     <string name="sea_otter">Sea otter</string>
     <string name="seal_info">Seals are marine mammals that can move quickly in deep waters, feeding on fish and shrimps.</string>
     <string name="search_app_name">جستجوی برنامه</string>
+    <string name="search_app_tips">جستجوی اپ ها</string>
     <string name="search_empty">برنامه‌ای یافت نشد</string>
     <string name="send">ارسال</string>
     <string name="service_ringtone_title">زنگ مخصوص خدمات</string>
@@ -486,6 +519,13 @@
     <string name="silver_pheasant">Silver pheasant</string>
     <string name="sim_slot_1">" (سیم‌کارت ۱)"</string>
     <string name="sim_slot_2">" (سیم‌کارت ۲)"</string>
+    <string name="size_byte">بایت</string>
+    <string name="size_giga_byte">گیگابایت</string>
+    <string name="size_kilo_byte">کیلوبایت</string>
+    <string name="size_mega_byte">مگابایت</string>
+    <string name="size_peta_byte">پتابایت</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">ترابایت</string>
     <string name="skywalker_hoolock_gibbon">Skywalker hoolock gibbon</string>
     <string name="small_ground_finch">Small ground finch</string>
     <string name="sms_delivered_sound_title">پیام رسیده</string>
@@ -505,6 +545,8 @@
     <string name="steady_on_screen_notification_title">گوشی خود را زمین گذاشته و کمی استراحت کنید</string>
     <string name="steady_on_screen_notification_title_pad">دستگاه خود را زمین گذاشته و کمی استراحت کنید</string>
     <string name="steady_on_screen_notify">اعلام درباره مصرف بی‌وقفه</string>
+    <string name="steady_on_screen_notify_new">استراحتی داشته باشید</string>
+    <string name="steady_on_screen_ntf_msg">همه ویژگی‌ها دوباره در %1$s در دسترس خواهند بود</string>
     <string name="steady_on_screen_setting">محدودیت زمانی برای دوره‌های بی‌وقفه</string>
     <string name="steady_on_screen_summary">محدودیت زمانی برای دوره‌های بی‌وقفه</string>
     <string name="stop_app_timer">خاموش کردن مدت استفاده از نمایشگر</string>
@@ -564,6 +606,12 @@
     <string name="thursday">پنج‌شنبه</string>
     <string name="thursday_short">پنج‌شنبه</string>
     <string name="thursday_shortest">پنج‌شنبه</string>
+    <string name="time_over_back_home">صفحه اصلی</string>
+    <string name="time_over_delayed_use">نادیده گرفتن</string>
+    <string name="time_over_not_delayed_use">متوجه‌ام</string>
+    <string name="time_over_today">"زمانی برای امروز
+باقی نمانده"</string>
+    <string name="time_over_today_use">"دوره‌های امروز: "</string>
     <string name="time_picker_dialog_title">تنظیم زمان</string>
     <string name="time_picker_label_hour">ساعت</string>
     <string name="time_picker_label_minute">دقیقه</string>
@@ -592,11 +640,12 @@
     <string name="tuesday_shortest">سه‌شنبه</string>
     <string name="two_toed_sloths">Two-toed sloth</string>
     <string name="two_toed_sloths_info">Two-toed sloths can easily travel from tree to tree in the canopies of the rainforests.</string>
+    <string name="unavailable_per_day">استراحت‌ها</string>
     <string name="unlock_times_per_day">"میانگین روزانه: "</string>
     <string name="unlock_times_per_hour">"گشودن قفل در هر ساعت: "</string>
     <string name="usage_agree">پذیرفتن</string>
     <string name="usage_app_desktop_widget_limit">%s دیگر باقی مانده است</string>
-    <string name="usage_app_get_it">فهمیدم</string>
+    <string name="usage_app_get_it">متوجه‌ام</string>
     <string name="usage_app_holiday_limit">روزهای تعطیل</string>
     <string name="usage_app_limit_alter_summary">به نظر می‌رسد این محدودیت زمان کوتاه‌تر از مدت زمانی است که امروز از این برنامه استفاده کرده‌اید. در هر صورت محدودیت تنظیم شود؟</string>
     <string name="usage_app_limit_alter_title">زمان محدودیت نمایشگر را بررسی کنید</string>
@@ -627,8 +676,10 @@
     <string name="usage_device_limit_app_prolong_time3">افزودن ۶۰ دقیقه</string>
     <string name="usage_device_limit_app_prolong_time4">امروز محدود نشود</string>
     <string name="usage_device_limit_app_prolong_time5">یک بار زمان اضافه کنید</string>
+    <string name="usage_device_limit_forbidden_period">استفاده بین %1$s و %2$s محدود شده است</string>
     <string name="usage_device_limit_notifation_summary_start">تا %1$s دیگر به محدودیت زمانی خود نزدیک می‌شوید</string>
     <string name="usage_device_limit_notifation_title">زمان باقی‌مانده امروز</string>
+    <string name="usage_device_limit_start_forbidden_period">استفاده بین %1$s و %2$s محدود خواهد شد (%3$s باقی مانده)</string>
     <string name="usage_device_limit_time_over">شما به محدودیت زمانی امروز خود رسیدید (%1$s)</string>
     <string name="usage_exit">خروج</string>
     <string name="usage_focus_focus_premission_main_summary">این برنامه به منظور ضبط آمار استفاده حالت متمرکز نیاز به دسترسی به اطلاعات حساب شما دارد.</string>
@@ -660,6 +711,8 @@
     <string name="usage_home_premission_second_summary_double_link_prefix">ما بر اساس قوانین و مقررات مربوطه و سیاست‌های حفظ حریم خصوصی از اطلاعات شخصی شما محافظت می‌کنیم. در صورت نپذیرفتن دادن چنین مجوزهایی یا هم‌رسانی و بارگذاری اطلاعات شخصی خود، دیگر نمی‌توانید از این برنامه استفاده کنید. در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این برنامه استفاده کنید. شما می‌توانید در مدت استفاده از نمایشگر > تنظیمات > خاموش کردن مدت استفاده از نمایشگر مجوز داده شده خود را باطل کنید.</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>پیش از استفاده از این برنامه، &lt;a href='%1s'>توافق‌نامه کاربر&lt;/a> و &lt;a href='%2s'>سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.&lt;/Data>"</string>
     <string name="usage_home_premission_second_summary_new">ما بر اساس قوانین و مقررات مربوطه و سیاست‌های حفظ حریم خصوصی از اطلاعات شخصی شما محافظت می‌کنیم.در صورت نپذیرفتن دادن چنین مجوزهایی یا هم‌رسانی و بارگذاری اطلاعات شخصی خود، دیگر نمی‌توانید از این برنامه استفاده کنید. در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این برنامه استفاده کنید. شما می‌توانید در مدت استفاده از نمایشگر > تنظیمات > خاموش کردن مدت استفاده از نمایشگر مجوز داده شده خود را باطل کنید. در صورت داشتن هرگونه پرسش درباره حریم خصوصی، می‌توانید با ما به نشانی privacy@xiaomi.com تماس بگیرید.</string>
+    <string name="usage_new_category_limit_summary">تنظیم سقف استفاده روزانه برای همه برنامه‌های این دسته‌بندی</string>
+    <string name="usage_new_category_limit_title">محدود کردن استفاده برای دسته‌بندی برنامه‌ها</string>
     <string name="usage_new_home_app_limit_summary">تنظیم یک محدودیت زمانی روزانه برای این برنامه</string>
     <string name="usage_new_home_app_limit_title">محدود کردن زمان استفاده از نمایشگر</string>
     <string name="usage_new_home_average">"میانگین "</string>
@@ -862,7 +915,7 @@
     <string name="usagestats_device_notification_title">هشدار مدت استفاده از نمایشگر</string>
     <string name="usagestats_device_timeout_des">امروز به مدت %1$d ساعت و %2$d دقیقه از دستگاه استفاده کرده‌اید. کمی استراحت کنید!</string>
     <string name="usagestats_device_timeout_negative">۱ ساعت دیگر یادآوری شود</string>
-    <string name="usagestats_device_timeout_positive">فهمیدم</string>
+    <string name="usagestats_device_timeout_positive">متوجه‌ام</string>
     <string name="usagestats_device_timeout_title">هشدار مدت استفاده از نمایشگر</string>
     <string name="vampire_finch">Vampire ground finch</string>
     <string name="vervet_monkey">Green monkey</string>
@@ -881,6 +934,7 @@
     <string name="willow_grouse_info">The willow ptarmigan is herbivorous for most of its life and primarily occupies subalpine and subarctic habitats.</string>
     <string name="wolf">Wolf</string>
     <string name="wombat">Wombat</string>
+    <string name="workday_limit">روزهای کاری</string>
     <string name="yellow_necked_spurfowl">Yellow-necked spurfowl</string>
     <string name="yellow_throated_marten">Yellow-throated marten</string>
     <string name="yesterday">دیروز</string>

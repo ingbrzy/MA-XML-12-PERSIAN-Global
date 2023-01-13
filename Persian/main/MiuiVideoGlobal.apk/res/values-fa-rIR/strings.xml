@@ -36,6 +36,10 @@
     <string name="account_user_phone">تلفن بازیابی</string>
     <string name="account_user_region">منطقه</string>
     <string name="action_add_phone">افزودن شماره تلفن</string>
+    <string name="action_setting_ab_playing">در حال تکرار…</string>
+    <string name="action_setting_ab_reset">تنظیم دوباره</string>
+    <string name="action_setting_ab_set_end">انتخاب نقطه پایان</string>
+    <string name="action_setting_ab_set_start">انتخاب نقطه آغاز</string>
     <string name="action_update_phone">تغییر شماره تلفن</string>
     <string name="actionbar_button_up_description">بازگشت</string>
     <string name="activate_email_notice">مطمئن شوید که حساب خود را ظرف ۲۴ ساعت فعال می‌کنید</string>
@@ -107,6 +111,7 @@
     <string name="cloud_online_player">پخش کننده</string>
     <string name="cloud_online_switch">پیشنهادات شخصی‌سازی شده</string>
     <string name="cloud_online_switch_open_time">نمایش پیشنهادات محتوای شخصی‌سازی شده</string>
+    <string name="cmp_tier_privacy_policy">سیاست حفظ حریم خصوصی سوم‌شخص</string>
     <string name="collect_diagnosis_log">جمع‌آوری رخدادها</string>
     <string name="columbus_ad_flag_text">آگهی</string>
     <string name="columbus_skip_ad">رد شدن</string>
@@ -175,8 +180,11 @@
     <string name="dialog_clearn_title">پاک کردن تاریخچه</string>
     <string name="dialog_confirm">تأیید</string>
     <string name="dialog_delete_bookmarks_content">نشانک حذف شود؟</string>
+    <string name="dialog_disagree_continue">ادامه</string>
+    <string name="dialog_disagree_info">در صورت نپذیرفتن سیاست حفظ حریم خصوصی ویدئوی Mi، دیگر نمی‌توانید از خدمات آنلاین ما استفاده کرده و فقط امکان تماشای ویدئوهای ذخیره در دستگاه خود را دارید. در هر صورت ادامه یابد؟</string>
     <string name="dialog_disagree_privacychange_info">چنانچه با سیاست حفظ حریم خصوصی ما موافقت نکنید، نمی‌توانید از خدمات پخش آنلاین ویدئوی Mi استفاده کنید. برای بازگشت به «لغو» ضربه زده یا برای ادامه از «مخالف» استفاده کنید و از ویدئوی Mi فقط به عنوان پخش‌کننده محلی استفاده کنید.</string>
     <string name="dialog_disagree_privacychange_title">مخالف؟</string>
+    <string name="dialog_disagree_title">سیاست حفظ حریم خصوصی</string>
     <string name="dialog_edit_bookmarks">ویرایش نشانک</string>
     <string name="dialog_edit_hint_bookmarks_name">نام نشانک</string>
     <string name="dialog_edit_hint_bookmarks_url">پیوند</string>
@@ -236,7 +244,6 @@
     <string name="download_paused">مکث شد</string>
     <string name="download_pending">در حال بررسی…</string>
     <string name="download_power_off_tips">این قابلیت اکنون در دسترس نیست</string>
-    <string name="download_progress">%%%d</string>
     <string name="download_retry">تلاش دوباره</string>
     <string name="download_unable_tip">این مورد دانلود نمی‌شود</string>
     <string name="download_video">دانلود ویدئو</string>
@@ -256,6 +263,7 @@
     <string name="failed_dup_secure_phone_number">این شماره تلفن در حال حاضر با یک حساب Mi دیگر مرتبط است</string>
     <string name="failed_to_fetch_data">اطلاعات بارگذاری نشد.</string>
     <string name="failure">دانلود نشد</string>
+    <string name="fast_channel_popular">کانال‌های پرطرفدار</string>
     <string name="favor_movie">فیلم</string>
     <string name="favor_online_video">ویدئوها</string>
     <string name="favor_playlist">فهرست پخش</string>
@@ -265,6 +273,18 @@
     <string name="favorite_fail">موارد پسندیده افزوده نشد. دوباره تلاش کنید.</string>
     <string name="favorite_success">با موفقیت به موارد پسندیده افزوده شد</string>
     <string name="fcm_push_title">ویدئوهای پرطرفدار</string>
+    <string name="fcmpts_dialog_continue">تماشا</string>
+    <string name="fcmpts_dialog_not_interested">خیر، سپاسگزارم</string>
+    <string name="fcmpts_dialog_two" formatted="false">با تماشای %d ثانیه بیشتر از %d ویدئو دیگر، یک کوپن فروشگاه Mi به دست آورید</string>
+    <string name="fcmpts_popup_final">با موفقیت برداشت شد! برای خرج کردن جوایز ضربه بزنید.</string>
+    <string name="fcmpts_popup_final_redeem">خرج کردن</string>
+    <string name="fcmpts_popup_four" formatted="false">با موفقیت برداشت شد! با تماشای %d ثانیه از %d ویدئو دیگر، یک کوپن فروشگاه Mi به دست آورید.</string>
+    <string name="fcmpts_popup_one" formatted="false">با تماشای %d ویدئوی امروز، %d امتیاز کوپن فروشگاه Mi به دست آورید</string>
+    <string name="fcmpts_popup_one_cts">تماشا</string>
+    <string name="fcmpts_popup_three" formatted="false">%d ثانیه تماشا کردید. شما %d امتیاز به دست آوردید!</string>
+    <string name="fcmpts_popup_three_claim">برداشت</string>
+    <string name="fcmpts_popup_three_login_claim">ورود به سیستم</string>
+    <string name="fcmpts_popup_two" formatted="false">با تماشای این ویدئو به مدت %d ثانیه، %d امتیاز به دست آورید</string>
     <string name="feedback">بازخورد</string>
     <string name="feedback_activity_title">بازخورد</string>
     <string name="feedback_contact_empty">اطلاعات تماس خود را وارد کنید</string>
@@ -899,6 +919,7 @@
     <string name="online_play_start_ready_loading_tip_kb">درحال بارگیری %.2f ک.ب/ث</string>
     <string name="online_play_start_ready_loading_tip_mb">درحال بارگیری %.2f م.ب/ث</string>
     <string name="online_play_title">پیوند را وارد کنید</string>
+    <string name="order_alphabet">به ترتیب حروف الفبا</string>
     <string name="order_recently_subscribe">اشتراک‌های تازه</string>
     <string name="order_recently_updated">به‌تازگی به‌روز شده</string>
     <string name="out_of_memory_background_playback_is_suspended">پخش پس‌زمینه به دلیل کمبود حافظه به صورت موقت متوقف شد</string>
@@ -1249,6 +1270,7 @@
     <string name="plus_shortcut_existed">این میان‌بر از پیش وجود دارد</string>
     <string name="plus_sort_title">چینش</string>
     <string name="plus_sort_type_default">پیش‌فرض</string>
+    <string name="plus_sort_type_duration">طول</string>
     <string name="plus_sort_type_name">نام</string>
     <string name="plus_sort_type_size">اندازه</string>
     <string name="plus_sort_type_time">زمان</string>
@@ -1293,6 +1315,7 @@
     <string name="recommend_online_switch">پیشنهادات آنلاین</string>
     <string name="recommend_online_tips">روشن کرده تا ویدئوهای پیشنهادی آنلاین دریافت کنید</string>
     <string name="recommend_page_replay">بازپخش</string>
+    <string name="recommend_slide_to_more">برای موارد بیشتر بکشید</string>
     <string name="recommend_switch_alert">برای حذف این بخش، وارد تنظیمات ویدئوی Mi شوید</string>
     <string name="recommend_to_you">پیشنهاد شده به شما</string>
     <string name="reload_sub_title">برای تلاش دوباره ضربه بزنید.</string>
@@ -1517,12 +1540,14 @@
     <string name="tip_subscribe_guide_hint_a">تولیدکنندگان از اشتراک‌های Google خود را ببینید</string>
     <string name="tip_subscribe_guide_hint_b">به‌روزرسانی‌های کانال‌های YouTube که مشترک آن‌ها شده‌اید را تماشا کرده تا تبلیغ حذف شود</string>
     <string name="tip_tap_download_button">%d. روی «دانلود» بزنید</string>
+    <string name="title_ab_loop">تکرار A-B</string>
     <string name="title_bookmarks">نشانک‌ها</string>
     <string name="title_continue_to_borwser">باز کردن در مرورگر</string>
     <string name="title_download_setting">تنظیمات دانلود</string>
     <string name="title_history">تاریخچه</string>
     <string name="title_mangotv_history_sub" formatted="false">%s (قسمت %d)</string>
     <string name="title_mangotv_subtitle_language">زبان زیرنویس</string>
+    <string name="title_more_wonderful_smallvideo">ویدئوی کوتاه بیشتر</string>
     <string name="title_publisher">سازندگان</string>
     <string name="title_select_directory">انتخاب پوشه</string>
     <string name="title_selected">انتخاب شده</string>
@@ -1653,6 +1678,11 @@
     <string name="welcome_tip_into_mivideo">آغاز</string>
     <string name="welcome_tip_skip">رد کردن</string>
     <string name="welcome_tip_title">به ویدئوی Mi خوش آمدید</string>
+    <string name="widget_add_dialog_button_add">افزودن</string>
+    <string name="widget_add_dialog_button_cancel">لغو</string>
+    <string name="widget_add_dialog_desc_local">با این ابزارک، شما می‌توانید فایل‌های صوتی و ویدئویی ذخیره در دستگاه خود را با یک ضربه از صفحه اصلی خود پخش کنید. افزوده شود؟</string>
+    <string name="widget_add_dialog_desc_online">با استفاده از این ابزارک، می‌توانید ویدئوهای پر طرفدار امروز را با یک ضربه از صفحه اصلی خود تماشا کنید. اضافه شود؟</string>
+    <string name="widget_add_dialog_title">افزودن ابزارک</string>
     <string name="widget_local_video">ویدئوهای محلی</string>
     <string name="widget_local_video_click">برای تماشای ویدئوهای ذخیره شده در دستگاه خود ضربه بزنید</string>
     <string name="widget_more_channel">کانال‌های بیشتر</string>

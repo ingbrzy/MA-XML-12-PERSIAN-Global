@@ -14,6 +14,5 @@
     <string name="debug_tool_message">شما در حال 1) ایجاد یک کپی از پایگاه داده تقویم خود در کارت SD/حافظهٔ USB که توسط هر برنامه‌ای قابل خواندن است و 2) ایمیل کردن آن هستید. به خاطر داشته باشید که بلافاصله پس از کپی کردن آن از دستگاه یا دریافت ایمیل، آن را حذف کنید.</string>
     <string name="debug_tool_start_button">شروع</string>
     <string name="provider_label">تقویم</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="upgrade_msg">ارتقاء پایگاه داده تقویم.</string>
 </resources>

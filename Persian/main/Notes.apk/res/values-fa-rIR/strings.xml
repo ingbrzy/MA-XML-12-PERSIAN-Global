@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="access_denied_info">تلاش‌ها بیش از اندازه هستند. چند دقیقه صبر کرده سپس دوباره تلاش کنید.</string>
+    <string name="access_photos_and_videos">دسترسی به عکس‌ها و ویدئوها</string>
     <string name="action_collapse">پنهان کردن</string>
     <string name="action_expand">نمایش بیشتر</string>
     <string name="action_folder_description">مشاهده پوشه‌ها</string>
@@ -14,7 +15,7 @@
     <string name="actionbar_button_up_description">بازگشت</string>
     <string name="actionbar_close_description">بستن</string>
     <string name="actionbar_home_description">بازگشت</string>
-    <string name="add_account_desc">یادداشت‌های خود را با حساب Mi خود همگام‌سازی می‌کنید؟</string>
+    <string name="add_account_desc">یادداشت‌ها با حساب Xiaomi شما همگام‌سازی شوند؟</string>
     <string name="afternoon">بعد از ظهر</string>
     <string name="alarm_bar_title">یادآوری</string>
     <string name="alert_action_edit_anyway">به ویرایش ادامه دهید</string>
@@ -34,6 +35,9 @@
     <string name="app_name">یادداشت‌ها</string>
     <string name="app_notification_info">یادداشت‌ها درحال کارکردن در پس‌زمینه هستند</string>
     <string name="app_widget">یادداشت‌ها</string>
+    <string name="app_widget_name_create_note">ایجاد یادداشت</string>
+    <string name="app_widget_name_create_todo">ایجاد کار</string>
+    <string name="app_widget_name_fast_entry">میانبرها</string>
     <string name="app_widget_name_new">یادداشت‌ها</string>
     <string name="application_icon">آیکون برنامه</string>
     <string name="audio_btn_mode_meeting">ملاقات</string>
@@ -161,7 +165,7 @@
     <string name="empty_folder_import_notes">وارد کردن یادداشت‌ها</string>
     <string name="empty_folder_no_notes">هیچ یادداشتی اینجا نیست</string>
     <string name="enable_sync">همگام‌سازی</string>
-    <string name="enable_sync_desc">یادداشت‌ها با حساب Mi شما (%1$s) همگام‌سازی شوند؟</string>
+    <string name="enable_sync_desc">یادداشت‌ها با حساب Xiaomi شما (%1$s) همگام‌سازی شوند؟</string>
     <string name="eras_ad">میلادی</string>
     <string name="eras_bc">پیش از میلاد</string>
     <string name="error_contact_not_exist">مخاطب وجود ندارد</string>
@@ -451,6 +455,7 @@
     <string name="new_audio_create_guide_tip">برای ایجاد یادداشت صوتی فشرده و نگه دارید</string>
     <string name="new_audio_create_talkback_des">برای ایجاد یک یادداشت متنی ضربه بزنید. برای ایجاد یادداشت صوتی فشرده و نگه دارید. انگشت خود را برداشته تا ضبط کردن متوقف شده و یادداشت ایجاد شود و برای لغو آن به سمت بالا بکشید.</string>
     <string name="new_data_empty_note">هنوز موردی اینجا نیست</string>
+    <string name="new_lite_audio_create_talkback_des">برای ایجاد یادداشت ضربه بزنید</string>
     <string name="night">شب</string>
     <string name="no_network">به شبکه متصل نشد</string>
     <string name="noon">ظهر</string>
@@ -481,6 +486,7 @@
     <string name="note_write_hint">نوشتن را آغاز کنید</string>
     <string name="notealert_enter">بازکردن یادداشت</string>
     <string name="notealert_ok">نادیده گرفتن</string>
+    <string name="notelist_string_info">…</string>
     <string name="notes_description_content">یادداشت‌ها یک برنامه‌ی سیستمی است. پس از حذف برنامه دیگر نمی‌توانید از آن استفاده کنید.</string>
     <string name="notes_description_title">یادداشت‌ها حذف شود؟</string>
     <string name="notification_content_add_todo_from_other_app">یک کار جدید افزودید. برای نمایش ضربه بزنید.</string>
@@ -540,6 +546,8 @@
     <string name="permission_microphone_desc">برای ذخیره یادداشت‌های صوتی</string>
     <string name="permission_network_for_cloud_desc">برای همگام‌سازی یادداشت‌ها با فضای ابری لازم است تا به اینترنت متصل شوید. ممکن است برای همگام‌سازی موارد به اینترنت همراه نیاز باشد. متصل شود؟</string>
     <string name="permission_phone_state_desc">برای توقف ضبط یادداشت‌های صوتی هنگام تماس</string>
+    <string name="permission_photos_desc">برای افزودن تصاویر به یادداشت‌ها</string>
+    <string name="permission_photos_desc_pad">برای افزودن تصاویر به یادداشت‌ها</string>
     <string name="permission_read_contact_desc">مرتبط کردن یادداشت‌های ساخته شده هنگام تماس‌ها با مخاطبین</string>
     <string name="permission_storage_desc">برای ذخیره یادداشت‌ها به صورت تصویر</string>
     <string name="permission_storage_desc_new_v12">برای افزودن تصاویر به یادداشت‌ها و ذخیره یادداشت‌ها به عنوان تصویر</string>
@@ -640,6 +648,7 @@
     <string name="search_setting_description">در یادداشت خود، متن را جستجو کنید</string>
     <string name="select_account_prompt">همگام‌سازی یادداشت‌ها</string>
     <string name="send">ارسال</string>
+    <string name="send_notifications_for_reminder">برای ارسال یادآوری‌ها</string>
     <string name="set_alarm_description">تنظیم هشدار</string>
     <string name="setting_big_screen_layout_columns">نوار کناری</string>
     <string name="setting_big_screen_layout_flat">آجر کاشی</string>
@@ -781,6 +790,7 @@
 به یادداشت‌ها اجازه خواندن محتوای کارت SD را بدهید."</string>
     <string name="toast_refuse_to_use_phone_state">"مجوزهای تلفن محدود شده‌اند.
 به یادداشت‌ها اجازه خواندن وضعیت و هویت تلفن را بدهید."</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt">به این برنامه اجازه دسترسی به عکس‌های خود را داده تا بتواند تصاویر را به یادداشت‌های شما اضافه کند</string>
     <string name="toast_refuse_to_use_record_audio">"مجوزهای میکروفن محدود شده‌اند.
 به یادداشت‌ها اجازه ضبط صدا را بدهید."</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">به یادداشت‌ها اجازه دسترسی به حافظه را داده تا بتوانند تصاویر را به یادداشت‌های شما اضافه کنند</string>
@@ -885,6 +895,9 @@
     <string name="wednesday">چهارشنبه</string>
     <string name="wednesday_short">چهارشنبه</string>
     <string name="wednesday_shortest">چهارشنبه</string>
+    <string name="widget_all_notes_name">همه یادداشت‌ها</string>
+    <string name="widget_all_todo_name">همه کارها</string>
+    <string name="widget_click_check">برای مشاهده ضربه بزنید</string>
     <string name="widget_content_loading">چند لحظه صبر کنید…</string>
     <string name="widget_create_select_size">انتخاب سایز</string>
     <string name="widget_empty_content">برای انتخاب یادداشت ضربه بزنید</string>
@@ -901,5 +914,7 @@
     <string name="widget_size_item_super_big">خیلی بزرگ</string>
     <string name="widget_size_not_support">ابزارک‌های خیلی بزرگ در این دستگاه پشتیبانی نمی‌شوند</string>
     <string name="widget_take_notes_title">یادداشت‌ها</string>
+    <string name="widget_total_notes">%1$d</string>
+    <string name="widget_total_todo">%1$d</string>
     <string name="yesterday">دیروز</string>
 </resources>

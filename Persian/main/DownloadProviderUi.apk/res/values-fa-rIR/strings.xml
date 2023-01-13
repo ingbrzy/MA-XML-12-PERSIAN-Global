@@ -36,8 +36,10 @@
     <string name="date_time_picker_dialog_title">تنظیم تاریخ و ساعت</string>
     <string name="delete_download">حذف</string>
     <string name="dialog_btn_cancel">لغو</string>
+    <string name="dialog_btn_force_download">دانلود</string>
     <string name="dialog_btn_ok">تأیید</string>
     <string name="dialog_btn_ok_disabled_net">تنطیمات شبکه</string>
+    <string name="dialog_btn_wait_wifi">منتظر Wi-Fi می‌مانم</string>
     <string name="dialog_clipboard_permission_message">به دانلودها اجازه دسترسی موارد در حافظه موقت برای افزودن خودکار پیوندهای کپی شده را می‌دهید؟</string>
     <string name="dialog_clipboard_permission_title">نیازمند مجوز است</string>
     <string name="dialog_confirm_delete_checkbox_message">فایل‌های محلی نیز حذف شوند</string>
@@ -45,8 +47,11 @@
     <string name="dialog_file_missing_body">فایل یافت نشد، به نظر حذف شده است.</string>
     <string name="dialog_file_missing_title">فایل را نمی توان باز کرد</string>
     <string name="dialog_msg_disabled_net">%1$s دانلود‌ها در شبکه فعلی محدود شدند. تنظیمات شبکه را زده تا به برنامه امنیت بروید.</string>
+    <string name="dialog_msg_net_disallowed_by_app">هنگام اتصال دستگاه به Wi-Fi، این دانلود به صورت خودکار آغاز خواهد شد. در هر صورت دانلود شود؟</string>
+    <string name="dialog_msg_net_slow">به نظر می‌رسد برای دانلود این مورد با استفاده از شبکه کنونی زمان زیادی صرف شود. در هر صورت دانلود شود؟</string>
     <string name="dialog_msg_recommend">پس از خاموش کردن دیگر نمی‌توانید منابع پیشنهاد شده را ببینید.</string>
     <string name="dialog_title_disabled_net">دسترسی به اینترنت</string>
+    <string name="dialog_title_download">منتظر Wi-Fi می‌مانم</string>
     <string name="dialog_title_recommend">خاموش کردن منابع ناشناس</string>
     <string name="download_complete">انجام شد</string>
     <string name="download_error">دانلود نشد</string>

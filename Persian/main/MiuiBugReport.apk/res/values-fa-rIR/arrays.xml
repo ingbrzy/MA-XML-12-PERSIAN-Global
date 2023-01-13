@@ -4,6 +4,39 @@
         <item>آقا</item>
         <item>خانم</item>
     </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>پ</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ز</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>ژ</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ک</item>
+        <item>گ</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>و</item>
+        <item>ه</item>
+        <item>ی</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>ا</item>
         <item>ب</item>
@@ -76,5 +109,70 @@
         <item>ه</item>
         <item>ی</item>
         <item>\#</item>
+    </string-array>
+    <string-array name="customer_service">
+        <item>@string/customer_service_apply</item>
+        <item>@string/customer_service_complain</item>
+        <item>@string/customer_service_station</item>
+    </string-array>
+    <string-array name="net_diag_err_link_quality">
+        <item>اتصال Wi-Fi ضعیف است. باندهای بی‌سیم را تعویض کرده و یا رهیاب را دوباره راه‌اندازی کنید.</item>
+        <item>به شبکه دسترسی پیدا نمی‌شود. دوباره به Wi-Fi وصل شده و یا رهیاب را دوباره راه‌اندازی کنید.</item>
+    </string-array>
+    <string-array name="net_diag_err_link_quality_china">
+        <item>اتصال WLAN ضعیف است. باندهای بی‌سیم را تعویض کرده و یا رهیاب را دوباره راه‌اندازی کنید.</item>
+        <item>به شبکه دسترسی پیدا نمی‌شود. دوباره به WLAN وصل شده و یا رهیاب را دوباره راه‌اندازی کنید.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity">
+        <item>برای دسترسی شبکه احراز هویت لازم است</item>
+        <item>دسترسی شبکه محدود است. زمان روی دستگاه را تنظیم کرده و تنظیمات شبکه راهیاب را بررسی کنید.</item>
+        <item>خطای شبکه. تنظیمات پروکسی HTTP را بررسی کنید.</item>
+        <item>خطای شبکه. بررسی کنید که آیا رهیاب به اینترنت دسترسی دارد یا خیر.</item>
+        <item>به شبکه متصل نمی‌شود. دوباره به Wi-Fi وصل شده و یا رهیاب را دوباره راه‌اندازی کنید.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_connectivity_china">
+        <item>برای دسترسی شبکه احراز هویت لازم است</item>
+        <item>دسترسی شبکه محدود است. زمان روی دستگاه را تنظیم کرده و تنظیمات شبکه راهیاب را بررسی کنید.</item>
+        <item>خطای شبکه. تنظیمات پروکسی HTTP را بررسی کنید.</item>
+        <item>خطای شبکه. بررسی کنید که آیا رهیاب به اینترنت دسترسی دارد یا خیر.</item>
+        <item>به شبکه متصل نمی‌شود. دوباره به WLAN وصل شده و یا رهیاب را دوباره راه‌اندازی کنید.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns">
+        <item>خطای سرور DNS. پیکربندی DNS رهیاب را بررسی کنید.</item>
+        <item>تأخیرهای عمده از سرور DNS. پیکربندی DNS رهیاب را بررسی کنید.</item>
+        <item>به دروازه دسترسی پیدا نمی‌شود. دوباره به Wi-Fi وصل شده و یا رهیاب را دوباره راه‌اندازی کنید.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_dns_china">
+        <item>خطای سرور DNS. پیکربندی DNS رهیاب را بررسی کنید.</item>
+        <item>تأخیرهای عمده از سرور DNS. پیکربندی DNS رهیاب را بررسی کنید.</item>
+        <item>به دروازه دسترسی پیدا نمی‌شود. دوباره به WLAN وصل شده و یا رهیاب را دوباره راه‌اندازی کنید.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_latency">
+        <item>تأخیرهای عمده از سوی شبکه محلی. رهیاب را دوباره راه‌اندازی کرده و یا به یک شبکه دیگر متصل شوید.</item>
+        <item>تأخیرهای عمده از سوی اینترنت. تنظیمات شبکه کارور را بررسی کرده و یا به یک شبکه دیگر متصل شوید.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_parameters">
+        <item>تعویض از IP پایدار به DHCP</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol">
+        <item>خطای پروتکل شبکه. دوباره به Wi-Fi وصل شده و یا دستگاه را دوباره راه‌اندازی کنید.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_protocol_china">
+        <item>خطای پروتکل شبکه. دوباره به WLAN وصل شده و یا دستگاه را دوباره راه‌اندازی کنید.</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi">
+        <item>به یک محیط با پوشش Wi-Fi بهتر بروید</item>
+    </string-array>
+    <string-array name="net_diag_err_network_rssi_china">
+        <item>به یک محیط با پوشش WLAN بهتر بروید</item>
+    </string-array>
+    <string-array name="net_diag_err_network_topology">
+        <item>تنظیمات DHCP رهیاب و اتصال سیم‌ها را بررسی کنید</item>
+    </string-array>
+    <string-array name="reproductivity">
+        <item>@string/feedback_reproductivity_everytime</item>
+        <item>@string/feedback_reproductivity_often</item>
+        <item>@string/feedback_reproductivity_occasionally</item>
+        <item>@string/feedback_reproductivity_once</item>
     </string-array>
 </resources>

@@ -6,21 +6,54 @@
         <item>باز کردن دوربین پشت</item>
         <item>باز کردن دوربین جلو</item>
         <item>باز کردن برنامه قبلی</item>
-        <item>روشن کردن چراغ قوه</item>
+        <item>روشن کردن نور فلاش</item>
         <item>روشن کردن حالت مطالعه</item>
         <item>خالی</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>هر روز</item>
-        <item>شب‌های روزهای کاری هفته</item>
+        <item>شب‌های کاری هفته</item>
         <item>آخر هفته</item>
         <item>سفارشی</item>
     </string-array>
     <string-array name="alarm_repeat_type_no_workdays">
         <item>هر روز</item>
-        <item>شب‌های روزهای کاری هفته</item>
+        <item>شب‌های کاری هفته</item>
         <item>آخر هفته</item>
         <item>سفارشی</item>
+    </string-array>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>پ</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ز</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>ژ</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ک</item>
+        <item>گ</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>و</item>
+        <item>ه</item>
+        <item>ی</item>
+        <item>\#</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>ا</item>
@@ -116,6 +149,8 @@
         <item>حداکثر ۳ فرایند</item>
         <item>حداکثر ۴ فرایند</item>
     </string-array>
+    <array name="avatar_image_descriptions" />
+    <array name="avatar_images" />
     <string-array name="battery_indicator_style_entries">
         <item>گرافیکی</item>
         <item>درصد (در آیکون)</item>
@@ -136,13 +171,13 @@
         <item>حالت تأخیر کم</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
-        <item>استفاده از پیش‌تنظیمات سیستم (پیش‌فرض)</item>
+        <item>استفاده از منتخب سیستم (پیش‌فرض)</item>
         <item>۱۶ بیت/نمونه</item>
         <item>۲۴ بیت/نمونه</item>
         <item>۳۲ بیت/نمونه</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
-        <item>استفاده از پیش‌تنظیمات سیستم (پیش‌فرض)</item>
+        <item>استفاده از منتخب سیستم (پیش‌فرض)</item>
         <item>۱۶ بیت/نمونه</item>
         <item>۲۴ بیت/نمونه</item>
         <item>۳۲ بیت/نمونه</item>
@@ -194,21 +229,21 @@
         <item>بهترین تلاش (نرخ بیت خودکار)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>استفاده از پیش‌تنظیمات سیستم (پیش‌فرض)</item>
+        <item>استفاده از منتخب سیستم (پیش‌فرض)</item>
         <item>۴۴.۱ کیلوهرتز</item>
         <item>۴۸.۰ کیلوهرتز</item>
         <item>۸۸.۲ کیلوهرتز</item>
         <item>۹۶.۰ کیلوهرتز</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>استفاده از پیش‌تنظیمات سیستم (پیش‌فرض)</item>
+        <item>استفاده از منتخب سیستم (پیش‌فرض)</item>
         <item>۴۴.۱ کیلوهرتز</item>
         <item>۴۸.۰ کیلوهرتز</item>
         <item>۸۸.۲ کیلوهرتز</item>
         <item>۹۶.۰ کیلوهرتز</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
-        <item>استفاده از تنظیمات سیستم (پیش‌فرض)</item>
+        <item>استفاده از پیش‌تنظیمات سیستم (پیش‌فرض)</item>
         <item>SBC</item>
         <item>AAC</item>
         <item>صدای Qualcomm® aptX™</item>
@@ -244,9 +279,9 @@
         <item>" | فعال (گوشی)"</item>
     </string-array>
     <string-array name="bluetooth_avrcp_version_values">
-        <item>avrcp14</item>
-        <item>avrcp13</item>
         <item>avrcp15</item>
+        <item>avrcp13</item>
+        <item>avrcp14</item>
         <item>avrcp16</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
@@ -269,6 +304,8 @@
         <item>غیرفعال</item>
         <item>فیلتر شده</item>
         <item>فعال</item>
+        <item>تیترها فیلتر شدند</item>
+        <item>بسته‌های رسانه‌ای فیلتر شدند</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>۱ ثانیه</item>
@@ -288,7 +325,7 @@
     <string-array name="change_security_lock_picker">
         <item>گشودن قفل با چهره</item>
         <item>الگو</item>
-        <item>پین</item>
+        <item>PIN</item>
         <item>گذرواژه</item>
     </string-array>
     <string-array name="city_name">
@@ -582,6 +619,31 @@
         <item>پاراماریبو</item>
         <item>کیتو</item>
     </string-array>
+    <array name="click_bottom">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom08</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="color_mode_descriptions">
         <item>رنگ‌های بهبود یافته</item>
         <item>رنگ‌های طبیعی همانگونه که با چشم دیده می‌شوند</item>
@@ -596,7 +658,7 @@
         <item>صفحه قفل</item>
         <item>گذرواژه حریم خصوصی</item>
         <item>حالت کودک</item>
-        <item>مدیریت فایل</item>
+        <item>مدیریت فایل‌ها</item>
         <item>قفل برنامه</item>
         <item>فضای دوم</item>
     </string-array>
@@ -674,6 +736,15 @@
         <item>com.android.localphone</item>
         <item>com.android.sim</item>
     </string-array>
+    <string-array name="key_and_gesture_shortcut_action">
+        <item>long_press_home_key</item>
+        <item>long_press_menu_key</item>
+        <item>long_press_back_key</item>
+        <item>key_combination_power_home</item>
+        <item>key_combination_power_menu</item>
+        <item>key_combination_power_back</item>
+        <item>key_none</item>
+    </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>نمایشگر بیدار نشود</item>
         <item>بیدار کردن صفحه</item>
@@ -706,6 +777,43 @@
         <item>بعد از ۵ دقیقه</item>
         <item>هرگز</item>
     </string-array>
+    <array name="long_press">
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom04</item>
+        <item>@drawable/clickbottom05</item>
+        <item>@drawable/clickbottom06</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom07</item>
+        <item>@drawable/clickbottom03</item>
+        <item>@drawable/clickbottom02</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+        <item>@drawable/clickbottom01</item>
+    </array>
     <string-array name="long_press_volume_down_action">
         <item>هیچ کدام</item>
         <item>حالت عکس فوری</item>
@@ -765,9 +873,17 @@
         <item>یک دایرکتوری ایجاد کنید: mkdir /media/mtp</item>
         <item>مجوزهای گروه کاربر را در گروه ترکیب فعلی تأیید کنید</item>
         <item>دوباره وارد شوید</item>
-        <item>دسترسی به دستگاه نصب شده: mtpfs /media/mtp از طریق مدیریت فایل؛ همانند پوشه محلی.</item>
+        <item>دسترسی به دستگاه نصب شده: mtpfs /media/mtp از طریق مدیریت فایل‌ها؛ همانند پوشه محلی.</item>
         <item>"حذف دستگاه: usermount -u /media/mtp
 توجه: فقط برای Ubuntu 8.04!"</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>@string/msd_install_retry_reinstall_mac</item>
+        <item>@string/msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_reinstall</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>@string/msd_install_retry_connect</item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
@@ -867,6 +983,97 @@
         <item>جلوگیری از صداهای اضافی تک میکروفن</item>
         <item>جلوگیری از صداهای اضافی دو میکروفن</item>
     </string-array>
+    <array name="power_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_double_click">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
+    <array name="power_long_press">
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick04</item>
+        <item>@drawable/powerclick05</item>
+        <item>@drawable/powerclick06</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick07</item>
+        <item>@drawable/powerclick03</item>
+        <item>@drawable/powerclick02</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+        <item>@drawable/powerclick01</item>
+    </array>
     <string-array name="power_mode_entries">
         <item>عملکرد</item>
         <item>متعادل</item>
@@ -925,6 +1132,11 @@
         <item>اشباع شده</item>
         <item>عادی</item>
     </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
+    </string-array>
     <string-array name="screen_resolution_text">
         <item>2K</item>
         <item>1080p</item>
@@ -950,29 +1162,29 @@
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>خاموش</item>
-        <item>۶۴‌ کیلوبایت</item>
+        <item>۶۴ کیلوبایت</item>
         <item>۲۵۶ کیلوبایت</item>
         <item>۱ مگابایت</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>خاموش</item>
-        <item>۶۴ کیلوبایت به ازای هر گزارش میانگیر</item>
-        <item>۲۵۶ کیلوبایت به ازای هر گزارش میانگیر</item>
-        <item>۱ مگابایت به ازای هر گزارش میانگیر</item>
-        <item>۴ مگابایت به ازای هر گزارش میانگیر</item>
-        <item>۱۶ مگابایت به ازای هر گزارش میانگیر</item>
+        <item>۶۴ کیلوبایت به ازای هر گزارش حافظه میان‌گیر</item>
+        <item>۲۵۶ کیلوبایت به ازای هر گزارش حافظه میان‌گیر</item>
+        <item>۱ مگابایت به ازای هر گزارش حافظه میان‌گیر</item>
+        <item>۴ مگابایت به ازای هر گزارش حافظه میان‌گیر</item>
+        <item>8M per log buffer</item>
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>خاموش</item>
-        <item>۶۴‌ کیلوبایت</item>
+        <item>۶۴ کیلوبایت</item>
         <item>۲۵۶ کیلوبایت</item>
         <item>۱ مگابایت</item>
         <item>۴ مگابایت</item>
-        <item>۱۶ مگابایت</item>
+        <item>8M</item>
     </string-array>
     <string-array name="select_logpersist_summaries">
         <item>خاموش</item>
-        <item>همه گزارشات حافظه میان‌گیر</item>
+        <item>همه گزارش‌های حافظه میان‌گیر</item>
         <item>همه به‌جز میانگیر گزارش رادیو</item>
         <item>فقط میانگیر گزارش هسته مرکزی</item>
     </string-array>
@@ -987,6 +1199,10 @@
         <item>رنگ‌آمیزی مناطق غیر مستطیلی با رنگ آبی</item>
         <item>برجسته کردن دستورات رنگ‌آمیزی آزمایش شده به رنگ سبز</item>
     </string-array>
+    <string-array name="silent_entries">
+        <item>@string/standard</item>
+        <item>@string/total</item>
+    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>همیشه</item>
         <item>۳۰ دقیقه</item>
@@ -995,7 +1211,7 @@
         <item>۸ ساعت</item>
     </string-array>
     <string-array name="silent_mode_duration_value">
-        <item>0</item>
+        <item>۰</item>
         <item>30</item>
         <item>60</item>
         <item>120</item>
@@ -1014,6 +1230,31 @@
         <item>پایه</item>
         <item>پاپ</item>
     </string-array>
+    <array name="three_drop">
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop01</item>
+        <item>@drawable/threedrop02</item>
+        <item>@drawable/threedrop03</item>
+        <item>@drawable/threedrop04</item>
+        <item>@drawable/threedrop05</item>
+        <item>@drawable/threedrop06</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+        <item>@drawable/threedrop07</item>
+    </array>
     <string-array name="time_format_entries">
         <item>۱۲ ساعته ۱:۰۰ ب.ظ</item>
         <item>۲۴ ساعته ۱۳:۰۰</item>
@@ -1073,11 +1314,11 @@
         <item>80</item>
         <item>100</item>
         <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
+        <item>۲۰۰</item>
+        <item>۲۵۰</item>
+        <item>۳۰۰</item>
+        <item>۳۵۰</item>
+        <item>۴۰۰</item>
     </string-array>
     <string-array name="tts_rate_xunfei_entries">
         <item>خیلی کند</item>
@@ -1111,6 +1352,10 @@
         <item>2</item>
         <item>3</item>
     </string-array>
+    <string-array name="wapi_psk_type">
+        <item>@string/wapi_psk_type_ascii</item>
+        <item>@string/wapi_psk_type_hex</item>
+    </string-array>
     <string-array name="wfd_status">
         <item>درحال آغاز دوره…</item>
         <item>دوره آغاز شد</item>
@@ -1129,6 +1374,14 @@
         <item>گرافیکی</item>
         <item>درصد (در آیکون)</item>
         <item>درصد (کنار آیکون در کرکره اعلان)</item>
+    </string-array>
+    <string-array name="wifi_ap_band_config_2G_5G">
+        <item>@string/wifi_ap_choose_2G</item>
+        <item>@string/wifi_ap_choose_5G</item>
+    </string-array>
+    <string-array name="wifi_ap_hidden_ssid_config">
+        <item>@string/wifi_ap_ssid_off</item>
+        <item>@string/wifi_ap_ssid_on</item>
     </string-array>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>

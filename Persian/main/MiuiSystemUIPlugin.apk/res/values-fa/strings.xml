@@ -28,8 +28,10 @@
     <string name="abc_shareactionprovider_share_with_application">هم‌رسانی با %s</string>
     <string name="abc_toolbar_collapse_description">کوچک کردن</string>
     <string name="accessibility_airplane_mode">حالت هواپیما.</string>
+    <string name="accessibility_brightness">روشنایی نمایشگر</string>
     <string name="airplane_mode">حالت هواپیما</string>
     <string name="bt_is_off">بلوتوث خاموش است</string>
+    <string name="controls_media_title">رسانه</string>
     <string name="copy">کپی</string>
     <string name="expand_button_title">پیشرفته</string>
     <string name="not_set">تنظیم نشده است</string>

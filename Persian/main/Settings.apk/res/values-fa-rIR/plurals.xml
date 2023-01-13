@@ -60,6 +60,10 @@
         <item quantity="other">%d دستگاه موجود</item>
         <item quantity="one">%d دستگاه موجود</item>
     </plurals>
+    <plurals name="clean_time">
+        <item quantity="other">%d ثانیه</item>
+        <item quantity="one">%d ثانیه</item>
+    </plurals>
     <plurals name="color_game_led_freq_entries">
         <item quantity="other">هر %d ثانیه</item>
         <item quantity="one">هر %d ثانیه</item>
@@ -132,6 +136,10 @@
         <item quantity="other">به مدت %d ثانیه صبر کرده و دوباره تلاش کنید.</item>
         <item quantity="one">به مدت %d ثانیه صبر کرده و دوباره تلاش کنید.</item>
     </plurals>
+    <plurals name="max_number_of_processes">
+        <item quantity="other">حداکثر %d فرآیند</item>
+        <item quantity="one">حداکثر %d فرآیند</item>
+    </plurals>
     <plurals name="miui_sos_emergency_contacts_quantity">
         <item quantity="other">%d مورد افزوده شد</item>
         <item quantity="one">%d مورد افزوده شد</item>
@@ -171,6 +179,26 @@
     <plurals name="status_bar_settings_enabled_header_title">
         <item quantity="other">%d برنامه می‌توانند اعلان‌ها را نمایش دهند</item>
         <item quantity="one">%d برنامه می‌تواند اعلان‌ها را نمایش دهد</item>
+    </plurals>
+    <plurals name="string_after_int_minute">
+        <item quantity="other">پس از %d دقیقه</item>
+        <item quantity="one">پس از %d دقیقه</item>
+    </plurals>
+    <plurals name="string_bits_per_sample">
+        <item quantity="other">%d بیت/نمونه</item>
+        <item quantity="one">%d بیت/نمونه</item>
+    </plurals>
+    <plurals name="string_int_hour">
+        <item quantity="other">%d ساعت</item>
+        <item quantity="one">%d ساعت</item>
+    </plurals>
+    <plurals name="string_int_minute">
+        <item quantity="other">%d دقیقه</item>
+        <item quantity="one">%d دقیقه</item>
+    </plurals>
+    <plurals name="string_int_second">
+        <item quantity="other">%d ثانیه</item>
+        <item quantity="one">%d ثانیه</item>
     </plurals>
     <plurals name="switch_headset_anti_lost_summary">
         <item quantity="other">دریافت هشدار در صورتی که یکی از هدفون‌ها از گوش شما یا جعبه شارژ آن بیش از %d دقیقه دور باشد</item>
@@ -234,7 +262,7 @@
     </plurals>
     <plurals name="usage_state_work_day_minute">
         <item quantity="other">روزهای هفته: %d دقیقه</item>
-        <item quantity="one">روزهای کاری: %d دقیقه</item>
+        <item quantity="one">روزهای هفته: %d دقیقه</item>
     </plurals>
     <plurals name="usagestats_device_notification_des_hour">
         <item quantity="other">" ساعت"</item>

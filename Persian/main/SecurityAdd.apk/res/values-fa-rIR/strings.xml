@@ -29,6 +29,7 @@
     <string name="dual_app_title">برنامه‌های همزاد</string>
     <string name="dual_app_words">هر حسابی سزاوار برنامه‌های خودش است</string>
     <string name="early_morning">صبح</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">میلادی</string>
     <string name="eras_bc">پیش از میلاد</string>
     <string name="evening">بعد از ظهر</string>
@@ -118,14 +119,16 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="free_send_net_booster">افزایش سرعت شبکه رایگان</string>
-    <string name="free_send_net_booster_busniess">یک افزاینده سرعت Xunlei رایگان دریافت کنید</string>
-    <string name="free_send_net_booster_busniess_tip">برای دریافت ضربه بزنید</string>
-    <string name="free_send_net_booster_tip">از بازی کردن روان با افزایش سرعت شبکه رایگان لذت ببرید.</string>
+    <string name="free_send_net_booster">افزاینده سرعت بازی را به صورت رایگان امتحان کنید</string>
+    <string name="free_send_net_booster_busniess">افزاینده سرعت بازی را به صورت رایگان امتحان کنید</string>
+    <string name="free_send_net_booster_busniess_tip">سرعت تجربه بازی خود را افزایش داده و یک پوسته بازی برنده شوید. این پیشنهاد فقط امروز در دسترس است!</string>
+    <string name="free_send_net_booster_tip">سرعت تجربه بازی خود را افزایش داده و یک دستگاه Xiaomi برنده شوید!</string>
     <string name="friday">جمعه</string>
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
     <string name="game_booster">افزایش‌دهنده سرعت بازی</string>
+    <string name="gamebooster_dialog_recover">تمدید</string>
+    <string name="gamebooster_dialog_start_booster">آغاز</string>
     <string name="gamebooster_network_dialog_message">آیا به امنیت اجازه دسترسی به اینترنت داده شود تا از همه ویژگی‌های افزایش سرعت بازی استفاده کند؟</string>
     <string name="gamebooster_network_dialog_message_pad">آیا به امنیت اجازه دسترسی به اینترنت داده شود تا از همه ویژگی‌های افزاینده سرعت بازی استفاده کند؟</string>
     <string name="gamebooster_network_dialog_title">برخی ویژگی‌ها در دسترس نیستند</string>
@@ -181,8 +184,8 @@
     <string name="gb_gpu_control_optimization_graph">بهینه‌سازی گرافیک</string>
     <string name="gb_gpu_control_resolution">وضوح</string>
     <string name="gb_gpu_control_texture_filtering_quality">کیفیت فیلتر بافت</string>
-    <string name="gb_gpu_dialog_button">فهمیدم</string>
-    <string name="gb_gpu_dialog_button_countdown">فهمیدم (%s ثانیه)</string>
+    <string name="gb_gpu_dialog_button">متوجه‌ام</string>
+    <string name="gb_gpu_dialog_button_countdown">متوجه‌ام (%s ثانیه)</string>
     <string name="gb_gpu_dialog_message">تنظیمات GPU کنونی در «%s» به‌کار برده شده‌اند. بازی را دوباره راه‌اندازی کرد تا تنظیمات به‌کار برده شوند.</string>
     <string name="gb_gpu_dialog_titile">تنظیمات GPU</string>
     <string name="gb_gpu_rader_graph">کیفیت عکس</string>
@@ -289,7 +292,7 @@
     <string name="morning">صبح</string>
     <string name="net_booster_expire_notification">دوره افزایش سرعت شبکه درحال تمام شدن است</string>
     <string name="net_booster_overdue_notification">دوره افزایش سرعت شبکه درحال تمام شدن است</string>
-    <string name="net_booster_overdue_notification_tip">دوره افزایش سرعت شبکه به زودی پایان می‌یابد. دوره تمدید شود؟</string>
+    <string name="net_booster_overdue_notification_tip">دوره افزایش سرعت شبکه شما به پایان رسید. ممکن است تجربه تأخیر در شبکه برای شما آغاز شود. دوره تمدید شود؟</string>
     <string name="network_not_available">به شبکه متصل نمی‌شود</string>
     <string name="night">شب</string>
     <string name="no_network">به شبکه متصل نشد</string>
@@ -300,6 +303,8 @@
     <string name="pc_activity_title">بهینه‌سازی باتری</string>
     <string name="pm">ب.ظ</string>
     <string name="pm_lable_name">درباره‌ی دسترسی ریشه‌ای</string>
+    <string name="power_center_battery_duration_screen_on">مدت استفاده از نمایشگر باقی مانده</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s از مدت استفاده از نمایشگر باقی مانده است</string>
     <string name="privacy_declare_dialog_title">شرایط استفاده از خدمات</string>
     <string name="privacy_prompt_traffic_purchase_message">شماره تلفن و جزئیات شرکت مخابرات شما رمزگذاری شده و در سرورهای Mi بارگذاری می‌شود تا بتوان اطلاعات بیشتری درمورد گزینه‌های خرید اینترنت همراه دریافت کرد.</string>
     <string name="renew_now">تمدید</string>
@@ -329,7 +334,7 @@
     <string name="superpower_app_phone">تلفن</string>
     <string name="superpower_battery_dangerous">در سریع‌ترین زمان ممکن شارژر را وصل کنید</string>
     <string name="superpower_date">EEEE، dd MMMM</string>
-    <string name="superpower_dialog_app_select_content">برنامه‌های سوم‌شخص به طول عادی بیش از برنامه‌های سیستمی برق مصرف می‌کنند. در هر صورت افزوده شود؟</string>
+    <string name="superpower_dialog_app_select_content">برنامه‌های سوم شخص به طول عادی بیش از برنامه‌های سیستمی برق مصرف می‌کنند. در هر صورت افزوده شود؟</string>
     <string name="superpower_dialog_app_select_title">توجه</string>
     <string name="superpower_exit_hint">درحال خاموش کردن بهینه‌ساز فوق‌العاده باتری…</string>
     <string name="superpower_incharging">درحال شارژ</string>
@@ -340,7 +345,7 @@
     <string name="superpower_settings">بهینه‌ساز فوق‌العاده باتری</string>
     <string name="superpower_settings_launcher">بهینه‌ساز فوق‌العاده باتری</string>
     <string name="superpower_system">پیشنهاد شده</string>
-    <string name="superpower_third">برنامه‌های سوم‌شخص</string>
+    <string name="superpower_third">برنامه‌های سوم شخص</string>
     <string name="superpower_time">h:mm</string>
     <string name="superpower_time_24">H:mm</string>
     <string name="superpower_toast_app_select_full">می‌توانید تا ۶ مورد را به برنامه‌های پر استفاده بیافزایید</string>

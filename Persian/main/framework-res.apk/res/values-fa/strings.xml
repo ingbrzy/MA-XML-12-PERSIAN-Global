@@ -23,6 +23,7 @@
     <string name="dialog_alert_title">توجه</string>
     <string name="VideoView_error_text_invalid_progressive_playback">متأسفیم، این ویدئو برای پخش جریانی با این دستگاه معتبر نیست.</string>
     <string name="selectTextMode">انتخاب متن</string>
+    <string name="status_bar_notification_info_overflow">۹۹۹+</string>
     <string name="fingerprint_icon_content_description">نماد اثر انگشت</string>
     <string name="paste_as_plain_text">جای‌گذاری به عنوان متن ساده</string>
     <string name="autofill">تکمیل خودکار</string>
@@ -171,11 +172,10 @@
     <string name="accessibility_binding_label">دسترس‌پذیری</string>
     <string name="accessibility_button_instructional_text">برای جابه‌جایی بین ویژگی‌ها، دکمه دسترس‌پذیری را لمس کنید و نگه دارید.</string>
     <string name="accessibility_button_prompt_text">ویژگی را انتخاب کنید که هنگام ضربه زدن روی دکمه دسترس‌پذیری استفاده می‌شود:</string>
-    <string name="accessibility_dialog_button_allow">مجاز</string>
+    <string name="accessibility_dialog_button_allow">اجازه دادن</string>
     <string name="accessibility_dialog_button_deny">مجاز نبودن</string>
     <string name="accessibility_edit_shortcut_menu_button_title">انتخاب ویژگی‌های موردنظر برای استفاده با دکمه دسترس‌پذیری</string>
     <string name="accessibility_edit_shortcut_menu_volume_title">انتخاب ویژگی‌های موردنظر برای استفاده با میان‌بر کلید میزان صدا</string>
-    <string name="accessibility_enable_service_encryption_warning">اگر %1$s را روشن کنید، دستگاه شما از قفل صفحه شما جهت بهبود رمزگذاری اطلاعات استفاده نخواهد کرد.</string>
     <string name="accessibility_enable_service_title">به %1$s اجازه می‌دهید بر دستگاهتان کنترل کامل داشته باشد؟</string>
     <string name="accessibility_freeform_caption">نوار شرح %1$s.</string>
     <string name="accessibility_gesture_3finger_instructional_text">برای جابه‌جایی بین ویژگی‌ها، با سه انگشت صفحه را تند به‌بالا بکشید و نگه دارید.</string>
@@ -193,7 +193,7 @@
     <string name="accessibility_shortcut_enabling_service">کلیدهای میزان صدا پایین نگه داشته شد. %1$s روشن شد.</string>
     <string name="accessibility_shortcut_menu_item_status_off">خاموش</string>
     <string name="accessibility_shortcut_menu_item_status_on">روشن</string>
-    <string name="accessibility_shortcut_multiple_service_list">"\u0009• %1$s
+    <string name="accessibility_shortcut_multiple_service_list">" • %1$s
 "</string>
     <string name="accessibility_shortcut_multiple_service_warning">"با پایین نگه داشتن هردو کلید میزان صدا به‌مدت چند ثانیه، ویژگی‌های دسترس‌پذیری روشن می‌شود. با این کار نحوه عملکرد دستگاهتان تغییر می‌کند.
 
@@ -212,7 +212,13 @@
     <string name="accessibility_shortcut_warning_dialog_title">از میان‌بر دسترس‌پذیری استفاده شود؟</string>
     <string name="accessibility_system_action_back_label">برگشت</string>
     <string name="accessibility_system_action_dismiss_notification_shade">رد کردن کشوی اعلانات</string>
+    <string name="accessibility_system_action_dpad_center_label">پد کنترل وسط</string>
+    <string name="accessibility_system_action_dpad_down_label">پد کنترل پایین</string>
+    <string name="accessibility_system_action_dpad_left_label">پد کنترل چپ</string>
+    <string name="accessibility_system_action_dpad_right_label">پد کنترل راست</string>
+    <string name="accessibility_system_action_dpad_up_label">پد کنترل بالا</string>
     <string name="accessibility_system_action_hardware_a11y_shortcut_label">میان‌بر دسترسی‌پذیری</string>
+    <string name="accessibility_system_action_headset_hook_label">قلاب هدست</string>
     <string name="accessibility_system_action_home_label">صفحه اصلی</string>
     <string name="accessibility_system_action_lock_screen_label">صفحه قفل</string>
     <string name="accessibility_system_action_notifications_label">اعلان‌ها</string>
@@ -291,6 +297,15 @@
     <string name="app_not_found">برنامه‌ای برای انجام این عملکرد موجود نیست</string>
     <string name="app_running_notification_text">برای کسب اطلاعات بیشتر یا توقف برنامه ضربه بزنید.</string>
     <string name="app_running_notification_title">%1$s در حال اجرا است</string>
+    <string name="app_streaming_blocked_message">نمی‌توان در %1$s به این برنامه دسترسی داشت. دسترسی به آن را در تلفنتان امتحان کنید.</string>
+    <string name="app_streaming_blocked_message_for_fingerprint_dialog">این برنامه درخواست امنیت اضافی دارد. دسترسی به آن را در تلفنتان امتحان کنید.</string>
+    <string name="app_streaming_blocked_message_for_permission_dialog">درحال‌حاضر نمی‌توانید در %1$s به این برنامه دسترسی داشت. دسترسی به آن را در تلفنتان امتحان کنید.</string>
+    <string name="app_streaming_blocked_title">%1$s دردسترس نیست</string>
+    <string name="app_streaming_blocked_title_for_camera_dialog">دوربین دردسترس نیست</string>
+    <string name="app_streaming_blocked_title_for_fingerprint_dialog">ادامه دادن در تلفن</string>
+    <string name="app_streaming_blocked_title_for_microphone_dialog">میکروفون دردسترس نیست</string>
+    <string name="app_streaming_blocked_title_for_permission_dialog">اجازه لازم است</string>
+    <string name="app_streaming_blocked_title_for_settings_dialog">تنظیمات تلفن دردسترس نیست</string>
     <string name="app_suspended_default_message">%1$s درحال‌حاضر در دسترس نیست. %2$s آن را مدیریت می‌کند.</string>
     <string name="app_suspended_more_details">بیشتر بدانید</string>
     <string name="app_suspended_title">برنامه در دسترس نیست</string>
@@ -312,6 +327,7 @@
     <string name="autofill_parish">استان</string>
     <string name="autofill_picker_accessibility_title">گزینه‌های تکمیل خودکار</string>
     <string name="autofill_picker_no_suggestions">هیچ پیشنهاد تکمیل خودکاری نیست</string>
+    <string name="autofill_picker_some_suggestions">{count,plural, =1{یک پیشنهاد تکمیل خودکار}one{# پیشنهاد تکمیل خودکار}other{# پیشنهاد تکمیل خودکار}}</string>
     <string name="autofill_postal_code">کد پستی</string>
     <string name="autofill_prefecture">حوزه اداری</string>
     <string name="autofill_province">استان</string>
@@ -345,8 +361,8 @@
     <string name="badPin">این پین قدیمی که نوشتید صحیح نیست.</string>
     <string name="badPuk">‏PUK که نوشته‌اید صحیح نیست.</string>
     <string name="battery_saver_charged_notification_summary">تلفن به‌اندازه کافی شارژ دارد. ویژگی‌ها دیگر محدود نمی‌شوند.</string>
-    <string name="battery_saver_description">«بهینه‌سازی باتری» «طرح زمینه تیره» را روشن می‌کند و فعالیت پس‌زمینه، برخی از جلوه‌های بصری، ویژگی‌هایی خاص، و برخی از اتصال‌های شبکه را محدود یا خاموش می‌کند.</string>
-    <string name="battery_saver_description_with_learn_more">«بهینه‌سازی باتری» «طرح زمینه تیره» را روشن می‌کند و فعالیت پس‌زمینه، برخی از جلوه‌های بصری، ویژگی‌هایی خاص، و برخی از اتصال‌های شبکه را محدود یا خاموش می‌کند.</string>
+    <string name="battery_saver_description">«بهینه‌سازی باتری» «زمینه تیره» را روشن می‌کند و فعالیت پس‌زمینه، برخی از جلوه‌های بصری، ویژگی‌هایی خاص، و برخی از اتصال‌های شبکه را محدود یا خاموش می‌کند.</string>
+    <string name="battery_saver_description_with_learn_more">«بهینه‌سازی باتری» «زمینه تیره» را روشن می‌کند و فعالیت پس‌زمینه، برخی از جلوه‌های بصری، ویژگی‌هایی خاص، و برخی از اتصال‌های شبکه را محدود یا خاموش می‌کند.</string>
     <string name="battery_saver_notification_channel_name">بهینه‌سازی باتری</string>
     <string name="battery_saver_off_notification_title">«بهینه‌سازی باتری» خاموش شد</string>
     <string name="beforeOneMonthDurationPast">قبل از ۱ ماه گذشته</string>
@@ -363,6 +379,7 @@
     <string name="biometric_or_screen_lock_dialog_default_subtitle">برای ادامه، از زیست‌سنجشی یا قفل صفحه استفاده کنید</string>
     <string name="bluetooth_a2dp_audio_route_name">بلوتوث‌های صوتی</string>
     <string name="bluetooth_airplane_mode_toast">بلوتوث درطول حالت هواپیما روشن خواهد بود</string>
+    <string name="bugreport_countdown">{count,plural, =1{تا # ثانیه دیگر نماگرفت مربوط به گزارش اشکال گرفته می‌شود.}one{تا # ثانیه دیگر نماگرفت مربوط به گزارش اشکال گرفته می‌شود.}other{تا # ثانیه دیگر نماگرفت مربوط به گزارش اشکال گرفته می‌شود.}}</string>
     <string name="bugreport_message">این گزارش اطلاعات مربوط به وضعیت دستگاه کنونی شما را جمع‌آوری می‌کند تا به‌صورت پیام ایمیل ارسال شود. از زمان شروع گزارش اشکال تا آماده شدن برای ارسال اندکی زمان می‌برد؛ لطفاً کمی صبر کنید.</string>
     <string name="bugreport_option_full_summary">از این گزینه برای به‌حداقل رساندن تداخل سیستم هنگام پاسخ‌گو نبودن یا کند بودن دستگاه یا هنگام نیازداشتن به همه بخش‌های گزارش استفاده کنید. نماگرفت دیگری نمی‌گیرد یا امکان وارد کردن جزئیات بیشتری به شما نمی‌دهد.</string>
     <string name="bugreport_option_full_title">گزارش کامل</string>
@@ -434,7 +451,6 @@
     <string name="conversation_single_line_name_display">%1$s:</string>
     <string name="conversation_title_fallback_group_chat">مکالمه گروهی</string>
     <string name="conversation_title_fallback_one_to_one">مکالمه</string>
-    <string name="copied">کپی شد</string>
     <string name="country_detector">کشوریاب</string>
     <string name="country_selection_title">اولویت‌های منطقه</string>
     <string name="create_contact_using">"ایجاد مخاطب
@@ -490,6 +506,7 @@
     <string name="deprecated_target_sdk_message">‏این برنامه برای نسخه قدیمی‌تری از Android ساخته شده است و ممکن است درست کار نکند. وجود به‌روزرسانی را بررسی کنید یا با برنامه‌نویس تماس بگیرید.</string>
     <string name="description_target_unlock_tablet">برای بازگشایی قفل، بلغزانید.</string>
     <string name="device_ownership_relinquished">سرپرست از این دستگاه برای استفاده شخصی چشم‌پوشی کرد</string>
+    <string name="device_policy_manager_service">سرویس «مدیر خط‌مشی دستگاه»</string>
     <string name="device_storage_monitor_notification_channel">فضای ذخیره‌سازی دستگاه</string>
     <string name="dial_number_using">"شماره گیری 
 با استفاده از %s"</string>
@@ -511,6 +528,22 @@
     <string name="dump_heap_system_text">فرآیند %1$s از حد مجاز حافظه پردازش خود %2$s فراتر رفته است. یک رونوشت حافظه آزاد برای شما برای هم‌رسانی دردسترس است. مواظب باشید: این رونوشت حافظه آزاد می‌تواند حاوی هر نوع اطلاعات شخصی شما باشد که فرآیند به آن دسترسی دارد که ممکن است شامل چیزهایی باشد که تایپ کرده‌اید.</string>
     <string name="dump_heap_text">فرآیند %1$s از حد مجاز حافظه پردازش خود،%2$s، فراتر رفته است. رونوشت حافظه آزادی دردسترستان است که با برنامه‌نویس آن به اشتراک بگذارید. مراقب باشید: این رونوشت حافظه آزاد می‌تواند حاوی هرنوع اطلاعات شخصی‌ شما باشد که برنامه به آن دسترسی دارد.</string>
     <string name="dump_heap_title">رونوشت حافظه آزاد به اشتراک گذاشته شود؟</string>
+    <string name="duration_days_relative">{count,plural, =1{# روز قبل}one{# روز قبل}other{# روز قبل}}</string>
+    <string name="duration_days_relative_future">{count,plural, =1{# روز}one{# روز}other{# روز}}</string>
+    <string name="duration_days_shortest">%d روز</string>
+    <string name="duration_days_shortest_future">تا %d روز دیگر</string>
+    <string name="duration_hours_relative">{count,plural, =1{# ساعت قبل}one{# ساعت قبل}other{# ساعت قبل}}</string>
+    <string name="duration_hours_relative_future">{count,plural, =1{# ساعت}one{# ساعت}other{# ساعت}}</string>
+    <string name="duration_hours_shortest">%d ساعت</string>
+    <string name="duration_hours_shortest_future">تا %d ساعت دیگر</string>
+    <string name="duration_minutes_relative">{count,plural, =1{# دقیقه قبل}one{# دقیقه قبل}other{# دقیقه قبل}}</string>
+    <string name="duration_minutes_relative_future">{count,plural, =1{# دقیقه}one{# دقیقه}other{# دقیقه}}</string>
+    <string name="duration_minutes_shortest">%d دقیقه</string>
+    <string name="duration_minutes_shortest_future">تا %d دقیقه دیگر</string>
+    <string name="duration_years_relative">{count,plural, =1{# سال قبل}one{# سال قبل}other{# سال قبل}}</string>
+    <string name="duration_years_relative_future">{count,plural, =1{# سال}one{# سال}other{# سال}}</string>
+    <string name="duration_years_shortest">%d سال</string>
+    <string name="duration_years_shortest_future">تا %d سال دیگر</string>
     <string name="dynamic_mode_notification_channel_name">اعلان اطلاعات حالت روال معمول</string>
     <string name="dynamic_mode_notification_summary">جهت افزایش عمر باتری، «بهینه‌سازی باتری» فعال شد</string>
     <string name="dynamic_mode_notification_title">ممکن است شارژ باتری قبل از شارژ معمول تمام شود</string>
@@ -618,6 +651,7 @@
     <string name="face_error_timeout">«قفل‌گشایی با چهره» را دوباره امتحان کنید</string>
     <string name="face_error_unable_to_process">چهره تأیید نشد. دوباره امتحان کنید.</string>
     <string name="face_error_user_canceled">کاربر «قفل‌گشایی با چهره» را لغو کرد</string>
+    <string name="face_error_vendor_unknown">مشکلی پیش آمد. دوباره امتحان کنید.</string>
     <string name="face_icon_content_description">نماد چهره</string>
     <string name="face_name_template">چهره %d</string>
     <string name="face_or_screen_lock_app_setting_name">استفاده از قفل صفحه یا چهره</string>
@@ -625,6 +659,7 @@
     <string name="face_recalibrate_notification_content">برای حذف مدل چهره‌تان ضربه بزنید، سپس چهره‌تان را دوباره اضافه کنید</string>
     <string name="face_recalibrate_notification_name">قفل‌گشایی با چهره</string>
     <string name="face_recalibrate_notification_title">مشکل در «قفل‌گشایی با چهره»</string>
+    <string name="face_sensor_privacy_enabled">‏برای استفاده از «قفل‌گشایی با چهره»، <b>دسترسی به دوربین</b> را در «تنظیمات > حریم‌خصوصی» روشن کنید</string>
     <string name="face_setup_notification_content">برای باز کردن قفل تلفن خود به آن نگاه کنید</string>
     <string name="face_setup_notification_title">راه‌اندازی «قفل‌گشایی با چهره»</string>
     <string name="faceunlock_multiple_failures">دفعات تلاش برای «قفل‌گشایی با چهره» از حداکثر مجاز بیشتر شد</string>
@@ -641,17 +676,20 @@
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">کد ویژگی کامل شد.</string>
     <string name="fcError">مشکل در اتصال یا کد ویژگی نامعتبر.</string>
+    <string name="fileSizeSuffix">%1$s ‏%2$s</string>
+    <string name="file_count">{count,plural, =1{{file_name} + # فایل}one{{file_name} + # فایل}other{{file_name} + # فایل}}</string>
     <string name="find">یافتن</string>
     <string name="find_next">یافتن بعدی</string>
     <string name="find_on_page">یافتن در صفحه</string>
     <string name="find_previous">یافتن قبلی</string>
     <string name="fingerprint_acquired_already_enrolled">اثر انگشت دیگری را امتحان کنید</string>
-    <string name="fingerprint_acquired_imager_dirty">حسگر را پاک کنید</string>
+    <string name="fingerprint_acquired_imager_dirty">حسگر اثر انگشت را تمیز و دوباره امتحان کنید</string>
+    <string name="fingerprint_acquired_imager_dirty_alt">حسگر را تمیز و دوباره امتحان کنید</string>
     <string name="fingerprint_acquired_immobile">هربار موقعیت انگشتتان را کمی تغییر دهید</string>
     <string name="fingerprint_acquired_insufficient">اثرانگشت پردازش نشد. لطفاً دوباره امتحان کنید.</string>
-    <string name="fingerprint_acquired_partial">بخشی از اثر انگشت شناسایی شد</string>
+    <string name="fingerprint_acquired_partial">محکم روی حسگر فشار دهید</string>
     <string name="fingerprint_acquired_too_bright">خیلی روشن است</string>
-    <string name="fingerprint_acquired_too_fast">کمی بیشتر نگه دارید</string>
+    <string name="fingerprint_acquired_too_fast">محکم روی حسگر فشار دهید</string>
     <string name="fingerprint_acquired_too_slow">حرکت انگشت خیلی آهسته بود. لطفاً دوباره امتحان کنید.</string>
     <string name="fingerprint_acquired_try_adjusting">اثر انگشت را تنظیم کنید</string>
     <string name="fingerprint_app_setting_name">استفاده از اثر انگشت</string>
@@ -665,10 +703,12 @@
     <string name="fingerprint_error_lockout_permanent">تلاش‌های بسیاری زیادی انجام شده است. حسگر اثر انگشت غیرفعال شد.</string>
     <string name="fingerprint_error_no_fingerprints">اثر انگشتی ثبت نشده است.</string>
     <string name="fingerprint_error_no_space">اثر انگشت راه‌اندازی نشد</string>
+    <string name="fingerprint_error_not_match">اثر انگشت تشخیص داده نشد</string>
     <string name="fingerprint_error_security_update_required">حسگر به‌طور موقت غیرفعال است.</string>
-    <string name="fingerprint_error_timeout">درنگ ثبت اثر انگشت به پایان رسید. دوباره امتحان کنید.</string>
+    <string name="fingerprint_error_timeout">مهلت ثبت اثر انگشت به‌پایان رسید. دوباره امتحان کنید.</string>
     <string name="fingerprint_error_unable_to_process">دوباره امتحان کنید.</string>
     <string name="fingerprint_error_user_canceled">کاربر عملیات اثر انگشت را لغو کرد</string>
+    <string name="fingerprint_error_vendor_unknown">مشکلی پیش آمد. دوباره امتحان کنید.</string>
     <string name="fingerprint_name_template">انگشت %d</string>
     <string name="fingerprint_or_screen_lock_app_setting_name">استفاده از اثر انگشت یا قفل صفحه</string>
     <string name="fingerprint_or_screen_lock_dialog_default_subtitle">برای ادامه، از اثر انگشت یا قفل صفحه استفاده کنید</string>
@@ -677,6 +717,7 @@
     <string name="fingerprint_recalibrate_notification_title">امکان استفاده از حسگر اثر انگشت وجود ندارد</string>
     <string name="fingerprint_setup_notification_content">برای افزودن اثر انگشت، ضربه بزنید</string>
     <string name="fingerprint_setup_notification_title">راه‌اندازی روش‌های بیشتر برای باز کردن قفل</string>
+    <string name="fingerprint_udfps_error_not_match">اثر انگشت تشخیص داده نشد</string>
     <string name="fingerprints">اثر انگشت:</string>
     <string name="floating_toolbar_close_overflow_description">بستن منوی سرریز</string>
     <string name="floating_toolbar_open_overflow_description">گزینه‌های بیشتر</string>
@@ -687,12 +728,18 @@
     <string name="foreground_service_tap_for_details">برای جزئیات مربوط به مصرف باتری و داده، ضربه بزنید</string>
     <string name="forward_intent_to_owner">شما از این برنامه در خارج از نمایه کاری‌تان استفاده می‌کنید</string>
     <string name="forward_intent_to_work">از این برنامه در نمایه کاری‌تان استفاده می‌کنید</string>
-    <string name="fp_enrollment_powerbutton_intent_message">"هنگام راه‌اندازی اثر انگشتتان، دکمه روشن/ خاموش را فشار دادید.
+    <string name="fp_power_button_bp_message">"دکمه روشن/ خاموش را فشار دادید — این کار معمولاً صفحه‌نمایش را خاموش می‌کند.
 
-این کار معمولاً صفحه‌نمایش را خاموش می‌کند."</string>
-    <string name="fp_enrollment_powerbutton_intent_negative_button">لغو شود</string>
-    <string name="fp_enrollment_powerbutton_intent_positive_button">خاموش شود</string>
-    <string name="fp_enrollment_powerbutton_intent_title">صفحه‌نمایش خاموش شود؟</string>
+برای تأیید اثر انگشتتان، آرام ضربه بزنید."</string>
+    <string name="fp_power_button_bp_negative_button">ادامه</string>
+    <string name="fp_power_button_bp_positive_button">خاموش کردن صفحه</string>
+    <string name="fp_power_button_bp_title">تأیید اثر انگشت را ادامه می‌دهید؟</string>
+    <string name="fp_power_button_enrollment_message">"دکمه روشن/ خاموش را فشار دادید — این کار معمولاً صفحه‌نمایش را خاموش می‌کند.
+
+هنگام راه‌اندازی اثر انگشت، آرام ضربه بزنید."</string>
+    <string name="fp_power_button_enrollment_negative_button">ادامه راه‌اندازی</string>
+    <string name="fp_power_button_enrollment_positive_button">خاموش کردن صفحه</string>
+    <string name="fp_power_button_enrollment_title">ادامه راه‌اندازی؟</string>
     <string name="gadget_host_error_inflating">افزودن ابزارک انجام نشد.</string>
     <string name="geofencing_service">سرویس حصارکشی جغرافیایی</string>
     <string name="gigabyteShort">گیگابایت</string>
@@ -729,6 +776,7 @@
     <string name="granularity_label_line">خط</string>
     <string name="granularity_label_link">پیوند</string>
     <string name="granularity_label_word">کلمه</string>
+    <string name="guest_name">مهمان</string>
     <string name="hardware">نمایش صفحه‌کلید مجازی</string>
     <string name="harmful_app_warning_open_anyway">درهرصورت باز شود</string>
     <string name="harmful_app_warning_title">برنامه مضر شناسایی شد</string>
@@ -781,8 +829,11 @@
     <string name="immersive_cling_title">مشاهده در حالت تمام صفحه</string>
     <string name="importance_from_person">به دلیل افراد درگیر مهم است.</string>
     <string name="importance_from_user">شما اهمیت این اعلان‌ها را تنظیم می‌کنید.</string>
+    <string name="in_progress">درحال انجام</string>
     <string name="inputMethod">روش ورودی</string>
     <string name="input_method_binding_label">روش ورودی</string>
+    <string name="input_method_ime_switch_button_desc">تغییر روش ورودی</string>
+    <string name="input_method_nav_back_button_desc">برگشت</string>
     <string name="install_carrier_app_notification_button">بارگیری برنامه</string>
     <string name="install_carrier_app_notification_text">برای فعال کردن سیم‌کارت جدیدتان، برنامه شرکت مخابراتی را بارگیری کنید</string>
     <string name="install_carrier_app_notification_text_app_name">برای فعال کردن سیم‌کارت جدیدتان، برنامه %1$s را بارگیری کنید</string>
@@ -868,6 +919,7 @@
     <string name="kg_reordering_delete_drop_target_text">حذف</string>
     <string name="kg_sim_pin_instructions">پین سیم کارت را وارد کنید</string>
     <string name="kg_sim_unlock_progress_dialog_message">بازگشایی قفل سیم کارت...</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"گذرواژه خود را %1$d بار اشتباه تایپ کردید. 
 
 پس از %2$d ثانیه دوباره امتحان کنید."</string>
@@ -885,6 +937,7 @@
     <string name="language_picker_section_suggested">پیشنهادی</string>
     <string name="language_selection_title">افزودن زبان</string>
     <string name="last_month">ماه گذشته</string>
+    <string name="last_num_days">{count,plural, =1{# روز گذشته}one{# روز گذشته}other{# روز گذشته}}</string>
     <string name="launchBrowserDefault">مرورگر راه‌اندازی شود؟</string>
     <string name="launch_warning_original">%1$s از ابتدا راه‌اندازی شد.</string>
     <string name="launch_warning_replace">%1$s اکنون در حال اجرا است.</string>
@@ -905,7 +958,7 @@
     <string name="lockscreen_access_pattern_detected">الگو کامل شد</string>
     <string name="lockscreen_access_pattern_start">الگو شروع شد</string>
     <string name="lockscreen_carrier_default">بدون سرویس</string>
-    <string name="lockscreen_emergency_call">تماس اضطراری</string>
+    <string name="lockscreen_emergency_call">اضطراری</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe">شما به اشتباه %1$d بار اقدام به باز کردن قفل تلفن کرده‌اید. پس از%2$d تلاش ناموفق دیگر، تلفن به پیش‌فرض کارخانه بازنشانی می‌شود و تمام داده‌های کاربر از دست خواهد رفت.</string>
     <string name="lockscreen_failed_attempts_almost_glogin">"‏الگوی بازگشایی قفل را %1$d بار اشتباه کشیده‌اید. پس‌از %2$d تلاش ناموفق دیگر، از شما خواسته می‌‎شود که برای بازگشایی قفل گوشی به برنامه Google وارد شوید.
 
@@ -939,7 +992,7 @@
     <string name="lockscreen_return_to_call">بازگشت به تماس</string>
     <string name="lockscreen_screen_locked">صفحه قفل شد.</string>
     <string name="lockscreen_sim_locked_message">سیم کارت قفل شد.</string>
-    <string name="lockscreen_sim_puk_locked_instructions">لطفاً به راهنمای کاربر مراجعه کرده یا با مرکز پشتیبانی از مشتریان تماس بگیرید.</string>
+    <string name="lockscreen_sim_puk_locked_instructions">لطفاً به «راهنمای کاربر» مراجعه کنید یا با مرکز «مراقبت از مشتریان» تماس بگیرید.</string>
     <string name="lockscreen_sim_puk_locked_message">‏سیم کارت با PUK قفل شده است.</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">بازگشایی قفل سیم کارت…</string>
     <string name="lockscreen_sound_off_label">صدا خاموش</string>
@@ -961,8 +1014,17 @@
     <string name="lockscreen_transport_play_description">پخش</string>
     <string name="lockscreen_transport_prev_description">آهنگ قبلی</string>
     <string name="lockscreen_transport_rew_description">عقب بردن</string>
-    <string name="lockscreen_transport_stop_description">توقف</string>
+    <string name="lockscreen_transport_stop_description">متوقف کردن</string>
     <string name="lockscreen_unlock_label">بازگشایی قفل</string>
+    <string name="log_access_confirmation_allow">مجاز کردن دسترسی یک‌باره</string>
+    <string name="log_access_confirmation_body">"گزارش‌های دستگاه آنچه را در دستگاهتان رخ می‌دهد ثبت می‌کند. برنامه‌ها می‌توانند از این گزارش‌ها برای پیدا کردن مشکلات و رفع آن‌ها استفاده کنند.
+
+برخی‌از گزارش‌ها ممکن است حاوی اطلاعات حساس باشند، بنابراین فقط به برنامه‌های مورداعتمادتان اجازه دسترسی به همه گزارش‌های دستگاه را بدهید. 
+
+اگر به این برنامه اجازه ندهید به همه گزارش‌های دستگاه دسترسی داشته باشد، همچنان می‌تواند به گزارش‌های خودش دسترسی داشته باشد. سازنده دستگاه نیز ممکن است همچنان بتواند به برخی‌از گزارش‌ها یا اطلاعات دستگاهتان دسترسی داشته باشد. بیشتر بدانید"</string>
+    <string name="log_access_confirmation_deny">اجازه ندادن</string>
+    <string name="log_access_confirmation_title">به %s اجازه می‌دهید به همه گزارش‌های دستگاه دسترسی داشته باشد؟</string>
+    <string name="log_access_do_not_show_again">دوباره نشان داده نشود</string>
     <string name="low_internal_storage_view_text">برخی از عملکردهای سیستم ممکن است کار نکنند</string>
     <string name="low_internal_storage_view_text_no_boot">فضای ذخیره‌سازی سیستم کافی نیست. اطمینان حاصل کنید که دارای ۲۵۰ مگابایت فضای خالی هستید و سیستم را راه‌اندازی مجدد کنید.</string>
     <string name="low_internal_storage_view_title">فضای ذخیره‌سازی درحال پر شدن است</string>
@@ -971,9 +1033,10 @@
     <string name="managed_profile_label_badge">%1$s محل کار</string>
     <string name="managed_profile_label_badge_2">کار دوم %1$s</string>
     <string name="managed_profile_label_badge_3">کار سوم %1$s</string>
+    <string name="matches_found">{count,plural, =1{# مورد منطبق}one{# از {total}}other{# از {total}}}</string>
     <string name="maximize_button_text">بزرگ کردن</string>
     <string name="me">من</string>
-    <string name="media_route_button_content_description">ارسال محتوا</string>
+    <string name="media_route_button_content_description">پخش محتوا</string>
     <string name="media_route_chooser_extended_settings">تنظیمات</string>
     <string name="media_route_chooser_searching">درحال جستجوی دستگاه‌ها…</string>
     <string name="media_route_chooser_title">برقراری ارتباط با دستگاه</string>
@@ -1109,8 +1172,8 @@
     <string name="mime_type_spreadsheet_ext">%1$s صفحه‌گسترده</string>
     <string name="mime_type_video">ویدیو</string>
     <string name="mime_type_video_ext">%1$s ویدیو</string>
-    <string name="miniresolver_open_in_personal">در %s در نمایه شخصی باز شود؟</string>
-    <string name="miniresolver_open_in_work">در %s در نمایه کاری باز شود؟</string>
+    <string name="miniresolver_open_in_personal">%s در نمایه شخصی باز شود؟</string>
+    <string name="miniresolver_open_in_work">%s در نمایه کاری باز شود؟</string>
     <string name="miniresolver_use_personal_browser">استفاده از مرورگر شخصی</string>
     <string name="miniresolver_use_work_browser">استفاده از مرورگر کاری</string>
     <string name="minute">دقیقه</string>
@@ -1132,6 +1195,8 @@
     <string name="mobile_no_internet">شبکه تلفن همراه به اینترنت دسترسی ندارد</string>
     <string name="month_day_year" formatted="false">%-e %B %Y</string>
     <string name="more_item_label">بیشتر</string>
+    <string name="mte_override_notification_message">‏شاید عملکرد و پایداری تحت تأثیر قرار بگیرند. برای غیرفعال کردن، راه‌اندازی مجدد کنید. اگر بااستفاده ازarm64.memtag.bootctl فعال شده است، پیش‌از راه‌اندازی مقدار آن را روی هیچ‌کدام تنظیم کنید.</string>
+    <string name="mte_override_notification_title">‏MTE آزمایشی فعال شد</string>
     <string name="music_recognition_manager_service">سرویس مدیر تشخیص موسیقی</string>
     <string name="muted_by">%1$s درحال قطع کردن بعضی از صداهاست</string>
     <string name="nas_upgrade_notification_content">‏اکنون پاسخ‌ها و کنش‌های پیشنهادی ازطریق اعلان‌های بهبودیافته ارائه می‌شوند. «اعلان‌های تطبیقی Android» دیگر پشتیبانی نمی‌شوند.</string>
@@ -1163,16 +1228,18 @@
     <string name="no_file_chosen">هیچ فایلی انتخاب نشد</string>
     <string name="no_matches">مورد منطبقی موجود نیست</string>
     <string name="no_permissions">مجوزی لازم نیست</string>
-    <string name="no_recent_tasks">‏برنامه‎های جدید موجود نیست.</string>
+    <string name="no_recent_tasks">برنامه‌های جدید موجود نیست.</string>
     <string name="noon">ظهر</string>
     <string name="not_checked">بدون علامت</string>
     <string name="not_selected">انتخاب نشده</string>
+    <string name="notification_action_check_bg_apps">بررسی برنامه‌های فعال</string>
     <string name="notification_alerted_content_description">هشدار ارسال شد</string>
     <string name="notification_app_name_settings">تنظیمات</string>
     <string name="notification_app_name_system">سیستم</string>
     <string name="notification_appops_camera_active">دوربین</string>
     <string name="notification_appops_microphone_active">میکروفون</string>
     <string name="notification_appops_overlay_active">نمایش روی برنامه‌های دیگر در صفحه‌نمایش</string>
+    <string name="notification_channel_abusive_bg_apps">فعالیت در پس‌زمینه</string>
     <string name="notification_channel_accessibility_magnification">درشت‌نمایی</string>
     <string name="notification_channel_accessibility_security_policy">کاربرد دسترس‌پذیری</string>
     <string name="notification_channel_account">وضعیت حساب</string>
@@ -1204,6 +1271,8 @@
     <string name="notification_channel_voice_mail">پیام‌های پست صوتی</string>
     <string name="notification_channel_vpn">‏وضعیت VPN</string>
     <string name="notification_channel_wfc">‏تماس ازطریق Wi-Fi</string>
+    <string name="notification_content_abusive_bg_apps">%1$s در پس‌زمینه درحال اجرا است. برای مدیریت مصرف باتری ضربه بزنید.</string>
+    <string name="notification_content_long_running_fgs">%1$s ممکن است بر عمر باتری تأثیر بگذارد. برای مرور برنامه‌های فعال، ضربه بزنید.</string>
     <string name="notification_feedback_indicator">ارائه بازخورد</string>
     <string name="notification_feedback_indicator_alerted">این اعلان به «پیش‌فرض» ارتقا داده شد. برای ارائه بازخورد، ضربه بزنید.</string>
     <string name="notification_feedback_indicator_demoted">این اعلان در رتبه پایین‌تری قرار گرفت. برای ارائه بازخورد، ضربه بزنید.</string>
@@ -1212,10 +1281,13 @@
     <string name="notification_hidden_text">اعلان جدید</string>
     <string name="notification_history_title_placeholder">اعلان برنامه سفارشی</string>
     <string name="notification_listener_binding_label">شنونده اعلان</string>
+    <string name="notification_messaging_title_template">%1$s:‏ %2$s</string>
     <string name="notification_phishing_alert_content_description">هشدار رمزگیری</string>
     <string name="notification_ranker_binding_label">سرویس رده‌بندی اعلان</string>
     <string name="notification_reply_button_accessibility">پاسخ</string>
     <string name="notification_title">خطای ورود به سیستم برای %1$s</string>
+    <string name="notification_title_abusive_bg_apps">برنامه‌ای شارژ باتری را خالی می‌کند</string>
+    <string name="notification_title_long_running_fgs">یکی از برنامه‌ها همچنان فعال است</string>
     <string name="notification_verified_content_description">تأییدشده</string>
     <string name="notification_work_profile_content_description">نمایه کاری</string>
     <string name="now_string_shortest">اکنون</string>
@@ -1270,7 +1342,7 @@
     <string name="permdesc_answerPhoneCalls">به برنامه امکان می‌دهد به تماس تلفنی ورودی پاسخ دهد.</string>
     <string name="permdesc_audioWrite">به برنامه اجازه می‌دهد مجموعه موسیقی‌تان را تغییر دهد.</string>
     <string name="permdesc_backgroundCamera">این برنامه می‌تواند در هرزمانی با استفاده از دوربین عکس و فیلم بگیرد.</string>
-    <string name="permdesc_bindCarrierMessagingService">به کنترل‌کننده اجازه می‌دهد که به سطح بالای میانای کاربر سرویس پیام‌رسانی شرکت مخابراتی مقید شود. هرگز نباید برای برنامه‌های عادی مورد نیاز شود.</string>
+    <string name="permdesc_bindCarrierMessagingService">به کنترل‌کننده اجازه می‌دهد که به سطح بالای واسط کاربر سرویس پیام‌رسانی شرکت مخابراتی مقید شود. هرگز نباید برای برنامه‌های عادی مورد نیاز شود.</string>
     <string name="permdesc_bindCarrierServices">به دارنده امکان می‌دهد به سرویس‌های شرکت مخابراتی متصل شود. هرگز نباید برای برنامه‌های عادی مورد نیاز باشد.</string>
     <string name="permdesc_bindCellBroadcastService">به برنامه امکان می‌دهد به مدول پخش سلولی متصل شود تا پیام‌های پخش سلولی را به محض دریافت بازارسال کند. هشدارهای پخش سلولی در برخی از موقعیت‌های مکانی ارسال می‌شوند تا موقعیت‌های اضطراری را به شما اعلام کنند. وقتی پخش سلولی دریافت می‌شود، ممکن است برنامه‌های مخرب در عملکرد یا کارکرد دستگاه شما اختلال ایجاد کنند.</string>
     <string name="permdesc_bindConditionProviderService">به دارنده امکان می‌دهد تا به واسط سطح بالای سرویس ارائه‌دهنده وضعیت مقید باشد. برای برنامه‌های عادی هرگز نباید لازم باشد.</string>
@@ -1283,7 +1355,8 @@
     <string name="permdesc_bluetooth_advertise">برنامه مجاز می‌شود در دستگاه‌های بلوتوث اطراف تبلیغ کند.</string>
     <string name="permdesc_bluetooth_connect">به برنامه اجازه می‌دهد به دستگاه‌های بلوتوث مرتبط‌شده متصل شود</string>
     <string name="permdesc_bluetooth_scan">به برنامه اجازه می‌دهد دستگاه‌های بلوتوث اطراف را پیدا کند و با آن‌ها مرتبط شود</string>
-    <string name="permdesc_bodySensors">به برنامه امکان می‌دهد به اطلاعات حسگرهایی که بر شرایط فیزیکی شما مانند ضربان قلبتان، نظارت دارند، دسترسی داشته باشد.</string>
+    <string name="permdesc_bodySensors">به برنامه اجازه می‌دهد تا زمانی که درحال استفاده است، به داده‌های حسگر بدن، مثل ضربان قلب، دما، و درصد اکسیژن خون دسترسی داشته باشد.</string>
+    <string name="permdesc_bodySensors_background">به برنامه اجازه می‌دهد تا زمانی که در پس‌زمینه درحال اجرا است، به داده‌های حسگر بدن، مثل ضربان قلب، دما، و درصد اکسیژن خون دسترسی داشته باشد.</string>
     <string name="permdesc_broadcastSticky">‏به برنامه اجازه می‎دهد تا پخش‌های ماندگار را که پس از اتمام پخش باقی می‎مانند ارسال کند. استفاده بیش از حد این ویژگی ممکن است باعث مصرف بیش از حد حافظه و در نتیجه کندی یا ناپایداری تلفن شود.</string>
     <string name="permdesc_callCompanionApp">به برنامه‌ها اجازه می‌دهد تماس‌های درحال انجام را در این دستگاه ببیند و کنترل کند. این مورد شامل اطلاعاتی مانند شماره تلفن برای تماس‌ها و وضعیت تماس‌ها است.</string>
     <string name="permdesc_callPhone">به برنامه اجازه می‌دهد بدون دخالت شما با شماره‌های تلفن تماس بگیرد. این ممکن است باعث ایجاد هزینه یا تماس‌های پیش‌بینی نشده شود. توجه داشته باشید که این به برنامه اجازه نمی‌دهد به برقراری تماس‌های اضطراری بپردازد. برنامه‌های مخرب ممکن است با برقراری تماس بدون تأیید شما هزینه‌هایی را برای شما ایجاد کنند.</string>
@@ -1319,18 +1392,24 @@
     <string name="permdesc_manageProfileAndDeviceOwners">به برنامه‌ها امکان می‌دهد، مالکان نمایه و مالک دستگاه را تنظیم کنند.</string>
     <string name="permdesc_mediaLocation">به برنامه اجازه می‌دهد مکان‌ها را از مجموعه رسانه‌تان بخواند.</string>
     <string name="permdesc_modifyAudioSettings">به برنامه امکان می‌دهد تنظیمات صوتی کلی مانند میزان صدا و بلندگوی مورد استفاده برای پخش صدا را تغییر دهد.</string>
-    <string name="permdesc_modifyNetworkAccounting">‏به برنامه اجازه می‎دهد تا نحوه محاسبه کاربرد شبکه در برنامه را تغییر دهد. برای استفاده برنامه‎های عادی نیست.</string>
+    <string name="permdesc_modifyNetworkAccounting">‏به برنامه اجازه می‎دهد تا نحوه محاسبه کاربرد شبکه در برنامه را تغییر دهد. برای استفاده برنامه‌های عادی نیست.</string>
+    <string name="permdesc_nearby_wifi_devices">‏به برنامه اجازه می‌دهد در دستگاه‌های Wi-Fi اطراف تبلیغ کند، به آن‌ها متصل شود، و موقعیت نسبی آن‌ها را تشخیص دهد</string>
     <string name="permdesc_nfc">‏به برنامه اجازه می‎دهد تا با تگ‌های NFC، کارت‌ها و فایل‌خوان ارتباط برقرار کند.</string>
     <string name="permdesc_persistentActivity">به برنامه امکان می‌دهد قسمت‌هایی از خود را در حافظه دائمی کند. این کار حافظه موجود را برای سایر برنامه‌ها محدود کرده و باعث کندی تلفن می‌شود.</string>
+    <string name="permdesc_postNotification">به این برنامه اجازه می‌دهد اعلان نمایش دهد</string>
     <string name="permdesc_preferredPaymentInfo">‏به برنامه اجازه می‌دهد اطلاعات ترجیحی سرویس پولی NFC، مانند کمک‌های ثبت‌شده و مقصد مسیر را دریافت کند.</string>
     <string name="permdesc_processOutgoingCalls">به برنامه اجازه می‌دهد عددی را که در طی یک تماس خروجی شماره‌گیری شده، ببیند و این اختیار را دارد که تماس را به شماره دیگری هدایت کند یا کلاً تماس را قطع کند.</string>
     <string name="permdesc_queryAllPackages">به برنامه اجازه می‌دهد همه بسته‌های نصب‌شده را ببیند.</string>
+    <string name="permdesc_readBasicPhoneState">به برنامه اجازه می‌دهد به ویژگی‌های اصلی ارتباط دوربرد دستگاه دسترسی داشته باشد.</string>
     <string name="permdesc_readCalendar">این برنامه می‌تواند همه رویدادهای تقویم ذخیره‌شده در تلفن شما را بخواند و داده‌های تقویم شما را به اشتراک بگذارد یا ذخیره کند.</string>
     <string name="permdesc_readCallLog">این برنامه می‌تواند سابقه تماس شما را بخواند.</string>
-    <string name="permdesc_readCellBroadcasts">‏به برنامه اجازه می‎دهد پیام‌های پخش سلولی دستگاه شما را بخواند. هشدارهای پخش سلولی در برخی از موقعیت‌های مکانی تحویل داده می‎شوند تا موقعیت‌های اضطراری را به شما اعلام کنند. وقتی پخش سلولی دریافت می‎شود، ممکن است برنامه‎های مخرب در عملکرد یا کارکرد دستگاه شما اختلال ایجاد کنند.</string>
+    <string name="permdesc_readCellBroadcasts">‏به برنامه اجازه می‎دهد پیام‌های پخش سلولی دستگاه شما را بخواند. هشدارهای پخش سلولی در برخی از موقعیت‌های مکانی تحویل داده می‎شوند تا موقعیت‌های اضطراری را به شما اعلام کنند. وقتی پخش سلولی دریافت می‎شود، ممکن است برنامه‌های مخرب در عملکرد یا کارکرد دستگاه شما اختلال ایجاد کنند.</string>
     <string name="permdesc_readContacts">به برنامه اجازه می‌دهد داده‌های مربوط به مخاطبین ذخیره‌شده در تلفن را بخواند. برنامه‌ها همچنین به حساب‌های موجود در تلفن که مخاطبین ایجاد کرده‌اند دسترسی خواهند داشت. می‌تواند شامل حساب‌هایی باشد که توسط برنامه‌هایی که نصب کرده‌اید، ایجاد شده است. این مجوز به برنامه‌ها اجازه می‌دهد داده‌های مخاطب شما را ذخیره کنند، و ممکن است برنامه‌های مخرب بدون اطلاع شما داده‌های مخاطب را هم‌رسانی کنند.</string>
     <string name="permdesc_readHistoryBookmarks">به برنامه اجازه می‌دهد سابقه نشانی‌های وب را که مرورگر بازدید کرده است و همه نشانک‌های مرورگر را بخواند. توجه: این مجوز توسط مرورگرهای شخص ثالث یا سایر برنامه‌های دارای قابلیت مرور وب قابل اجرا نیست.</string>
     <string name="permdesc_readInstallSessions">به برنامه اجازه می‌دهد جلسات نصب را بخواند. این کار به برنامه اجازه می‌دهد جزئیات نصب‌های بسته فعال را ببیند.</string>
+    <string name="permdesc_readMediaAudio">به برنامه اجازه می‌دهد فایل‌های صوتی موجود در فضای ذخیره‌سازی هم‌رسانی‌شده را بخواند.</string>
+    <string name="permdesc_readMediaImages">به برنامه اجازه می‌دهد فایل‌های تصویری موجود در فضای ذخیره‌سازی مشترک را بخواند.</string>
+    <string name="permdesc_readMediaVideo">به برنامه اجازه می‌دهد فایل‌های ویدیویی موجود در فضای ذخیره‌سازی هم‌رسانی‌شده را بخواند.</string>
     <string name="permdesc_readNetworkUsageHistory">‏به برنامه اجازه می‎دهد تا کاربرد شبکه را در طول زمان برای برنامه‎ها و شبکه‎های خاص بخواند.</string>
     <string name="permdesc_readPhoneNumbers">به برنامه امکان می‌دهد به شماره تلفن‌های دستگاه دسترسی داشته باشد.</string>
     <string name="permdesc_readPhoneState">به برنامه اجازه می‌دهد به ویژگی‌های تلفن دستگاه شما دسترسی پیدا کند. این مجوز به برنامه اجازه می‌دهد شماره تلفن و شناسه‌های دستگاه، فعال بودن یک تماس و شماره راه دوری که با یک تماس متصل شده است را مشخص کند.</string>
@@ -1356,12 +1435,14 @@
     <string name="permdesc_sdcardRead">به برنامه اجازه می‌دهد محتوای فضای ذخیره هم‌رسانی‌شده‌تان را بخواند.</string>
     <string name="permdesc_sdcardWrite">به برنامه اجازه می‌دهد محتوای فضای ذخیره‌سازی مشترکتان را بنویسد.</string>
     <string name="permdesc_sendSms">به برنامه اجازه می‌دهد پیامک‌ها را ارسال کند. این باعث ایجاد هزینه‌های پیش‌بینی نشده می‌شود. برنامه‌های مخرب ممکن است با ارسال پیام بدون تأیید شما هزینه‌هایی را برای شما ایجاد کنند.</string>
-    <string name="permdesc_setAlarm">‏به برنامه اجازه می‎دهد تا زنگی را در برنامه ساعت زنگدار نصب‌شده تنظیم کند. برخی از برنامه‎های ساعت زنگدار نمی‌‎توانند این ویژگی را اعمال کنند.</string>
+    <string name="permdesc_setAlarm">‏به برنامه اجازه می‎دهد تا زنگی را در برنامه ساعت زنگدار نصب‌شده تنظیم کند. برخی از برنامه‌های ساعت زنگدار نمی‌‎توانند این ویژگی را اعمال کنند.</string>
     <string name="permdesc_setInputCalibration">به برنامه امکان می‌دهد پارامترهای کالیبراسیون صفحه لمسی را تغییر دهد. هرگز نباید برای برنامه‌های عادی مورد نیاز باشد.</string>
     <string name="permdesc_setTimeZone">‏به برنامه اجازه می‎دهد تا منطقهٔ زمانی تلفن را تغییر دهد.</string>
     <string name="permdesc_setWallpaper">‏به برنامه اجازه می‎دهد تا کاغذدیواری سیستم را تنظیم کند.</string>
     <string name="permdesc_setWallpaperHints">‏به برنامه اجازه می‎دهد تا نکات اندازه کاغذدیواری سیستم را تنظیم کند.</string>
     <string name="permdesc_sim_communication">به برنامه اجازه ارسال دستورات به سیم کارت را می‌دهد. این بسیار خطرناک است.</string>
+    <string name="permdesc_startReviewPermissionDecisions">به دارنده امکان می‌دهد صفحه را برای مرور تصمیم‌های مربوط به اجازه‌ها شروع کند. هرگز نباید برای برنامه‌های عادی لازم باشد.</string>
+    <string name="permdesc_startViewAppFeatures">به دارنده اجازه می‌دهد اطلاعات مربوط به ویژگی‌های برنامه را مشاهده کند.</string>
     <string name="permdesc_startViewPermissionUsage">به دارنده اجازه شروع استفاده از مجوز را برای برنامه می‌دهد. هرگز برای برنامه‌های معمول نیاز نیست.</string>
     <string name="permdesc_statusBar">‏به برنامه اجازه می‎دهد تا نوار وضعیت را غیرفعال کند یا نمادهای سیستم را اضافه یا حذف کند.</string>
     <string name="permdesc_statusBarService">‏به برنامه اجازه می‎دهد که تبدیل به نوار وضعیت شود.</string>
@@ -1382,9 +1463,9 @@
     <string name="permdesc_writeCalendar">این برنامه می‌تواند در تلفن شما رویدادهای تقویم اضافه کند، آن‌ها را حذف کند یا تغییر دهد. این برنامه می‌تواند پیام‌هایی ارسال کند که گویی از طرف مالکان تقویم هستند یا رویدادها را بدون اطلاع مالکان تغییر دهد.</string>
     <string name="permdesc_writeCallLog">‏به برنامه اجازه می‌دهد گزارشات تماس تلفنی شما، از جمله داده‌هایی درمورد تماس‎های ورودی و خروجی را تغییر دهد. برنامه‌های مخرب ممکن است از این ویژگی برای پاک کردن یا تغییر گزارش تماس شما استفاده کنند.</string>
     <string name="permdesc_writeContacts">به برنامه اجازه می‌دهد داده‌های مربوط به مخاطبین ذخیره‌شده در تلفنتان را تغییر دهد. این مجوز به برنامه‌ها اجازه می‌دهد داده‌های مخاطب را حذف کنند.</string>
-    <string name="permdesc_writeGeolocationPermissions">‏به برنامه اجازه می‎دهد تا مجوزهای جغرافیایی مرورگر را تغییر دهد. برنامه‎های مخرب می‎توانند از آن استفاده کنند تا اطلاعات موقعیت مکانی را به سایت‌های وب کتابخانه بفرستند.</string>
+    <string name="permdesc_writeGeolocationPermissions">‏به برنامه اجازه می‎دهد تا مجوزهای جغرافیایی مرورگر را تغییر دهد. برنامه‌های مخرب می‎توانند از آن استفاده کنند تا اطلاعات موقعیت مکانی را به سایت‌های وب کتابخانه بفرستند.</string>
     <string name="permdesc_writeHistoryBookmarks">به برنامه اجازه می‌دهد سابقه مرورگر یا نشانک‌های ذخیره‌شده در تلفن شما را تغییر دهد. این ممکن است به برنامه اجازه دهد داده‌های مرورگر را حذف کند یا تغییر دهد. توجه: این مجوز ممکن است توسط مرورگرهای شخص ثالث یا سایر برنامه‌های دارای قابلیت مرور وب قابل اجرا نباشد.</string>
-    <string name="permdesc_writeSettings">‏به برنامه اجازه می‎دهد تا داده‎های تنظیم سیستم را تغییر دهد. برنامه‎های مخرب می‎توانند پیکربندی سیستم شما را خراب کنند.</string>
+    <string name="permdesc_writeSettings">‏به برنامه اجازه می‎دهد تا داده‎های تنظیم سیستم را تغییر دهد. برنامه‌های مخرب می‎توانند پیکربندی سیستم شما را خراب کنند.</string>
     <string name="permdesc_writeSyncSettings">به برنامه اجازه می‌دهد تنظیمات همگام‌سازی را برای حساب تغییر دهد. به‌عنوان مثال، از این ویژگی می‌توان برای فعال کردن همگام‌سازی برنامه «افراد» با یک حساب استفاده کرد.</string>
     <string name="permgroupdesc_activityRecognition">دسترسی به فعالیت فیزیکی شما</string>
     <string name="permgroupdesc_calendar">دسترسی به تقویم شما</string>
@@ -1394,10 +1475,13 @@
     <string name="permgroupdesc_location">دسترسی به موقعیت مکانی این دستگاه</string>
     <string name="permgroupdesc_microphone">ضبط صدا</string>
     <string name="permgroupdesc_nearby_devices">پیدا کردن دستگاه‌های اطراف و متصل شدن به آن‌ها</string>
+    <string name="permgroupdesc_notifications">نمایش اعلان</string>
     <string name="permgroupdesc_phone">برقراری و مدیریت تماس‌های تلفنی</string>
+    <string name="permgroupdesc_readMediaAural">دسترسی به موسیقی و صدا در دستگاه شما</string>
+    <string name="permgroupdesc_readMediaVisual">دسترسی به عکس‌ها و ویدیوها در دستگاه شما</string>
     <string name="permgroupdesc_sensors">دسترسی به داده‌های حسگر در رابطه با علائم حیاتی شما</string>
     <string name="permgroupdesc_sms">ارسال و مشاهده پیامک‌ها</string>
-    <string name="permgroupdesc_storage">دسترسی به عکس‌ها، رسانه‌ها و فایل‌های روی دستگاهتان</string>
+    <string name="permgroupdesc_storage">دسترسی به فایل‌های دستگاه</string>
     <string name="permgrouplab_activityRecognition">فعالیت فیزیکی</string>
     <string name="permgrouplab_calendar">تقویم</string>
     <string name="permgrouplab_calllog">گزارش‌های تماس</string>
@@ -1406,10 +1490,13 @@
     <string name="permgrouplab_location">مکان</string>
     <string name="permgrouplab_microphone">میکروفن</string>
     <string name="permgrouplab_nearby_devices">دستگاه‌های اطراف</string>
+    <string name="permgrouplab_notifications">اعلان‌ها</string>
     <string name="permgrouplab_phone">تلفن</string>
+    <string name="permgrouplab_readMediaAural">موسیقی و صدا</string>
+    <string name="permgrouplab_readMediaVisual">عکس‌ها و ویدیوها</string>
     <string name="permgrouplab_sensors">حسگرهای بدن</string>
     <string name="permgrouplab_sms">پیامک</string>
-    <string name="permgrouplab_storage">فایل‌ها و رسانه‌ها</string>
+    <string name="permgrouplab_storage">فایل‌ها</string>
     <string name="permission_request_notification_for_app_with_subtitle">"%1$s برای دسترسی به حساب %2$s
 درخواست اجازه کرد."</string>
     <string name="permission_request_notification_title">مجوز درخواست شد</string>
@@ -1446,7 +1533,8 @@
     <string name="permlab_bluetooth_advertise">تبلیغ در دستگاه‌های بلوتوث اطراف</string>
     <string name="permlab_bluetooth_connect">اتصال به دستگاه‌های بلوتوث مرتبط‌شده</string>
     <string name="permlab_bluetooth_scan">یافتن دستگاه‌های بلوتوث اطراف و مرتبط شدن با آن‌ها</string>
-    <string name="permlab_bodySensors">دسترسی به حسگرهای بدن (مانند پایشگرهای ضربان قلب)</string>
+    <string name="permlab_bodySensors">دسترسی به داده‌های حسگر بدن، مثل ضربان قلب، درحین استفاده</string>
+    <string name="permlab_bodySensors_background">دسترسی به داده‌های حسگر بدن، مثل ضربان قلب، درحین اجرا در پس‌زمینه</string>
     <string name="permlab_broadcastSticky">ارسال پخش چسبنده</string>
     <string name="permlab_callCompanionApp">دیدن و کنترل تماس‌ها ازطریق سیستم.</string>
     <string name="permlab_callPhone">تماس مستقیم با شماره تلفن‌ها</string>
@@ -1468,7 +1556,7 @@
     <string name="permlab_fullScreenIntent">نمایش اعلان‌ها به‌صورت فعالیت‌های تمام‌صفحه در دستگاه قفل</string>
     <string name="permlab_getAccounts">یافتن حساب‌ها در دستگاه</string>
     <string name="permlab_getPackageSize">اندازه‌گیری اندازه فضای ذخیره‌سازی برنامه</string>
-    <string name="permlab_getTasks">‏بازیابی برنامه‎های در حال اجرا</string>
+    <string name="permlab_getTasks">بازیابی برنامه‌های در حال اجرا</string>
     <string name="permlab_handoverStatus">‏دریافت وضعیت انتقال Android Beam</string>
     <string name="permlab_highSamplingRateSensors">دسترسی به داده‌های حسگر با نرخ نمونه‌برداری بالا</string>
     <string name="permlab_imagesWrite">تغییر مجموعه عکس شما</string>
@@ -1483,17 +1571,23 @@
     <string name="permlab_mediaLocation">خواندن مکان‌ها از مجموعه رسانه شما</string>
     <string name="permlab_modifyAudioSettings">تغییر تنظیمات صوتی</string>
     <string name="permlab_modifyNetworkAccounting">تغییر محاسبه استفاده از شبکه</string>
+    <string name="permlab_nearby_wifi_devices">‏برقراری تعامل با دستگاه‌های Wi-Fi اطراف</string>
     <string name="permlab_nfc">کنترل ارتباط راه نزدیک</string>
     <string name="permlab_persistentActivity">همیشه برنامه اجرا شود</string>
+    <string name="permlab_postNotification">نمایش اعلان</string>
     <string name="permlab_preferredPaymentInfo">‏اطلاعات ترجیحی سرویس پولی NFC</string>
     <string name="permlab_processOutgoingCalls">ترسیم مجدد مسیر تماس‌های خروجی</string>
     <string name="permlab_queryAllPackages">پُرسمان همه بسته‌ها</string>
+    <string name="permlab_readBasicPhoneState">خواندن شناسه و وضعیت اصلی ارتباط دوربرد</string>
     <string name="permlab_readCalendar">خواندن رویدادها و جزئیات تقویم</string>
     <string name="permlab_readCallLog">خواندن گزارش تماس</string>
     <string name="permlab_readCellBroadcasts">خواندن پیام‌های پخش سلولی</string>
     <string name="permlab_readContacts">خواندن مخاطبین شما</string>
     <string name="permlab_readHistoryBookmarks">خواندن سابقه و نشانک‌های وب شما</string>
     <string name="permlab_readInstallSessions">خواندن جلسات نصب</string>
+    <string name="permlab_readMediaAudio">خواندن فایل‌های صوتی موجود در فضای ذخیره‌سازی هم‌رسانی‌شده</string>
+    <string name="permlab_readMediaImages">خواندن فایل‌های تصویری موجود در فضای ذخیره‌سازی مشترک</string>
+    <string name="permlab_readMediaVideo">خواندن فایل‌های ویدیویی موجود در فضای ذخیره‌سازی هم‌رسانی‌شده</string>
     <string name="permlab_readNetworkUsageHistory">خواندن سابقه استفاده از شبکه</string>
     <string name="permlab_readPhoneNumbers">خواندن شماره تلفن‌ها</string>
     <string name="permlab_readPhoneState">خواندن وضعیت تلفن و شناسه</string>
@@ -1509,7 +1603,7 @@
     <string name="permlab_register_call_provider">ثبت ارتباطات مخابراتی جدید</string>
     <string name="permlab_register_sim_subscription">ثبت ارتباطات سیم کارت مخابراتی جدید</string>
     <string name="permlab_removeDrmCertificates">‏حذف گواهی‌های DRM</string>
-    <string name="permlab_reorderTasks">‏تنظیم مجدد ترتیب برنامه‎های در حال اجرا</string>
+    <string name="permlab_reorderTasks">تنظیم مجدد ترتیب برنامه‌های در حال اجرا</string>
     <string name="permlab_requestDeletePackages">درخواست حذف بسته‌ها</string>
     <string name="permlab_requestIgnoreBatteryOptimizations">درخواست نادیده‌گرفتن بهینه‌سازی باتری</string>
     <string name="permlab_requestInstallPackages">درخواست نصب بسته</string>
@@ -1525,6 +1619,8 @@
     <string name="permlab_setWallpaper">تنظیم کاغذدیواری</string>
     <string name="permlab_setWallpaperHints">تنظیم اندازه کاغذدیواری</string>
     <string name="permlab_sim_communication">ارسال فرمان به سیم کارت</string>
+    <string name="permlab_startReviewPermissionDecisions">شروع مشاهده تصمیم‌های مربوط به اجازه‌ها</string>
+    <string name="permlab_startViewAppFeatures">مشاهده ویژگی‌های برنامه</string>
     <string name="permlab_startViewPermissionUsage">شروع مشاهده استفاده از مجوز</string>
     <string name="permlab_statusBar">غیرفعال کردن یا تغییر نوار وضعیت</string>
     <string name="permlab_statusBarService">نوار وضعیت باشد</string>
@@ -1658,7 +1754,7 @@
     <string name="resolver_cant_access_work_apps_explanation">نمی‌توان این محتوا را با برنامه‌های کاری باز کرد</string>
     <string name="resolver_cant_share_with_personal_apps_explanation">نمی‌توان این محتوا را با برنامه‌های شخصی هم‌رسانی کرد</string>
     <string name="resolver_cant_share_with_work_apps_explanation">نمی‌توان این محتوا را با برنامه‌های کاری هم‌رسانی کرد</string>
-    <string name="resolver_cross_profile_blocked">سرپرست سیستم آن را مسدود کرده است</string>
+    <string name="resolver_cross_profile_blocked">سرپرست فناوری اطلاعات آن را مسدود کرده است</string>
     <string name="resolver_no_personal_apps_available">برنامه شخصی‌ای وجود ندارد</string>
     <string name="resolver_no_work_apps_available">برنامه کاری‌ای وجود ندارد</string>
     <string name="resolver_personal_tab">شخصی</string>
@@ -1677,6 +1773,10 @@
     <string name="restr_pin_error_too_short">پین بیش از حد کوتاه است. باید حداقل ۴ رقم باشد.</string>
     <string name="restr_pin_incorrect">نادرست</string>
     <string name="restr_pin_try_later">بعداً دوباره امتحان کنید</string>
+    <string name="review_notification_settings_dismiss">رد شدن</string>
+    <string name="review_notification_settings_remind_me_action">بعداً یادآوری شود</string>
+    <string name="review_notification_settings_text">‏از Android نسخه ۱۳ به بعد، برنامه‌هایی که نصب می‌کنید برای ارسال اعلان به اجازه شما نیاز دارند. برای تغییر دادن این اجازه در برنامه‌های موجود، ضربه بزنید.</string>
+    <string name="review_notification_settings_title">مرور تنظیمات اعلان</string>
     <string name="revoke">لغو</string>
     <string name="ringtone_default">آهنگ زنگ پیش‌فرض</string>
     <string name="ringtone_default_with_actual">پیش‌فرض (%1$s)</string>
@@ -1796,7 +1896,7 @@
     <string name="sms_control_message">‏&lt;b>%1$s&lt;/b> درحال ارسال تعداد زیادی پیامک است. آیا اجازه می‌دهید این برنامه همچنان پیامک ارسال کند؟</string>
     <string name="sms_control_no">مجاز نبودن</string>
     <string name="sms_control_title">درحال ارسال پیامک‌ها</string>
-    <string name="sms_control_yes">مجاز بودن</string>
+    <string name="sms_control_yes">اجازه دادن</string>
     <string name="sms_premium_short_code_details"><b>این مورد هزینه‌ای را به حساب دستگاه همراهتان می‌گذارد.</b></string>
     <string name="sms_short_code_confirm_allow">ارسال</string>
     <string name="sms_short_code_confirm_always_allow">همیشه مجاز است</string>
@@ -1813,6 +1913,7 @@
     <string name="ssl_ca_cert_noti_by_administrator">توسط سرپرست نمایه کاری شما</string>
     <string name="ssl_ca_cert_noti_by_unknown">توسط یک شخص ثالث ناشناس</string>
     <string name="ssl_ca_cert_noti_managed">توسط %s</string>
+    <string name="ssl_ca_cert_warning">{count,plural, =1{مرجع صدور گواهی نصب شد}one{مرجع صدور گواهی نصب شد}other{مراجع صدور گواهی نصب شد}}</string>
     <string name="ssl_certificate">گواهی امنیتی</string>
     <string name="ssl_certificate_is_valid">این گواهی معتبر است.</string>
     <string name="stk_cc_ss_to_dial">‏درخواست SS به تماس معمولی تغییر کرد</string>
@@ -1830,6 +1931,7 @@
     <string name="storage_usb_drive">‏درایو USB</string>
     <string name="storage_usb_drive_label">‏درایو USB ‏%s</string>
     <string name="submit">ارسال</string>
+    <string name="supervised_user_creation_label">افزودن کاربر تحت نظارت</string>
     <string name="suspended_widget_accessibility">%1$s غیرفعال شد</string>
     <string name="sync_binding_label">همگام‌سازی</string>
     <string name="sync_do_nothing">اکنون کاری انجام نشود</string>
@@ -1839,6 +1941,7 @@
     <string name="sync_undo_deletes">واگرد موارد حذف شده</string>
     <string name="system_error_manufacturer">دستگاهتان یک مشکل داخلی دارد. برای جزئیات آن با سازنده‌تان تماس بگیرید.</string>
     <string name="system_error_wipe_data">دستگاهتان یک مشکل داخلی دارد، و ممکن است تا زمانی که بازنشانی داده‌های کارخانه انجام نگیرد، بی‌ثبات بماند.</string>
+    <string name="system_locale_title">پیش‌فرض سیستم</string>
     <string name="taking_remote_bugreport_notification_title">درحال گرفتن گزارش اشکال…</string>
     <string name="terabyteShort">ترابایت</string>
     <string name="test_harness_mode_notification_message">برای غیرفعال کردن «حالت مجموعه داده‌های تست»، بازنشانی کارخانه‌ای کنید.</string>
@@ -1908,6 +2011,7 @@
     <string name="user_switched">کاربر کنونی %1$s.</string>
     <string name="user_switching_message">در حالت تغییر به %1$s…</string>
     <string name="validity_period">اعتبار:</string>
+    <string name="vdm_camera_access_denied">نمی‌توان از %1$s شما به دوربین تلفن دسترسی داشت</string>
     <string name="view_and_control_notification_content">%s می‌تواند صفحه‌نمایش شما را مشاهده و کنترل کند. برای مرور، ضربه بزنید.</string>
     <string name="view_and_control_notification_title">بررسی تنظیمات دسترسی</string>
     <string name="volume_alarm">میزان صدای زنگ</string>
@@ -2009,9 +2113,18 @@
     <string name="zen_mode_default_weekends_name">آخر هفته</string>
     <string name="zen_mode_default_weeknights_name">شب آخر هفته</string>
     <string name="zen_mode_downtime_feature_name">فرویش</string>
+    <string name="zen_mode_duration_hours">{count,plural, =1{به‌مدت یک ساعت}one{به‌مدت # ساعت}other{به‌مدت # ساعت}}</string>
+    <string name="zen_mode_duration_hours_short">{count,plural, =1{به‌مدت یک ساعت}one{به‌مدت # ساعت}other{به‌مدت # ساعت}}</string>
+    <string name="zen_mode_duration_hours_summary">{count,plural, =1{به‌مدت یک ساعت (تا {formattedTime})}one{به‌مدت # ساعت (تا {formattedTime})}other{به‌مدت # ساعت (تا {formattedTime})}}</string>
+    <string name="zen_mode_duration_hours_summary_short">{count,plural, =1{به‌مدت یک ساعت (تا {formattedTime})}one{به‌مدت # ساعت (تا {formattedTime})}other{به‌مدت # ساعت (تا {formattedTime})}}</string>
+    <string name="zen_mode_duration_minutes">{count,plural, =1{به‌مدت یک دقیقه}one{به‌مدت # دقیقه}other{به‌مدت # دقیقه}}</string>
+    <string name="zen_mode_duration_minutes_short">{count,plural, =1{به‌مدت یک دقیقه}one{به‌مدت # دقیقه}other{به‌مدت # دقیقه}}</string>
+    <string name="zen_mode_duration_minutes_summary">{count,plural, =1{به‌مدت یک دقیقه (تا {formattedTime})}one{به‌مدت # دقیقه (تا {formattedTime})}other{به‌مدت # دقیقه (تا {formattedTime})}}</string>
+    <string name="zen_mode_duration_minutes_summary_short">{count,plural, =1{به‌مدت یک دقیقه (تا {formattedTime})}one{به‌مدت # دقیقه (تا {formattedTime})}other{به‌مدت # دقیقه (تا {formattedTime})}}</string>
     <string name="zen_mode_feature_name">مزاحم نشوید</string>
     <string name="zen_mode_forever">تا زمانی‌که آن را خاموش کنید</string>
     <string name="zen_mode_forever_dnd">تا زمانی که «مزاحم نشوید» را خاموش کنید</string>
+    <string name="zen_mode_rule_name_combination">%1$s /‏ %2$s</string>
     <string name="zen_mode_until">تا %1$s</string>
     <string name="zen_mode_until_next_day">تا %1$s</string>
     <string name="zen_upgrade_notification_content">برای بررسی موارد مسدودشده ضربه بزنید.</string>

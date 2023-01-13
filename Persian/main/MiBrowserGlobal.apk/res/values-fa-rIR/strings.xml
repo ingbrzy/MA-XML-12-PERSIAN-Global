@@ -119,13 +119,21 @@
     <string name="am">ق.ظ</string>
     <string name="app_cache">حافظه پنهان</string>
     <string name="app_library_category_entertainment">سرگرمی</string>
+    <string name="app_library_category_financial_management">امور مالی</string>
     <string name="app_library_category_games">بازی‌ها</string>
+    <string name="app_library_category_health_and_exercise">سلامت</string>
+    <string name="app_library_category_individualization">شخصی سازی</string>
     <string name="app_library_category_information">رسانه</string>
     <string name="app_library_category_lifestyle">سبک زندگی</string>
+    <string name="app_library_category_originality">خلاقیت</string>
     <string name="app_library_category_others">سایر</string>
     <string name="app_library_category_productivity">خلاقیت</string>
+    <string name="app_library_category_reading_and_information">اخبار</string>
+    <string name="app_library_category_shopping_and_food">خرید</string>
     <string name="app_library_category_social">اجتماعی</string>
+    <string name="app_library_category_travel">سفر</string>
     <string name="app_library_category_utility">ابزارها</string>
+    <string name="app_library_category_work_and_efficiency">خلاقیت</string>
     <string name="app_library_title">برنامه‌ها</string>
     <string name="app_name_bluetooth">بلوتوث</string>
     <string name="app_name_camera">دوربین</string>
@@ -144,6 +152,7 @@
     <string name="app_update_install">آماده نصب به‌روزرسانی.</string>
     <string name="application">برنامه‌ها</string>
     <string name="application_name">مرورگر</string>
+    <string name="application_upgrade">به‌روزرسانی‌ها</string>
     <string name="aqi_quality_index_break">به شدت خطرناک</string>
     <string name="aqi_quality_index_dangerous">خطرناک</string>
     <string name="aqi_quality_index_good">خوب</string>
@@ -175,6 +184,7 @@
     <string name="bookmark_btn_select_all">انتخاب همه</string>
     <string name="bookmark_btn_select_none">لغو انتخاب همه</string>
     <string name="bookmark_cannot_save_url">این نشانی اینترنتی نمی‌تواند به‌عنوان نشانک ذخیره شود.</string>
+    <string name="bookmark_file_privacy_nightmode_moved_here">میان‌بر ویژگی‌ها و حالت‌های مرور در اینجا یافت می‌شوند</string>
     <string name="bookmark_folder_needs_title">وارد کردن نام گروه</string>
     <string name="bookmark_group_lable">گروه</string>
     <string name="bookmark_needs_title">نشانک باید نامگذاری شود</string>
@@ -269,9 +279,12 @@
     <string name="choose_to_signin">بله</string>
     <string name="choose_to_signup">خیر. یکی خواهم ساخت</string>
     <string name="choosertitle_sharevia">هم‌رسانی از طریق</string>
+    <string name="clean_cache">پاک‌سازی حافظه پنهان</string>
     <string name="clear">پاک‌سازی</string>
     <string name="clear_history">پاک کردن تاریخچه</string>
     <string name="clear_most_visited">تاریخچه تازه</string>
+    <string name="clear_result_page_more_content">یافتن موارد بیشتر</string>
+    <string name="clear_result_page_show_more">نمایش بیشتر</string>
     <string name="clear_search_history">پاک کردن تاریخچه</string>
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
     <string name="cleared_garbage">‏%d مگابایت از زباله‌ها پاک‌سازی شد</string>
@@ -290,6 +303,7 @@
     <string name="close_all_tab_alert_title">بستن همه زبانه‌ها</string>
     <string name="close_cant_recommand">در صورت خاموش کردن این ویژگی دیگر خدمات محتوایی شخصی‌سازی شده را دریافت نخواهید کرد.</string>
     <string name="close_cloud_tab_tip">زبانه‌های فضای ابری در %s بسته شوند؟</string>
+    <string name="close_desktop">نسخه رایانه رومیزی خاموش شد</string>
     <string name="cloud_loading_tips">برای همگام‌سازی به سمت پایین بکشید</string>
     <string name="cloud_no_new_data_toast">همه چیز به روز است</string>
     <string name="cloud_sync_closed_toast">به دلیل خاموش بودن همگام‌سازی به‌روزرسانی نمی‌شود</string>
@@ -404,6 +418,7 @@
     <string name="display__quick_entry_of_search">نمایش میان‌برهای ویژگی‌ها در کرکره اعلان</string>
     <string name="doc_viewer_label">کتاب‌خوان (مرورگر Mi)</string>
     <string name="doc_viewer_open_out_file_prompt">برای باز کردن و نمایش یک فایل دریافتی از منابع خارجی، این برنامه ابتدا به ایجاد یک نسخه کپی از فایل نیاز دارد. ادامه داده شود؟</string>
+    <string name="doc_viewer_user_guide_profile">دیدن موردی که اینجا درحال مرور بودید</string>
     <string name="document_download_background_btn">دانلود در پس زمینه</string>
     <string name="document_download_cancel_btn">لغو</string>
     <string name="document_download_failed">دانلود نشد</string>
@@ -604,6 +619,7 @@
     <string name="file_picker">انتخاب مسیر</string>
     <string name="filename_empty_alert_message">نام فایل را وارد کنید</string>
     <string name="filename_illegal_alert_message">یک نویسه نامعتبر از نام فایل حذف شده است</string>
+    <string name="files_stored_in_the_phone">فایل‌های ذخیره در این دستگاه</string>
     <string name="find_garbage">%d مگابایت زباله یافت شد</string>
     <string name="find_new_version">به‌روزرسانی جدید در دسترس است</string>
     <string name="find_on_page_cancel">لغو کردن</string>
@@ -681,6 +697,7 @@
     <string name="friday">جمعه</string>
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
+    <string name="game_center">بازی‌ها</string>
     <string name="game_center_recommend_play">بازی</string>
     <string name="game_center_recommend_title">پیشنهاد شده برای شما</string>
     <string name="game_play">بازی</string>
@@ -749,6 +766,10 @@
     <string name="homepage_setting">تنظیمات صفحه آغاز</string>
     <string name="homepage_top_card_menu">بالا</string>
     <string name="hot_games">پرطرفدار</string>
+    <string name="hot_news_notify_summary">اعلان‌های فشاری برای جدیدترین موضوعات خبری</string>
+    <string name="hot_news_notify_tips_light">اعلان‌های خبری را می‌توانید در &lt;font color=\"#0D84FF\">تنظیمات&lt;/font> خاموش کنید</string>
+    <string name="hot_news_notify_title">اعلان‌های خبری</string>
+    <string name="hour_minute">%1$s و %2$s</string>
     <string name="i_know">توقف</string>
     <string name="identity">شناسایی</string>
     <string name="if_cancel">این عملیات لغو شود؟</string>
@@ -831,6 +852,8 @@
     <string name="loading_tips">برای تازه‌سازی به پایین بکشید</string>
     <string name="local_apps">برنامه‌های محلی</string>
     <string name="local_bookmarks">Mi</string>
+    <string name="local_file">فایل‌های محلی</string>
+    <string name="local_video_player_label">پخش کننده ویدئو (مرورگر Mi)</string>
     <string name="location_permission_name">دسترسی به موقعیت</string>
     <string name="lockpattern_continue_button_text">بعدی</string>
     <string name="lockpattern_need_to_confirm">الگوی باز کردن قفل را تأیید کنید</string>
@@ -859,6 +882,7 @@
     <string name="media_error_video_not_exist">ویدئو وجود ندارد</string>
     <string name="memory_clear_nothing_result">چیزی برای پاک شدن در حافظه پنهان نیست</string>
     <string name="memory_clear_result">%1$s پاک‌سازی شد</string>
+    <string name="memory_management">مدیریت حافظه</string>
     <string name="memory_usage">حافظه</string>
     <string name="menu_addtodesk">افزودن به صفحه اصلی</string>
     <string name="menu_exit_nightmode">خروج</string>
@@ -958,6 +982,7 @@
     <string name="month_september_short">سپتامبر</string>
     <string name="month_september_shortest">سپتامبر</string>
     <string name="more">بیشتر</string>
+    <string name="more_convenient_features_and_content">ببینید مرورگر چه ابزارها و محتواهای جدیدی برای پیشنهاد دارد!</string>
     <string name="more_description">منو</string>
     <string name="more_info">اطلاعات بیشتر</string>
     <string name="more_option">گزینه‌های بیشتر</string>
@@ -1144,6 +1169,7 @@
     <string name="my_account">حساب من</string>
     <string name="my_cahnnel">کانال‌های من</string>
     <string name="my_channel">کانال‌های من</string>
+    <string name="my_prize_entry">پاداش‌های من</string>
     <string name="name_empty">باید نامی را وارد کنید.</string>
     <string name="nav_bottom_bar_back">بازگشت</string>
     <string name="nav_bottom_bar_close_all">بستن همه</string>
@@ -1197,6 +1223,7 @@
     <string name="no_network">اتصال شبکه خود را بررسی کرده و دوباره امتحان کنید.</string>
     <string name="no_phone">شماره تلفن وجود ندارد</string>
     <string name="no_recent_files">فایل تازه‌ای وجود ندارد</string>
+    <string name="no_scalable_applications">همه برنامه‌ها به‌روز هستند</string>
     <string name="no_space_alert_cancel">بعداً</string>
     <string name="no_space_alert_clean">آزاد کردن فضا</string>
     <string name="no_space_alert_text">فضای ذخیره‌ سازی کافی وجود ندارد</string>
@@ -1227,9 +1254,11 @@
     <string name="novel_continue_read_popup">خواندن</string>
     <string name="novel_tab_popup">جدیدترین کتاب‌های خود را در اینجا ببینید</string>
     <string name="novel_tab_popup_ok">تأیید</string>
+    <string name="occupy">%s اشغال شده است</string>
     <string name="ok">تأیید</string>
     <string name="one_prefect_author">سازنده</string>
     <string name="open_app_confirm_message">به این صفحه اجازه باز کردن %s داده شود؟</string>
+    <string name="open_desktop">با موفقیت به نسخه رایانه رومیزی تعویض شد</string>
     <string name="open_google_gaid">برای امکان استفاده از این ویژگی، مطمئن شوید که از شخصی سازی تبلیغات در تنظیمات > Google > تبلیغات منصرف نشده‌اید.</string>
     <string name="open_personalized_services">برای استفاده از این ویژگی خدمات شخصی سازی خود را روشن کنید.</string>
     <string name="open_private_folder">رها کنید تا پوشه‌های پنهان نشان داده شوند</string>
@@ -1242,6 +1271,7 @@
     <string name="operation_rename">تغییر نام</string>
     <string name="operation_rename_message">نام جدید را وارد کنید</string>
     <string name="operation_send">ارسال</string>
+    <string name="opr_activity_title">با تماشای فصل جایزه بگیرید</string>
     <string name="other_channel">برای افزودن کانال‌های بیشتر ضربه بزنید.</string>
     <string name="page_info">اطلاعات صفحه</string>
     <string name="page_info_address">نشانی:</string>
@@ -1408,6 +1438,7 @@
     <string name="popular_game_video">Popular Game Video</string>
     <string name="popup_window_attempt">اجازه باز کردن پنجره شناور را به این سایت می‌دهید؟</string>
     <string name="positive_confirm_message">درهرصورت خاموش شود</string>
+    <string name="power_saving_settings">بهینه‌سازی باتری</string>
     <string name="pref_accessibility">دسترسی‌پذیری</string>
     <string name="pref_accessibility_title">دسترسی‌پذیری</string>
     <string name="pref_adblock_summary">هنگام روشن بودن این ویژگی ممکن است صفحات آهسته‌تر بارگذاری شوند</string>
@@ -1620,6 +1651,7 @@
     <string name="pwa_hint_added_success">با موفقیت افزوده شد</string>
     <string name="qr_code_title">کد QR</string>
     <string name="qr_description">اسکن کد QR</string>
+    <string name="quick_access_to_common_functions">دسترسی سریع به ویژگی‌های مورد پسند شما</string>
     <string name="quick_search_and_access_to_functions">جستجوی فوری به شما امکان دسترسی آسان به ویژگی‌هایی که بیشتر استفاده می‌کنید را می‌دهد.</string>
     <string name="quicklink_bookmark_save">ذخیره در</string>
     <string name="quicklink_cannot_save_url">این پیوند نمی‌تواند افزوده شود.</string>
@@ -1637,6 +1669,9 @@
     <string name="quicklinks_most_visited">افزودن به صفحه آغاز</string>
     <string name="quicklinks_most_visited_subtitle">نمایش سایت‌های تازه بازدید شده در پنجره جدید</string>
     <string name="quicklinks_most_visited_title">افزودن به صفحه آغاز</string>
+    <string name="reading__business_recommend_at_end_more">نمایش بیشتر</string>
+    <string name="reading__business_recommend_at_end_other_docs">خواندنی‌های بیشتر</string>
+    <string name="reading__business_recommend_at_end_title">محتوای پیشنهادی</string>
     <string name="reading__cancel">لغو</string>
     <string name="reading__menu_open_with_another_app">باز کردن با یک برنامه دیگر</string>
     <string name="reading__menu_play">نمایش به‌صورت اسلاید</string>
@@ -1644,6 +1679,7 @@
     <string name="reading__menu_search">جستجو</string>
     <string name="reading__menu_share">هم‌رسانی</string>
     <string name="reading__menu_thumbnail">ریزعکس‌های صفحه</string>
+    <string name="reading__reading_end">پایان</string>
     <string name="reading__reading_first_page">این نخستین صفحه است</string>
     <string name="reading__reading_last_page">این آخرین صفحه است</string>
     <string name="reading__search_cancel">لغو</string>
@@ -1755,6 +1791,9 @@
     <string name="search_bar_hint_content">جستجوی برنامه‌ها و محتواها</string>
     <string name="search_bing">Bing</string>
     <string name="search_button_text">برو</string>
+    <string name="search_card_online_rec_app">بازارهای برنامه</string>
+    <string name="search_card_online_rec_app_install">نصب</string>
+    <string name="search_card_online_rec_app_open">باز کردن</string>
     <string name="search_dianping">Cate</string>
     <string name="search_easou">Easou</string>
     <string name="search_empty_view_hint">چیزی یافت نشد</string>
@@ -1828,6 +1867,8 @@
     <string name="setting_searchable_content">موارد قابل جستجو</string>
     <string name="setting_sms_content">محتوای پیامک</string>
     <string name="setting_swipe_up">کشیدن صفحه اصلی به سمت بالا</string>
+    <string name="settings_search_online_apps">بازارهای برنامه</string>
+    <string name="settings_search_online_apps_desc">محتوا از بازارهای برنامه</string>
     <string name="share_image_text">ببینید چه چیز را هم‌رسانی کرده‌ام! @MIUI</string>
     <string name="share_page_text">ببینید چه چیزی را هم‌رسانی کرده‌ام: %1$s @MIUI| %2$s</string>
     <string name="share_slide_video_text">ببینید چه چیزی را هم‌رسانی کرده‌ام: %1$s</string>
@@ -1864,6 +1905,11 @@
     <string name="speed_test_no_network">به شبکه متصل نشد. تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید.</string>
     <string name="speed_test_ping">تاخیر</string>
     <string name="speed_test_upload">بارگذاری</string>
+    <string name="sport_card_match_week">هفته %d</string>
+    <string name="sports_card_match_season">فصل</string>
+    <string name="sports_card_match_status_1">انجام نشده</string>
+    <string name="sports_card_match_status_2">در حال انجام</string>
+    <string name="sports_card_match_status_3">پایان یافته</string>
     <string name="ssl_bad_clock_date_settings">تنظیم تاریخ</string>
     <string name="ssl_bad_clock_warning" formatted="false">اتصال خصوصی به %s1 نمی‌تواند ایجاد شود، زیرا تاریخ و زمان دستگاه شما (%s2) نادرست است.</string>
     <string name="ssl_bad_expired_warning">این کانال توسط %1$s ارائه شده است. با این وجود، تاریخ و زمان تنظیم شده روی دستگاه شما (%2$s) اجازه برقراری اتصال امن با %1$s را نمی‌دهد. می‌توانید تاریخ و زمان درست را تنظیم کرده و یا در صورتی که همچنان می‌خواهید از این کانال استفاده کنید روی «ادامه» بزنید.</string>
@@ -1978,6 +2024,7 @@
     <string name="the_united_nations_day">روز ملل متحد</string>
     <string name="the_valentines_day">روز ولنتاین</string>
     <string name="the_water_lantern_festival">جشنواره فانوس آبی</string>
+    <string name="third_image_viewer_label">نمایشگر تصویر (مرورگر Mi)</string>
     <string name="thursday">پنج‌شنبه</string>
     <string name="thursday_short">پنج‌شنبه</string>
     <string name="thursday_shortest">پنج‌شنبه</string>
@@ -2010,6 +2057,11 @@
     <string name="translation_query_error_network">صفحه ترجمه نشد. تنظیمات شبکه را بررسی کرده و دوباره تلاش کنید.</string>
     <string name="translation_result_empty">ترجمه نشد. دوباره تلاش کنید.</string>
     <string name="translation_to">ترجمه به</string>
+    <string name="trash_cleaner_unit_b">بایت</string>
+    <string name="trash_cleaner_unit_gb">گیگابایت</string>
+    <string name="trash_cleaner_unit_kb">کیلوبایت</string>
+    <string name="trash_cleaner_unit_mb">مگابایت</string>
+    <string name="trash_cleaner_unit_tb">ترابایت</string>
     <string name="trending_apps_more">بیشتر</string>
     <string name="tuesday">سه‌شنبه</string>
     <string name="tuesday_short">سه‌شنبه</string>
@@ -2028,6 +2080,7 @@
     <string name="update_no_network_toast">نمی‌توان به شبکه متصل شد</string>
     <string name="update_now">اکنون به‌روزرسانی شود</string>
     <string name="update_phone_notice">تغییر تنظیمات امنیت</string>
+    <string name="upgrade">به‌روزرسانی</string>
     <string name="upload_error_log">بارگذاری رخدادها</string>
     <string name="upload_usage_statistics">روشن کرده تا آمار مصرف هنگام روشن بودن حالت ناشناس با ما درمیان گذاشته شود</string>
     <string name="uploads_disabled">بارگذاری فایل‌ها محدود شده است</string>
@@ -2214,10 +2267,13 @@ https://www.facebook.com/miui.global.official/videos/1602181069951748"</string>
     <string name="web_tag_desc">نمایش ریزعکس‌های صفحات بازدید شده پیشین</string>
     <string name="web_tag_tips">برای بازدید دوباره یک صفحه اینجا را بزنید</string>
     <string name="web_tag_title">ریزعکس‌های صفحه تارنما</string>
+    <string name="web_tools_moved_here">ابزارها به اینجا منتقل شدند</string>
     <string name="web_video_accelerate">سرعت</string>
+    <string name="web_video_default_time">%1$s :%2$s</string>
     <string name="web_video_download">دانلود</string>
     <string name="web_video_download_no_access">دانلود موارد نیازمند مجوز است</string>
     <string name="web_video_enable_long_click_toast">درحالت پخش با سرعت %dX</string>
+    <string name="web_video_float_drag_msg">برای تنظیم اندازه بکشید</string>
     <string name="web_video_list_more">بیشتر</string>
     <string name="web_video_list_playing">در حال پخش</string>
     <string name="web_video_list_replay">بازپخش</string>

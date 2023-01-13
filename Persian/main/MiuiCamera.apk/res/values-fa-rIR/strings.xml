@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="access_sd_fail">نمی‌توان به کارت SD دسترسی داشت.</string>
-    <string name="accessibility_8k_off">8K خاموش است</string>
-    <string name="accessibility_8k_on">8K روشن است</string>
     <string name="accessibility_add">افزودن</string>
     <string name="accessibility_ai_identify">تشخیص</string>
     <string name="accessibility_ai_scene_off">دوربین AI خاموش است</string>
@@ -10,6 +8,7 @@
     <string name="accessibility_ai_watermark_panel_on">پانل نشان AI</string>
     <string name="accessibility_ambilight_panel_on">باز کردن نوردهی طولانی پانل</string>
     <string name="accessibility_back_preview_status">پیش‌نمایش دوربین پشت</string>
+    <string name="accessibility_beauty_compare">نمایش تصویر همراه و بدون زیبایی</string>
     <string name="accessibility_beauty_function_button">زیبایی</string>
     <string name="accessibility_beauty_function_panel_on">پنل زیبایی</string>
     <string name="accessibility_beauty_panel_closed">منوی زیبایی پنهان است</string>
@@ -32,11 +31,9 @@
     <string name="accessibility_camera_switch_capture_recording">تعویض میان حالت‌های عکس و ویدئو</string>
     <string name="accessibility_camera_ultra_wide_bokeh_off">حالت تمام بدن خاموش است</string>
     <string name="accessibility_camera_ultra_wide_bokeh_on">حالت تمام بدن روشن است</string>
-    <string name="accessibility_camera_video_960fps_120">120FPS</string>
-    <string name="accessibility_camera_video_960fps_240">240FPS</string>
-    <string name="accessibility_camera_video_960fps_960">960FPS</string>
-    <string name="accessibility_camera_video_fps_120">120FPS</string>
-    <string name="accessibility_camera_video_fps_30">30FPS</string>
+    <string name="accessibility_camera_video_960fps_120">%d فریم بر ثانیه</string>
+    <string name="accessibility_camera_video_960fps_240">%d فریم بر ثانیه</string>
+    <string name="accessibility_camera_video_960fps_960">%d فریم بر ثانیه</string>
     <string name="accessibility_camera_video_slow_motion_fps">%d فریم بر ثانیه</string>
     <string name="accessibility_closed">خاموش</string>
     <string name="accessibility_color">رنگی</string>
@@ -302,13 +299,12 @@
     <string name="audio_focus_exit_button_text">خاموش کردن فوکوس صوتی</string>
     <string name="audio_map_summary_tip">نظارت زنده بر میزان صدای کانال‌های چپ و راست و امکان تنظیم آن‌ها با استفاده از نوار مربوطه</string>
     <string name="auto_hibernation_enter_tip">در آستانه خاموش شدن صفحه…</string>
-    <string name="autozoom_click_hint">روی یک شیء زده تا هنگام حرکتش روی آن فوکوس بماند. برای تأثیر بهتر حداقل ۳ متر فاصله بگیرید.</string>
+    <string name="autozoom_click_hint">روی یک شیء زده تا هنگام حرکتش روی آن فوکوس بماند. برای تأثیر بهتر حداقل %d متر فاصله بگیرید.</string>
     <string name="autozoom_disabled_hint">دنبال کردن شیء محرک متوقف شد</string>
     <string name="autozoom_hint">دنبال کردن شیء محرک</string>
     <string name="auxiliary_close_status">جلوه‌های اضافی خاموشند</string>
     <string name="auxiliary_exposure_feedback_status">تأیید نوردهی روشن است</string>
     <string name="auxiliary_focus_peak_status">اوج فوکوس روشن است</string>
-    <string name="back_bokeh_use_hint">برای تأثیر گذاری بهتر سوژه را در فاصله ۱.۵ متری قرار دهید</string>
     <string name="background">پس‌زمینه</string>
     <string name="beauty_body">بدن</string>
     <string name="beauty_body_body">لاغر کردن چهره</string>
@@ -326,6 +322,7 @@
     <string name="beauty_fragment_tab_name_beauty">زیبایی</string>
     <string name="beauty_fragment_tab_name_makeup">پیشرفته</string>
     <string name="beauty_fragment_tab_name_makeups">آرایش</string>
+    <string name="beauty_fx_makeup_cv">روتوش</string>
     <string name="beauty_lens">دیافراگم بزرگ</string>
     <string name="beauty_lens_1">افراد</string>
     <string name="beauty_lens_1_description">بوکه‌ای حرفه‌ای ایجاد کرده و عکس‌های خود را به پرتره‌های قابل توجه تبدیل کنید.</string>
@@ -339,15 +336,25 @@
     <string name="beauty_lens_none">تار</string>
     <string name="beauty_lens_use_hint">از دیافراگم بزرگ برای تار کردن پس‌زمینه استفاده کرده و موارد پیش‌زمینه را برجسته کنید.</string>
     <string name="beauty_makeups_bluefemale">برفک</string>
+    <string name="beauty_makeups_danyan">نود</string>
     <string name="beauty_makeups_gentleman">نقره‌‌ای</string>
     <string name="beauty_makeups_nude">برهنه</string>
     <string name="beauty_makeups_pinkfemale">گلبرگ</string>
+    <string name="beauty_makeups_qianjin">خرمایی</string>
+    <string name="beauty_makeups_ruanmei">نوجوان</string>
     <string name="beauty_makeups_solid">کانتور</string>
+    <string name="beauty_makeups_subeffect_filter">فیلترها</string>
+    <string name="beauty_makeups_subeffect_makeup">آرایش</string>
     <string name="beauty_makeups_toughman">برونزه</string>
+    <string name="beauty_makeups_xiazhi">سایه چشم پلک پایین</string>
+    <string name="beauty_makeups_yanku">ملکه یخی</string>
+    <string name="beauty_makeups_yuanqi">تازه</string>
     <string name="beauty_mo_fe">طبیعی</string>
     <string name="beauty_mo_ma">کلاسیک</string>
     <string name="beauty_mo_or">اصلی</string>
+    <string name="beauty_mo_pr_cv">بافت‌دار</string>
     <string name="beauty_mode_reset_toast">جلوه‌های دوباره زیبایی با موفقیت پاک شدند</string>
+    <string name="beauty_mutex_toast_tip">ابتدا جلوه‌های آرایش را &lt;a href=>خاموش کنید&lt;/a></string>
     <string name="beauty_ne">اصلی</string>
     <string name="beauty_no_t">زیبایی خاموش است</string>
     <string name="beauty_origin_skincolor">اصلی</string>
@@ -363,6 +370,7 @@
     <string name="beauty_skincolor_wheat">گندمی</string>
     <string name="beauty_skincolor_white">سفید عاجی</string>
     <string name="beauty_sm_or">پوست</string>
+    <string name="beauty_sm_texture_cv">پوست</string>
     <string name="beauty_tab_name_live_beauty">زیبایی</string>
     <string name="beauty_tab_name_live_filter">فیلترها</string>
     <string name="bokeh_use_hint">جلوه عمق</string>
@@ -370,8 +378,11 @@
     <string name="button_fisheye_camera_title">چشم ماهی</string>
     <string name="button_front_camera_title">یک سلفی بگیرید</string>
     <string name="button_normal_video_title">ضبط ویدئو</string>
-    <string name="camcorder_tip_8k_max_video_duration">می‌توانید تا ۶ دقیقه با کیفیت 8K ضبط کنید</string>
+    <string name="camcorder_tip_8k_max_video_duration">در 8K می‌توانید تا %1$d دقیقه ضبط کنید</string>
     <string name="camcorder_tip_current_max_video_duration">در وضوح کنونی می‌توانید تا %d دقیقه ویدئو ضبط کنید</string>
+    <string name="camcorder_tip_isp_super_night_video_max_video_duration">می‌توانید تا %d دقیقه ضبط کنید</string>
+    <string name="camcorder_tip_super_night_video_1080P_max_video_duration">1080P最长可录制%d分钟</string>
+    <string name="camcorder_tip_super_night_video_4k_max_video_duration">در 4K می‌توانید تا %d دقیقه ضبط کنید</string>
     <string name="camera_disabled">دوربین غیرفعال شده است</string>
     <string name="camera_error_title">خطای دوربین</string>
     <string name="camera_fastmotion_title">ویدئوهای گذر زمان</string>
@@ -384,6 +395,7 @@
     <string name="camera_newcta_message">"به دوربین خوش آمدید! شما با استفاده از این برنامه می‌توانید عکس گرفته و ویدئو ضبط کنید. "</string>
     <string name="camera_newcta_other_message">هنگام استفاده شما از برنامه، برای ارائه خدمات بیشتر به شما، ممکن است به مجوزهایی برای دسترسی به موقعیت شما نیاز داشته باشیم.</string>
     <string name="camera_newcta_storage_message">برای ذخیره و نمایش عکس‌ها و ویدئوها</string>
+    <string name="camera_newcta_storage_message_1">برای ذخیره و نمایش تصاویر، ویدئوها و فایل‌ها</string>
     <string name="camera_setting">دوربین</string>
     <string name="camera_settings_category_development">ویژگی‌های تجربی</string>
     <string name="camera_settings_label">دوربین</string>
@@ -431,6 +443,7 @@
     <string name="clone_video_mode">ویدئو</string>
     <string name="close">بستن</string>
     <string name="close_back_flash_toast">به دلیل داغ شدن، فلاش خاموش شد</string>
+    <string name="close_flash_toast">به دلیل کم بودن باتری نمی‌توان از فلاش استفاده کرد</string>
     <string name="close_front_flash_toast">این دستگاه بیش از حد داغ شده است. نمی‌توان از فلاش استفاده کرد.</string>
     <string name="close_night_algo_toast_low_power">برای تنظیم میزان نوردهی دستگاه خود را شارژ کنید</string>
     <string name="close_night_algo_toast_thermal">برای تنظیم میزان نوردهی، اجازه دهید دستگاه کمی خنک شود</string>
@@ -459,6 +472,7 @@
     <string name="color_effect_entry_new_5">کارمن</string>
     <string name="color_effect_entry_new_5_describe">سبک‌های قهوه‌ای و کنتراست متوسط، فضای گرمی را برای صحنه‌های فضای باز که با نور طبیعی گرفته می‌شوند، ایجاد می‌کند.</string>
     <string name="color_effect_entry_new_bbp_describe">کنتراست بالا و اشباع کم، احساس سینمایی را در بیشتر صحنه‌ها ایجاد می‌کند.</string>
+    <string name="color_effect_entry_noraml_cv">Leica استاندارد</string>
     <string name="color_effect_entry_orange">لیمویی</string>
     <string name="color_effect_entry_orange_describe">یک ترفند کلاسیک فیلم‌های سینمایی که مناطق تاریک را سردتر کرده و چراغ‌ها را گرمتر می‌کند. این فیلتر باعث خوش‌بویی جنگل شهری و نیز فضای باز می‌شود.</string>
     <string name="color_effect_entry_quiet">آرام</string>
@@ -515,6 +529,7 @@
     <string name="cta_perm_voice">استفاده از میکروفن</string>
     <string name="cta_perm_voice_desc">برای ضبط صدا هنگام تصویر‌برداری</string>
     <string name="cta_user_tips">&lt;Data>برای درک کامل حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، &lt;a href =%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href =%2$s>سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.&lt;/Data></string>
+    <string name="custom_content_unavailable_alert">از متنی که وارد کرده‌اید نمی‌توان استفاده کرد. متن دیگری به جای آن استفاده کنید.</string>
     <string name="custom_sound_art">گذشته</string>
     <string name="custom_sound_default">پیش‌فرض</string>
     <string name="custom_sound_modern">مدرن</string>
@@ -526,13 +541,25 @@
     <string name="custom_tint_color_select">سفارشی کردن رنگ‌ها</string>
     <string name="custom_tint_color_sky_blue">آبی</string>
     <string name="custom_tint_color_sky_cyan">فیروزه‌ای</string>
-    <string name="custom_watermark_contains_senstive_words">نشان نمی‌تواند حاوی الفاظ محدود باشد (%1$s)</string>
-    <string name="custom_watermark_tips">متن در خط دوم نشان شما نمایش داده خواهد شد. می‌تواند تا ۱۸ حرف یا ۱۴ کاراکتر چینی را در خود جای دهد.</string>
     <string name="custom_watermark_tips_gen2">تا حد اکثر %1$d کاراکتر چینی یا %2$d حرف.</string>
     <string name="custom_watermark_too_many_words">متنی که وارد کرده‌اید خیلی طولانی است</string>
     <string name="custom_watermark_words">نشان سفارشی</string>
     <string name="custom_watermark_words_input_hint">متن را وارد کنید</string>
     <string name="custom_watermark_words_save_success">با موفقیت ذخیره شد</string>
+    <string name="cv_lens_35mm">%d میلی‌متر</string>
+    <string name="cv_lens_50mm">%d میلی‌متر</string>
+    <string name="cv_lens_90mm">%d میلی‌متر</string>
+    <string name="cv_lens_black_white">سیاه و سفید</string>
+    <string name="cv_lens_msg">با لنزهای حرفه‌ای عکس‌های خیره کننده بگیرید</string>
+    <string name="cv_lens_rotary_focus">بوکه چرخشی</string>
+    <string name="cv_lens_soft_focus">فوکوس نرم</string>
+    <string name="cv_lens_title">لنزهای حرفه‌ای</string>
+    <string name="cvtype_btn_select">استفاده از «%1$s»</string>
+    <string name="cvtype_hint_title">انتخاب سبک</string>
+    <string name="cvtype_item_btn_title1">لایکای معتبر</string>
+    <string name="cvtype_item_btn_title2">Leica پر طراوت</string>
+    <string name="cvtype_item_title1">طبیعی و واقعی</string>
+    <string name="cvtype_item_title2">تازه و پر طراوت</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -549,7 +576,6 @@
     <string name="dialog_button_ok">تأیید</string>
     <string name="dialog_button_reject">رد کردن</string>
     <string name="dialog_button_scan">جستجوی دستگاه‌ها</string>
-    <string name="dialog_google_lens_option_0">لنز Google (پیشنهاد شده)</string>
     <string name="dialog_ok">تأیید</string>
     <string name="dialog_ok_time">تأیید (%d ثانیه)</string>
     <string name="dialog_privacy_watermark_button_cancel">لغو</string>
@@ -602,7 +628,6 @@
     <string name="dual_camera_lens_covered_toast">لنز پوشانده شده است.</string>
     <string name="dual_camera_lowlight_toast">به نظر می‌رسد خیلی تاریک است.</string>
     <string name="dual_camera_too_close_toast">دوربین بیش از حد نزدیک به جسم است.</string>
-    <string name="dual_camera_use_hint">مطمئن شوید فاصله شیء بیشتر از ۲ متر نیست.</string>
     <string name="dual_video_record_merged">ترکیب شده</string>
     <string name="dual_video_record_remote">ضبط با دو گوشی</string>
     <string name="dual_video_record_standalone">جدا شده</string>
@@ -618,6 +643,7 @@
     <string name="dual_video_user_guide_standalone_content_new">ویدئوهای ضبط شده همزمان می‌توانند از هم جدا شده و به عنوان دو فایل ذخیره شوند.</string>
     <string name="early_morning">صبح</string>
     <string name="edit_blusher">رژ</string>
+    <string name="edit_cheekbone">استخوان گونه</string>
     <string name="edit_chin">گونه</string>
     <string name="edit_color_skin">رنگ پوست</string>
     <string name="edit_eye_large">چشمان درشت</string>
@@ -625,11 +651,14 @@
     <string name="edit_face_ruddy">سرخی چهره</string>
     <string name="edit_face_slender">لاغر کردن چهره</string>
     <string name="edit_hairline">خط مو</string>
+    <string name="edit_head_narrow">اندازه سر</string>
+    <string name="edit_jaw">فک پایین</string>
     <string name="edit_jelly_lips">برق لب</string>
     <string name="edit_lips">لب‌ها</string>
     <string name="edit_makeup">آرایش</string>
     <string name="edit_neck">گردن</string>
     <string name="edit_nose">بینی</string>
+    <string name="edit_nose_tip">نوک بینی</string>
     <string name="edit_pupil_line">خط چشم</string>
     <string name="edit_risorius">ماهیچه خنده</string>
     <string name="edit_skin_smooth">صاف</string>
@@ -637,7 +666,10 @@
     <string name="edit_slim_nose">بینی</string>
     <string name="edit_smile">لبخند</string>
     <string name="edit_solid">کانتورها</string>
+    <string name="edit_temple">گیجگاه</string>
+    <string name="edit_touch_up">آرایش</string>
     <string name="emoticon">بسته استیکر</string>
+    <string name="empty" />
     <string name="eras_ad">میلادی</string>
     <string name="eras_bc">پیش از میلاد</string>
     <string name="error_fail_to_start_audio_capture">ضبط صدا آغاز نشد</string>
@@ -657,18 +689,6 @@
     <string name="face_analyze_info_female">زن</string>
     <string name="face_analyze_info_male">مرد</string>
     <string name="face_beauty_advanced">حرفه‌ای</string>
-    <string name="face_beauty_age_alias_female_0_7">زن ۰ تا ۷ ساله</string>
-    <string name="face_beauty_age_alias_female_18_30">زن ۱۸ تا ۳۰ ساله</string>
-    <string name="face_beauty_age_alias_female_31_44">زن ۳۱ تا ۴۴ ساله</string>
-    <string name="face_beauty_age_alias_female_45_60">زن ۴۵ تا ۶۰ ساله</string>
-    <string name="face_beauty_age_alias_female_60_m">خانم 60+</string>
-    <string name="face_beauty_age_alias_female_8_17">زن ۸ تا ۱۷ ساله</string>
-    <string name="face_beauty_age_alias_male_0_7">مرد ۰ تا ۷ ساله</string>
-    <string name="face_beauty_age_alias_male_18_30">مرد ۱۸ تا ۳۰ ساله</string>
-    <string name="face_beauty_age_alias_male_31_44">مرد ۳۱ تا ۴۴ ساله</string>
-    <string name="face_beauty_age_alias_male_45_60">مرد ۴۵ تا ۶۰ ساله</string>
-    <string name="face_beauty_age_alias_male_60_m">مرد بالای ۶۰ سال</string>
-    <string name="face_beauty_age_alias_male_8_17">مرد ۸ تا ۱۷ ساله</string>
     <string name="face_beauty_close">خاموش</string>
     <string name="face_beauty_intelligent_level_0">خاموش</string>
     <string name="face_beauty_intelligent_level_1">کم</string>
@@ -690,6 +710,7 @@
     <string name="film_video_c">بی‌حرکت کردن زمان</string>
     <string name="film_video_d">گذر زمان شبانه</string>
     <string name="film_video_e">دنیای موازی</string>
+    <string name="film_video_f">بازگشت زمان</string>
     <string name="film_video_tip">از سه‌پایه استفاده کنید</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -752,6 +773,7 @@
     <string name="front_camera_hint_text_place">"گرفتن عکس از خود راحت‌تر خواهد بود
 اگر گوشی خود را بچرخانید"</string>
     <string name="front_camera_hint_text_rotate">گوشی خود را بچرخانید</string>
+    <string name="guide_pop_window_msg_cv_lens">برای استفاده از لنزهای حرفه‌ای ضربه بزنید</string>
     <string name="hand_gesture_open_tip">کف دست خود را به دوربین نشان داده تا زمان‌سنج آغاز شود</string>
     <string name="hand_gesture_tip">شاتر کف دست</string>
     <string name="hibernate_hint">برای بیدار کردن دوربین روی صفحه بزنید</string>
@@ -854,6 +876,7 @@
     <string name="location_permission_not_ask_again">در تنظیمات به دوربین اجازه دسترسی به موقعیت خود را بدهید.</string>
     <string name="location_permission_not_ask_again_go_to_settings">اجازه دادن</string>
     <string name="log_format">LOG</string>
+    <string name="low_battery_to_save_video">به نظر می‌رسد باتری دستگاه شما اکنون بسیار کم است. پیش از خاموش شدن دستگاه، ضبط را متوقف کرده و ویدئوی خود را ذخیره کنید.</string>
     <string name="lpl_dialog_item_name_burst">عکاسی پشت سر هم با فشردن و نگه داشتن</string>
     <string name="lpl_dialog_item_name_record">ضبط ویدئو با فشردن و نگه داشتن</string>
     <string name="lpl_dialog_title">کارایی برای شاتر را انتخاب کنید</string>
@@ -865,14 +888,13 @@
     <string name="lunch_camera_storge_permission_not_ask_again">برای استفاده از این ویژگی به این برنامه اجازه استفاده از دوربین و دسترسی به حافظه را بدهید.</string>
     <string name="lunch_dialog_setting">تنظیمات</string>
     <string name="lunch_fromkeyguard_not_permission">دوربین اجازه انجام این اقدام را ندارد. ابتدا قفل دستگاه خود را باز کنید.</string>
-    <string name="lunch_fromkeyguard_not_permission_dialog_ok">فهمیدم</string>
+    <string name="lunch_fromkeyguard_not_permission_dialog_ok">متوجه‌ام</string>
     <string name="lunch_permission_not_ask_again">برای امکان استفاده از این ویژگی، به این برنامه اجازه استفاده از دوربین، دسترسی به حافظه و ضبط صدا را بدهید.</string>
     <string name="lunch_storge_audio_permission_not_ask_again">برای استفاده از این ویژگی به این برنامه اجازه دسترسی به حافظه و ضبط صدا را بدهید.</string>
     <string name="lunch_storge_permission_des">برای ذخیره و نمایش عکس‌ها و ویدئوها</string>
     <string name="lunch_storge_permission_not_ask_again">برای استفاده از این ویژگی به این برنامه اجازه دسترسی به حافظه را بدهید.</string>
     <string name="lying_direct_hint">جهت کنونی</string>
     <string name="macro_mode">ماکرو</string>
-    <string name="macro_mode_tip">فاصله بین لنز و شیء نباید بیش از ۱۰ سانتی‌متر باشد</string>
     <string name="macro_mode_use_hint_text_body">"از حالت ماکرو برای بزرگ‌نمایی اجسام کوچک
 در عکس‌ها استفاده کنید"</string>
     <string name="macro_mode_use_hint_text_title">ماکرو</string>
@@ -997,6 +1019,7 @@
     <string name="mimoji_tab_cartoon">کارتونی</string>
     <string name="mimoji_tab_human">آدمک</string>
     <string name="mimoji_tips">برای عکس‌برداری ضربه بزنید. برای ضبط ویدئو فشرده و نگه دارید.</string>
+    <string name="miuix_access_state_desc">انتخاب شده</string>
     <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
     <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
@@ -1043,6 +1066,7 @@
     <string name="module_name_multi_camera">چند دوربینه</string>
     <string name="module_name_new_slow_motion">حرکت آهسته</string>
     <string name="module_name_panorama">پانوراما</string>
+    <string name="module_name_pixel">وضوح فوق‌العاده</string>
     <string name="module_name_pixel_108m">108MP</string>
     <string name="module_name_pixel_48m">48MP</string>
     <string name="module_name_pixel_50m">50MP</string>
@@ -1054,6 +1078,12 @@
     <string name="module_name_super_moon">ماه کامل</string>
     <string name="module_name_video">ویدئو</string>
     <string name="module_name_vlog">ولاگ</string>
+    <string name="moiton_detection_960_fps_video_tip" formatted="false">%1dfps videos can be up to %2d seconds long</string>
+    <string name="moiton_detection_tip">Detecting motion… Keep device steady.</string>
+    <string name="moiton_detection_video_3840fps_3840">%dFPS</string>
+    <string name="moiton_detection_video_electric_quantity_tip">Charge your device to be able to use this feature</string>
+    <string name="moiton_detection_video_temperature_stop_tip">Your device is overheated. Recording will stop in %d seconds.</string>
+    <string name="moiton_detection_video_temperature_tip">Cool down your device to be able to use this feature</string>
     <string name="moive_frame">قاب فیلم</string>
     <string name="monday">دوشنبه</string>
     <string name="monday_short">دوشنبه</string>
@@ -1112,6 +1142,8 @@
     <string name="network_connection_prerequisites_china">Turn on Bluetooth and WLAN in Control center to be able to use Dual phone recording.</string>
     <string name="network_connection_rejected">رد کردن</string>
     <string name="network_connection_timed_out">زمان اتصال پایان یافت</string>
+    <string name="new_bie_dialog_cancel">بستن توضیحات ویژگی</string>
+    <string name="new_bie_dialog_desc">توضیحات ویژگی</string>
     <string name="newbie_privacy_watermark_msg">از نهان‌نگار برای محافظت در برابر انتشار غیرمجاز اسناد خود استفاده کنید</string>
     <string name="newbie_privacy_watermark_title">از اسناد خود محافظت کنید</string>
     <string name="night">شب</string>
@@ -1169,7 +1201,7 @@
     <string name="parameter_peak_raw_description">این قالب تصویر هنگام عکس‌برداری شما همه داده‌های تصویری ضبط شده توسط حس‌گر را می‌گیرد. داده‌های فشرده نشده به شما امکانات بیشتری در پس‌پردازش می‌دهند.</string>
     <string name="parameter_peak_raw_title">قالب خام</string>
     <string name="parameter_videos_title">جلوه‌های فیلم</string>
-    <string name="parameter_wb_description">در کنار پیش‌تنظیمات تعادل رنگ سفید (لامپ رشته‌ای، روشنایی روز، فلورسنت و ابری)، همچنین می‌توانید تعادل رنگ سفید را به مقدار دلخواه بین محدوده ۲۰۰۰ تا ۸۰۰۰ کلوین تنظیم کنید.</string>
+    <string name="parameter_wb_description">در کنار پیش‌تنظیمات تعادل رنگ سفید (لامپ رشته‌ای، روشنایی روز، فلورسنت و ابری)، همچنین می‌توانید تعادل رنگ سفید را به مقدار دلخواه بین محدوده %1$d تا %2$d کلوین تنظیم کنید.</string>
     <string name="parameter_wb_title">تعادل رنگ سفید</string>
     <string name="parameter_zoom_slider_description">با افقی کشیدن نوار بزرگ‌نمایی به آرامی تصویر را از یک نمای دور به نمای نزدیک تغییر دهید.</string>
     <string name="parameter_zoom_slider_title">بزرگ‌نمایی</string>
@@ -1178,6 +1210,7 @@
     <string name="pic_flaw_blink_more">به نظر می‌رسد یک نفر داخل قاب چشمانش را بسته است</string>
     <string name="pic_flaw_blink_one">به نظر می‌رسد شخص داخل قاب چشمانش را بسته است</string>
     <string name="pic_flaw_cover">به نظر می‌رسد بخشی از لنز پوشانده شده است</string>
+    <string name="pixel_mode_capture_hint">مطمئن شوید که محیط به خوبی روشن است</string>
     <string name="pm">ب.ظ</string>
     <string name="popup_tip_3d_beauty_intro_text">زیبایی سه‌بعدی</string>
     <string name="popup_tips_near_range_mode">فوکوس نزدیک</string>
@@ -1207,7 +1240,6 @@
     <string name="portrait_bokeh_first_tips">"از حالت پرتره برای تار کردن
 پس‌زمینه عکس‌های خود استفاده کنید"</string>
     <string name="portrait_bokeh_text">حالت پرتره</string>
-    <string name="portrait_bokeh_tips">سوژه را در فاصله ۱.۵ متری قرار دهید</string>
     <string name="portrait_india_effect_entry_memory">خاطره</string>
     <string name="portrait_india_effect_entry_mono">تک‌رنگ</string>
     <string name="portrait_india_effect_entry_pink">صورتی</string>
@@ -1222,12 +1254,10 @@
     <string name="portrait_mode_depth_effect_success_hint">جلوه عمق</string>
     <string name="portrait_mode_lowlight_hint">اکنون بسیار تاریک است</string>
     <string name="portrait_mode_too_close_hint">از سوژه کمی دورتر کنید</string>
-    <string name="portrait_mode_too_far_hint">سوژه را در فاصله ۲ متری قرار دهید</string>
     <string name="portrait_mode_use_hint">"حالت پرتره پس زمینه را تار
 و افراد را به بیرون برجسته می‌کند."</string>
     <string name="portrait_mode_use_hint_for_bokeh">"حالت پرتره را امتحان کنید.
 سوژه را درحالی که پس‌زمینه آن تار است شفاف نگه دارید."</string>
-    <string name="pref_960_watermark_title">نشان ۹۶۰ فریم/ث</string>
     <string name="pref_a_c_f">سونوگرافی</string>
     <string name="pref_advance_settings">تنظیمات بیشتر</string>
     <string name="pref_ai_detect">تشخیص AI</string>
@@ -1238,6 +1268,10 @@
     <string name="pref_audio_focus_title">فوکوس صوتی</string>
     <string name="pref_auto_boot">راه‌اندازی خودکار</string>
     <string name="pref_auto_boot_summary">با اجازه آغاز خودکار دادن به دوربین، واکنش آن را سریع‌تر کنید. شما در جزئیات برنامه می‌توانید مجوزهای آغاز خودکار را مدیریت کنید.</string>
+    <string name="pref_beauty_me_mp_switch_desc">تنظیم جلوه‌های آرایشی برای مردان در عکس‌های گروهی</string>
+    <string name="pref_beauty_me_mp_switch_title">تنظیم جلوه‌های آرایشی برای مردان</string>
+    <string name="pref_beauty_nvs_wp_desc">برداشتن خال‌ها هنگام استفاده از جلوه‌های صاف کردن پوست</string>
+    <string name="pref_beauty_nvs_wp_title">برداشتن خال‌ها</string>
     <string name="pref_burst_shoot_title">عکس‌برداری پشت‌سرهم</string>
     <string name="pref_camcorder_settings">ویدئو</string>
     <string name="pref_camcorder_settings_category">تنظیمات دوربین</string>
@@ -1264,6 +1298,7 @@
     <string name="pref_camera_auxiliary_close">خاموش</string>
     <string name="pref_camera_auxiliary_exposure_feedback">تأیید نوردهی</string>
     <string name="pref_camera_auxiliary_focus_peak">اوج فوکوس</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="pref_camera_beautify_entry_high">زیاد</string>
     <string name="pref_camera_beautify_entry_low">کم</string>
     <string name="pref_camera_beautify_entry_normal">متوسط</string>
@@ -1343,11 +1378,9 @@
     <string name="pref_camera_hdr_entry_normal">حرفه‌ای</string>
     <string name="pref_camera_hdr_entry_off">خاموش</string>
     <string name="pref_camera_heic_image_format_description">عکس‌ها در قالب فایل تصویری با کارایی بالا فضای کمتری اشغال می‌کنند، اما توسط برخی برنامه‌ها پشتیبانی نمی‌شوند</string>
-    <string name="pref_camera_heic_image_format_description2">قالب فایل تصویری با راندمان بالا در فضای ذخیره سازی صرفه‌جویی می‌کند، اما توسط برخی برنامه‌های سوم‌شخص پشتیبانی نمی‌شود. شما در HEIF نمی‌توانید تصاویر متحرک گرفته و نشان‌ها را حذف کنید.</string>
+    <string name="pref_camera_heic_image_format_description2">قالب فایل تصویری با راندمان بالا در فضای ذخیره سازی صرفه‌جویی می‌کند، اما توسط برخی برنامه‌های سوم شخص پشتیبانی نمی‌شود. شما در HEIF نمی‌توانید تصاویر متحرک گرفته و نشان‌ها را حذف کنید.</string>
+    <string name="pref_camera_heic_image_format_description_global">قالب فایل تصویری با راندمان بالا در فضای ذخیره سازی صرفه‌جویی می‌کند، اما توسط برخی برنامه‌های سوم شخص پشتیبانی نمی‌شود. شما در HEIF نمی‌توانید نهان‌نگارها را حذف کنید.</string>
     <string name="pref_camera_heic_image_format_title">قالب HEIF</string>
-    <string name="pref_camera_hfr_entry_2x">۶۰</string>
-    <string name="pref_camera_hfr_entry_3x">۹۰</string>
-    <string name="pref_camera_hfr_entry_4x">۱۲۰</string>
     <string name="pref_camera_hfr_entry_off">خاموش</string>
     <string name="pref_camera_high_quality_preferred_description">با استفاده از الگوریتم هوشمند کیفیت تصویر را ارتقا دهید. هنگام روشن بودن این ویژگی ممکن است سرعت گرفتن تصویر کاهش یابد. با تشخیص وضعیت نور ضعیف، حالت شب به صورت خودکار روشن خواهد شد.</string>
     <string name="pref_camera_high_quality_preferred_title">بهبود کیفیت تصویر</string>
@@ -1358,15 +1391,13 @@
     <string name="pref_camera_jpegquality_entry_high">بالا</string>
     <string name="pref_camera_jpegquality_entry_low">پایین</string>
     <string name="pref_camera_jpegquality_entry_normal">معمولی</string>
+    <string name="pref_camera_jpegquality_entry_super">فوق العاده</string>
     <string name="pref_camera_jpegquality_title">کیفیت عکس</string>
     <string name="pref_camera_long_press_shutter_feature_title">فشردن و نگه داشتن دکمه شاتر</string>
-    <string name="pref_camera_long_press_viewfinder_title">تنظیمات منظره یاب</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">عکس‌برداری پشت‌سرهم</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">فوکوس</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_record">ضبط ویدئو</string>
     <string name="pref_camera_long_pressing_shutter_title">دکمه شاتر را فشار دهید و نگهدارید تا AE/AF/AWB قفل شود</string>
-    <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">لنز Google</string>
-    <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">قفل AE/AF</string>
     <string name="pref_camera_lying_summary">هنگامی که پشت گوشی موازی با زمین باشد درباره جهت کنونی اعلان می‌شود</string>
     <string name="pref_camera_lying_title">اعلام کردن درباره جهت</string>
     <string name="pref_camera_magic_mirror_title">آینه جادویی</string>
@@ -1388,7 +1419,6 @@
     <string name="pref_camera_peak_entry_off">خاموش</string>
     <string name="pref_camera_peak_entry_on">روشن</string>
     <string name="pref_camera_peak_title">اوج فوکوس</string>
-    <string name="pref_camera_picturesize_entry_standard">استاندارد ۴:۳</string>
     <string name="pref_camera_picturesize_title_simple_mode">قاب دوربین</string>
     <string name="pref_camera_portrait_mode_entry_off">حالت پرتره خاموش است</string>
     <string name="pref_camera_portrait_mode_entry_on">حالت پرتره روشن است</string>
@@ -1447,6 +1477,8 @@
     <string name="pref_camera_square_mode_title">مربع</string>
     <string name="pref_camera_stereo_mode_title">تنظیم فوکوس</string>
     <string name="pref_camera_super_resolution_title">روشن کردن SR</string>
+    <string name="pref_camera_suspend_shutter_button_summary">دکمه شاتر را به بالا کشیده تا یک شاتر شناور اضافی ایجاد شود</string>
+    <string name="pref_camera_suspend_shutter_button_title">شاتر اضافی</string>
     <string name="pref_camera_tap_shoot_summary">برای گرفتن عکس روی صفحه پیش‌نمایش ضربه بزنید</string>
     <string name="pref_camera_tap_shoot_title">برای گرفتن عکس ضربه بزنید</string>
     <string name="pref_camera_tilt_shift_entry_circle">دایره</string>
@@ -1469,15 +1501,12 @@
     <string name="pref_camera_video_ai_scene_title">دوربین AI</string>
     <string name="pref_camera_video_bokeh_off">بوکه ویدئو خاموش است</string>
     <string name="pref_camera_video_bokeh_on">بوکه ویدئو</string>
-    <string name="pref_camera_video_duration_entry_10">۱۰ دقیقه</string>
     <string name="pref_camera_video_duration_entry_120">نامحدود</string>
-    <string name="pref_camera_video_duration_entry_30">۳۰ دقیقه</string>
-    <string name="pref_camera_video_duration_entry_mms">30 ثانیه (MMS)</string>
     <string name="pref_camera_video_tag">اجازه برچسب‌زنی ویدئوها</string>
     <string name="pref_camera_video_tag_description">هنگام ضبط ویدئو روی «برچسب» زده تا بتوانید هنگام بازپخش به لحظات علامت‌گذاری شده باز گردید</string>
     <string name="pref_camera_volumekey_function_entry_shutter">شاتر</string>
     <string name="pref_camera_volumekey_function_entry_timer">شمارش معکوس شاتر</string>
-    <string name="pref_camera_volumekey_function_entry_timer_new">Timer (%ds)</string>
+    <string name="pref_camera_volumekey_function_entry_timer_new">زمان‌سنج (%d ثانیه)</string>
     <string name="pref_camera_volumekey_function_entry_volume">میزان صدا</string>
     <string name="pref_camera_volumekey_function_entry_zoom">بزرگ‌نمایی</string>
     <string name="pref_camera_volumekey_function_title">عملکرد دکمه‌های میزان صدا</string>
@@ -1510,6 +1539,8 @@
     <string name="pref_custom_tint_title">رنگ‌ها</string>
     <string name="pref_customization_style">سبک سفارشی</string>
     <string name="pref_customization_title">سفارشی کردن</string>
+    <string name="pref_cv_watermark_summary">پیش‌نمایش‌ها صرفاً برای آگاهی شما ارائه شده‌اند. برچسب Leica در عکس‌های گرفته شده در حالت‌های «افقی» و «عمودی» نمایان خواهد شد.</string>
+    <string name="pref_cv_watermark_title">برچست Leica</string>
     <string name="pref_document_mode">اسناد</string>
     <string name="pref_dual_camera_video">ویدئوی دوگانه</string>
     <string name="pref_e_c_t_j">صدای اصلی</string>
@@ -1517,6 +1548,7 @@
     <string name="pref_e_p_s_n">هنگام اتصال هدفون بلوتوث به میکروفون، صدا را از طریق میکروفون خارجی ضبط کنید</string>
     <string name="pref_face_beauty_title">زیبایی</string>
     <string name="pref_fingerprint_capture_title">شاتر اثر انگشت</string>
+    <string name="pref_focus_view_bg_tip">AE/AF قفل شده است</string>
     <string name="pref_front_denoise_summary">صداهای ایجاد شده در پشت دوربین جلو را کاهش می‌دهد</string>
     <string name="pref_front_denoise_title">فیلتر سر و صدای سلفی</string>
     <string name="pref_front_mirror_entry_auto">زمانی که چهره تشخیص داده شد</string>
@@ -1525,12 +1557,8 @@
     <string name="pref_front_mirror_label_auto">خودکار</string>
     <string name="pref_front_mirror_title">حالت آینه‌ای دوربین جلو</string>
     <string name="pref_google_lens">لنز Google</string>
-    <string name="pref_google_lens_summary">برای دیدن گزینه‌های موجود دوربین خود را در مقابل اطلاعات کاربر، پیوندها و کدهای QR قرار دهید</string>
-    <string name="pref_google_lens_title">پیشنهادات Lens</string>
     <string name="pref_groupshot_with_primitive_title">عکس‌های اصلی نیز ذخیره شوند</string>
     <string name="pref_hdr10_hdr10plus_video_mode_description">ضبط ویدئوهای با وضوح بالا به صورت HDR10+/HDR10 به منظور بهینه سازی رنگ‌ها و محدوده دینامیکی. ویدئوهای ضبط شده فقط در دستگاه‌های سازگار با HDR10+/HDR10 می‌توانند پخش شوند.</string>
-    <string name="pref_hdr10_video_mode_description">به طور خودکار رنگ و کنتراست فیلم‌های 4K و 8K را بهبود می‌بخشد. فیلم‌های پیشرفته فقط در دستگاه‌های سازگار با HDR10 پخش می‌شوند.</string>
-    <string name="pref_hdr10plus_video_mode_description">بهینه‌سازی رنگ‌ها و تنظیم کنتراست برای ویدئوهای 4K و 8K. این ویژگی فقط در دستگاه‌های سازگار با HDR10+ کار می‌کند.</string>
     <string name="pref_hybrid_video_mode_description">استفاده از فناوری HLG برای بهبود رنگ‌ها و محدوده پویای ویدئوهای ضبط شده با کیفیت بالا</string>
     <string name="pref_i_n_r_b">کاهش سر و صدای هوشمند</string>
     <string name="pref_k_h">هدفون توگوشی اجرای زنده</string>
@@ -1542,13 +1570,12 @@
     <string name="pref_menu_ultra_pixel_photography">Ultra HD %s</string>
     <string name="pref_module_settings">حالت‌ها</string>
     <string name="pref_more_mode_style_title">حالت‌های دوربین</string>
+    <string name="pref_motioon_detection">Motion detection</string>
     <string name="pref_multi_camera_dual_video_front">دوربین جلو</string>
     <string name="pref_multi_camera_dual_video_remote">ضبط با دو گوشی</string>
     <string name="pref_n_s_a">تنظیمات صدا</string>
     <string name="pref_n_s_o_l">روشن</string>
     <string name="pref_n_s_o_m">خاموش</string>
-    <string name="pref_new_slow_motion_video_quality_240_720only">با 240fps فقط می‌توانید ویدئوهای 720p ضبط کنید</string>
-    <string name="pref_new_slow_motion_video_quality_960_720only">با 960fps فقط می‌توانید ویدئوهای 720p ضبط کنید</string>
     <string name="pref_new_slow_motion_video_quality_entry_1080p">FHD 1080p</string>
     <string name="pref_new_slow_motion_video_quality_entry_720p">HD 720p</string>
     <string name="pref_p_d_e">ویژگی‌های Pro</string>
@@ -1560,8 +1587,9 @@
     <string name="pref_priority_storage_title">ذخیره در کارت SD</string>
     <string name="pref_privacy_title">سیاست حفظ حریم خصوصی</string>
     <string name="pref_privacy_watermark_edit">متن سفارشی</string>
-    <string name="pref_privacy_watermark_edit_clear_history">پاک کردن تاریخچه</string>
+    <string name="pref_privacy_watermark_edit_clear_history">پاک‌سازی تاریخچه</string>
     <string name="pref_privacy_watermark_edit_history">تاریخچه</string>
+    <string name="pref_privacy_watermark_edit_title">ویرایش نهان‌نگار</string>
     <string name="pref_privacy_watermark_entry">نهان‌نگار محافظ</string>
     <string name="pref_privacy_watermark_switch">کلید نمایش نهان‌نکار</string>
     <string name="pref_qc_focus_position_title">F</string>
@@ -1591,6 +1619,9 @@
     <string name="pref_smart_guide_title">پیشنهادات هوشمند</string>
     <string name="pref_super_night_se_summary">تشخیص وضعیت نور ضعیف و بهبود کیفیت تصویر به صورت خودکار</string>
     <string name="pref_super_night_se_title">حالت شب خودکار</string>
+    <string name="pref_true_colour_video_mode_description">Record videos with Dolby Vision to capture lifelike details, stunning colors, and striking contrast (this feature might not be compatible with some third party apps)</string>
+    <string name="pref_true_colour_video_mode_introduction">Stunning visual experience, lifelike details, and striking contrast</string>
+    <string name="pref_true_colour_video_mode_title">Dolby Vision</string>
     <string name="pref_userdefine_watermark_title">نشان سفارشی</string>
     <string name="pref_video_ai_audio_effect_comparation_3d">3D</string>
     <string name="pref_video_ai_audio_effect_comparation_3d_i">صدای 3D</string>
@@ -1610,15 +1641,13 @@
     <string name="pref_video_focusmode_entry_continuous">CAF</string>
     <string name="pref_video_focusmode_title">حالت فوکوس</string>
     <string name="pref_video_hfr_title">نرخ فریم</string>
-    <string name="pref_video_quality_entry_1080p">FHD 1080p, 30fps</string>
-    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, 60fps</string>
-    <string name="pref_video_quality_entry_480p">SD 480p, 30fps</string>
-    <string name="pref_video_quality_entry_4kuhd">UHD 4K, 30fps</string>
-    <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
-    <string name="pref_video_quality_entry_720p">HD 720p, 30fps</string>
-    <string name="pref_video_quality_entry_720p_60fps">HD 720p, 60fps</string>
-    <string name="pref_video_quality_entry_8k_24fps_uhd">UHD 8K, 24fps</string>
-    <string name="pref_video_quality_entry_8kuhd">UHD 8K، ۳۰ فریم/ثانیه</string>
+    <string name="pref_video_quality_entry_1080p">FHD 1080p،‏ %d فریم در ثانیه</string>
+    <string name="pref_video_quality_entry_1080p_24fps">کیفیت بالای کامل، 1080p،‏ ۲۴ فریم در هر ثانیه</string>
+    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p،‏ %d فریم در ثانیه</string>
+    <string name="pref_video_quality_entry_4kuhd">UHD 4K،‏ %d فریم در ثانیه</string>
+    <string name="pref_video_quality_entry_4kuhd_24fps">کیفیت فوق‌افعاده بالا، 4K،‏ ۲۴ فریم در هر ثانیه</string>
+    <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K،‏ %d فریم در ثانیه</string>
+    <string name="pref_video_quality_entry_720p">HD 720p،‏ %d فریم در ثانیه</string>
     <string name="pref_video_quality_hfr_title">نرخ فریم و کیفیت تصویر</string>
     <string name="pref_video_quality_title">کیفیت ویدئو</string>
     <string name="pref_video_speed_entry_fast">تند</string>
@@ -1627,19 +1656,19 @@
     <string name="pref_video_speed_fast_title">گذر زمان</string>
     <string name="pref_video_speed_slow_title">حرکت آهسته</string>
     <string name="pref_video_subtitle">زیرنویس</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_10">10X (بازه ۰.۳ ثانیه‌ای)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_120">120X (بازه ۴ ثانیه‌ای)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_150">150X (بازه ۵ ثانیه‌ای)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_1800">1800X (بازه ۶۰ ثانیه‌ای)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_2">2X (بازه ۰.۰۶ ثانیه‌ای)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_240">240X (بازه ۸ ثانیه‌ای)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_30">30X (بازه ۱ ثانیه‌ای)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_300">300X (بازه ۱۰ ثانیه‌ای)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_4">4X (بازه ۰.۱۲ ثانیه‌ای)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_450">450X (بازه ۱۵ ثانیه‌ای)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_60">60X (بازه ۲ ثانیه‌ای)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_90">90X (بازه ۳ ثانیه‌ای)</string>
-    <string name="pref_video_time_lapse_frame_interval_entry_900">900X (بازه ۳۰ ثانیه‌ای)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_10">10X (بازه %.1f ثانیه‌ای)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_120">120X (بازه %d ثانیه‌ای)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_150">150X (بازه %d ثانیه‌ای)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_1800">1800X (بازه %d ثانیه‌ای)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_2">2X (بازه %.2f ثانیه‌ای)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_240">240X (بازه %d ثانیه‌ای)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_30">30X (بازه %d ثانیه‌ای)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_300">300X (بازه %d ثانیه‌ای)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_4">4X (بازه %.2f ثانیه‌ای)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_450">450X (بازه %d ثانیه‌ای)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_60">60X (بازه %d ثانیه‌ای)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_90">90X (بازه %d ثانیه‌ای)</string>
+    <string name="pref_video_time_lapse_frame_interval_entry_900">900X (بازه %d ثانیه‌ای)</string>
     <string name="pref_video_time_lapse_frame_interval_title">فاصله گذر زمان</string>
     <string name="pref_watermark_off">خاموش</string>
     <string name="pref_watermark_on">روشن</string>
@@ -1660,6 +1689,7 @@
     <string name="process_tips_1">تا زمانی که ذخیره ویدئو کامل نشده است دستگاه را نبندید</string>
     <string name="process_tips_2">تا ذخیره شدن ویدئو دستگاه را باز نکنید</string>
     <string name="professional_shortcut_short">حرفه‌ای</string>
+    <string name="qvga_shelter_tip_text">"Don't cover the lense"</string>
     <string name="recommend_macro_mode">حالت ماکرو</string>
     <string name="recommend_portrait">حالت پرتره</string>
     <string name="recommend_soft_light_tip">روشن کردن فلاش</string>
@@ -1729,11 +1759,12 @@
     <string name="snap_confirmed">جایگزینی</string>
     <string name="spaceIsLow_content_external_storage_priority">فضای کارت SD در حال اتمام است</string>
     <string name="spaceIsLow_content_primary_storage_priority">فضای حافظه USB در حال اتمام است</string>
-    <string name="speech_shutter_open_tip">با گفتن «拍照» یا «茄子» عکس گرفته می‌شود</string>
+    <string name="speech_shutter_open_tip">بگویید «Cheese» تا عکس گرفته شود</string>
     <string name="speech_shutter_tip">شاتر صوتی</string>
     <string name="start_capture">تأیید</string>
     <string name="sticker_tab1">با نمک</string>
     <string name="sticker_tab2">بامزه</string>
+    <string name="stop_save_low_battery">ذخیره (%d ثانیه)</string>
     <string name="subtitle_network_exception_tips">به شبکه متصل نشد. نمی‌توان به نوشتار تبدیل کرد.</string>
     <string name="sunday">یک‌شنبه</string>
     <string name="sunday_short">یک‌شنبه</string>
@@ -1840,11 +1871,11 @@
     <string name="toast_start_audio_capture">برای گرفتن عکس صدایی ایجاد کنید</string>
     <string name="today">امروز</string>
     <string name="tomorrow">فردا</string>
+    <string name="too_low_battery">باتری ضعیف است</string>
     <string name="tuesday">سه‌شنبه</string>
     <string name="tuesday_short">سه‌شنبه</string>
     <string name="tuesday_shortest">سه‌شنبه</string>
     <string name="ubi_focus_capture_fail">عکس گرفته نشد</string>
-    <string name="ubifocus_capture_warning_message">برای دستیابی به بهترین نتایج، عکس شما هم باید شامل اجسام نزدیک (با فاصله کمتر از ۱ متر از لنز) و هم دور باشد</string>
     <string name="ultra_ai_pixel_photography_close_tip">AIUltra HD %s خاموش است</string>
     <string name="ultra_ai_pixel_photography_open_tip">Ultra HD %sAI</string>
     <string name="ultra_pixel_100mp">۱۰۰ مگاپیکسلی</string>
@@ -1857,9 +1888,6 @@
     <string name="ultra_pixel_photography_open_tip">Ultra HD %s روشن است</string>
     <string name="ultra_pixel_portrait_hint">پرتره نور کم</string>
     <string name="ultra_pixel_zoom_no_support_tip">بزرگ‌نمایی در حالت Ultra HD %s کار نمی‌کند</string>
-    <string name="ultra_tele_use_hint_text_body">"از بزرگ‌نمایی ۵۰ برابر برای گرفتن عکس
-اجسام دور با جزئیات بزرگ‌تر استفاده کنید"</string>
-    <string name="ultra_tele_use_hint_text_title">بزرگ‌نمایی ۵۰ برابر</string>
     <string name="ultra_wide_bokeh_close_tip">حالت تمام بدن خاموش است</string>
     <string name="ultra_wide_bokeh_open_tip">حالت تمام بدن</string>
     <string name="ultra_wide_close_tip">حالت زاویه فوق باز خاموش است</string>
@@ -1875,12 +1903,12 @@
     <string name="unknow_error">خطای ناشناخته</string>
     <string name="unsupported_microphones_3d_record_tips">صدای 3D از میکروفن‌های خارجی پشتیبانی نمی‌کند</string>
     <string name="unsupported_microphones_audio_zoom_tips">بزرگ‌نمایی صدا از میکروفن‌های خارجی پشتیبانی نمی‌کند</string>
-    <string name="update_loading">%1$d%% دانلود شد</string>
+    <string name="update_loading">%1$s دانلود شد</string>
     <string name="update_start">به‌روزرسانی %1$s</string>
     <string name="user_agree">پذیرفتن</string>
     <string name="user_define_watermark_cancel">لغو</string>
     <string name="user_define_watermark_save">ذخیره</string>
-    <string name="user_disagree">نمی‌پذیرم</string>
+    <string name="user_disagree">مخالفت</string>
     <string name="user_notice_identify_summary_format">پیش از استفاده از دوربین، شما باشید <a href="http://www.miui.com/res/doc/eula.html?lang=fa_IR">توافقنامه کاربر</a> و <a href="http://www.miui.com/res/doc/privacy.html?lang=fa_IR">سیاست حفظ حریم خصوصی</a> ما را بپذیرید. دوربین نیز برای کارکرد عادی نیاز به اتصال به اینترنت دارد. می‌پذیرید؟</string>
     <string name="user_notice_title">شرایط و ضوابط</string>
     <string name="video_beauty_tip">زیبایی برای ویدئوها</string>
@@ -1924,6 +1952,7 @@
     <string name="video_effect_entry_summer_day">تابستان</string>
     <string name="video_effect_entry_summer_day_describe">در صورت نیاز به حفظ رنگ پوست، کنتراست کم و رنگ‌های ملایم عملکرد خوبی دارند. این فیلتر برای صحنه‌های آفتابی در فضای باز مناسب است.</string>
     <string name="video_effect_entry_wind_sing">نسیم</string>
+    <string name="video_low_battery_tip_content">کاهش نرخ فریم به دلیل کم بودن باتری</string>
     <string name="video_overheat_tip_content">به نظر می‌رسد دستگاه شما خیلی داغ است. فیلمبرداری با وضوح پایین‌تر را امتحان کنید.</string>
     <string name="video_reach_size_limit">به محدودیت اندازه رسیده است.</string>
     <string name="video_shortcut_short">ویدئو</string>
@@ -1931,9 +1960,14 @@
     <string name="video_ultra_clear_tip">4K UHD</string>
     <string name="video_ultra_clear_tip_8k">AI 8K</string>
     <string name="view_privacy_policy">نمایش سیاست حفظ حریم خصوصی</string>
+    <string name="vlog_pro_cancel_reset_record_hint" />
+    <string name="vlog_pro_change_video_name_hint" />
+    <string name="vlog_pro_first_into_vlog_dumy_hint" />
+    <string name="vlog_pro_reset_record_hint" />
     <string name="vv_duartion_hint">%1$s | قسمت %2$d | %3$s ثانیه</string>
     <string name="vv_hint">فقط در حالت افقی می‌توانی ولاگ ضبط کنید</string>
     <string name="vv_stability_hint">دستگاه خود را پایدار نگه دارید</string>
+    <string name="vv_stability_newTip">درحال ذخیره موارد…</string>
     <string name="vv_start">گرفتن ولاگ</string>
     <string name="vv_use_hint_text_body">"حالت ولاگ به شما امکان ضبط
 و ویرایش ویدئوها را در هر زمان می‌دهد"</string>
@@ -1956,5 +1990,14 @@
     <string name="wideselfie_rotate_to_front">گوشی را به طرف جلو کج کنید</string>
     <string name="wideselfie_rotate_to_left_slowly">گوشی را به چپ بچرخانید</string>
     <string name="wideselfie_rotate_to_right_slowly">گوشی را به راست بچرخانید</string>
+    <string name="widget_camera_filter_description">چهار مجموعه از فیلترهای Leica</string>
+    <string name="widget_camera_filter_talk_back">فیلترهای Leica</string>
+    <string name="widget_camera_label">فیلترهای Leica</string>
+    <string name="widget_camera_lens_35mm_description">سی و پنج میلیمتر</string>
+    <string name="widget_camera_lens_50mm_description">پنجاه میلی‌متر</string>
+    <string name="widget_camera_lens_90mm_description">نود میلی‌متر</string>
+    <string name="widget_camera_lens_description">تجربه فاصله کانونی</string>
+    <string name="widget_camera_lens_none_description">یک لنز پنجاه میلیمتری برای عکس‌های پرتره</string>
+    <string name="widget_camera_lens_talk_back">لنزهای حرفه‌ای</string>
     <string name="yesterday">دیروز</string>
 </resources>

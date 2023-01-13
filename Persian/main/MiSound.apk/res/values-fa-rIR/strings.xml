@@ -115,7 +115,7 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="four_note">آزمایش حدود ۳ دقیقه طول می‌کشد تا کامل شود.</string>
+    <string name="four_note">آزمایش حدود %d دقیقه طول می‌کشد تا انجام شود.</string>
     <string name="friday">جمعه</string>
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
@@ -226,7 +226,7 @@
     <string name="music_audio_effect_settings">تنظیمات افکت</string>
     <string name="music_audio_visual_wake_lock">روشن نگه داشتن نمایشگر</string>
     <string name="music_audio_visual_wake_lock_summary">خاموش نشدن نمایشگر هنگام نمایش جلوه‌های دیداری</string>
-    <string name="music_below_thirty_years">تا ۳۰ سال</string>
+    <string name="music_below_thirty_years">حداکثر %d سال</string>
     <string name="music_customized_sound_summary">سفارشی کردن صدا بر اساس احساس شنوایی شما</string>
     <string name="music_customized_sound_title">تنظیم صدا</string>
     <string name="music_delete">حذف</string>
@@ -323,10 +323,10 @@
     <string name="music_sound_num">سفارشی کردن پیش‌تنظیمات %s</string>
     <string name="music_sound_sample">پیش‌تنظیمات سیستم</string>
     <string name="music_sure_to_delete_sound_msg">پیش‌تنظیمات انتخاب شده حذف شوند؟</string>
-    <string name="music_thirty_to_sixty_years">۳۰ تا ۶۰ سال</string>
+    <string name="music_thirty_to_sixty_years" formatted="false">%d-%d سال</string>
     <string name="music_title_dolby_control">Dolby Digital Plus</string>
     <string name="music_unsupport_effect_summary">هدست‌های USB مورد پشتیبانی نیستند</string>
-    <string name="music_upper_sixty_years">بالای ۶۰ سال</string>
+    <string name="music_upper_sixty_years">بیش از %d سال</string>
     <string name="name">نام</string>
     <string name="night">شب</string>
     <string name="noon">ظهر</string>
@@ -427,7 +427,8 @@
     <string name="sound_transmission_start">آغاز</string>
     <string name="sound_transmission_stop">توقف</string>
     <string name="sound_transmission_title">میکروفون بی‌سیم</string>
-    <string name="spatial_audio_summary">تنظیم صدای فراگیر بر اساس حرکت سر</string>
+    <string name="spatial_audio">صدای فراگیر</string>
+    <string name="spatial_audio_summary">فراگیری و حس فضا را وقتی که صدا از طریق ایرفون ها تجربه کنید</string>
     <string name="speaker_scenario_resume">بازیابی جلوه‌های اصلی</string>
     <string name="start_test_sound">آغاز آزمایش</string>
     <string name="sunday">یک‌شنبه</string>

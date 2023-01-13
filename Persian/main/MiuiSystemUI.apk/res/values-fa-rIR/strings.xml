@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessibility_airplane_mode">حالت هواپیما</string>
+    <string name="accessibility_airplane_mode">حالت هواپیما.</string>
     <string name="accessibility_back">بازگشت</string>
     <string name="accessibility_detail_switch">تعویض بین وضعیت‌ها</string>
     <string name="accessibility_detail_switch_disable">در دسترس نیست</string>
     <string name="accessibility_detail_switch_off">خاموش کردن</string>
     <string name="accessibility_detail_switch_on">فعال کردن</string>
-    <string name="accessibility_enter_lock_setting">ضربه زده تا تنظیمات تصاویر چرخشی باز شود</string>
+    <string name="accessibility_enter_lock_setting">ضربه زده تا تنظیمات تصاویر زمینه چرخشی باز شود</string>
     <string name="accessibility_enter_lock_wallpaper">ضربه زده تا تصاویر زمینه چرخشی باز شود</string>
     <string name="accessibility_expand_button">نمایش بیشتر</string>
     <string name="accessibility_keyboard_delete_button">حذف</string>
@@ -42,7 +42,8 @@
     <string name="auto_brightness_off">روشنایی خودکار خاموش است</string>
     <string name="auto_brightness_on">روشنایی خودکار روشن است</string>
     <string name="auto_disable_screenbuttons_disable_toast_text">دکمه‌های پیمایش غیرفعال شده‌اند. برای فعال کردن دوباره آن‌ها، روی یک دکمه‌ای دو ضربه بزنید.</string>
-    <string name="auto_disable_screenbuttons_enable_toast_text">دکمه‌های پیمایش فعال شدند</string>
+    <string name="auto_disable_screenbuttons_enable_toast_text">دکمه‌های جهت‌یابی فعال شدند</string>
+    <string name="auto_saver_okay_action">متوجه‌ام</string>
     <string name="back">بازگشت</string>
     <string name="battery_meter_percent_sign">%</string>
     <string name="bt_is_off">بلوتوث خاموش است</string>
@@ -66,9 +67,12 @@
     <string name="date_time_picker_dialog_title">تنظیم تاریخ و ساعت</string>
     <string name="default_lockscreen_unlock_hint_text">برای باز کردن قفل به سمت بالا بکشید</string>
     <string name="delete">حذف</string>
-    <string name="device_locked_without_biometric">هنگامی که از قفل صفحه سوم‌شخص استفاده می‌کنید نمی‌توانید قفل این دستگاه را با اثر انگشت یا داده چهره باز کنید</string>
-    <string name="device_locked_without_biometric_face">هنگامی که از قفل صفحه سوم‌شخص استفاده می‌کنید نمی‌توانید قفل این دستگاه را با داده چهره باز کنید</string>
-    <string name="device_locked_without_biometric_finger">هنگامی که از قفل صفحه سوم‌شخص استفاده می‌کنید نمی‌توانید قفل این دستگاه را با اثر انگشت باز کنید</string>
+    <string name="device_locked_without_biometric">هنگامی که از قفل صفحه سوم شخص استفاده می‌کنید نمی‌توانید قفل این دستگاه را با اثر انگشت یا داده چهره باز کنید</string>
+    <string name="device_locked_without_biometric_face">هنگامی که از قفل صفحه سوم شخص استفاده می‌کنید نمی‌توانید قفل این دستگاه را با داده چهره باز کنید</string>
+    <string name="device_locked_without_biometric_finger">هنگامی که از قفل صفحه سوم شخص استفاده می‌کنید نمی‌توانید قفل این دستگاه را با اثر انگشت باز کنید</string>
+    <string name="dialog_forget_password_cancel">لغو</string>
+    <string name="dialog_forget_password_message">در صورت فراموشی کد PUK خود، می‌توانید این eSIM را غیر فعال کرده تا دسترسی به دستگاه خود را از دست ندهید. پس از آن، برای راهنمایی می‌توانید با کارور خود تماس بگیرید.</string>
+    <string name="dialog_forget_password_ok">غیر فعال</string>
     <string name="digital_clock_dot">:</string>
     <string name="dnd_notification_warnings_title">مزاحم نشوید روشن است. اعلان‌های بی صدا و لرزش خاموش می‌شود.</string>
     <string name="do_disclosure_generic">این دستگاه به سازمان شما تعلق دارد</string>
@@ -98,6 +102,8 @@
     <string name="face_unlock_reveal_mouth">لب‌های خود را نمایان کنید</string>
     <string name="face_unlock_success">قفل با موفقیت باز شد</string>
     <string name="face_unlock_swipe_up_retry">برای تلاش دوباره به سمت بالا بکشید</string>
+    <string name="fgs_manager_dialog_title">اپ‌های فعال</string>
+    <string name="finger_error_single_mode">در حالت یک دست از اسکنر اثر انگشت نمی‌توان استفاده کرد. از حالت یک دست خارج شده و سپس دوباره تلاش کنید.</string>
     <string name="fingerprint_add_text">رابط اثر انگشت به‌روزرسانی شد. اثر انگشت خود را دوباره وارد کنید.</string>
     <string name="fingerprint_add_title">افزودن اثر انگشت</string>
     <string name="fingerprint_again_identified_msg">اثر انگشت شما اکنون فعال است. از آن برای باز کردن قفل دستگاه استفاده کرده یا گذرواژه را وارد کنید.</string>
@@ -175,6 +181,7 @@ PIN خود را وارد کرده تا قفل باز شود."</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
     <string name="forget_password_string">گذرواژه را فراموش کرده‌ام</string>
+    <string name="forget_password_string_for_esim"><u>کد PUK را فراموش کرده‌ام</u></string>
     <string name="friday">جمعه</string>
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
@@ -182,6 +189,7 @@ PIN خود را وارد کرده تا قفل باز شود."</string>
     <string name="fs_gesture_back_ready_title">بازگشت</string>
     <string name="fs_gesture_final_over">انجام شد</string>
     <string name="fs_gesture_final_restart">یک بار دیگر</string>
+    <string name="fs_gesture_final_see_more">نسخه‌های نمایشی بیشتر را در تنظیمات > صفحه اصلی > پیمایش سیستم ببینید</string>
     <string name="fs_gesture_final_summary">شما می‌توانید به حالت استفاده از دکمه‌ها در تنظیمات > نمایش تمام صفحه بازگردید</string>
     <string name="fs_gesture_final_title">آماده حرکت هستید!</string>
     <string name="fs_gesture_finish">عالی!</string>
@@ -197,9 +205,9 @@ PIN خود را وارد کرده تا قفل باز شود."</string>
     <string name="gxzw_quick_open_add_event">افزودن رویداد</string>
     <string name="gxzw_quick_open_add_event_sub">سالنامه</string>
     <string name="gxzw_quick_open_alipay_pay">کد پرداخت</string>
-    <string name="gxzw_quick_open_alipay_pay_sub">AliPay</string>
+    <string name="gxzw_quick_open_alipay_pay_sub">Alipay</string>
     <string name="gxzw_quick_open_alipay_scan">اسکنر</string>
-    <string name="gxzw_quick_open_alipay_scan_sub">AliPay</string>
+    <string name="gxzw_quick_open_alipay_scan_sub">Alipay</string>
     <string name="gxzw_quick_open_qr_code">کد QR</string>
     <string name="gxzw_quick_open_qr_code_sub">اسکنر</string>
     <string name="gxzw_quick_open_search">جستجو</string>
@@ -240,11 +248,14 @@ PIN خود را وارد کرده تا قفل باز شود."</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">لازم است پس از راه‌اندازی دوباره دستگاه وارد فضای نخست شوید</string>
     <string name="input_password_hint_text">رمز عبور را وارد کنید</string>
     <string name="input_pattern_after_boot_msg">هنگام راه‌اندازی‌های دوباره دستگاه، کشیدن الگوی شما لازم خواهد بود</string>
+    <string name="input_pattern_after_face_not_allowed">گذرواژه خود را حداقل هر %d ساعت وارد کرده تا این دستگاه امن بماند</string>
     <string name="input_pattern_after_restart_msg">برای ادامه قفل صفحه خود را تأیید کنید</string>
     <string name="input_pattern_hint_text">الگوی باز کردن قفل خود را بکشید</string>
+    <string name="input_pattern_or_finger_after_face_not_allowed">حداقل هر %d ساعت گذرواژه خود را وارد و یا از اثر انگشت استفاده کرده تا این دستگاه امن بماند</string>
     <string name="input_pin_after_boot_msg">هنگام راه‌اندازی‌های دوباره دستگاه، وارد کردن PIN شما لازم خواهد بود</string>
     <string name="input_pin_code">PIN را وارد کنید</string>
     <string name="input_puk_code">PUK را وارد کنید</string>
+    <string name="input_second_pattern_after_restart_msg">برای ادامه گذرواژه فضای دوم را تأیید کنید</string>
     <string name="invalid_confirm_pin_hint">PIN‌ها با هم مطابقت ندارند</string>
     <string name="keyboard_key">\"</string>
     <string name="keyboard_key_back">بازگشت</string>
@@ -316,6 +327,8 @@ dd/MM"</string>
     <string name="miui_notification_menu_snooze">چرت زدن</string>
     <string name="miui_notification_menu_title_not_allow">محدود</string>
     <string name="miui_notification_menu_unfold">علامت‌گذاری به عنوان مهم</string>
+    <string name="miui_notification_slide_menu_msg_ongoing">اعلان‌های همیشگی برای «%1$s» محدود شود؟</string>
+    <string name="miui_notification_slide_menu_ongoing">محدود کردن اعلان‌های همیشگی</string>
     <string name="miui_screen_rotation_freeze_message">جهت صفحه در حالت افقی قفل شد</string>
     <string name="miui_snooze_always_float">پنهان نشود</string>
     <string name="miui_snooze_cancel">لغو</string>
@@ -396,6 +409,7 @@ mm"</string>
     <string name="more">بیشتر</string>
     <string name="morning">صبح</string>
     <string name="msim_set_sub_not_supported_phone_in_call">هنگام تماس تنظیم نمی‌شود</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="night">شب</string>
     <string name="noon">ظهر</string>
     <string name="notification_control_center">اعلان‌ها و مرکز کنترل</string>
@@ -405,13 +419,13 @@ mm"</string>
     <string name="open_lock_screen_magazine_hint_text">برای گزینه‌های بیشتر به سمت راست بکشید</string>
     <string name="open_remote_center_hint_text">برای نمایش کنترل‌ها به سمت راست بکشید</string>
     <string name="open_xmyzl_hint_text">برای باز کردن کنترل جادویی Xiaomi به سمت راست بکشید</string>
-    <string name="owner_info_settings_edit_text_hint">برای نمونه: Android ثنا</string>
+    <string name="owner_info_settings_edit_text_hint">برای نمونه: Android باران</string>
     <string name="phone_locked_foget_password">گذرواژه خود را فراموش کرده‌اید؟</string>
     <string name="phone_locked_foget_password_mehod_back">بازگشت</string>
     <string name="phone_locked_foget_password_method">گذرواژه خود را فراموش کرده‌اید؟</string>
     <string name="phone_locked_foget_password_method_content">&lt;Data>شما باید &lt;font color=#a5220e>همه داده‌ها&lt;/font> را شامل عکس‌ها و مخاطبین از روی دستگاه خود پاک کرده و سپس یک گذرواژه جدید برای صفحه قفل تنظیم کنید.&lt;/Data></string>
     <string name="phone_locked_foget_password_method_next">بعدی</string>
-    <string name="phone_locked_foget_password_ok">فهمیدم</string>
+    <string name="phone_locked_foget_password_ok">متوجه‌ام</string>
     <string name="phone_locked_forget_password_suggesstion_one_content">&lt;Data>دستگاه خود را خاموش کرده و &lt;font color=#a5220e>دکمه خاموش/روشن&lt;/font> و &lt;font color=#a5220e>دکمه بالا بردن صدا&lt;/font> را همزمان فشرده و نگه دارید تا لوگوی Mi را نمایش کنید.&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>گزینه &lt;font color=#a5220e>«Wipe &amp;amp; Reset»&lt;/font> را انتخاب کرده و صبر کرده تا دستگاه بازنشانی شود.&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">چگونه داده‌ها را پاک کنیم؟</string>
@@ -427,7 +441,7 @@ mm"</string>
     <string name="qs_bill_message_unit_cny">یوان</string>
     <string name="qs_control_big_tile_state_closed">خاموش</string>
     <string name="qs_control_big_tile_state_closing">درحال خاموش کردن…</string>
-    <string name="qs_control_big_tile_state_connected">متصل</string>
+    <string name="qs_control_big_tile_state_connected">شبکه‌های وصل شده</string>
     <string name="qs_control_big_tile_state_connecting">درحال اتصال…</string>
     <string name="qs_control_big_tile_state_disconnected">قطع</string>
     <string name="qs_control_big_tile_state_disconnecting">درحال قطع اتصال…</string>
@@ -447,7 +461,9 @@ mm"</string>
     <string name="qs_traffic_message_type_used">%1$s %2$s استفاده شده است</string>
     <string name="quick_settings_autobrightness_label">تنظیم روشنایی خودکار</string>
     <string name="quick_settings_batterysaver_label">بهینه‌ساز باتری</string>
+    <string name="quick_settings_bluetooth_connected_tip">با موفقیت از طریق بلوتوث متصل شد</string>
     <string name="quick_settings_bluetooth_detail_empty_text">هیچ دستگاه جفت شده‌ای موجود نیست</string>
+    <string name="quick_settings_bluetooth_disconnected_tip">همه دستگاه‌های بلوتوثی امروز قطع خواهند ماند</string>
     <string name="quick_settings_bluetooth_label">بلوتوث</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnoff">اینترنت همراه (WCDMA/LTE) خاموش خواهد شد. تا زمانی که از Wi-Fi استفاده نکنید، دیگر نمی‌توانید از برنامه‌هایی که به اتصال داده نیاز دارند استفاده کنید. ارسال یا دریافت پیام‌های چندرسانه‌ای محدود خواهد شد.</string>
     <string name="quick_settings_cellular_detail_dialog_message_turnon">اینترنت همراه روشن خواهد شد. اتصال به شبکه‌های موبایل بسته به برنامه پرداخت شما ممکن است هزینه‌های اضافی را در پی داشته باشد.</string>
@@ -458,10 +474,11 @@ mm"</string>
     <string name="quick_settings_cellular_detail_unable_change">هنگام تماس نمی‌توان تنظیم کرد</string>
     <string name="quick_settings_drivemode_label">حالت خودرو</string>
     <string name="quick_settings_edit_label">ویرایش</string>
-    <string name="quick_settings_extreme_batterysaver_label">بهینه‌ساز بی‌نهایت باتری</string>
+    <string name="quick_settings_extreme_batterysaver_label">بهینه‌ساز فوق‌العاده باتری</string>
     <string name="quick_settings_flashlight_label">چراغ قوه</string>
     <string name="quick_settings_hotspot_label">کانون داغ</string>
     <string name="quick_settings_location_label">موقعیت</string>
+    <string name="quick_settings_low_battery_toast_text">چراغ قوه استفاده نمی‌شود. باتری بسیار کم است.</string>
     <string name="quick_settings_more_settings">تنظیمات بیشتر</string>
     <string name="quick_settings_mute_label">بی‌صدا</string>
     <string name="quick_settings_nightmode_label">حالت تاریک</string>
@@ -508,6 +525,8 @@ mm"</string>
     <string name="status_bar_clock_date_time_format_12">E، d MMM h:mm a</string>
     <string name="status_bar_clock_date_weekday_format">EEEE، dd MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE، dd MMMM</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 d MMM"</string>
     <string name="status_bar_date_format_12">"E
@@ -565,13 +584,14 @@ d MMM"</string>
     <string name="time_picker_dialog_title">تنظیم زمان</string>
     <string name="time_picker_label_hour">ساعت</string>
     <string name="time_picker_label_minute">دقیقه</string>
+    <string name="tip_close_flares">در این مدت شما اعلانی درباره رفتار برنامه دریافت نخواهید کرد</string>
     <string name="today">امروز</string>
     <string name="tomorrow">فردا</string>
     <string name="torch_high_temperature_warning">این دستگاه بیش از حد داغ شده است. نمی‌توان از چراغ قوه استفاده کرد.</string>
-    <string name="traffic_unit_byte">بایت</string>
-    <string name="traffic_unit_gigabyte">گیگابایت</string>
-    <string name="traffic_unit_kilobyte">کیلوبایت</string>
-    <string name="traffic_unit_megabyte">مگابایت</string>
+    <string name="traffic_unit_byte">ب</string>
+    <string name="traffic_unit_gigabyte">گ.ب</string>
+    <string name="traffic_unit_kilobyte">ک.ب</string>
+    <string name="traffic_unit_megabyte">م.ب</string>
     <string name="tuesday">سه‌شنبه</string>
     <string name="tuesday_short">سه‌شنبه</string>
     <string name="tuesday_shortest">سه‌شنبه</string>
@@ -591,7 +611,7 @@ d MMM"</string>
     <string name="wifi_is_off">Wi-Fi خاموش است</string>
     <string name="wireless_change_to_ac_charging">به شارژ سیمی تعویض شد</string>
     <string name="wireless_charge_current">درحال شارژ</string>
-    <string name="wireless_charge_dialog_cancel">فهمیدم</string>
+    <string name="wireless_charge_dialog_cancel">متوجه‌ام</string>
     <string name="wireless_charge_dialog_title">دستگاه خود را در مرکز پایه شارژ قرار دهید</string>
     <string name="wireless_charge_reset_device">شارژ به کندی انجام می‌شود. دستگاه خود را درست تنظیم کنید.</string>
     <string name="wireless_charge_reset_device_detail">مطمئن شوید دستگاه شما به درستی روی پایه شارژ قرار گرفته است</string>

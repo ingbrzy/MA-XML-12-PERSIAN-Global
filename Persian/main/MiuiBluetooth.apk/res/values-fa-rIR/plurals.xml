@@ -84,8 +84,4 @@
         <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">۱ دقیقه پیش</item>
     </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">%1$d دستگاه وصل است</item>
-        <item quantity="one">%1$d دستگاه وصل است</item>
-    </plurals>
 </resources>

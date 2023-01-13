@@ -43,8 +43,8 @@
     <string name="aqi_alert_channel_name">‏هشدارهای شاخص کیفیت هوا</string>
     <string name="aqi_data_source">ارائه شده توسط Colorful Clouds</string>
     <string name="aqi_desc">شاخص کیفیت هوا</string>
-    <string name="aqi_detail_24_hours">پیش‌بینی ۲۴ ساعت</string>
-    <string name="aqi_detail_5_days">پیش‌بینی ۵ روز</string>
+    <string name="aqi_detail_24_hours">پیش‌بینی %d ساعته</string>
+    <string name="aqi_detail_5_days">پیش‌بینی %d روزه</string>
     <string name="aqi_detail_co_unit">واحد: mg/m³</string>
     <string name="aqi_detail_title">شاخص کیفیت هوا</string>
     <string name="aqi_detail_unit">واحد: µg/m³</string>
@@ -117,6 +117,7 @@
     <string name="dynamic_weather">آب و هوا</string>
     <string name="early_morning">صبح</string>
     <string name="edit_city">مدیریت شهرها</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">در حال به‌روزرسانی…</string>
     <string name="empty_view_net_unavailable">به شبکه متصل نشد</string>
     <string name="empty_view_refresh">تلاش دوباره</string>
@@ -193,6 +194,7 @@
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
     <string name="hourly_forcast_now">حالا</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="index_item_experience_now">اکنون نصب شود</string>
     <string name="indices_title_chance_of_rain">احتمال بارش باران</string>
@@ -204,15 +206,16 @@
     <string name="indices_wind_direction_north">شمال</string>
     <string name="indices_wind_direction_south">جنوب</string>
     <string name="indices_wind_direction_west">غرب</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">شاخص پرتو فرا بنفش</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">روشن کردن خدمات موقعیت</string>
     <string name="location_tag">محل یابی</string>
     <string name="manager_city_option_add_home">افزودن به صفحه آغاز</string>
     <string name="manager_city_option_view_on_home">نمایش در صفحه آغاز</string>
     <string name="midnight">شب</string>
     <string name="minute_rain">پیش‌بینی بارش</string>
-    <string name="minute_rain_after_an_hour">در ۱ ساعت</string>
-    <string name="minute_rain_after_two_hour">در ۲ ساعت</string>
     <string name="minute_rain_feedback_subtitle">به ما بگو آب و هوا چطور است.</string>
     <string name="minute_rain_feedback_title">اطلاعات آب و هوا به نظر اشتباه می‌آید.</string>
     <string name="minute_rain_now">اکنون</string>
@@ -285,7 +288,6 @@
     <string name="morning">صبح</string>
     <string name="network_unavailable">نمی‌توان به شبکه متصل شد.</string>
     <string name="night">شب</string>
-    <string name="night_not_disturb_settings_summary">مسدود کردن هشدارهای بین ساعت ۲۳:۰۰ تا ۷:۰۰</string>
     <string name="night_not_disturb_settings_title">در شب مزاحم نشوید</string>
     <string name="no_data">بدون اطلاعات</string>
     <string name="no_internet_message">برای پس گرفتن رضایت شما، دستگاهتان نیاز به اتصال به شبکه دارد. تنظیمات شبکه را بررسی کرده و سپس دوباره تلاش کنید.</string>
@@ -363,9 +365,10 @@
     <string name="share_menu_title">هم‌رسانی</string>
     <string name="share_subject">هم‌رسانی</string>
     <string name="share_weather_desc">\# آب و هوای MIUI# امروز%1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">عکس صفحه گرفته نشد</string>
-    <string name="shortcut_short_label_24_hour_forecast">پیش‌بینی ۲۴ ساعته</string>
+    <string name="shortcut_short_label_24_hour_forecast">پیش‌بینی %d ساعته</string>
     <string name="shortcut_short_label_recent_forecast">آب و هوا را بررسی کنید</string>
     <string name="size_byte">بایت</string>
     <string name="size_giga_byte">گیگابایت</string>
@@ -480,7 +483,7 @@
     <string name="unit">واحدها</string>
     <string name="unit_temperature">واحدهای دما</string>
     <string name="unit_wind">واحدهای سرعت باد</string>
-    <string name="update_night_setting_summary_text">به‌روزرسانی اطلاعات آب و هوا بین ساعت ۲۳:۰۰ تا ۰۷:۰۰</string>
+    <string name="update_night_setting_summary_text">به‌روزرسانی اطلاعات آب و هوا بین %1$s و %2$s</string>
     <string name="update_night_setting_title_text">به‌روزرسانی خودکار در شب</string>
     <string name="update_notification_info">درحال به‌روزرسانی داده‌ها در پس‌زمینه…</string>
     <string name="updated_a_moment_ago">لحظه پیش به‌روز شد</string>
@@ -489,10 +492,8 @@
     <string name="video_banner_weather_forecast">پیش‌بینی وضعیت آب و هوا</string>
     <string name="video_banner_weather_update">آخرین تغییرات آب و هوایی</string>
     <string name="view_forecast_item_yesterday">دیروز</string>
-    <string name="view_indexes_item_day_after_tommorrow">تا ۲ روز آینده</string>
     <string name="view_indexes_item_today">امروز</string>
     <string name="view_indexes_item_tommorrow">فردا</string>
-    <string name="warning_weather_day_and_night_settings_summary">دریافت خلاصه اطلاعات آب و هوای روزانه بین ساعت ۷:۰۰ و ۱۹:۰۰</string>
     <string name="warning_weather_day_and_night_settings_title">خلاصه اطلاعات آب و هوای روزانه</string>
     <string name="weather_alert_channel_name">هشدارها</string>
     <string name="weather_aqi_full_air_quality_forcast">پیش‌بینی کامل کیفیت هوا</string>
@@ -507,6 +508,7 @@
     <string name="wednesday_shortest">چهارشنبه</string>
     <string name="welcome_app_title">به آب و هوا خوش آمدید!</string>
     <string name="wind_direction_no_data">باد</string>
+    <string name="wind_power">%d</string>
     <string name="wind_unit">%1$sک.م/س</string>
     <string name="xiaomi_weather_description_content">آب و هوا یک برنامه سیستمی است. پس از حذف برنامه نمی‌توانید اطلاعات آب و هوا را مشاهده کرده یا از ابزارک‌های مربوطه استفاده کنید.</string>
     <string name="xiaomi_weather_description_content_remove">آب و هوا یک برنامه سیستمی است. پس از برداشتن میان‌بر صفحه اصلی، نمی‌توانید اطلاعات آب و هوا را مشاهده کرده یا از ابزارک‌های مربوطه استفاده کنید.</string>

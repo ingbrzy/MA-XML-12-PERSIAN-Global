@@ -16,6 +16,7 @@
     <string name="air_space_exit">خروج از فضا</string>
     <string name="air_space_setting">تنظیمات فضاها</string>
     <string name="airspace_users_full">فضای بیشتر کار ایجاد نشد</string>
+    <string name="alwaysUsePrompt">انتخاب مرا به یاد داشته باشد</string>
     <string name="am">ق.ظ</string>
     <string name="appData">برنامه‌های نصب شده</string>
     <string name="app_name">بخش هسته امنیتی</string>
@@ -109,7 +110,7 @@
     <string name="dual_animation_description">نمایش انیمیشن هنگامی که برنامه‌های همزاد درحال اجرا هستند</string>
     <string name="early_morning">صبح</string>
     <string name="empty" />
-    <string name="enable">روشن</string>
+    <string name="enable">روشن کردن</string>
     <string name="ent_activating">درحال فعال‌سازی…</string>
     <string name="ent_activation">فعال‌سازی</string>
     <string name="ent_activation_hint">برای فعال‌سازی حالت شرکتی، کد شرکتی خود را در ادامه کد مجوز وارد کنید. پس از آن، خدمات شرکتی سفارشی فعال خواهند شد.</string>
@@ -235,8 +236,7 @@
     <string name="green_guard_title3">مدیریت برنامه‌ها</string>
     <string name="greenguard_child_des">دستگاه‌های دوستان و خانواده خود را مدیریت کنید</string>
     <string name="greenguard_child_des_title">برای افزودن دستگاه کد QR را اسکن کنید</string>
-    <string name="greenguard_functional_description">"مدیریت دستگاه‌ها از راه دور، نمایش اطلاعات موقعیت،
-کنترل برنامه‌های نصب شده و محدود کردن استفاده"</string>
+    <string name="greenguard_functional_description">مدیریت دستگاه‌ها از راه دور، نمایش اطلاعات موقعیت و کنترل برنامه‌های نصب شده</string>
     <string name="greenguard_install_cancle">خیر، سپاسگزارم</string>
     <string name="greenguard_install_confirm">نصب شود</string>
     <string name="greenguard_install_message">محافظ خانواده یک برنامه سیستمی است. برای نصب آن نیازی به اینترنت ندارید.</string>
@@ -656,6 +656,7 @@
     <string name="xspace_guide_description">"هر حسابی
 سزاوار برنامه‌های خودش است"</string>
     <string name="xspace_guide_title">آزمایش برنامه‌های همزاد</string>
+    <string name="xspace_head">برنامه همزاد</string>
     <string name="xspace_header">برنامه‌های همزاد</string>
     <string name="xspace_instagram_title">اینستاگرام</string>
     <string name="xspace_install_complete">&lt;font> برنامه‌های همزاد با موفقیت ایجاد شد. &lt;/font>&lt;font color=#0D84FF> اکنون باز کنید&lt;/font>.</string>
@@ -671,6 +672,7 @@
     <string name="xspace_notification_error">وارد حساب WeChat همزاد شده و دوباره تلاش کنید</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">حذف حساب‌های برنامه‌های همزاد</string>
+    <string name="xspace_resolver_activity_title">انتخاب برنامه</string>
     <string name="xspace_setting_label">تنظیمات برنامه همزاد</string>
     <string name="xspace_settins">تنظیم</string>
     <string name="xspace_start">ایجاد</string>

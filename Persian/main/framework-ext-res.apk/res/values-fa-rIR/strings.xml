@@ -13,6 +13,7 @@
     <string name="android_ringtone_default_with_actual">آهنگ زنگ پیش‌فرض (%1$s)</string>
     <string name="android_ringtone_silent">هیچ</string>
     <string name="android_ringtone_unknown">آهنگ زنگ ناشناخته</string>
+    <string name="app_continuity_channel_name">تنظیم ابعاد برنامه</string>
     <string name="application_cannot_open_alipay_health_code">"Couldn't open Alipay health code"</string>
     <string name="application_cannot_open_alipay_payment_code">کد پرداخت Alipay باز نشد</string>
     <string name="application_cannot_open_alipay_scanner">اسکنر Alipay باز نشد</string>
@@ -44,7 +45,7 @@
     <string name="autofill">پرکردن خودکار</string>
     <string name="autofill_save_message">به MIUI اجازه ذخیره حساب‌ها و گذرواژه‌ها را می‌دهید؟</string>
     <string name="autofill_save_ok">اجازه دادن</string>
-    <string name="autofill_save_sub_message">شما می‌توانید رمزهای عبور خود را در تنظیمات نمایش و مدیریت کنید > گذرواژه &amp; امنیت > %s.</string>
+    <string name="autofill_save_sub_message">شما می‌توانید رمزهای عبور خود را در تنظیمات نمایش و مدیریت کنید > گذرواژه و امنیت > %s.</string>
     <string name="autofill_save_title">ذخیره گذرواژه‌ها به صورت خودکار</string>
     <string name="autofill_service_name">مدیریت گذرواژه‌ها</string>
     <string name="battery_authentic_failed_button">فهمیدم</string>
@@ -111,6 +112,10 @@
     <string name="crystal">کریستال</string>
     <string name="cut">برش</string>
     <string name="dance">رقص</string>
+    <string name="dark_mode_enable">روشن کردن</string>
+    <string name="dark_mode_suggest_message">در هنگام غروب با تعویض خودکار به حالت تاریک می‌توانید تجربه دیدن راحت‌تری داشته باشید</string>
+    <string name="dark_mode_suggest_title">هوا درحال تاریک شدن است</string>
+    <string name="dark_mode_suggest_toast">از همین حالا حالت تاریک به صورت خودکار در غروب آفتاب روشن و در طلوع آفتاب خاموش خواهد شد</string>
     <string name="data_usage_context">If Wi-Fi is not turned on, your device will connect to a mobile network, which may result in additional charges depending on your payment plan.Thank you!</string>
     <string name="daydream">رؤیای روز</string>
     <string name="default_device_name">دستگاه ناشناخته</string>
@@ -130,6 +135,7 @@
     <string name="dewdrops">شبنم صبحگاهی</string>
     <string name="digitaluniverse">دنیای دیجیتال (استریو)</string>
     <string name="disable_nfc">NFC را برای شارژ بی‌سیم خاموش کرد</string>
+    <string name="disable_nfc_haptic_reverse">لرزش و NFC را برای شارژ بی‌سیم معکوس خاموش کرد</string>
     <string name="disable_nfc_reverse">NFC را برای شارژ بی‌سیم معکوس خاموش کرد</string>
     <string name="echo">پژواک</string>
     <string name="eighthours">۸ ساعت</string>
@@ -137,6 +143,7 @@
     <string name="enable_livetalk_title">روشن کردن بسته‌های خرید اعتباری</string>
     <string name="enable_midrop">روشن کردن</string>
     <string name="enable_nfc">دیگر شارژ نمی‌شود. NFC دوباره روشن شده است.</string>
+    <string name="enable_nfc_haptic_reverse">شارژ معکوس متوقف شد. لرزش و NFC بازگشتند.</string>
     <string name="enable_nfc_reverse">دیگر شارژ معکوس ندارد. NFC دوباره روشن شده است.</string>
     <string name="expect">هیجان</string>
     <string name="fadein">محو به درون</string>
@@ -154,6 +161,7 @@
     <string name="flip_screen_camera_tip">برای استفاده از دوربین، دستگاه را بگردانید</string>
     <string name="flute">فلوت</string>
     <string name="fm_record_smaple_prefix_miui">ضبط FM</string>
+    <string name="fold_small_not_split">تجزیه نمایشگر بر روی صفحه خارجی پشتیبانی نمی‌شود</string>
     <string name="force_exit_message">%1$s به اجبار بسته شد</string>
     <string name="force_exit_skip_message">نمی‌توان %1$s را بست چراکه سیستم آن را نیاز دارد.</string>
     <string name="fourhours">۲ ساعت</string>
@@ -163,6 +171,7 @@
     <string name="fp_nav_center_action_choose_dlg_title">روشن کردن ضربه سریع</string>
     <string name="freeform_exchange_tip">رها کرده تا برنامه باز شود</string>
     <string name="freeform_exchange_tip2">برای لغو به گوشه بکشید</string>
+    <string name="freeform_exchange_tip3">پنجره شناور را در حالت تمام صفحه باز کنید</string>
     <string name="frenchchic">شیک</string>
     <string name="frequent_email">ایمیل پر استفاده</string>
     <string name="frequent_phrases">عبارات پرکاربرد</string>
@@ -204,6 +213,13 @@
     <string name="international_livetalk_enable">استفاده از بسته‎های خرید اعتبار برای تماس‌های بین‌المللی</string>
     <string name="key_btn_ok">تائید</string>
     <string name="key_btn_space">فاصله</string>
+    <string name="keyboard_connect_failed">صفحه کلید وصل نشد. دوباره پیوند دهید.</string>
+    <string name="keyboard_identity_reject_confirm">فهمیدم</string>
+    <string name="keyboard_identity_reject_message">به نظر می‌رسد صفحه کلید شما با این دستگاه سازگار نیست.</string>
+    <string name="keyboard_identity_transfer_error_message">صفحه کلید وصل نشد. دوباره تلاش کنید.</string>
+    <string name="keyboard_upgrade_failed">به‌روزرسانی صفحه کلید انجام نشد</string>
+    <string name="keyboard_upgrade_start">به‌روزرسانی صفحه کلید…</string>
+    <string name="keyboard_upgrade_success">به‌روزرسانی صفحه کلید با موفقیت انجام شد</string>
     <string name="kungfu">کونگ‌فو</string>
     <string name="leisure">اوقات فراغت</string>
     <string name="livetalk_not_enable">بسته خرید اعتبار خاموش است</string>
@@ -235,6 +251,8 @@
     <string name="miremix">Mi (ریمیکس)</string>
     <string name="miui_forbid_poweroff_when_device_locked">نمی‌توان خاموش کرد. دستگاه قفل است.</string>
     <string name="miui_multiwindow_not_support_cvw">اندازه پنجره برای این برنامه تنظیم نمی‌شود</string>
+    <string name="miui_multiwindow_not_support_small_window">%1$s از پنجره‌های شناور پشتیبانی نمی‌کند</string>
+    <string name="miui_multiwindow_not_support_split">%1$s از تجزیه نمایشگر پشتیبانی نمی‌کند</string>
     <string name="miui_screen_ratio_hint">مشکل ابعاد صفحه</string>
     <string name="miui_screen_ratio_hint_dont_show_again">دوباره نمایش داده نشود</string>
     <string name="miui_screen_ratio_hint_go_to_settings">رفتن به تنظیمات</string>
@@ -262,6 +280,7 @@
     <string name="oneplus_phone">OnePlus</string>
     <string name="open_close_tip_action">فهمیدم</string>
     <string name="open_close_tip_content">برای بستن پنجره شناور، نوار اقدام را فشرده و نگه داشته و سپس به بالا بکشید</string>
+    <string name="open_miui_optimization">ابتدا بهینه‌سازی MIUI را روشن کنید</string>
     <string name="oppo">OPPO</string>
     <string name="oppo_phone">OPPO</string>
     <string name="orange">نارنجی</string>
@@ -309,8 +328,19 @@
     <string name="redmi_note_5">Redmi Note 5</string>
     <string name="redmi_note_7">Redmi Note 7</string>
     <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
+    <string name="relaunch_action">راه اندازی دوباره</string>
+    <string name="relaunch_dialog_alwaysUsePrompt">انتخاب مرا به یاد داشته باش</string>
+    <string name="relaunch_dialog_button_cancel">لغو</string>
+    <string name="relaunch_dialog_button_confirm">راه اندازی دوباره</string>
+    <string name="relaunch_dialog_message">اندازه این برنامه فقط پس از راه‌اندازی دوباره قابل تغییر است. اگر اکنون برنامه را دوباره راه‌اندازی کنید، همه تغییرات ذخیره نشده از بین خواهند رفت. در هر صورت دوباره راه‌اندازی شود؟</string>
+    <string name="relaunch_dialog_title">«%s» بازنشانی شود؟</string>
+    <string name="relaunch_fold_notification_content">این برنامه ممکن است به درستی در این صفحه نمایش داده نشود. برنامه را برای تنظیم ابعاد دوباره راه‌اندازی کنید.</string>
+    <string name="relaunch_notification_title">راه‌اندازی دوباره «%s»</string>
+    <string name="relaunch_unfold_notification_content">این برنامه ممکن است به درستی در این صفحه نمایش داده نشود. برنامه را برای تنظیم ابعاد دوباره راه‌اندازی کنید.</string>
     <string name="remain">باقی مانده: %s</string>
     <string name="replace">جایگزینی</string>
+    <string name="rescuepartyplus_config_reset_context">برخی داده‌ها ممکن است پاک شده باشند. برای نمایش جزئیات ضربه بزنید.</string>
+    <string name="rescuepartyplus_config_reset_title">تعمیر سیستم کامل شد</string>
     <string name="resolver_app_recommend_flag">پیشنهاد کردن</string>
     <string name="resolver_checkbox_always">همیشه</string>
     <string name="resolver_checkbox_once">یک‌بار</string>
@@ -325,6 +355,11 @@
     <string name="rog_phone">ROG</string>
     <string name="samsung">سامسونگ</string>
     <string name="samsung_phone">گوشی سامسونگ</string>
+    <string name="sc_notification_warning_content">چنانچه برنامه به درستی نمایش داده نمی‌شود، شما می‌توانید نمایش پیش‌فرض آن را بازنشانی کرده و یا در تنظیمات تنظیمات برگزیده نمایش برنامه را تغییر دهید.</string>
+    <string name="sc_notification_warning_restore">بازنشانی</string>
+    <string name="sc_notification_warning_settings">تنظیمات</string>
+    <string name="sc_notification_warning_title">تنظیمات برگزیده نمایش برنامه</string>
+    <string name="sc_relaunch_dialog_message">این برنامه ممکن است به درستی در این صفحه نمایش داده نشود. برنامه را برای تنظیم ابعاد دوباره راه‌اندازی کنید.</string>
     <string name="scanning_device_tips">درحال جستجوی دستگاه‌های نزدیک… مطمئن شوید دستگاه مقابل در حالت قابل شناسایی است.</string>
     <string name="screen_button_notification_text">برای روشن کردن آنها، دکمه صفحه اصلی و پاور را به طور همزمان فشار دهید.</string>
     <string name="screen_button_notification_title">دکمه‌های پیمایش خاموش شده‌اند</string>
@@ -357,6 +392,7 @@
     <string name="set_password_action">تنظیم گذرواژه</string>
     <string name="set_password_message">یک گذرواژه برای استفاده از این ویژگی تنظیم کنید.</string>
     <string name="set_password_title">یک گذرواژه تنظیم کنید</string>
+    <string name="shortcut_no_support_on_pc_mode">این حرکت در حالت رایانه پشتیبانی نمی‌شود</string>
     <string name="shutdown_confirm_title">دستگاه حالا خاموش شود؟</string>
     <string name="shutdown_progress">درحال خاموش کردن…</string>
     <string name="silence_mode">حالت بی‌صدا</string>
@@ -413,6 +449,8 @@
     <string name="status_bar_toggle_wifi_ap">کانون داغ</string>
     <string name="stoneskimming_preview">گام‌های سبک</string>
     <string name="stop_operate_camera_frequently">شما در حال باز و بسته کردن مکرر دوربین جلو هستید.</string>
+    <string name="stylus_pen_mask_screenshot">برای گرفتن عکس از صفحه، روی صفحه ضربه بزنید</string>
+    <string name="stylus_pen_mask_text">برای آغاز نوشتن روی صفحه ضربه بزنید</string>
     <string name="subinfo_default_name">سیم‌کارت %d</string>
     <string name="sunlight_notification_content">تنظیم خودکار روشنای در برابر نور شدید محیط</string>
     <string name="sunlight_notification_title">روشن کردن حالت آفتابی</string>
@@ -441,6 +479,7 @@
     <string name="unknown_caller">شماره ناشناس</string>
     <string name="unrecognized_manufacture">ناشناخته</string>
     <string name="unrecognized_model">دستگاه ناشناخته</string>
+    <string name="unreplace_freeform_count_max">پنجره‌های شناور بیشتری باز نمی‌شوند</string>
     <string name="user_authentication_failed">AUTHENTICATION FAILURE -29-</string>
     <string name="user_switching_dialog_switch_into_kid_space">درحال تعویض به فضای کودک…</string>
     <string name="user_switching_dialog_switch_out_kid_space">درحال ترک فضای کودک…</string>

@@ -92,6 +92,14 @@
         <item>2X</item>
         <item>4X</item>
     </string-array>
+    <string-array name="gb_gpu_custom_cut_anti">
+        <item>2X</item>
+        <item>4X</item>
+    </string-array>
+    <string-array name="gb_gpu_custom_cut_texture">
+        <item>متعادل</item>
+        <item>کیفیت بالا</item>
+    </string-array>
     <string-array name="gb_gpu_custom_texture">
         <item>پر سرعت</item>
         <item>متعادل</item>

@@ -1,18 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="all_month_str">
-        <item>ژانویه</item>
-        <item>فوریه</item>
-        <item>مارس</item>
-        <item>آوریل</item>
-        <item>می</item>
-        <item>جون</item>
-        <item>جولای</item>
-        <item>آگوست</item>
-        <item>سپتامبر</item>
-        <item>اکتبر</item>
-        <item>نوامبر</item>
-        <item>دسامبر</item>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>پ</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ز</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>ژ</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ک</item>
+        <item>گ</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>و</item>
+        <item>ه</item>
+        <item>ی</item>
+        <item>\#</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>ا</item>
@@ -95,29 +114,12 @@
         <item>ماه آینده</item>
         <item>انتخاب تاریخ</item>
     </string-array>
-    <string-array name="general_preference_text_zoom_summary_array">
-        <item>ریز</item>
-        <item>کوچک</item>
-        <item>عادی</item>
-        <item>بزرگ</item>
-        <item>خیلی بزرگ</item>
-    </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
         <item>به تازگی مشاهده شده</item>
         <item>فرمت</item>
         <item>نام</item>
         <item>فرستنده</item>
         <item>تاریخ دریافت</item>
-    </string-array>
-    <string-array name="moveto_folder_sections">
-        <item>سیستم</item>
-        <item>پر استفاده</item>
-        <item>همه پوشه‌ها</item>
-    </string-array>
-    <string-array name="prefEntries_autoAdvance">
-        <item>پیام جدیدتر</item>
-        <item>پیام قدیمی‌تر</item>
-        <item>صندوق دریافتی</item>
     </string-array>
     <string-array name="prefEntries_contact_add">
         <item>همه</item>

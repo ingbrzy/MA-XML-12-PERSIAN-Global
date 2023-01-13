@@ -8,29 +8,12 @@
         <item>Next month</item>
         <item>Pick date</item>
     </string-array>
-    <string-array name="general_preference_text_zoom_summary_array">
-        <item>خیلی کوچک</item>
-        <item>کوچک</item>
-        <item>نرمال</item>
-        <item>بزرگ</item>
-        <item>خیلی بزرگ</item>
-    </string-array>
     <string-array name="menu_att_mgr_sort_string_array">
         <item>اخیرا مشاهده شده</item>
         <item>قالب</item>
         <item>نام</item>
         <item>فرستنده</item>
         <item>تاریخ دریافت</item>
-    </string-array>
-    <string-array name="moveto_folder_sections">
-        <item>سیستم</item>
-        <item>پراستفاده</item>
-        <item>همه پوشه ها</item>
-    </string-array>
-    <string-array name="prefEntries_autoAdvance">
-        <item>پیام جدیدتر</item>
-        <item>پیام قدیمی تر</item>
-        <item>صندوق پستی</item>
     </string-array>
     <string-array name="signature_normal_string_array_next">
         <item>آدرس:</item>

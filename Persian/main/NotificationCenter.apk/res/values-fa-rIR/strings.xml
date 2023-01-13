@@ -16,6 +16,8 @@
     <string name="date_picker_lunar">سالنامه سنتی چینی</string>
     <string name="date_time_picker_dialog_title">تنظیم تاریخ و ساعت</string>
     <string name="default_list_type">چینش بر اساس زمان دریافت</string>
+    <string name="disable_description_content">اعلان‌ها (notifications) یک اپ سیستمی است. اگر غیر فعالش کنید، نمی توانید اعلان های اپ ها را مدیریت کنید. غیرفعال سازی؟</string>
+    <string name="disable_description_title">برنامه سیستم غیرفعال شود؟</string>
     <string name="disable_float_notification">اعلان‌های شناور مجاز نیستند</string>
     <string name="disable_lockscreen_notification">اعلان‌های صفحه قفل مجاز نیستند</string>
     <string name="disable_show_badge_notification">نشان‌های اعلان مجاز نیستند</string>
@@ -200,7 +202,7 @@
     <string name="send">ارسال</string>
     <string name="settings_guide_title">به سایر تنظیمات نیاز دارید؟</string>
     <string name="show_badge_notifications">نشان‌های اعلان</string>
-    <string name="show_badge_notifications_short">نشان</string>
+    <string name="show_badge_notifications_short">نشان‌ها</string>
     <string name="status_bar_setting">نوار وضعیت</string>
     <string name="summary_disable_float_notification">اعلان‌های شناور مجاز نیستند</string>
     <string name="summary_disable_lockscreen_notification">اعلان‌های صفحه قفل مجاز نیستند</string>

@@ -56,7 +56,7 @@
     <string name="category_file">فایل‌ها</string>
     <string name="category_folder">پوشه‌ها</string>
     <string name="category_installed_app">برنامه‌های نصب شده</string>
-    <string name="category_midrive">MiDrive</string>
+    <string name="category_midrive">Mi Drive</string>
     <string name="category_move_limit_notice">شما می‌توانید از ۳ تا ۷ مورد را به بخش بالایی صفحه منتقل کنید</string>
     <string name="category_music">موسیقی</string>
     <string name="category_other">سایر</string>
@@ -127,6 +127,7 @@
     <string name="display_name">نمایش نام</string>
     <string name="domain">دامنه</string>
     <string name="download_success">با موفقیت دانلود شد</string>
+    <string name="drag_not_support_with_dir">فایل‌ها کشیده و ارسال نشدند</string>
     <string name="empty_by_forbid_access">محتوای این پوشه به دلیل محدودیت‌های Android در اینجا نمایش داده نمی‌شوند.</string>
     <string name="enable_documentsui">ابتدا%s را در تنظیمات > برنامه های نصب شده روشن کنید</string>
     <string name="enable_sd_card">کارت SD خراب یا قطع شده است</string>
@@ -216,7 +217,7 @@
     <string name="local_music">فایل‌های صوتی</string>
     <string name="local_network">LAN</string>
     <string name="local_video">فایل‌های ویدئویی</string>
-    <string name="make_private">اختصاصی کردن</string>
+    <string name="make_private">خصوصی کردن</string>
     <string name="make_private_msg_1">این فایل خصوصی شود؟</string>
     <string name="make_private_msg_2">این فایل‌ها خصوصی شوند؟</string>
     <string name="make_private_msg_3">همه فایل‌های این پوشه خصوصی خواهند شد.</string>
@@ -371,7 +372,7 @@
     <string name="revoke_confirm_dialog_content">با تغییر وضعیت کلید، شما رضایت خود را نسبت به سیاست حفظ حریم خصوصی مدیریت فایل‌ها پس می‌گیرید. ما از گردآوری اطلاعات شخصی شما دست خواهیم کشید. اطلاعات شخصی که تا کنون گردآوری شده و نگه داشته شده‌اند بنا به خواست قوانین اجرایی پس از یک دوره خاص حذف خواهند شد. مدیریت فایل‌ها برای بهبود خدمات خود نیاز به اطلاعات شخصی لازم دارد. پس گرفتن رضایت شما نسبت به سیاست حفظ حریم خصوصی آن به عنوان رد پذیرفتن خدمات آن بر اساس اطلاعات شخصی گردآوری شده تلقی خواهد شد.</string>
     <string name="revoke_desc">با تغییر وضعیت کلید، رضایت خود را از سیاست حفظ حریم خصوصی مدیریت فایل‌ها پس می‌گیرید.</string>
     <string name="revoke_net_dialog_content">برای پس گرفتن رضایت شما، دستگاهتان نیاز به اتصال به شبکه دارد. تنظیمات شبکه را بررسی کرده و سپس دوباره تلاش کنید.</string>
-    <string name="revoke_net_dialog_ok">فهمیدم</string>
+    <string name="revoke_net_dialog_ok">متوجه‌ام</string>
     <string name="revoke_net_dialog_title">به شبکه متصل نمی‌شود</string>
     <string name="revoke_success">مجوز با موفقیت باطل شد</string>
     <string name="revoke_timer">(%1$d ثانیه)</string>

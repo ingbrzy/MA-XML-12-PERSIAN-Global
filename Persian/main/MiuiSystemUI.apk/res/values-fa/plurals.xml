@@ -16,6 +16,10 @@
         <item quantity="other">%s کنترل اضافه شده است.</item>
         <item quantity="one">%s کنترل اضافه شده است.</item>
     </plurals>
+    <plurals name="fgs_manager_footer_label">
+        <item quantity="other">%s برنامه فعال است</item>
+        <item quantity="one">%s برنامه فعال است</item>
+    </plurals>
     <plurals name="kg_password_default_pin_message">
         <item quantity="other">پین سیم‌کارت را وارد کنید. %d تلاش دیگری باقی مانده است.</item>
         <item quantity="one">پین سیم‌کارت را وارد کنید. %d تلاش دیگری باقی مانده است.</item>
@@ -31,22 +35,6 @@
     <plurals name="kg_password_wrong_puk_code">
         <item quantity="other">‏کد PUK سیم‌کارت اشتباه است، %d بار دیگر می‌توانید تلاش کنید و پس از آن سیم‌کارت برای همیشه غیرقابل استفاده می‌شود.</item>
         <item quantity="one">‏کد PUK سیم‌کارت اشتباه است، %d بار دیگر می‌توانید تلاش کنید و پس از آن سیم‌کارت برای همیشه غیرقابل استفاده می‌شود.</item>
-    </plurals>
-    <plurals name="kg_prompt_reason_time_password">
-        <item quantity="other">قفل دستگاه %d ساعت باز نشده است. گذرواژه را تأیید کنید.</item>
-        <item quantity="one">قفل دستگاه %d ساعت باز نشده است. گذرواژه را تأیید کنید.</item>
-    </plurals>
-    <plurals name="kg_prompt_reason_time_pattern">
-        <item quantity="other">قفل دستگاه %d ساعت باز نشده است. الگو را تأیید کنید.</item>
-        <item quantity="one">قفل دستگاه %d ساعت باز نشده است. الگو را تأیید کنید.</item>
-    </plurals>
-    <plurals name="kg_prompt_reason_time_pin">
-        <item quantity="other">قفل دستگاه %d ساعت باز نشده است. پین را تأیید کنید.</item>
-        <item quantity="one">قفل دستگاه %d ساعت باز نشده است. پین را تأیید کنید.</item>
-    </plurals>
-    <plurals name="kg_too_many_failed_attempts_countdown">
-        <item quantity="other">%d ثانیه دیگر دوباره امتحان کنید.</item>
-        <item quantity="one">%d ثانیه دیگر دوباره امتحان کنید.</item>
     </plurals>
     <plurals name="mtrl_badge_content_description">
         <item quantity="other">%d اعلان جدید</item>
@@ -71,9 +59,5 @@
     <plurals name="user_limit_reached_message">
         <item quantity="other">می‌توانید حداکثر %d کاربر اضافه کنید.</item>
         <item quantity="one">می‌توانید حداکثر %d کاربر اضافه کنید.</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">‏%1$d دستگاه متصل</item>
-        <item quantity="one">‏%1$d دستگاه متصل</item>
     </plurals>
 </resources>

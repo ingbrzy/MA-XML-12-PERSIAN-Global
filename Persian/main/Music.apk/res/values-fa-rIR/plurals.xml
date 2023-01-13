@@ -122,6 +122,10 @@
         <item quantity="other">&lt;font color==\"red\">%dآهنگ &lt;/font>درحال دانلود است</item>
         <item quantity="one">&lt;font color==\"red\">%dآهنگ &lt;/font>درحال دانلود است</item>
     </plurals>
+    <plurals name="feed_play_times">
+        <item quantity="other">%s بازدید</item>
+        <item quantity="one">%s بازدید</item>
+    </plurals>
     <plurals name="free_downloads_num_hint">
         <item quantity="other">%d دانلود رایگان باقی مانده</item>
         <item quantity="one">%d دانلود رایگان باقی مانده</item>

@@ -193,8 +193,8 @@
         <item quantity="one">‏%d برنامه می‌تواند اعلان‌ها را بخواند</item>
     </plurals>
     <plurals name="manage_trust_agents_summary_on">
-        <item quantity="other">%d نماینده معتمد فعال</item>
-        <item quantity="one">%d نماینده معتمد فعال</item>
+        <item quantity="other">%d عامل معتبر فعال</item>
+        <item quantity="one">%d عامل معتبر فعال</item>
     </plurals>
     <plurals name="memory_usage_apps_summary">
         <item quantity="other">%1$d برنامه در %2$s گذشته از حافظه استفاده کرده‌اند</item>
@@ -320,22 +320,6 @@
         <item quantity="other">اعتماد یا حذف گواهی‌ها</item>
         <item quantity="one">اعتماد یا حذف گواهی</item>
     </plurals>
-    <plurals name="ssl_ca_cert_info_message">
-        <item quantity="other">"%s مرجع صدور گواهی‌ای برای نمایه کاری شما نصب کرده است که ممکن است به او اجازه دهد فعالیت‌های کاری شبکه، از جمله ایمیل‌ها، برنامه‌ها و وب‌سایت‌های ایمن را کنترل کند.
-
-برای کسب اطلاعات بیشتر درباره این گواهی‌ها، با سرپرستتان تماس بگیرید."</item>
-        <item quantity="one">"%s مرجع صدور گواهی‌ای برای نمایه کاری شما نصب کرده است که ممکن است به او اجازه دهد فعالیت‌های کاری شبکه، از جمله ایمیل‌ها، برنامه‌ها و وب‌سایت‌های ایمن را کنترل کند.
-
-برای کسب اطلاعات بیشتر درباره این گواهی‌ها، با سرپرستتان تماس بگیرید."</item>
-    </plurals>
-    <plurals name="ssl_ca_cert_info_message_device_owner">
-        <item quantity="other">"%s مرجع‌های صدور گواهی در دستگاهتان نصب کرده است که ممکن است به او اجازه دهند فعالیت‌های کاری دستگاه، از جمله ایمیل‌ها، برنامه‌ها و وب‌سایت‌های ایمن را کنترل کند.
-
-برای کسب اطلاعات بیشتر درباره این گواهی‌ها، با سرپرستتان تماس بگیرید."</item>
-        <item quantity="one">"%s مرجع‌های صدور گواهی در دستگاهتان نصب کرده است که ممکن است به او اجازه دهند فعالیت‌های کاری دستگاه، از جمله ایمیل‌ها، برنامه‌ها و وب‌سایت‌های ایمن را کنترل کند.
-
-برای کسب اطلاعات بیشتر درباره این گواهی‌ها، با سرپرستتان تماس بگیرید."</item>
-    </plurals>
     <plurals name="ssl_ca_cert_settings_button">
         <item quantity="other">بررسی گواهی‌ها</item>
         <item quantity="one">بررسی گواهی</item>
@@ -367,10 +351,6 @@
     <plurals name="wifi_saved_passpoint_access_points_summary">
         <item quantity="other">‏%d اشتراک</item>
         <item quantity="one">‏%d اشتراک</item>
-    </plurals>
-    <plurals name="wifi_tether_connected_summary">
-        <item quantity="other">‏%1$d دستگاه متصل</item>
-        <item quantity="one">‏%1$d دستگاه متصل</item>
     </plurals>
     <plurals name="wrong_pin_code">
         <item quantity="other">کد پین سیم‌کارت اشتباه است، %d بار دیگر می‌توانید تلاش کنید.</item>

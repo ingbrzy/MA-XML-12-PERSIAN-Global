@@ -110,6 +110,12 @@
         <item>میکروفن</item>
         <item>صداهای سیستم</item>
     </string-array>
+    <string-array name="screenrecorder_settings_sound_native">
+        <item>خالی</item>
+        <item>میکروفن</item>
+        <item>سیستم</item>
+        <item>هر دو</item>
+    </string-array>
     <string-array name="screenrecorder_settings_storage_location">
         <item>حافظه داخلی</item>
         <item>حافظه خارجی</item>

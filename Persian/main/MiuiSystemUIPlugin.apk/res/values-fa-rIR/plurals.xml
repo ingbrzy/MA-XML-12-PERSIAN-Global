@@ -37,8 +37,8 @@
         <item quantity="one">۱ دقیقه پیش</item>
     </plurals>
     <plurals name="controls_number_of_favorites">
-        <item quantity="other">%s کنترل افزوده شد</item>
-        <item quantity="one">%s کنترل افزوده شد</item>
+        <item quantity="other">%s controls added.</item>
+        <item quantity="one">%s control added.</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">نیم ساعت پیش</item>
