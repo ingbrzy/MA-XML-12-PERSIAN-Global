@@ -1094,7 +1094,6 @@
     <string name="monitoring_description_personal_profile_named_vpn">‏برنامه‌های شخصی‌تان ازطریق %1$s به اینترنت متصل شده است. ارائه‌دهنده VPN شما می‌تواند فعالیت شبکه شما را (ازجمله ایمیل‌ها و داده‌های مرور) ببیند.</string>
     <string name="monitoring_description_two_named_vpns">این دستگاه ازطریق %1$s و %2$s به اینترنت متصل شده است. سرپرست فناوری اطلاعات شما می‌تواند فعالیت شبکه شما را (ازجمله ایمیل‌ها و داده‌های مرور) ببیند.</string>
     <string name="monitoring_description_vpn_settings">‏باز کردن تنظیمات VPN</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"ممکن است %1$s بتواند به داده‌های مرتبط با این دستگاه دسترسی یابد، برنامه‌ها را مدیریت کند، و تنظیمات این دستگاه‌ها را تغییر دهد.
 
 اگر سؤالی دارید، با %2$s تماس بگیرید."</string>
@@ -1134,7 +1133,6 @@
     <string name="mtrl_picker_a11y_next_month">تغییر به ماه بعدی</string>
     <string name="mtrl_picker_a11y_prev_month">تغییر به ماه قبلی</string>
     <string name="mtrl_picker_announce_current_selection">انتخاب کنونی: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">انتخاب تاریخ</string>
     <string name="mtrl_picker_date_header_unselected">تاریخ انتخابی</string>
@@ -1342,7 +1340,6 @@
     <string name="private_dns_mode_provider">‏نام میزبان ارائه‌دهنده DNS خصوصی</string>
     <string name="private_dns_mode_provider_failure">متصل نشد</string>
     <string name="private_dns_mode_provider_hostname_hint">‏نام میزبان ارائه‌دهنده DNS خصوصی را وارد کنید</string>
-    <string name="process_kernel_label">‏سیستم‌عامل Android</string>
     <string name="profile_connect_timeout_subtext">مشکل در اتصال. دستگاه را خاموش و دوباره روشن کنید</string>
     <string name="profile_info_settings_title">اطلاعات نمایه</string>
     <string name="qr_code_scanner_title">اسکن رمزینه پاسخ‌سریع</string>

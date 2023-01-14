@@ -110,11 +110,6 @@
         <item>ی</item>
         <item>\#</item>
     </string-array>
-    <string-array name="customer_service">
-        <item>@string/customer_service_apply</item>
-        <item>@string/customer_service_complain</item>
-        <item>@string/customer_service_station</item>
-    </string-array>
     <string-array name="net_diag_err_link_quality">
         <item>اتصال Wi-Fi ضعیف است. باندهای بی‌سیم را تعویض کرده و یا رهیاب را دوباره راه‌اندازی کنید.</item>
         <item>به شبکه دسترسی پیدا نمی‌شود. دوباره به Wi-Fi وصل شده و یا رهیاب را دوباره راه‌اندازی کنید.</item>
@@ -168,11 +163,5 @@
     </string-array>
     <string-array name="net_diag_err_network_topology">
         <item>تنظیمات DHCP رهیاب و اتصال سیم‌ها را بررسی کنید</item>
-    </string-array>
-    <string-array name="reproductivity">
-        <item>@string/feedback_reproductivity_everytime</item>
-        <item>@string/feedback_reproductivity_often</item>
-        <item>@string/feedback_reproductivity_occasionally</item>
-        <item>@string/feedback_reproductivity_once</item>
     </string-array>
 </resources>

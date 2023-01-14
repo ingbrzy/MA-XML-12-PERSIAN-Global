@@ -46,7 +46,6 @@
     <string name="cast_forward">به جلو</string>
     <string name="cast_forward_10">ده ثانیه به جلو</string>
     <string name="cast_forward_30">سی ثانیه به جلو</string>
-    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_live_label">زنده</string>
     <string name="cast_mute">بی‌صدا کردن</string>
     <string name="cast_notification_connected_message">متصل به %1$s</string>
@@ -200,7 +199,6 @@
     <string name="mtrl_picker_a11y_next_month">تغییر به ماه بعدی</string>
     <string name="mtrl_picker_a11y_prev_month">تغییر به ماه قبلی</string>
     <string name="mtrl_picker_announce_current_selection">انتخاب کنونی: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">انتخاب تاریخ</string>
     <string name="mtrl_picker_date_header_unselected">تاریخ انتخابی</string>
@@ -245,7 +243,6 @@
     <string name="s6">به آگهی اجازه داده شود رویداد تقویم ایجاد کند؟</string>
     <string name="s7">آگهی آزمایشی</string>
     <string name="search_menu_title">جستجو</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="v7_preference_off">خاموش</string>
     <string name="v7_preference_on">روشن</string>

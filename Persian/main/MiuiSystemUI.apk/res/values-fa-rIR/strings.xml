@@ -409,7 +409,6 @@ mm"</string>
     <string name="more">بیشتر</string>
     <string name="morning">صبح</string>
     <string name="msim_set_sub_not_supported_phone_in_call">هنگام تماس تنظیم نمی‌شود</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="night">شب</string>
     <string name="noon">ظهر</string>
     <string name="notification_control_center">اعلان‌ها و مرکز کنترل</string>
@@ -525,8 +524,6 @@ mm"</string>
     <string name="status_bar_clock_date_time_format_12">E، d MMM h:mm a</string>
     <string name="status_bar_clock_date_weekday_format">EEEE، dd MMMM</string>
     <string name="status_bar_clock_date_weekday_format_12">EEEE، dd MMMM</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="status_bar_date_format">"E
 d MMM"</string>
     <string name="status_bar_date_format_12">"E

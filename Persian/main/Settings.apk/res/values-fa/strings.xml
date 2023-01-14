@@ -2734,7 +2734,6 @@
     <string name="legal_information">اطلاعات حقوقی</string>
     <string name="license_title">مجوز</string>
     <string name="lift_to_wake_title">بیدار شدن با بالا بردن</string>
-    <string name="link_speed">%1$d مگابیت در ثانیه</string>
     <string name="live_caption_summary">رسانه زیرنویس خودکار</string>
     <string name="live_caption_title">زیرنویس زنده</string>
     <string name="load_networks_progress">درحال جستجو…</string>
@@ -3165,7 +3164,6 @@
     <string name="memory_summary">به‌طور متوسط %1$s از %2$s حافظه استفاده شده است</string>
     <string name="memory_usage">استفاده از حافظه</string>
     <string name="memory_usage_apps">حافظه مورداستفاده برنامه‌ها</string>
-    <string name="memory_use_running_format">%1$s /‏ %2$s</string>
     <string name="memory_use_summary">%1$s متوسط حافظه استفاده شده در ۳ ساعت گذشته</string>
     <string name="menu_cancel">لغو</string>
     <string name="menu_delete">حذف نام نقطه دستیابی</string>
@@ -3287,7 +3285,6 @@
     <string name="mtrl_picker_a11y_next_month">تغییر به ماه بعدی</string>
     <string name="mtrl_picker_a11y_prev_month">تغییر به ماه قبلی</string>
     <string name="mtrl_picker_announce_current_selection">انتخاب کنونی: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">انتخاب تاریخ</string>
     <string name="mtrl_picker_date_header_unselected">تاریخ انتخابی</string>
@@ -3381,7 +3378,6 @@
     <string name="nfc_main_switch_title">‏استفاده از NFC</string>
     <string name="nfc_more_details">بیشتر بدانید</string>
     <string name="nfc_more_title">بیشتر…</string>
-    <string name="nfc_payment_app_and_desc">%1$s -‏ %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">تنظیم پیش‌فرض</string>
     <string name="nfc_payment_btn_text_update">به‌روزرسانی</string>
     <string name="nfc_payment_default">پیش‌فرض پرداخت</string>
@@ -3672,7 +3668,6 @@
     <string name="overlay_settings_title">مجاز کردن هم‌پوشانی صفحه‌ها در «تنظیمات»</string>
     <string name="overlay_toast_failed_to_apply">همپوشانی اعمال نشد</string>
     <string name="owner_info_settings_edit_text_hint">‏مثلاً Android امیر.</string>
-    <string name="owner_info_settings_status">%1$d / ‏%2$d</string>
     <string name="owner_info_settings_summary">خالی</string>
     <string name="owner_info_settings_title">افزودن نوشتار در صفحه قفل</string>
     <string name="packages_subtitle">شامل بسته ها</string>
@@ -3759,7 +3754,6 @@
     <string name="power_remaining_less_than_duration_only">کمتر از %1$s شارژ باقی مانده است</string>
     <string name="power_remaining_more_than_subtext">بیش از %1$s شارژ باقی مانده است (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">بیش از %1$s شارژ باقی مانده است</string>
-    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">صفحه‌نمایش</string>
     <string name="power_suggestion_battery_run_out">ممکن است باتری %1$s تمام شود</string>
     <string name="power_unaccounted">موارد دیگر</string>
@@ -3885,8 +3879,6 @@
     <string name="privileged_action_disable_sub_dialog_title">%1$s خاموش شود؟</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">سیم‌کارت خاموش شود؟</string>
     <string name="process_dex2oat_label">بهینه‌سازی برنامه</string>
-    <string name="process_format">%1$s (%2$d)</string>
-    <string name="process_kernel_label">‏سیستم‌عامل Android</string>
     <string name="process_mediaserver_label">سرور رسانه</string>
     <string name="process_network_tethering">اشتراک‌گذاری اینترنت</string>
     <string name="process_provider_in_use_description">ارائه دهنده %1$s در حال استفاده است.</string>
@@ -4643,7 +4635,6 @@
     <string name="sim_select_card">انتخاب سیم‌کارت</string>
     <string name="sim_selection_channel_title">انتخاب سیم‌کارت</string>
     <string name="sim_selection_required_pref">انتخاب مورد نیاز است</string>
-    <string name="sim_settings_summary">%1$s - %2$s</string>
     <string name="sim_settings_title">سیم‌کارت‌ها</string>
     <string name="sim_setup_channel_id">فعال‌سازی شبکه</string>
     <string name="sim_setup_wizard_title">سیم‌کارت‌ها</string>
@@ -4743,7 +4734,6 @@
 اعتبارنامه مطمئن نصب‌شده در دستگاهتان این کار را شدنی می‌کند."</string>
     <string name="standby_bucket_summary">وضعیت حالت آماده به‌کار برنامه: %s</string>
     <string name="status_awake_time">زمان بیداری</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bt_address">آدرس بلوتوث</string>
     <string name="status_data_network_type">نوع شبکه داده تلفن همراه</string>
     <string name="status_data_state">وضعیت شبکهٔ تلفن همراه</string>
@@ -4978,7 +4968,6 @@
     <string name="sum_carrier_select">انتخاب یک اپراتور شبکه</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="summary_divider_text">"، "</string>
-    <string name="summary_range_symbol_combination">%1$s ‏- %2$s</string>
     <string name="summary_range_verbal_combination">%1$s تا %2$s</string>
     <string name="support_summary">مقاله‌های راهنما، تلفن و گپ</string>
     <string name="swipe_direction_ltr">برای رد کردن تند به‌چپ بکشید و برای نمایش منو تند به‌راست بکشید</string>
@@ -6335,10 +6324,8 @@
     <string name="zen_suggestion_title">به‌روزرسانی «مزاحم نشوید»</string>
     <string name="zone_auto_title">تنظیم خودکار منطقه زمانی</string>
     <string name="zone_change_to_from_dst">%1$s در %2$s شروع می‌شود.</string>
-    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer">از %1$s استفاده می‌کند. %2$s در %3$s شروع می‌شود.</string>
     <string name="zone_info_footer_no_dst">از %1$s استفاده می‌کند. بدون ساعت تابستانی.</string>
-    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_menu_by_offset">‏انتخاب براساس اختلاف با UTC</string>
     <string name="zone_menu_by_region">انتخاب براساس منطقه</string>
     <string name="zone_time_type_dst">ساعت تابستانی</string>

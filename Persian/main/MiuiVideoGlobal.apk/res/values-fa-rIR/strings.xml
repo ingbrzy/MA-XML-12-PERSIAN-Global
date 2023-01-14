@@ -919,7 +919,6 @@
     <string name="online_play_start_ready_loading_tip_kb">درحال بارگیری %.2f ک.ب/ث</string>
     <string name="online_play_start_ready_loading_tip_mb">درحال بارگیری %.2f م.ب/ث</string>
     <string name="online_play_title">پیوند را وارد کنید</string>
-    <string name="order_alphabet">به ترتیب حروف الفبا</string>
     <string name="order_recently_subscribe">اشتراک‌های تازه</string>
     <string name="order_recently_updated">به‌تازگی به‌روز شده</string>
     <string name="out_of_memory_background_playback_is_suspended">پخش پس‌زمینه به دلیل کمبود حافظه به صورت موقت متوقف شد</string>

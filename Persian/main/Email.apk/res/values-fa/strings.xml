@@ -158,7 +158,6 @@
     <string name="attachment_video">ویدیو</string>
     <string name="attachments_header">پیوست ها</string>
     <string name="bcc">گیرنده کپی مخفی</string>
-    <string name="bcc_heading">"Bcc: "</string>
     <string name="blank_feedback_toast">شما باید بازخورد خود را بنویسید</string>
     <string name="body_forward_email_text">[Forward]</string>
     <string name="body_hint">نوشتن ایمیل</string>
@@ -169,7 +168,6 @@
     <string name="cancel">انصراف</string>
     <string name="cancel_action">انصراف</string>
     <string name="cc">رونوشت</string>
-    <string name="cc_attribution">"رونوشت: %1$s  &lt; br >"</string>
     <string name="cc_bcc">رونوشت و گیرنده مخفی</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="change_sync_settings">تغییر تنظیمات همگام سازی</string>
@@ -180,7 +178,6 @@
     <string name="clear">پاک کردن</string>
     <string name="click_to_reload">Tap screen to refresh</string>
     <string name="collapse_recipient_details">بستن جزئیات گیرنده</string>
-    <string name="colon">:</string>
     <string name="compose">نوشتن پیام</string>
     <string name="compose_picturesexceedlimits">پیغام نباید از 5 تصویر در-خط بیشتر باشد</string>
     <string name="compose_sent">نامه فرستاده شد</string>
@@ -284,7 +281,6 @@
     <string name="installation_failed">نصب نشد.</string>
     <string name="installing_module">مدول نصب:</string>
     <string name="kilobytes">%s KB</string>
-    <string name="label_notification_ticker">%1$s: %2$s</string>
     <string name="load_from_remote">جستجوی صندوق پستی در سرور</string>
     <string name="load_more">بارگذاری بیشتر</string>
     <string name="loading_conversation">در حال بارگذاری…</string>
@@ -473,7 +469,6 @@
 %s"</string>
     <string name="smtp_password_error">رمز عبور سرور پست الکترونیکی خروجی نادرست است</string>
     <string name="sort_attachment">مرتب سازی بر اساس</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="str_select_all">انتخاب همه</string>
     <string name="str_select_none">عدم انتخاب همه</string>
     <string name="subject_and_snippet">%1$s — %2$s</string>
