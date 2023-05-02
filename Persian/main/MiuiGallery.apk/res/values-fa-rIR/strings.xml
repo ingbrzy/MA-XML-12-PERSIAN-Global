@@ -856,7 +856,6 @@
     <string name="face_name_edit">ویرایش</string>
     <string name="face_name_input">نام را وارد کنید</string>
     <string name="face_recommend">پیشنهادات</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="facebook_login_btn_content_description">ورود با فیسبوک</string>
     <string name="fail_hint">عملیات کامل نشد</string>
     <string name="fail_reason_migrate">در حال پردازش موارد… چند دقیقه صبر کرده و سپس دوباره تلاش کنید</string>
@@ -872,7 +871,6 @@
     <string name="feedback_my_reports">بازخورد</string>
     <string name="feedback_problem">گزارش یک مساله</string>
     <string name="feedback_suggest">یک پیشنهاد ارسال کنید</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">این مورد چاپ نمی‌شود.</string>
     <string name="file_cannot_screen_throw">این مورد بازتابانده نمی‌شود.</string>
     <string name="file_sending">درحال انتقال فایل‌ها…</string>
@@ -1140,7 +1138,6 @@
     <string name="grant_permission_go_and_set">تنظیم</string>
     <string name="grant_permission_go_and_set_2">تنظیمات</string>
     <string name="grant_permission_go_and_set_3">تنظیمات</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_manage_storage">نیازمند مجوز است</string>
     <string name="grant_permission_manage_storage_unlock">برای امکان دیدن موارد قفل دستگاه خود را گشوده و به این برنامه اجازه دسترسی به همه فایل‌ها را بدهید.</string>
     <string name="grant_permission_shortcut">ابتدا به این برنامه اجازه ایجاد میان‌بر صفحه اصلی را بدهید.</string>
@@ -1936,7 +1933,6 @@
     <string name="people_page_label">افراد</string>
     <string name="people_page_photo">ریزعکس یک نفر</string>
     <string name="people_page_unname">بدون نام</string>
-    <string name="percent_sign">%</string>
     <string name="permission_account_desc">برای ورود به حسا‌ب و مدیریت حساب سیستمی</string>
     <string name="permission_account_name">دسترسی به حساب‌ها</string>
     <string name="permission_clipboard_desc">برای دسترسی و ذخیره موارد در حافظه موقت</string>
@@ -1969,7 +1965,6 @@
     <string name="photo_editor_beautify_auto">خودکار</string>
     <string name="photo_editor_beauty_compare">اصلی</string>
     <string name="photo_editor_common_download_failed">افزونه دانلود نشد. تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید.</string>
-    <string name="photo_editor_common_download_failed_msg">@string/filter_sky_download_failed_msg</string>
     <string name="photo_editor_common_download_finish">افزونه با موفقیت دانلود شد</string>
     <string name="photo_editor_common_download_sdk_without_wifi_msg">به نظر می‌رسد شما به Wi-Fi متصل نیستید. با استفاده از اینترنت همراه افزوده لازم (%1$dمگابایت) دانلود شود؟</string>
     <string name="photo_editor_common_download_sdk_without_wifi_title">افزونه دانلود</string>
@@ -2056,7 +2051,6 @@
     <string name="photo_editor_talkback_crop_9_18">نُه تا هجده</string>
     <string name="photo_editor_talkback_crop_free">آزاد</string>
     <string name="photo_editor_talkback_crop_mirror">آینه</string>
-    <string name="photo_editor_talkback_crop_movie">@string/filter_category_movie</string>
     <string name="photo_editor_talkback_crop_original">اصلی</string>
     <string name="photo_editor_talkback_crop_reset">تنظیم دوباره</string>
     <string name="photo_editor_talkback_crop_right_rotate">چرخش ۹۰ درجه</string>
@@ -2384,18 +2378,13 @@
     <string name="screen_editor_btn_save">ذخیره</string>
     <string name="screen_editor_btn_shell_off">حذف قاب دستگاه</string>
     <string name="screen_editor_btn_shell_on">افزودن قاب دستگاه</string>
-    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_crop_disallowed_with_shell">تصاویر صفحه دارای قاب دستگاه بریده نمی‌شوند</string>
     <string name="screen_editor_delete_dialog_msg">این عکس صفحه حذف شود؟</string>
-    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">انجام شد</string>
-    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
-    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">قاب دستگاه برای تصاویر صفحه بریده شده افوزده نمی‌شود</string>
     <string name="screen_editor_shell_net_error">به شبکه متصل شده تا قاب دستگاه دانلود شود</string>
     <string name="screen_editor_shell_res_downloading">درحال دانلود قاب دستگاه…</string>
     <string name="screen_editor_shell_storage_insufficient">به دلیل کمبود فضای ذخیره سازی قاب دستگاه دانلود نمی‌شود</string>
-    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">لغو</string>
     <string name="screen_save_dialog_btn_delete">حذف عکس صفحه</string>
     <string name="screen_save_dialog_btn_save">ذخیره در گالری</string>
@@ -2544,7 +2533,6 @@
     <string name="share_album_cancel_share">توقف هم‌رسانی</string>
     <string name="share_album_change_background">تغییرعکس پس زمینه</string>
     <string name="share_album_create_failed">آلبوم مشترک ایجاد نشد</string>
-    <string name="share_album_create_processing">@string/cloud_bacup_disable_processing</string>
     <string name="share_album_exit_button_text">توقف اشتراک‌گذاری</string>
     <string name="share_album_exit_confirm">در صورت ادامه، دیگر امکان دسترسی به همه موارد این آلبوم را نخواهید داشت. پیش از ترک کردن، همه موارد مهم را ذخیره کنید.</string>
     <string name="share_album_exit_confirm_title">این گروه را ترک می‌کنید؟</string>
@@ -2616,7 +2604,6 @@
     <string name="share_with_family">هم‌رسانی با خانواده</string>
     <string name="sharer_quota_fulfiled">قبلاً این آلبوم را با حداکثر تعداد افراد به اشتراک گذاشته‌اید.</string>
     <string name="show_cloud_albumlist_summary">پس از خاموش کردن همگام‌سازی، موارد جدید از آلبوم‌های انتخاب شده دیگر در فضای ابری بارگذاری نخواهند شد.</string>
-    <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
     <string name="show_hidden_album_summary">نمایش و مدیریت آلبوم‌های پنهان</string>
     <string name="show_hidden_album_title">نمایش آلبوم‌های پنهان</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">با موفقیت منتقل شد، به سایر آلبوم‌ها بروید تا مشاهده کنید</string>
