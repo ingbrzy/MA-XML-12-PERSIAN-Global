@@ -2,9 +2,9 @@
 <resources>
     <string-array name="additional_cal_dialog_labels">
         <item>هیچ کدام</item>
-        <item>گاه‌شماری هجری قمری</item>
-        <item>گاه‌شماری شاکا</item>
-        <item>گاه‌شماری ویکرمی</item>
+        <item>سالنامه اسلامی</item>
+        <item>سالنامه ملی هند</item>
+        <item>سالنامه ویکرم</item>
     </string-array>
     <string-array name="alphabet_table">
         <item>ا</item>
@@ -103,6 +103,10 @@
         <item>فقط این رویداد</item>
         <item>همه رویدادهای پشت‌سرهم</item>
     </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>یک بار خاموش شود</item>
+        <item>همیشه خاموش شود</item>
+    </string-array>
     <string-array name="date_calculate_spinner">
         <item>رو به جلو</item>
         <item>رو به عقب</item>
@@ -151,6 +155,10 @@
         <item>libra</item>
         <item>برج میزان</item>
         <item>۲۳/۹ - ۲۳/۱۰</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>یک بار روشن شود</item>
+        <item>همیشه روشن</item>
     </string-array>
     <string-array name="panchang_weeks">
         <item>یک‌شنبه</item>

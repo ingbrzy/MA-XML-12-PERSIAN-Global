@@ -52,6 +52,8 @@
     <string name="cm_terms_title">قرارداد اپراتور شبکه تلفن همراه</string>
     <string name="compass_introduction">از این برنامه می‌توانید برای مسیریابی و همچنین نمایش مختصات، فشار جو و ارتفاع استفاده کنید.</string>
     <string name="congratulation_label">آماده حرکت هستید!</string>
+    <string name="congratulation_pre_label">چند لحظه صبر کنید…</string>
+    <string name="congratulation_pre_title">در حال آماده سازی سیستم…</string>
     <string name="congratulation_swipe">از پایین به بالا کشیده تا وارد سیستم شوید</string>
     <string name="congratulation_title">راه‌اندازی کامل شد</string>
     <string name="content_description_complete">کامل شد</string>
@@ -230,6 +232,7 @@ Features are subject to change. Some of the features above may not be available 
     <string name="midnight">شب</string>
     <string name="mint_keyboard_oobe_checkbox">من سیاست حفظ حریم خصوصی صفحه کلید Mint را خوانده و آن را پذیرفته‌ام</string>
     <string name="mint_keyboard_oobe_terms">سیاست حفظ حریم خصوصی صفحه کلید Mint</string>
+    <string name="miui14_start_up_slogan">Ready. Steady. Live.</string>
     <string name="miui_privacy_policy_no_network">شما اتصال به اینترنت ندارید. سیاست حفظ حریم خصوصی را در %s نمایش کنید.</string>
     <string name="miui_provision">Initial setup</string>
     <string name="miui_terms_no_network">شما اتصال اینترنت ندارید. توافق‌نامه کاربر را در %s ببینید.</string>

@@ -154,6 +154,7 @@
     <string name="miui_feedback_edit_toast_module_required">انتخاب مورد</string>
     <string name="miui_feedback_edit_toast_more_desc_required">توضیحات شما باید طولانی‌تر باشد</string>
     <string name="miui_feedback_edit_toast_problem_class_required">انتخاب دسته</string>
+    <string name="miui_feedback_edit_toast_screenshot_too_large">تصاویر یا ویدئوهای بزرگ‌تر از ۱۰۰مگابایت بارگذاری نمی‌شوند</string>
     <string name="miui_feedback_edit_toast_third_packagename_required">نام برنامه را وارد کنید</string>
     <string name="miui_feedback_main_answer_title">برای این پرسش پاسخی هست</string>
     <string name="miui_feedback_main_customer_service_onfo_for_jp">"تماس مستقیم‏: ۰۱۲۰-۳۰۰-۵۲۱

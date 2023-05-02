@@ -102,6 +102,8 @@
     <string name="cloud_drive_settings">تنظیمات Mi Drive</string>
     <string name="cloud_empty_hint_text">"هنوز چیزی اینجا نیست.
 تلاش کنید فایل‌ها را از دستگاه خود به Mi Drive منتقل کنید."</string>
+    <string name="cloud_empty_hint_text_pad">"هنوز چیزی اینجا نیست.
+تلاش کنید فایل‌ها را از دستگاه خود به Mi Drive منتقل کنید."</string>
     <string name="cloud_guide_summary_text">همگام‌سازی خودکار موارد شما بین دستگاه‌هایتان</string>
     <string name="cloud_guide_title_text">همگام‌سازی با Mi Drive</string>
     <string name="cloud_permission_storage_desc">برای ذخیره عکس‌ها و اسناد در دستگاه شما</string>
@@ -217,6 +219,9 @@
     <string name="evening">بعد از ظهر</string>
     <string name="exception_net_not_available">تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید</string>
     <string name="exit">خروج</string>
+    <string name="extend_service_setting">خدمات بیشتر</string>
+    <string name="extend_service_summary">در صورت خاموش کردن این ویژگی، دیگر امکان استفاده از ویژگی‌های مربوط به Mi Drive وجود نخواهد داشت</string>
+    <string name="extend_service_title">مدیریت فایل‌های Mi Drive</string>
     <string name="extended_storage_file_can_not_open">فایل باز نمی‌شود. به حافظه داخلی منتقل کنید.</string>
     <string name="extract">استخراج</string>
     <string name="fab_menu_ball">اقدامات سریع</string>
@@ -227,6 +232,7 @@
     <string name="favorite_photo">عکس‌ها</string>
     <string name="favorite_ringtone">زنگ‌ها</string>
     <string name="favorite_screen_cap">عکس‌های صفحه</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="file_info_canread">قابل خواندن: </string>
     <string name="file_info_canwrite">قابل نوشتن: </string>
     <string name="file_info_ishidden">پنهان: </string>
@@ -599,6 +605,9 @@
     <string name="otg_data_transferring">درحال انتقال فایل‌ها… اتصال حافظه خارجی را قطع نکنید.</string>
     <string name="otg_file_security_note">OGTSecurity</string>
     <string name="overwrite_msg">«%s» درحال حاضر وجود دارد. ضربه زده تا با فایل جدید جایگزین شود.</string>
+    <string name="pad">تبلت</string>
+    <string name="pad_homepage_tab_file_view_phone">تبلت</string>
+    <string name="pad_start_phone">حافظه</string>
     <string name="partial_cancel_successful">برخی فایل‌ها برداشته نشدند. بقیه فایل‌ها به %s منتقل شدند.</string>
     <string name="partial_delete_failure">برخی فایل‌ها حذف نشدند. دوباره تلاش کنید.</string>
     <string name="partial_encrypt_success">برخی فایل‌ها خصوصی نشدند. دوباره تلاش کنید.</string>
@@ -638,7 +647,7 @@
     <string name="pref_permission_not_allowed">اعطا نشده</string>
     <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
     <string name="privacy_policy_renew">سیاست حفظ حریم خصوصی به‌روز شده</string>
-    <string name="privacy_policy_renew_content">&lt;Data>&lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> مدیریت فایل‌ها به‌روز شد. به منظور آگاهی کامل از حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، پیش از ادامه نگارش جدید سیاست حفظ حریم خصوصی را خوانده و بپذیرید.&lt;/Data></string>
+    <string name="privacy_policy_renew_content">&lt;Data>&lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> مدیریت فایل‌ها به‌روز شد. به منظور آگاهی کامل از حقوق خود به عنوان کاربر و همچنین راه‌هایی که ما از داده‌های شما استفاده می‌کنیم، پیش از ادامه نسخه جدید سیاست حفظ حریم خصوصی را خوانده و بپذیرید.&lt;/Data></string>
     <string name="privacy_recall_alert_description" formatted="false">همه موارد را از Mi Drive پاک کنید تا بتوانید رضایت خود را پس بگیرید. این مراحل را برای پاک کردن موارد دنبال کنید:&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_1 refersto=1>%1d&lt;/xliff:g>. در صفحه آغاز Mi Drive، یک مورد را فشار داده و نگه دارید تا دکمه «انتخاب همه» نمایان شود. از این دکمه برای انتخاب حداکثر ۲۰۰ فایل در یک زمان و حذف آن‌ها استفاده کنید.&lt;br />&lt;xliff:g id=privacy_recall_alert_description_list_2 refersto=2>%2d&lt;/xliff:g>. پس از این، موارد حذف شده اخیر خود را پاک کنید.</string>
     <string name="privacy_recall_alert_reminder_card_summary" formatted="false">&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_1 refersto=1>%1d&lt;/xliff:g>. پیشنهاد می‌کنیم پیش از حذف موارد خود از آنها نسخه پشتیبان تهیه کنید. برای انجام این کار، از i.mi.com دیدن کنید، روی Mi Drive کلیک کنید و موارد خود را در رایانه بارگیری کنید.&lt;br />&lt;xliff:g id=privacy_recall_alert_reminder_card_summary_list_2 refersto=2>%2d&lt;/xliff:g>. لطفاً توجه داشته باشید که موارد حذف شده اخیر پس از حذف قابل بازیابی نیستند.</string>
     <string name="privacy_recall_confirm_button">پس گرفتن</string>
@@ -722,6 +731,7 @@
     <string name="set_pattern">گذرواژه خود را ارتقاء دهید</string>
     <string name="set_pattern_btn">تنظیم</string>
     <string name="set_pattern_msg">گذرواژه خود را دوباره تنظیم کنید. گذرواژه حفاظت از حریم خصوصی برای عکس‌ها، پیام‌ها و یادداشت‌ها نیز کاربرد دارد.</string>
+    <string name="settings">@string/server_control_settings</string>
     <string name="size_lv1">کوچک‌تر از %d کیلوبایت</string>
     <string name="size_lv2" formatted="false">%1d کیلوبایت - %2d مگابایت</string>
     <string name="size_lv3" formatted="false">%1d مگابایت - %2d مگابایت</string>
@@ -742,6 +752,9 @@
     <string name="start_server">آغاز</string>
     <string name="stay_awake_summary">هنگام استفاده از FTP اجازه خوابیدن به نمایشگر داده نشود</string>
     <string name="stay_awake_title">بیدار نگه داشتن نمایشگر</string>
+    <string name="stop_extend_service_dialog_confirm">خاموش کردن</string>
+    <string name="stop_extend_service_dialog_summary">در صورت خاموش کردن این ویژگی، دیگر امکان مدیریت فایل‌های خود در Mi Drive را نخواهید داشت. در هر صورت خاموش شود؟</string>
+    <string name="stop_extend_service_dialog_tilte">خدمات بیشتر</string>
     <string name="stop_server">توقف</string>
     <string name="storage_cloned_app">حافظه برای برنامه‌های همزاد</string>
     <string name="storage_info_detail">در دسترس:%1$s کل: %2$s</string>

@@ -363,6 +363,7 @@
     <string name="some_files_receive_completed">فایل‌های دریافتی را در %1$s ببینید.</string>
     <string name="somepc_send_muchfile_files">%1$s در حال ارسال بیش از %2$d فایل به شماست…</string>
     <string name="start_receive_much_files_from_pc">در حال دریافت بیش از %2$d فایل از %1$s…</string>
+    <string name="sub_title_mishare_switch">این ویژگی پس از %d دقیقه به صورت خودکار خاموش خواهد شد</string>
     <string name="success_receive_much_file_from_pc">بیش از %2$d فایل از %1$s دریافت شد. برای نمایش ضربه بزنید.</string>
     <string name="sunday">یک‌شنبه</string>
     <string name="sunday_short">یک‌شنبه</string>
@@ -423,6 +424,8 @@
     <string name="tips_p2p_support_use5g_china">For best results, use a 5 GHz WLAN network.</string>
     <string name="tips_prompt_enable_midrop">هم‌رسانی Mi</string>
     <string name="to_feedback">گزارش</string>
+    <string name="toast_auto_close_in_minutes">همرسانی Mi پس از %d دقیقه خاموش خواهد شد</string>
+    <string name="toast_transfering">درحال انتقال موارد. بعداً دوباره تلاش کنید.</string>
     <string name="today">امروز</string>
     <string name="tomorrow">فردا</string>
     <string name="transfer_intercept_to_remote">ارسال نشد: %1$s</string>
@@ -430,8 +433,10 @@
     <string name="transfer_to_pc_summary_new">&lt;Data>آخرین نسخه MIUI+ نصب شده روی نوت‌بوک‌های Mi با همرسانی Mi سازگار است. شما می‌توانید فهرست مدل لپ‌تاپ‌های پشتیبانی شده را در تارنمای MIUI+ (&lt;a href=%1$s>%2$s&lt;/a>) بررسی کنید. چنانچه لپ‌تاپ شما در فهرست بوده اما MIUI+ روی ‌آن نصب نیست، BIOS و درایور آداپتور شبکه لپ‌تاپ خود را به‌روز کرده و MIUI+ را دانلود کنید.&lt;/Data></string>
     <string name="transfer_to_pc_title">ارسال فایل به رایانه</string>
     <string name="transfer_to_phone_summary">با استفاده از کلید داخل کرکره اعلان، وضعیت هم‌رسانی Mi را تغییر دهید. پس از آن، هنگام هم‌رسانی یک عکس یا یک فایل می‌توانید دستگاه‌های نزدیک را ببینید. روی دستگاه گیرنده زده تا مواردی که در حال هم‌رسانی هستند ارسال شوند.</string>
+    <string name="transfer_to_phone_summary_new">همرسانی Mi را در مرکز کنترل روشن کنید تا بتوانید به راحتی موارد را ارسال و دریافت کنید. پس از روشن کردن آن، می‌توانید موارد را برای %d دقیقه پیش از خاموش شدن خودکار، با دستگاه‌های هم‌رسانی کنید.</string>
     <string name="transfer_to_phone_title">ارسال فایل به سایر گوشی‌ها</string>
     <string name="transfer_to_summary">با استفاده از کلید داخل کرکره اعلان، وضعیت هم‌رسانی Mi را تغییر دهید. پس از آن، هنگام هم‌رسانی یک عکس یا یک فایل می‌توانید دستگاه‌های نزدیک را ببینید. روی دستگاه گیرنده زده تا مواردی که در حال هم‌رسانی هستند ارسال شوند.</string>
+    <string name="transfer_to_summary_new">همرسانی Mi را در مرکز کنترل روشن کنید تا بتوانید به راحتی موارد را ارسال و دریافت کنید. پس از روشن کردن آن، می‌توانید موارد را برای %d دقیقه پیش از خاموش شدن خودکار، با دستگاه‌های هم‌رسانی کنید.</string>
     <string name="transfer_to_title">ارسال فایل به دستگاه‌های موبایل</string>
     <string name="tuesday">سه‌شنبه</string>
     <string name="tuesday_short">سه‌شنبه</string>

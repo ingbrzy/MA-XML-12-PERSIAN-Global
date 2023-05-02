@@ -18,10 +18,11 @@
     <string name="add_holiday_desc">تعطیلات را اینجا بیافزایید</string>
     <string name="add_holiday_title">افزودن تعطیلات</string>
     <string name="additional_cal_dialog_title">انتخاب سالنامه</string>
-    <string name="additional_cal_pref_title">سالنامه بیشتر</string>
+    <string name="additional_cal_pref_title">سالنامه‌های بیشتر</string>
     <string name="additional_calendar_note">برخی سالنامه‌های اضافی ممکن است در دسترس نبوده و یا بسته به عوامل مختلف متفاوت باشند</string>
     <string name="afternoon">بعد از ظهر</string>
     <string name="agenda_month_empty_hint">هیچ رویدادی برای امروز وجود ندارد</string>
+    <string name="agenda_not_today_empty_hint">هنوز رویدادی اینجا نیست. برای ایجاد ضربه بزنید.</string>
     <string name="agenda_tomorrow">فردا، %1$s</string>
     <string name="agenda_view">رویدادها</string>
     <string name="alarm_label">نادیده گرفتن</string>
@@ -128,6 +129,7 @@
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">سالنامه سنتی چینی</string>
+    <string name="date_time_fmt" formatted="false">%s، %s</string>
     <string name="date_time_picker_dialog_title">تنظیم تاریخ و ساعت</string>
     <string name="date_today">" (امروز)"</string>
     <string name="date_view">تاریخ</string>
@@ -140,6 +142,8 @@
     <string name="delete_this_event_title">این رویداد حذف شود؟</string>
     <string name="description_calendar">برنامه‌های سیستمی/سالنامه</string>
     <string name="description_calendar_edit_event">برنامه‌های سیستمی/سالنامه/دستور جلسه</string>
+    <string name="description_calendar_huangli" />
+    <string name="description_calendar_subscribe_group" />
     <string name="directory_searching_fmt">درحال جستجوی %s…</string>
     <string name="discard_label">لغو</string>
     <string name="display_to_calendar">نمایش در سالنامه</string>
@@ -215,6 +219,7 @@
     <string name="event_info_when">چه زمانی</string>
     <string name="event_info_where">کجا</string>
     <string name="event_reminder_allday_day_zero">همان روز در %2$s</string>
+    <string name="event_reminder_custom">سفارشی</string>
     <string name="event_reminder_value_zero">پیش از رویداد</string>
     <string name="event_title">عنوان</string>
     <string name="event_view">مشاهده رویداد</string>
@@ -333,6 +338,7 @@
     <string name="holidays_title">تعطیلات</string>
     <string name="horoscope">طالع‌بینی</string>
     <string name="horoscope_card_title">طالع امروز</string>
+    <string name="horoscope_partner" />
     <string name="horoscope_select_activity_label">نشان زودیاک را انتخاب کنید</string>
     <string name="hour_1">%d ساعت</string>
     <string name="image_processing">تصویر هنوز آماده نیست</string>
@@ -366,6 +372,8 @@
     <string name="long_holiday_week_off">روزهای تعطیل هفته</string>
     <string name="long_month_date_format">dd MMMM yyyy</string>
     <string name="lunar_date">تاریخ قمری</string>
+    <string name="lunar_day" />
+    <string name="lunar_to_solar" />
     <string name="manage_holidays">مدیریت تعطیلات</string>
     <string name="manage_title">مدیریت</string>
     <string name="mark_end">دوره تمام شد</string>
@@ -522,7 +530,7 @@
     <string name="no_visiable_calendar_title">افزودن حساب</string>
     <string name="none">هیچ کدام</string>
     <string name="noon">ظهر</string>
-    <string name="not_more_than_three_weekday">تا ۳ روز می‌توانید انتخاب کنید</string>
+    <string name="not_more_than_three_weekday">شما می‌توانید حداکثر %d روز انتخاب کنید</string>
     <string name="notes_hint">برای افزودن کار ضربه بزنید</string>
     <string name="notes_reminders_channel">یادآوری یادداشت‌ها</string>
     <string name="notes_settings_summary">کارهای روزانه و یادداشت های خود را در سالنامه اضافه کنید</string>
@@ -536,6 +544,10 @@
     <string name="notes_weekly">هفتگی</string>
     <string name="notification_channel_description" />
     <string name="notification_channel_name">یادآورهای سالنامه</string>
+    <string name="notification_open_setting_button_exit">خیر، سپاسگزارم</string>
+    <string name="notification_open_setting_button_ok">اجازه دادن</string>
+    <string name="notification_open_setting_message">تا زمانی که به سالنامه اجازه ارسال اعلان‌ها را ندهید، هیچ اعلانی درباره رویدادها دریافت نخواهید کرد.</string>
+    <string name="notification_open_setting_title">اجازه اعلان‌های سالنامه داده شود؟</string>
     <string name="numbers">%d</string>
     <string name="pack_up">收起</string>
     <string name="panchang_amanta">Amanta</string>
@@ -563,6 +575,7 @@
     <string name="panchang_yog">Yog</string>
     <string name="partner_compatibility">سازگاری با شریک زندگی</string>
     <string name="path_calendar_settings">برنامه‌های سیستمی/سالنامه/تنظیمات</string>
+    <string name="permission_denial">برای استفاده از این ویژگی مجوز اعطا کنید</string>
     <string name="permission_description">جزئیات مجوزها</string>
     <string name="picker_day">روز انتخاب شده: %1$d. برای انتخاب، انگشت خود را به صورت عمودی بکشید.</string>
     <string name="picker_month">ماه انتخاب شده: %1$d. برای انتخاب، انگشت خود را به صورت عمودی بکشید.</string>
@@ -575,7 +588,6 @@
     <string name="pref_title_alarm_remind">یادآورهای هشدار</string>
     <string name="pref_title_no_remind">بدون یاد آور</string>
     <string name="pref_title_notification_remind">یادآورهای اعلان</string>
-    <string name="preferences_additional_cal_default">۰</string>
     <string name="preferences_alarms_category_title">یادآورهای هشدار</string>
     <string name="preferences_alarms_sound">صدا</string>
     <string name="preferences_alarms_vibrateWhen">لرزش</string>
@@ -594,9 +606,9 @@
     <string name="preferences_title">سالنامه</string>
     <string name="preferences_use_home_tz_descrip">هنگام مسافرت، سالنامه‌ها و زمان رویدادها در منطقه زمانی خانه شما را نشان می‌دهد</string>
     <string name="preferences_use_home_tz_title">استفاده از منطقه زمانی خانه</string>
-    <string name="preferences_week_start_day_default">۱-</string>
     <string name="preferences_week_start_day_dialog">آغاز هفته</string>
     <string name="preferences_week_start_day_title">آغاز هفته</string>
+    <string name="premission_description_notice">برای ارسال اعلان‌ها درباره رویدادها و تعطیلات</string>
     <string name="privacy_and_permissions">حریم خصوصی و مجوزها</string>
     <string name="privacy_card_description">سیاست حفظ حریم خصوصی ما را پذیرفته تا به همه ویژگی‌ها دسترسی یابید.</string>
     <string name="privacy_policy_dialog_agree">پذیرفتن</string>
@@ -622,6 +634,8 @@
     <string name="remind_title_menstruation_start">یادآوری هنگام آغاز دوره</string>
     <string name="remind_title_record">یادآوری برای ضبط</string>
     <string name="repeat_activity_label">تکرار</string>
+    <string name="repeat_alarm_close_title">این یک هشدار تکراری است. هشدار یادآوری خاموش شود؟</string>
+    <string name="repeat_alarm_open_title">این یک رویداد تکراری است. هشدار یادآوری تنظیم شود؟</string>
     <string name="repeat_custom_activity_label">سفارشی</string>
     <string name="repeat_custom_prompt_daily">هر %1$s</string>
     <string name="repeat_custom_prompt_sentence">رویداد %1$s تکرار خواهد شد</string>
@@ -643,6 +657,7 @@
     <string name="repeat_label_frequency">دفعات</string>
     <string name="repeat_label_interval">هر</string>
     <string name="repeat_label_week">هفته</string>
+    <string name="repeat_lunar_yearly" />
     <string name="repeat_month_day_splitter">" "</string>
     <string name="repeat_week_info">" %1$s %2$s"</string>
     <string name="repeats_label">تکرار</string>
@@ -663,7 +678,9 @@
     <string name="saving_event">رویداد ذخیره شد</string>
     <string name="saving_event_with_guest">درحال ارسال به‌روزرسانی‌ها…</string>
     <string name="search_calendar_edit_event">ملاقات;یادآور;دستور جلسه</string>
+    <string name="search_calendar_huangli" />
     <string name="search_calendar_settings">سالنامه;دستور جلسه;یادآور</string>
+    <string name="search_calendar_subscribe_group" />
     <string name="search_events">جستجوی رویدادها</string>
     <string name="search_history">تاریخچه جستجو</string>
     <string name="second_saturday_holiday">هر شنبه دوم تعطیل است</string>
@@ -680,7 +697,7 @@
     <string name="setting_about_summary">نسخه:</string>
     <string name="setting_accounts">حساب‌های سالنامه</string>
     <string name="setting_change_language">زبان تقویم خود را انتخاب کنید</string>
-    <string name="setting_desc_import_todo">وارد کردن کارهای زمان‌بندی شده از یادداشت</string>
+    <string name="setting_desc_import_todo">وارد کردن کارهای حساس به زمان از یادداشت‌ها</string>
     <string name="setting_features_title">تنظیمات ویژگی</string>
     <string name="setting_holiday_display_desc">کارت‌های تعطیلات در زیر برنامه کاری شما روی صفحه اصلی قرار گرفته‌اند</string>
     <string name="setting_holiday_reminder">یادآوری تعطیلات</string>
@@ -717,6 +734,10 @@
     <string name="size_tera_byte">ترابایت</string>
     <string name="skip">رد کردن</string>
     <string name="small_week_date_format">EEE dd/MM/yyyy</string>
+    <string name="solar_lunar_convert_date" />
+    <string name="solar_lunar_convert_description" />
+    <string name="solar_lunar_convert_tab" />
+    <string name="solar_to_lunar" />
     <string name="spec_agenda_day_and_month">%1$s/%2$s</string>
     <string name="spec_agenda_view">رویدادهای ویژه</string>
     <string name="start_date_calculate">محاسبه</string>

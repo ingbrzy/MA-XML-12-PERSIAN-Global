@@ -15,7 +15,7 @@
     <string name="app_name">ماشین حساب</string>
     <string name="app_notification_info">ماشین حساب در پس‌زمینه درحال کار کردن است</string>
     <string name="base_rate">نرخ بهره پایه</string>
-    <string name="bmi_error_text">این BMI به نظر درست نمی‌رسد. مطمئن شوید قد و وزنی که وارد کرده‌اید درست هستند.</string>
+    <string name="bmi_error_text">مقادیر معتبر وارد کنید</string>
     <string name="bmi_label_information">اطلاعات</string>
     <string name="bmi_label_normal">عادی</string>
     <string name="bmi_label_overweight">اضافه وزن</string>
@@ -191,6 +191,7 @@
     <string name="global_search_key_word_figure">ارقام مالی</string>
     <string name="golbal_search_calculator_setting">ماشین حساب;تنظیمات ماشین حساب;تنظیمات</string>
     <string name="golbal_search_path_calculator_setting">برنامه‌های سیستمی/ماشین حساب/تنظیمات</string>
+    <string name="gst_initial_value">%d</string>
     <string name="gst_percentage">%s</string>
     <string name="height_prompt">ارتفاع</string>
     <string name="help_content_desc">راهنما</string>
@@ -206,6 +207,7 @@
     <string name="install_scanner_to_continued_use">اسکنر حذف شده است. دوباره نصب شود؟</string>
     <string name="interest_rate_hint">نرخ بهره را وارد کنید</string>
     <string name="investment_invalid_duration">مدت زمان سرمایه گذاری باید بیشتر از صفر باشد</string>
+    <string name="investment_loan_result">جزئیات</string>
     <string name="investment_type_once">تکرار نشدنی</string>
     <string name="investment_type_recurring">مکرر</string>
     <string name="item_page_title_investment">ماشین حساب سرمایه‌گذاری</string>
@@ -559,7 +561,6 @@ LPRهای یک‌ساله و پنج‌ساله در بیستم هر ماه (مم
     <string name="tax_result_real_get">پس از مالیات</string>
     <string name="tax_social_insurance">بیمه اجتماعی</string>
     <string name="tax_thershold_foreign">%s (اتباع خارجی)</string>
-    <string name="tax_thershold_native">%s (سرزمین اصلی چین)</string>
     <string name="tax_thershold_native_new">%s (جدید)</string>
     <string name="tax_thershold_native_new_description">مالیات بر اساس قوانین جدید مالیاتی که از ۱ اکتبر ۲۰۱۸ آغاز می‌شوند محاسبه خواهند شد</string>
     <string name="tax_threshold">آستانه بدون مالیات</string>
@@ -662,6 +663,7 @@ LPRهای یک‌ساله و پنج‌ساله در بیستم هر ماه (مم
     <string name="unit_data_display_currency_btn">گولتروم بوتان</string>
     <string name="unit_data_display_currency_bwp">پولای بوتسوانا</string>
     <string name="unit_data_display_currency_byn">روبل بلاروس</string>
+    <string name="unit_data_display_currency_byr">@string/unit_data_display_currency_byn</string>
     <string name="unit_data_display_currency_cad">دلار کانادا</string>
     <string name="unit_data_display_currency_cdf">فرانک کنگو</string>
     <string name="unit_data_display_currency_chf">فرانک سوئیس</string>
@@ -767,7 +769,7 @@ LPRهای یک‌ساله و پنج‌ساله در بیستم هر ماه (مم
     <string name="unit_data_display_length_fen">Fen</string>
     <string name="unit_data_display_length_fm">فتوم</string>
     <string name="unit_data_display_length_ft">پا</string>
-    <string name="unit_data_display_length_fur">Femara</string>
+    <string name="unit_data_display_length_fur">فرلانگ</string>
     <string name="unit_data_display_length_gongli">Gongli</string>
     <string name="unit_data_display_length_hao">Hao</string>
     <string name="unit_data_display_length_in">اینچ</string>
@@ -1002,12 +1004,15 @@ LPRهای یک‌ساله و پنج‌ساله در بیستم هر ماه (مم
     <string name="word_figure_unit_shi">拾</string>
     <string name="word_figure_yuan">元</string>
     <string name="word_figure_zheng">整</string>
+    <string name="xiaomi_bytes_unit">%1$s بایت</string>
     <string name="xiaomi_calculator_delete_description">ماشین حساب یک برنامه سیستمی است. پس از حذف برنامه، دیگر نمی‌توانید از مبدل‌های چندگانه و ویژگی‌های بیشتر استفاده کنید.</string>
     <string name="xiaomi_calculator_delete_title">ماشین حساب حذف شود؟</string>
     <string name="xiaomi_calculator_remove_icon_description">ماشین حساب یک برنامه سیستمی است. پس از برداشتن میان‌بر از صفحه اصلی، دیگر نمی‌توانید از مبدل‌های چندگانه و ویژگی‌های بیشتر استفاده کنید.</string>
     <string name="xiaomi_calculator_remove_icon_title">«ماشین حساب» از صفحه اصلی برداشته شود؟</string>
     <string name="xiaomi_connect_download_manager_fail">به دانلودها وصل نشد. بررسی کرده تا این برنامه همه مجوزهای لازم را در تنظیمات > برنامه‌های نصب شده داشته باشد.</string>
     <string name="xiaomi_external_storage_unavailable">حافظه موجود نیست. کارت SD خود را بررسی کنید.</string>
+    <string name="xiaomi_kilobytes_unit">%1$s کیلوبایت</string>
+    <string name="xiaomi_megabytes_unit">%1$s مگابایت</string>
     <string name="xiaomi_update_dialog_message">"معرفی نسخه %1$s
 اندازه: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff">"معرفی نسخه %1$s
