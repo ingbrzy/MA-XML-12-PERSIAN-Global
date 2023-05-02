@@ -103,7 +103,7 @@
     <string name="adb_install_open_error">اجازه داده نشد. اتصال شبکه خود را بررسی کنید</string>
     <string name="adb_install_reject_notiy">اجازه نصب %s از طریق USB داده نشد</string>
     <string name="adb_install_reject_notiy_desc">شما می‌توانید اجازه نصب از طریق USB را در گزینه‌های توسعه‌دهنده فعال کنید</string>
-    <string name="adb_login_xiaomi_account">ابتدا وارد حساب Xiaomi خود شوید</string>
+    <string name="adb_login_xiaomi_account">ابتدا وارد حساب Mi خود شوید</string>
     <string name="add_bill_reminder_alarm">تنظیم هشدار موجودی گوشی</string>
     <string name="add_done">با موفقیت افزوده شد</string>
     <string name="add_game">افزودن بازی</string>
@@ -532,14 +532,14 @@
     <string name="applock_add_account">افزودن</string>
     <string name="applock_add_account_ignore">اکنون نه</string>
     <string name="applock_add_account_ignore_with_seconds">اکنون نه (%ds)</string>
-    <string name="applock_add_account_info">حساب Xiaomi خود را افزوده تا در صورت فراموشی گذرواژه بتوانید آن را دوباره تنظیم کنید.</string>
+    <string name="applock_add_account_info">حساب Mi خود را افزوده تا در صورت فراموشی گذرواژه بتوانید آن را دوباره تنظیم کنید.</string>
     <string name="applock_add_account_setting">حساب و حریم خصوصی</string>
-    <string name="applock_add_account_tips">اگر حساب Xiaomi را فراموش کنید، می‌توانید قفل برنامه خود را بازیابی کنید.</string>
-    <string name="applock_add_account_title">حساب Xiaomi خود را بیافزایید</string>
+    <string name="applock_add_account_tips">اگر حساب Mi را فراموش کنید، می‌توانید قفل برنامه خود را بازیابی کنید.</string>
+    <string name="applock_add_account_title">افزودن حساب Mi خود</string>
     <string name="applock_already_add_account">حساب کنونی: %s</string>
     <string name="applock_app_recommend_lock_title">برنامه‌های زیر را می‌توانید قفل کنید</string>
-    <string name="applock_bind_account_dialog_content">حساب Mi شما تنها راه بازیابی قفل برنامه درصورت فراموش کردن آن است. برای افزودن حساب Xiaomi خود وارد سیستم شوید.</string>
-    <string name="applock_bind_account_dialog_title">حساب Xiaomi خود را بیافزایید</string>
+    <string name="applock_bind_account_dialog_content">حساب Mi شما تنها راه بازیابی قفل برنامه درصورت فراموش کردن آن است. برای افزودن حساب Mi خود وارد سیستم شوید.</string>
+    <string name="applock_bind_account_dialog_title">افزودن حساب Mi خود</string>
     <string name="applock_bind_account_title">گذرواژه را فراموش کرده‌ام</string>
     <string name="applock_close_dialog_summary">گذرواژه قفل برنامه شما حذف خواهد شد. اکنون قفل برنامه خاموش شود؟</string>
     <string name="applock_close_dialog_title">قفل برنامه خاموش شود؟</string>
@@ -561,7 +561,7 @@
     <string name="applock_guide_tip1_without_face">چندین نوع گذرواژه وجود دارد. قفل برنامه‌ها را با اثر انگشت و یا وارد کردن گذرواژه باز کنید.</string>
     <string name="applock_guide_tip1_without_finger">چندین نوع گذرواژه وجود دارد. قفل برنامه‌ها را با مشخصات چهره یا وارد کردن گذرواژه باز کنید.</string>
     <string name="applock_guide_tip1_without_finger_face">چندین نوع گذرواژه وجود دارد.</string>
-    <string name="applock_guide_tip2">حساب Xiaomi خود را افزوده تا بتوانید گذرواژه خود را دوباره بازیابی کنید.</string>
+    <string name="applock_guide_tip2">حساب Mi خود را افزوده تا بتوانید گذرواژه خود را دوباره بازیابی کنید.</string>
     <string name="applock_guide_tip3">پنهان کردن محتوای اعلان.</string>
     <string name="applock_guide_tip3_global">پنهان کردن محتوای اعلان.</string>
     <string name="applock_guide_title">با قفل برنامه از حریم خصوصی خود حفاظت کنید</string>
@@ -573,7 +573,7 @@
     <string name="applock_login_and_add_account">ورود به سیستم و افزودن</string>
     <string name="applock_mixtype_hidepwd_icon">پنهان کردن</string>
     <string name="applock_mixtype_showpwd_icon">نمایش</string>
-    <string name="applock_no_account_login">شما به سیستم حساب Xiaomi خود وارد نشده‌اید</string>
+    <string name="applock_no_account_login">شما به سیستم حساب Mi خود وارد نشده‌اید</string>
     <string name="applock_not_add_account"><u>اکنون نه</u></string>
     <string name="applock_not_login_account">وارد نشده‌اید</string>
     <string name="applock_numeric_pwd_type_line">تعداد کل ارقام گذرواژه: %1$d. ارقام وارد شده:%2$d.</string>
@@ -849,10 +849,10 @@
     <string name="bill_traffic_reminder_instruction_text">جزئیات واقعی طرح‌های ارائه شده توسط کارورها ممکن است متفاوت باشد و ممکن است تأخیر در صورت حساب رخ دهد. اطلاعات ارائه شده در اینجا فقط برای آگاهی شما است.</string>
     <string name="bind_xiaomi_account_cancel">لغو</string>
     <string name="bind_xiaomi_account_confirm">افزودن</string>
-    <string name="bind_xiaomi_account_dialog_summery">شما درحال افزودن حساب Xiaomi %s هستید. اگر گذرواژه خود را فراموش کرده‌اید، می‌توانید از این حساب برای بازنشانی آن استفاده کنید. این حساب در صورتی که از آن خارج شوید به صورت خودکار حذف خواهد شد.</string>
-    <string name="bind_xiaomi_account_success">حساب Xiaomi با موفقیت افزوده شد</string>
-    <string name="bind_xiaomi_account_summary">از حساب Xiaomi برای بازنشانی گذرواژه خود استفاده کنید</string>
-    <string name="bind_xiaomi_account_title">افزودن حساب Xiaomi</string>
+    <string name="bind_xiaomi_account_dialog_summery">شما درحال افزودن حساب Mi %s هستید. اگر گذرواژه خود را فراموش کرده‌اید، می‌توانید از این حساب برای بازنشانی آن استفاده کنید. این حساب در صورتی که از آن خارج شوید به صورت خودکار حذف خواهد شد.</string>
+    <string name="bind_xiaomi_account_success">حساب Mi با موفقیت افزوده شد</string>
+    <string name="bind_xiaomi_account_summary">از حساب Mi برای بازنشانی گذرواژه خود استفاده کنید</string>
+    <string name="bind_xiaomi_account_title">افزودن حساب Mi</string>
     <string name="birthday">زادروز</string>
     <string name="bl_no_blacklist">شماره مسدود شده‌ای وجود ندارد.</string>
     <string name="bl_no_block_call">تماس مسدود شده‌ای وجود ندارد.</string>
@@ -960,6 +960,7 @@
     <string name="card_main_private_space_summary">استفاده از فضای دوم مانند داشتن ۲ دستگاه است</string>
     <string name="card_main_private_space_title">فضای دوم</string>
     <string name="card_main_sectool_title">ابزار</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">ایجاد</string>
     <string name="card_main_xspace_summary">ایجاد حساب دوگانه برای هر برنامه‌ای</string>
     <string name="card_main_xspace_title">برنامه‌های همزاد</string>
@@ -1021,7 +1022,7 @@
     <string name="confirmSecondSpacePassword">گذرواژه فضای دوم را تأیید کنید</string>
     <string name="confirm_ai_allow_all_permission">وضعیت مجوز برای همه برنامه‌ها به «برای من تصمیم گرفته شود» تغییر کند؟</string>
     <string name="confirm_allow_all_permission">Allow all apps from using this feature?</string>
-    <string name="confirm_bind_xiaomi_account_dialog_title">افزودن حساب Xiaomi</string>
+    <string name="confirm_bind_xiaomi_account_dialog_title">درحال افزودن حساب Mi</string>
     <string name="confirm_close">خاموش کردن</string>
     <string name="confirm_fingerprint_msg">اثر انگشت خود را تأیید کنید</string>
     <string name="confirm_leave">خیر، سپاسگزارم</string>
@@ -1240,6 +1241,7 @@
     <string name="dual_setting_simcard2">سیم‌کارت ۲</string>
     <string name="early_morning">صبح</string>
     <string name="edit_phone_num">ویرایش شماره تلفن سیم‌کارت</string>
+    <string name="ellipsis">…</string>
     <string name="email">ایمیل</string>
     <string name="empty" />
     <string name="empty_app">بدون برنامه</string>
@@ -1274,6 +1276,7 @@
     <string name="exit_dialog_garbage_clean_title">آزادسازی فضای ذخیره‌سازی</string>
     <string name="exit_dialog_homepage_optimise_message">امتیاز کارایی دستگاه شما زیر ۸۰ است. اکنون بهینه‌سازی شود؟</string>
     <string name="exit_dialog_release_memory_positive_button">بستن</string>
+    <string name="exit_dialog_release_memory_title">&lt;Data>بالابردن سرعت دستگاه خود توسط &lt;font color=#0099ff>%d%%&lt;/font>&lt;/Data></string>
     <string name="exit_dialog_release_memory_title_new">&lt;Data>سرعت دستگاه خود را با &lt;font color=#0099ff>%s&lt;/font> افزایش دهید&lt;/Data></string>
     <string name="exit_dialog_release_storage_message">بیش از ۸۰% حافظه دستگاه شما اشغال شده است. با حذف برنامه‌هایی که هرگز استفاده نمی‌کنید فضا را آزاد کنید.</string>
     <string name="exit_dialog_release_storage_message_new">بیش از %s حافظه دستگاه شما اشغال شده است. با حذف برنامه‌هایی که هرگز استفاده نمی‌کنید فضا را آزاد کنید.</string>
@@ -1822,7 +1825,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_voice_changer_recommend">پیشنهاد شده</string>
     <string name="gb_voice_changer_renew_dailog">اشتراک خود را تمدید کرده تا بتوانید از این جلوه استفاده کنید.</string>
     <string name="gb_voice_changer_robot">روبات</string>
-    <string name="gb_voice_changer_setting_account_title">حساب Xiaomi</string>
+    <string name="gb_voice_changer_setting_account_title">حساب Mi</string>
     <string name="gb_voice_changer_setting_become_vip">اشتراک</string>
     <string name="gb_voice_changer_setting_gender_subtitle">با توجه به جنسیت انتخاب شده جلوه‌ها و پیشنهادات را تنظیم کنید</string>
     <string name="gb_voice_changer_setting_gender_title">جنسیت</string>
@@ -1838,7 +1841,7 @@ Record sequences and use them anytime!"</string>
     <string name="gb_voice_changer_user_status_expired">اشتراک به پایان رسیده است</string>
     <string name="gb_voice_changer_user_status_get_trial_card_dialog">"دریافت %d روز آزمایشی رایگان!
 و پویش تغییر دهتده‌ی صدا!"</string>
-    <string name="gb_voice_changer_user_status_no_login">ورود به حساب Xiaomi</string>
+    <string name="gb_voice_changer_user_status_no_login">ورود به حساب Mi</string>
     <string name="gb_voice_changer_user_status_remain_time">تاریخ انقضاء: %s</string>
     <string name="gb_voice_changer_user_status_renew">تمدید</string>
     <string name="gb_voice_changer_user_tips_info_vip_expire">اشتراک شما منقضی شده است. اکنون اشتراک را تمدید کرده تا از مزایای آن بهره‌مند شوید!</string>
@@ -1950,10 +1953,10 @@ Record sequences and use them anytime!"</string>
     <string name="gtb_dialog_btn_close">خاموش کردن</string>
     <string name="gtb_dialog_btn_open">روشن کردن</string>
     <string name="gtb_dialog_hint_smart_5g">این ویژگی را می‌توانید در افزاینده سرعت بازی > تنظیمات روشن و خاموش کنید.</string>
-    <string name="gtb_dialog_privacy_speed_message">شما در آستانه استفاده از تغییر افزاینده سرعت بازی Xunyou هستید. این خدمات شناسه حساب Xiaomi شما را گردآوری کرده تا مدت عضویت شما را ضبط نماید.</string>
+    <string name="gtb_dialog_privacy_speed_message">شما در آستانه استفاده از تغییر افزاینده سرعت بازی Xunyou هستید. این خدمات شناسه حساب Mi شما را گردآوری کرده تا مدت عضویت شما را ضبط نماید.</string>
     <string name="gtb_dialog_privacy_speed_tips">&lt;Data>من &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> افزاینده سرعت بازی Xunyou را خوانده و پذیرفته‌ام.&lt;/Data></string>
     <string name="gtb_dialog_privacy_speed_title">افزاینده سرعت بازی Xunyou</string>
-    <string name="gtb_dialog_privacy_voice_message">"You're about to use Xunyou Game Voice Changer. This service will collect your Xiaomi Account ID to record your membership duration."</string>
+    <string name="gtb_dialog_privacy_voice_message">شما در آستانه استفاده از تغییر دهنده صدای بازی Xunyou هستید. این خدمات شناسه حساب Mi شما را گردآوری کرده تا مدت عضویت شما را ضبط نماید.</string>
     <string name="gtb_dialog_privacy_voice_tips">&lt;Data>من &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> تغییر دهنده صدا بازی Xunyou را خوانده و پذیرفته‌ام.&lt;/Data></string>
     <string name="gtb_dialog_privacy_voice_title">تغییر دهنده صدا بازی Xunyou</string>
     <string name="gtb_dialog_summary_smart_5g">هنگامی که افزاینده سرعت بازی یک شبکه 5G را شناسایی می‌کند، می‌تواند دستگاه شما را به بهترین شبکه موجود متصل کرده تا تأخیر شبکه را کاهش دهد. این ویژگی روشن شود؟</string>
@@ -2263,6 +2266,7 @@ to join our egg hunt!"</string>
     <string name="memory_check_content">%s آزاد شد</string>
     <string name="memory_clean_memory_size_tip">حافظه پنهان</string>
     <string name="memory_clean_no_need_clean">همه چیز خوب به نظر می‌رسد</string>
+    <string name="memory_clean_no_need_clean_1" formatted="false">%s آزادسازی شد. دستگاه شما اکنون %d%% سریع‌تر است.</string>
     <string name="memory_clean_no_need_clean_1_new" formatted="false">"%s آزادسازی شد.
 دستگاه شما اکنون %s سریع‌تر است."</string>
     <string name="memory_clear_unused">پاک‌سازی حافظه پنهان (%s)</string>
@@ -2287,6 +2291,7 @@ to join our egg hunt!"</string>
     <string name="menu_item_notification_antispam_text_avail">فهرست سیاه</string>
     <string name="menu_item_notification_antispam_text_normal">فهرست سیاه</string>
     <string name="menu_item_notification_garbage_text">%s</string>
+    <string name="menu_item_notification_optimize_text">%d%% اشغال شده است</string>
     <string name="menu_item_notification_optimize_text_new">%s اشغال شده است</string>
     <string name="menu_item_notification_power_text">بهینه‌سازی باتری</string>
     <string name="menu_item_notification_title">نشان دادن منو در کرکره اعلان</string>
@@ -2314,6 +2319,7 @@ to join our egg hunt!"</string>
     <string name="menu_summary_networkassistants_3">اینترنت باقی مانده کافیست</string>
     <string name="menu_summary_networkassistants_4">اینترنت همراه رو به پایان است</string>
     <string name="menu_summary_optimize_manage">پاک‌سازی حافظه</string>
+    <string name="menu_summary_optimize_manage_1">دستگاه خود را %%%d سریع‌تر کنید</string>
     <string name="menu_summary_optimize_manage_1_new">دستگاه خود را %s سریع‌تر کنید</string>
     <string name="menu_summary_power_manager">بهینه‌ساز باتری زمان بیشتری بین شارژها به شما می‌دهد</string>
     <string name="menu_summary_power_manager_1">باتری کامل شارژ شده است</string>
@@ -2329,6 +2335,7 @@ to join our egg hunt!"</string>
     <string name="menu_text_license_manager">مجوزها</string>
     <string name="menu_text_networkassistants">مصرف اینترنت همراه</string>
     <string name="menu_text_networkassistants_danger">%s فراتر</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s باقی‌مانده</string>
     <string name="menu_text_networkassistants_unit_b">بیت</string>
     <string name="menu_text_networkassistants_unit_gb">گیگابایت</string>
@@ -2337,6 +2344,7 @@ to join our egg hunt!"</string>
     <string name="menu_text_optimize_manage">افزایش سرعت</string>
     <string name="menu_text_optimize_manage_1">افزایش سرعت</string>
     <string name="menu_text_power_manager">باتری</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">حذف از موارد استثنا</string>
     <string name="menu_white">افزودن به استثناها</string>
     <string name="mi_ime_not_used">استفاده از صفحه کلید مجاز شده توسط Xiaomi</string>
@@ -2575,6 +2583,7 @@ to join our egg hunt!"</string>
     <string name="notification_link_cleaner_3001">برای بالابردن سرعت دستگاه خود، زباله‌های WeChat را پاک‌سازی کنید</string>
     <string name="notification_link_cleaner_3002">پاک‌سازی زباله WeChat</string>
     <string name="notification_link_cleaner_4000">پاک‌سازی سطل زباله QQ</string>
+    <string name="notification_link_optimizemanage_1011">%d%% از حافظه اشغال است. اکنون پاکسازی می‌کنید؟</string>
     <string name="notification_link_optimizemanage_1011_new">%s از حافظه اشغال است. اکنون پاکسازی می‌کنید؟</string>
     <string name="notification_low_battery_need_charge">اتصال شارژر</string>
     <string name="notification_low_battery_open_save_mode">روشن کردن بهینه‌ساز باتری</string>
@@ -2591,6 +2600,7 @@ to join our egg hunt!"</string>
     <string name="notification_masked_subtitle">قفل برنامه می‌تواند این کار را انجام دهد</string>
     <string name="notification_optimize_button_text">پاک‌سازی</string>
     <string name="notification_optimize_message">حافظه را پاک‌سازی کرده تا سرعت افزایش یابد</string>
+    <string name="notification_optimize_title">%d%% از حافظه اشغال است</string>
     <string name="notification_optimize_title_new">%s از حافظه اشغال است</string>
     <string name="notification_power_consume_issue_summary">مصرف برق بالا</string>
     <string name="notification_power_consume_suggest_summary">اصلاح مشکلات برای صرفه جویی در مصرف باتری</string>
@@ -2734,9 +2744,9 @@ to join our egg hunt!"</string>
     <string name="password_forget_pattern_message_none">برنامه‌ها قفل نیستند. می‌توانید گذرواژه خود را دوباره تنظیم کنید.</string>
     <string name="password_forget_pattern_reset">بازنشانی</string>
     <string name="password_forget_pattern_title">توجه</string>
-    <string name="password_promotion_not_login_xiaomi_account_message">حساب Xiaomi خود را افزوده تا در صورت فراموشی گذرواژه بتوانید آن را دوباره تنظیم کنید.</string>
+    <string name="password_promotion_not_login_xiaomi_account_message">حساب Mi خود را افزوده تا در صورت فراموشی گذرواژه بتوانید آن را دوباره تنظیم کنید.</string>
     <string name="password_promotion_postbutton_text">افزودن</string>
-    <string name="password_promotion_title">افزودن حساب Xiaomi</string>
+    <string name="password_promotion_title">افزودن حساب Mi</string>
     <string name="password_type">تغییر گذرواژه</string>
     <string name="password_type_underline"><u>تغییر گذرواژه</u></string>
     <string name="password_xspace_forget_pattern_message">برای تغییر گذرواژه فضای دوم، شما باید فضای دوم کنونی خود را حذف کرده و یکی دیگر بسازید.</string>
@@ -2983,6 +2993,11 @@ to join our egg hunt!"</string>
     <string name="power_center_dialog_msg_top">هنگام روشن بودن بهینه‌ساز باتری، MIUI بهینه‌سازی‌های زیر را انجام خواهد داد:</string>
     <string name="power_center_hints_scan_danger_result">حالا می‌توانید اشکالات باتری را برطرف کنید</string>
     <string name="power_center_list_item_auto_brightness">تنظیم خودکار روشنایی نمایشگر</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s ولت</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s میلی‌آمپر</string>
+    <string name="power_center_list_item_battery_status_capacity">میلی‌آمپر</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">ساعت</string>
     <string name="power_center_list_item_close_bluetooth">خاموش کردن بلوتوث</string>
     <string name="power_center_list_item_deep_save_title">تنظیمات پیشرفته</string>
@@ -3268,6 +3283,7 @@ to join our egg hunt!"</string>
     <string name="pref_normal_traffic_limit">وقتی که طرح اینترنت همراه مصرف شد</string>
     <string name="pref_open_adjust_traffic">به‌روزرسانی روزانه مصرف اینترنت همراه با استفاده از آمار شرکت مخابراتی شما</string>
     <string name="pref_operator_not_set">شرکت مخابرات تنظیم نیست</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">هنگامی که از طرح اینترنت همراه خود فراتر می‌روید</string>
     <string name="pref_package_traffic_settings">طرح اینترنت همراه</string>
     <string name="pref_pkg_begin_date">تاریخ بازنشانی مصرف</string>
@@ -3414,7 +3430,7 @@ to join our egg hunt!"</string>
     <string name="privacy_pop_record">تعداد ضبط صدای امروز</string>
     <string name="privacy_pop_storage">تعداد دسترسی امروز به حافظه</string>
     <string name="privacy_prompt_tc_sms_report_message">شماره تلفن و جزئیات شرکت مخابرات شما رمزگذاری شده و به سرورهای Mi بارگذاری می‌شود تا بتوان اطلاعات مصرف اینترنت همراه شما را به‌روزرسانی کرد.</string>
-    <string name="privacy_prompt_traffic_adjust_message">"پس از این که یکسان‌سازی را آغاز کردید، MIUI به شبکه وصل شده، اطلاعات شرکت مخابراتی، شماره تلفن، IMEI، و حساب Xiaomi شما را رمزگذاری کرده و این موارد را در سرورهای Mi بارگذاری می‌کند. این کار برای به دست آوردن قالب یکسان‌سازی شرکت مخابراتی و آگاهی یافتن اینکه آیا امکان خرید در محل شما وجود دارد یا نه انجام می‌شود.
+    <string name="privacy_prompt_traffic_adjust_message">"پس از این که یکسان‌سازی را آغاز کردید، MIUI به شبکه وصل شده، اطلاعات شرکت مخابراتی، شماره تلفن، IMEI، و حساب Mi شما را رمزگذاری کرده و این موارد را در سرورهای Mi بارگذاری می‌کند. این کار برای به دست آوردن قالب یکسان‌سازی شرکت مخابراتی و آگاهی یافتن اینکه آیا امکان خرید در محل شما وجود دارد یا نه انجام می‌شود.
 
 هنگام یکسان‌سازی، MIUI یک پیام متنی به شرکت مخابراتی شما ارسال می‌کند تا قالب یکسان‌سازی را دریافت کند."</string>
     <string name="privacy_prompt_upload">بارگذاری</string>
@@ -3542,6 +3558,7 @@ to join our egg hunt!"</string>
     <string name="privacy_using_record">درحال ضبط صدا</string>
     <string name="privacyapp_number_masked_text">محتوای اعلان‌ها پنهان است</string>
     <string name="privacyapp_number_unmasked_text">محتوای اعلان‌ها می‌توانند پنهان شوند</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">سرور رسانه</string>
     <string name="process_vpnsdkmanager_label">افزاینده سرعت بازی</string>
     <string name="promotion">تبلیغ</string>
@@ -3611,7 +3628,7 @@ to join our egg hunt!"</string>
     <string name="report_warning_title">توجه</string>
     <string name="required_permissions">مجوزهای اجباری</string>
     <string name="required_permissions_desc">این مجوزها برای ممکن سازی ویژگی‌ها و خدمات پایه‌ای این برنامه لازم هستند.</string>
-    <string name="reset_data_dialog_message">این دستگاه با حساب Xiaomi شما مرتبط نیست. گذرواژه دوباره تنظیم یا بازیابی نمی‌شود. تمام موارد مهم را پشتیبان‌گیری کرده و به تنظیمات کارخانه بازنشانی کنید. تمام داده‌ها برای همیشه حذف خواند شد و هنگام بازنشانی به تنظیمات کارخانه کارت SD فرمت خواهد شد.</string>
+    <string name="reset_data_dialog_message">این دستگاه با حساب Mi شما مرتبط نیست. گذرواژه دوباره تنظیم یا بازیابی نمی‌شود. تمام موارد مهم را پشتیبان‌گیری کرده و به تنظیمات کارخانه بازنشانی کنید. تمام داده‌ها برای همیشه حذف خواند شد و هنگام بازنشانی به تنظیمات کارخانه کارت SD فرمت خواهد شد.</string>
     <string name="reset_data_dialog_ok">بازنشانی به تنظیمات کارخانه</string>
     <string name="reset_data_title">گذرواژه بازیابی نمی‌شود</string>
     <string name="result_autoscan_header">نظارت بر پرداخت</string>
@@ -3682,6 +3699,7 @@ to join our egg hunt!"</string>
     <string name="scan_open_shut_down_password_title">تأیید خاموش کردن</string>
     <string name="scan_status_risk">پرمخاطره</string>
     <string name="scan_status_safe">امن</string>
+    <string name="scanning_bar_number">%d%%</string>
     <string name="scanning_bar_number_new">%s</string>
     <string name="screenrecord_not_find">آخرین نسخه ضبط نمایشگر را نصب کرده سپس دوباره تلاش کنید.</string>
     <string name="sd_eject">جداسازی کارت SD</string>
@@ -3724,7 +3742,7 @@ to join our egg hunt!"</string>
     <string name="set_now">تنظیمات</string>
     <string name="set_numeric_password_name">تنظیم PIN</string>
     <string name="set_package_tips">ما یک پیامک رایگان برای بررسی طرح اینترنت همراه شما به شرکت مخابراتی‌تان ارسال خواهیم کرد. به منظور ساختن این پیام اطلاعاتی که ارائه می‌کنید رمزگذاری شده و در سرورهای ما بارگذاری خواهند شد.</string>
-    <string name="set_package_tips_detail">اطلاعات بارگذاری شده در سرورهای Xiaomi شامل جزئیات شرکت مخابراتی و همچنین شماره تلفن، IMEI و حساب Xiaomi شما خواهد بود.</string>
+    <string name="set_package_tips_detail">اطلاعات بارگذاری شده در سرورهای Xiaomi شامل جزئیات شرکت مخابراتی و همچنین شماره تلفن، IMEI و حساب Mi شما خواهد بود.</string>
     <string name="set_pattern_password_name">تنظیم الگو</string>
     <string name="set_traffic_tips">با تنظیم طرح اینترنت همراه خود مصرف اینترنت همراه خود را مدیریت کرده تا از ایجاد هزینه‌های اضافی پیشگیری شود</string>
     <string name="setting">تنظیمات</string>
@@ -4163,7 +4181,7 @@ to join our egg hunt!"</string>
     <string name="storage_item_doc_name">اسناد</string>
     <string name="storage_item_other_name">سایر</string>
     <string name="storage_item_picture_name">تصاویر</string>
-    <string name="storage_item_system_data">فایل‌های سیستم</string>
+    <string name="storage_item_system_data">سیستم</string>
     <string name="storage_item_system_name">سیستم</string>
     <string name="storage_item_video_name">ویدئو</string>
     <string name="storage_menu_mount">سوار کردن</string>
@@ -4242,6 +4260,7 @@ to join our egg hunt!"</string>
     <string name="superpower_dialog_button_ok">تأیید</string>
     <string name="superpower_dialog_massage">بهینه‌ساز باتری فوق‌العاده ویژگی‌های پر مصرف را محدود کرده و کارایی دستگاه شما را کاهش می‌دهد تا امکانات پایه‌ای (مانند تماس، پیامک و اتصال به اینترنت) را تا جایی که امکان دارد در دسترس نگه دارد. بهینه‌ساز فوق‌العاده باتری روشن شود؟</string>
     <string name="superpower_dialog_title">بهینه‌ساز فوق‌العاده باتری</string>
+    <string name="superpower_notification_new_title">کمتر از %%%d از باتری باقی مانده است</string>
     <string name="superpower_notification_new_title_new">کمتر از %s از باتری باقی مانده است</string>
     <string name="superpower_notification_summary">دستگاه خود را شارژ کرده یا بهینه‌ساز فوق‌العاده باتری را روشن کنید</string>
     <string name="superpower_notification_time_12">EEEE، dd MMMM</string>
@@ -4445,7 +4464,7 @@ to join our egg hunt!"</string>
     <string name="title_block_calls_from_strangers">تماس‌های از دست رفته را از دست دادید؟</string>
     <string name="title_chain_start">محدود کردن آغاز زنجیره‌ای</string>
     <string name="title_cleaner_cloudscan">اسکن زباله فضای ابری</string>
-    <string name="title_cloud_account">حساب Xiaomi</string>
+    <string name="title_cloud_account">حساب Mi</string>
     <string name="title_cloud_service">فضای ابری Xiaomi</string>
     <string name="title_cloud_space_almost_full">حافظه فضای ابری تقریباً پر است، ممکن است موارد همگام‌سازی نشوند</string>
     <string name="title_cloud_space_full">فضای ابری پر است</string>

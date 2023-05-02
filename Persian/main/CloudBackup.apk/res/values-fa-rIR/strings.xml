@@ -125,8 +125,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="cloud_backup_detail_state_summary_china">دستگاه باید به WLAN متصل، در حال شارژ و قفل باشد</string>
     <string name="cloud_backup_detail_time">آخرین پشتیبان‌گیری: %1$s</string>
     <string name="cloud_backup_detail_title">پشتیبان‌گیری از موارد</string>
-    <string name="cloud_backup_get_installed_apps_summary">For backing up and restoring Home screen apps</string>
-    <string name="cloud_backup_get_installed_apps_title">Access the list of apps installed on this device</string>
     <string name="cloud_backup_have_data">یک نسخه پیشتیبان در فضای ابری Xiaomi یافت شد</string>
     <string name="cloud_backup_in_cancel">لغو</string>
     <string name="cloud_backup_in_process">درحال پشتیبان‌گیری</string>
@@ -144,9 +142,6 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="confirm_restore_app_data">در حال حاضر WeChat روی این دستگاه نصب است. داده‌های WeChat بازیابی نمی‌شوند.</string>
     <string name="confirm_restore_summary">صفحه اصلی شما دوباره اجرا خواهد شد. برنامه‌های پشتیبان‌گیری شده به صورت خودکار دانلود خواهند شد.</string>
     <string name="confirm_restore_title">بازیابی</string>
-    <string name="cta_dialog_all_purpose">به پشتیبان‌گیری فضای ابری خوش آمدید! شما با استفاده از این برنامه می‌توانید از چیدمان صفحه اصلی، برنامه‌ها، تنظیمات سیستم و داده‌های WeChat خود در فضای ابری پشتیبان‌گیری کنید. برای استفاده از تمام ویژگی‌های ما، مطمئن شوید که در حال استفاده از آخرین نگارش هستید.</string>
-    <string name="cta_dialog_permission_description_get_installed_apps">For backing up and restoring apps</string>
-    <string name="cta_dialog_permission_description_storage">برای پشتیبان‌گیری و بازیابی موارد</string>
     <string name="customization"><u>سفارشی‌سازی</u></string>
     <string name="date_format">yyyy/MM/dd HH:mm:ss</string>
     <string name="date_picker_label_day" />
@@ -372,6 +367,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="open_backup_switch">کلید وضیعت پشتیبان‌گیری را تغییر دهید</string>
     <string name="other_device_main_space">فضای نخست</string>
     <string name="other_device_second_space">فضای دوم</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">در حالت رایانه موارد بازیابی نمی‌شوند. حالت رایانه را خاموش کرده و سپس دوباره تلاش کنید.</string>
     <string name="permission_to_use">جزئیات مجوزها</string>
     <string name="pm">ب.ظ</string>

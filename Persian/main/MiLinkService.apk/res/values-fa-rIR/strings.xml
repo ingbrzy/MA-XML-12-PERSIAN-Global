@@ -474,7 +474,6 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="toast_msg_for_multi_window">این ویژگی با تقسیم صفحه کار نمی‌کند</string>
     <string name="toast_msg_for_small_window">شما می‌توانید با کوچک‌سازی پنجره‌ای که درحال بازتاباندن شدن است بدون قطع فرآیند بازتاباندن از سایر ویژگی‌های گوشی خود استفاده کنید.</string>
     <string name="toast_nfc_dont_move">گوشی خود را دور نکنید</string>
-    <string name="toast_nfc_same_wifi">تلویزیون و این دستگاه، هر دو را به یک شبکه وصل کنید</string>
     <string name="toast_title_for_small_window">در برنامه \"کوچک‌سازی پنجره\" را انتخاب کنید</string>
     <string name="toast_turn_off_hotspot_before_cast">پیش از بازتاباندن کانون داغ همراه را خاموش کنید</string>
     <string name="today">امروز</string>

@@ -255,6 +255,7 @@
     <string name="download">دانلود</string>
     <string name="downloading">در حال دانلود</string>
     <string name="early_morning">صبح</string>
+    <string name="empty">" "</string>
     <string name="empty_content_no_ignore_image">خالی</string>
     <string name="empty_content_no_privacy">خالی</string>
     <string name="empty_content_no_similar_image">عکسی موجود نیست</string>
@@ -430,6 +431,7 @@
     <string name="hints_garbage_cleanup_result_safe">همه‌چیز خوب به‌نظر می‌رسد</string>
     <string name="hints_garbage_handle_item_content">%1$d مورد، %2$s</string>
     <string name="hints_garbage_handle_item_empty_content">خالی</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_installed_app_fewer">به ندرت استفاده شده</string>
     <string name="hints_installed_app_near">تازگی استفاده شده</string>
     <string name="hints_installed_app_never">هرگز استفاده نشده</string>
