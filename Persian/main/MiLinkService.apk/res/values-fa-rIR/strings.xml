@@ -43,6 +43,8 @@
     <string name="dialog_miplay_permission_message">به بازتاباندن اجازه ضبط صدا، دسترسی به فایل‌ها در حافظه داخلی و دسترسی به موقعیت خود را داده تا بتوانید به طور عادی از این ویژگی استفاده کنید. برای ادامه روی «تنظیمات» کلیک کرده و «مجوزهای برنامه» را انتخاب کنید.</string>
     <string name="dialog_miplay_permission_positive">تنظیمات</string>
     <string name="dialog_miplay_permission_title">نیازمند مجوز است</string>
+    <string name="dialog_nearbydevice_permission_message">برای امکان استفاده از ویژگی‌های بازتاباندن به این دستگاه اجازه دسترسی به دستگاه‌های نزدیک را بدهید.</string>
+    <string name="dialog_nearbydevice_permission_title">نیازمند مجوز است</string>
     <string name="dialog_nfc_cast_wifi_off">Turn on WLAN to be able to cast using NFC. Turn on now?</string>
     <string name="dialog_no_device_message">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. دستگاه همراه و تلویزیون خود را به شبکه Wi-Fi مشابه متصل کنید.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. در برخی مدل‌های تلویزیون‌ها این ویژگی فقط هنگامی که بازتاب صفحه روشن باشد در دسترس است. برای جزئیات بیشتر &lt;a href=milink://com.milink.service/specification>«راهنما»&lt;/a> را ببینید.&lt;/Data></string>
     <string name="dialog_no_device_message_china">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same WLAN network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.&lt;/Data></string>
@@ -474,6 +476,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="toast_msg_for_multi_window">این ویژگی با تقسیم صفحه کار نمی‌کند</string>
     <string name="toast_msg_for_small_window">شما می‌توانید با کوچک‌سازی پنجره‌ای که درحال بازتاباندن شدن است بدون قطع فرآیند بازتاباندن از سایر ویژگی‌های گوشی خود استفاده کنید.</string>
     <string name="toast_nfc_dont_move">گوشی خود را دور نکنید</string>
+    <string name="toast_nfc_same_wifi">تلویزیون و این دستگاه، هر دو را به یک شبکه وصل کنید</string>
     <string name="toast_title_for_small_window">در برنامه \"کوچک‌سازی پنجره\" را انتخاب کنید</string>
     <string name="toast_turn_off_hotspot_before_cast">پیش از بازتاباندن کانون داغ همراه را خاموش کنید</string>
     <string name="today">امروز</string>

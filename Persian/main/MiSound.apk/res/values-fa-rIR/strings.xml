@@ -4,13 +4,14 @@
     <string name="add_sound">افزودن پیش‌تنظیمات سفارشی</string>
     <string name="afternoon">بعد از ظهر</string>
     <string name="am">ق.ظ</string>
+    <string name="app_disable_description_title">این برنامه غیر فعال شود؟</string>
     <string name="app_name">هدفون</string>
     <string name="apply_sound">به‌کارگیری</string>
     <string name="can_you_here">صدا را می‌شنوید؟</string>
     <string name="choose_bluetooth_device">انتخاب دستگاه</string>
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
     <string name="close">بستن</string>
-    <string name="complete_dialog_button">فهمیدم</string>
+    <string name="complete_dialog_button">متوجه‌ام</string>
     <string name="complete_dialog_message">شما با موفقیت این آزمایش را کامل کردید.</string>
     <string name="complete_dialog_title">آزمایش نتایج</string>
     <string name="customization_complete">انجام شد</string>
@@ -32,8 +33,14 @@
     <string name="effect_3dsurround">صدای فراگیر</string>
     <string name="effect_3dsurround_summary">افزایش عمق تولید صدا برای ایرفون‌ها و بلندگوها</string>
     <string name="effect_3dsurround_summary_headphone">افزایش عمق تولید صدا برای ایرفون‌ها</string>
+    <string name="effect_dolby">Dolby Atmos</string>
+    <string name="effect_misound">صدای Xiaomi</string>
+    <string name="effect_none">Original</string>
+    <string name="effect_selection">جلوه‌های صوتی</string>
+    <string name="effect_selection_headset">جلوه‌های ایرفون‌ها</string>
     <string name="effect_virtual_surround">صدای فراگیر مجازی</string>
     <string name="effect_virtual_surround_summary">تقویت عمق صدا برای پخش صدا و تصویر در هدفون (این ویژگی هنگام پخش صدای %.1f کار نمی‌کند)</string>
+    <string name="effect_virtual_surround_summary_spk">تقویت عمق صدا برای پخش صدا و تصویر</string>
     <string name="empty" />
     <string name="end_wireless_transmission">توقف</string>
     <string name="eq_auto">سفارشی</string>
@@ -92,7 +99,7 @@
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">h a</string>
+    <string name="fmt_time_12hour_pm">ah</string>
     <string name="fmt_time_24hour">"H 'o''clock'"</string>
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
@@ -152,14 +159,14 @@
     <string name="midnight">شب</string>
     <string name="misound_effect_setting">صدای Mi</string>
     <string name="miuix_access_state_desc">انتخاب شده</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">بیشتر</string>
     <string name="miuix_appcompat_cancel_description">لغو</string>
     <string name="miuix_appcompat_confirm_description">تأیید</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
-    <string name="miuix_appcompat_deselect_all">لغو انتخاب</string>
+    <string name="miuix_appcompat_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_deselect_all_description">لغو انتخاب همه</string>
     <string name="miuix_appcompat_search_action_mode_cancel">لغو</string>
     <string name="miuix_appcompat_search_input_description">جستجو</string>
@@ -334,6 +341,9 @@
     <string name="not_support_sound_transmission_prompt">توجه</string>
     <string name="now_here">و حالا؟</string>
     <string name="original_sound">پخش صدای اصلی</string>
+    <string name="permission_go_to_settings">تنظیمات</string>
+    <string name="permission_requesr_content">در تنظیمات به این برنامه اجازه اتصال به دستگاه‌های نزدیک را بدهید.</string>
+    <string name="permission_requesr_title">نیازمند مجوز است</string>
     <string name="personal_sound">پخش با تنظیمات به‌کار برده شده</string>
     <string name="pm">ب.ظ</string>
     <string name="retry_test">آغاز دوباره</string>
@@ -360,7 +370,7 @@
     <string name="sound_id_delete_effect_dialog_msg">این صدای شخصی‌سازی شده برای همیشه حذف شود؟</string>
     <string name="sound_id_delete_effect_dialog_positive">حذف</string>
     <string name="sound_id_delete_effect_dialog_title">حذف صدای شخصی‌سازی شده</string>
-    <string name="sound_id_dialog_exit_headset_disconnect">فهمیدم</string>
+    <string name="sound_id_dialog_exit_headset_disconnect">متوجه‌ام</string>
     <string name="sound_id_dialog_headset_disconnect_title">هدفون‌های خود را وصل کنید</string>
     <string name="sound_id_dialog_msg_bt_disconnect">%s را روشن کرده و آن‌ها را نزدیک این دستگاه نگه دارید.</string>
     <string name="sound_id_dialog_msg_wire_headset_disconnect">‏%s را به این دستگاه متصل کنید.</string>
@@ -372,18 +382,13 @@
     <string name="sound_id_function_description">شخصی‌سازی لبه برابرکننده بر اساس تنظیمات برگزیده شما</string>
     <string name="sound_id_function_name">صدای شخصی‌سازی شده</string>
     <string name="sound_id_headset_status">ایرفون‌های کنونی</string>
-    <string name="sound_id_hz_high">"زیر
-%d هرتز"</string>
-    <string name="sound_id_hz_low">"بم
-%d هرتز"</string>
-    <string name="sound_id_hz_media">"متوسط
-%d هرتز"</string>
+    <string name="sound_id_hz">%d هرتز</string>
+    <string name="sound_id_hz_high">زیر %d هرتز</string>
+    <string name="sound_id_hz_low">بم %d هرتز</string>
+    <string name="sound_id_hz_media">متوسط %d هرتز</string>
     <string name="sound_id_music_one_description">آرام | %d ثانیه</string>
-    <string name="sound_id_music_one_title">Rainy city</string>
     <string name="sound_id_music_three_description">خوش‌آهنگ | %d ثانیه</string>
-    <string name="sound_id_music_three_title">Trace</string>
     <string name="sound_id_music_two_description">موزون | %d ثانیه</string>
-    <string name="sound_id_music_two_title">Night fever</string>
     <string name="sound_id_no_effect_msg">از صدای شخصی‌سازی شده استفاده نشود</string>
     <string name="sound_id_notice_headset_change_msg">به نظر می‌رسد شما درحال استفاده از یک جفت ایرفون متفاوت هستید. آزمایش متوقف شد.</string>
     <string name="sound_id_notice_headset_change_msg2">به نظر می‌رسد شما درحال استفاده از یک جفت ایرفون متفاوت هستید. مطمئن شوید این صدای شخصی‌سازی شده با این جفت ایرفون‌ها همخوانی دارد.</string>
@@ -429,6 +434,7 @@
     <string name="sound_transmission_title">میکروفون بی‌سیم</string>
     <string name="spatial_audio">صدای فراگیر</string>
     <string name="spatial_audio_summary">فراگیری و حس فضا را وقتی که صدا از طریق ایرفون ها تجربه کنید</string>
+    <string name="spatial_audio_summary_spk">تجربه شناور شدن و حس بودنِ در فضا هنگام پخش صدا</string>
     <string name="speaker_scenario_resume">بازیابی جلوه‌های اصلی</string>
     <string name="start_test_sound">آغاز آزمایش</string>
     <string name="sunday">یک‌شنبه</string>

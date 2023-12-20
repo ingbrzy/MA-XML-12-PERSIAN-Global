@@ -5,16 +5,16 @@
         <item quantity="one">۱ ساعت پیش</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">۱ ساعت پیش</item>
-        <item quantity="one">۱ ساعت پیش</item>
+        <item quantity="other">%d ساعت پیش</item>
+        <item quantity="one">%d ساعت پیش</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">نیم ساعت پیش</item>
         <item quantity="one">نیم ساعت پیش</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">در ۱ ساعت</item>
-        <item quantity="one">در ۱ ساعت</item>
+        <item quantity="other">تا %d ساعت دیگر</item>
+        <item quantity="one">تا %d ساعت دیگر</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">در نیم ساعت</item>
@@ -25,8 +25,8 @@
         <item quantity="one">بلافاصله</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">در %d دقیقه</item>
-        <item quantity="one">در ۱ دقیقه</item>
+        <item quantity="other">تا %d دقیقه دیگر</item>
+        <item quantity="one">تا %d دقیقه دیگر</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">هم اکنون</item>
@@ -34,19 +34,11 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d دقیقه پیش</item>
-        <item quantity="one">۱ دقیقه پیش</item>
+        <item quantity="one">%d دقیقه پیش</item>
     </plurals>
-    <plurals name="age_label_days">
-        <item quantity="other">%d روز</item>
-        <item quantity="one">%d روز</item>
-    </plurals>
-    <plurals name="age_label_months">
-        <item quantity="other">%d ماه</item>
-        <item quantity="one">%d ماه</item>
-    </plurals>
-    <plurals name="age_label_yrs">
-        <item quantity="other">سال</item>
-        <item quantity="one">سال</item>
+    <plurals name="delete_msg">
+        <item quantity="other">%d مورد حذف شوند؟</item>
+        <item quantity="one">%d مورد حذف شود؟</item>
     </plurals>
     <plurals name="entries">
         <item quantity="other">%d مورد</item>
@@ -76,10 +68,6 @@
         <item quantity="other">هم اکنون</item>
         <item quantity="one">هم اکنون</item>
     </plurals>
-    <plurals name="loan_repayment_detail">
-        <item quantity="other">بازپرداخت دقیق (%d سال)</item>
-        <item quantity="one">بازپرداخت دقیق (%d سال)</item>
-    </plurals>
     <plurals name="loan_repayment_detail_unit">
         <item quantity="other">بازپرداخت دقیق (%d سال)، یوان</item>
         <item quantity="one">بازپرداخت دقیق (%d سال)، یوان</item>
@@ -96,6 +84,10 @@
         <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">۱ دقیقه پیش</item>
     </plurals>
+    <plurals name="select_items">
+        <item quantity="other">%d مورد انتخاب شد</item>
+        <item quantity="one">%d مورد انتخاب شد</item>
+    </plurals>
     <plurals name="tenure_months">
         <item quantity="other">%d ماه</item>
         <item quantity="one">%d ماه</item>
@@ -103,5 +95,29 @@
     <plurals name="tenure_years">
         <item quantity="other">%d سال</item>
         <item quantity="one">%d سال</item>
+    </plurals>
+    <plurals name="unit_data_display_data_b">
+        <item quantity="other">بایت</item>
+        <item quantity="one">بایت</item>
+    </plurals>
+    <plurals name="unit_data_display_data_gb">
+        <item quantity="other">گیگابایت</item>
+        <item quantity="one">گیگابایت</item>
+    </plurals>
+    <plurals name="unit_data_display_data_kb">
+        <item quantity="other">کیلوبایت</item>
+        <item quantity="one">کیلوبایت</item>
+    </plurals>
+    <plurals name="unit_data_display_data_mb">
+        <item quantity="other">مگابایت</item>
+        <item quantity="one">مگابایت</item>
+    </plurals>
+    <plurals name="unit_data_display_data_pb">
+        <item quantity="other">پتابایت</item>
+        <item quantity="one">پتابایت</item>
+    </plurals>
+    <plurals name="unit_data_display_data_tb">
+        <item quantity="other">ترابایت</item>
+        <item quantity="one">ترابایت</item>
     </plurals>
 </resources>

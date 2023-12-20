@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessible_cancel">لغو</string>
+    <string name="accessible_cancel">صرف‌نظر</string>
     <string name="accessible_ellipse">بیضی</string>
     <string name="accessible_irregular">شکل سفارشی</string>
     <string name="accessible_rect">مستطیل</string>
     <string name="actionbar_button_up_description">بازگشت</string>
     <string name="afternoon">بعد از ظهر</string>
     <string name="am">ق.ظ</string>
+    <string name="annotation_open">نمایش ابزارها</string>
+    <string name="annotation_stow">پنهان کردن ابزارها</string>
     <string name="app_name">عکس صفحه</string>
     <string name="asus">Asus</string>
     <string name="asus_phone">Asus</string>
@@ -31,6 +33,10 @@
     <string name="close">بستن</string>
     <string name="confirm_cancel_task_files">ارسال فایل‌ها به %1$s لغو شود؟</string>
     <string name="confirm_cancel_task_images">ارسال تصاویر به %1$s لغو شود؟</string>
+    <string name="copy_dialog_confirm">متوجه‌ام</string>
+    <string name="copy_dialog_content">عکس‌های صفحه به صورت خودکار در حافظه موقت شما افزوده شده و می‌توانند جای‌گذاری شوند. می‌توانید با جستجوی «افزودن موارد به حافظه موقت» در تنظیمات این ویژگی را خاموش کنید.</string>
+    <string name="copy_dialog_title">توجه</string>
+    <string name="copy_success_toast">با موفقیت کپی شد</string>
     <string name="cta_agree_desc">به این برنامه اجازه اتصال به اینترنت و مجوزهای اجباری فهرست شده در بالا را بدهید.</string>
     <string name="cta_btn_agree">پذیرفتن</string>
     <string name="cta_btn_disagree">مخالفت</string>
@@ -95,7 +101,7 @@
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">h a</string>
+    <string name="fmt_time_12hour_pm">ah</string>
     <string name="fmt_time_24hour">"H 'o''clock'"</string>
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
@@ -138,7 +144,7 @@
     <string name="long_screenshot_error">خطایی رخ داد. دوباره تلاش کنید.</string>
     <string name="long_screenshot_guide_text">"برای گرفتن طومار
 عکس ضربه بزنید"</string>
-    <string name="long_screenshot_intercepted_error">عکس صفحه گرفته نشد. دوباره تلاش کنید.</string>
+    <string name="long_screenshot_intercepted_error">یک وقفه رخ داده است. عکس صفحه در گالری ذخیره شد.</string>
     <string name="long_screenshot_out_of_memory_error">تصویر خیلی بزرگ است</string>
     <string name="long_screenshot_processing">درحال پردازش…</string>
     <string name="long_screenshot_processing_description_accessibility">در حال پردازش</string>
@@ -165,14 +171,14 @@
     <string name="mi_pad_5_pro_5g">Xiaomi Pad 5 Pro 5G</string>
     <string name="midnight">شب</string>
     <string name="miuix_access_state_desc">انتخاب شده</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">بیشتر</string>
     <string name="miuix_appcompat_cancel_description">لغو</string>
     <string name="miuix_appcompat_confirm_description">تأیید</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
-    <string name="miuix_appcompat_deselect_all">لغو انتخاب</string>
+    <string name="miuix_appcompat_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_deselect_all_description">لغو انتخاب همه</string>
     <string name="miuix_appcompat_search_action_mode_cancel">لغو</string>
     <string name="miuix_appcompat_search_input_description">جستجو</string>
@@ -243,7 +249,7 @@
     <string name="oppo_phone">OPPO</string>
     <string name="pad_device_model_name">Xiaomi Pad</string>
     <string name="partial_screenshot_edit">ویرایش</string>
-    <string name="partial_screenshot_failed_to_capture_title">این برنامه اجازه گرفتن عکس صفحه را نمی‌دهد</string>
+    <string name="partial_screenshot_failed_to_capture_title">از این صفحه عکس صفحه گرفته نمی‌شود</string>
     <string name="partial_screenshot_failed_to_save_title">ذخیره نشد. حافظه کافی نیست.</string>
     <string name="partial_screenshot_insert_failed">ذخیره نشد</string>
     <string name="partial_screenshot_repaint">آغاز دوباره</string>
@@ -272,6 +278,12 @@
     <string name="photo_font_download_failed_for_notwork">دانلود نشد. به شبکه وصل شده و دوباره تلاش کنید.</string>
     <string name="photo_save_to_msg">در %s ذخیره شد</string>
     <string name="pm">ب.ظ</string>
+    <string name="privacy_mosaic_result_done">اطلاعات خصوصی مسدود شدند</string>
+    <string name="privacy_mosaic_result_fail">اطلاعات خصوصی مسدود نشدند. دوباره تلاش کنید.</string>
+    <string name="privacy_mosaic_result_none">هیچ اطلاعات خصوصی یافت نشد</string>
+    <string name="privacy_mosaic_tip">برای مسدود کردن اطلاعات خصوصی ضربه بزنید</string>
+    <string name="privacy_mosaic_tip_long">از عکس صفحه توماری پشتیبانی نمی‌شود</string>
+    <string name="privacy_mosaic_tip_partial">عکس‌های صفحه تکه‌ای پشتیبانی نمی‌شوند</string>
     <string name="realme">realme</string>
     <string name="realme_phone">realme</string>
     <string name="redmi_10x">Redmi 10X</string>
@@ -321,12 +333,17 @@
     <string name="screen_editor_btn_save">ذخیره</string>
     <string name="screen_editor_btn_shell_off">حذف قاب دستگاه</string>
     <string name="screen_editor_btn_shell_on">افزودن قاب دستگاه</string>
+    <string name="screen_editor_crop">@string/photo_editor_long_crop</string>
     <string name="screen_editor_delete_dialog_msg">این عکس صفحه حذف شود؟</string>
     <string name="screen_editor_delete_dialog_picture_msg">این تصویر حذف شود؟</string>
+    <string name="screen_editor_doodle">@string/photo_editor_doodle</string>
     <string name="screen_editor_finish">انجام شد</string>
+    <string name="screen_editor_mosaic">@string/photo_editor_mosaic</string>
+    <string name="screen_editor_send">@string/operation_send</string>
     <string name="screen_editor_shell_disallowed_with_crop">قاب دستگاه برای تصاویر صفحه بریده شده افوزده نمی‌شود</string>
     <string name="screen_editor_shell_net_error">به شبکه متصل شده تا قاب دستگاه دانلود شود</string>
     <string name="screen_editor_shell_res_downloading">درحال دانلود قاب دستگاه…</string>
+    <string name="screen_editor_text">@string/photo_editor_text</string>
     <string name="screen_save_dialog_btn_cancel">لغو</string>
     <string name="screen_save_dialog_btn_delete">حذف عکس صفحه</string>
     <string name="screen_save_dialog_btn_save">ذخیره در گالری</string>
@@ -345,6 +362,8 @@
     <string name="screen_talkback_shape">شکل</string>
     <string name="screen_talkback_small">ریز</string>
     <string name="screen_talkback_text">متن</string>
+    <string name="screenshot_detected_multiple_template">چندین بنرامه شامل %1$s این عکس صفحه را شناسایی کرده‌اند</string>
+    <string name="screenshot_detected_template">%1$s این عکس صفحه را شناسایی کرد</string>
     <string name="screenshot_edit">ویرایش</string>
     <string name="screenshot_failed_in_landscape_mode">در حالت افقی عکس صفحه طوماری گرفته نمی‌شود</string>
     <string name="screenshot_feedback_txt">بازخورد</string>
@@ -353,6 +372,9 @@
     <string name="screenshot_save">ذخیره</string>
     <string name="screenshot_send">ارسال</string>
     <string name="screenshot_thumbnail">عکس صفحه کوچک</string>
+    <string name="scroll_annotation">پیمایش و حاشیه‌نویسی</string>
+    <string name="scroll_annotation_btn_quit">خروج از حاشیه نویسی</string>
+    <string name="scroll_annotation_quit_dialog_picture_msg">پیش از خروج حاشیه نویسی‌ها ذخیره شوند؟</string>
     <string name="send">ارسال</string>
     <string name="send_files_by">هم‌رسانی فایل‌ها با</string>
     <string name="send_files_to">ارسال موارد به</string>

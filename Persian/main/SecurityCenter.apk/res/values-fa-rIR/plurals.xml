@@ -5,16 +5,16 @@
         <item quantity="one">۱ ساعت پیش</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">۱ ساعت پیش</item>
-        <item quantity="one">۱ ساعت پیش</item>
+        <item quantity="other">%d ساعت پیش</item>
+        <item quantity="one">%d ساعت پیش</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">نیم ساعت پیش</item>
         <item quantity="one">نیم ساعت پیش</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">در ۱ ساعت</item>
-        <item quantity="one">در ۱ ساعت</item>
+        <item quantity="other">تا %d ساعت دیگر</item>
+        <item quantity="one">تا %d ساعت دیگر</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">در نیم ساعت</item>
@@ -25,8 +25,8 @@
         <item quantity="one">بلافاصله</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">در %d دقیقه</item>
-        <item quantity="one">در ۱ دقیقه</item>
+        <item quantity="other">تا %d دقیقه دیگر</item>
+        <item quantity="one">تا %d دقیقه دیگر</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">هم اکنون</item>
@@ -34,11 +34,15 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d دقیقه پیش</item>
-        <item quantity="one">۱ دقیقه پیش</item>
+        <item quantity="one">%d دقیقه پیش</item>
     </plurals>
     <plurals name="add_game_notification_title">
         <item quantity="other">%d بازی افزوده شد</item>
         <item quantity="one">%d بازی افزوده شد</item>
+    </plurals>
+    <plurals name="added_apps_count">
+        <item quantity="other">%d برنامه افزوده شدند</item>
+        <item quantity="one">%d برنامه افزوده شد</item>
     </plurals>
     <plurals name="app_behavior_dashboard_title_desc">
         <item quantity="other">%d برنامه</item>
@@ -47,22 +51,6 @@
     <plurals name="app_behavior_dashboard_total_usage_item">
         <item quantity="other">%d برنامه</item>
         <item quantity="one">%d برنامه</item>
-    </plurals>
-    <plurals name="app_behavior_desc_allow">
-        <item quantity="other">%3$d بار بین %1$s و %2$s مجاز شد</item>
-        <item quantity="one">%3$d بار بین %1$s و %2$s مجاز شد</item>
-    </plurals>
-    <plurals name="app_behavior_desc_allow_minute">
-        <item quantity="other">در %1$s %2$d بار مجاز شد</item>
-        <item quantity="one">در %1$s %2$d بار مجاز شد</item>
-    </plurals>
-    <plurals name="app_behavior_desc_deny">
-        <item quantity="other">%3$d بار بین %1$s و %2$s محدود شد</item>
-        <item quantity="one">%3$d بار بین %1$s و %2$s محدود شد</item>
-    </plurals>
-    <plurals name="app_behavior_desc_deny_minute">
-        <item quantity="other">در %1$s %2$d بار رد شد</item>
-        <item quantity="one">در %1$s %2$d بار رد شد</item>
     </plurals>
     <plurals name="app_behavior_desc_duration_usage">
         <item quantity="other">بین %1$s و %2$s %3$d بار مجاز شد</item>
@@ -76,41 +64,9 @@
         <item quantity="other">برای %1$d دقیقه تا %2$s استفاده می‌شود</item>
         <item quantity="one">برای %1$d دقیقه تا %2$s استفاده می‌شود</item>
     </plurals>
-    <plurals name="app_behavior_desc_virtual">
-        <item quantity="other">%3$d پیام خالی بین %1$s و %2$s باز گردانده شد</item>
-        <item quantity="one">%3$d پیام خالی بین %1$s و %2$s باز گردانده شد</item>
-    </plurals>
-    <plurals name="app_behavior_desc_virtual_minute">
-        <item quantity="other">در %1$s %2$d پیام خالی باز گردانده شد</item>
-        <item quantity="one">در %1$s %2$d پیام خالی باز گردانده شد</item>
-    </plurals>
-    <plurals name="app_behavior_notification_audio_more">
-        <item quantity="other">%2$d برنامه شامل %1$1s درحال ضبط صدا هستند</item>
-        <item quantity="one">%2$d برنامه شامل %1$1s درحال ضبط صداست</item>
-    </plurals>
-    <plurals name="app_behavior_notification_camera_more">
-        <item quantity="other">%2$d برنامه شامل %1$1s درحال عکس برداری هستد</item>
-        <item quantity="one">%2$d برنامه شامل %1$1s درحال عکس برداری است</item>
-    </plurals>
-    <plurals name="app_behavior_notification_location_more">
-        <item quantity="other">%2$d برنامه شامل %1$1s درحال دسترسی به موقعیت مکانی شما هستند</item>
-        <item quantity="one">%2$d برنامه شامل %1$1s درحال دسترسی به موقعیت مکانی شماست</item>
-    </plurals>
-    <plurals name="app_behavior_privacy_manager_off">
-        <item quantity="other">شما درباره اقدامات حساس %1$d برنامه آگاه نخواهید شد</item>
-        <item quantity="one">شما درباره اقدامات حساس %1$d برنامه آگاه نخواهید شد</item>
-    </plurals>
-    <plurals name="app_behavior_privacy_manager_on">
-        <item quantity="other">شما درباره اقدامات حساس %1$d برنامه آگاه خواهید شد</item>
-        <item quantity="one">شما درباره اقدامات حساس %1$d برنامه آگاه خواهید شد</item>
-    </plurals>
-    <plurals name="app_behavior_wakepath_multiple">
-        <item quantity="other">%1$1s %2$d برنامه را راه‌اندازی کرد</item>
-        <item quantity="one">%1$1s %2$d برنامه را راه‌اندازی کرد</item>
-    </plurals>
-    <plurals name="app_behavior_wakepath_multiple_single">
-        <item quantity="other">این برنامه %1$d برنامه دیگر را راه‌اندازی کرد</item>
-        <item quantity="one">این برنامه %1$d برنامه دیگر را راه‌اندازی کرد</item>
+    <plurals name="app_behavior_record_close_content_text">
+        <item quantity="other">پیشینه‌های رفتار برنامه‌ها در این دستگاه به مدت %d ذخیره خواهند شد. خاموش کردن این ویژگی همه پیشینه‌های رفتار برنامه‌ها را حذف کرده و پیشنهاد نمی‌شود.</item>
+        <item quantity="one">پیشینه‌های رفتار برنامه‌ها در این دستگاه به مدت %d ذخیره خواهند شد. خاموش کردن این ویژگی همه پیشینه‌های رفتار برنامه‌ها را حذف کرده و پیشنهاد نمی‌شود.</item>
     </plurals>
     <plurals name="app_manager_permission_summary_accept">
         <item quantity="other">%d مجوز داده شد</item>
@@ -127,6 +83,10 @@
     <plurals name="app_manager_uninstall_notify_summary">
         <item quantity="other">حذف %d برنامه</item>
         <item quantity="one">حذف %d برنامه</item>
+    </plurals>
+    <plurals name="app_manager_updater_title">
+        <item quantity="other">به‌روزرسانی %d برنامه</item>
+        <item quantity="one">به‌روزرسانی %d برنامه</item>
     </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">%d روز پیش استفاده شده</item>
@@ -196,6 +156,14 @@
         <item quantity="other">امتیاز کارایی دستگاه شما زیر %d است. اکنون بهینه‌سازی شود؟</item>
         <item quantity="one">امتیاز کارایی دستگاه شما زیر %d است. اکنون بهینه‌سازی شود؟</item>
     </plurals>
+    <plurals name="extreme_mode_runtime_hour">
+        <item quantity="other">%s ساعت</item>
+        <item quantity="one">%s ساعت</item>
+    </plurals>
+    <plurals name="extreme_mode_runtime_minute">
+        <item quantity="other">%s دقیقه</item>
+        <item quantity="one">%s دقیقه</item>
+    </plurals>
     <plurals name="find_applications">
         <item quantity="other">جستجو میان %d برنامه</item>
         <item quantity="one">جستجو میان %d برنامه</item>
@@ -236,6 +204,14 @@
         <item quantity="other">%1$s</item>
         <item quantity="one">%1$s</item>
     </plurals>
+    <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">Your Game Turbo membership will expire in %d days.</item>
+        <item quantity="one">Your Game Turbo membership will expire in %d day.</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">عضویت افزاینده سرعت بازی شما تا %d روز دیگر به پایان می‌رسد. برای بهره‌مندی از بازی یک‌پارچه عضویت خود را تمدید کنید.</item>
+        <item quantity="one">عضویت افزاینده سرعت بازی شما تا %d روز دیگر به پایان می‌رسد. برای بهره‌مندی از بازی یک‌پارچه عضویت خود را تمدید کنید.</item>
+    </plurals>
     <plurals name="gb_ad_people_play">
         <item quantity="other">%1$d نفر درحال بازی کردن هستند</item>
         <item quantity="one">%1$d نفر درحال بازی کردن است</item>
@@ -273,8 +249,16 @@
         <item quantity="one">%d دقیقه</item>
     </plurals>
     <plurals name="gb_toolbox_guide_known">
-        <item quantity="other">فهمیدم (%dثانیه)</item>
-        <item quantity="one">فهمیدم (%dثانیه)</item>
+        <item quantity="other">متوجه‌ام (%dثانیه)</item>
+        <item quantity="one">متوجه‌ام (%dثانیه)</item>
+    </plurals>
+    <plurals name="gb_vision_enhance_desc_detail">
+        <item quantity="other">"توجه:
+·هنگام روشن بودن بهینه‌ساز باتری و یا داغ شدن دستگاه، نمایش‌های بهینه شده در دسترس نخواهند بود.
+نرخ فریم هوشمند بهترین نتایج را هنگامی که بازی شما روی نمایش حداقل %d فریم بر ثانیه تنظیم شده باشد نمایش خواهد داد."</item>
+        <item quantity="one">"توجه:
+·هنگام روشن بودن بهینه‌ساز باتری و یا داغ شدن دستگاه، نمایش‌های بهینه شده در دسترس نخواهند بود.
+نرخ فریم هوشمند بهترین نتایج را هنگامی که بازی شما روی نمایش حداقل %d فریم بر ثانیه تنظیم شده باشد نمایش خواهد داد."</item>
     </plurals>
     <plurals name="gb_voice_changer_toast_tips_window_bubble">
         <item quantity="other">"اکنون تغییر دهنده صدا را امتحان کنید
@@ -336,17 +320,25 @@
         <item quantity="other">%d برنامه مجاز به راه‌اندازی خودکار نیست</item>
         <item quantity="one">%d برنامه مجاز به راه‌اندازی خودکار نیست</item>
     </plurals>
+    <plurals name="hints_auto_start_disable_title_global">
+        <item quantity="other">%d برنامه مجاز به آغاز در پس‌زمینه نیستند</item>
+        <item quantity="one">%d برنامه مجاز به آغاز در پس‌زمینه نیست</item>
+    </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d برنامه می‌توانند راه‌اندازی خودکار شوند</item>
         <item quantity="one">%d برنامه می‌تواند راه‌اندازی خودکار شود</item>
     </plurals>
+    <plurals name="hints_auto_start_enable_title_global">
+        <item quantity="other">%d برنامه می‌توانند در پس‌زمینه آغاز شوند</item>
+        <item quantity="one">%d برنامه می‌تواند در پس‌زمینه آغاز شود</item>
+    </plurals>
     <plurals name="hints_get_root_disable_title">
-        <item quantity="other">%d برنامه دسترسی ریشه‌ای ندارند</item>
-        <item quantity="one">%d برنامه دسترسی ریشه‌ای ندارد</item>
+        <item quantity="other">%d برنامه دسترسی روت ندارند</item>
+        <item quantity="one">%d برنامه دسترسی روت ندارد</item>
     </plurals>
     <plurals name="hints_get_root_enable_title">
-        <item quantity="other">%d برنامه دسترسی ریشه‌ای دارند</item>
-        <item quantity="one">%d برنامه به روت دسترسی دارد</item>
+        <item quantity="other">%d برنامه دسترسی روت دارند</item>
+        <item quantity="one">%d برنامه دسترسی روت دارد</item>
     </plurals>
     <plurals name="hints_handle_item_text_risk_number">
         <item quantity="other">%d خطر،</item>
@@ -465,12 +457,16 @@
         <item quantity="one">حداقل %d کاراکتر وارد کنید</item>
     </plurals>
     <plurals name="net_booster_expire_notification_tip">
-        <item quantity="other">%d روز مانده تا دوره افزایش سرعت شبکه به پایان برسد. دوره را تمدید کرده تا از مشکلات سرعت شبکه پیشگیری شود.</item>
-        <item quantity="one">%d روز مانده تا دوره افزایش سرعت شبکه به پایان برسد. دوره را تمدید کرده تا از مشکلات سرعت شبکه پیشگیری شود.</item>
+        <item quantity="other">دوره افزایش سرعت شبکه شما تا %d روز دیگر به پایان می‌رسد. ممکن است تأخیر در شبکه را تجربه کنید. دوره تمدید شود؟</item>
+        <item quantity="one">دوره افزایش سرعت شبکه شما تا %d روز دیگر به پایان می‌رسد. ممکن است تأخیر در شبکه را تجربه کنید. دوره تمدید شود؟</item>
     </plurals>
     <plurals name="network_restrict_count">
         <item quantity="other">"دسترسی به شبکه برای &lt;font color='#ff0000'>%d&lt;/font> برنامه محدود شد"</item>
         <item quantity="one">"دسترسی به شبکه برای &lt;font color='#ff0000'>%d&lt;/font> برنامه محدود شد"</item>
+    </plurals>
+    <plurals name="not_added_apps_count">
+        <item quantity="other">%d برنامه افزوده نشدند</item>
+        <item quantity="one">%d برنامه افزوده نشد</item>
     </plurals>
     <plurals name="notification_antivirus_title">
         <item quantity="other">%d روز بدون اسکن امنیتی</item>
@@ -540,6 +536,10 @@
         <item quantity="other">%d برنامه</item>
         <item quantity="one">%d برنامه</item>
     </plurals>
+    <plurals name="opt_antivirus_scan_multi_antivirus_notification_title">
+        <item quantity="other">%2$d برنامه شامل %1$s ممکن است مخرب باشند</item>
+        <item quantity="one">%2$d برنامه شامل %1$s ممکن است مخرب باشد</item>
+    </plurals>
     <plurals name="optimize_result_button_add_score">
         <item quantity="other">+%d</item>
         <item quantity="one">+%d</item>
@@ -555,6 +555,14 @@
     <plurals name="pc_battery_history_minute">
         <item quantity="other">" دقیقه"</item>
         <item quantity="one">" دقیقه"</item>
+    </plurals>
+    <plurals name="pc_can_be_optimize_numbers">
+        <item quantity="other">%d مورد</item>
+        <item quantity="one">%d مورد</item>
+    </plurals>
+    <plurals name="pc_extreme_mode_count_down_title">
+        <item quantity="other">باتری دستگاه شما خالی شده است. تا %1$d ثانیه دیگر وارد حالت خواب زمستانی می‌شود.</item>
+        <item quantity="one">باتری دستگاه شما خالی شده است. تا %1$d ثانیه دیگر وارد حالت خواب زمستانی می‌شود.</item>
     </plurals>
     <plurals name="pc_main_power_center_battery_day">
         <item quantity="other">%s روز</item>
@@ -620,6 +628,14 @@
         <item quantity="other">دستگاه شما %d ثانیه دیگر خاموش خواهد شد</item>
         <item quantity="one">دستگاه شما %d ثانیه دیگر خاموش خواهد شد</item>
     </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s ساعت</item>
+        <item quantity="one">%s ساعت</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s دقیقه</item>
+        <item quantity="one">%s دقیقه</item>
+    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">زمان</item>
         <item quantity="one">زمان</item>
@@ -647,6 +663,10 @@
     <plurals name="power_center_battery_minute">
         <item quantity="other">"%d دقیقه "</item>
         <item quantity="one">"%d دقیقه "</item>
+    </plurals>
+    <plurals name="power_center_battery_optimization">
+        <item quantity="other">بهینه‌سازی مصرف باتری در %d موقعیت</item>
+        <item quantity="one">بهینه‌سازی مصرف باتری در %d موقعیت</item>
     </plurals>
     <plurals name="power_center_battery_problem">
         <item quantity="other">اصلاح %d مشکل مصرف باتری</item>
@@ -700,9 +720,17 @@
         <item quantity="other">%s دقیقه دیگر مانده است</item>
         <item quantity="one">%s دقیقه دیگر مانده است</item>
     </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">%s دقیقه از مدت استفاده از نمایشگر باقی مانده است</item>
+        <item quantity="one">%s دقیقه از مدت استفاده از نمایشگر باقی مانده است</item>
+    </plurals>
+    <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">روشن کرده تا %s دقیقه به مدت استفاده از نمایشگر افزوده شود</item>
+        <item quantity="one">روشن کرده تا %s دقیقه به مدت استفاده از نمایشگر افزوده شود</item>
+    </plurals>
     <plurals name="power_off_warning_button_ok_time">
-        <item quantity="other">فهمیدم (%d ثانیه)</item>
-        <item quantity="one">فهمیدم (%d ثانیه)</item>
+        <item quantity="other">متوجه‌ام (%d ثانیه)</item>
+        <item quantity="one">متوجه‌ام (%d ثانیه)</item>
     </plurals>
     <plurals name="power_off_warning_notification_message">
         <item quantity="other">دستگاه شما تا %d ثانیه دیگر خاموش خواهد شد. شارژر را متصل کنید.</item>
@@ -844,9 +872,17 @@
         <item quantity="other">%d شماره</item>
         <item quantity="one">%d شماره</item>
     </plurals>
+    <plurals name="storage_compact_warning">
+        <item quantity="other">درحال ویرایش %1$d مجوز</item>
+        <item quantity="one">درحال ویرایش %1$d مجوز</item>
+    </plurals>
     <plurals name="storage_fbo_number_unit">
         <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> تکه</item>
         <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> تکه</item>
+    </plurals>
+    <plurals name="storage_ufs_number">
+        <item quantity="other">&lt;big>&lt;big>%s&lt;/big>&lt;/big> گیگابایت</item>
+        <item quantity="one">&lt;big>&lt;big>%s&lt;/big>&lt;/big> گیگابایت</item>
     </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">به‌روزرسانی برای %d برنامه در دسترس است.</item>
@@ -905,6 +941,10 @@
     <plurals name="virus_clear_dialog_content">
         <item quantity="other">%d برنامه انتخاب شده پاک‌سازی شود؟</item>
         <item quantity="one">%d برنامه انتخاب شده پاک‌سازی شود؟</item>
+    </plurals>
+    <plurals name="wakepath_allow_start_app_count">
+        <item quantity="other">%s برنامه</item>
+        <item quantity="one">%s برنامه</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
         <item quantity="other">برنامه‌های خطرناک: %d</item>

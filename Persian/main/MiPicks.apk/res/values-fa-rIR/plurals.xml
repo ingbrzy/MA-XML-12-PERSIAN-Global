@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">۱ ساعت پیش</item>
+        <item quantity="one">۱ ساعت پیش</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d ساعت پیش</item>
+        <item quantity="one">%d ساعت پیش</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">نیم ساعت پیش</item>
+        <item quantity="one">نیم ساعت پیش</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">تا %d ساعت دیگر</item>
+        <item quantity="one">تا %d ساعت دیگر</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">در نیم ساعت</item>
+        <item quantity="one">در نیم ساعت</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">بلافاصله</item>
+        <item quantity="one">بلافاصله</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">تا %d دقیقه دیگر</item>
+        <item quantity="one">تا %d دقیقه دیگر</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">هم اکنون</item>
+        <item quantity="one">هم اکنون</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d دقیقه پیش</item>
+        <item quantity="one">%d دقیقه پیش</item>
+    </plurals>
+    <plurals name="age_restriction">
+        <item quantity="other">%1$d+</item>
+        <item quantity="one">مناسب برای %1$d+</item>
+    </plurals>
+    <plurals name="app_detail_download_count">
+        <item quantity="other">%1$s دانلود</item>
+        <item quantity="one">%1$s دانلود</item>
+    </plurals>
+    <plurals name="app_detail_sub_count">
+        <item quantity="other">%1$s پیش‌سفارش</item>
+        <item quantity="one">%1$s پیش‌سفارش</item>
+    </plurals>
+    <plurals name="app_selected_recall_dialog">
+        <item quantity="other">%1$d برنامه انتخاب شد</item>
+        <item quantity="one">%1$d برنامه انتخاب شد</item>
+    </plurals>
+    <plurals name="click_to_use_debug_mode">
+        <item quantity="other">در %1$d گام به حالت عیب‌یابی تعویض کنید</item>
+        <item quantity="one">در %1$d گام به حالت عیب‌یابی تعویض کنید</item>
+    </plurals>
+    <plurals name="cloud_game_little_time_desc">
+        <item quantity="other">شما %d دقیقه دیگر زمان برای بازی دارید. یک گذر ابری خریده تا بدون قطعی بازی کنید.</item>
+        <item quantity="one">شما %d دقیقه دیگر زمان برای بازی دارید. یک گذر ابری خریده تا بدون قطعی بازی کنید.</item>
+    </plurals>
+    <plurals name="cloud_game_prioritize_queue">
+        <item quantity="other">در حال استفاده از گذر %d روزه شما برای دسترسی به تقدم در نوبت</item>
+        <item quantity="one">در حال استفاده از گذر %d روزه شما برای دسترسی به تقدم در نوبت</item>
+    </plurals>
+    <plurals name="cloud_game_queue_info_first">
+        <item quantity="other">%d نفر جلوتر از شما هستند</item>
+        <item quantity="one">%d نفر جلوتر از شما است</item>
+    </plurals>
+    <plurals name="cloud_game_queue_info_second">
+        <item quantity="other">≈%d دقیقه باقی مانده</item>
+        <item quantity="one">≈%d دقیقه باقی مانده</item>
+    </plurals>
+    <plurals name="cloud_game_toast_time_left">
+        <item quantity="other">%d دقیقه از بازی کردن باقی مانده است</item>
+        <item quantity="one">%d دقیقه از بازی کردن باقی مانده است</item>
+    </plurals>
+    <plurals name="collapse_update_apps_hint_v1">
+        <item quantity="other">برای نمایش همه %1$d برنامه ضربه بزنید</item>
+        <item quantity="one">برای نمایش همه %1$d برنامه ضربه بزنید</item>
+    </plurals>
+    <plurals name="comment_push_merged_message_desc_multiple">
+        <item quantity="other">از %1$d نفر، شامل @%2$s و @%3$s</item>
+        <item quantity="one">از %1$d نفر، شامل @%2$s و @%3$s</item>
+    </plurals>
+    <plurals name="comment_push_merged_message_title">
+        <item quantity="other">شما %1$d پیام نخوانده دارید</item>
+        <item quantity="one">شما %1$d پیام نخوانده دارید</item>
+    </plurals>
+    <plurals name="comment_score_count">
+        <item quantity="other">%1$s امتیازدهی</item>
+        <item quantity="one">%1$s امتیازدهی</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%1$s روز</item>
+        <item quantity="one">%1$s روز</item>
+    </plurals>
+    <plurals name="delete_download_history_confirm">
+        <item quantity="other">%1$s مورد انتخاب شده حذف شوند؟</item>
+        <item quantity="one">%1$s مورد انتخاب شده حذف شود؟</item>
+    </plurals>
+    <plurals name="detail_comment_comment_limit_5">
+        <item quantity="other">نظرات باید حداقل حاوی %1$d نویسه باشند</item>
+        <item quantity="one">نظرات باید حداقل حاوی %1$d نویسه باشند</item>
+    </plurals>
+    <plurals name="detail_comment_tip_max_num">
+        <item quantity="other">نظرات می‌توانند دارای حداکثر %1$d نویسه باشند</item>
+        <item quantity="one">نظرات می‌توانند دارای حداکثر %1$d نویسه باشند</item>
+    </plurals>
+    <plurals name="dialog_title_uninstall_multiple_app_new">
+        <item quantity="other">%1$d برنامه شامل %2$s حذف شوند؟</item>
+        <item quantity="one">%1$d برنامه شامل %2$s حذف شود؟</item>
+    </plurals>
+    <plurals name="download_list_delete_all_confirm_message">
+        <item quantity="other">%1$d دانلود شامل %2$s از نوبت دانلود حذف شوند؟</item>
+        <item quantity="one">%1$d دانلود شامل %2$s از نوبت دانلود حذف شود؟</item>
+    </plurals>
+    <plurals name="game_sub_list_online_sub_count">
+        <item quantity="other">%s پیش‌سفارش</item>
+        <item quantity="one">%s پیش‌سفارش</item>
+    </plurals>
+    <plurals name="guide_recommend_serval_apps_selected">
+        <item quantity="other">%1$d برنامه انتخاب شدند</item>
+        <item quantity="one">%1$d برنامه انتخاب شد</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">نیم ساعت پیش</item>
+        <item quantity="one">نیم ساعت پیش</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">در ۱ ساعت</item>
+        <item quantity="one">در ۱ ساعت</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">در نیم ساعت</item>
+        <item quantity="one">در نیم ساعت</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">بلافاصله</item>
+        <item quantity="one">بلافاصله</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">در %d دقیقه</item>
+        <item quantity="one">در ۱ دقیقه</item>
+    </plurals>
+    <plurals name="install_all_description">
+        <item quantity="other">در هر صورت %1$s برنامه شامل %2$s نصب شوند؟</item>
+        <item quantity="one">در هر صورت %1$s برنامه شامل %2$s نصب شود؟</item>
+    </plurals>
+    <plurals name="install_on_data_description">
+        <item quantity="other">دانلود برنامه‌ها با استفاده از اینترنت همراه ممکن است هزینه‌های اضافی ایجاد کند. در هر صورت %1$s برنامه شامل %2$s دانلود شوند؟</item>
+        <item quantity="one">دانلود برنامه‌ها با استفاده از اینترنت همراه ممکن است هزینه‌های اضافی ایجاد کند. در هر صورت %1$s برنامه شامل %2$s دانلود شود؟</item>
+    </plurals>
+    <plurals name="install_on_metered_wifi_description">
+        <item quantity="other">شما به یک کانون داغ Wi-Fi متصل هستید. دانلود برنامه‌ها ممکن است برای دستگاهی که به آن متصل هستید هزینه‌های اضافی ایجاد کند. در هر صورت %1$s برنامه شامل %2$s دانلود شوند؟</item>
+        <item quantity="one">شما به یک کانون داغ Wi-Fi متصل هستید. دانلود برنامه‌ها ممکن است برای دستگاهی که به آن متصل هستید هزینه‌های اضافی ایجاد کند. در هر صورت %1$s برنامه شامل %2$s دانلود شود؟</item>
+    </plurals>
+    <plurals name="items_selected">
+        <item quantity="other">%1$sمورد انتخاب شد</item>
+        <item quantity="one">%1$sمورد انتخاب شد</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">هم اکنون</item>
+        <item quantity="one">هم اکنون</item>
+    </plurals>
+    <plurals name="mi_protect_dialog_manual_inspect_desc">
+        <item quantity="other">ما %d آزمایش انطباق دستی را روی محبوب‌ترین برنامه‌ها انجام می‌دهیم</item>
+        <item quantity="one">ما %d آزمایش انطباق دستی را روی محبوب‌ترین برنامه‌ها انجام می‌دهیم</item>
+    </plurals>
+    <plurals name="mine_uninstall_desc">
+        <item quantity="other">%1$d برنامه به مدت %2$d روز استفاده نشده‌اند</item>
+        <item quantity="one">%1$d برنامه به مدت %2$d روز استفاده است</item>
+    </plurals>
+    <plurals name="mini_card_gp_num_reviews">
+        <item quantity="other">%s نظر</item>
+        <item quantity="one">%s نظر</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d مورد انتخاب شد</item>
+        <item quantity="one">%d مورد انتخاب شد</item>
+    </plurals>
+    <plurals name="native_install_count">
+        <item quantity="other">%s دانلود</item>
+        <item quantity="one">%s دانلود</item>
+    </plurals>
+    <plurals name="notif_apps_has_new_update">
+        <item quantity="other">می‌توانید &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%d&lt;/xliff:g>&lt;/font> برنامه را به‌روز کنید</item>
+        <item quantity="one">می‌توانید &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%d&lt;/xliff:g>&lt;/font> برنامه را به‌روز کنید</item>
+    </plurals>
+    <plurals name="notif_auto_update_title">
+        <item quantity="other">%1$d برنامه از طریق Wi-Fi به‌روز شدند</item>
+        <item quantity="one">%1$d برنامه از طریق Wi-Fi به‌روز شد</item>
+    </plurals>
+    <plurals name="notif_has_new_update_test1">
+        <item quantity="other">&lt;font color=#ff5f32>&lt;xliff:g id=user_percent>%1$s&lt;/xliff:g>&lt;/font> از کاربران تاکنون این &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%2$d&lt;/xliff:g>&lt;/font> برنامه را به‌روز کرده‌اند</item>
+        <item quantity="one">&lt;font color=#ff5f32>&lt;xliff:g id=user_percent>%1$s&lt;/xliff:g>&lt;/font> از کاربران تاکنون این &lt;font color=#ff5f32>&lt;xliff:g id=app_count>%2$d&lt;/xliff:g>&lt;/font> برنامه را به‌روز کرده‌اند</item>
+    </plurals>
+    <plurals name="notification_installing">
+        <item quantity="other">درحال نصب %1$s برنامه</item>
+        <item quantity="one">درحال نصب %1$s برنامه</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d دقیقه پیش</item>
+        <item quantity="one">۱ دقیقه پیش</item>
+    </plurals>
+    <plurals name="text_points">
+        <item quantity="other">%1$3d سکه‌</item>
+        <item quantity="one">%1$3d سکه</item>
+    </plurals>
+    <plurals name="today_voted_text_bottom">
+        <item quantity="other">رای‌گیری بسته است. %1$d نفر رای دادند.</item>
+        <item quantity="one">رای‌گیری بسته است. %1$d نفر رای داد.</item>
+    </plurals>
+    <plurals name="today_voting_text_bottom_1">
+        <item quantity="other">"%1$d نفر رای دادند. "</item>
+        <item quantity="one">"%1$d نفر رای داد. "</item>
+    </plurals>
+    <plurals name="today_voting_text_bottom_2">
+        <item quantity="other">نتایج تا %1$d ساعت دیگر اعلام می‌شوند.</item>
+        <item quantity="one">نتایج تا %1$d ساعت دیگر اعلام می‌شوند.</item>
+    </plurals>
+    <plurals name="uninstall_all_v1">
+        <item quantity="other">%1$s برنامه حذف شوند؟</item>
+        <item quantity="one">%1$s برنامه حذف شود؟</item>
+    </plurals>
+    <plurals name="update_notification_bubble_text">
+        <item quantity="other">%1$d به‌روزرسانی</item>
+        <item quantity="one">%1$d به‌روزرسانی</item>
+    </plurals>
+    <plurals name="update_on_data_description">
+        <item quantity="other">به‌روزرسانی برنامه‌ها با استفاده از اینترنت همراه ممکن است هزینه‌های اضافی ایجاد کند. در هر صورت %1$s برنامه شامل %2$s به‌روز شوند؟</item>
+        <item quantity="one">به‌روزرسانی برنامه‌ها با استفاده از اینترنت همراه ممکن است هزینه‌های اضافی ایجاد کند. در هر صورت %1$s برنامه شامل %2$s به‌روز شود؟</item>
+    </plurals>
+    <plurals name="update_on_metered_wifi_description">
+        <item quantity="other">شما به یک کانون داغ Wi-Fi متصل هستید. به‌روزرسانی برنامه‌ها ممکن است برای دستگاهی که به آن متصل هستید هزینه‌های اضافی ایجاد کند. در هر صورت %1$s برنامه شامل %2$s به‌روز شوند؟</item>
+        <item quantity="one">شما به یک کانون داغ Wi-Fi متصل هستید. به‌روزرسانی برنامه‌ها ممکن است برای دستگاهی که به آن متصل هستید هزینه‌های اضافی ایجاد کند. در هر صورت %1$s برنامه شامل %2$s به‌روز شود؟</item>
+    </plurals>
+    <plurals name="update_time_relative_to_today">
+        <item quantity="other">%1$d روز پیش</item>
+        <item quantity="one">%1$d روز پیش</item>
+    </plurals>
+    <plurals name="upgrade_all_description">
+        <item quantity="other">%1$s برنامه شامل %2$s به‌روز شوند؟</item>
+        <item quantity="one">%1$s برنامه شامل %2$s به‌روز شود؟</item>
+    </plurals>
+</resources>

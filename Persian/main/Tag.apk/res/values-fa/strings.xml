@@ -4,6 +4,13 @@
     <string name="action_text">ارسال متن به %s</string>
     <string name="app_name">برچسب‌ها</string>
     <string name="button_done">تمام</string>
+    <string name="call_notification_answer_action">پاسخ دادن</string>
+    <string name="call_notification_answer_video_action">ویدیو</string>
+    <string name="call_notification_decline_action">رد کردن</string>
+    <string name="call_notification_hang_up_action">قطع تماس</string>
+    <string name="call_notification_incoming_text">تماس ورودی</string>
+    <string name="call_notification_ongoing_text">تماس درحال انجام</string>
+    <string name="call_notification_screening_text">درحال غربال کردن تماس ورودی</string>
     <string name="call_phone_permission_denied">این برنامه برای برقراری تماس به مجوز تلفن نیاز دارد. می‌توانید در «تنظیمات» مجوز «نشان‌گذاری» را مدیریت کنید.</string>
     <string name="empty_tag_prompt">این نشان خالی است.</string>
     <string name="external_storage_permission_denied">این برنامه برای دسترسی به فایل‌ها، باید به مجوز «فضای ذخیره‌سازی خارجی» دسترسی پیدا کند. می‌توانید مجوز «نشان‌گذاری» را در «تنظیمات» مدیریت کنید</string>

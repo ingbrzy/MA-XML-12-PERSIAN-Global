@@ -42,6 +42,8 @@
     <string name="legacy_title">‏VPN متصل است</string>
     <string name="open_app">باز کردن برنامه</string>
     <string name="prompt">درخواست اتصال</string>
+    <string name="sanitized_vpn_label">%1$s ( %2$s)</string>
+    <string name="sanitized_vpn_label_with_ellipsis">%1$s… ( %2$s)</string>
     <string name="search_menu_title">جستجو</string>
     <string name="session">جلسه:</string>
     <string name="status_bar_notification_info_overflow">999+</string>

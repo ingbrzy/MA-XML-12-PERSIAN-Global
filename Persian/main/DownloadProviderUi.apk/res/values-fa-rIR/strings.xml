@@ -117,7 +117,7 @@
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">h a</string>
+    <string name="fmt_time_12hour_pm">ah</string>
     <string name="fmt_time_24hour">"H 'o''clock'"</string>
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
@@ -144,6 +144,9 @@
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
     <string name="gigabyteShort_per_seconds">گ.ب/ث</string>
+    <string name="icon_create_failure">میان‌بر افزوده نشد</string>
+    <string name="icon_create_success">میان‌بر با موفقیت افزوده شد</string>
+    <string name="icon_restore">ضربه زده تا برای دانلودها یک میان‌بر صفحه اصلی افزوده شود</string>
     <string name="info_download_progress">نمایش روند دانلود</string>
     <string name="info_flow_show">منابع پیشنهاد شده</string>
     <string name="insufficient_space">حافظه کافی نیست</string>
@@ -166,14 +169,14 @@
     <string name="midnight">شب</string>
     <string name="missing_title">&lt;نامشخص></string>
     <string name="miuix_access_state_desc">انتخاب شده</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">بیشتر</string>
     <string name="miuix_appcompat_cancel_description">لغو</string>
     <string name="miuix_appcompat_confirm_description">تأیید</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
-    <string name="miuix_appcompat_deselect_all">لغو انتخاب</string>
+    <string name="miuix_appcompat_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_deselect_all_description">لغو انتخاب همه</string>
     <string name="miuix_appcompat_search_action_mode_cancel">لغو</string>
     <string name="miuix_appcompat_search_input_description">جستجو</string>
@@ -251,6 +254,7 @@
     <string name="preferences_title">تنظیمات</string>
     <string name="privacy_agree_dialog_msg">&lt;Data>به دانلودها خوش آمدید! شما با استفاده از این برنامه می‌توانید فایل‌ها را دانلود کنید.&lt;BR>دانلودها برای ارائه خدماتی که آمار دانلود ایجاد می‌کنند به شما نیاز به گردآوری اطلاعات شخصی لازم دارد. شما می‌توانید در &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما از چگونگی به‌کارگیری اطلاعاتی که گردآوری می‌کنیم آگاه شوید.&lt;BR>پیش از استفاده از دانلودها &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.&lt;BR>شما در هر زمانی می‌توانید در تنظیمات رضایت خود را نسبت به سیاست حفظ حریم خصوصی دانلودها پس بگیرید. چنانچه سیاست حفظ حریم خصوصی ما را نپذیرید، نمی‌توانید از برخی ویژگی‌های این برنامه استفاده کنید؛ با این وجود، کارایی‌های پایه‌ای همچنان برای شما در دسترس خواهند بود.&lt;/Data></string>
     <string name="privacy_agree_dialog_title">شرایط و ضوابط</string>
+    <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
     <string name="privacy_revoke_dialog_later">لغو</string>
     <string name="privacy_revoke_dialog_msg">با تغییر وضعیت کلید، شما رضایت خود را نسبت به سیاست حفظ حریم خصوصی دانلودها پس می‌گیرید. ما از گردآوری اطلاعات شخصی شما دست خواهیم کشید. اطلاعات شخصی که تا کنون گردآوری شده و نگه داشته شده‌اند بنا به خواست قوانین اجرایی پس از یک دوره خاص حذف خواهند شد. دانلودها برای ارائه خدماتی که داده‌های آمار دانلودها را ایجاد می‌کنند به شما نیاز به اطلاعات شخصی لازم دارد. پس گرفتن رضایت شما نسبت به سیاست حفظ حریم خصوصی آن به عنوان رد پذیرفتن خدمات آن بر اساس اطلاعات شخصی گردآوری شده تلقی خواهد شد.</string>
     <string name="privacy_revoke_dialog_ok">پس گرفتن</string>

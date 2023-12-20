@@ -141,6 +141,13 @@
     <string name="call_category">درحال تماس</string>
     <string name="call_forwarding_settings">تنظیمات هدایت تماس</string>
     <string name="call_forwarding_settings_with_label">تنظیمات هدایت تماس (%s)</string>
+    <string name="call_notification_answer_action">پاسخ دادن</string>
+    <string name="call_notification_answer_video_action">ویدیو</string>
+    <string name="call_notification_decline_action">رد کردن</string>
+    <string name="call_notification_hang_up_action">قطع تماس</string>
+    <string name="call_notification_incoming_text">تماس ورودی</string>
+    <string name="call_notification_ongoing_text">تماس درحال انجام</string>
+    <string name="call_notification_screening_text">درحال غربال کردن تماس ورودی</string>
     <string name="call_quality_notification_bluetooth_details">سیگنال بلوتوث شما ضعیف است. از بلندگوی تلفن استفاده کنید.</string>
     <string name="call_quality_notification_name">اعلان کیفیت تماس</string>
     <string name="call_settings">تنظیمات تماس</string>
@@ -236,6 +243,7 @@
     <string name="clh_callFailed_requested_facility_not_subscribed_txt">تماس انجام نشد. کد خطا: ۵۰.</string>
     <string name="clh_callFailed_resources_unavailable_unspecified_txt">تماس انجام نشد. کد خطا: ۴۷.</string>
     <string name="clh_callFailed_response_to_STATUS_ENQUIRY_txt">تماس انجام نشد. کد خطا: ۳۰.</string>
+    <string name="clh_callFailed_satelliteEnabled_txt">حالت ماهواره روشن است</string>
     <string name="clh_callFailed_semantically_incorrect_message_txt">تماس انجام نشد. کد خطا: ۹۵.</string>
     <string name="clh_callFailed_service_or_option_not_available_unspecified_txt">تماس انجام نشد. کد خطا: ۶۳.</string>
     <string name="clh_callFailed_service_or_option_not_implemented_unspecified_txt">تماس انجام نشد. کد خطا: ۷۹.</string>
@@ -401,6 +409,7 @@
 همچنان می‌توانید تماس‌های اضطراری برقرار کنید."</string>
     <string name="incall_error_power_off_wfc">برای برقرای تماس، حالت پرواز را خاموش کنید یا به شبکه بی‌سیم وصل شوید.</string>
     <string name="incall_error_promote_wfc">‏برای برقراری تماس، تماس Wi-Fi را فعال کنید.</string>
+    <string name="incall_error_satellite_enabled">برای برقراری تماس، حالت ماهواره را غیرفعال کنید.</string>
     <string name="incall_error_supp_service_conference">تماس‌ها ادغام نشدند.</string>
     <string name="incall_error_supp_service_hangup">نمی‌توانید تماس(ها) را آزاد کنید.</string>
     <string name="incall_error_supp_service_hold">نگه‌داشتن تماس‌ها ممکن نیست.</string>
@@ -411,6 +420,7 @@
     <string name="incall_error_supp_service_transfer">نمی‌توانید انتقال دهید.</string>
     <string name="incall_error_supp_service_unknown">سرویس پشتیبانی نمی‌شود</string>
     <string name="incall_error_wfc_only_no_wireless_network">برای برقراری تماس، به یک شبکه بی‌سیم وصل شوید</string>
+    <string name="install_messages_on_work_profile_action_str">نصب برنامه پیام‌رسانی کاری</string>
     <string name="international_disable">اخبار بین‌المللی غیر فعال شد</string>
     <string name="international_enable">اخبار بین‌المللی فعال شد</string>
     <string name="invalidPin">یک پین 4 تا 8 رقمی را تایپ کنید.</string>
@@ -497,7 +507,7 @@
     <string name="network_connected">متصل</string>
     <string name="network_connecting">درحال اتصال…</string>
     <string name="network_could_not_connect">متصل نشد</string>
-    <string name="network_disconnected">قطع اتصال</string>
+    <string name="network_disconnected">متصل نیست</string>
     <string name="network_error_message">پیام خطا</string>
     <string name="network_global">سراسری</string>
     <string name="network_info_message">پیام شبکه</string>
@@ -577,6 +587,7 @@
     <string name="payphone">تلفن عمومی</string>
     <string name="phoneAppLabel">سرویس‌های تلفن</string>
     <string name="phoneIconLabel">تلفن</string>
+    <string name="phone_account_settings_user_restriction">فقط کاربر کاری یا سرپرست می‌تواند تنظیمات حساب تلفن را تغییر دهد.</string>
     <string name="phone_accounts">حساب‌های تماس</string>
     <string name="phone_accounts_add_sip_account">‏افزودن حساب SIP</string>
     <string name="phone_accounts_all_calling_accounts">همه حساب‌های تماس</string>
@@ -669,6 +680,7 @@
     <string name="radioInfo_display_bytes">بایت</string>
     <string name="radioInfo_display_dbm">dBm</string>
     <string name="radioInfo_display_packets">pkts</string>
+    <string name="radioInfo_imei_primary">اصلی</string>
     <string name="radioInfo_lac">LAC</string>
     <string name="radioInfo_menu_getIMS">‏وضعیت سرویس IMS</string>
     <string name="radioInfo_menu_viewADN">مشاهده دفترچه نشانی سیم‌کارت</string>
@@ -684,7 +696,6 @@
     <string name="radioInfo_service_off">رادیو خاموش</string>
     <string name="radioInfo_service_out">خارج از سرویس</string>
     <string name="radioInfo_unknown">نامشخص</string>
-    <string name="radio_info_band_mode_label">انتخاب باند رادیو</string>
     <string name="radio_info_call_redirect_label">هدایت تماس:</string>
     <string name="radio_info_call_status_label">وضعیت تماس صوتی:</string>
     <string name="radio_info_cell_info_refresh_rate">نرخ بازآوری اطلاعات شبکه همراه:</string>
@@ -693,6 +704,7 @@
     <string name="radio_info_data_connection_disable">غیرفعال کردن اتصال داده</string>
     <string name="radio_info_data_connection_enable">فعال کردن اتصال داده</string>
     <string name="radio_info_data_network_type_label">نوع شبکه داده:</string>
+    <string name="radio_info_data_raw_registration_state_label">وضعیت ثبت خام داده:</string>
     <string name="radio_info_dcnr_restricted">‏DCNR محدود شده است (NSA):</string>
     <string name="radio_info_dds">‏SubId مربوط به سیم‌کارت داده پیش‌فرض:</string>
     <string name="radio_info_dl_kbps">‏پهنای باند DL (کیلوبیت بر ثانیه):</string>
@@ -728,12 +740,14 @@
     <string name="radio_info_set_perferred_label">تنظیم نوع شبکه ترجیحی:</string>
     <string name="radio_info_signal_strength_label">قدرت سیگنال:</string>
     <string name="radio_info_smsc_label">SMSC:</string>
-    <string name="radio_info_smsc_refresh_label">بازخوانی</string>
+    <string name="radio_info_smsc_refresh_label">بازآوری</string>
     <string name="radio_info_smsc_update_label">به‌روزرسانی</string>
     <string name="radio_info_subid">‏subId کنونی:</string>
     <string name="radio_info_toggle_dns_check_label">‏تغییر وضعیت علامت DNS</string>
     <string name="radio_info_ul_kbps">‏پهنای باند UL (کیلوبیت بر ثانیه):</string>
     <string name="radio_info_voice_network_type_label">نوع شبکه صوتی:</string>
+    <string name="radio_info_voice_raw_registration_state_label">وضعیت ثبت خام صدا:</string>
+    <string name="radio_info_wlan_data_raw_registration_state_label">‏وضعیت ثبت خام داده WLAN:</string>
     <string name="radio_off_during_emergency_call">در طول تماس اضطراری نمی‌توانید به حالت هواپیما بروید.</string>
     <string name="radio_off_error">قبل از مشاهدهٔ این تنظیمات، رادیو را روشن کنید.</string>
     <string name="reading_settings">در حال خواندن تنظیمات...</string>
@@ -773,6 +787,10 @@
     <string name="selectContact">انتخاب حساب</string>
     <string name="select_automatically">انتخاب خودکار شبکه</string>
     <string name="send_button">ارسال</string>
+    <string name="send_from_work_profile_action_str">رفتن به نمایه کاری</string>
+    <string name="send_from_work_profile_cancel">لغو کردن</string>
+    <string name="send_from_work_profile_description">سازمانتان فقط به شما اجازه می‌دهد ازطریق برنامه‌های کاری پیام ارسال کنید</string>
+    <string name="send_from_work_profile_title">نمی‌توانید ازطریق برنامه شخصی پیام ارسال کنید</string>
     <string name="settings_label">تنظیمات شبکه</string>
     <string name="simContacts_airplaneMode">برای وارد کردن مخاطبین از سیم کارت، حالت هواپیما را خاموش کنید.</string>
     <string name="simContacts_empty">مخاطبی در سیم‌کارت شما نیست.</string>
@@ -786,6 +804,7 @@
     <string name="sim_ndp_dismiss_text">رد کردن</string>
     <string name="sim_ndp_unlock_text">بازگشایی قفل</string>
     <string name="sim_selection_required_pref">انتخاب ضروری است</string>
+    <string name="simulate_out_of_service_string">شبیه‌سازی از کار افتادن (فقط ساخت اشکال‌زدایی)</string>
     <string name="singleContactImportedMsg">مخاطب واردشده</string>
     <string name="single_emergency_number_title">شماره تلفن اضطراری</string>
     <string name="sip_accounts_removed_notification_action">رفتن به تنظیمات</string>
@@ -895,7 +914,7 @@
     <string name="vm_change_pin_progress_message">لطفاً منتظر بمانید.</string>
     <string name="vm_changed">شماره پست صوتی تغییر کرد.</string>
     <string name="voice_number_setting_primary_user_only">فقط «کاربر اصلی» می‌تواند «تنظیمات پست صوتی» را تغییر دهد.</string>
-    <string name="voice_privacy">حریم‌خصوصی صوتی</string>
+    <string name="voice_privacy">حریم خصوصی صوتی</string>
     <string name="voice_privacy_summary">فعال کردن حالت رازداری پیشرفته</string>
     <string name="voicemail">پست صوتی</string>
     <string name="voicemail_abbreviated">VM:</string>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="wifi_eap_error_message_code_16384_carrier_overrides">
-        <item>‏:::1839:::%1$s : به‌دلیل بروز خطای ۱۶۳۸۴، اتصال به Verizon Wi-Fi Access با مشکل روبرو است.</item>
+        <item>‏:::1839:::%1$s : هنگام اتصال به Verizon Wi-Fi مشکلی وجود دارد. (خطا = ۱۶۳۸۴)</item>
     </string-array>
     <string-array name="wifi_eap_error_message_code_16385_carrier_overrides">
-        <item>‏:::1839:::%1$s : به‌دلیل بروز خطای ۱۶۳۸۵، اتصال به Verizon Wi-Fi Access با مشکل روبرو است.</item>
+        <item>‏:::1839:::%1$s : هنگام اتصال به Verizon Wi-Fi مشکلی وجود دارد. (خطا = ۱۶۳۸۵)</item>
     </string-array>
     <string-array name="wifi_eap_error_message_code_32760_carrier_overrides">
         <item>‏:::1839:::%1$s : نمی‌توانید خارج از منطقه تحت پوشش Verizon به Verizon Wi-Fi Access متصل شوید. (خطا = ۳۲۷۶۰)</item>
@@ -28,9 +28,9 @@
         <item>‏:::1839:::%1$s : Verizon Wi-Fi Access در مکان شما دردسترس نیست. بعداً دوباره تلاش کنید یا از مکان متفاوتی امتحان کنید. (خطا = ۳۲۷۶۶)</item>
     </string-array>
     <string-array name="wifi_eap_error_message_code_32767_carrier_overrides">
-        <item>‏:::1839:::%1$s : هنگام اتصال به Verizon Wi-Fi Access مشکلی وجود دارد. بعداً دوباره تلاش کنید یا از مکان متفاوتی امتحان کنید.</item>
+        <item>‏:::1839:::%1$s : هنگام اتصال به Verizon Wi-Fi Access مشکلی وجود دارد. بعداً دوباره تلاش کنید یا از مکان متفاوتی امتحان کنید. (خطا = ۳۲۷۶۷)</item>
     </string-array>
     <string-array name="wifi_eap_error_message_unknown_error_code_carrier_overrides">
-        <item>‏:::1839:::%1$s : هنگام اتصال به Verizon Wi-Fi Access مشکلی وجود دارد.</item>
+        <item>‏:::1839:::%1$s : هنگام اتصال به Verizon Wi-Fi مشکلی وجود دارد. (خطا = نامشخص)</item>
     </string-array>
 </resources>
