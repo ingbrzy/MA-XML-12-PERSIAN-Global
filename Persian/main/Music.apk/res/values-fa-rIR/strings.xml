@@ -291,9 +291,7 @@
     <string name="download_method">دانلود</string>
     <string name="download_no_application_title">فایل را نمی توان باز کرد</string>
     <string name="download_paused_in_power_save_mode">دانلودها هنگامی که بهینه‌ساز باتری روشن است متوقف می‌شوند</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">در حال دانلود…</string>
-    <string name="download_progress">%d%%</string>
     <string name="download_quality">کیفیت دانلود</string>
     <string name="download_quality_summary">تنظیمات بیشتر برای آهنگ‌هایی که دانلود می‌کنید</string>
     <string name="download_queued">در نوبت قرار گرفت</string>
@@ -1076,7 +1074,6 @@
     <string name="privacy_authorize_revoking">درحال باطل کردن مجوز…</string>
     <string name="privacy_desc">سیاست حفظ حریم خصوصی (اجباری)</string>
     <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=fa_IR</string>
     <string name="privacy_request_desc"><Data>"موسیقی Mi برای ارائه خدمات پخش آنلاین نیاز به گردآوری اطلاعات شخصی لازم دارد. شما می‌توانید در &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما از چگونگی به‌کارگیری اطلاعاتی که گردآوری می‌کنیم آگاه شوید. شما در هر زمانی می‌توانید در تنظیمات رضایت خود را نسبت به سیاست حفظ حریم خصوصی موسیقی Mi پس بگیرید.
 پیش از استفاده از موسیقی Mi &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.
 چنانچه سیاست حفظ حریم خصوصی ما را نپذیرید، نمی‌توانید از برخی ویژگی‌های این برنامه استفاده کنید؛ با این وجود، کارایی‌های پایه‌ای همچنان برای شما در دسترس خواهند بود."</Data></string>
@@ -1390,7 +1387,6 @@
     <string name="upload_playlist_to_hungama_title">آهنگ‌های آنلاین را در hungama همگام‌سازی کرده تا بتوانید در سایر دستگاه‌هایی که از حساب Xiaomi خود استفاده می‌کنید به آن‌ها دسترسی یابید.</string>
     <string name="upload_playlist_to_hungama_toast">آهنگ‌های آنلاین در hungama همگام‌سازی خواهند شد</string>
     <string name="user_agreement">توافق‌نامه کاربر</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=fa_IR</string>
     <string name="user_experience_program_open">به دلیل محدودیت‌های حق چاپ و نشر، برای امکان پخش آهنگ‌های دانلود شده لازم است تا در برنامه تجربه کاربر شرکت کنید. شما این کار را می‌توانید در تنظیمات > گذرواژه‌ها و امنیت > حریم خصوصی > شرکت در برنامه تجربه کاربر انجام دهید.</string>
     <string name="user_playlist_plaza">فهرست‌های پخش</string>
     <string name="user_privacy_dialog_negative_text">لغو</string>
