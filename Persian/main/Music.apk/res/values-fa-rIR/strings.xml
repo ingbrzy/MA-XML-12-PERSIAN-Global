@@ -317,7 +317,6 @@
     <string name="download_method">دانلود</string>
     <string name="download_paused_in_power_save_mode">دانلودها هنگامی که بهینه‌ساز باتری روشن است متوقف می‌شوند</string>
     <string name="download_processing">در حال دانلود…</string>
-    <string name="download_progress">%%%d</string>
     <string name="download_quality">کیفیت دانلود</string>
     <string name="download_quality_summary">تنظیمات بیشتر برای آهنگ‌هایی که دانلود می‌کنید</string>
     <string name="download_song_quality_title">کیفیت آهنگ‌های دانلود شده</string>
@@ -1068,7 +1067,6 @@
     <string name="privacy_authorize_revoking">درحال باطل کردن مجوز…</string>
     <string name="privacy_desc">سیاست حفظ حریم خصوصی (اجباری)</string>
     <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=fa_IR</string>
     <string name="privacy_request_desc">"&lt;Data>Mi Music needs to collect necessary personal information to provide you with online streaming services. You can learn how we handle the information we collect in our &lt;a href=\"%1$s\">Privacy Policy&lt;/a>. You can withdraw your consent to the Privacy Policy of Mi Music in the Settings at any time.
 Read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%1$s\">Privacy Policy&lt;/a> before using Mi Music.
 If you don't agree to use the aforementioned services, you won't be able to use some features of this app; however, its basic functionality will still be available to you.&lt;/Data>"</string>
@@ -1395,7 +1393,6 @@ If you don't agree to use the aforementioned services, you won't be able to use 
     <string name="upload_playlist_to_hungama_title">آهنگ‌های آنلاین را در hungama همگام‌سازی کرده تا بتوانید در سایر دستگاه‌هایی که از حساب Xiaomi خود استفاده می‌کنید به آن‌ها دسترسی یابید.</string>
     <string name="upload_playlist_to_hungama_toast">آهنگ‌های آنلاین در hungama همگام‌سازی خواهند شد</string>
     <string name="user_agreement">توافق‌نامه کاربر</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=fa_IR</string>
     <string name="user_experience_program_open">Due to copyright restrictions, you need to enroll in the User Experience Program to be able to play downloaded songs. You can do this in Settings > Passwords &amp; security > Privacy > Enroll in User Experience Program.</string>
     <string name="user_playlist_plaza">فهرست‌های پخش</string>
     <string name="user_privacy_dialog_negative_text">لغو</string>

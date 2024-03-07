@@ -817,7 +817,6 @@
     <string name="face_name_edit">ویرایش</string>
     <string name="face_name_input">نام را وارد کنید</string>
     <string name="face_recommend">پیشنهادات</string>
-    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="facebook_login_btn_content_description">ورود با فیسبوک</string>
     <string name="fail_hint">عملیات کامل نشد</string>
     <string name="fail_reason_migrate">در حال پردازش موارد… چند دقیقه صبر کرده و سپس دوباره تلاش کنید</string>
@@ -833,7 +832,6 @@
     <string name="feedback_my_reports">بازخورد</string>
     <string name="feedback_problem">گزارش یک مساله</string>
     <string name="feedback_suggest">یک پیشنهاد ارسال کنید</string>
-    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">این مورد چاپ نمی‌شود.</string>
     <string name="file_cannot_screen_throw">این مورد بازتابانده نمی‌شود.</string>
     <string name="file_sending">درحال انتقال فایل‌ها…</string>
@@ -930,7 +928,6 @@
     <string name="grant_permission_go_and_set">تنظیم</string>
     <string name="grant_permission_go_and_set_2">تنظیمات</string>
     <string name="grant_permission_go_and_set_3">تنظیمات</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_manage_storage">نیازمند مجوز است</string>
     <string name="grant_permission_manage_storage_unlock">برای امکان دیدن موارد قفل دستگاه خود را گشوده و به این برنامه اجازه دسترسی به همه فایل‌ها را بدهید.</string>
     <string name="grant_permission_shortcut">ابتدا به این برنامه اجازه ایجاد میان‌بر صفحه اصلی را بدهید.</string>
@@ -1587,7 +1584,6 @@
     <string name="people_page_label">افراد</string>
     <string name="people_page_photo">ریزعکس یک نفر</string>
     <string name="people_page_unname">بدون نام</string>
-    <string name="percent_sign">%</string>
     <string name="permission_account_desc">برای ورود به حسا‌ب و مدیریت حساب سیستمی</string>
     <string name="permission_account_name">دسترسی به حساب‌ها</string>
     <string name="permission_clipboard_desc">برای دسترسی و ذخیره موارد در حافظه موقت</string>
@@ -2052,7 +2048,6 @@
     <string name="share_album_cancel_share">توقف هم‌رسانی</string>
     <string name="share_album_change_background">تغییرعکس پس زمینه</string>
     <string name="share_album_create_failed">آلبوم مشترک ایجاد نشد</string>
-    <string name="share_album_create_processing">@string/cloud_bacup_disable_processing</string>
     <string name="share_album_exit_button_text">توقف اشتراک‌گذاری</string>
     <string name="share_album_exit_confirm">در صورت ادامه، دیگر امکان دسترسی به همه موارد این آلبوم را نخواهید داشت. پیش از ترک کردن، همه موارد مهم را ذخیره کنید.</string>
     <string name="share_album_exit_confirm_title">این گروه را ترک می‌کنید؟</string>
@@ -2139,7 +2134,6 @@
     <string name="share_with_family">هم‌رسانی با خانواده</string>
     <string name="sharer_quota_fulfiled">قبلاً این آلبوم را با حداکثر تعداد افراد به اشتراک گذاشته‌اید.</string>
     <string name="show_cloud_albumlist_summary">پس از خاموش کردن همگام‌سازی، موارد جدید از آلبوم‌های انتخاب شده دیگر در فضای ابری بارگذاری نخواهند شد.</string>
-    <string name="show_cloud_albumlist_title">@string/album_cloud_list_page_title</string>
     <string name="show_hidden_album_summary">نمایش و مدیریت آلبوم‌های پنهان</string>
     <string name="show_hidden_album_title">نمایش آلبوم‌های پنهان</string>
     <string name="show_in_other_albums_disable_toast_long_press_menu">با موفقیت برداشته شد. اکنون می‌توانید این مورد را در میان «آلبوم‌ها» ببینید.</string>

@@ -287,7 +287,6 @@
     <string name="incompatible_dialog_ok">متوجه‌ام</string>
     <string name="incompatible_dialog_title">مسائل مربوط به مناسب بودن</string>
     <string name="is_setting_wallpaper_message">درحال تنظیم تصویر زمینه…</string>
-    <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">هشدارها</string>
     <string name="item_resource_audio_optional_color_ring">صدای بوق</string>
     <string name="item_resource_audio_optional_notification_ring">اعلان‌ها</string>
@@ -665,7 +664,6 @@ mm"</string>
     <string name="resource_pack_price_info">قیمت اصلی: %1$s</string>
     <string name="resource_pack_warning">شما پیشتر %1$d جزء را در این پوسته خریده‌اید. در صورتی که اجزای باقی‌مانده را به‌صورت تکی بخرید برای شما ارزان‌تر تمام خواهد شد.</string>
     <string name="resource_present">هدیه</string>
-    <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">رایگان</string>
     <string name="resource_price_unit">اعتبار‌های Mi</string>
     <string name="resource_purchase_common_error">خطایی رخ داد. دوباره تلاش کنید</string>
@@ -926,7 +924,6 @@ mm"</string>
     <string name="theme_is_external_priority_storage">ذخیره در کارت SD</string>
     <string name="theme_is_external_priority_storage_summary">برنامه تم‌ها برای بکارگیری این تنظیمات بلافاصله دوباره راه‌اندازی خواهد شد.</string>
     <string name="theme_multiple_button_title_customize">سفارشی کردن</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_no">خیر</string>
     <string name="theme_on_the_phone_alert">هنگام تماس نمی‌توان پخش کرد</string>
     <string name="theme_recommend">تم‌های مشابه</string>

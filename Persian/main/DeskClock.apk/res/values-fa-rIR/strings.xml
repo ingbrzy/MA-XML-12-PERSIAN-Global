@@ -383,7 +383,6 @@
     <string name="shutdown_alarm_alert_title">هشدار خاموش</string>
     <string name="shutdown_alarm_disable_summary">پس از خاموش شدن دستگاه، هشدار به صدا در نخواهد آمد</string>
     <string name="silent_alarm_summary">بی‌صدا</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">خاموش کردن تنها در %s</string>
     <string name="sleep_analysis">آمار</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
