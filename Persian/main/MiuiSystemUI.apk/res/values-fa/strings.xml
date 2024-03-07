@@ -885,6 +885,7 @@
     <string name="monitoring_description_personal_profile_named_vpn">‏برنامه‌های شخصی‌تان ازطریق %1$s به اینترنت متصل شده است. ارائه‌دهنده VPN شما می‌تواند فعالیت شبکه شما را (ازجمله ایمیل‌ها و داده‌های مرور) ببیند.</string>
     <string name="monitoring_description_two_named_vpns">این دستگاه ازطریق %1$s و %2$s به اینترنت متصل شده است. سرپرست فناوری اطلاعات شما می‌تواند فعالیت شبکه شما را (ازجمله ایمیل‌ها و داده‌های مرور) ببیند.</string>
     <string name="monitoring_description_vpn_settings">‏باز کردن تنظیمات VPN</string>
+    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_financed_description_named_management">"ممکن است %1$s بتواند به داده‌های مرتبط با این دستگاه دسترسی یابد، برنامه‌ها را مدیریت کند، و تنظیمات این دستگاه‌ها را تغییر دهد.
 
 اگر سؤالی دارید، با %2$s تماس بگیرید."</string>

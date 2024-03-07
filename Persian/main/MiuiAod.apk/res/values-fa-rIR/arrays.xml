@@ -106,4 +106,14 @@
         <item>ی</item>
         <item>\#</item>
     </string-array>
+    <string-array name="kg_glass_filters">
+        <item>اصلی</item>
+        <item>تار</item>
+        <item>نی شکل</item>
+        <item>عاج دار</item>
+        <item>منشور</item>
+        <item>شیاردار</item>
+        <item>امواج</item>
+        <item>چهارگوش</item>
+    </string-array>
 </resources>

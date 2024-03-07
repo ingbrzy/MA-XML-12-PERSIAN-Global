@@ -5,16 +5,16 @@
         <item quantity="one">۱ ساعت پیش</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">۱ ساعت پیش</item>
-        <item quantity="one">۱ ساعت پیش</item>
+        <item quantity="other">%d ساعت پیش</item>
+        <item quantity="one">%d ساعت پیش</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">نیم ساعت پیش</item>
         <item quantity="one">نیم ساعت پیش</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">در ۱ ساعت</item>
-        <item quantity="one">در ۱ ساعت</item>
+        <item quantity="other">تا %d ساعت دیگر</item>
+        <item quantity="one">تا %d ساعت دیگر</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">در نیم ساعت</item>
@@ -25,8 +25,8 @@
         <item quantity="one">بلافاصله</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">در %d دقیقه</item>
-        <item quantity="one">در ۱ دقیقه</item>
+        <item quantity="other">تا %d دقیقه دیگر</item>
+        <item quantity="one">تا %d دقیقه دیگر</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">هم اکنون</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d دقیقه پیش</item>
-        <item quantity="one">۱ دقیقه پیش</item>
+        <item quantity="one">%d دقیقه پیش</item>
     </plurals>
     <plurals name="adblock_notification">
         <item quantity="other">%d تبلیغ مسدود شدند</item>
@@ -48,6 +48,10 @@
         <item quantity="other">تا کنون %d تبلیغ مسدود شده است</item>
         <item quantity="one">تا کنون %d تبلیغ مسدود شده است</item>
     </plurals>
+    <plurals name="antivirus_desc_not_scanned_virus_in_days">
+        <item quantity="other">%d روز است که اسکن نشده است</item>
+        <item quantity="one">%d روز است که اسکن نشده است</item>
+    </plurals>
     <plurals name="articles_updated_amount">
         <item quantity="other">%1$d مقاله جدید را ببینید</item>
         <item quantity="one">%1$d مقاله جدید را ببینید</item>
@@ -55,6 +59,22 @@
     <plurals name="auto_play_next_tips">
         <item quantity="other">تا %d ثانیه دیگر ویدئوی بعدی پخش خواهد شد</item>
         <item quantity="one">تا %d ثانیه دیگر ویدئوی بعدی پخش خواهد شد</item>
+    </plurals>
+    <plurals name="back_dialog_antivirus_content_des">
+        <item quantity="other">%d روز است که دستگاه خود را اسکن نکرده‌اید. اکنون اسکن شود؟</item>
+        <item quantity="one">%d روز است که دستگاه خود را اسکن نکرده‌اید. اکنون اسکن شود؟</item>
+    </plurals>
+    <plurals name="back_dialog_day">
+        <item quantity="other">روز</item>
+        <item quantity="one">روز</item>
+    </plurals>
+    <plurals name="back_dialog_health_check_content_des">
+        <item quantity="other">%d روز است که دستگاه خود را بهینه‌سازی نکرده‌اید. اکنون بهینه‌سازی شود؟</item>
+        <item quantity="one">%d روز است که دستگاه خود را بهینه‌سازی نکرده‌اید. اکنون بهینه‌سازی شود؟</item>
+    </plurals>
+    <plurals name="count_likes">
+        <item quantity="other">%s نفر پسندیدند</item>
+        <item quantity="one">%s نفر پسندید</item>
     </plurals>
     <plurals name="days_ago">
         <item quantity="other">%1$d روز پیش</item>
@@ -184,9 +204,9 @@
         <item quantity="other">%d تبلیغ مسدود شدند</item>
         <item quantity="one">%d تبلیغ مسدود شد</item>
     </plurals>
-    <plurals name="reading__search_resultful">
-        <item quantity="other">%1$d نتیجه یافت شد</item>
-        <item quantity="one">%1$d نتیجه یافت شد</item>
+    <plurals name="recommend_top_guide">
+        <item quantity="other">%d ویدیوی پیشنهادی جدید</item>
+        <item quantity="one">%d ویدیوی پیشنهادی جدید</item>
     </plurals>
     <plurals name="search_trending_views">
         <item quantity="other">%s درخواست جستجو</item>
@@ -283,5 +303,9 @@
     <plurals name="web_permission_protect_subtitle_time">
         <item quantity="other">%s بار</item>
         <item quantity="one">%s بار</item>
+    </plurals>
+    <plurals name="web_preload_hint_dialog_title">
+        <item quantity="other">هفته گذشته، مرورگر Mi سرعت بارگیری تارنماها را برای شما %d برابر افزایش داد!</item>
+        <item quantity="one">هفته گذشته، مرورگر Mi سرعت بارگیری تارنماها را برای شما %d برابر افزایش داد!</item>
     </plurals>
 </resources>

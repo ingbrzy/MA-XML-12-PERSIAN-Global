@@ -275,6 +275,8 @@ PIN خود را وارد کرده تا قفل باز شود."</string>
     <string name="keyguard_charging_super_quick_and_level_tip">در حال شارژ فوق سریع %d%%</string>
     <string name="keyguard_editor_super_save_mode_toast">هنگام روشن بودن بهینه‌ساز فوق‌العاده باتری صفحه قفل ویرایش نمی‌شود</string>
     <string name="keyguard_left_mi_wallet">کیف پول Mi</string>
+    <string name="keyguard_left_remotecentral">کنترل Mi</string>
+    <string name="keyguard_left_smarthome">خانه Mi</string>
     <string name="keyguard_left_torch">چراغ قوه</string>
     <string name="keyguard_left_view_lock_wallpaper">تصاویر زمینه چرخشی</string>
     <string name="keyguard_loading_to_editor_tips">در حال باز کردن ویرایشگر صفحه قفل…</string>
@@ -411,8 +413,6 @@ mm"</string>
     <string name="phone_locked_forget_password_suggesstion_two_content">&lt;Data>گزینه &lt;font color=#a5220e>«Wipe &amp;amp; Reset»&lt;/font> را انتخاب کرده و صبر کرده تا دستگاه بازنشانی شود.&lt;/Data></string>
     <string name="phone_locked_forget_password_suggesstions_title">چگونه داده‌ها را پاک کنیم؟</string>
     <string name="phone_locked_string">این دستگاه قفل شده است</string>
-    <string name="phone_locked_string_owner_user">تلاش‌های ناموفق برای وارد کردن گذرواژه فضای نخست بیش از حد بود. این دستگاه اکنون قفل شده است.</string>
-    <string name="phone_locked_string_second_user">تلاش‌های ناموفق برای وارد کردن گذرواژه فضای دوم بیش از حد بود. این دستگاه اکنون قفل شده است.</string>
     <string name="pm">ب.ظ</string>
     <string name="privacy_dialog_title">اعلان‌ها درباره اقدامات حساس</string>
     <string name="privacy_recent_used_title">موارد تازه</string>
@@ -543,6 +543,8 @@ mm"</string>
     <string name="status_bar_clock_date_format_12">E، d MMM</string>
     <string name="status_bar_clock_date_time_format">E، d MMM H:mm</string>
     <string name="status_bar_clock_date_time_format_12">E، d MMM h:mm a</string>
+    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
+    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="strong_toast_charging">در حال شارژ</string>
     <string name="strong_toast_quick_charging">در حال شارز فوری</string>
     <string name="sunday">یک‌شنبه</string>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alarm_in_furture">
-        <item>هشدار در کمتر از ۱ دقیقه</item>
+    <string-array name="alarm_in_furture_new_array">
+        <item>هشدار تا کمتر از %d دقیقه دیگر</item>
         <item>هشدار تا %1$s دیگر</item>
         <item>هشدار تا %2$s دیگر</item>
         <item>هشدار تا %1$s و %2$s دیگر</item>
         <item>هشدار تا %3$s دیگر</item>
-        <item>هشدار تا %1$s و %3$s دقیقه دیگر</item>
+        <item>هشدار تا %1$s و %3$s دیگر</item>
         <item>هشدار تا %2$s و %3$s دیگر</item>
         <item>هشدار تا %1$s و %2$s و %3$s دیگر</item>
     </string-array>
@@ -24,8 +24,8 @@
         <item>دوشنبه تا جمعه</item>
         <item>سفارشی</item>
     </string-array>
-    <string-array name="alarm_set">
-        <item>صدای زنگ کمتر از ۱ دقیقه دیگر به صدا در خواهد آمد.</item>
+    <string-array name="alarm_set_new_array">
+        <item>هشدار تا کمتر از %d دیگر به صدا در خواهد آمد.</item>
         <item>هشدار تا %1$s دیگر به صدا در خواهد آمد.</item>
         <item>هشدار تا %2$s دیگر به صدا در خواهد آمد.</item>
         <item>هشدار تا %1$s و %2$s دیگر به صدا در خواهد آمد.</item>
@@ -148,20 +148,19 @@
         <item>خیلی بد</item>
         <item>خراب</item>
     </string-array>
-    <string-array name="auto_silence_entries">
-        <item>هرگز</item>
-        <item>۱ دقیقه</item>
-        <item>۵ دقیقه</item>
-        <item>۱۰ دقیقه</item>
-        <item>۱۵ دقیقه</item>
-        <item>۲۰ دقیقه</item>
-        <item>۲۵ دقیقه</item>
-        <item>۳۰ دقیقه</item>
-    </string-array>
     <string-array name="bedtime_guide_repeat_type">
         <item>دوشنبه تا جمعه</item>
         <item>هر روز</item>
         <item>روزهای کاری</item>
+    </string-array>
+    <string-array name="bedtime_guide_repeat_type_international">
+        <item>دوشنبه تا جمعه</item>
+        <item>هر روز</item>
+    </string-array>
+    <string-array name="bedtime_repeat_entires_international">
+        <item>هر روز</item>
+        <item>دوشنبه تا جمعه</item>
+        <item>سفارشی</item>
     </string-array>
     <string-array name="bedtime_repeat_entries">
         <item>هر روز</item>
@@ -356,7 +355,7 @@
         <item>صوفیه</item>
         <item>استکهلم</item>
         <item>تالین</item>
-        <item>واتیکان</item>
+        <item>شهر واتیکان</item>
         <item>وین</item>
         <item>ویلنیوس</item>
         <item>ورشو</item>
@@ -456,11 +455,6 @@
         <item>تگوسیگالپا</item>
         <item>پاراماریبو</item>
         <item>کویتو</item>
-    </string-array>
-    <string-array name="clock_bg_setting_entries">
-        <item>سفید</item>
-        <item>سیاه</item>
-        <item>خودکار</item>
     </string-array>
     <string-array name="countries_names_miui">
         <item>ساحل عاج</item>
@@ -750,40 +744,6 @@
         <item>سورینام</item>
         <item>اکوادور</item>
     </string-array>
-    <string-array name="days_of_week">
-        <item>یک‌شنبه</item>
-        <item>دوشنبه</item>
-        <item>سه‌شنبه</item>
-        <item>چهارشنبه</item>
-        <item>پنج‌شنبه</item>
-        <item>جمعه</item>
-        <item>شنبه</item>
-    </string-array>
-    <string-array name="notification_adv_time_entries">
-        <item>به موقع</item>
-        <item>۱۵ دقیقه زودتر</item>
-        <item>۳۰ دقیقه زودتر</item>
-        <item>۱ ساعت زودتر</item>
-        <item>هیچ کدام</item>
-    </string-array>
-    <string-array name="snooze_duration_entries">
-        <item>۱ دقیقه</item>
-        <item>۵ دقیقه</item>
-        <item>۱۰ دقیقه</item>
-        <item>۱۵ دقیقه</item>
-        <item>۲۰ دقیقه</item>
-        <item>۲۵ دقیقه</item>
-        <item>۳۰ دقیقه</item>
-    </string-array>
-    <string-array name="snooze_duration_values">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-    </string-array>
     <string-array name="time">
         <item>%1$s</item>
         <item>%2$s</item>
@@ -806,10 +766,5 @@
         <item>کاری انجام نشود</item>
         <item>چرت زدن</item>
         <item>نادیده گرفتن</item>
-    </string-array>
-    <string-array name="volume_button_setting_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
 </resources>

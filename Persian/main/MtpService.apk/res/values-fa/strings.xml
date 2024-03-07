@@ -29,6 +29,13 @@
     <string name="abc_toolbar_collapse_description">کوچک کردن</string>
     <string name="accessing_notification_title">دسترسی به فایل‌ها از %1$s</string>
     <string name="app_label">‏میزبان MTP</string>
+    <string name="call_notification_answer_action">پاسخ دادن</string>
+    <string name="call_notification_answer_video_action">ویدیو</string>
+    <string name="call_notification_decline_action">رد کردن</string>
+    <string name="call_notification_hang_up_action">قطع تماس</string>
+    <string name="call_notification_incoming_text">تماس ورودی</string>
+    <string name="call_notification_ongoing_text">تماس درحال انجام</string>
+    <string name="call_notification_screening_text">درحال غربال کردن تماس ورودی</string>
     <string name="downloads_app_label">بارگیری‌ها</string>
     <string name="error_busy_device">دستگاه دیگر مشغول است. تا زمانی که این دستگاه دردسترس قرار نگیرد نمی‌توانید فایل‌ها را منتقل کنید.</string>
     <string name="error_locked_device">فایلی پیدا نشد. دستگاه دیگر ممکن است قفل باشد. اگر این‌طور است، قفل آن را باز کنید و دوباره تلاش کنید.</string>

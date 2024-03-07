@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>ا</item>
+        <item>ب</item>
+        <item>پ</item>
+        <item>ح</item>
+        <item>خ</item>
+        <item>د</item>
+        <item>ز</item>
+        <item>ذ</item>
+        <item>ر</item>
+        <item>ز</item>
+        <item>ژ</item>
+        <item>س</item>
+        <item>ش</item>
+        <item>ص</item>
+        <item>ض</item>
+        <item>ط</item>
+        <item>ظ</item>
+        <item>ع</item>
+        <item>غ</item>
+        <item>ف</item>
+        <item>ق</item>
+        <item>ک</item>
+        <item>گ</item>
+        <item>ل</item>
+        <item>م</item>
+        <item>ن</item>
+        <item>و</item>
+        <item>ه</item>
+        <item>ی</item>
+        <item>\#</item>
+    </string-array>
     <string-array name="alphabet_table">
         <item>ا</item>
         <item>ب</item>
@@ -84,12 +117,6 @@
         <item>۴ مگابایت بر ثانیه</item>
         <item>۱ مگابایت بر ثانیه</item>
     </string-array>
-    <string-array name="screenrecorder_settings_frames">
-        <item>۲۴ فریم بر ثانیه</item>
-        <item>۳۰ فریم بر ثانیه</item>
-        <item>۴۸ فریم بر ثانیه</item>
-        <item>۶۰ فریم بر ثانیه</item>
-    </string-array>
     <string-array name="screenrecorder_settings_orientation">
         <item>خودکار</item>
         <item>عمودی</item>
@@ -111,7 +138,7 @@
         <item>صداهای سیستم</item>
     </string-array>
     <string-array name="screenrecorder_settings_sound_native">
-        <item>خالی</item>
+        <item>هیچ کدام</item>
         <item>میکروفن</item>
         <item>سیستم</item>
         <item>هر دو</item>

@@ -6,7 +6,7 @@
     <string name="abrupt_weather_settings_summary_type">دریافت هشدار درباره بارش‌ها، تغییرات کیفیت هوا و سایر تغییرات مهم پیش‌بینی شده</string>
     <string name="act_find_city_hint">موقعیت مکانی را وارد کنید</string>
     <string name="act_find_city_hot_city_title">شهرهای مشهور</string>
-    <string name="act_location_error_to_find_city">اطلاعات موقعیت دریافت نشد. می‌توانید به صورت دستی بیافزایید.</string>
+    <string name="act_location_error_to_find_city">اطلاعات موقعیت دریافت نشد. می‌توانید یک موقعیت را به صورت دستی بیافزایید.</string>
     <string name="act_set_city_find_side">درحال موقعیت یابی</string>
     <string name="act_set_city_find_side_error">نمی‌توان دستگاه را پیدا کند</string>
     <string name="act_weather_find_city_added">افزوده شد</string>
@@ -51,17 +51,11 @@
     <string name="aqi_fifteen_dates_time_format">d/M</string>
     <string name="aqi_publish_time">%1$s به‌روزرسانی شد</string>
     <string name="aqi_quality_co_desc">مونوکسید کربن</string>
-    <string name="aqi_quality_co_pad">CO: %1$s</string>
     <string name="aqi_quality_no2_desc">دی اکسید نیتروژن</string>
-    <string name="aqi_quality_no2_pad">NO₂: %1$s</string>
     <string name="aqi_quality_o3_desc">اوزون</string>
-    <string name="aqi_quality_o3_pad">O₃: %1$s</string>
     <string name="aqi_quality_pm10_desc">ذرات درشت قابل تنفس</string>
-    <string name="aqi_quality_pm10_pad">PM10: %1$s</string>
     <string name="aqi_quality_pm25_desc">ذرات ریز</string>
-    <string name="aqi_quality_pm25_pad">PM2.5: %1$s</string>
     <string name="aqi_quality_so2_desc">دی اکسید گوگرد</string>
-    <string name="aqi_quality_so2_pad">SO₂: %1$s</string>
     <string name="aqi_station_best_quality_station">بهترین جای نزدیک</string>
     <string name="aqi_station_min_distance_station">نزدیک‌ترین ایستگاه</string>
     <string name="aqi_title_pad">شاخص کیفیت هوا: %1$s</string>
@@ -117,6 +111,7 @@
     <string name="dynamic_weather">آب و هوا</string>
     <string name="early_morning">صبح</string>
     <string name="edit_city">مدیریت شهرها</string>
+    <string name="empty">" "</string>
     <string name="empty_view_net_loading">در حال به‌روزرسانی…</string>
     <string name="empty_view_net_unavailable">به شبکه متصل نشد</string>
     <string name="empty_view_refresh">تلاش دوباره</string>
@@ -132,7 +127,7 @@
     <string name="feedback_overcast">ابری</string>
     <string name="feedback_report_privacy_msg">گزارش حاوی اطلاعات موقعیت شما خواهد بود</string>
     <string name="feedback_result_fail_no_choice">وضعیت کنونی آب و هوا را انتخاب کنید</string>
-    <string name="feedback_result_fail_no_reason">از بارخورد شما سپاسگزاریم!</string>
+    <string name="feedback_result_fail_no_reason">از بازخورد شما سپاسگزاریم!</string>
     <string name="feedback_result_fail_same_type">به نظر می‌رسد گزارش شما با آب و هوای کنونی تفاوت ندارد. دوباره تلاش کنید.</string>
     <string name="feedback_result_success">با موفقیت ارسال شد. از بازخورد شما سپاسگزاریم.</string>
     <string name="feedback_sandy">طوفان شن</string>
@@ -166,7 +161,7 @@
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">h a</string>
+    <string name="fmt_time_12hour_pm">ah</string>
     <string name="fmt_time_24hour">"H 'o''clock'"</string>
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
@@ -193,18 +188,21 @@
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
     <string name="hourly_forcast_now">حالا</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="index_item_experience_now">اکنون نصب شود</string>
     <string name="indices_title_chance_of_rain">احتمال بارش باران</string>
     <string name="indices_title_feel">احساس واقعی</string>
     <string name="indices_title_pressure">فشار</string>
     <string name="indices_title_uv">UV</string>
-    <string name="indices_title_wind_speed">سرعت باد</string>
     <string name="indices_wind_direction_east">شرق</string>
     <string name="indices_wind_direction_north">شمال</string>
     <string name="indices_wind_direction_south">جنوب</string>
     <string name="indices_wind_direction_west">غرب</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_details_uv_index_title">شاخص پرتو فرا بنفش</string>
+    <string name="item_city_list_region_no_data">-- / --</string>
+    <string name="item_city_list_temperature_no_data">--</string>
     <string name="location_provider_btn_text">روشن کردن خدمات موقعیت</string>
     <string name="location_tag">محل یابی</string>
     <string name="manager_city_option_add_home">افزودن به صفحه آغاز</string>
@@ -215,16 +213,15 @@
     <string name="minute_rain_feedback_title">اطلاعات آب و هوا به نظر اشتباه می‌آید.</string>
     <string name="minute_rain_now">اکنون</string>
     <string name="minute_rain_progress_indicator_original_time">- -</string>
-    <string name="missing_required_permission">شما یک مجوز لازم را غیر فعال کردید.</string>
     <string name="miuix_access_state_desc">انتخاب شده</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">بیشتر</string>
     <string name="miuix_appcompat_cancel_description">لغو</string>
     <string name="miuix_appcompat_confirm_description">تأیید</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
-    <string name="miuix_appcompat_deselect_all">لغو انتخاب</string>
+    <string name="miuix_appcompat_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_deselect_all_description">لغو انتخاب همه</string>
     <string name="miuix_appcompat_search_action_mode_cancel">لغو</string>
     <string name="miuix_appcompat_search_input_description">جستجو</string>
@@ -311,8 +308,8 @@
     <string name="privacy_grant_or_revoke_settings">پس گرفتن رضایت</string>
     <string name="privacy_grant_success">مجوز با موفقیت داده شد</string>
     <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
-    <string name="privacy_policy_msg">&lt;Data>این برنامه دارای ویژگی‌های زیر است:&lt;br/>• اطلاعات آب و هوا خاص موقعیت شما&lt;br/>• پیش‌بینی آب و هوا&lt;br/>• هشدارهای آب و هوایی&lt;br/>&lt;br/>آب و هوا برای ارائه خدمات پایه‌ای به شما نیاز به گردآوری اطلاعات شخصی لازم دارد. شما می‌توانید در&lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما از چگونگی به‌کارگیری اطلاعاتی که گردآوری می‌کنیم آگاه شوید. پیش از استفاده از آب و هوا &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%3$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید. شما در هر زمانی می‌توانید در تنظیمات رضایت خود را نسبت به سیاست حفظ حریم خصوصی آب و هوا پس بگیرید.&lt;/Data></string>
-    <string name="privacy_policy_msg_for_gp">&lt;Data>این برنامه دارای ویژگی‌های زیر است:&lt;br/>• اطلاعات آب و هوا خاص موقعیت شما&lt;br/>• پیش‌بینی آب و هوا&lt;br/>• هشدارهای آب و هوایی&lt;br/>&lt;br/>آب و هوا برای ارائه خدمات پایه‌ای به شما نیاز به گردآوری اطلاعات شخصی شامل داده‌های موقعیت به منظور در دسترس قرار دادن این ویژگی‌ها حتی زمانی که برنامه بسته بوده و یا در حال استفاده نسیت،لازم دارد. شما می‌توانید در&lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما از چگونگی به‌کارگیری اطلاعاتی که گردآوری می‌کنیم آگاه شوید. پیش از استفاده از آب و هوا &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%3$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید. شما در هر زمانی می‌توانید در تنظیمات رضایت خود را نسبت به سیاست حفظ حریم خصوصی آب و هوا پس بگیرید.&lt;/Data></string>
+    <string name="privacy_policy_msg"><Data>این برنامه دارای ویژگی‌های زیر است:&lt;br/>• اطلاعات آب و هوا خاص موقعیت شما&lt;br/>• پیش‌بینی آب و هوا&lt;br/>• هشدارهای آب و هوایی&lt;br/>&lt;br/>آب و هوا برای ارائه خدمات پایه‌ای به شما نیاز به گردآوری اطلاعات شخصی لازم دارد. شما می‌توانید در&lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما از چگونگی به‌کارگیری اطلاعاتی که گردآوری می‌کنیم آگاه شوید. پیش از استفاده از آب و هوا &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%3$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید. شما در هر زمانی می‌توانید در تنظیمات رضایت خود را نسبت به سیاست حفظ حریم خصوصی آب و هوا پس بگیرید.</Data></string>
+    <string name="privacy_policy_msg_for_gp"><Data>این برنامه دارای ویژگی‌های زیر است:&lt;br/>• اطلاعات آب و هوا خاص موقعیت شما&lt;br/>• پیش‌بینی آب و هوا&lt;br/>• هشدارهای آب و هوایی&lt;br/>&lt;br/>آب و هوا برای ارائه خدمات پایه‌ای به شما نیاز به گردآوری اطلاعات شخصی شامل داده‌های موقعیت به منظور در دسترس قرار دادن این ویژگی‌ها حتی زمانی که برنامه بسته بوده و یا در حال استفاده نسیت،لازم دارد. شما می‌توانید در&lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما از چگونگی به‌کارگیری اطلاعاتی که گردآوری می‌کنیم آگاه شوید. پیش از استفاده از آب و هوا &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%3$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید. شما در هر زمانی می‌توانید در تنظیمات رضایت خود را نسبت به سیاست حفظ حریم خصوصی آب و هوا پس بگیرید.</Data></string>
     <string name="privacy_revoke_success">مجوز با موفقیت باطل شد</string>
     <string name="privacy_settings">سیاست حفظ حریم خصوصی</string>
     <string name="pull_fresh_updated">با موفقیت به‌روز شد</string>
@@ -331,10 +328,6 @@
     <string name="realtime_wind_default_title">باد</string>
     <string name="refresh_fail">به شبکه وصل نشد</string>
     <string name="reminder_from_xiaomi_weather_app">هشدار آب و هوای Mi</string>
-    <string name="request_cta_connect_net">به این برنامه اجازه اتصال به اینترنت و مجوزهای اجباری فهرست شده در بالا را بدهید.</string>
-    <string name="request_permission_location_dialog_content">برای نمایش اطلاعات آب و هوای مربوط به موقعیت کنونی شما</string>
-    <string name="request_permission_main_purpose">نمایش اطلاعات آب و هوا</string>
-    <string name="request_permission_storage_dialog_content">برای هم‌رسانی اطلاعات آب و هوا در قالب تصویر</string>
     <string name="revoke_fail">به شبکه متصل نمی‌شود</string>
     <string name="revoke_privacy_policy_title">پس گرفتن رضایت</string>
     <string name="saturday">شنبه</string>
@@ -359,7 +352,7 @@
     <string name="share_button">هم‌رسانی</string>
     <string name="share_menu_title">هم‌رسانی</string>
     <string name="share_subject">هم‌رسانی</string>
-    <string name="share_weather_desc">\# آب و هوای MIUI# امروز%1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">عکس صفحه گرفته نشد</string>
     <string name="shortcut_short_label_24_hour_forecast">پیش‌بینی %d ساعته</string>
@@ -482,9 +475,6 @@
     <string name="update_notification_info">درحال به‌روزرسانی داده‌ها در پس‌زمینه…</string>
     <string name="updated_a_moment_ago">لحظه پیش به‌روز شد</string>
     <string name="user_agreement">توافق‌نامه کاربر</string>
-    <string name="video_banner_regional_weather_update">تغییرات آب و هوایی منطقه‌ای</string>
-    <string name="video_banner_weather_forecast">پیش‌بینی وضعیت آب و هوا</string>
-    <string name="video_banner_weather_update">آخرین تغییرات آب و هوایی</string>
     <string name="view_forecast_item_yesterday">دیروز</string>
     <string name="view_indexes_item_today">امروز</string>
     <string name="view_indexes_item_tommorrow">فردا</string>
@@ -505,9 +495,7 @@
     <string name="wind_power">%d</string>
     <string name="wind_unit">%1$sک.م/س</string>
     <string name="xiaomi_weather_description_content">آب و هوا یک برنامه سیستمی است. پس از حذف برنامه نمی‌توانید اطلاعات آب و هوا را مشاهده کرده یا از ابزارک‌های مربوطه استفاده کنید.</string>
-    <string name="xiaomi_weather_description_content_remove">آب و هوا یک برنامه سیستمی است. پس از برداشتن میان‌بر صفحه اصلی، نمی‌توانید اطلاعات آب و هوا را مشاهده کرده یا از ابزارک‌های مربوطه استفاده کنید.</string>
     <string name="xiaomi_weather_description_title">«آب و هوا» حذف شود؟</string>
-    <string name="xiaomi_weather_description_title_remove">«آب و هوا»‏ از صفحه اصلی برداشته شود؟</string>
     <string name="yes_vote_ratio">برای %1$s%%</string>
     <string name="yesterday">دیروز</string>
 </resources>

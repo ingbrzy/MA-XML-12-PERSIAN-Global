@@ -489,8 +489,8 @@
         <item quantity="one">حذف %d apk باقی‌مانده</item>
     </plurals>
     <plurals name="notification_power_consume_issue">
-        <item quantity="other">%d اشکال مصرف باتری</item>
-        <item quantity="one">%d اشکال مصرف باتری</item>
+        <item quantity="other">%d مورد با مصرف برق بالا</item>
+        <item quantity="one">%d مورد با مصرف برق بالا</item>
     </plurals>
     <plurals name="notification_power_consume_suggest">
         <item quantity="other">بهینه‌سازی %d مورد برای صرفه جویی در مصرف باتری</item>
@@ -641,8 +641,8 @@
         <item quantity="one">زمان</item>
     </plurals>
     <plurals name="power_center_battery_consume_prolblem">
-        <item quantity="other">%d اشکال استفاده از باتری</item>
-        <item quantity="one">%d اشکال استفاده از باتری</item>
+        <item quantity="other">%d مورد با مصرف برق بالا</item>
+        <item quantity="one">%d مورد با مصرف برق بالا</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d روز "</item>
@@ -673,8 +673,8 @@
         <item quantity="one">اصلاح %d مشکل مصرف باتری</item>
     </plurals>
     <plurals name="power_center_battery_problem_result">
-        <item quantity="other">شما می‌توانید %d اشکال مصرف باتری را اصلاح کنید</item>
-        <item quantity="one">شما می‌توانید %d اشکال مصرف باتری را اصلاح کنید</item>
+        <item quantity="other">می‌توانید مصرف برق را برای %d مورد بهینه کنید</item>
+        <item quantity="one">می‌توانید مصرف برق را برای %d مورد بهینه کنید</item>
     </plurals>
     <plurals name="power_center_battery_save_suggest">
         <item quantity="other">" %d مورد را می‌توان بهینه‌سازی کرد"</item>
@@ -727,6 +727,10 @@
     <plurals name="power_main_open_last_minute_screen_on">
         <item quantity="other">روشن کرده تا %s دقیقه به مدت استفاده از نمایشگر افزوده شود</item>
         <item quantity="one">روشن کرده تا %s دقیقه به مدت استفاده از نمایشگر افزوده شود</item>
+    </plurals>
+    <plurals name="power_ntc_dialog_btn">
+        <item quantity="other">متوجه‌ام (%d)</item>
+        <item quantity="one">متوجه‌ام (%d)</item>
     </plurals>
     <plurals name="power_off_warning_button_ok_time">
         <item quantity="other">متوجه‌ام (%d ثانیه)</item>
@@ -821,8 +825,8 @@
         <item quantity="one">%d مشکل باتری یافت شد. آن را رفع کنید</item>
     </plurals>
     <plurals name="quick_optimize_summary_text">
-        <item quantity="other">%d اشکال باتری حل شد</item>
-        <item quantity="one">%d اشکال باتری حل شد</item>
+        <item quantity="other">%d مورد با مصرف برق زیاد بهینه شدند</item>
+        <item quantity="one">%d مورد با مصرف برق زیاد بهینه شد</item>
     </plurals>
     <plurals name="reset_data_dialog_ok_tick">
         <item quantity="other">بازنشانی به تنظیمات کارخانه (%d ثانیه)</item>
@@ -907,6 +911,10 @@
     <plurals name="title_virus_clean">
         <item quantity="other">%d ویروس پاک‌سازی شد</item>
         <item quantity="one">%d ویروس پاک‌سازی شد</item>
+    </plurals>
+    <plurals name="title_virus_scan_model">
+        <item quantity="other">%d ویروس یا برنامه خطرناک</item>
+        <item quantity="one">%d ویروس یا برنامه خطرناک</item>
     </plurals>
     <plurals name="traffic_setting_app_count">
         <item quantity="other">%d برنامه</item>

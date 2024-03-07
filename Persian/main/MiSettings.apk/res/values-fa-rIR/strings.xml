@@ -20,8 +20,10 @@
     <string name="anti_flicker_mode">ضد سوسو زدن</string>
     <string name="anti_flicker_mode_categroy">حالت‌ها</string>
     <string name="anti_flicker_mode_summary">از لرزش بیش از حد پیشگیری کرده و خستگی چشم را در وضعیت نور ضعیف کاهش دهید</string>
+    <string name="anti_flicker_mode_summary_new">برای کاهش فشار چشم در نور کم از نوردهی جریان مستقیم استفاده کنید</string>
     <string name="anti_flicker_title">حالت ضد سوسو زدن</string>
     <string name="app_name">تنظیمات</string>
+    <string name="app_use">مدت استفاده از نمایشگر برنامه</string>
     <string name="application_sound">اعلان‌های برنامه</string>
     <string name="apply_ringtone">Apply</string>
     <string name="arctic_fox">Arctic fox</string>
@@ -84,7 +86,6 @@
     <string name="branch_whipbird">Turdidae</string>
     <string name="brown_pelican">Brown pelican</string>
     <string name="calendar_sound">یادآوری رویدادها</string>
-    <string name="calendar_tip">صدای یادآوری رویدادها برای یادآوری‌های سالنامه، یادداشت‌ها و کارها به کار برده می‌شود</string>
     <string name="canada_goose">Canada goose</string>
     <string name="capybara">Capybara</string>
     <string name="capybara_info">Capybaras are semiaquatic herbivore rodents who can hold their breath underwater for up to five minutes at a time.</string>
@@ -195,7 +196,7 @@
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">h a</string>
+    <string name="fmt_time_12hour_pm">ah</string>
     <string name="fmt_time_24hour">"H 'o''clock'"</string>
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
@@ -227,6 +228,10 @@
     <string name="focus_time_exception_tip">به نظر می‌رسد زمان سیستم تغییر کرده است. حالت تمرکز خاموش شد.</string>
     <string name="follow_apps_settings">بر اساس تنظیمات اپ</string>
     <string name="follow_sim1">به‌کارگیری تنظیمات سیم‌کارت ۱</string>
+    <string name="footer_global_fps">"
+%1$d. وقتی حالت کارایی را روشن می‌کنید، نرخ تازه‌سازی سیستم به حداکثر %2$d هرتز تغییر می‌کند. تنظیمات برنامه با نرخ تازه‌سازی بالا به طور موقت در دسترس نخواهند بود."</string>
+    <string name="footer_max_fps" formatted="false">"
+%d. نرخ تازه‌سازی برای برنامه‌ها و بازی‌های پشتیبانی شده تا %s هرتز باشد."</string>
     <string name="force_rest">استفاده از استراحت دوره</string>
     <string name="force_rest_summary">استراحت‌های اجباری هنگامی که دوره به سقف تنظیم شده می‌رسد</string>
     <string name="force_rest_time">مدت استراحت</string>
@@ -339,17 +344,20 @@
     <string name="marabou_stork">Marabou stork</string>
     <string name="marabou_stork_info">The marabou stork is a massive bird, a frequent scavenger.</string>
     <string name="masked_palm_civet">Masked palm civet</string>
+    <string name="max_fps_string">تا %s هرتز</string>
     <string name="medium_tree_finch">Medium tree finch</string>
+    <string name="mi_transfer_banner_summary">چندین برند دستگاه پشتیبانی می‌شوند</string>
+    <string name="mi_transfer_banner_title">موارد را از دستگاه قدیمی خود انتقال دهید</string>
     <string name="midnight">شب</string>
     <string name="miuix_access_state_desc">انتخاب شده</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">بیشتر</string>
     <string name="miuix_appcompat_cancel_description">لغو</string>
     <string name="miuix_appcompat_confirm_description">تأیید</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
-    <string name="miuix_appcompat_deselect_all">لغو انتخاب</string>
+    <string name="miuix_appcompat_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_deselect_all_description">لغو انتخاب همه</string>
     <string name="miuix_appcompat_search_action_mode_cancel">لغو</string>
     <string name="miuix_appcompat_search_input_description">جستجو</string>
@@ -500,6 +508,7 @@
     <string name="screen_fps_unit">%d هرتز</string>
     <string name="screen_fps_unit_power_save">%d کیلوهرتز (صرفه‌جویی باتری)</string>
     <string name="screen_fps_unit_smooth">%d کیلوهرتز (کیفیت بهتر)</string>
+    <string name="screen_fps_unit_string">%s هرتز</string>
     <string name="screen_original_gamut">بهبود یافته</string>
     <string name="screen_original_gamut_summary">نمایش همه محتویات صفحه در گسترده‌ترین طیف رنگی ممکن</string>
     <string name="screen_paper_mode_apps_loading">چند لحظه صبر کنید…</string>
@@ -555,6 +564,7 @@
     <string name="stop_app_timer_tip">پس از خاموش کردن این ویژگی همه داده‌های مدت استفاده از نمایشگر شامل تنظیمات خاص و همچنین موارد ذخیره محلی و همگام‌سازی شده با فضای ابری حذف خواهند شد.</string>
     <string name="stop_summary">در صورت خاموش کردن این ویژگی همه آمار و داده‌های مدت استفاده از نمایشگر حذف خواهند شد</string>
     <string name="suggestion">بازخورد</string>
+    <string name="summary_max_fps_for_intelligent">تنظیم پویای نرخ تازه‌سازی تا %s هرتز بر اساس موقعیت‌های مختلف به منظور تعادل کارایی با مصرف برق</string>
     <string name="sunday">یک‌شنبه</string>
     <string name="sunday_short">یک‌شنبه</string>
     <string name="sunday_shortest">یک‌شنبه</string>
@@ -709,7 +719,7 @@
 این برنامه همچنین نیاز به اتصال به اینترنت داشته و به مجوزهای زیر به منظور گردآوری اطلاعات شخصی شما نیاز دارد:"</string>
     <string name="usage_home_premission_second_summary">برای امکان استفاده عادی، این برنامه نیاز به گردآوری اطلاعات شخصی شما دارد. ما بر اساس قوانین، مقررات و سیاست‌های حفظ حریم خصوصی مربوطه از اطلاعات شخصی شما محافظت می‌کنیم.</string>
     <string name="usage_home_premission_second_summary_double_link_prefix">ما بر اساس قوانین و مقررات مربوطه و سیاست‌های حفظ حریم خصوصی از اطلاعات شخصی شما محافظت می‌کنیم. در صورت نپذیرفتن دادن چنین مجوزهایی یا هم‌رسانی و بارگذاری اطلاعات شخصی خود، دیگر نمی‌توانید از این برنامه استفاده کنید. در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این برنامه استفاده کنید. شما می‌توانید در مدت استفاده از نمایشگر > تنظیمات > خاموش کردن مدت استفاده از نمایشگر مجوز داده شده خود را باطل کنید.</string>
-    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">"&lt;Data>پیش از استفاده از این برنامه، &lt;a href='%1s'>توافق‌نامه کاربر&lt;/a> و &lt;a href='%2s'>سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.&lt;/Data>"</string>
+    <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false"><Data>"پیش از استفاده از این برنامه، &lt;a href='%1s'>توافق‌نامه کاربر&lt;/a> و &lt;a href='%2s'>سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید."</Data></string>
     <string name="usage_home_premission_second_summary_new">ما بر اساس قوانین و مقررات مربوطه و سیاست‌های حفظ حریم خصوصی از اطلاعات شخصی شما محافظت می‌کنیم.در صورت نپذیرفتن دادن چنین مجوزهایی یا هم‌رسانی و بارگذاری اطلاعات شخصی خود، دیگر نمی‌توانید از این برنامه استفاده کنید. در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این برنامه استفاده کنید. شما می‌توانید در مدت استفاده از نمایشگر > تنظیمات > خاموش کردن مدت استفاده از نمایشگر مجوز داده شده خود را باطل کنید. در صورت داشتن هرگونه پرسش درباره حریم خصوصی، می‌توانید با ما به نشانی privacy@xiaomi.com تماس بگیرید.</string>
     <string name="usage_new_category_limit_summary">تنظیم سقف استفاده روزانه برای همه برنامه‌های این دسته‌بندی</string>
     <string name="usage_new_category_limit_title">محدود کردن استفاده برای دسته‌بندی برنامه‌ها</string>
@@ -757,8 +767,9 @@
     <string name="usage_optional_title">مجوزهای اختیاری</string>
     <string name="usage_permisison_agree_desc_o">برای تهیه آمار مدت استفاده از نمایشگر برای شما، این برنامه نیاز به گردآوری داده‌های زیر دارد: تعداد دفعاتی که دستگاه را قفل کرده‌اید، فهرست برنامه‌های شما به همراه مدت زمان استفاده از آن‌ها.</string>
     <string name="usage_permisison_agree_desc_p">برای تهیه آمار مدت استفاده از نمایشگر و حالت تمرکز برای شما، این برنامه نیاز به گردآوری داده‌های زیر دارد: تعداد دفعاتی که دستگاه را قفل کرده‌اید، فهرست برنامه‌های شما به همراه مدت زمان استفاده از آن‌ها، تعداد دفعات روشن شدن صفحه نمایش شما، و تنظیمات حالت تمرکز.</string>
-    <string name="usage_permission_double_link" formatted="false">"&lt;Data>این برنامه برای کارکرد عادی نیاز به اتصال به اینترنت و گردآوری داده‌های شخصی لازم دارد. به منظور درک کامل حقوق خود به عنوان یک کاربر و همچنین این که داده‌های شما را در چه راهی استفاده می‌کنیم، &lt;a href='%1s'>توافق‌نامه کاربر&lt;/a> و &lt;a href='%2s'>سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.&lt;/Data>"</string>
-    <string name="usage_permission_main_desc">به برنامه مدت استفاده از نمایشگر خوش آمدید! این برنامه برای کارکرد عادی نیازمند اتصال به اینترنت و مجوزهای زیر است:</string>
+    <string name="usage_permission_double_link" formatted="false"><Data>"این برنامه برای کارکرد عادی نیاز به اتصال به اینترنت و گردآوری داده‌های شخصی لازم دارد. به منظور درک کامل حقوق خود به عنوان یک کاربر و همچنین این که داده‌های شما را در چه راهی استفاده می‌کنیم، &lt;a href='%1s'>توافق‌نامه کاربر&lt;/a> و &lt;a href='%2s'>سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید."</Data></string>
+    <string name="usage_permission_main_desc">"به برنامه مدت استفاده از نمایشگر خوش آمدید!
+این برنامه برای کارکرد عادی نیازمند اتصال به اینترنت و مجوزهای زیر است:"</string>
     <string name="usage_permission_title">توجه</string>
     <string name="usage_reach_device_limit">زمان به پایان رسید! شما به محدودیت خود رسیدید.</string>
     <string name="usage_reach_device_limit_warning_text">شما به محدودیت مدت استفاده از نمایشگر خود برای امروز رسیدید</string>

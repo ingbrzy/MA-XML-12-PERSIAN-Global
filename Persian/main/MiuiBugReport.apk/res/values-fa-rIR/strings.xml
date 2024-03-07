@@ -52,6 +52,7 @@
     <string name="bugreport_dump_start_notification_title">درحال ایجاد گزارش اشکال…</string>
     <string name="bugreport_tool_log_dumping_desc">حدود یک دقیقه طول می‌کشد</string>
     <string name="bugreport_tool_log_dumping_title">درحال ایجاد گزارش اشکال</string>
+    <string name="can_not_add_more_image">عکس یا ویدئوی بیشتری افزوده نمی‌شود</string>
     <string name="catch_full_log_action_cancel">لغو</string>
     <string name="catch_full_log_action_complete">پایان و بارگذاری</string>
     <string name="catch_full_log_action_start">آغاز</string>
@@ -127,6 +128,15 @@
     <string name="discard_draft_dialog_content">هر تغییری که در این گزارش ایجاد کرده باشید از دست خواهد رفت.</string>
     <string name="discard_draft_dialog_title">پیش‌نویس دور انداخته شود؟</string>
     <string name="doing_query_account">درحال بررسی اطلاعات حساب…</string>
+    <string name="dynamic_dialog_content">شما در حال شروع به تولید گزارش‌های پویا هستید. آنها حاوی پیشینه‌های عملیات نرم افزار (مانند تماس‌های سیستمی) هستند. در حالی که گزارش‌های پویا در حال تولید هستند، ممکن است دستگاه شما واکنشی نشان نداده و یا گرم شود، که طبیعی است. پس از ایجاد گزارش‌ها، این ویژگی خاموش می‌شود. به خاطر داشته باشید که در صورت تکرار مشکل، بازخورد خود را به موقع ارسال کنید. با زدن روی «می‌پذیرم» در زیر، می‌پذیرید که هنگام تولید گزارش‌ها، داده‌های بالا را گردآوری کنیم و سپس گزارش‌ها را در سرورهای خود بارگذاری کنیم تا به تشخیص و حل مشکلاتی که گزارش کرده‌اید کمک کنیم.</string>
+    <string name="dynamic_dialog_negative_text">نمی‌پذیرم</string>
+    <string name="dynamic_dialog_notification_text">بلافاصله پس از تولید گزارش‌ها، این ویژگی خاموش خواهد شد</string>
+    <string name="dynamic_dialog_notification_title">در حال تولید گزارش‌های پویا…</string>
+    <string name="dynamic_dialog_positive_text">می‌پذیرم</string>
+    <string name="dynamic_dialog_title">توضیحات حریم خصوصی</string>
+    <string name="dynamic_log_load_text">چند لحظه صبر کنید…</string>
+    <string name="dynamic_log_restore_toast_text">در حال بازیابی گزارش‌های پویا…</string>
+    <string name="dynamic_log_title">گزارش‌های پویا</string>
     <string name="early_morning">صبح</string>
     <string name="empty" />
     <string name="eras_ad">میلادی</string>
@@ -157,7 +167,7 @@
     <string name="facebook_login_btn_content_description">ورود با فیسبوک</string>
     <string name="failed_to_fetch_fql">اطلاعات پرسش‌های متداول و پاسخ دریافت نشد. اتصال اینترنت را بررسی کنید</string>
     <string name="feedback_account_inconsistent_login_hint">به نظر می‌رسد حساب‌های خود را عوض کرده‌اید. وارد حساب Xiaomi پیشین خود شوید.</string>
-    <string name="feedback_account_login_hint">ابتدا وارد حساب Xiaomi خود شوید</string>
+    <string name="feedback_account_login_hint">وارد حساب Xiaomi شوید!</string>
     <string name="feedback_answer_detail_feedback_resolved">بله</string>
     <string name="feedback_answer_detail_feedback_result">از بارخورد شما سپاسگزاریم!</string>
     <string name="feedback_answer_detail_feedback_title">آیا این پاسخ مفید بود؟</string>
@@ -182,7 +192,7 @@
 %1$d. در کدام برنامه یا در کدام صفحه با اشکال روبرو شده‌اید؟
 %2$d. بعد از چه اقداماتی که انجام دادید این اشکال نمایان شد؟
 %3$d. اطلاعات بیشتری که ممکن است در رفع اشکال به ما کمک کند، به ما بدهید."</string>
-    <string name="feedback_description_hint_suggestion">به ما بگویید چگونه دوست دارید MIUI را بهتر کنید.</string>
+    <string name="feedback_description_hint_suggestion">به ما بگویید چگونه بهتر شویم.</string>
     <string name="feedback_description_suggest_hint">مایلم شما یک ویژگی جدید () بیافزایید زیرا احتیاج دارم ().</string>
     <string name="feedback_detail_copy_toast">در حافظه موقت کپی شد</string>
     <string name="feedback_detail_feedback_attach">پیوست‌ها</string>
@@ -209,13 +219,13 @@
     <string name="feedback_evaluation_success_dialog_content">از بارخوردتان سپاسگزاریم!</string>
     <string name="feedback_evaluation_success_dialog_title">نمره با موفقیت ثبت شد</string>
     <string name="feedback_guess">حدس‌های ما:</string>
-    <string name="feedback_history_remind_login_desc">با حساب Mi وارد شوید تا جزئیات و روند گزارش خود را مشاهده کنید</string>
+    <string name="feedback_history_remind_login_desc">با حساب Xiaomi وارد شوید تا جزئیات و روند گزارش خود را مشاهده کنید</string>
     <string name="feedback_id">کد شناسایی: %d</string>
     <string name="feedback_jira_key">کلید JIRA: %s</string>
     <string name="feedback_jira_key_place_holder">درحال ایجاد یک Jira…</string>
     <string name="feedback_package_log_failed">گزارش‌ها فشرده نشد</string>
     <string name="feedback_remind_login_btn">ورود</string>
-    <string name="feedback_report_remind_login_desc">با حساب Mi خود وارد شوید تا مهندسین ما بتوانند با شما تماس بگیرند.</string>
+    <string name="feedback_report_remind_login_desc">با حساب Xiaomi خود وارد شوید تا مهندسین ما بتوانند با شما تماس بگیرند.</string>
     <string name="feedback_report_remind_login_desc2">شما همچنین می‌توانید روند گزارش خود را در «بازخورد من» ببینید.</string>
     <string name="feedback_reproductivity_everytime">هر بار</string>
     <string name="feedback_reproductivity_occasionally">گهگاه</string>
@@ -302,7 +312,7 @@
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">h a</string>
+    <string name="fmt_time_12hour_pm">ah</string>
     <string name="fmt_time_24hour">"H 'o''clock'"</string>
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
@@ -336,6 +346,10 @@
     <string name="hint_feedback_main">این مسئله را توضیح دهید</string>
     <string name="i_get_it">متوجه‌ام</string>
     <string name="i_know">متوجه‌ام</string>
+    <string name="icon_add_description">افزودن میان‌بر صفحه اصلی</string>
+    <string name="icon_remove_confirm">حذف</string>
+    <string name="icon_remove_description_content">«خدمات و بازخورد» یک برنامه سیستمی است. پس از حذف میانبر صفحه اصلی، همچنان می‌توانید از طریق تنظیمات از آن استفاده کنید.</string>
+    <string name="icon_remove_description_title">«خدمات و بازخورد» از صفحه اصلی برداشته شود؟</string>
     <string name="input_email_address_notice">ما از این ایمیل برای تایید حساب شما استفاده خواهیم کرد</string>
     <string name="issue_search">جستجو</string>
     <string name="jump_full_log_dialog_cancel">لغو</string>
@@ -343,8 +357,8 @@
     <string name="jump_full_log_dialog_content">رخدادها به ما کمک می‌کنند تا اشکالاتی که می‌خواهید گزارش کنید را سریع‌تر مکان‌یابی و اصلاح کنیم. رخدادها را تولید و به بازخورد خود پیوست کنید.</string>
     <string name="jump_full_log_dialog_title">تولید رخداد</string>
     <string name="kr_authorization_agree">پذیرفتن</string>
-    <string name="kr_authorization_contact">حساب‌ها</string>
-    <string name="kr_authorization_contact_desc">برای دسترسی به اطلاعات حساب Mi به منظور شناسایی دستگاه</string>
+    <string name="kr_authorization_contact">حساب</string>
+    <string name="kr_authorization_contact_desc">برای دسترسی به اطلاعات حساب Xiaomi به منظور شناسایی دستگاه</string>
     <string name="kr_authorization_exit">خروج</string>
     <string name="kr_authorization_function">ارسال بازخورد، تولید رخدادها و دیدن پرسش‌های متداول</string>
     <string name="kr_authorization_log_protocol">پروتکل گزارش (اختیاری)</string>
@@ -370,20 +384,115 @@
     <string name="logout_account">خروج از حساب</string>
     <string name="menu_copy">کپی</string>
     <string name="message_label">پیام</string>
+    <string name="mi_service_app_name">خدمات و بازخورد</string>
+    <string name="mi_service_back">بازگشت</string>
     <string name="mi_service_dialog_cancel">خروج</string>
     <string name="mi_service_dialog_confirm">باز کردن</string>
     <string name="mi_service_dialog_content">همه ویژگی‌های بازخورد به برنامه جدید «خدمات و بازخورد» منتقل شده‌اند. برنامه بازخورد از صفحه اصلی شما حذف خواهد شد. روی «باز کردن» زده تا «خدمات و بازخورده» را امتحان کنید.</string>
     <string name="mi_service_dialog_title">معرفی «خدمات و بازخورد»</string>
     <string name="midnight">شب</string>
+    <string name="miui_feedback_answer_detail_community">شما می‌توانید پاسخ پرسش‌های خود را در مجمع Xiaomi بیابید</string>
+    <string name="miui_feedback_answer_detail_feedback_resolved">بله</string>
+    <string name="miui_feedback_answer_detail_feedback_result">از بازخورد شما سپاسگزاریم!</string>
+    <string name="miui_feedback_answer_detail_feedback_title">آیا اطلاعات مفید بود؟</string>
+    <string name="miui_feedback_answer_detail_feedback_unresolved">خیر</string>
+    <string name="miui_feedback_answer_detail_menu_online_service">راهنمای آنلاین</string>
+    <string name="miui_feedback_answer_detail_menu_phone_service">تماس با پشتیبانی مشتریان</string>
+    <string name="miui_feedback_answer_detail_relative_tip">اطلاعات مربوطه</string>
+    <string name="miui_feedback_answer_detail_title">جزئیات</string>
+    <string name="miui_feedback_edit_action_submit">ارسال</string>
+    <string name="miui_feedback_edit_add_original_images">افوزدن عکس</string>
+    <string name="miui_feedback_edit_add_original_images_dialog_content">اگر اشکالی که گزارش می‌کنید به کیفیت تصویر دوربین مربوط می‌شود، یک عکس نمونه اصلی (بریده نشده) افزوده تا به ما در یافتن اشکال کمک کنید. اکنون عکس افزوده شود؟</string>
+    <string name="miui_feedback_edit_choose_module">انتخاب مورد</string>
+    <string name="miui_feedback_edit_choose_module_hint">لازم</string>
+    <string name="miui_feedback_edit_choose_occurrence_time">زمان</string>
+    <string name="miui_feedback_edit_choose_reproductivity">امکان بروز دوباره</string>
+    <string name="miui_feedback_edit_choose_third_app_name">انتخاب نام برنامه</string>
+    <string name="miui_feedback_edit_contact_info_hint">شماره تلفن/ایمیل</string>
+    <string name="miui_feedback_edit_delete_images">حذف تصاویر</string>
+    <string name="miui_feedback_edit_desc_hint">مشکلی که با آن روبرو شدید را شرح دهید</string>
+    <string name="miui_feedback_edit_desc_hint_suggestion">به ما بگویید چگونه دوست دارید MIUI را بهتر کنید</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_button_cancel">ماندن در همین‌جا</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_button_discard">صرف‌نظر</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_content">هر تغییری که در این گزارش ایجاد کرده باشید از دست خواهد رفت.</string>
+    <string name="miui_feedback_edit_discard_draft_dialog_title">پیش‌نویس دور انداخته شود؟</string>
+    <string name="miui_feedback_edit_hint">هر زمان با مشکلی مواجه شدید، اشکالات را گزارش دهید تا به ما در حل سریع‌تر آنها کمک کنید</string>
+    <string name="miui_feedback_edit_hint_gone">پیام بسته شده</string>
+    <string name="miui_feedback_edit_hint_optional">انتخاب</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_cancel">منتظر Wi-Fi می‌مانم</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_confirm">بارگذاری</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_content">به نظر می‌رسد به یک شبکه پولی وصل شده‌اید. بارگذاری گزارشات ممکن است باعث ایجاد هزینه‌های اضافی خواهد شد.</string>
+    <string name="miui_feedback_edit_mobile_data_note_dialog_title">هشدار مصرف اینترنت همراه</string>
+    <string name="miui_feedback_edit_need_phone_state_permission">به برنامه اجازه دسترسی به اطلاعات دستگاه را داده تا بتواند IMEI شما را بخواند که بتواند به یافتن اشکالات کمک کند. برای باز کردن تنظیمات روی \"تأیید\" بزنید.</string>
+    <string name="miui_feedback_edit_need_storage_permission">به برنامه اجازه دسترسی به حافظه دستگاه را داده تا بتواند تصاویر و ویدئوها را ضمیمه بازخورد شما کند. برای باز کردن تنظیمات روی \"تأیید\" بزنید.</string>
+    <string name="miui_feedback_edit_permission_denied_title">مجوزهای محدود شده: %1$s</string>
+    <string name="miui_feedback_edit_phone_state_permission_name">دسترسی به اطلاعات دستگاه</string>
+    <string name="miui_feedback_edit_reproductivity_everytime">هر بار</string>
+    <string name="miui_feedback_edit_reproductivity_occasionally">گهگاه</string>
+    <string name="miui_feedback_edit_reproductivity_often">بیشتر وقت‌ها</string>
+    <string name="miui_feedback_edit_reproductivity_once">یک‌بار</string>
+    <string name="miui_feedback_edit_select_images">یک تصویر یا یک ویدئوی کوتاه بیافزایید</string>
+    <string name="miui_feedback_edit_select_modem_log">افزودن گزارشات مودم</string>
+    <string name="miui_feedback_edit_select_modem_log_not_select_desc">\"افزودن گزارشات مودم\" انتخاب نشده است</string>
+    <string name="miui_feedback_edit_select_modem_log_select_desc">\"افزودن گزارشات مودم\" انتخاب شده است</string>
+    <string name="miui_feedback_edit_select_original_images">تصویر اصلی یا یک ویدئوی کوتاه بیافزایید</string>
+    <string name="miui_feedback_edit_select_problem">اشکالات</string>
+    <string name="miui_feedback_edit_select_problem_not_select_desc">\"اشکالات\" انتخاب نشده</string>
+    <string name="miui_feedback_edit_select_problem_select_desc">\"اشکالات\" انتخاب شده</string>
+    <string name="miui_feedback_edit_select_suggestion">پیشنهادات</string>
+    <string name="miui_feedback_edit_select_suggestion_not_select_desc">\"پیشنهادات\" انتخاب نشده</string>
+    <string name="miui_feedback_edit_select_suggestion_select_desc">\"پیشنهادات\" انتخاب شده</string>
+    <string name="miui_feedback_edit_select_upload_log">افزودن گزارش</string>
+    <string name="miui_feedback_edit_select_upload_log_not_select_desc">\"افزودن گزارشات\" انتخاب نشده است</string>
+    <string name="miui_feedback_edit_select_upload_log_select_desc">\"افزودن گزارشات\" انتخاب شده است</string>
+    <string name="miui_feedback_edit_storage_permission_name">دسترسی به حافظه دستگاه</string>
+    <string name="miui_feedback_edit_submit_dialog_cancel">مخالفت</string>
+    <string name="miui_feedback_edit_submit_dialog_confirm">پذیرفتن</string>
+    <string name="miui_feedback_edit_submit_dialog_content">&lt;Data>برای استفاده از بازخورد، شما باید &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">سیاست حفظ حریم خصوصی&lt;/a> و &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">توافقنامه کاربر&lt;/a> ما را بپذیرید. اشکالاتی که گزارش می‌کنید همراه با مواردی که ضمیمه‌های آن (ممکن است حاوی اطلاعات شخصی همچون اطلاعات درباره دستگاه و شبکه شما باشد) در سرورهای MIUI بارگذاری خواهند شد. این کار به ما در یافتن و حل اشکالاتی که گزارش می‌کنید به ما کمک خواهد کرد.&lt;/Data></string>
+    <string name="miui_feedback_edit_submit_dialog_content_global">&lt;Data>بازخورد شما همراه با پیوست‌های آن (درصورت داشتن) و گزارشات (می‌توانید تیک مواردی را که نمی‌خواهید بارگذاری شوند را بردارید) به سرورهای MIUI ارسال خواهند شد. گزارشات ممکن است حاوی اطلاعات شخصی و داده‌های موقعیت مکانی شما باشند. انتخاب پذیرفتن به معنی آن است که شما &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">سیاست حفظ حریم خصوصی&lt;/a> و &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">توافق‌نامه کاربر&lt;/a> ما را خوانده و پذیرفته‌اید.&lt;/Data></string>
+    <string name="miui_feedback_edit_submit_dialog_not_show_again">دوباره نمایش داده نشود</string>
+    <string name="miui_feedback_edit_submit_dialog_title">ارسال گزارش</string>
+    <string name="miui_feedback_edit_submit_directly">ارسال</string>
+    <string name="miui_feedback_edit_title_occurrence_time">انتخاب زمان</string>
+    <string name="miui_feedback_edit_title_reproductivity">امکان بروز دوباره را انتخاب کنید</string>
+    <string name="miui_feedback_edit_toast_description_required">ابتدا مشکل را شرح دهید</string>
+    <string name="miui_feedback_edit_toast_module_required">انتخاب مورد</string>
+    <string name="miui_feedback_edit_toast_more_desc_required">توضیحات شما باید طولانی‌تر باشد</string>
+    <string name="miui_feedback_edit_toast_problem_class_required">انتخاب دسته</string>
+    <string name="miui_feedback_edit_toast_third_packagename_required">نام برنامه را وارد کنید</string>
+    <string name="miui_feedback_main_answer_title">برای این پرسش پاسخی هست</string>
+    <string name="miui_feedback_main_customer_service_onfo_for_jp">"تماس مستقیم‏: ۰۱۲۰-۳۰۰-۵۲۱
+ساعات کاری: ۹:۰۰ تا ۱۸:۰۰ (به جز روزهای تعطیلی بانکی و از پیش تعیین شده)
+ایمیل: service.jp@xiaomi.com"</string>
+    <string name="miui_feedback_main_frequent_question_title">پرسش‌های متداول</string>
+    <string name="miui_feedback_main_item_catch_full_log">گزارشات</string>
+    <string name="miui_feedback_main_item_customer_service">خدمات پس از فروش</string>
+    <string name="miui_feedback_main_item_feedback_list">بازخورد من</string>
+    <string name="miui_feedback_main_item_official_progress">Repair progress</string>
+    <string name="miui_feedback_main_item_official_progress_hint">Update repair progress regularly in Xiaomi Community</string>
+    <string name="miui_feedback_main_menu_view_privacy">سیاست حفظ حریم خصوصی</string>
+    <string name="miui_feedback_main_menu_view_withdraw_consent">پس گرفتن رضایت</string>
+    <string name="miui_feedback_main_search_footer">این‌ها پرسش‌هایی نیستند که شما می‌خواستید بپرسید؟</string>
+    <string name="miui_feedback_main_search_footer_submit">ارسال بازخورد</string>
+    <string name="miui_feedback_main_search_issue">برای جستجو کلیدواژه‌ها را وارد کنید</string>
+    <string name="miui_feedback_main_search_no_answer">نتیجه‌ای یافت نشد</string>
+    <string name="miui_feedback_main_start_submit">ارسال بازخورد</string>
+    <string name="miui_feedback_main_submit_dialog_confirm">ارسال</string>
+    <string name="miui_feedback_main_submit_dialog_content">به نظر می‌رسد برای اشکال شما راه حلی پیدا نکردیم. می‌توانید بازخورد خود را برای ما ارسال کنید.</string>
+    <string name="miui_feedback_main_submit_dialog_title">ارسال بازخورد</string>
+    <string name="miui_feedback_main_title">بازخورد</string>
+    <string name="miui_feedback_main_withdraw">پس گرفتن</string>
+    <string name="miui_feedback_main_withdraw_consent_hint">در صورت ادامه، رضایت خود را نسبت به سیاست حفظ حریم خصوصی %1$s بر می‌دارید. اطلاعات شخصی که تا کنون گردآوری و نگهداری شده‌اند بر اساس قوانین و مقررات قابل اجرا در مدت زمان مشخص حذف خواهند شد، مگر این‌که به شکل دیگری نیاز باشد. از آن‌جا که %2$s خدمات خود را بر اساس گردآوری اطلاعات شخصی لازم ارائه می‌دهد، پس گرفتن رضایت شما به منزله خودداری از پذیرش خدمات %3$s خواهد بود. رضایت پس گرفته شود؟</string>
+    <string name="miui_feedback_note_install_xiaomi_community">Install Xiaomi Community to be able to use this feature.</string>
     <string name="miuix_access_state_desc">انتخاب شده</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">بیشتر</string>
     <string name="miuix_appcompat_cancel_description">لغو</string>
     <string name="miuix_appcompat_confirm_description">تأیید</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
-    <string name="miuix_appcompat_deselect_all">لغو انتخاب</string>
+    <string name="miuix_appcompat_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_deselect_all_description">لغو انتخاب همه</string>
     <string name="miuix_appcompat_search_action_mode_cancel">لغو</string>
     <string name="miuix_appcompat_search_input_description">جستجو</string>
@@ -465,6 +574,7 @@
     <string name="month_september_shortest">سپتامبر</string>
     <string name="more">بیشتر</string>
     <string name="morning">صبح</string>
+    <string name="net_daig_network_repair">تعمیر شبکه</string>
     <string name="net_diag_cancel">لغو</string>
     <string name="net_diag_continue">ادامه</string>
     <string name="net_diag_dialog_msg">آزمایش شبکه به شما در شناسایی اشکالات و بهبود اتصال شما کمک می‌کند.</string>
@@ -479,9 +589,15 @@
     <string name="net_diag_entry_network_protocol">پروتکل شبکه</string>
     <string name="net_diag_entry_network_rssi">کیفیت سیگنال</string>
     <string name="net_diag_entry_router_topology">رهیابی شبکه</string>
+    <string name="net_diag_fix_guide_window_msg">یک خطای شبکه رخ داد. برای عیب‌یابی ضربه بزنید.</string>
+    <string name="net_diag_fixing">درحال تعمیر شبکه. این کار ممکن است دقیقه‌ای طول بکشد.</string>
     <string name="net_diag_header_internet">اینترنت</string>
     <string name="net_diag_header_router">رهیاب</string>
     <string name="net_diag_header_this_device">این دستگاه</string>
+    <string name="net_diag_repair_msg">در هنگام انجام این فرایند، Wi-Fi قطع و سپس وصل دوباره وصل خواهد شد. تعمیر شود؟</string>
+    <string name="net_diag_repair_msg_china">در هنگام انجام این فرایند، WLAN قطع و سپس وصل دوباره وصل خواهد شد. تعمیر شود؟</string>
+    <string name="net_diag_repair_static_ip_msg">پیکربندی‌های شبکه ممکن است در هنگام این فرایند بازنشانی شوند. اکنون تعمیر شوند؟</string>
+    <string name="net_diag_repair_title">شبکه تعمیر شود؟</string>
     <string name="net_diag_title">آزمایش شبکه</string>
     <string name="net_diag_toast_cellular_data">برای آزمایش شبکه، ابتدا اینترنت همراه را خاموش کنید.</string>
     <string name="net_diag_toast_other_networks">برای آزمایش شبکه، ابتدا به Wi-Fi متصل شده و اتصال را از سایر شبکه‌ها قطع کنید.</string>
@@ -499,6 +615,7 @@
     <string name="no_account">وارد حساب نشده است</string>
     <string name="non_system_app_select">برنامه‌های دانلود شده</string>
     <string name="noon">ظهر</string>
+    <string name="not_support_service_in_maintenance_mode">این خدمات در حالت نگهداری در دسترس نیستند</string>
     <string name="nothing">--</string>
     <string name="open_feedback_main">بیشتر</string>
     <string name="open_settings">تنظیمات</string>
@@ -595,6 +712,26 @@
     <string name="passport_wrong_phone_number_format">فرمت شماره تلفنی که وارد کرده اید نامعتبر است</string>
     <string name="passport_wrong_vcode">کدی را که وارد کرده‌اید اشتباه است</string>
     <string name="passport_wrong_voice">کدی را که وارد کرده‌اید اشتباه است</string>
+    <string name="permission_agree">پذیرفتن</string>
+    <string name="permission_china_version_msg">&lt;Data>پیش از استفاده از «خدمات و بازخورد» شما باید &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید. این برنامه همچنین برای کارکرد عادی نیاز به اتصال به اینترنت دارد.&lt;/Data></string>
+    <string name="permission_complete">انجام شد</string>
+    <string name="permission_contacts_info">دسترسی به اطلاعات حساب</string>
+    <string name="permission_contacts_introduce">برای ورود به حساب با استفاده از حساب Xiaomi</string>
+    <string name="permission_device_info">دسترسی به اطلاعات دستگاه</string>
+    <string name="permission_device_introduce">برای تعیین دوره محدود ضمانت</string>
+    <string name="permission_exit">خروج</string>
+    <string name="permission_external_storage_introduce">برای ذخیره و بارگذاری بازخورد شما</string>
+    <string name="permission_first_start_network_title">شرایط و ضوابط</string>
+    <string name="permission_imei_disable_desc">اجازه وصل شدن این برنامه به اینترنت.</string>
+    <string name="permission_imei_enable_desc">به این برنامه اجازه اتصال به اینترنت و مجوزهای اجباری فهرست شده در بالا را بدهید.</string>
+    <string name="permission_location_introduce">برای نمایش مراکز خدماتی نزدیک</string>
+    <string name="permission_main_purpose">نمایش دموی ویژگی‌ها، ارسال بازخورد و درخواست خدمات پس از فروش.</string>
+    <string name="permission_privacy">سیاست حفظ حریم خصوصی (اجباری)</string>
+    <string name="permission_region_version_msg">&lt;Data>پیش از استفاده از «خدمات و بازخورد» شما باید &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.&lt;/Data></string>
+    <string name="permission_select_all">انتخاب همه</string>
+    <string name="permission_storage">حافظه</string>
+    <string name="permission_storage_introduce">برای ذخیره موارد در دستگاه شما</string>
+    <string name="permission_user_protocol">توافق‌نامه کاربر (اجباری)</string>
     <string name="phone_auto_login_register_with_local_number">ایجاد حساب</string>
     <string name="photoPickerNotFoundText">هیچ عکسی در دسترس نیست.</string>
     <string name="please_download_gallery">برای نمایش گالری را نصب کنید</string>
@@ -602,13 +739,21 @@
     <string name="post_miui_bbs_failed">به انجمن MIUI ارسال نشد</string>
     <string name="privacy_category_title">حریم خصوصی</string>
     <string name="privacy_policy_title">سیاست حفظ حریم خصوصی</string>
-    <string name="privacy_policy_update_hint">"%1$s Privacy Policy was updated:
+    <string name="privacy_policy_update_hint">"سیاست حفظ حریم خصوصی %1$s به‌روز شد:
 %2$s
-Read and agree to the new version of %3$s before you continue."</string>
+پیش از ادامه، نسخه جدید %3$s را خوانده و پذیرید."</string>
     <string name="privacy_policy_update_title">سیاست حفظ حریم خصوصی به‌روز شده</string>
     <string name="progressbar_title">درحال بررسی خطرات امنیتی…</string>
     <string name="protocal_dialog_confirm">پذیرفتن</string>
     <string name="protocal_dialog_title">توجه</string>
+    <string name="public_authorize_now">تنظیمات</string>
+    <string name="public_loading_text">چند لحظه صبر کنید…</string>
+    <string name="public_net_error_retry">تلاش دوباره</string>
+    <string name="public_net_error_sub_title">تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید</string>
+    <string name="public_net_error_title">به شبکه متصل نشد</string>
+    <string name="public_open_feedback_service">آغاز</string>
+    <string name="public_please_authorize">برای ادامه نیازمند مجوز است</string>
+    <string name="public_welcome_use_feedback_service">به خدمات و بازخورد خوش آمدید! شما می‌توانید از این برنامه برای ارسال بازخورد، مشاهده پرسش‌های متداول، درخواست بازپرداخت، مبادله محصول و موارد بیشتر استفاده کنید.</string>
     <string name="qq_login_btn_content_description">ورود با QQ</string>
     <string name="refresh">تازه‌سازی</string>
     <string name="register_by_local_phone_long_text">ایجاد حساب</string>
@@ -618,7 +763,7 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="reply_option_log_hint">اختیاری</string>
     <string name="reply_select_log_hint">انتخاب گزارش</string>
     <string name="reply_successful">با موفقیت پاسخ داده شد</string>
-    <string name="report_miui">گزارش اشکال</string>
+    <string name="report_miui">ارسال بازخورد</string>
     <string name="request_agree">اجازه دادن</string>
     <string name="request_camera_permission_message">ما بر اساس قوانین و مقررات مربوطه از اطلاعات شخصی شما محافظت خواهیم کرد. این برنامه برای کارکرد عادی نیاز به مجوزهای زیر دارد:&lt;br>&lt;br>&lt;b>استفاده از دوربین (برای تنظیم عکس نمایه شما)&lt;/b>&lt;br>&lt;br>در صورت نپذیرفتن از دادن چنین مجوزهایی، دیگر نمی‌توانید از برخی از ویژگی‌های این برنامه استفاده کنید؛ به هر حال، ویژگی‌های پایه‌ای آن همچنان برای شما فراهم هست. شما همواره می‌توانید در تنظیمات مجوزها را محدود و یا اجازه خود را بردارید.</string>
     <string name="request_cancel">لغو</string>
@@ -651,9 +796,9 @@ Read and agree to the new version of %3$s before you continue."</string>
     <string name="stop_full_log_dialog_title">درحال تولید گزارشات…</string>
     <string name="submit_dialog_cancel">مخالفت</string>
     <string name="submit_dialog_confirm">پذیرفتن</string>
-    <string name="submit_dialog_content">&lt;Data>پیش از ارسال بازخورد، &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> و &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> ما را خوانده و بپذیرید. اشکالاتی که گزارش می‌کنید به همراه مواردی که پیوست می‌کنید (شامل گزارشات که ممکن است دارای اطلاعات شخصی و نیز اطلاعات درباره شبکه و دستگاه شما باشند) در سرورهای MIUI بارگذاری خواهند شد. این کار در مکان‌یابی و حل اشکالاتی که گزارش می‌کنید ما را یاری می‌کند. اگر اشکالاتی که گزارش می‌کنید به چندین دستگاه مربوط است، گزارشات از سایر دستگاه‌هایی که حساب Mi شما مورد استفاده آن‌ها قرار گرفته است نیز بارگذاری خواهد شد.&lt;/Data></string>
-    <string name="submit_dialog_content_global">&lt;Data>بازخورد شما همراه با پیوست‌های آن (درصورت داشتن) و گزارشات (می‌توانید تیک مواردی را که نمی‌خواهید بارگذاری شوند را بردارید) به سرورهای MIUI ارسال خواهند شد. گزارشات ممکن است حاوی اطلاعات شخصی و داده‌های موقعیت مکانی شما باشند. انتخاب پذیرفتن به معنی آن است که شما &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> و &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> ما را خوانده و پذیرفته‌اید.&lt;/Data></string>
-    <string name="submit_dialog_content_global_with_contactinfo">&lt;Data>بازخورد شما همراه با پیوست‌های آن (درصورت داشتن)، رخدادها (می‌توانید تیک مواردی را که نمی‌خواهید بارگذاری شوند را بردارید) و شماره تلفن یا ایمیل (در صورت داشتن) به سرورهای MIUI ارسال خواهند شد. رخدادها ممکن است حاوی اطلاعات شخصی و داده‌های موقعیت مکانی شما باشند. انتخاب «پذیرفتن» به معنی آن است که شما &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> و &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> ما را خوانده و پذیرفته‌اید.&lt;/Data></string>
+    <string name="submit_dialog_content">&lt;Data>پیش از ارسال بازخورد، &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> و &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> ما را خوانده و بپذیرید. اشکالاتی که گزارش می‌کنید به همراه مواردی که پیوست می‌کنید (شامل گزارشات که ممکن است دارای اطلاعات شخصی و نیز اطلاعات درباره شبکه و دستگاه شما باشند) در سرورهای ما بارگذاری خواهند شد. این کار در مکان‌یابی و حل اشکالاتی که گزارش می‌کنید ما را یاری می‌کند. اگر اشکالاتی که گزارش می‌کنید به چندین دستگاه مربوط است، گزارشات از سایر دستگاه‌هایی که حساب Xiaomi شما مورد استفاده آن‌ها قرار گرفته است نیز بارگذاری خواهد شد.&lt;/Data></string>
+    <string name="submit_dialog_content_global">&lt;Data>بازخورد شما همراه با پیوست‌های آن (درصورت داشتن) و گزارشات (می‌توانید تیک مواردی را که نمی‌خواهید بارگذاری شوند را بردارید) به سرورهای ما ارسال خواهند شد. گزارشات ممکن است حاوی اطلاعات شخصی و داده‌های موقعیت مکانی شما باشند. انتخاب «پذیرفتن» به معنی آن است که شما &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> و &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> ما را خوانده و پذیرفته‌اید.&lt;/Data></string>
+    <string name="submit_dialog_content_global_with_contactinfo">&lt;Data>بازخورد شما همراه با پیوست‌های آن (درصورت داشتن) و گزارشات (می‌توانید تیک مواردی را که نمی‌خواهید بارگذاری شوند را بردارید) به سرورهای ما ارسال خواهند شد. گزارشات ممکن است حاوی اطلاعات شخصی و داده‌های موقعیت مکانی شما باشند. انتخاب «پذیرفتن» به معنی آن است که شما &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> و &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> ما را خوانده و پذیرفته‌اید.&lt;/Data></string>
     <string name="submit_dialog_not_show_again">دوباره نمایش داده نشود</string>
     <string name="submit_dialog_title">ارسال گزارش</string>
     <string name="submit_feedback_info_failed">گزارش ارسال نشد</string>

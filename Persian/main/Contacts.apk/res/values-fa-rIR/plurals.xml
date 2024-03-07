@@ -5,16 +5,16 @@
         <item quantity="one">۱ ساعت پیش</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">۱ ساعت پیش</item>
-        <item quantity="one">۱ ساعت پیش</item>
+        <item quantity="other">%d ساعت پیش</item>
+        <item quantity="one">%d ساعت پیش</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">نیم ساعت پیش</item>
         <item quantity="one">نیم ساعت پیش</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">در ۱ ساعت</item>
-        <item quantity="one">در ۱ ساعت</item>
+        <item quantity="other">تا %d ساعت دیگر</item>
+        <item quantity="one">تا %d ساعت دیگر</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">در نیم ساعت</item>
@@ -25,8 +25,8 @@
         <item quantity="one">فوری</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">در %d دقیقه</item>
-        <item quantity="one">در ۱ دقیقه</item>
+        <item quantity="other">تا %d دقیقه دیگر</item>
+        <item quantity="one">تا %d دقیقه دیگر</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">چند لحظه پیش</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d دقیقه پیش</item>
-        <item quantity="one">۱ دقیقه پیش</item>
+        <item quantity="one">%d دقیقه پیش</item>
     </plurals>
     <plurals name="batch_delete_msg">
         <item quantity="other">%1$d مخاطب حذف شود؟</item>
@@ -47,14 +47,6 @@
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">(%1$d بار) زنگ خورد</item>
         <item quantity="one">(%1$d بار) زنگ خورد</item>
-    </plurals>
-    <plurals name="call_record_auto_whitelist_summary">
-        <item quantity="other">%d شماره تلفن</item>
-        <item quantity="one">%d شماره تلفن</item>
-    </plurals>
-    <plurals name="call_remove_exception_numbers_confirm">
-        <item quantity="other">%d شماره تلفن حذف شوند؟</item>
-        <item quantity="one">%d شماره تلفن حذف شود؟</item>
     </plurals>
     <plurals name="cloud_state_unsynced_count">
         <item quantity="other">%1$d مخاطب یا عکس همگام‌سازی نشده است</item>
@@ -112,13 +104,13 @@
         <item quantity="other">%1$d عدد</item>
         <item quantity="one">%1$d عدد</item>
     </plurals>
+    <plurals name="group_sms_error_message">
+        <item quantity="other">پیامک نمی‌تواند بیش از %d گیرنده داشته باشد</item>
+        <item quantity="one">پیامک نمی‌تواند بیش از %d گیرنده داشته باشد</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">نیم ساعت پیش</item>
         <item quantity="one">نیم ساعت پیش</item>
-    </plurals>
-    <plurals name="hint_account_contacts">
-        <item quantity="other">%1$d مورد</item>
-        <item quantity="one">%1$d مورد</item>
     </plurals>
     <plurals name="hint_search_contacts">
         <item quantity="other">%1$d مخاطب</item>
@@ -207,10 +199,6 @@
     <plurals name="searchFoundContacts">
         <item quantity="other">%d مورد یافت شد</item>
         <item quantity="one">%d مورد یافت شد</item>
-    </plurals>
-    <plurals name="search_group_contacts_result">
-        <item quantity="other">%s نتیجه</item>
-        <item quantity="one">%s نتیجه</item>
     </plurals>
     <plurals name="select_all_exceed_plurals">
         <item quantity="other">حداکثر می‌توان %1$d مورد را انتخاب کرد. نمی‌توان همه را انتخاب کرد</item>

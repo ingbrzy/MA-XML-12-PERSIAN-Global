@@ -9,9 +9,9 @@
     <string name="activate_feature_mi_roaming">رومینگ Mi</string>
     <string name="activate_feature_mms_sync">همگام‌سازی پیام‌ها</string>
     <string name="activate_feature_mx">پیام Mi</string>
-    <string name="activate_feature_register_xiaomi_account">راه‌اندازی حساب کاربری Mi</string>
+    <string name="activate_feature_register_xiaomi_account">راه‌اندازی حساب Xiaomi</string>
     <string name="activate_feature_remote_assist">دستیار کنترل</string>
-    <string name="activate_feature_verify_mx_token">تایید حساب کاربری Mi</string>
+    <string name="activate_feature_verify_mx_token">تأیید حساب Xiaomi</string>
     <string name="activate_feature_voip">VoIP پیام Mi</string>
     <string name="activate_history_canceled_overview">فعال‌سازی لغو شد. فعال‌سازی توسط «%1$s» انجام شد.</string>
     <string name="activate_history_multisim_canceled_overview">فعال‌سازی سیم‌کارت %2$d لغو شد. فعال‌سازی توسط «%1$s» انجام شد.</string>
@@ -20,8 +20,8 @@
     <string name="activate_history_success_overview">سیم‌کارت با موفقیت فعال شد. فعال‌سازی توسط «%1$s» انجام شد.</string>
     <string name="activate_history_title">فعال‌سازی سیم‌کارت</string>
     <string name="activate_phone_failed_notif_title_sim">«%2$s» با استفاده از سیم‌کارت %1$d فعال نشد</string>
-    <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">با استفاده از سیم‌کارت %d، حساب Mi با موفقیت ایجاد شد</string>
-    <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">با استفاده از سیم‌کارت حساب Mi ایجاد نشد %d</string>
+    <string name="activate_phone_register_xiaomi_account_success_notif_title_sim">با استفاده از سیم‌کارت %d، حساب Xiaomi با موفقیت ایجاد شد</string>
+    <string name="activate_phone_registered_xiaomi_account_failed_notif_title_sim">با استفاده از سیم‌کارت حساب Xiaomi ایجاد نشد %d</string>
     <string name="activate_phone_server_failed_notif_title">فعال‌سازی «%s» انجام نشد</string>
     <string name="activate_phone_server_success_notif_title">با موفقیت \"%s\" فعال شد</string>
     <string name="activate_phone_success_notif_title_sim">\"%2$s\" با استفاده از سیم‌کارت %1$d با موفقیت فعال شد</string>
@@ -33,8 +33,8 @@
     <string name="activate_popup_confirm_failed_receive_sms">تلاش دوباره</string>
     <string name="activate_popup_confirm_failed_send_sms">ارسال دوباره</string>
     <string name="activate_popup_confirm_failed_server">تلاش دوباره</string>
-    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">برای فعال‌سازی \"%2$s\", &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی بین‌المللی&lt;/b> ارسال خواهد شد. کارور شما هزینه این پیام‌ها را از شما دریافت خواهد کرد.</string>
-    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">برای فعال‌سازی \"%2$s\", &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی داخلی&lt;/b> ارسال خواهد شد. کارور شما هزینه این پیام را از شما دریافت خواهد کرد.</string>
+    <string name="activate_popup_desc_2_intl_sim_cards_msg_with_charge_hint">برای فعال‌سازی «%2$s»، &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>پیامک پولی بین‌المللی&lt;/font> ارسال خواهد شد. کارور شما هزینه این پیام‌ها را از شما دریافت خواهد کرد.</string>
+    <string name="activate_popup_desc_2_sim_cards_msg_with_charge_hint">برای فعال‌سازی «%2$s»، &lt;xliff:g id=number_sms refersto=2>%1$d&lt;/xliff:g> &lt;font color=#0097FF>پیامک پولی داخلی&lt;/font> ارسال خواهد شد. کارور شما هزینه این پیام‌ها را از شما دریافت خواهد کرد.</string>
     <string name="activate_popup_desc_all_gateway_failed_query_info">"شماره تلفن شما یافت نشد. مطمئن شوید که سیم‌کارت شما فعال شده است. 
  برای فعال‌سازی دوباره %s شماره تلفن مربوط به سیم‌کارت جدید خود را وارد کنید."</string>
     <string name="activate_popup_desc_all_gateway_failed_send_sms">"پیام فعال‌سازی ارسال نشد. مطمئن شوید که سیم‌کارت شما فعال شده است. 
@@ -47,21 +47,22 @@
     <string name="activate_popup_desc_failed_receive_sms">مطمئن شوید شماره تلفنی که وارد کرده‌اید درست بوده و سیم‌کارت شما فعال شده‌است.</string>
     <string name="activate_popup_desc_failed_server">اتصال شبکه خود را بررسی کرده و دوباره امتحان کنید.</string>
     <string name="activate_popup_desc_failed_server_msg">یک خطای سرور رخ داد. تنظیمات شبکه خود را بررسی کرده و سپس دوباره تلاش کنید.</string>
-    <string name="activate_popup_desc_find_device_postfix_msg">%1$s. برای فعال‌سازی \"%3$s\"، شماره تلفن سیم‌کارت%2$d را وارد کنید. چنانچه این سیم‌کارت را تعویض کنید، پیامک فعال‌سازی دیگری ارسال خواهد شد.</string>
-    <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s. برای فعال‌سازی «%2$s»، شماره تلفن خود را وارد کنید. چنانچه این سیم‌کارت را تعویض کنید، پیامک فعال‌سازی دیگری ارسال خواهد شد.</string>
-    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">برای فعال‌سازی \"%2$s\", &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی بین‌المللی&lt;/b> ارسال خواهد شد. کارور شما هزینه این پیام را از شما دریافت خواهد کرد.</string>
-    <string name="activate_popup_desc_mi_account_user_manual">%1$s. &lt;Data>در صورت داشتن هر گونه سوال به&lt;a href=https://account.xiaomi.com/helpcenter/faq> راهنمای کاربر حساب Mi&lt;/a> مراجعه کنید.&lt;/Data></string>
-    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">برای فعال‌سازی \"%3$s\", &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی داخلی&lt;/b> و &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>&lt;b>پیامک پولی بین‌المللی&lt;/b> ارسال خواهد شد. کارور شما هزینه این پیام را از شما دریافت خواهد کرد.</string>
+    <string name="activate_popup_desc_find_device_postfix_msg">%1$s برای فعال‌سازی «%3$s»، شماره تلفن سیم‌کارت %2$d را وارد کنید. چنانچه این سیم‌کارت را تعویض کنید، پیامک فعال‌سازی دیگری ارسال خواهد شد.</string>
+    <string name="activate_popup_desc_find_device_postfix_msg_one_sim">%1$s برای فعال‌سازی «%2$s»، شماره تلفن خود را وارد کنید. چنانچه این سیم‌کارت را تعویض کنید، پیامک فعال‌سازی دیگری ارسال خواهد شد.</string>
+    <string name="activate_popup_desc_intl_sim_card_msg_with_charge_hint">برای فعال‌سازی «%2$s»، &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>پیامک پولی بین‌المللی&lt;/font> ارسال خواهد شد. کارور شما هزینه این پیام را از شما دریافت خواهد کرد.</string>
+    <string name="activate_popup_desc_mi_account_user_manual">"%1$s
+&lt;Data>در صورت داشتن هر گونه پرسش به &lt;a href=https://account.xiaomi.com/helpcenter/faq>راهنمای کاربر حساب Xiaomi&lt;/a> مراجعه کنید.&lt;/Data>"</string>
+    <string name="activate_popup_desc_mixed_sim_cards_msg_with_charge_hint">برای فعال‌سازی «%3$s»، &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>پیامک پولی داخلی&lt;/font> و &lt;xliff:g id=number_sms refersto=1>%2$d&lt;/xliff:g> &lt;font color=#0097FF>پیامک پولی بین‌المللی&lt;/font> ارسال خواهد شد. کارور شما هزینه این پیام را از شما دریافت خواهد کرد.</string>
     <string name="activate_popup_desc_sim_card_downlink_msg">برای فعال‌سازی \"%2$s\"، شماره تلفن سیم‌کارت %1$d را وارد کنید.</string>
     <string name="activate_popup_desc_sim_card_downlink_msg_one_sim">برای فعال‌سازی %s، شماره تلفن خود را وارد کنید.</string>
     <string name="activate_popup_desc_sim_card_msg_with_charge_hint">برای فعال‌سازی \"%2$s\", &lt;xliff:g id=number_sms refersto=1>%1$d&lt;/xliff:g> &lt;font color=#0097FF>پیامک پولی&lt;/font> ارسال خواهد شد. کارور شما هزینه این پیام را از شما دریافت خواهد کرد.</string>
-    <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s.برای فعال‌سازی \"%3$s\"، شماره تلفن سیم‌کارت%2$d را وارد کنید. پشتیبانی فنی بخشی از Weihuitel ارائه می‌شود. برای جزئیات بیشتر به سیاست حفظ حریم خصوصی Weihuitel مراجعه کنید.</string>
-    <string name="activate_popup_desc_voip_privacy_prefix_msg_one_sim">%1$s. برای فعال‌سازی «%2$s»، شماره تلفن خود را وارد کنید. بخشی از پشتیبانی فنی توسط Weihuitel ارائه می‌شود. برای جزئیات بیشتر به سیاست حفظ حریم خصوصی Weihuitel مراجعه کنید.</string>
+    <string name="activate_popup_desc_voip_privacy_prefix_msg">%1$s برای فعال‌سازی «%3$s»، شماره تلفن سیم‌کارت %2$d را وارد کنید. بخشی از پشتیبانی فنی توسط Weihuitel ارائه می‌شود. برای جزئیات بیشتر به سیاست حفظ حریم خصوصی Weihuitel مراجعه کنید.</string>
+    <string name="activate_popup_desc_voip_privacy_prefix_msg_one_sim">%1$s برای فعال‌سازی «%2$s»، شماره تلفن خود را وارد کنید. بخشی از پشتیبانی فنی توسط Weihuitel ارائه می‌شود. برای جزئیات بیشتر به سیاست حفظ حریم خصوصی Weihuitel مراجعه کنید.</string>
     <string name="activate_popup_failed_send_sms_desc">پیامک فعال‌سازی ارسال نشد. مطمئن شوید سیم‌کارت %d به درستی کار می‌کند و دوباره تلاش کنید.</string>
     <string name="activate_popup_failed_send_sms_desc_one_sim">پیامک فعال‌سازی ارسال نشد. مطمئن شوید سیم‌کارت شما به درستی کار کرده و سپس دوباره تلاش کنید.</string>
     <string name="activate_progress_status_title">درحال فعال‌سازی \"%s\"…</string>
-    <string name="activate_registered_xiaomi_account_failed_notif_title">حساب Mi ایجاد نشد</string>
-    <string name="activate_registered_xiaomi_account_success_notif_title">حساب Mi با موفقیت ایجاد شد</string>
+    <string name="activate_registered_xiaomi_account_failed_notif_title">حساب Xiaomi ایجاد نشد</string>
+    <string name="activate_registered_xiaomi_account_success_notif_title">حساب Xiaomi با موفقیت ایجاد شد</string>
     <string name="activate_status_desc_acquire_phone_number">درحال تأیید شماره تلفن…</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info_tip">شماره تلفن تأیید نشد. مطمئن شوید سیم‌کارت %d به درستی کار کرده و سپس دوباره تلاش کنید.</string>
     <string name="activate_status_desc_acquire_phone_number_server_no_info_tip_one_sim">شماره تلفن تأیید نشد. مطمئن شوید سیم‌کارت شما به درستی کار کرده و سپس دوباره تلاش کنید.</string>
@@ -75,8 +76,8 @@
     <string name="activate_status_desc_sending_sms">در حال ارسال پیامک فعال‌سازی…</string>
     <string name="activate_status_desc_wait_for_sms">درانتظار دریافت پیامک فعال‌سازی از سرور…</string>
     <string name="activate_status_title_activating_sim">در حال فعال‌سازی \"%2$s\" با استفاده از سیم‌‌کارت %1$d…</string>
-    <string name="activate_status_title_registering_xiaomi_account">در حال ایجاد حساب Mi …</string>
-    <string name="activate_status_title_registering_xiaomi_account_sim">ایجاد حساب Mi با استفاده از سیم‌کارت %d…</string>
+    <string name="activate_status_title_registering_xiaomi_account">در حال ایجاد حساب Xiaomi …</string>
+    <string name="activate_status_title_registering_xiaomi_account_sim">ایجاد حساب Xiaomi با استفاده از سیم‌کارت %d…</string>
     <string name="afternoon">بعد از ظهر</string>
     <string name="am">ق.ظ</string>
     <string name="app_name">خدمات فعال‌سازی سیم‌کارت Xiaomi</string>
@@ -99,7 +100,7 @@
     <string name="error_sim_not_in_service_tip">سیم‌کارت %d نمی‌تواند به شبکه متصل شود. مطمئن شوید سیم‌کارت به درستی کار می‌کند و سپس دوباره تلاش کنید.</string>
     <string name="error_sim_not_in_service_tip_one_sim">به شبکه متصل نمی‌شود. مطمئن شوید سیم‌کارت شما به درستی کار کرده و سپس دوباره تلاش کنید.</string>
     <string name="evening">بعد از ظهر</string>
-    <string name="explain_activate_register_xiaomi_account_title">ایجاد حساب Mi</string>
+    <string name="explain_activate_register_xiaomi_account_title">ایجاد حساب Xiaomi</string>
     <string name="explain_activate_send_sms_permission_msg">برای فعال کردن %s، دستگاه شما برای ارسال پیامک فعال سازی نیاز به مجوز دارد. شرکت مخابراتی شما بابت این پیام هزینه را از شما دریافت خواهد کرد.</string>
     <string name="explain_send_sms_permission_button">تأیید</string>
     <string name="fmt_chinese_date">N月e</string>
@@ -131,7 +132,7 @@
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">h a</string>
+    <string name="fmt_time_12hour_pm">ah</string>
     <string name="fmt_time_24hour">"H 'o''clock'"</string>
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
@@ -159,14 +160,14 @@
     <string name="friday_shortest">جمع</string>
     <string name="midnight">شب</string>
     <string name="miuix_access_state_desc">انتخاب شده</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">بیشتر</string>
     <string name="miuix_appcompat_cancel_description">لغو</string>
     <string name="miuix_appcompat_confirm_description">تأیید</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
-    <string name="miuix_appcompat_deselect_all">لغو انتخاب</string>
+    <string name="miuix_appcompat_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_deselect_all_description">لغو انتخاب همه</string>
     <string name="miuix_appcompat_search_action_mode_cancel">لغو</string>
     <string name="miuix_appcompat_search_input_description">جستجو</string>
@@ -237,7 +238,7 @@
     <string name="sim_activated_failed_msg">خدمات فعال نشد. برای تلاش دوباره، ضربه بزنید.</string>
     <string name="sim_unactivated_feature_title">\"%s\" فعال نشده است</string>
     <string name="sim_unactivated_msg">این خدمات فعال نیست. برای تلاش دوباره، ضربه بزنید.</string>
-    <string name="sim_unactivated_register_xiaomi_account_feature_title">حساب Mi ایجاد نشده است</string>
+    <string name="sim_unactivated_register_xiaomi_account_feature_title">حساب Xiaomi ایجاد نشده است</string>
     <string name="sunday">یک‌شنبه</string>
     <string name="sunday_short">یک‌شنبه</string>
     <string name="sunday_shortest">یک‌شنبه</string>

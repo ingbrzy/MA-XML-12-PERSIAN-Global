@@ -106,4 +106,23 @@
         <item>ی</item>
         <item>\#</item>
     </string-array>
+    <string-array name="buffer_size_values">
+        <item>\@null</item>
+        <item>%1$d کیلوبایت</item>
+        <item>%1$d کیلوبایت</item>
+        <item>%1$d کیلوبایت</item>
+        <item>%1$d کیلوبایت</item>
+        <item>%1$d مگابایت</item>
+    </string-array>
+    <string-array name="miui15_settings_search_mirror">
+        <item>خدمات هم‌اتصالی دستگاه‌ها</item>
+        <item>اتصال و هم‌رسانی/خدمات هم‌اتصالی دستگاه‌ها</item>
+        <item>Screen Combo;Duet;چند صفحه‌ای;چندین;رایانه;آینه;خدمات هم‌اتصالی دستگاه</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>با استفاده از کد QR وصل نمی‌شود؟</item>
+        <item>با رایانه خود دستگاه‌های موبایلی را نمی‌یابید؟</item>
+        <item>دستگاه موبایلی خود را نمی‌توانید قفل کنید؟</item>
+        <item>سازگاری</item>
+    </string-array>
 </resources>

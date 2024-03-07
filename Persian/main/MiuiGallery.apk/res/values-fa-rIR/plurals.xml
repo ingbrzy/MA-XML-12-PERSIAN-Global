@@ -5,16 +5,16 @@
         <item quantity="one">۱ ساعت پیش</item>
     </plurals>
     <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">۱ ساعت پیش</item>
-        <item quantity="one">۱ ساعت پیش</item>
+        <item quantity="other">%d ساعت پیش</item>
+        <item quantity="one">%d ساعت پیش</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
         <item quantity="other">نیم ساعت پیش</item>
         <item quantity="one">نیم ساعت پیش</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">در ۱ ساعت</item>
-        <item quantity="one">در ۱ ساعت</item>
+        <item quantity="other">تا %d ساعت دیگر</item>
+        <item quantity="one">تا %d ساعت دیگر</item>
     </plurals>
     <plurals name="abbrev_in_half_hour">
         <item quantity="other">در نیم ساعت</item>
@@ -25,8 +25,8 @@
         <item quantity="one">بلافاصله</item>
     </plurals>
     <plurals name="abbrev_in_num_minutes">
-        <item quantity="other">در %d دقیقه</item>
-        <item quantity="one">در ۱ دقیقه</item>
+        <item quantity="other">تا %d دقیقه دیگر</item>
+        <item quantity="one">تا %d دقیقه دیگر</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
         <item quantity="other">هم اکنون</item>
@@ -34,7 +34,7 @@
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d دقیقه پیش</item>
-        <item quantity="one">۱ دقیقه پیش</item>
+        <item quantity="one">%d دقیقه پیش</item>
     </plurals>
     <plurals name="add_secret_ensure_message">
         <item quantity="other">این موارد به آلبوم خصوصی افزوده شوند؟</item>
@@ -172,9 +172,9 @@
         <item quantity="other">%d مورد انتخاب شد</item>
         <item quantity="one">%d مورد انتخاب شد</item>
     </plurals>
-    <plurals name="delete_burst_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">این %d عکس پشت سر هم از فضای ابری Xiaomi و همه دستگاه‌های همگام‌سازی شده حذف شوند؟</item>
-        <item quantity="one">این %d عکس پشت سر هم از فضای ابری Xiaomi و همه دستگاه‌های همگام‌سازی شده حذف شود؟</item>
+    <plurals name="delete_brust_title">
+        <item quantity="other">%d عکس پشت سر هم حذف شوند؟</item>
+        <item quantity="one">%d عکس پشت سر هم حذف شود؟</item>
     </plurals>
     <plurals name="delete_burst_photo_from_local">
         <item quantity="other">%d عکس پشت سر هم حذف شوند؟</item>
@@ -192,17 +192,13 @@
         <item quantity="other">%d مورد حذف شوند؟</item>
         <item quantity="one">%d مورد حذف شود؟</item>
     </plurals>
-    <plurals name="delete_photo_from_all_devices_and_cloud_msg">
-        <item quantity="other">این %d عکس از همه دستگاه‌ها و فضای ابری Xiaomi حذف شوند؟</item>
-        <item quantity="one">این %d عکس از همه دستگاه‌ها و فضای ابری Xiaomi حذف شود؟</item>
+    <plurals name="delete_media_title">
+        <item quantity="other">%d مورد حذف شوند؟</item>
+        <item quantity="one">%d مورد حذف شود؟</item>
     </plurals>
     <plurals name="delete_third_party_burst_photo">
         <item quantity="other">%d عکس پشت سر هم از دستگاه شما حذف شوند؟</item>
         <item quantity="one">%d عکس پشت سر هم از دستگاه شما حذف شود؟</item>
-    </plurals>
-    <plurals name="delete_video_from_all_devices_and_cloud_msg">
-        <item quantity="other">این %d ویدئو از همه دستگاه‌ها و فضای ابری Xiaomi حذف شوند؟</item>
-        <item quantity="one">این %d ویدئو از همه دستگاه‌ها و فضای ابری Xiaomi حذف شود؟</item>
     </plurals>
     <plurals name="download_error">
         <item quantity="other">%1$d فایل دانلود نشد</item>
@@ -311,10 +307,6 @@
     <plurals name="photo_count_format">
         <item quantity="other">همه %1$d مورد</item>
         <item quantity="one">در کل %1$d مورد</item>
-    </plurals>
-    <plurals name="photo_editor_talkback_crop_scale_value">
-        <item quantity="other">چرخش %d درجه</item>
-        <item quantity="one">چرخش %d درجه</item>
     </plurals>
     <plurals name="photo_remain_days">
         <item quantity="other">%d روز</item>
@@ -480,6 +472,10 @@
         <item quantity="other">هم‌رسانی نشد. همچنان درحال پردازش %d عکس…</item>
         <item quantity="one">هم‌رسانی نشد. همچنان درحال پردازش %d عکس…</item>
     </plurals>
+    <plurals name="send_too_many_files_error">
+        <item quantity="other">تا %d مورد برای ارسال انتخاب کنید</item>
+        <item quantity="one">تا %d مورد برای ارسال انتخاب کنید</item>
+    </plurals>
     <plurals name="send_video_dialog_desc">
         <item quantity="other">%2$d ویدئو از %1$s</item>
         <item quantity="one">%2$d ویدئو از %1$s</item>
@@ -577,8 +573,8 @@
         <item quantity="one">%d ویدئو</item>
     </plurals>
     <plurals name="sync_error_title">
-        <item quantity="other">از %d عکس و ویدئو پشتیبان‌گیری نشد</item>
-        <item quantity="one">از %d عکس یا ویدئو پشتیبان‌گیری نشد</item>
+        <item quantity="other">%d مورد همگام‌سازی نشدند</item>
+        <item quantity="one">%d مورد همگام‌سازی نشد</item>
     </plurals>
     <plurals name="sync_oversized_count">
         <item quantity="other">%d مورد برای نسخه پشتیبان بسیار بزرگ است</item>
@@ -628,6 +624,14 @@
         <item quantity="other"></item>
         <item quantity="one"></item>
     </plurals>
+    <plurals name="tran_notification_complete_msg">
+        <item quantity="other">%1$d مورد منتقل نشدند</item>
+        <item quantity="one">%1$d مورد منتقل نشدند</item>
+    </plurals>
+    <plurals name="transfer_status_banner_msg_file_failed">
+        <item quantity="other">%1$d مورد منتقل نشد. برای دانلود به i.mi.com بروید.</item>
+        <item quantity="one">%1$d مورد منتقل نشد. برای دانلود به i.mi.com بروید.</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
         <item quantity="other">%d مورد انتخاب شده برای همیشه از فضای ابری و همه دستگاه‌های همگام‌سازی شده حذف خواهند شد. در هر صورت حذف شوند؟</item>
         <item quantity="one">%d مورد انتخاب شده برای همیشه از فضای ابری و همه دستگاه‌های همگام‌سازی شده حذف خواهد شد. در هر صورت حذف شود؟</item>
@@ -651,6 +655,14 @@
     <plurals name="trash_vip_info_text_login">
         <item quantity="other">موارد در اینجا می‌توانند تا مدت %1$d روز ذخیره بمانند (%2$s)</item>
         <item quantity="one">موارد در اینجا می‌توانند به مدت %1$d روز ذخیره بمانند (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login_medium_or_low_level">
+        <item quantity="other">موارد می‌توانند برای %1$s روز در اینجا ذخیره بمانند. برای تمدید این مدت ضربه بزنید.</item>
+        <item quantity="one">موارد می‌توانند برای %1$s روز در اینجا ذخیره بمانند. برای تمدید این مدت ضربه بزنید.</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_no_sync_server">
+        <item quantity="other">موارد حذف شده در فضای ابری برای %1$d روز ذخیره شده‌اند</item>
+        <item quantity="one">موارد حذف شده در فضای ابری برای %1$d روز ذخیره شده‌اند</item>
     </plurals>
     <plurals name="trash_vip_info_text_unlogin">
         <item quantity="other">موارد در اینجا می‌توانند تا مدت %1$d روز ذخیره بمانند. برای افزایش این مدت طرح خود را ارتقاء دهید.</item>

@@ -33,7 +33,6 @@
     <string name="action_item_remove">حذف</string>
     <string name="action_item_remove_from_favorite">حذف از موارد پسندیده</string>
     <string name="action_item_share">هم‌رسانی</string>
-    <string name="action_settings">تنظیمات</string>
     <string name="actionbar_button_up_description">بازگشت</string>
     <string name="ad_close">بستن</string>
     <string name="ad_data_exception">خطای داده‌های تبلیغ</string>
@@ -51,7 +50,7 @@
     <string name="add_to_playlist_successful">با موفقیت افزوده شد</string>
     <string name="added_next_play">به پخش بعدی افزوده شد</string>
     <string name="afternoon">بعد از ظهر</string>
-    <string name="agreement_desc">توافق‌نامه کاربر (اجباری)</string>
+    <string name="agreement_desc">توافق‌نامه کاربر (اختیاری)</string>
     <string name="alaka_required">برای گوش دادن به این موسیقی باید هزینه آن را پرداخت کنید</string>
     <string name="alarm_clock_ringtones_successful">هشدار با موفقیت تنظیم شد</string>
     <string name="album_cover">جلد آلبوم</string>
@@ -75,12 +74,11 @@
     <string name="app_description_title">«موسیقی» از صفحه اصلی برداشته شود؟</string>
     <string name="app_disable_description_content">موسیقی Mi یک برنامه سیستمی است. در صورت غیر فعال کردن آن، ممکن است روی استفاده از سایر برنامه‌ها تأثیر گذاشته شود. در هر صورت غیر فعال شود؟</string>
     <string name="app_disable_description_title">برنامه سیستم غیرفعال شود؟</string>
-    <string name="app_label">دانلودها</string>
     <string name="app_notify_dialog_btn_desc">تنظیمات</string>
     <string name="app_notify_dialog_check_desc">ابزارک کرکره اعلان را روشن کنید، اما اجازه اعلان‌های همیشگی را ندهید</string>
-    <string name="app_notify_dialog_path">تنظیمات > اعلان‌ها و نوار وضعیت > اعلان‌های برنامه > موسیقی</string>
-    <string name="app_notify_dialog_path_10">تنظیمات > اعلان‌ها و نوار وضعیت > اعلان‌های برنامه > موسیقی</string>
-    <string name="app_notify_dialog_path_8">تنظیمات > اعلان‌ها و نوار وضعیت > اعلان‌های برنامه > موسیقی</string>
+    <string name="app_notify_dialog_path">Settings > Notifications &amp; status bar > App notifications > Music</string>
+    <string name="app_notify_dialog_path_10">Settings > Notifications &amp; status bar > App notifications > Music</string>
+    <string name="app_notify_dialog_path_8">Settings > Notifications &amp; status bar > App notifications > Music</string>
     <string name="app_notify_dialog_subtitle">اعلان‌ها را برای موسیقی Mi روشن کنید تا بتوانید پخش موسیقی را در قسمت کرکره اعلان کنترل کنید.</string>
     <string name="app_notify_dialog_title">نیازمند مجوزهای لازم است</string>
     <string name="app_permission_confirm">متوجه‌ام</string>
@@ -94,10 +92,11 @@
     <string name="app_permission_use_group_storage">حافظه</string>
     <string name="app_permission_use_group_storage_desc">برای پیدا کردن و پخش آهنگ‌های ذخیره شده در دستگاه</string>
     <string name="app_resident_push_switch">نمایش اعلان‌های همیشگی</string>
+    <string name="app_third_privacy">سیاست حفظ حریم خصوصی سوم‌شخص</string>
     <string name="apply_for_the_following_permissions">این برنامه مجوزهای زیر را درخواست می‌کند:</string>
     <string name="apply_permissions_greater_than_pie">شما می‌توانید این مجوز را در تنظیمات > برنامه‌ها > مجوزها > مجوزها >فایل‌ها و رسانه > موسیقی بدهید.</string>
-    <string name="apply_permissions_greater_than_tiramisu">شما می‌توانید این مجوزها را در تنظیمات > برنامه‌ها > مجوزها > مجوزها > موسیقی و صدا/عکس‌ها و ویدئوها > موسیقی اعطاء کنید.</string>
-    <string name="apply_permissions_less_than_pie">شما می‌توانید این مجوز را در تنظیمات > برنامه‌ها > مجوزها > مجوزها > دسترسی و تغییر فایل‌ها در حافظه خارجی > موسیقی بدهید.</string>
+    <string name="apply_permissions_greater_than_tiramisu">You can grant this permission in Settings > Apps > Permissions > Music and audio/Photos and videos > Music.</string>
+    <string name="apply_permissions_less_than_pie">You can grant this permission in Settings > Apps > Permissions > Permissions > Access and change files on internal storage > Music.</string>
     <string name="apply_permissions_tips_content">به این برنامه اجازه دسترسی به فایل‌ها برای یافتن موسیقی در دستگاه خود را بدهید.</string>
     <string name="artist">هنرمندان</string>
     <string name="artist_area_all">همه</string>
@@ -112,7 +111,65 @@
     <string name="artist_home_search_hint">جستجو برای هنرمندان</string>
     <string name="artist_is_empty">نام هنرمند نمی‌تواند خالی باشد.</string>
     <string name="artist_name">هنرمند</string>
-    <string name="audio_ad_countdown">رد کردن تبلیغ تا %s ثانیه دیگر</string>
+    <string name="asm_batch_download_failed">دانلود نشد</string>
+    <string name="asm_buy_member_success">عضویت VIP با موفقیت خریداری شد</string>
+    <string name="asm_dialog_title_tips">عضویت VIP</string>
+    <string name="asm_dialog_vip_confirm_text">پیوستن</string>
+    <string name="asm_dialog_vip_message">با ثبت نام برای عضویت VIP، آهنگ‌های با کیفیت بالا گوش داده و حتی محتوای بیشتری را دانلود کنید.</string>
+    <string name="asm_disable_song_click_tip">این آهنگ به دلیل اشکالات حق چاپ و نشر در دسترس نیست</string>
+    <string name="asm_download_failed">«%1$s» دانلود نشد</string>
+    <string name="asm_download_is_downloaded">آهنگ با موفقیت دانلود شدند</string>
+    <string name="asm_download_is_downloaded_hq">Downloaded in HQ</string>
+    <string name="asm_download_is_downloading">در حال دانلود…</string>
+    <string name="asm_download_list_not_supported">برخی آهنگ‌های این فهرست دانلود نمی‌شوند</string>
+    <string name="asm_download_pending_status_msg">درحال آماده‌سازی دانلود…</string>
+    <string name="asm_download_success">«%1$s» دانلود شد</string>
+    <string name="asm_during_the_payment">درحال بررسی وضعیت پرداخت…</string>
+    <string name="asm_fail_play_song">آهنگ دانلود نشد</string>
+    <string name="asm_google_connect_failed">پرداخت کامل نشد. مطمئن شوید وارد حساب Play Store شده‌اید.</string>
+    <string name="asm_google_no_goods">اطلاعات محصول دریافت نشد</string>
+    <string name="asm_google_not_login">وارد حساب Google Play شده و دوباره تلاش کنید</string>
+    <string name="asm_google_pay_success">سفارش Google Pay ایجاد شد</string>
+    <string name="asm_google_query_failed">اطلاعات محصول دریافت نشد</string>
+    <string name="asm_google_service_failed">خدمات Google راه‌اندازی نشدند. دوباره تلاش کنید.</string>
+    <string name="asm_gooleplay_notice">خدمات Google Play نصب نیستند</string>
+    <string name="asm_loadstate_error_retry">به اینترنت وصل شده و برای تلاش دوباره ضربه بزنید</string>
+    <string name="asm_loadstate_not_more">به آخر صفحه رسیدید</string>
+    <string name="asm_network_error">اتصال شبکه خود را بررسی کنید</string>
+    <string name="asm_new_song_title">آهنگ‌های جدید</string>
+    <string name="asm_no_need_download_songs">آهنگ در نوبت دانلود است</string>
+    <string name="asm_no_network">"Couldn't connect to the network"</string>
+    <string name="asm_not_action_is_local_music">این اقدام برای فایل‌های محلی انجام نمی‌شود</string>
+    <string name="asm_notify_use_mobile_download">درحال دانلود با استفاده از اینترنت همراه</string>
+    <string name="asm_page_empty_search">نتیجه‌ای یافته نشد</string>
+    <string name="asm_page_error_airplane">حالت هواپیما را خاموش کرده تا بتوانید وصل شوید</string>
+    <string name="asm_page_error_data">خطایی رخ داد</string>
+    <string name="asm_page_error_no_network">به شبکه متصل نشد</string>
+    <string name="asm_page_local_empty_action">کشف موسیقی جدید</string>
+    <string name="asm_pay_info_deduction_failed">پرداخت خودکار انجام نشد. روش پرداخت خود را زودتر بررسی کرده تا مزایای عضویت VIP خود را از دست ندهید.</string>
+    <string name="asm_pay_info_upload_failed">اطلاعات سفارش بارگذاری نشدند</string>
+    <string name="asm_pay_order_generate">درحال ایجاد سفارش…</string>
+    <string name="asm_pay_order_generate_failed">سفارش ایجاد نشد</string>
+    <string name="asm_pay_query_overtime">مهلت درخواست وضعیت پرداخت به پایان رسید</string>
+    <string name="asm_privacy_desc">سیاست حفظ حریم خصوصی Wansheng</string>
+    <string name="asm_privacy_tips_content">برای امکان استفاده از خدمات موسیقی آنلاین، <a href="/link/click">سیاست حفظ حریم خصوصی Wansheng</a> را بپذیرید.</string>
+    <string name="asm_privacy_tips_title">سیاست حفظ حریم خصوصی Wansheng</string>
+    <string name="asm_pro_center">عضویت</string>
+    <string name="asm_search_result_contain_music">Contains: \"%1$s\"</string>
+    <string name="asm_song_err_connect">به سرور وصل نشد</string>
+    <string name="asm_song_err_not_exist">منبع صدای درخواستی موجود نیست</string>
+    <string name="asm_song_err_not_exist_clear">آهنگ موجود نیست. از نوبت برداشته شده است.</string>
+    <string name="asm_song_err_play">پخش نشد. دوباره تلاش کنید.</string>
+    <string name="asm_songlist_all_genre_close">بستن همه</string>
+    <string name="asm_songlist_all_genre_title">همه دسته‌بندی‌ها</string>
+    <string name="asm_songs_is_downloading">درحال دانلود آهنگ…</string>
+    <string name="asm_stop_action_when_no_network">به شبکه متصل شده و دوباره تلاش کنید</string>
+    <string name="asm_tips_cannot_download_disable_songs">این آهنگ دانلود نمی‌شود</string>
+    <string name="asm_toast_pay_canceled">پرداخت لغو شد</string>
+    <string name="asm_toast_pay_failed">پرداخت کامل نشد</string>
+    <string name="asm_unknow_album">آلبوم نامشخص</string>
+    <string name="asm_unknow_artist">هنرمند نامشخص</string>
+    <string name="audio_ad_countdown">Skip ad in %ss</string>
     <string name="audio_ad_pass">رد کردن تبلیغ</string>
     <string name="audio_picker_title">یک آهنگ انتخاب کنید</string>
     <string name="auto_play_switch">پخش خودکار ویدئوها</string>
@@ -123,27 +180,20 @@
     <string name="auto_update_tip">شما می‌توانید با استفاده از اینترنت همراه برنامه‌های سیستمی را به‌روز کنید. این کار ممکن است باعث ایجاد هزینه‌های اضافی شود.</string>
     <string name="autoplay_is_off">پخش خودکار خاموش است</string>
     <string name="autoplay_is_on">پخش خودکار روشن است</string>
-    <string name="available_playlist_name_format">فهرست پخش جدید %d</string>
-    <string name="avatar">عکس نمایه</string>
+    <string name="available_playlist_name_format">New playlist %d</string>
+    <string name="avatar">Profile photo</string>
     <string name="avoid_to_use_traffic_summary">از شبکه تلفن همراه برای پخش موسیقی استفاده نشود</string>
     <string name="avoid_to_use_traffic_title">یادآوری هنگام استفاده از اینترنت همراه برای پخش آهنگ‌ها</string>
-    <string name="back">بازگشت</string>
-    <string name="back_confirm">برای خروج دوباره ضربه بزنید</string>
+    <string name="back">قبلی</string>
+    <string name="back_confirm">Tap again to exit</string>
     <string name="best_experience">بهترین تجربه</string>
-    <string name="billion_char">%s میلیارد</string>
+    <string name="billion_char">%s B</string>
     <string name="bluetooth_device">دستگاه صوتی بلوتوث</string>
     <string name="btn_text_edit">ویرایش</string>
     <string name="btn_text_view_all">نمایش همه</string>
     <string name="buffering">درحال آماده‌سازی…</string>
-    <string name="button_cancel_download">لغو</string>
-    <string name="button_download_now">اکنون دانلود شود</string>
-    <string name="button_queue_for_wifi">افزودن‌به‌نوبت</string>
-    <string name="button_sort_by_date">مرتب‌سازی براساس زمان</string>
-    <string name="button_sort_by_size">مرتب‌سازی بر اساس اندازه</string>
-    <string name="button_wait_for_wifi">انتظار</string>
     <string name="buy_vip_skip_ad">حذف تبلیغات</string>
-    <string name="cancel">لغو</string>
-    <string name="cancel_running_download">لغو</string>
+    <string name="cancel">لغو کردن</string>
     <string name="cannot_download_to_sdcard_hint">به دلیل محدودیت‌های حق چاپ و نشر، موارد در کارت SD دانلود نمی‌شوند. موارد به‌جای آن در حافظه داخلی دانلود خواهند شد.</string>
     <string name="change_download_quality">تغییر کیفیت دانلود</string>
     <string name="checking_new_version">درحال بررسی به‌روزرسانی‌ها…</string>
@@ -174,6 +224,7 @@
     <string name="current_album">جلد آلبوم کنونی</string>
     <string name="current_lyric">متن تراته کنونی</string>
     <string name="current_version">نسخه کنونی</string>
+    <string name="daily_recommend_desc">پیشنهادات روزانه دست‌چین شده برای شما</string>
     <string name="daily_recommendation">پیشنهاد امروز</string>
     <string name="dark_mode">حالت تاریک</string>
     <string name="data_usage_warning">مصرف اینترنت همراه</string>
@@ -185,13 +236,11 @@
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">سالنامه سنتی چینی</string>
     <string name="date_time_picker_dialog_title">تنظیم تاریخ و ساعت</string>
-    <string name="delete">حذف</string>
-    <string name="delete_download">حذف</string>
+    <string name="delete">حذف کردن</string>
     <string name="delete_file_as_well">این آهنگ برای همیشه حذف شود</string>
     <string name="delete_file_end">حذف برای همیشه</string>
     <string name="delete_file_error">فایل حذف نشد</string>
     <string name="delete_file_start">حذف فایل‌های انتخاب شده</string>
-    <string name="deselect_all">لغو انتخاب همه</string>
     <string name="desktop_lyric_button_close">بستن</string>
     <string name="desktop_lyric_button_lock">قفل</string>
     <string name="desktop_lyric_color">رنگ</string>
@@ -204,23 +253,13 @@
     <string name="desktop_lyric_textsize">متن</string>
     <string name="device_connected">متصل شد</string>
     <string name="device_not_connected">متصل نشد</string>
-    <string name="dialog_cannot_resume">دانلود قطع شد. نمی‌تواند ادامه پیدا کند.</string>
     <string name="dialog_clear_history">فهرست آهنگ‌های تازه پخش شده پاک‌سازی شود؟</string>
-    <string name="dialog_confirm_delete_checkbox_message">فایل‌های محلی نیز حذف شوند</string>
     <string name="dialog_continue">تأیید</string>
-    <string name="dialog_failed_body">بعداً دانلود شود و یا فایل از نوبت حذف شود؟</string>
-    <string name="dialog_file_already_exists">نمی‌توان دانلود کرد. این فایل از پیش وجود دارد.</string>
-    <string name="dialog_file_missing_body">فایل دانلود شده یافت نشد.</string>
-    <string name="dialog_file_missing_title">نمی‌توان فایل را باز کرد</string>
-    <string name="dialog_insufficient_space_on_cache">دانلود کامل نشد. فضای داخلی کافی نیست.</string>
-    <string name="dialog_insufficient_space_on_external">دانلود تمام نمی‌شود. فضای کافی روی کارت SD موجود نیست.</string>
-    <string name="dialog_media_not_found">نمی‌توان دانلود کرد. کارت SD در دسترس نیست.</string>
     <string name="dialog_message_unfollow">این فرد دنبال نشود؟</string>
     <string name="dialog_my_playlist_online_changed_merge">نگه داشتن</string>
     <string name="dialog_my_playlist_online_changed_message">به نظر می‌رسد این فهرست پخش تغییر یافته است. می‌توانید آن را جایگزین نسخه جدید کرده و یا نسخه قدیمی را نگه دارید.</string>
     <string name="dialog_my_playlist_online_changed_replace">جایگزینی</string>
     <string name="dialog_my_playlist_set_to_public">هم‌رسانی این فهرست پخش با همه کاربران موسیقی Mi و موسیقی hungama</string>
-    <string name="dialog_queued_body">این فایل برای دانلود در آینده در نوبت قرار گرفته است.</string>
     <string name="dialog_renew_failure">پوزش می‌خواهیم. عملیات انجام نشد</string>
     <string name="dialog_renew_free_end">دوره آزمایشی شما به پایان رسیده است. اشتراک hungama طلایی را خریداری می‌کنید؟</string>
     <string name="dialog_renew_positive_text">عضویت طلایی من را تمدید کن!</string>
@@ -248,8 +287,6 @@
     <string name="dialog_title_clearlist_tracks">حذف از نوبت</string>
     <string name="dialog_title_delete_tracks">حذف</string>
     <string name="dialog_title_name_playlist">نام فهرست پخش</string>
-    <string name="dialog_title_not_available">دانلود نشد</string>
-    <string name="dialog_title_queued_body">فایل هنوز آماده نیست</string>
     <string name="dialog_title_remove_tracks">حذف</string>
     <string name="disallow_add_to_fm">آهنگ‌ها را نمی‌توان به رادیوی FM افزود</string>
     <string name="discover_more_music">یافتن آهنگ‌های بیشتر</string>
@@ -257,10 +294,6 @@
     <string name="do_not_support_google_voice_search">جستجوی صوتی گوگل روی این دستگاه پشتیبانی نمی‌شود.</string>
     <string name="download">دانلود</string>
     <string name="download_added_to_list">به فهرست دانلود افزوده شد</string>
-    <string name="download_apk_desktop_installing">در حال نصب</string>
-    <string name="download_apk_desktop_pause">متوقف شد</string>
-    <string name="download_apk_desktop_pending">در حال بررسی</string>
-    <string name="download_apk_desktop_running">در حال دانلود</string>
     <string name="download_auto_after_favorite_no_vip_summary">دانلود خودکار آهنگ‌هایی که شما پسندیدید (غیر از موارد پولی)</string>
     <string name="download_auto_after_favorite_summary">دانلود خودکار آهنگ‌هایی که شما پسندیدید</string>
     <string name="download_auto_after_favorite_title">دانلود موارد پسندیده</string>
@@ -279,32 +312,18 @@
     <string name="download_dialog_fail">دانلود نشد</string>
     <string name="download_dialog_success">با موفقیت دانلود شد</string>
     <string name="download_done_btn">دانلود شد</string>
-    <string name="download_error">ناموفق</string>
-    <string name="download_error_insufficient_space">فضای کافی وجود ندارد</string>
     <string name="download_fail_to_fetch_info">دانلود نشد. دوباره تلاش کنید</string>
-    <string name="download_filesize_unknown">نامشخص</string>
     <string name="download_free">دانلود موسیقی</string>
-    <string name="download_in_process">در حال دانلود</string>
-    <string name="download_info_start_deleted_tasks">حذف دانلودها</string>
-    <string name="download_manage">دانلودها</string>
-    <string name="download_manage_item_complete">انجام شد</string>
     <string name="download_method">دانلود</string>
-    <string name="download_no_application_title">فایل را نمی توان باز کرد</string>
     <string name="download_paused_in_power_save_mode">دانلودها هنگامی که بهینه‌ساز باتری روشن است متوقف می‌شوند</string>
     <string name="download_processing">در حال دانلود…</string>
+    <string name="download_progress">%%%d</string>
     <string name="download_quality">کیفیت دانلود</string>
     <string name="download_quality_summary">تنظیمات بیشتر برای آهنگ‌هایی که دانلود می‌کنید</string>
-    <string name="download_queued">در نوبت قرار گرفت</string>
-    <string name="download_running">درحال انجام</string>
-    <string name="download_running_percent">درحال انجام %d%%</string>
-    <string name="download_share_dialog">هم‌رسانی با استفاده از</string>
     <string name="download_song_quality_title">کیفیت آهنگ‌های دانلود شده</string>
     <string name="download_start">درحال آغاز کردن دانلود…</string>
     <string name="download_start_apk">درحال آغاز کردن دانلود… پیشرفت را در کرکره اعلان ببینید.</string>
     <string name="download_start_btn">دانلود</string>
-    <string name="download_success">کامل شد</string>
-    <string name="download_title_sorted_by_date">دانلودها - چیده شده بر اساس تاریخ</string>
-    <string name="download_title_sorted_by_size">دانلودها - چیده شده بر اساس اندازه</string>
     <string name="download_toast">استفاده از اینترنت همراه برای دانلود آهنگ‌ها</string>
     <string name="download_toast_with_beyond_data">استفاده از اینترنت همراه برای دانلود آهنگ‌ها. %s از حد مصرف فراتر رفته است</string>
     <string name="download_toast_with_data">درحال استفاده از اینترنت همراه برای دانلود آهنگ‌ها. %s باقی مانده</string>
@@ -315,18 +334,14 @@
     <string name="download_traffic_dialog_negative_button">منتظر Wi-Fi باشید</string>
     <string name="download_traffic_dialog_position_button">دانلود</string>
     <string name="download_traffic_dialog_position_button_serious">همچنان دانلود شود</string>
-    <string name="download_traffic_dialog_title">هشدار مصرف اینترنت همراه</string>
+    <string name="download_traffic_dialog_title">Data usage warning</string>
     <string name="download_traffic_dialog_title_beyond">مصرف اینترنت همراه از حد فراتر رفت</string>
     <string name="download_traffic_dialog_title_serious">اینترنت همراه خیلی کمی باقی مانده</string>
-    <string name="download_unknown_title">&lt;بدون نام></string>
-    <string name="download_wait_connect">در انتظار اتصال</string>
     <string name="download_while_playing_no_vip_summary">دانلود خودکار آهنگ‌هایی که به صورت آنلاین پخش کرده‌اید (غیر از موارد پولی)</string>
     <string name="download_while_playing_summary">دانلود خودکار آهنگ‌هایی که به‌طور آنلاین پخش می‌کنید</string>
     <string name="download_while_playing_title">دانلود در حین پخش</string>
-    <string name="downloaded">دانلود شده</string>
-    <string name="downloaded_empty">خالی</string>
+    <string name="downloaded">Downloaded</string>
     <string name="downloading_apk">درحال دانلود… پیشرفت را در کرکره اعلان ببینید.</string>
-    <string name="downloading_empty">خالی</string>
     <string name="downloading_pause_apk">مکث شد. دانلود را در کرکره اعلان ادامه دهید.</string>
     <string name="due_date">تاریخ پایان: %s</string>
     <string name="early_morning">صبح</string>
@@ -337,14 +352,13 @@
     <string name="enabled">فعال</string>
     <string name="enjoy_hungama_pro">از hungama طلایی لذت ببرید</string>
     <string name="enroll_in">شرکت کردن</string>
-    <string name="enter_garbage_clean">پاک‌سازی حافظه داخلی.</string>
-    <string name="entertainment">سرگرمی</string>
+    <string name="entertainment">Entertainment</string>
     <string name="eq_auto">سفارشی</string>
     <string name="eq_blues">بلوز</string>
     <string name="eq_classical">کلاسیک</string>
     <string name="eq_country">کشور</string>
     <string name="eq_dance">رقص</string>
-    <string name="eq_delete">حذف کردن</string>
+    <string name="eq_delete">حذف</string>
     <string name="eq_delete_success">انجام شد</string>
     <string name="eq_electronic">الکترونیک</string>
     <string name="eq_flat">پیش‌فرض</string>
@@ -359,7 +373,7 @@
     <string name="equalizer">برابر کننده</string>
     <string name="eras_ad">میلادی</string>
     <string name="eras_bc">پیش از میلاد</string>
-    <string name="error_not_support">مورد پشتیبانی نیست</string>
+    <string name="error_not_support">پشتیبانی نمی‌شود</string>
     <string name="evening">بعد از ظهر</string>
     <string name="expired">به پایان رسیده است</string>
     <string name="facebook_not_installed">ابتدا فیس‌بوک را نصب کنید.</string>
@@ -390,11 +404,11 @@
     <string name="filter_by_folder">براساس پوشه</string>
     <string name="filter_by_folder_summary">پوشه‌ها را برای نمایش انتخاب کنید</string>
     <string name="filter_by_size">بر اساس اندازه</string>
-    <string name="filter_by_size_max">%d مگابایت</string>
-    <string name="filter_by_size_min">%d کیلوبایت</string>
+    <string name="filter_by_size_max">%d MB</string>
+    <string name="filter_by_size_min">%d KB</string>
     <string name="filter_by_size_prefix">"پنهان کردن فایل‌های کوچکتر از "</string>
     <string name="filter_by_size_summary">پنهان کردن فایل‌های صوتی کوچک</string>
-    <string name="filter_size_unit">%d کیلوبایت</string>
+    <string name="filter_size_unit">%d KB</string>
     <string name="find_you_tunes">آهنگ‌های خود را بیابید</string>
     <string name="floating_view_dialog_desc">در صورت ترک این صفحه موسیقی متوقف خواهد شد. در هر صورت ترک شود؟</string>
     <string name="floating_view_dialog_leave">ترک کردن</string>
@@ -457,7 +471,7 @@
     <string name="format_not_support">این فرمت فایل مورد پشتیبانی نیست.</string>
     <string name="format_unsupported_or_corrupted">از این فرمت پشتیبانی نمی‌شود یا فایل خراب است</string>
     <string name="fragment_title_artist_album">آلبوم‌ها</string>
-    <string name="free">رایگان</string>
+    <string name="free">Free</string>
     <string name="friday">جمعه</string>
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
@@ -479,9 +493,9 @@
     <string name="hgm_failed_to_connect_hint">تنظیمات شبکه خود را بررسی کرده و سپس دوباره تلاش کنید. در صورتی که اشکال یک خطای سرور hungama باشد، ما آن را در اسرع وقت برطرف خواهیم کرد.</string>
     <string name="hgm_has_offline">موسیقی ارائه شده توسط hungama پخش نمی‌شود</string>
     <string name="hgm_network_request_error_toast">به سرورهای hungama وصل نشد. دوباره تلاش کنید.</string>
-    <string name="hgm_vip_btn_desc">آغاز آزمایش رایگان</string>
-    <string name="hgm_vip_high_quality">دانلود با کیفیت بالا</string>
-    <string name="hgm_vip_no_ads">بدون تبلیغات یا محدودیت</string>
+    <string name="hgm_vip_btn_desc">Start free trial</string>
+    <string name="hgm_vip_high_quality">High quality downloads</string>
+    <string name="hgm_vip_no_ads">No ads or limits</string>
     <string name="hide_album">پنهان کردن جلد آلبوم</string>
     <string name="hide_lyric">پنهان کردن متن ترانه</string>
     <string name="hide_or_add_songs_manually">نمایش آهنگ‌های پنهان</string>
@@ -494,7 +508,7 @@
     <string name="higher_quality_music">صدای با کیفیت بالا</string>
     <string name="higher_quality_music_summary">پخش و دانلود فایل‌های دارای نرخ بیت بالاتر</string>
     <string name="hint_search_songs_playlists_artists">جستجوی آهنگ‌ها، فهرست‌های پخش و هنرمندان</string>
-    <string name="home_tab_home">خانه</string>
+    <string name="home_tab_home">Home</string>
     <string name="home_tab_local">موسیقی من</string>
     <string name="home_tab_more_music">موسیقی‌های بیشتر</string>
     <string name="home_tab_online">موسیقی آنلاین</string>
@@ -507,7 +521,7 @@
     <string name="hungama_batch_download_alert_summary_toast">برای دانلود کل فهرست پخش یک اشتراک بگیرید.</string>
     <string name="hungama_download_subscription_toast">برای دانلود این آهنگ، مشترک hungama Music شوید</string>
     <string name="hungama_free_download_out_summary">شما نمی‌توانید آهنگ‌های رایگان بیشتری دانلود کنید. برای دانلود نامحدود موسیقی عضویت طلایی دریافت شود؟</string>
-    <string name="hungama_free_download_out_summary_toast">ما تا کنون %d آهنگ را دانلود کرده‌ایم. برای دانلود بیشتر مشترک شوید.</string>
+    <string name="hungama_free_download_out_summary_toast">"You've already downloaded %d songs. Get a subscription to download more."</string>
     <string name="hungama_privacy_desc">سیاست حفظ حریم خصوصی hungama (اختیاری)</string>
     <string name="hungama_privacy_tips_content">برای دریافت محتوای آنلاین، شما باید <a href="/link/click">سیاست حفظ حریم خصوصی hungama</a> را بپذیرید.</string>
     <string name="hungama_privacy_tips_title">سیاست حفظ حریم خصوصی hungama</string>
@@ -515,8 +529,8 @@
     <string name="hungama_subscribe_positive_button">خرید عضویت طلایی</string>
     <string name="hungama_subscribe_title">عضویت طلایی</string>
     <string name="i_know">تأیید</string>
-    <string name="imported">وارد شده</string>
-    <string name="impunity_declaration_content">پیش از استفاده از محصول شما باید &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=fa_IR\">توافقنامه کاربر&lt;/a> و &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=fa_IR\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و آن را بپذیرید.</string>
+    <string name="imported">وارد شد</string>
+    <string name="impunity_declaration_content">You must read and agree with our &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">User Agreement&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Privacy Policy&lt;/a> before using the product.</string>
     <string name="impunity_declaration_ignore">دوباره نمایش داده نشود</string>
     <string name="impunity_declaration_negative_text">خروج</string>
     <string name="impunity_declaration_positive_text">پذیرفتن</string>
@@ -534,7 +548,6 @@
     <string name="individuation_setting_title">پیشنهادات شخصی‌سازی شده</string>
     <string name="input_hint_prefix">%1$s را وارد کنید</string>
     <string name="installing_apk">درحال نصب…</string>
-    <string name="insufficient_space">فضای کافی بر روی حافظه داخلی دستگاه وجود ندارد</string>
     <string name="is_latest_version">موسیقی به‌روز است.</string>
     <string name="is_scanning">درحال بررسی حافظه…</string>
     <string name="is_scanning_support_online">"درحال بررسی حافظه…
@@ -583,8 +596,7 @@
     <string name="jump_to_ytb_dialog_desc">در آستانه ترک موسیقی Mi و باز کردن YouTube هستید. YouTube باز شود؟</string>
     <string name="jump_to_ytb_dialog_ok">تایید</string>
     <string name="jump_to_ytb_dialog_title">ترک موسیقی Mi</string>
-    <string name="just_hit_next">فقط روی بعدی بزنید</string>
-    <string name="keep_queued_download">نگه داشتن</string>
+    <string name="just_hit_next">Just hit next</string>
     <string name="ktv_playlist">فهرست پخش KTV</string>
     <string name="language_page_confirm">تأیید</string>
     <string name="language_preference">تنظیمات زبان</string>
@@ -599,7 +611,8 @@
     <string name="loading_hint">چند لحظه صبر کنید…</string>
     <string name="loading_reached_the_bottom">به آخر صفحه رسیدید</string>
     <string name="loading_text">چند لحظه صبر کنید…</string>
-    <string name="local_download_download">دانلود</string>
+    <string name="local_ad_title">تبلیغات</string>
+    <string name="local_download_download">Download</string>
     <string name="local_download_hint">پیش از دانلود کردن Wi-Fi را روشن کنید</string>
     <string name="local_download_item">دانلود رایگان</string>
     <string name="local_download_title">آهنگ را برای دانلود انتخاب کنید</string>
@@ -624,7 +637,7 @@
     <string name="low_sound_quality">پایین</string>
     <string name="lrc_search_failed">متن ترانه پیدا نشد</string>
     <string name="lrc_searching">درحال جستجو…</string>
-    <string name="ludo_tab_guide">نگاهی به اتاق‌های موسیقی جدید ما بیندازید</string>
+    <string name="ludo_tab_guide">Check out our new Music rooms</string>
     <string name="lyric_is_empty">هیچ متن ترانه‌ای در دسترس نیست</string>
     <string name="lyric_label">متون ترانه</string>
     <string name="lyric_open_other_connect">دانلود متن ترانه با استفاده از شبکه تلفن همراه</string>
@@ -636,10 +649,8 @@
     <string name="lyrics_guide_title">چگونه متن ترانه‌ها را جستجو و ذخیره کنیم</string>
     <string name="lyrics_guide_two">متن ترانه‌هایی که می‌خواهید کپی کنید را انتخاب کنید</string>
     <string name="lyrics_popup_title">برای جستجوی متن ترانه‌ها ضربه بزنید</string>
-    <string name="menu_title_pause_all">توقف همه</string>
-    <string name="menu_title_resume_all">آغاز کردن همه</string>
     <string name="message_delete_playlist">فهرست پخش %s حذف شود؟</string>
-    <string name="metered_alert">هشدار مصرف اینترنت همراه</string>
+    <string name="metered_alert">Data usage warning</string>
     <string name="metered_alert_msg">شما در حال استفاده از اینترنت همراه برای پخش آهنگ هستید. در هر صورت پخش شود؟</string>
     <string name="metered_alert_msg_with_data">شما %s از اینترنت همراه باقی‌مانده دارید. از اینترنت همراه برای پخش آهنگ‌ها استفاده شود؟</string>
     <string name="metered_allow">پخش</string>
@@ -657,9 +668,8 @@
     <string name="middle_sound_quality">استاندارد</string>
     <string name="midnight">شب</string>
     <string name="milink_unavaliable_please_update">پیوند Mi در دسترس نیست. MIUI به‌روزرسانی کنید.</string>
-    <string name="million_char">%s میلیون</string>
+    <string name="million_char">%s M</string>
     <string name="millions_songs">میلیون‌ها آهنگ</string>
-    <string name="missing_title">&lt;نامشخص></string>
     <string name="miuishare_account_login_ok">ورود به حساب</string>
     <string name="miuishare_no_network">به اینترنت متصل نمی‌شود.</string>
     <string name="miuishare_publish">ارسال</string>
@@ -689,7 +699,6 @@
     <string name="miuix_sbl_tracking_progress_labe_up_none">به پایان صفحه رسیدید</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">چند لحظه صبر کنید…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">موارد بارگذاری نشدند</string>
-    <string name="mobile_recommended_title">مصرف اینترنت همراه</string>
     <string name="modify_lyric">ویرایش متن ترانه</string>
     <string name="modify_pic">تغییر جلد</string>
     <string name="modify_progress">تغییر سرعت حرکت متن ترانه</string>
@@ -757,7 +766,7 @@
     <string name="my_music_empty_goto_online">آهنگی یافت نشد</string>
     <string name="my_playlist_add_song">افزودن آهنگ</string>
     <string name="my_playlist_create_self_playlist">با آهنگ‌های مورد پسند خود فهرست‌های پخش بسازید</string>
-    <string name="my_playlist_set_to_private">خصوصی کردن</string>
+    <string name="my_playlist_set_to_private">اختصاصی کردن</string>
     <string name="my_playlist_set_to_public">عمومی کردن</string>
     <string name="need_to_close">نمایش کمتر</string>
     <string name="need_to_show">نمایش بیشتر</string>
@@ -771,7 +780,6 @@
     <string name="night">شب</string>
     <string name="no_album_info">بدون اطلاعات آلبوم</string>
     <string name="no_artist_info">بدون اطلاعات هنرمند</string>
-    <string name="no_downloads">بدون دانلود</string>
     <string name="no_fans_empty_title">شما هنوز دنبال‌کننده‌ای ندارید</string>
     <string name="no_favorites_songs">خالی</string>
     <string name="no_file_picker_find">مدیریت فایل‌ها نصب نیست.</string>
@@ -793,12 +801,6 @@
     <string name="not_now">اکنون نه</string>
     <string name="not_selected">یک آهنگ انتخاب کنید</string>
     <string name="not_support_documentui">در این دستگاه از DocumentUI پشتیبانی نمی‌شود</string>
-    <string name="notif_title_file_size">%1$d کل</string>
-    <string name="notif_title_single_downloading">درحال دانلود %1$s</string>
-    <string name="notification_download_complete">دانلود کامل شد</string>
-    <string name="notification_download_failed">دانلود نشد</string>
-    <string name="notification_download_success_more">%1$d دانلود شد</string>
-    <string name="notification_need_wifi_for_size">اندازه دانلود نیازمند Wi-Fi است.</string>
     <string name="notification_play_summary">مشاهده آهنگ فعلی و بعدی. نمایش متن تراته روی صفحه اصلی</string>
     <string name="notification_play_title">ابزارک کرکره اعلان</string>
     <string name="notification_recommend_summary">درباره گرایش‌های جدید موسیقی و تبلیغات برنامه‌ها بیشتر بدانید</string>
@@ -849,7 +851,7 @@
     <string name="open_service">روشن کردن</string>
     <string name="operation_done_close">بستن</string>
     <string name="other_song_in_album">سایر آهنگ‌ها از این آلبوم</string>
-    <string name="party">مهمانی</string>
+    <string name="party">Party</string>
     <string name="passport_access_denied">دسترسی رد شد</string>
     <string name="passport_account_crop_user_avatar">بریدن عکس</string>
     <string name="passport_account_empty_user_name">نام خود را وارد کنید</string>
@@ -1019,13 +1021,6 @@
     <string name="passport_wrong_phone_number_format">فرمت شماره تلفنی که وارد کرده اید نامعتبر است</string>
     <string name="passport_wrong_vcode">کدی را که وارد کرده‌اید اشتباه است</string>
     <string name="passport_wrong_voice">کدی را که وارد کرده‌اید اشتباه است</string>
-    <string name="paused_by_app">متوقف شد</string>
-    <string name="paused_in_power_save_mode">هنگامی که بهینه‌ساز باتری روشن شد متوقف شد</string>
-    <string name="paused_insufficient_space">در حال انتظار</string>
-    <string name="paused_queued_for_wifi">در انتظار اتصال</string>
-    <string name="paused_unknown">متوقف شد</string>
-    <string name="paused_waiting_for_network">در انتظار اتصال</string>
-    <string name="paused_waiting_to_retry">درانتظار تلاش دوباره</string>
     <string name="pay_now">خدمات کنونی</string>
     <string name="payment_success_message">سپاسگزاریم! پرداخت شما با موفقیت انجام شد. از خدمات طلایی لذت ببرید.</string>
     <string name="payment_success_title">تبریک!</string>
@@ -1063,7 +1058,6 @@
     <string name="please_download_first">پیش از انتخاب این آهنگ به عنوان زنگ لازم است آن را دانلود کنید</string>
     <string name="please_select_song">ابتدا یک آهنگ را انتخاب کنید</string>
     <string name="pm">ب.ظ</string>
-    <string name="power_save_mode_dialog_msg">بهینه‌ساز باتری روشن است. دانلود حالا آغاز شود؟</string>
     <string name="pre_watched">تماشا شده</string>
     <string name="preset_music_playlist">فهرست پخش موسیقی Mi</string>
     <string name="priority_storage">از کارت SD خارجی استفاده شود</string>
@@ -1074,9 +1068,10 @@
     <string name="privacy_authorize_revoking">درحال باطل کردن مجوز…</string>
     <string name="privacy_desc">سیاست حفظ حریم خصوصی (اجباری)</string>
     <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
-    <string name="privacy_request_desc"><Data>"موسیقی Mi برای ارائه خدمات پخش آنلاین نیاز به گردآوری اطلاعات شخصی لازم دارد. شما می‌توانید در &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما از چگونگی به‌کارگیری اطلاعاتی که گردآوری می‌کنیم آگاه شوید. شما در هر زمانی می‌توانید در تنظیمات رضایت خود را نسبت به سیاست حفظ حریم خصوصی موسیقی Mi پس بگیرید.
-پیش از استفاده از موسیقی Mi &lt;a href=\"%2$s\">توافق‌نامه کاربر&lt;/a> و &lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.
-چنانچه سیاست حفظ حریم خصوصی ما را نپذیرید، نمی‌توانید از برخی ویژگی‌های این برنامه استفاده کنید؛ با این وجود، کارایی‌های پایه‌ای همچنان برای شما در دسترس خواهند بود."</Data></string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=fa_IR</string>
+    <string name="privacy_request_desc">"&lt;Data>Mi Music needs to collect necessary personal information to provide you with online streaming services. You can learn how we handle the information we collect in our &lt;a href=\"%1$s\">Privacy Policy&lt;/a>. You can withdraw your consent to the Privacy Policy of Mi Music in the Settings at any time.
+Read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%1$s\">Privacy Policy&lt;/a> before using Mi Music.
+If you don't agree to use the aforementioned services, you won't be able to use some features of this app; however, its basic functionality will still be available to you.&lt;/Data>"</string>
     <string name="privacy_request_subtitle">"به موسیقی Mi خوش آمدید! این برنامه خدمات زیر را ارائه می‌دهد:
 - پخش کننده محلی
 - خدمات پخش آنلاین"</string>
@@ -1089,18 +1084,16 @@
     <string name="pulluprefreshrecyclerview_loading_finished">با موفقیت بارگذاری شد</string>
     <string name="pulluprefreshrecyclerview_loading_running">درحال بارگذاری…</string>
     <string name="queue_is_empty">نوبت پخش خالی است.</string>
-    <string name="read_and_agree_hungama_protocol"><Data>من &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی hungama &lt;/a>&lt;/font> را خوانده و پذیرفته‌ام</Data></string>
-    <string name="read_and_agree_joox_protocol"><Data>من &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">سیاست حفظ حریم خصوصی JOOX&lt;/a>&lt;/font> را خوانده و پذیرفته‌ام</Data></string>
-    <string name="read_and_agree_mi_protocol"><Data>من &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">توافق‌نامه کاربر&lt;/a>&lt;/font> و &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">سیاست حفظ حریم خصوصی&lt;/a>&lt;/font> را خوانده و پذیرفته‌ام.</Data></string>
+    <string name="read_and_agree_asm_protocol">&lt;Data>Read and agree to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Wansheng Privacy Policy&lt;/a>&lt;/font> to be able to use online music services.&lt;/Data></string>
+    <string name="read_and_agree_hungama_protocol">"&lt;Data>I've read and agreed to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">hungama Privacy Policy&lt;/a>&lt;/font>&lt;/Data>"</string>
+    <string name="read_and_agree_joox_protocol">"&lt;Data>I've read and agreed to the &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOOX Privacy Policy&lt;/a>&lt;/font>&lt;/Data>"</string>
+    <string name="read_and_agree_mi_protocol">"&lt;Data>I've read and agreed to the Xiaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">User Agreement&lt;/a>&lt;/font> and &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Privacy Policy&lt;/a>&lt;/font>&lt;/Data>"</string>
     <string name="read_and_agree_protocol">پیش از ادامه توافق‌نامه کاربر و سیاست حفظ حریم خصوصی ما را خوانده و بپذیرید.</string>
     <string name="ready_to_play">برنامه بعدی</string>
     <string name="recently_played">به‌تازگی پخش شده</string>
     <string name="recently_played_songs">موارد تازه</string>
     <string name="recommend_songs_when_playing_audio_files">هنگام گوش دادن به موسیقی آهنگ‌های پیشنهادی دریافت کنید</string>
-    <string name="recommended_file_size_download_in_mobile">از %s اینترنت همراه برای دانلود این فایل استفاده شود؟</string>
-    <string name="recommended_no_file_size_download_in_mobile">از اینترنت همراه برای دانلود این فایل استفاده شود؟</string>
     <string name="remove">حذف</string>
-    <string name="remove_download">حذف</string>
     <string name="remove_user_privacy_dialog_message">با تغییر وضعیت کلید، شما رضایت خود را نسبت به سیاست حفظ حریم خصوصی موسیقی Mi پس می‌گیرید. ما از گردآوری اطلاعات شخصی شما دست خواهیم کشید. اطلاعات شخصی که تا کنون گردآوری شده و نگه داشته شده‌اند بنا به خواست قوانین اجرایی پس از یک دوره خاص حذف خواهند شد. موسیقی Mi برای ارائه خدمات پایه‌ای به شما نیاز به اطلاعات شخصی لازم دارد. پس گرفتن رضایت شما نسبت به سیاست حفظ حریم خصوصی آن به عنوان رد پذیرفتن خدمات آن بر اساس اطلاعات شخصی گردآوری شده تلقی خواهد شد.</string>
     <string name="remove_user_privacy_dialog_message_canuse">با تغییر وضعیت کلید، شما رضایت خود را نسبت به سیاست حفظ حریم خصوصی موسیقی Mi پس می‌گیرید. ما از گردآوری اطلاعات شخصی شما دست خواهیم کشید. اطلاعات شخصی که تا کنون گردآوری شده و نگه داشته شده‌اند بنا به خواست قوانین اجرایی پس از یک دوره خاص حذف خواهند شد. موسیقی Mi برای ارائه خدمات پخش آنلاین به شما نیاز به اطلاعات شخصی لازم دارد. پس گرفتن رضایت شما نسبت به سیاست حفظ حریم خصوصی آن به عنوان رد پذیرفتن خدمات آنلاین گفته شده در بالا بر اساس اطلاعات شخصی گردآوری شده تلقی خواهد شد.</string>
     <string name="remove_user_privacy_dialog_title">پس گرفتن رضایت</string>
@@ -1112,8 +1105,6 @@
     <string name="request_subscription_status">چند لحظه صبر کنید…</string>
     <string name="restart_immediate">راه‌اندازی دوباره</string>
     <string name="retry">تلاش دوباره</string>
-    <string name="retry_after_network_available">به شبکه متصل نمی‌شود. اتصال را بررسی کرده و دوباره تلاش کنید.</string>
-    <string name="retry_download">تلاش دوباره</string>
     <string name="revoke_upload_playlist_to_hungama_toast">آهنگ‌های آنلاین در hungama همگام‌سازی نخواهند شد</string>
     <string name="reward_received">شما یک عضویت VIP به دست آوردید!</string>
     <string name="ringtone_editing">ویرایشگر زنگ</string>
@@ -1122,7 +1113,6 @@
     <string name="ringtones_play">پخش</string>
     <string name="ringtones_stop">توقف</string>
     <string name="ringtones_successful">زنگ با موفقیت تنظیم شد</string>
-    <string name="root_downloads">دانلودها</string>
     <string name="saturday">شنبه</string>
     <string name="saturday_short">شنبه</string>
     <string name="saturday_shortest">شنبه</string>
@@ -1150,7 +1140,7 @@
     <string name="see_more_videos">ویدئوهای بیشتر</string>
     <string name="select">انتخاب</string>
     <string name="select_all">انتخاب همه</string>
-    <string name="select_clip_desc">یک نماهنگ از آهنگ انتخاب کنید</string>
+    <string name="select_clip_desc">Select a clip from the song</string>
     <string name="select_desc_sub">شما می‌توانید حداکثر %d زبان انتخاب کنید</string>
     <string name="select_device">دستگاه را انتخاب کنید</string>
     <string name="select_displayed_folders">پوشه‌ها را برای نمایش انتخاب کنید</string>
@@ -1162,7 +1152,6 @@
     <string name="select_none">لغو انتخاب همه</string>
     <string name="select_one_language">حداقل %d زبان را انتخاب کنید</string>
     <string name="select_three_languages">شما می‌توانید حداکثر %d زبان انتخاب کنید</string>
-    <string name="selected_count">%1$d مورد از %2$d انتخاب شد</string>
     <string name="send">ارسال</string>
     <string name="send_to_title">ارسال به (%1$s)</string>
     <string name="service_and_settings">خدمات و تنظیمات</string>
@@ -1174,11 +1163,6 @@
     <string name="set_ringtones_successful">%s به‌عنوان زنگ تنظیم شد</string>
     <string name="setting_feature_setting">تنظیمات ویژگی</string>
     <string name="settings">تنظیمات</string>
-    <string name="settings_search_key_notification">اعلان‌های موسیقی;موسیقی;اعلان‌ها;آهنگ‌ها</string>
-    <string name="settings_search_path_advance">برنامه‌های سیستمی/موسیقی/خدمات و تنظیمات/تنظیمات پیشرفته</string>
-    <string name="settings_search_path_main">برنامه‌های سیستمی/موسیقی</string>
-    <string name="settings_search_path_normal">برنامه‌های سیستمی/موسیقی/خدمات و تنظیمات</string>
-    <string name="settings_search_title_notification">اعلان‌های موسیقی</string>
     <string name="share_append_text">از @MIUI</string>
     <string name="share_chooser_title">هم‌رسانی با استفاده از</string>
     <string name="share_description">از موسیقی Mi</string>
@@ -1191,7 +1175,6 @@
     <string name="shortcut_get">نمایش</string>
     <string name="shortcut_success">با موفقیت ایجاد شد. در صفحه اصلی خود ببینید.</string>
     <string name="show_float_first_hint">کوچک کردن پخش کننده</string>
-    <string name="show_more">نمایش %s مورد بیشتر</string>
     <string name="shuffle_music">بازپخش تصادفی</string>
     <string name="shuffle_off_notif">پخش تصادفی خاموش است.</string>
     <string name="shuffle_on_notif">پخش تصادفی روشن است.</string>
@@ -1208,6 +1191,32 @@
     <string name="sleep_mode_summary">متوقف کردن پخش‌کننده پس از مدت زمان معین</string>
     <string name="sleep_mode_title">زمان‌سنج خواب</string>
     <string name="sliding_pro_center">hungama طلایی</string>
+    <string name="snow_ui_band_chart_hint">مقداردهی نخستین داده نشده است</string>
+    <string name="snow_ui_button_save">ذخیره</string>
+    <string name="snow_ui_croller_bass">بم</string>
+    <string name="snow_ui_croller_virtualizer">صدای فراگیر</string>
+    <string name="snow_ui_des_back">بازگشت</string>
+    <string name="snow_ui_des_drop_down">انتخاب</string>
+    <string name="snow_ui_equalizer_des">پیش از تنظیم جلوه‌های صوتی ایرفون‌های خود را درون گوش خود قرار دهید</string>
+    <string name="snow_ui_equalizer_launched">برابر کننده‌های جدید را بررسی کنید</string>
+    <string name="snow_ui_equalizer_local">برابر کننده</string>
+    <string name="snow_ui_equalizer_preset_classical">کلاسیک</string>
+    <string name="snow_ui_equalizer_preset_custom">سفارشی</string>
+    <string name="snow_ui_equalizer_preset_dance">رقص</string>
+    <string name="snow_ui_equalizer_preset_flat">صاف</string>
+    <string name="snow_ui_equalizer_preset_folk">محلی</string>
+    <string name="snow_ui_equalizer_preset_heavy_metal">هوی متال</string>
+    <string name="snow_ui_equalizer_preset_hip_hop">هیپ هاپ</string>
+    <string name="snow_ui_equalizer_preset_jazz">جاز</string>
+    <string name="snow_ui_equalizer_preset_normal">عادی</string>
+    <string name="snow_ui_equalizer_preset_pop">پاپ</string>
+    <string name="snow_ui_equalizer_preset_rock">راک</string>
+    <string name="snow_ui_recommended_sound_effects">پیش‌تنظیمات پیشنهادی</string>
+    <string name="snow_ui_resetting">بازنشانی</string>
+    <string name="snow_ui_sound_effect_adjustment">تنظیم دستی</string>
+    <string name="snow_ui_sound_enhancement">صدای بهبود یافته</string>
+    <string name="snow_ui_title_equalizer">برابر کننده</string>
+    <string name="snow_ui_toast_equalizer_not_enabled">برابر کننده خاموش است</string>
     <string name="song_already_in_playlist">این آهنگ از پیش در فهرست پخش قرار دارد</string>
     <string name="song_exist_in_playlist">این آهنگ از پیش در نوبت قرار دارد</string>
     <string name="song_info">جزئیات آهنگ</string>
@@ -1226,14 +1235,11 @@
     <string name="sound_fade_in_and_out_when_change_song_automatically">محو تدریجی آهنگ‌ها را هنگام پخش امتحان کنید</string>
     <string name="start_to_check_new_version">درحال بررسی به‌روزرسانی‌ها…</string>
     <string name="start_to_download">در حال دانلود…</string>
-    <string name="start_to_play">درحال آماده‌سازی برای پخش…</string>
+    <string name="start_to_play">Preparing to play…</string>
     <string name="start_update">درحال نصب نسخه جدید…</string>
     <string name="storage_cloned_app">حافظه برای برنامه‌های همزاد</string>
-    <string name="storage_internal">حافظه داخلی</string>
-    <string name="storage_sd_card">کارت SD</string>
     <string name="storage_space_permissions_for_display">دسترسی به حافظه دستگاه: برای اسکن کردن، نمایش و پخش فایل‌های محلی</string>
-    <string name="storage_usb">حافظه USB</string>
-    <string name="streamloadingtext">درحال اتصال به %s</string>
+    <string name="streamloadingtext">Connecting to %s</string>
     <string name="sunday">یک‌شنبه</string>
     <string name="sunday_short">یک‌شنبه</string>
     <string name="sunday_shortest">یک‌شنبه</string>
@@ -1245,7 +1251,7 @@
     <string name="tab_artist">هنرمندان</string>
     <string name="tab_artist_list">هنرمندان</string>
     <string name="tab_chart">جدول‌ها</string>
-    <string name="tab_flow">تماشا</string>
+    <string name="tab_flow">Watch</string>
     <string name="tab_folder">پوشه‌ها</string>
     <string name="tab_playlist">فهرست‌های پخش</string>
     <string name="tab_top_results">بهترین نتایج</string>
@@ -1273,9 +1279,9 @@
     <string name="talkback_pre">آهنگ قبلی</string>
     <string name="talkback_search">جستجو</string>
     <string name="talkback_show_navigation_draw">نمایش کشو</string>
-    <string name="task_card_button_exchange">خرج کردن</string>
-    <string name="task_card_message_received_successfully">شما کارهای امروز را کامل کرده‌اید. حالا سکه‌های خود را خرج کنید!</string>
-    <string name="task_card_title_received_successfully">با موفقیت دریافت شد</string>
+    <string name="task_card_button_exchange">Redeem</string>
+    <string name="task_card_message_received_successfully">"You've completed today's tasks. Redeem your coins now!"</string>
+    <string name="task_card_title_received_successfully">Claimed successfully</string>
     <string name="telephone_permissions_for_push">مجوزهای تماس: برای ارائه خدمات اعلان‌های فشاری Google</string>
     <string name="terms_of_service">شرایط استفاده از خدمات</string>
     <string name="the_anniversary_of_lifting_martial_law">سالگرد لغو حکومت نظامی</string>
@@ -1318,7 +1324,7 @@
     <string name="the_united_nations_day">روز ملل متحد</string>
     <string name="the_valentines_day">روز ولنتاین</string>
     <string name="the_water_lantern_festival">جشنواره فانوس آبی</string>
-    <string name="thousand_char">%s هزار</string>
+    <string name="thousand_char">%s K</string>
     <string name="thursday">پنج‌شنبه</string>
     <string name="thursday_short">پنج‌شنبه</string>
     <string name="thursday_shortest">پنج‌شنبه</string>
@@ -1331,6 +1337,7 @@
     <string name="tips_click_here_to_continue">برای ادامه بازپخش ضربه بزنید</string>
     <string name="title_online_fm_recommend">FM ویژه</string>
     <string name="title_online_recommend">فهرست‌های پخش ویژه</string>
+    <string name="title_recently_played">Recently Played</string>
     <string name="title_search_history">تاریخچه جستجو</string>
     <string name="title_search_hot">پرطرفدار</string>
     <string name="toast_cant_collect_mine_playlist">نمی‌توانید لیست‌های پخش خود را به موارد پسندیده اضافه کنید</string>
@@ -1363,6 +1370,7 @@
     <string name="toast_will_play_list_when_ad_pause">فهرست پخش پس از آگهی‌ها آغاز به پخش می‌کند</string>
     <string name="toast_will_play_song_when_ad_pause">این آهنگ پس از آگهی‌ها آغاز به پخش می‌کند</string>
     <string name="today">امروز</string>
+    <string name="today_hot_playlist">بهترین فهرست پخش امروز</string>
     <string name="tomorrow">فردا</string>
     <string name="top_chart_title">نمودارها</string>
     <string name="track_play_history_after_login">برای نمایش تاریخچه بازپخش وارد حساب شوید</string>
@@ -1374,7 +1382,7 @@
     <string name="unknown_artist_name">هنرمند نامشخص</string>
     <string name="unlimited_downloads">دانلودهای نامحدود</string>
     <string name="unlimited_offline_songs">آهنگ‌های آفلاین نامحدود</string>
-    <string name="unlimited_skips">رد کردن‌های نا محدود</string>
+    <string name="unlimited_skips">Unlimited skips</string>
     <string name="update_now">اکنون به‌روزرسانی شود</string>
     <string name="upgrade_music">به روز رسانی موسیقی</string>
     <string name="upgrade_music_message">به‌روزرسانی‌ها آماده‌اند. راه‌اندازی دوباره کنید تا به‌روز شود.</string>
@@ -1387,10 +1395,11 @@
     <string name="upload_playlist_to_hungama_title">آهنگ‌های آنلاین را در hungama همگام‌سازی کرده تا بتوانید در سایر دستگاه‌هایی که از حساب Xiaomi خود استفاده می‌کنید به آن‌ها دسترسی یابید.</string>
     <string name="upload_playlist_to_hungama_toast">آهنگ‌های آنلاین در hungama همگام‌سازی خواهند شد</string>
     <string name="user_agreement">توافق‌نامه کاربر</string>
-    <string name="user_experience_program_open">به دلیل محدودیت‌های حق چاپ و نشر، برای امکان پخش آهنگ‌های دانلود شده لازم است تا در برنامه تجربه کاربر شرکت کنید. شما این کار را می‌توانید در تنظیمات > گذرواژه‌ها و امنیت > حریم خصوصی > شرکت در برنامه تجربه کاربر انجام دهید.</string>
+    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=fa_IR</string>
+    <string name="user_experience_program_open">Due to copyright restrictions, you need to enroll in the User Experience Program to be able to play downloaded songs. You can do this in Settings > Passwords &amp; security > Privacy > Enroll in User Experience Program.</string>
     <string name="user_playlist_plaza">فهرست‌های پخش</string>
     <string name="user_privacy_dialog_negative_text">لغو</string>
-    <string name="user_privacy_dialog_positive_count_down_text">پس گرفتن (%s ثانیه)</string>
+    <string name="user_privacy_dialog_positive_count_down_text">Withdraw (%ss)</string>
     <string name="user_privacy_dialog_positive_text">پس گرفتن</string>
     <string name="user_privacy_setting_group_title">پس گرفتن رضایت</string>
     <string name="user_privacy_setting_title">با تغییر وضعیت کلید، رضایت خود را از سیاست حفظ حریم خصوصی موسیقی Mi پس می‌گیرید.</string>
@@ -1398,9 +1407,16 @@
     <string name="user_profile_fans_count">دنبال‌کنندگان: %s</string>
     <string name="user_profile_follow_count">درحال دنبال کردن: %s</string>
     <string name="version_info">نسخه</string>
+    <string name="video_dislike">نپسندیدن</string>
+    <string name="video_dislike_toast">ما از این نوع محتوا کمتر پیشنهاد خواهیم کرد</string>
     <string name="video_loading_fail">ویدئو بارگذاری نشد</string>
     <string name="video_play_cellular">دستگاه شما به Wi-Fi وصل نیست. از ایتنرنت همراه استفاده شود؟</string>
     <string name="video_replay_btn">پخش دوباره</string>
+    <string name="video_report">گزارش</string>
+    <string name="video_report_reason_one">محتوای برهنگی یا جنسی</string>
+    <string name="video_report_reason_three">تهدید یا خشونت فیزیکی</string>
+    <string name="video_report_reason_two">جنایت خشن</string>
+    <string name="video_report_toast">از بازخورد شما سپاسگزاریم</string>
     <string name="video_retry_btn">تلاش دوباره</string>
     <string name="view_album">نمایش آلبوم</string>
     <string name="vip_required">بسته ممتاز را گرفته تا این آهنگ پخش شود. آهنگ اکنون رد شد.</string>
@@ -1423,10 +1439,6 @@
     <string name="whitelist_entrance_text_1">"آهنگی پیدا نمی‌شود؟ "</string>
     <string name="whitelist_multi_add_tips">%1$s. %2$s.</string>
     <string name="whitelist_title">فایل‌های استثناء</string>
-    <string name="wifi_required_body" formatted="false">"به Wi-Fi وصل شده تا این دانلود %s کامل شود.
-
-روی %s زده تا در اتصال بعدی شما به شبکه Wi-Fi دانلود آن آغاز شود."</string>
-    <string name="wifi_required_title">برای دانلود این فایل باید به Wi-Fi متصل شوید</string>
     <string name="yesterday">دیروز</string>
     <string name="you_can_switch_mode_in_settings">می‌توانید بین حالت‌ها در تنظیمات تعویض کنید</string>
     <string name="you_may_like">مواردی که ممکن است بپسندید</string>
@@ -1437,7 +1449,7 @@
     <string name="youtube_delete_dialog_title">برداشتن از موارد پسندیده</string>
     <string name="youtube_download_canl">لغو</string>
     <string name="youtube_download_fail_net">به شبکه متصل نشد. تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید.</string>
-    <string name="youtube_download_fail_source">خطایی رخ داد. چند دقیقه صبر کرده و سپس دوباره تلاش کنید.</string>
+    <string name="youtube_download_fail_source">An error occurred. Wait a minute or two and try again.</string>
     <string name="youtube_download_fail_space">دانلود نشد. حافظه کافی نیست.</string>
     <string name="youtube_download_fail_unknown">خطایی رخ داد. چند دقیقه صبر کرده و سپس دوباره تلاش کنید.</string>
     <string name="youtube_download_hint">صدا از این ویدئو با قالب MP3 با عنوان ویدئو به عنوان نام فایل در دستگاه شما ذخیره می‌شود. دانلود شود؟</string>
@@ -1453,5 +1465,6 @@
     <string name="youtube_tab_popular">پرطرفدار</string>
     <string name="youtube_tab_radar">رادار</string>
     <string name="youtube_tab_shorts">فیلم‌های کوتاه</string>
+    <string name="youtube_tab_tiktok">TikTok</string>
     <string name="youtube_tab_trend">پر بازدید</string>
 </resources>

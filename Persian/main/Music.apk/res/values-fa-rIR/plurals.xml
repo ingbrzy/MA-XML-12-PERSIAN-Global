@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Nalbum_total_songs">
-        <item quantity="other">در کل %d آهنگ</item>
+        <item quantity="other">Total %d songs</item>
         <item quantity="one">در کل %d آهنگ</item>
     </plurals>
     <plurals name="Nassociate_songs">
@@ -15,25 +15,25 @@
 آیا می‌خواهید به شما در تمدید آن کمک کنیم؟"</item>
     </plurals>
     <plurals name="Nhungama_free_download_summary">
-        <item quantity="other">شما می‌توانید %1$d موسیقی رایگان دانلود کنید. %2$s دانلود شود؟</item>
+        <item quantity="other">You can download %1$d free songs. Download %2$s now?</item>
         <item quantity="one">شما می‌توانید %1$d موسیقی رایگان دانلود کنید. %2$s دانلود شود؟</item>
     </plurals>
     <plurals name="Nquit_warning">
-        <item quantity="other">پخش‌کننده در عرض %d دقیقه متوقف می‌شود</item>
+        <item quantity="other">Player will stop in %d minutes</item>
         <item quantity="one">پخش‌کننده در عرض %d دقیقه متوقف می‌شود</item>
     </plurals>
     <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">"ایجاد شده در %1$s 
-در مجموع %2$d آهنگ"</item>
+        <item quantity="other">"Created on %1$s 
+total %2$d songs"</item>
         <item quantity="one">"ایجاد شده در %1$s 
 در مجموع %2$d آهنگ"</item>
     </plurals>
     <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">%d آهنگ به فهرست پخش افزوده شد</item>
-        <item quantity="one">%d آهنگ به فهرست پخش افزوده شد</item>
+        <item quantity="other">%d song added to playlist</item>
+        <item quantity="one">%d song added to playlist</item>
     </plurals>
     <plurals name="Ntracks_count">
-        <item quantity="other">%d آهنگ</item>
+        <item quantity="other">%d songs</item>
         <item quantity="one">%d آهنگ</item>
     </plurals>
     <plurals name="Ntracks_remove_from_playlist">
@@ -41,7 +41,7 @@
         <item quantity="one">%d آهنگ از فهرست پخش حذف شد</item>
     </plurals>
     <plurals name="Ntracks_similar_count">
-        <item quantity="other">%d آهنگ مشابه</item>
+        <item quantity="other">%d similar songs</item>
         <item quantity="one">%d آهنگ مشابه</item>
     </plurals>
     <plurals name="a_hour_ago">
@@ -80,54 +80,44 @@
         <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">%d دقیقه پیش</item>
     </plurals>
+    <plurals name="asm_download_batch_action_start_download">
+        <item quantity="other">%1$d آهنگ به نوبت دانلود افزوده شدند</item>
+        <item quantity="one">%1$d آهنگ به نوبت دانلود افزوده شد</item>
+    </plurals>
+    <plurals name="asm_main_slide_songlist_num">
+        <item quantity="other">%1$d آهنگ</item>
+        <item quantity="one">%1$d آهنگ</item>
+    </plurals>
+    <plurals name="asm_song_with_prefix">
+        <item quantity="other">%1$d آهنگ</item>
+        <item quantity="one">%1$d آهنگ</item>
+    </plurals>
     <plurals name="comment_count">
-        <item quantity="other">%d نظر</item>
+        <item quantity="other">%d comments</item>
         <item quantity="one">%d نظر</item>
     </plurals>
     <plurals name="days_ago">
-        <item quantity="other">%d روز پیش</item>
+        <item quantity="other">%d days ago</item>
         <item quantity="one">%d روز پیش</item>
     </plurals>
-    <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">%d مورد حذف شوند؟</item>
-        <item quantity="one">%d مورد حذف شود؟</item>
-    </plurals>
-    <plurals name="dialog_confirm_delete_downloads_message_with_file">
-        <item quantity="other">"%d مورد حذف شوند؟
-نکته: فایل‌ها از روی این دستگاه نیز حذف خواهند شد."</item>
-        <item quantity="one">"%d مورد حذف شود؟
-نکته: فایل از روی این دستگاه نیز حذف خواهد شد."</item>
-    </plurals>
     <plurals name="dialog_delete_descript">
-        <item quantity="other">%d آهنگ حذف شود؟</item>
+        <item quantity="other">Delete %d songs?</item>
         <item quantity="one">%d آهنگ حذف شود؟</item>
     </plurals>
     <plurals name="dialog_remove_descript">
-        <item quantity="other">%d آهنگ پاک شود؟</item>
+        <item quantity="other">Remove %d songs?</item>
         <item quantity="one">%d آهنگ پاک شود؟</item>
     </plurals>
     <plurals name="dialog_request_delete_permission_descript">
         <item quantity="other">%d آهنگ از آهنگ‌های ذخیره شده در پوشه خارجی ذخیره شده‌اند. برای حذف آن‌ها، مجوزهای لازم را بدهید.</item>
         <item quantity="one">%d آهنگ از آهنگ‌های ذخیره شده در پوشه خارجی ذخیره شده است. برای حذف آن، مجوزهای لازم را بدهید.</item>
     </plurals>
-    <plurals name="download_finished">
-        <item quantity="other">&lt;font color==\"red\">%dآهنگ &lt;/font>دانلود شد</item>
-        <item quantity="one">&lt;font color==\"red\">%dآهنگ &lt;/font>دانلود شد</item>
-    </plurals>
-    <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%d دانلود حذف شد</item>
-        <item quantity="one">%d دانلود حذف شد</item>
-    </plurals>
-    <plurals name="download_running">
-        <item quantity="other">&lt;font color==\"red\">%dآهنگ &lt;/font>درحال دانلود است</item>
-        <item quantity="one">&lt;font color==\"red\">%dآهنگ &lt;/font>درحال دانلود است</item>
-    </plurals>
     <plurals name="feed_play_times">
         <item quantity="other">%s بازدید</item>
         <item quantity="one">%s بازدید</item>
     </plurals>
     <plurals name="free_downloads_num_hint">
-        <item quantity="other">%d دانلود رایگان باقی مانده</item>
+        <item quantity="other">%d free downloads left</item>
         <item quantity="one">%d دانلود رایگان باقی مانده</item>
     </plurals>
     <plurals name="half_hour_ago">
@@ -135,8 +125,8 @@
         <item quantity="one">نیم ساعت پیش</item>
     </plurals>
     <plurals name="hide_reason_duration">
-        <item quantity="other">کوتاه‌تر از %1$d ثانیه</item>
-        <item quantity="one">کوتاه‌تر از %1$d ثانیه</item>
+        <item quantity="other">Less than %1$ds</item>
+        <item quantity="one">Less than %1$ds</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">در ۱ ساعت</item>
@@ -159,11 +149,11 @@
         <item quantity="one">هم اکنون</item>
     </plurals>
     <plurals name="list_header_fans_count">
-        <item quantity="other">%d دنبال کننده</item>
+        <item quantity="other">%d followers</item>
         <item quantity="one">%d دنبال کننده</item>
     </plurals>
     <plurals name="list_header_follow_count">
-        <item quantity="other">درحال دنبال کردن %d نفر</item>
+        <item quantity="other">Following %d people</item>
         <item quantity="one">درحال دنبال کردن %d نفر</item>
     </plurals>
     <plurals name="media_store_new_songs_add">
@@ -175,23 +165,15 @@
         <item quantity="one">%d مورد انتخاب شد</item>
     </plurals>
     <plurals name="multichoice_title">
-        <item quantity="other">%dمورد انتخاب شد</item>
+        <item quantity="other">%d items selected</item>
         <item quantity="one">%dمورد انتخاب شد</item>
-    </plurals>
-    <plurals name="notif_title_multiple_downloading">
-        <item quantity="other">درحال دانلود %1$d فایل</item>
-        <item quantity="one">درحال دانلود %1$d فایل</item>
-    </plurals>
-    <plurals name="notification_download_failed_more">
-        <item quantity="other">%1$d مورد دانلود نشدند</item>
-        <item quantity="one">%1$d مورد دانلود نشد</item>
     </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">۱ دقیقه پیش</item>
     </plurals>
     <plurals name="reader_count">
-        <item quantity="other">%d دنبال‌کننده</item>
+        <item quantity="other">%d followers</item>
         <item quantity="one">%d دنبال‌کننده</item>
     </plurals>
     <plurals name="reward_seconds_remaining">
@@ -199,39 +181,39 @@
         <item quantity="one">عضویت VIP تا %d ثانیه دیگر</item>
     </plurals>
     <plurals name="send_songs_toast">
-        <item quantity="other">%d آهنگ ارسال خواهد شد</item>
+        <item quantity="other">%d songs will be sent</item>
         <item quantity="one">%d آهنگ ارسال خواهد شد</item>
     </plurals>
     <plurals name="skipped_online_songs_tips">
-        <item quantity="other">%d آهنگ رد شد. خدمات آنلاین را در تنظیمات روشن کرده تا به آن‌ها گوش دهید.</item>
-        <item quantity="one">%d آهنگ رد شد. خدمات آنلاین را در تنظیمات روشن کرده تا به آن گوش دهید.</item>
+        <item quantity="other">Skipped %d songs. Turn on online services in the settings to listen to them.</item>
+        <item quantity="one">%d آهنگ رد شد. خدمات آنلاین را در تنظیمات روشن کرده تا به آن‌ها گوش دهید.</item>
     </plurals>
     <plurals name="song_already_favorite">
-        <item quantity="other">آهنگ‌ها به موارد علاقه اضافه شد.</item>
+        <item quantity="other">Songs have been favorited.</item>
         <item quantity="one">آهنگ‌ها به موارد علاقه اضافه شد.</item>
     </plurals>
     <plurals name="songs_count">
-        <item quantity="other">%d آهنگ</item>
+        <item quantity="other">%d songs</item>
         <item quantity="one">%d آهنگ</item>
     </plurals>
     <plurals name="sound_fade_duration_in_seconds">
-        <item quantity="other">محو تدریجی بین آهنگ‌ها: %d ثانیه</item>
+        <item quantity="other">Crossfade between songs: %d seconds</item>
         <item quantity="one">محو تدریجی بین آهنگ‌ها: %d ثانیه</item>
     </plurals>
     <plurals name="task_guide">
-        <item quantity="other">امروز %1$d سکه به دست آورید!</item>
-        <item quantity="one">امروز %1$d سکه به دست آورید!</item>
+        <item quantity="other">Earn %1$d coins today</item>
+        <item quantity="one">Earn %1$d coin today</item>
     </plurals>
     <plurals name="video_count">
-        <item quantity="other">ویدئو</item>
+        <item quantity="other">Videos</item>
         <item quantity="one">ویدئو</item>
     </plurals>
     <plurals name="video_play_count">
-        <item quantity="other">%1$s بازدید</item>
+        <item quantity="other">%1$s views</item>
         <item quantity="one">%1$s بازدید</item>
     </plurals>
     <plurals name="vip_remain_days_hint">
-        <item quantity="other">%d روز باقی مانده</item>
+        <item quantity="other">%d days remaining</item>
         <item quantity="one">%d روز باقی مانده</item>
     </plurals>
     <plurals name="web_reward_dialog_title">

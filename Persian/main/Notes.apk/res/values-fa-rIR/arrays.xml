@@ -110,10 +110,9 @@
         <item>دوربین</item>
         <item>گالری</item>
     </string-array>
-    <string-array name="common_folder_operations">
-        <item>新建</item>
-        <item>重命名</item>
-        <item>删除</item>
+    <string-array name="big_screen_layouts">
+        <item>@string/setting_big_screen_layout_columns</item>
+        <item>@string/setting_big_screen_layout_flat</item>
     </string-array>
     <string-array name="contact_entries">
         <item>نام</item>
@@ -128,20 +127,6 @@
         <item>نشانی</item>
         <item>یادداشت</item>
     </string-array>
-    <string-array name="first_guide_contents">
-        <item>به یادداشت‌ها خوش آمدید!</item>
-        <item>یادداشت برداری</item>
-        <item>می‌توانید از متن، تصاویر و ضبط صدا در یادداشت‌های خود استفاده کنید. مجموعه‌ای از سبک‌ها و فونت‌ها دستخط ساده شما را خیره‌کننده خواهد کرد.</item>
-        <item>بازبینه‌ها و یادآوری‌ها هنگامی که به ابزارهای ابتدایی و مؤثر برای برنامه‌ریزی سفر یا تهیه فهرست خرید نیاز دارید به کمک شما می‌آیند.</item>
-        <item>هم‌رسانی یادداشت‌ها</item>
-        <item>در یادداشت‌ها می‌توانید به صورت خودکار طومارهای عکس صفحه ایجاد کرده و آن‌ها را با دوستان خود هم‌رسانی کنید.</item>
-        <item>ایجاد پوشه و جابجایی بین آن‌ها</item>
-        <item>پیکان زیر را زده تا پوشه جدید ایجاد کرده یا بین پوشه‌های موجود تعویض کنید.</item>
-    </string-array>
-    <string-array name="folder_operations">
-        <item>تغییر نام</item>
-        <item>حذف</item>
-    </string-array>
     <string-array name="font_size_names">
         <item>کوچک</item>
         <item>متوسط</item>
@@ -152,15 +137,8 @@
         <item>بر اساس تاریخ ایجاد</item>
         <item>بر اساس تاریخ تغییر</item>
     </string-array>
-    <string-array name="second_guide_contents">
-        <item>یادداشت‌های صوتی</item>
-        <item>با استفاده از موتور گفتار به نوشتار درون‌برنامه‌ای صداهای ضبط شده خود را به یادداشت‌ها ضمیمه کنید.</item>
-    </string-array>
-    <string-array name="second_guide_contents_pad_or_inter">
-        <item>یادداشت‌های صوتی</item>
-        <item>حالا می‌توانید یادداشت‌های صوتی ایجاد کنید. کافیست روی آیکون آن زده، صدای خود را ضبط کرده و فایل صوتی را داخل یادداشت ذخیره کنید.</item>
-    </string-array>
-    <string-array name="system_folder_operations">
-        <item>新建</item>
+    <string-array name="setting_phone_note_layout_way">
+        <item>@string/action_mode_switcher_list_description</item>
+        <item>@string/action_mode_switcher_grid_description</item>
     </string-array>
 </resources>

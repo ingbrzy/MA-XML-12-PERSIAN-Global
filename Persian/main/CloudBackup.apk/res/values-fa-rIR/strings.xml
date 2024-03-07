@@ -408,6 +408,8 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="other_device_main_space">فضای نخست</string>
     <string name="other_device_second_space">فضای دوم</string>
     <string name="page_title_more_backup_options">خدمات پشتیبان‌گیری بیشتر</string>
+    <string name="pattern_backup_name_with_home">%1$s (%2$s: %3$s)</string>
+    <string name="pattern_backup_name_without_home">%1$s (%2$s)</string>
     <string name="pc_mode_not_support_restore_warning">در حالت رایانه موارد بازیابی نمی‌شوند. حالت رایانه را خاموش کرده و سپس دوباره تلاش کنید.</string>
     <string name="permission_to_use">جزئیات مجوزها</string>
     <string name="pm">ب.ظ</string>
@@ -418,6 +420,7 @@ Note: Data for apps you've installed won't be backed up to Xiaomi Cloud."</strin
     <string name="provision_error_connect_title">وصل نمی‌شود</string>
     <string name="provision_next">بعدی</string>
     <string name="provision_restore_data">درحال بازیابی موارد</string>
+    <string name="provision_restore_item_backup_name_with_size">%1$s | ≈%2$s</string>
     <string name="provision_skip_underline">رد شدن</string>
     <string name="query_restore_description">چنانچه چیدمان و تنظیمات صفحه اصلی خود را بازیابی کنید، برنامه‌هایی که نصب شده‌اند به موقعیت‌های اصلی خود در صفحه اصلی باز خواهند گشت. برنامه‌هایی که بخشی از این پشتیبان‌گیری نیستند به صفحه آخر صفحه اصلی منتقل خواهند شد.</string>
     <string name="query_restore_summary">یک نسخه پشتیبان فضای ابری Xiaomi برای این دستگاه یافت شد. برنامه‌های صفحه اصلی و تنظیمات بازیابی شوند یا می‌خواهید به عنوان یک دستگاه نو استفاده کرده و نسخه‌های پشتیبان پیشین فضای ابری Xiaomi پاک شوند؟</string>

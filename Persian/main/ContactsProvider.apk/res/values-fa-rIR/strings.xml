@@ -16,7 +16,6 @@
     <string name="provider_label">مخاطبین</string>
     <string name="sharedUserLabel">برنامه‌های هسته‌ای Android</string>
     <string name="sim_state_changed">سیم‌کارت تغییر کرد</string>
-    <string name="third_party_delete_contact_info">«%s» تلاش دارد مخاطبین شما را حذف کند. این کار به‌وسیله برنامه‌های سوم شخص قابل انجام نیست. به جای آن برای حذف مخاطبین از برنامه مخاطبین درون MIUI استفاده کنید.</string>
     <string name="update_accounts_changed">حساب‌ها تغییر کرد</string>
     <string name="upgrade_out_of_memory_notification_text">برای تکمیل به‌روزرسانی ضربه بزنید.</string>
     <string name="upgrade_out_of_memory_notification_ticker">به روز رسانی نیازمند پول بیشتر است.</string>

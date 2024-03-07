@@ -20,7 +20,7 @@
     <string name="date_time_picker_dialog_title">تنظیم تاریخ و ساعت</string>
     <string name="default_debt_msg_words">"این دستگاه به دلیل دیرکرد در پرداخت قسط قفل شده است.
 برای جزئیات بیشتر با نمایندگی فروش خود تماس بگیرید."</string>
-    <string name="default_lock_msg_words">این دستگاه در با یک حساب کاربری Mi موجود پیوند خورده است. به دلایل امنیتی، برای تأیید دستگاه لازم است گذرواژه را وارد کنید.</string>
+    <string name="default_lock_msg_words">این دستگاه با یک حساب Xiaomi موجود مرتبط است. به دلایل امنیتی، برای تأیید دستگاه نیاز به وارد کردن گذرواژه دارید.</string>
     <string name="default_lock_msg_words_with_phone">سلام! من این دستگاه را گم کرده‌ام. ممکن است لطفاً با من تماس بگیرید؟ سپاسگزارم!</string>
     <string name="device_locked">این دستگاه قفل شده است</string>
     <string name="device_lost">این دستگاه گم شده است</string>
@@ -35,15 +35,14 @@
     <string name="eras_ad">میلادی</string>
     <string name="eras_bc">پیش از میلاد</string>
     <string name="evening">بعد از ظهر</string>
-    <string name="find_device">یافتن دستگاه</string>
     <string name="find_device_capture_done_notification_content">مشاهده عکس در i.mi.com</string>
     <string name="find_device_capture_done_notification_title">یافتن دستگاه از راه دور عکس گرفت</string>
     <string name="find_device_capture_notification_content">درخواستی برای عکس گرفتن از راه دور با این دستگاه توسط حساب شما ارسال شده است</string>
     <string name="find_device_capture_notification_title">یافتن دستگاه در آستانه عکس گرفتن است</string>
     <string name="find_device_crash">یافتن دستگاه به صورت غیر منتظره‌ای بسته شد.</string>
     <string name="find_device_error_access_denied">امکان دسترسی وجود ندارد.</string>
-    <string name="find_device_error_account_sys_timeout">"به حساب کاربری Mi متصل نشد. "</string>
-    <string name="find_device_error_account_unknown_error">خطای حساب Mi (%s).</string>
+    <string name="find_device_error_account_sys_timeout">به حساب Xiaomi وصل نشد.</string>
+    <string name="find_device_error_account_unknown_error">خطای حساب Xiaomi (%s).</string>
     <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_network">خطای شبکه.</string>
     <string name="find_device_error_password_changed">گذرواژه حساب کاربری به تازگی تغییر کرده است.</string>
@@ -60,44 +59,44 @@
     <string name="find_device_telephony_fault">یافتن دستگاه: خطای تلفنی (%s).</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
-    <string name="fmt_date_day">dd</string>
+    <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">dd MMMM</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
-    <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_day">dd</string>
-    <string name="fmt_date_numeric_month">MM</string>
-    <string name="fmt_date_numeric_month_day">dd/MM</string>
+    <string name="fmt_date_long_year_month_day">d MMMM yyyy</string>
+    <string name="fmt_date_numeric_day">d</string>
+    <string name="fmt_date_numeric_month">M</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month">MM</string>
-    <string name="fmt_date_short_month_day">dd/MM</string>
+    <string name="fmt_date_numeric_year_month">M-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
+    <string name="fmt_date_short_month">MMM</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">D T z</string>
     <string name="fmt_date_timezone">D z</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">hh</string>
-    <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
-    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
-    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">H</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">S</string>
-    <string name="fmt_time_minute">m</string>
-    <string name="fmt_time_minute_second">m:s</string>
-    <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second">s</string>
-    <string name="fmt_time_second_millis">s.S</string>
+    <string name="fmt_time_12hour">"h 'o''clock'"</string>
+    <string name="fmt_time_12hour_minute">h:mm</string>
+    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
+    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
+    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
+    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
+    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
+    <string name="fmt_time_12hour_pm">ah</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
+    <string name="fmt_time_millis">"S'م.ث'"</string>
+    <string name="fmt_time_minute">"m'دق'"</string>
+    <string name="fmt_time_minute_second">"m'دق' و s'ث'"</string>
+    <string name="fmt_time_minute_second_millis">"m'دق' و s.S'ث'"</string>
+    <string name="fmt_time_second">"s'ث'"</string>
+    <string name="fmt_time_second_millis">"s.S'ث'"</string>
     <string name="fmt_time_timezone">T z</string>
     <string name="fmt_timezone">z</string>
     <string name="fmt_weekday">W</string>
@@ -118,14 +117,15 @@
     <string name="login_extra_steps">تایید ورود به سیستم</string>
     <string name="login_failed">ورود انجام نشد. %s.</string>
     <string name="midnight">شب</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
+    <string name="miuix_access_state_desc">انتخاب شده</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">بیشتر</string>
     <string name="miuix_appcompat_cancel_description">لغو</string>
     <string name="miuix_appcompat_confirm_description">تأیید</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
-    <string name="miuix_appcompat_deselect_all">لغو انتخاب</string>
+    <string name="miuix_appcompat_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_deselect_all_description">لغو انتخاب همه</string>
     <string name="miuix_appcompat_search_action_mode_cancel">لغو</string>
     <string name="miuix_appcompat_search_input_description">جستجو</string>
@@ -183,7 +183,8 @@
     <string name="morning">صبح</string>
     <string name="night">شب</string>
     <string name="noon">ظهر</string>
-    <string name="open_wifi_settings">باز کردن تنظیمات Wi-Fi</string>
+    <string name="open_wifi_settings">باز کردن تنظیمات WLAN</string>
+    <string name="open_wifi_settings_china">باز کردن تنظیمات WLAN</string>
     <string name="passport_checking_vcode">درحال بررسی گذرواژه…</string>
     <string name="passport_error_empty_vcode">کد تأیید را وارد کنید</string>
     <string name="passport_notification_need_unlock_again">برای باز کردن قفل دوباره تلاش کنید</string>
@@ -192,7 +193,7 @@
     <string name="passport_vcode_prompt_long">کد تأیید را وارد کنید</string>
     <string name="passport_verify">تأیید</string>
     <string name="password">گذرواژه را وارد کنید</string>
-    <string name="phone_locked">این دستگاه با حساب Mi (%s) مرتبط است. گذرواژه را وارد کرده تا دستگاه فعال شود.</string>
+    <string name="phone_locked">این دستگاه با یک حساب Xiaomi (%s) مرتبط است. برای فعال‌سازی دستگاه، گذرواژه را وارد کنید.</string>
     <string name="phone_locked_account_email">، ایمیل‌های مرتبط: %s</string>
     <string name="phone_locked_account_phone">، شماره تلفن مرتبط: %s</string>
     <string name="pm">ب.ظ</string>
@@ -273,15 +274,21 @@
     <string name="unlock_error_device_id">شناسه دستگاه دریافت نمی‌شود</string>
     <string name="unlock_error_interrupted">قطع شد</string>
     <string name="unlock_error_network">نمی‌توان به شبکه متصل شد</string>
-    <string name="unlock_error_passport_sdk_timeout">SDK حساب Mi پاسخی نمی‌دهد</string>
     <string name="unlock_error_rpc">خطای RPC</string>
     <string name="unlock_error_server">خطای سرور</string>
-    <string name="unlock_error_ssl_hand_shake">به سرور وصل نشد، تلاش کنید تاریخ و زمان را به صورت دستی تنظیم کنید.</string>
     <string name="unlock_error_unknown">نمی‌توان وارد شد</string>
     <string name="unlock_error_user_name">نام کاربری نامعتبر است</string>
     <string name="unlock_error_wrong_vcode">کدی را که وارد کرده‌اید اشتباه است</string>
     <string name="unlock_help">"به شبکه متصل شوید.
-یک سیم‌کارتی قابل استفاده را در دستگاه قرار داده و به شبکه‌های Wi-Fi نامعتبر وصل نشوید.
+یک سیم‌کارتی قابل استفاده را در دستگاه قرار داده و به شبکه‌های WLAN نامعتبر وصل نشوید.
+
+گذرواژه را فراموش کرده‌اید؟
+به id.mi.com رفته، «گذرواژه را فراموش کرده‌اید؟» را انتخاب کرده و دستورالعمل‌ها را دنبال کنید.
+
+دستگاه فعال نمی‌شود؟
+به i.mi.com/ss رفته و درخواست خود را برای گشودن قفل دستگاه ارسال کنید."</string>
+    <string name="unlock_help_china">"به شبکه متصل شوید.
+یک سیم‌کارتی قابل استفاده را در دستگاه قرار داده و به شبکه‌های WLAN نامعتبر وصل نشوید.
 
 گذرواژه را فراموش کرده‌اید؟
 به id.mi.com رفته، «گذرواژه را فراموش کرده‌اید؟» را انتخاب کرده و دستورالعمل‌ها را دنبال کنید.
@@ -293,7 +300,7 @@
     <string name="unlock_wrong_captcha">کدی که وارد کرده‌اید اشتباه است</string>
     <string name="unlocking">درحال فعال‌سازی…</string>
     <string name="verifing_account">درحال تأیید گذرواژه…</string>
-    <string name="verify_password_failed">شناسه حساب Mi تأیید نشد. %s.</string>
+    <string name="verify_password_failed">شناسه حساب Xiaomi تأیید نشد. %s.</string>
     <string name="wednesday">چهارشنبه</string>
     <string name="wednesday_short">چهارشنبه</string>
     <string name="wednesday_shortest">چهارشنبه</string>

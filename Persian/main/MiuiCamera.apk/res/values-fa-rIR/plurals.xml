@@ -36,6 +36,10 @@
         <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">۱ دقیقه پیش</item>
     </plurals>
+    <plurals name="accessibility_auto_night_tip">
+        <item quantity="other">زمان‌سنج %d ثانیه‌ای برای حالت شب</item>
+        <item quantity="one">زمان‌سنج %d ثانیه‌ای برای حالت شب</item>
+    </plurals>
     <plurals name="accessibility_focus_face_detect">
         <item quantity="other">فوکوس شد. %d چهره شناسایی شد</item>
         <item quantity="one">فوکوس شد. %d چهره شناسایی شد</item>
@@ -52,6 +56,14 @@
         <item quantity="other">مدت زمان: %d ثانیه</item>
         <item quantity="one">مدت زمان: %d ثانیه</item>
     </plurals>
+    <plurals name="cinemaster_toast_camera_overflow">
+        <item quantity="other">شما می‌توانید تا %d دوربین را به یک شبکه متصل کنید</item>
+        <item quantity="one">شما می‌توانید تا %d دوربین را به یک شبکه متصل کنید</item>
+    </plurals>
+    <plurals name="cinemaster_toast_monitor_overflow">
+        <item quantity="other">شما می‌توانید تا %d نمایشگر را به یک شبکه متصل کنید</item>
+        <item quantity="one">شما می‌توانید تا %d نمایشگر را به یک شبکه متصل کنید</item>
+    </plurals>
     <plurals name="clone_guide_tip2">
         <item quantity="other">شما هر بار می‌توانید تا %d همتا ایجاد کنید.</item>
         <item quantity="one">شما هر بار می‌توانید تا %d همتا ایجاد کنید.</item>
@@ -64,6 +76,10 @@
         <item quantity="other">&lt;Data>این دستگاه بسیار داغ شده است.&lt;br>برنامه تا &lt;font color=#FFCE16>&lt;b>%1$d ثانیه&lt;/b>&lt;/font> دیگر بسته خواهد شد. فرایند کنونی به صورت خودکار ذخیره شده است.&lt;/Data></item>
         <item quantity="one">&lt;Data>این دستگاه بسیار داغ شده است.&lt;br>برنامه تا &lt;font color=#FFCE16>&lt;b>%1$d ثانیه&lt;/b>&lt;/font> دیگر بسته خواهد شد. فرایند کنونی به صورت خودکار ذخیره شده است.&lt;/Data></item>
     </plurals>
+    <plurals name="exit_version_hint">
+        <item quantity="other">&lt;Data>نسخه دوربینی که در حال استفاده هستید با مدل دستگاه شما سازگار نیست.&lt;br>برنامه تا &lt;font color=#FFCE16>&lt;b>%1$d ثانیه&lt;/b>&lt;/font> دیگر بسته خواهد شد. به‌روزرسانی‌های دوربین را حذف کرده و دوباره تلاش کنید.&lt;/Data></item>
+        <item quantity="one">&lt;Data>نسخه دوربینی که در حال استفاده هستید با مدل دستگاه شما سازگار نیست.&lt;br>برنامه تا &lt;font color=#FFCE16>&lt;b>%1$d ثانیه&lt;/b>&lt;/font> دیگر بسته خواهد شد. به‌روزرسانی‌های دوربین را حذف کرده و دوباره تلاش کنید.&lt;/Data></item>
+    </plurals>
     <plurals name="fastmotion_pro_min_unit">
         <item quantity="other">%1$d دقیقه</item>
         <item quantity="one">%1$d دقیقه</item>
@@ -71,6 +87,10 @@
     <plurals name="fastmotion_pro_sec_unit">
         <item quantity="other">%1$d ثانیه</item>
         <item quantity="one">%1$d ثانیه</item>
+    </plurals>
+    <plurals name="friend_mode_display_first_dialog">
+        <item quantity="other">زمان‌سنج روشن شد (%1$d ثانیه). عکس‌ها به این دستگاه منتقل خواهند شد.</item>
+        <item quantity="one">زمان‌سنج روشن شد (%1$d ثانیه). عکس‌ها به این دستگاه منتقل خواهند شد.</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">نیم ساعت پیش</item>
@@ -107,6 +127,10 @@
     <plurals name="num_minutes_ago">
         <item quantity="other">%d دقیقه پیش</item>
         <item quantity="one">۱ دقیقه پیش</item>
+    </plurals>
+    <plurals name="number_unit_seconds_split">
+        <item quantity="other">%d ث</item>
+        <item quantity="one">%d ث</item>
     </plurals>
     <plurals name="pad_ccc_temperature_warning_msg">
         <item quantity="other">دستگاه شما داغ شده است. دوربین تا %d ثانیه دیگر بسته می‌شود. عکس‌ها و ویدئوهای شما به صورت خودکار ذخیره خواهند شد.</item>

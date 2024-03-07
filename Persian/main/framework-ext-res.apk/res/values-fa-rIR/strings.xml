@@ -519,6 +519,8 @@
     <string name="vigor">انرژی</string>
     <string name="vivo">vivo</string>
     <string name="vivo_phone">vivo</string>
+    <string name="wallpaper_floral_arrangement_title">گل آرایی</string>
+    <string name="wallpaper_gradient_title">چند لایه</string>
     <string name="wallpaper_group_black_white_title">سیاه و سفید</string>
     <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
     <string name="wallpaper_group_dynamic_nebula_title">سحابی متحرک</string>
@@ -530,6 +532,8 @@
     <string name="wallpaper_group_natural_texture_title">الگوهای طبیعی</string>
     <string name="wallpaper_group_red_mars_subtitle">دانشگاه آریزونا، NASA، JPL</string>
     <string name="wallpaper_group_red_mars_title">مریخ</string>
+    <string name="wallpaper_neon_title">مهتابی</string>
+    <string name="wallpaper_overlapping_space_title">شکل و سایه</string>
     <string name="waterdrop_preview">چکه‌های آب</string>
     <string name="wifi_assistant_wifi_no_internet">این شبکه Wi-Fi به اینترنت دسترسی ندارد</string>
     <string name="wifi_assistant_wifi_no_internet_detail">برای نمایش جزئیات ضربه بزنید</string>

@@ -110,6 +110,10 @@
         <item>ی</item>
         <item>\#</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>مرد</item>
+        <item>زن</item>
+    </string-array>
     <string-array name="settings_search_account_and_authority_global">
         <item>حساب‌ها</item>
         <item>حساب‌های سوم شخص را اضافه و مدیریت کنید</item>
@@ -117,8 +121,8 @@
     </string-array>
     <string-array name="settings_search_account_and_authority_non_global">
         <item>حساب‌ها</item>
-        <item>حساب‌های سوم شخص را اضافه و مدیریت کنید</item>
-        <item>حساب‌ها;SNS;WeChat;QQ;حساب Mi;حساب Xiaomi</item>
+        <item>WeChat و سایر حساب‌های SNS خود را ببینید</item>
+        <item>مجوزها;SNS;WeChat;حساب Xiaomi;حساب</item>
     </string-array>
     <string-array name="settings_search_change_password">
         <item>تغییر گذرواژه</item>
@@ -139,11 +143,6 @@
         <item>راهنمایی</item>
         <item>از حساب Xiaomi کمک و پشتیبانی دریافت کنید</item>
         <item>حساب Mi;حساب;حساب Xiaomi;کمک حساب;مرکز راهنما</item>
-    </string-array>
-    <string-array name="settings_search_login_2_step_verify">
-        <item>تأیید ۲ مرحله‌ای</item>
-        <item>تأیید ۲ مرحله‌ای را برای حساب Xiaomi خود تنظیم کنید</item>
-        <item>ورود به حساب;ورود به حساب;۲ مرحله‌ای;تأیید صحت;Xiaomi;حساب;حساب Mi;حساب Xiaomi</item>
     </string-array>
     <string-array name="settings_search_login_and_security">
         <item>امنیت حساب</item>

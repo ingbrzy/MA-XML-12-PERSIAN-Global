@@ -9,6 +9,7 @@
     <string name="download_queued">در صف</string>
     <string name="download_remaining">%s باقیمانده</string>
     <string name="download_running">در حال انجام</string>
+    <string name="download_running_percent">در حال انجام، %s</string>
     <string name="download_unknown_title">‏&lt;بدون عنوان></string>
     <string name="notification_download_complete">بارگیری کامل شد.</string>
     <string name="notification_download_failed">بارگیری ناموفق بود.</string>
@@ -27,7 +28,6 @@
     <string name="permlab_downloadManager">‏دسترسی به Download Manager.</string>
     <string name="permlab_downloadManagerAdvanced">‏عملکرد پیشرفته Download Manager.</string>
     <string name="permlab_downloadWithoutNotification">بارگیری فایل‌ها بدون اطلاع</string>
-    <string name="permlab_seeAllExternal">‏مشاهدهٔ همه بارگیری‌ها در حافظهٔ USB</string>
     <string name="root_downloads">بارگیری‌ها</string>
     <string name="wifi_recommended_body">"‏شروع بارگیری %1$s  سبب کم شدن طول عمر باتری و/یا استفاده بیش از حد از اتصال داده تلفن همراه می‌شود که بسته به قرارداد ارائه داده شما ممکن است از طرف اپراتور تلفن هزینه‌هایی برای شما در نظر گرفته شود. 
 

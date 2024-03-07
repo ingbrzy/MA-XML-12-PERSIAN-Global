@@ -43,7 +43,7 @@
     <string name="redirect_ca_certificate_title">گواهینامه‌های مرکز صدور گواهی را در «تنظیمات» نصب کنید</string>
     <string name="redirect_ca_certificate_with_app_info_message">این گواهینامه از %1$s باید در «تنظیمات» نصب شود. «گواهینامه‌های مرکز صدور گواهی» را فقط از سازمان‌هایی که مورداعتمادتان هستند نصب کنید.</string>
     <string name="select_certificate_usage_title">یک نوع گواهینامه انتخاب کنید</string>
-    <string name="unable_to_save_cert">گواهی‌نامه ذخیره نشد. حافظه اطلاعات کاربری فعال نیست یا به‌درستی راه‌اندازی نشده است.</string>
+    <string name="unable_to_save_cert">گواهی‌نامه ذخیره نشد. فضای ذخیره‌سازی اطلاعات کاربری فعال نیست یا به‌درستی راه‌اندازی نشده است.</string>
     <string name="user_cert_is_added">گواهینامه کاربر نصب شد</string>
     <string name="user_certificate">‏گواهینامه کاربر برنامه و VPN</string>
     <string name="userkey_type">الگوریتم:</string>

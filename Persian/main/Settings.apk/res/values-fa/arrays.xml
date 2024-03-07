@@ -32,18 +32,6 @@
         <item>IPv6</item>
         <item>IPv4/IPv6</item>
     </string-array>
-    <string-array name="app_install_location_entries">
-        <item>دستگاه ذخیره‌سازی داخلی</item>
-        <item>‏کارت SD جدا شدنی</item>
-        <item>سیستم تصمیم بگیرد</item>
-    </string-array>
-    <string-array name="app_ops_categories">
-        <item>مکان</item>
-        <item>شخصی</item>
-        <item>پیام‌رسانی</item>
-        <item>رسانه</item>
-        <item>دستگاه</item>
-    </string-array>
     <string-array name="app_ops_labels">
         <item>موقعیت مکانی</item>
         <item>موقعیت مکانی</item>
@@ -109,7 +97,7 @@
         <item>روشن کردن صفحه</item>
         <item>دریافت حساب‌ها</item>
         <item>اجرا در پس‌زمینه</item>
-        <item>میزان دسترس‌پذیری</item>
+        <item>میزان صدای دسترس‌پذیری</item>
     </string-array>
     <string-array name="app_ops_summaries">
         <item>موقعیت مکانی غیردقیق</item>
@@ -176,7 +164,7 @@
         <item>روشن کردن صفحه</item>
         <item>دریافت حساب‌ها</item>
         <item>اجرا در پس‌زمینه</item>
-        <item>میزان دسترس‌پذیری</item>
+        <item>میزان صدای دسترس‌پذیری</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>حد استاندارد</item>
@@ -189,7 +177,7 @@
     <string-array name="autofill_logging_level_entries">
         <item>خاموش</item>
         <item>اشکال‌زدایی</item>
-        <item>درازنویسی</item>
+        <item>مفصل</item>
     </string-array>
     <string-array name="automatic_storage_management_days">
         <item>بیش از ۳۰ روز پیش</item>
@@ -255,20 +243,6 @@
         <item>بهینه‌شده برای کیفیت اتصال (۳۳۰ کیلوبیت در ثانیه/۳۰۳ کیلوبیت در ثانیه)</item>
         <item>بهترین حالت (نرخ بیت تطبیقی)</item>
     </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
-        <item>استفاده از انتخاب سیستم (پیش‌فرض)</item>
-        <item>۴۴٫۱ کیلوهرتز</item>
-        <item>۴۸٫۰ کیلوهرتز</item>
-        <item>۸۸٫۲ کیلوهرتز</item>
-        <item>۹۶٫۰ کیلوهرتز</item>
-    </string-array>
-    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
-        <item>استفاده از انتخاب سیستم (پیش‌فرض)</item>
-        <item>۴۴٫۱ کیلوهرتز</item>
-        <item>۴۸٫۰ کیلوهرتز</item>
-        <item>۸۸٫۲ کیلوهرتز</item>
-        <item>۹۶٫۰ کیلوهرتز</item>
-    </string-array>
     <string-array name="bluetooth_a2dp_codec_summaries">
         <item>استفاده از انتخاب سیستم (پیش‌فرض)</item>
         <item>SBC</item>
@@ -294,6 +268,11 @@
         <item>، فعال</item>
         <item>، فعال (رسانه)</item>
         <item>، فعال (تلفن)</item>
+    </string-array>
+    <string-array name="bluetooth_audio_routing_titles">
+        <item>استفاده از پیش‌فرض برنامه</item>
+        <item>پخش در دستگاه کمک‌شنوایی</item>
+        <item>پخش در بلندگوی تلفن</item>
     </string-array>
     <string-array name="bluetooth_avrcp_version_values">
         <item>avrcp15</item>
@@ -325,16 +304,21 @@
         <item>4</item>
         <item>5</item>
     </string-array>
-    <string-array name="bluetooth_visibility_timeout_entries">
-        <item>۲ دقیقه</item>
-        <item>۵ دقیقه</item>
-        <item>۱ ساعت</item>
-        <item>بدون درنگ</item>
-    </string-array>
     <string-array name="bt_hci_snoop_log_entries">
         <item>غیرفعال</item>
         <item>فیلترشده فعال شده است</item>
         <item>فعال</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_filters_entries">
+        <item>‏نگه داشتن فقط سرایند ACL</item>
+        <item>‏فیلتر کردن بسته‌های رسانه A2DP</item>
+        <item>‏فیلتر کردن کانال RFCOMM</item>
+    </string-array>
+    <string-array name="bt_hci_snoop_log_profile_filter_entries">
+        <item>غیرفعال کردن</item>
+        <item>پر کردن با رشته‌ای از نویسه‌ها</item>
+        <item>نگه داشتن فقط سرایند</item>
+        <item>برداشتن کامل</item>
     </string-array>
     <string-array name="captioning_edge_type_selector_titles">
         <item>پیش‌فرض</item>
@@ -402,28 +386,10 @@
         <item>صورتی</item>
         <item>نارنجی</item>
     </string-array>
-    <string-array name="dark_ui_mode_entries">
-        <item>تیره</item>
-        <item>روشن</item>
-    </string-array>
-    <string-array name="data_usage_data_range">
-        <item>۳۰ روز گذشته</item>
-        <item>تنظیم چرخه مصرف...</item>
-    </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>غیرفعال</item>
         <item>نمایش نواحی بازنویسی</item>
         <item>نمایش مناطق برای مبتلایان به سبزدشواربینی</item>
-    </string-array>
-    <string-array name="dream_timeout_entries">
-        <item>هیچ‌وقت</item>
-        <item>۱۵ ثانیه</item>
-        <item>۳۰ ثانیه</item>
-        <item>۱ دقیقه</item>
-        <item>۲ دقیقه</item>
-        <item>۵ دقیقه</item>
-        <item>۱۰ دقیقه</item>
-        <item>۳۰ دقیقه</item>
     </string-array>
     <string-array name="eap_ocsp_type">
         <item>درستی‌سنجی نشود</item>
@@ -435,12 +401,6 @@
         <item>Logcat</item>
         <item>‏Systrace (تصاویر گرافیکی)</item>
         <item>‏فراخوانی پشته در glGetError</item>
-    </string-array>
-    <string-array name="entries_font_size">
-        <item>کوچک</item>
-        <item>پیش‌فرض</item>
-        <item>بزرگ</item>
-        <item>بزرگ‌ترین</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
         <item>‏هرگز از بررسی HDCP استفاده نشود</item>
@@ -538,28 +498,6 @@
         <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
         <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
     </string-array>
-    <string-array name="proc_stats_memory_states">
-        <item>عادی</item>
-        <item>متوسط</item>
-        <item>کم</item>
-        <item>خیلی کم</item>
-    </string-array>
-    <string-array name="proc_stats_process_states">
-        <item>دائمی</item>
-        <item>فعالیت برتر</item>
-        <item>مهم (پیش‌نما)</item>
-        <item>مهم (پس‌زمینه)</item>
-        <item>پشتیبان‌گیری</item>
-        <item>سنگین وزن</item>
-        <item>سرویس (در حال اجرا)</item>
-        <item>سرویس (در حال شروع مجدد)</item>
-        <item>دریافت‌کننده</item>
-        <item>صفحه اصلی</item>
-        <item>آخرین فعالیت</item>
-        <item>قرار داده شده در حافظه پنهان (فعالیت)</item>
-        <item>قرار داده شده در حافظه پنهان (کلاینت فعالیت)</item>
-        <item>قرار داده شده در حافظه پنهان (خالی)</item>
-    </string-array>
     <string-array name="ram_states">
         <item>معمولی</item>
         <item>متوسط</item>
@@ -624,7 +562,7 @@
         <item>۱</item>
         <item>۰</item>
     </string-array>
-    <string-array name="switch_to_user_zero_when_docked_timeout_entries">
+    <string-array name="switch_to_dock_user_when_docked_timeout_entries">
         <item>هرگز</item>
         <item>پس‌از ۱ دقیقه</item>
         <item>پس‌از ۵ دقیقه</item>
@@ -634,15 +572,6 @@
         <item>چرت</item>
         <item>حالت «ذخیره انرژی»</item>
         <item>وضعیت پردازش</item>
-    </string-array>
-    <string-array name="timezone_filters">
-        <item>امریکا</item>
-        <item>اروپا</item>
-        <item>آفریقا</item>
-        <item>آسیا</item>
-        <item>استرالیا</item>
-        <item>اقیانوسیه</item>
-        <item>همه</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>خاموش</item>
@@ -659,20 +588,21 @@
         <item>‏مقیاس پویانمایی 10X</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>بسیار آهسته</item>
-        <item>آهسته</item>
-        <item>معمولی</item>
-        <item>سریع</item>
-        <item>سریع‌تر</item>
-        <item>خیلی سریع</item>
-        <item>تند</item>
-        <item>خیلی تند</item>
-        <item>سریع‌ترین</item>
+        <item>٪۶۰</item>
+        <item>٪۸۰</item>
+        <item>٪۱۰۰</item>
+        <item>٪۱۵۰</item>
+        <item>٪۲۰۰</item>
+        <item>٪۲۵۰</item>
+        <item>٪۳۰۰</item>
+        <item>٪۳۵۰</item>
+        <item>٪۴۰۰</item>
     </string-array>
-    <string-array name="usage_stats_display_order_types">
-        <item>زمان استفاده</item>
-        <item>آخرین زمان استفاده</item>
-        <item>نام برنامه</item>
+    <string-array name="udfps_accessibility_touch_hints">
+        <item>انتقال به‌چپ</item>
+        <item>انتقال به‌پایین</item>
+        <item>انتقال به‌راست</item>
+        <item>انتقال به‌بالا</item>
     </string-array>
     <string-array name="usb_configuration_titles">
         <item>در حال شارژ شدن</item>
@@ -694,17 +624,6 @@
         <item>درنگ</item>
         <item>ناموفق</item>
     </string-array>
-    <string-array name="vpn_types_long">
-        <item>PPTP VPN</item>
-        <item>‏L2TP/IPSec VPN با کلیدهای از قبل به اشتراک گذاشته شده</item>
-        <item>‏L2TP/IPSec VPN با گواهی</item>
-        <item>‏IPSec VPN با کلیدهای از قبل به اشتراک گذاشته شده و اصالت‌سنجی Xauth</item>
-        <item>‏IPSec VPN با گواهی و اصالت‌سنجی Xauth</item>
-        <item>‏IPSec VPN دارای گواهی و اصالت‌سنجی دوگانه</item>
-        <item>‏IKEv2/IPSec VPN دارای گواهی و اصالت‌سنجی گذرواژه/ نام کاربری</item>
-        <item>‏IKEv2/IPSec VPN با کلیدهای ازپیش مشترک‌شده</item>
-        <item>‏IKEv2/IPSec VPN دارای گواهی</item>
-    </string-array>
     <string-array name="wifi_calling_mode_choices_v2">
         <item>Wi-Fi</item>
         <item>داده شبکه تلفن همراه</item>
@@ -713,12 +632,6 @@
     <string-array name="wifi_calling_mode_choices_v2_without_wifi_only">
         <item>Wi-Fi</item>
         <item>داده شبکه تلفن همراه</item>
-    </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
     </string-array>
     <string-array name="wifi_hidden_entries">
         <item>نه</item>
@@ -739,11 +652,6 @@
         <item>ناموفق</item>
         <item>در دسترس</item>
         <item>خارج از محدوده</item>
-    </string-array>
-    <string-array name="wifi_p2p_wps_setup">
-        <item>فشار دکمه</item>
-        <item>پین از دستگاه مرتبط شده</item>
-        <item>پین از این دستگاه</item>
     </string-array>
     <string-array name="wifi_peap_phase2_entries">
         <item>MSCHAPV2</item>

@@ -8,14 +8,17 @@
     <string name="app_pkg_name">com.milink.service</string>
     <string name="app_ver_code">۱</string>
     <string name="app_ver_name">۱.۰</string>
+    <string name="cast_auth_count_down">برای آغاز بازتاباندن کد را از «%1$s» وارد کنید (%2$d ثانیه)</string>
+    <string name="cast_auth_title">کد را وارد کنید</string>
     <string name="cast_image_des">آموزش بازتاباندن</string>
     <string name="casting_tips">درحال بازتاباندن…</string>
     <string name="clearable_edittext_clear_description">پاک‌سازی</string>
     <string name="close">بستن</string>
+    <string name="close_auxiliary_wifi_hint">برای امکان بازتاباندن، «افزایش سرعت Wi-Fi دو باند» را خاموش کنید</string>
+    <string name="close_auxiliary_wifi_hint_china">برای امکان بازتاباندن، «افزایش سرعت WLAN دو باند» را خاموش کنید</string>
+    <string name="close_dp_casting_hint">کابل را جدا کرده و سپس دوباره تلاش کنید</string>
     <string name="close_hotspot_hint">پیش از بازتاباندن کانون داغ همراه را خاموش کنید</string>
     <string name="close_hotspot_hint_DFS">برای انتقال موارد به تلویزیون، ابتدا کانون داغ را خاموش کنید</string>
-    <string name="close_slave_wifi_hint">پیش از بازتاباندن، شبکه‌های Wi-Fi کمکی را قطع کنید</string>
-    <string name="close_slave_wifi_hint_china">Disconnect from auxiliary WLAN networks before casting</string>
     <string name="config_wifi_label_china">Xiaomi Conference Tapcast WLAN</string>
     <string name="config_wifi_label_global">کنفرانس Xiaomi Tapcast Wi-Fi</string>
     <string name="connect_device_fail">به دستگاه متصل نشد</string>
@@ -32,6 +35,7 @@
     <string name="device_desc_trust">دستگاه‌های مورد اعتماد</string>
     <string name="dialog_can_not_find_device">دستگاهی در نزدیکی یافت نشد</string>
     <string name="dialog_cancle">لغو</string>
+    <string name="dialog_close">خاموش کردن</string>
     <string name="dialog_connect_fail">وصل نشد</string>
     <string name="dialog_connect_retry">برای تلاش دوباره ضربه بزنید</string>
     <string name="dialog_connect_verify_perssion">ابتدا در تلویزیون خود بازتاباندن تصویر را مجاز کنید</string>
@@ -46,8 +50,8 @@
     <string name="dialog_nearbydevice_permission_message">برای امکان استفاده از ویژگی‌های بازتاباندن به این دستگاه اجازه دسترسی به دستگاه‌های نزدیک را بدهید.</string>
     <string name="dialog_nearbydevice_permission_title">نیازمند مجوز است</string>
     <string name="dialog_nfc_cast_wifi_off">Turn on WLAN to be able to cast using NFC. Turn on now?</string>
-    <string name="dialog_no_device_message">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. دستگاه همراه و تلویزیون خود را به شبکه Wi-Fi مشابه متصل کنید.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. در برخی مدل‌های تلویزیون‌ها این ویژگی فقط هنگامی که بازتاب صفحه روشن باشد در دسترس است. برای جزئیات بیشتر &lt;a href=milink://com.milink.service/specification>«راهنما»&lt;/a> را ببینید.&lt;/Data></string>
-    <string name="dialog_no_device_message_china">&lt;Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same WLAN network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.&lt;/Data></string>
+    <string name="dialog_no_device_message"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. دستگاه همراه و تلویزیون خود را به شبکه Wi-Fi مشابه متصل کنید.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. در برخی مدل‌های تلویزیون‌ها این ویژگی فقط هنگامی که بازتاب صفحه روشن باشد در دسترس است. برای جزئیات بیشتر &lt;a href=milink://com.milink.service/specification>«راهنما»&lt;/a> را ببینید.</Data></string>
+    <string name="dialog_no_device_message_china"><Data>&lt;xliff:g id=count refersto=1>%1$d&lt;/xliff:g>. Connect both your mobile device and TV to the same WLAN network.&lt;br>&lt;br>&lt;xliff:g id=count refersto=2>%2$d&lt;/xliff:g>. On some TV models, this feature is only available when screen mirroring is on. View &lt;a href=milink://com.milink.service/specification>\"Help\"&lt;/a> to learn more.</Data></string>
     <string name="dialog_ok">تأیید</string>
     <string name="dialog_only_suport_content">پخش عکس‌ها، ویدئوها یا موسیقی</string>
     <string name="dialog_open_wifi_bt">روشن</string>
@@ -61,6 +65,9 @@
     <string name="dialog_scan_message_china">"%1$d. Connect both your mobile device and TV to the same WLAN network.
 
 %2$d. View \"Help\" to learn more."</string>
+    <string name="dialog_scanning_close_dual_wifi_china">Turn off \"Dual band WLAN speed boost\" to be able to cast. Turn this feature off now?</string>
+    <string name="dialog_scanning_close_dual_wifi_global">برای امکان بازتاباندن، «افزایش سرعت Wi-Fi دو باند» را خاموش کنید. این ویژگی خاموش شود؟</string>
+    <string name="dialog_scanning_close_tethering">برای امکان بازتاباندن کانون داغ را خاموش کنید. کانون داغ خاموش شود؟</string>
     <string name="dialog_scanning_device">درحال جستجوی دستگاه‌های نزدیک…</string>
     <string name="dialog_scanning_precondition">برای استفاده از نمایشگر بی‌سیم Wi-Fi و بلوتوث گوشی خود را روشن کنید.</string>
     <string name="dialog_scanning_precondition_new_china">Turn on WLAN, Bluetooth, and location services to be able to use casting. Turn on now?</string>
@@ -68,11 +75,13 @@
     <string name="dialog_select_tv">انتخاب دستگاه (%1$d)</string>
     <string name="dialog_show_help">راهنما</string>
     <string name="disconnect">توقف بازتاباندن</string>
+    <string name="dp_casting_start_hint">متصل از طریق کابل. بازتاباندن پایان یافت.</string>
     <string name="dual_wifi_warning_china">Turn off dual WLAN and try again</string>
     <string name="dual_wifi_warning_global">‏Wi-Fi دوگانه را خاموش کرده و سپس دوباره تلاش کنید</string>
     <string name="early_morning">صبح</string>
     <string name="empty" />
     <string name="enable_screen_projection_summary">بازتاباندن محتوای صفحه روی یک نمایشگر خارجی</string>
+    <string name="enable_screen_projection_summary_new">صفحه دستگاه موبایل را روی تلویزیون‌ها و سایر نمایشگر‌های خارجی نزدیک بازتاب می‌دهد</string>
     <string name="eras_ad">میلادی</string>
     <string name="eras_bc">پیش از میلاد</string>
     <string name="evening">بعد از ظهر</string>
@@ -105,7 +114,7 @@
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">h a</string>
+    <string name="fmt_time_12hour_pm">ah</string>
     <string name="fmt_time_24hour">"H 'o''clock'"</string>
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
@@ -132,24 +141,32 @@
     <string name="friday_short">جمعه</string>
     <string name="friday_shortest">جمع</string>
     <string name="global_privacy">شرایط و ضوابط</string>
-    <string name="global_privacy_detail">&lt;Data>پیش از استفاده از این برنامه، &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.&lt;br>چنانچه سیاست حفظ حریم خصوصی ما را نپذیرید، نمی‌توانید از برخی ویژگی‌های این برنامه استفاده کنید؛ با این وجود، کارایی‌های پایه‌ای همچنان برای شما در دسترس خواهند بود.&lt;/Data></string>
+    <string name="global_privacy_detail"><Data>پیش از استفاده از این برنامه، &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.&lt;br>چنانچه سیاست حفظ حریم خصوصی ما را نپذیرید، نمی‌توانید از برخی ویژگی‌های این برنامه استفاده کنید؛ با این وجود، کارایی‌های پایه‌ای همچنان برای شما در دسترس خواهند بود.</Data></string>
     <string name="global_privacy_explain">به بازتاباندن خوش آمدید! این برنامه خدمات زیر را ارائه می‌دهد:</string>
     <string name="global_privacy_feature">استفاده از پنجره‌های کوچک شده، بازتاباندن با نمایشگر خاموش و پنهان کردن موارد خصوصی.</string>
     <string name="global_privacy_main">موارد را از صفحه گوشی شما روی یک نمایشگر خارجی بزرگ‌تر نمایش می‌دهد.</string>
     <string name="global_privacy_negative">مخالفت</string>
     <string name="global_privacy_positive">پذیرفتن</string>
     <string name="global_privacy_screencast">در حین ضبط یا ارسال محتوا، خدمات ارائه‌دهنده این ویژگی می‌تواند اطلاعات حساسی را که روی صفحه نمایش شما نمایش داده می‌شوند یا از دستگاه شما پخش می‌شوند، از جمله اطلاعات حساسی مانند صدا، گذرواژه، اطلاعات پرداخت، عکس‌ها و پیام‌ها ضبط کند.</string>
-    <string name="global_privacy_tip">&lt;Data>ما برای ارائه خدمات پایه‌ای و بهینه‌سازی روند بازتاباندن نیاز به گردآوری اطلاعات شخصی شما داریم. شما در &lt;a href=%1$s>سیاست حفظ حریم خصوصی&lt;/a> ما می‌توانید درباره چگونگی به‌کارگیری اطلاعاتی که ما گردآوری می‌کنیم آگاه شوید. شما در هر زمانی می‌توانید در تنظیمات رضایت خود را نسبت به سیاست حفظ حریم خصوصی پس بگیرید.&lt;/Data></string>
+    <string name="global_privacy_tip"><Data>ما برای ارائه خدمات پایه‌ای و بهینه‌سازی روند بازتاباندن نیاز به گردآوری اطلاعات شخصی شما داریم. شما در &lt;a href=%1$s>سیاست حفظ حریم خصوصی&lt;/a> ما می‌توانید درباره چگونگی به‌کارگیری اطلاعاتی که ما گردآوری می‌کنیم آگاه شوید. شما در هر زمانی می‌توانید در تنظیمات رضایت خود را نسبت به سیاست حفظ حریم خصوصی پس بگیرید.</Data></string>
     <string name="hang_up">بازتاباندن با صفحه خاموش</string>
     <string name="hang_up_alert_dialog_content">هنگام خاموش بودن صفحه گوشی شما بازتاباندن ادامه داده می‌شود. این ویژگی مصرف برق را کاهش می‌دهد. برای روشن کردن دوباره صفحه، دکمه خاموش/روشن را فشار دهید.</string>
     <string name="hang_up_alert_dialog_neg">لغو</string>
     <string name="hang_up_alert_dialog_pos">تأیید</string>
     <string name="hang_up_alert_dialog_title">آماده بازتاباندن با صفحه خاموش…</string>
+    <string name="head_toast_connecting">درحال اتصال…</string>
+    <string name="head_toast_fail">متصل نشد</string>
+    <string name="head_toast_success">با موفقیت متصل شد</string>
+    <string name="help_page_question_1st_01_international">"%1$d. وقتی دستگاهی که به آن ارسال می‌کنید یک تلویزیون Xiaomi است، Miracast را در آن روشن کنید.
+%2$d. وقتی دستگاهی که به آن ارسال می‌کنید یک تلویزیون غیر Xiaomi است، مطمئن شوید که تلویزیون از Miracast پشتیبانی می‌کند و این ویژگی روشن است. این ویژگی ممکن است در برخی از مدل‌های تلویزیون نام متفاوتی مانند نمایشگر بی‌سیم، Screen mirroring یا چندین صفحه داشته باشد."</string>
+    <string name="help_page_setp_1st_02_international">%1$d. برخی برندهای تلویزیون ممکن است Miracast را به صورت خودکار روشن داشته باشند.</string>
+    <string name="help_page_step_1st_01_international">%1$d. Miracast را در Xiaomi TV خود روشن کنید.</string>
     <string name="help_page_text_01">راهنما</string>
     <string name="help_page_text_02">بازتاباندن چیست؟</string>
     <string name="help_page_text_03">بازتاباندن همان افکندن موارد صفحه نمایش گوشی روی یک نمایشگر خارجی بزرگ‌تر است. به شما امکان هم‌رسانی تصاویر و ویدئوها با دوستان و خانواده‌تان بدون استفاده از اینترنت همراه را می‌دهد.</string>
     <string name="help_page_text_04">چگونه موارد را روی یک نمایشگر بزرگ‌تر بازتاب دهیم؟</string>
     <string name="help_page_text_05">گام %1$d: دستگاه‌ها و محیط شبکه خود را بررسی کنید</string>
+    <string name="help_page_text_05_new">گام %1$d: دستگاه‌ها و محیط شبکه خود را بررسی کنید</string>
     <string name="help_page_text_06">"%1$d. Xiaomi TVs, set-top boxes, projectors:
 Connect both your mobile device and external monitor to the same WLAN network for best effect. If they are connected to different networks, it might take more time to find the external monitor and connect.
 Note: Older TV models might not support casting across different networks.
@@ -160,13 +177,33 @@ If the two devices can't be connected to the same network, turn on Miracast on y
 نکته: مدل‌های قدیمی‌تر تلوزیو‌ن ممکن است از بازتاباندن به وسیله شبکه‌های مختلف پشتیبانی نکنند.
 %2$d. چنانچه از تلویزیون‌ها، گیرنده‌های دیجیتال یا پروژکتورهای برندهای دیگر استفاده می‌کنید، دستگاه همراه و نمایشگر خارجی خود را به شبکه Wi-Fi مشابه متصل کنید.
 اگر هر دو دستگاه نتوانستند به شبکه مشابه متصل شوند، Miracast را در نمایشگر خارجی خود روشن کنید. نام‌گذاری کارایی Miracast ممکن است متنوع باشد."</string>
+    <string name="help_page_text_06_new_1">تلویزیون‌ها، گیرنده‌های دیجیتال و ویدئو پروژکتورهای Xiaomi:</string>
+    <string name="help_page_text_06_new_2">"%1$d. مطمئن شوید دستگاه موبایل شما و نمایشگر خارجی به یک شبکه Wi-Fi متصل هستند.
+%2$d. در برخی Xiaomi TVها، می‌توانید بازتاباندن را از تلویزیون تنظیم کرده و همچنین روش‌های جستجو و تأیید دستگاه را سفارشی کنید."</string>
+    <string name="help_page_text_06_new_3">*می‌توانید تنظیمات دلخواه بازتاباندن را برای تلویزیون خود در تنظیمات بازتاباندن تنظیم کنید.</string>
+    <string name="help_page_text_06_new_4">تلویزیون‌ها، گیرنده‌های دیجیتال و ویدئو پروژکتورهای غیر Xiaomi:</string>
+    <string name="help_page_text_06_new_5">"%1$d. مطمئن شوید دستگاه موبایل شما و نمایشگر خارجی به یک شبکه Wi-Fi متصل هستند.
+%2$d. در برخی مدل‌های تلویزیون، برای بازتاباندن شما نیاز به روشن کردن Miracast خواهید داشت."</string>
+    <string name="help_page_text_06_new_6">اطلاعات بیشتر</string>
     <string name="help_page_text_08">گام %1$d: روشن کردن بازتاباندن</string>
+    <string name="help_page_text_08_new">گام %1$d: روشن کردن بازتاباندن</string>
     <string name="help_page_text_09">"Tap the \"Cast\" toggle on your phone's Notification shade. Turn on both WLAN and Bluetooth for a more stable connection."</string>
     <string name="help_page_text_09_global">وضعیت «بازتاباندن» را در کرکره اعلان دستگاه همراه خود تغییر دهید. برای اتصال پایدارتر Wi-Fi و بلوتوث را نیز روشن کنید.</string>
+    <string name="help_page_text_09_new_1">بازتاباندن را در مرکز کنترل دستگاه خود روشن کرده و سپس یک نمایشگر خارجی را جستجو کنید.</string>
     <string name="help_page_text_10">چنانچه می‌خواهید عکس‌ها، ویدئوها، بازی‌ها یا ارائه‌ها را بازتاب دهید، می‌توانید از ویژگی‌های پخش محتوای داخلی در برنامه‌های مربوطه استفاده کنید.</string>
     <string name="help_page_text_11">گام %1$d: انتخاب دستگاه</string>
+    <string name="help_page_text_11_new">گام %1$d: انتخاب دستگاه</string>
     <string name="help_page_text_12">برای آغاز بازتاباندن یک دستگاه خارجی را از فهرست دستگاه‌های موجود انتخاب کنید.</string>
+    <string name="help_page_text_12_new_1">برای آغاز بازتاباندن یک دستگاه خارجی را از فهرست دستگاه‌های موجود انتخاب کنید.</string>
     <string name="help_page_text_13">نمی‌توان به یک دستگاه خارجی وصل شد؟</string>
+    <string name="help_page_text_13_act_label_1">پرسش‌های متداول</string>
+    <string name="help_page_text_13_desc_1">"%1$d. مطمئن شوید دستگاه موبایل شما و نمایشگر خارجی به یک شبکه Wi-Fi یا کانون داغ متصل هستند.
+%2$d. مطمئن شوید محیط شبکه پایدار است. در غیر این صورت، روتر خود راه دوباره راه‌اندازی کرده و یا به یک باند شبکه %3$d گیگاهرتزی تعویض کنید.
+%4$d. هنگام بازتاباندن به یک Xiaomi TV، ویژگی بازتاباندن بی‌سیم را در تلویزیون روشن کنید. هنگام وصل شدن در صفحه بازتاباندن بمانید.
+%5$d. برخی LANهای عمومی بزرگ همچون شرکت‌ها، مدارس و دانشگاه‌ها از امکان جستجوی دستگاه‌ها در یک شبکه LAN پشتیبانی نمی‌کنند."</string>
+    <string name="help_page_text_13_desc_2">برخی از تلویزیون‌ها هنگام بازتاباندن از اتصال غیر LAN استفاده می‌کنند. برای این دستگاه‌ها قطع شدن از شبکه عادی است. معمولاً بین %1$d تا %2$d ثانیه پس از پایان بازتاباندن دوباره متصل می‌شوند.</string>
+    <string name="help_page_text_13_summary_1">نمی‌توان به یک دستگاه خارجی وصل شد</string>
+    <string name="help_page_text_13_summary_2">وقفه‌های شبکه هنگام بازتاباندن</string>
     <string name="help_page_text_14">"%1$d. If you want to use a Xiaomi device, but can't find it in the list of available devices, try the following:
 Connect both your mobile device and the external monitor (e.g. your TV) to the same network, or connect the external monitor to your mobile device's hotspot. If there aren't any networks available or you can't connect both devices to the same network, check whether the casting features on your external monitor are up to date, turn on Bluetooth both on your mobile device and the external monitor, and turn on Miracast on your TV.
 %2$d. If you're casting on a Xiaomi device for the first time, you need to complete verification.
@@ -182,6 +219,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="help_page_text_17">"شما می‌توانید بدون نیاز به روشن کردن Miracast به‌صورت دستی، موارد را از گوشی Mi خود بر روی بیشتر مدل‌های تلویزیون Mi دارای بلوتوث بیافکنید.
 در صورت نیاز به روشن کردن دکمه [MENU] را فشرده و برنامه‌های من > بازتاباندن > Miracast را انتخاب کنید."</string>
     <string name="help_page_text_17_1">پشتیبانی مشتریان Xiaomi: ۴۰۰-۱۰۰-۵۶۷۸</string>
+    <string name="help_page_text_17_content">You can project items from your Xiaomi phone on most Xiaomi TV models with Bluetooth capabilities without turning on Miracast manually. If you need to turn on Miracast, press the [MENU] button and start casting by using the option for other Android phones.</string>
     <string name="help_page_text_18">تلویزیون سامسونگ</string>
     <string name="help_page_text_19">ابتدا مطمئن شوید کارایی Miracast توسط دستگاه شما پشتیبانی می‌شود. در برخی از مدل‌ها می‌توانید دکمه [SOURCE] روی کنترل از راه دور را زده و سپس \"آینه کردن تصویر (Screen Mirroring)\" را انتخاب کنید. این ویژگی به صورت پیش‌فرض در مدل‌های مختلف روشن است.</string>
     <string name="help_page_text_20">پشتیبانی مشتریان سامسونگ: ۵۸۵۸-۸۱۰-۴۰۰</string>
@@ -230,14 +268,14 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="keyguard_security_setting_privacy_policy">سیاست حفظ حریم خصوصی</string>
     <string name="midnight">شب</string>
     <string name="miuix_access_state_desc">انتخاب شده</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب</string>
+    <string name="miuix_appcompat_action_mode_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_select_all">انتخاب همه</string>
     <string name="miuix_appcompat_action_mode_title_empty">انتخاب موارد</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">بیشتر</string>
     <string name="miuix_appcompat_cancel_description">لغو</string>
     <string name="miuix_appcompat_confirm_description">تأیید</string>
     <string name="miuix_appcompat_delete_description">حذف</string>
-    <string name="miuix_appcompat_deselect_all">لغو انتخاب</string>
+    <string name="miuix_appcompat_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_deselect_all_description">لغو انتخاب همه</string>
     <string name="miuix_appcompat_search_action_mode_cancel">لغو</string>
     <string name="miuix_appcompat_search_input_description">جستجو</string>
@@ -314,20 +352,20 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="paipai_connect_tv2_text">داده‌ها متنقل شدند</string>
     <string name="paipai_error_dialog_msg">تنظیمات شبکه خود را بررسی کرده و دوباره تلاش کنید.</string>
     <string name="paipai_error_dialog_negative">متوجه‌ام</string>
-    <string name="path_setting_cast">اتصال و هم‌رسانی/بازتاباندن</string>
-    <string name="path_setting_cast_demo">اتصال و هم‌رسانی/بازتاباندن/نسخه‌های نمایشی</string>
-    <string name="path_setting_cast_demo_document">اتصال و هم‌رسانی/بازتاباندن/نسخه‌های نمایشی/اسناد</string>
-    <string name="path_setting_cast_demo_gallery">اتصال و هم‌رسانی/بازتاباندن/نسخه‌های نمایشی/عکس‌ها و ویدئوها</string>
-    <string name="path_setting_cast_demo_game">اتصال و هم‌رسانی/بازتاباندن/نسخه‌های نمایشی/بازی‌ها</string>
-    <string name="path_setting_cast_feature">اتصالاتصال و هم‌رسانی/بازتاباندن/ویژگی‌های خاص</string>
-    <string name="path_setting_cast_help">اتصال و هم‌رسانی/بازتاباندن/راهنما</string>
+    <string name="path_setting_cast">گزینه‌های بیشتر اتصال/بازتاباندن</string>
+    <string name="path_setting_cast_demo">گزینه‌های بیشتر اتصال/بازتاباندن/نسخه‌های نمایشی</string>
+    <string name="path_setting_cast_demo_document">گزینه‌های بیشتر اتصال/بازتاباندن/نسخه‌های نمایشی/اسناد</string>
+    <string name="path_setting_cast_demo_gallery">گزینه‌های بیشتر اتصال/بازتاباندن/نسخه‌های نمایشی/عکس‌ها و ویدئوها</string>
+    <string name="path_setting_cast_demo_game">گزینه‌های بیشتر اتصال/بازتاباندن/نسخه‌های نمایشی/بازی</string>
+    <string name="path_setting_cast_feature">گزینه‌های بیشتر اتصال/بازتاباندن/ویژگی‌های خاص</string>
+    <string name="path_setting_cast_help">گزینه‌های بیشتر اتصال/بازتاباندن/راهنما</string>
     <string name="permission_allowed">اعطا شده</string>
     <string name="permission_uballowed">اعطا نشده</string>
     <string name="pm">ب.ظ</string>
     <string name="pre_privacy_setting_title">حریم خصوصی</string>
     <string name="privacy_agree">پذیرفتن</string>
     <string name="privacy_detail">پیش از ادامه، به این برنامه اجازه اتصال به اینترنت داده و مجوزهای لازم را اعطا کنید.</string>
-    <string name="privacy_detail_extra">&lt;Data>برخی ویژگی‌ها توسط ارائه دهنده خدمات سوم‌شخص HappyCast ارائه شده‌اند. پیش از استفاده از این ویژگی، &lt;a href=%1$s>سیاست حفظ حریم خصوصی HappyCast&lt;/a> و &lt;a href=%2$s>بیانیه حقوقی HappyCast&lt;/a>را خوانده و بپذیرید.&lt;/Data></string>
+    <string name="privacy_detail_extra"><Data>برخی ویژگی‌ها توسط ارائه دهنده خدمات سوم‌شخص HappyCast ارائه شده‌اند. پیش از استفاده از این ویژگی، &lt;a href=%1$s>سیاست حفظ حریم خصوصی HappyCast&lt;/a> و &lt;a href=%2$s>بیانیه حقوقی HappyCast&lt;/a>را خوانده و بپذیرید.</Data></string>
     <string name="privacy_explain">به بازتاباندن خوش آمدید! بازتاباندن امکان تاباندن موارد را از گوشی شما به روی یک نمایشگر خارجی بزرگ‌تر می‌دهد. این برنامه برای کارکرد عادی نیاز به اتصال به اینترنت و مجوزهای زیر دارد:</string>
     <string name="privacy_negative">خروج</string>
     <string name="privacy_permission_ble">خاموش و روشن کردن بلوتوث</string>
@@ -369,11 +407,11 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="privacy_setting_show_lelink_policy">نمایش سیاست حفظ حریم خصوصی HappyCast</string>
     <string name="privacy_setting_show_policy">نمایش سیاست حفظ حریم خصوصی</string>
     <string name="privacy_setting_show_user_agreement">نمایش توافق‌نامه کاربر</string>
-    <string name="privacy_text_1">"&lt;Data>به بازتاباندن خوش آمدید! بازتاباندن همان افکندن موارد صفحه نمایش گوشی روی یک نمایشگر خارجی بزرگ‌تر است.
+    <string name="privacy_text_1"><Data>"به بازتاباندن خوش آمدید! بازتاباندن همان افکندن موارد صفحه نمایش گوشی روی یک نمایشگر خارجی بزرگ‌تر است.
 ما بر اساس قوانین و مقررات مربوطه و سیاست حفظ حریم خصوصی از اطلاعات شخصی شما محافظت می‌کنیم. برخی ویژگی‌ها توسط یک ارائه دهنده خدمات سوم‌شخص HappyCast ارائه شده‌اند. پیش از استفاده از این ویژگی &lt;a href=%2$s>اعلامیه حقوقی HappyCast&lt;/a> و &lt;a href=%1$s>سیاست حفظ حریم خصوصی HappyCast&lt;/a> را خوانده و بپذیرید.
-برای کارکرد عادی، این برنامه نیاز به اتصال به اینترنت و مجوزهای زیر برای گردآوری اطلاعات شخصی شما دارد.&lt;/Data>"</string>
-    <string name="privacy_text_2">"&lt;Data>در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این برنامه استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که این برنامه را حذف، از حساب خارج و یا مجوزها را در تنظیمات محدود کنید.
-پیش از استفاده از این ویژگی &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید.&lt;/Data>"</string>
+برای کارکرد عادی، این برنامه نیاز به اتصال به اینترنت و مجوزهای زیر برای گردآوری اطلاعات شخصی شما دارد."</Data></string>
+    <string name="privacy_text_2"><Data>"در صورتی که نپذیرید چنین مجوزهایی را داده و یا اطلاعات شخصی خود را بارگذاری کنید، نمی‌توانید از این برنامه استفاده کنید. در چنین شرایطی می‌توانید انتخاب کنید که این برنامه را حذف، از حساب خارج و یا مجوزها را در تنظیمات محدود کنید.
+پیش از استفاده از این ویژگی &lt;a href=%1$s>توافق‌نامه کاربر&lt;/a> و &lt;a href=%2$s>سیاست حفظ حریم خصوصی&lt;/a> ما را خوانده و بپذیرید."</Data></string>
     <string name="privacy_text_pemission">"　　•دسترسی و ذخیره تصاویر دستگاه شما به منظور افکندن این موارد روی نمایشگر‌های خارجی
 　　•ضبط همه تماس‌ها و صداها به منظور پخش صدا روی دستگاه‌های خارجی
 　　•دسترسی به شماره تلفن، IMEI و IMSI برای شناسایی دستگاه شما
@@ -395,22 +433,38 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="scan_wifi_label_global">اتصال به Wi-Fi</string>
     <string name="screen_projection">بازتاباندن</string>
     <string name="screen_projection_characteristics">ویژگی‌های خاص</string>
+    <string name="screen_projection_characteristics_cast_summary">بازتاباندن محتوای صفحه روی یک تلویزیون نزدیک</string>
+    <string name="screen_projection_characteristics_hang_up_summary_new">هنگام بازتاباندن، صفحه نمایش گوشی را خاموش می‌کند تا در باتری صرفه‌جویی شده و از داغ کردن جلوگیری شود</string>
     <string name="screen_projection_characteristics_off_screen_summary">می‌توانید بازتاباندن را هنگام خاموش بودن صفحه گوشی خود ادامه دهید. این ویژگی مصرف برق را کاهش می‌دهد.</string>
     <string name="screen_projection_characteristics_off_screen_title">بازتاباندن با صفحه خاموش</string>
     <string name="screen_projection_characteristics_privacy_protect_summary">اعلان‌های شناور، تماس‌های ورودی و سایر موارد خصوصی روی نمایشگر نمایش داده نمی‌شوند.</string>
     <string name="screen_projection_characteristics_privacy_protect_title">پنهان کردن موارد خصوصی</string>
+    <string name="screen_projection_characteristics_private_summary_new">محافظت از حریم خصوصی شما: هنگام بازتاباندن، دستگاه شما اعلان‌های شناور، تماس‌های دریافتی و سایر موارد خصوصی را نمایش نخواهد داد</string>
     <string name="screen_projection_characteristics_small_window_summary">با کوچک‌سازی پنجره‌ای که درحال بازتاباندن شدن است از سایر ویژگی‌های گوشی خود استفاده کنید.</string>
+    <string name="screen_projection_characteristics_small_window_summary_new">هنگام استفاده از سایر برنامه‌ها، صفحه نمایش را بازتابانده و محتوای آن را در یک پنجره شناور نمایش می‌دهد</string>
     <string name="screen_projection_characteristics_small_window_title">کوچک‌سازی پنجره</string>
+    <string name="screen_projection_entrance_list">نمایش دستگاه‌های موجود</string>
+    <string name="screen_projection_entrance_list_new">نمایش فهرست دستگاه‌های در دسترس برای بازتاباندن</string>
+    <string name="screen_projection_example_document_hint_miui15">*موارد روی یک تلویزیون نزدیک نمایش داده خواهند شد</string>
+    <string name="screen_projection_example_document_hint_new"><Data>*برای استفاده از این ویژگی، به فایل‌ها > اسناد رفته و روی آیکون &lt;img src=../drawable/ic_cast_icon_photo.png/> بزنید.</Data></string>
     <string name="screen_projection_example_document_summary">درحالی که ارائه‌ها روی یک نمایشگر خارجی پخش می‌شوند می‌توانید در گوشی خود بین اسلایدها جابجا شده و یادداشت‌ها را ببینید. برای آزمایش این ویژگی به مدیریت فایل‌ها > اسناد بروید.</string>
+    <string name="screen_projection_example_document_summary_miui15">نمایش اسلایدهای ارائه روی یک تلویزیون هنگام استفاده از این دستگاه به عنوان کنترل از راه دور</string>
     <string name="screen_projection_example_document_title">اسناد</string>
+    <string name="screen_projection_example_gallery_hint_miui15">*برای امکان بازتاباندن عکس‌ها و ویدئوها، یک مورد در گالری را انتخاب کرده، روی «هم‌رسانی» زده و سپس روی آیکون «بازتاباندن» بزنید.</string>
+    <string name="screen_projection_example_gallery_hint_new"><Data>*برای استفاده از این ویژگی، به گالری رفته، یک عکس را انتخاب کرده، روی «ارسال» در پایین نوار زده و سپس آیکون &lt;img src=../drawable/ic_cast_icon_photo.png/> را بزنید.</Data></string>
     <string name="screen_projection_example_gallery_summary">برای نمایش یک مورد روی نمایشگر خارجی در برنامه گالری روی دکمه هم‌رسانی زیر آن بزنید.</string>
+    <string name="screen_projection_example_gallery_summary_miui15">عکس‌ها و ویدئوهای خود را در صفحه تلویزیون ببینید</string>
     <string name="screen_projection_example_gallery_title">عکس‌ها و ویدئوها</string>
+    <string name="screen_projection_example_game_hint_miui15">"*برای امکان بازتاباندن بازی‌ها، هنگام بازی کردن روی «بازتاباندن» در افزاینده سرعت بازی بزنید.
+پیش از بازتاباندن بازی‌ها مطمئن شوید افزاینده سرعت بازی را روشن کرده‌اید."</string>
     <string name="screen_projection_example_game_summary">افزاینده سرعت بازی به شما اجازه می‌دهد تا بازی خود را روی یک نمایشگر خارجی بازتاب دهید. برای روشن کردن این ویژگی از میان‌بر موجود در جعبه ابزار افزاینده سرعت بازی استفاده کنید.</string>
+    <string name="screen_projection_example_game_summary_miui15">بازی خود را در تلویزیون ببینید</string>
     <string name="screen_projection_example_game_title">بازی‌ها</string>
     <string name="screen_projection_help">راهنما</string>
     <string name="screen_projection_sample_summary">بازتاباندن اسناد، بازی‌ها، عکس‌ها و ویدئوها</string>
     <string name="screen_projection_sample_title">نسخه‌های نمایشی</string>
     <string name="screen_projection_title">بازتاباندن</string>
+    <string name="screen_projection_title_miui15">بازتاباندن</string>
     <string name="send">ارسال</string>
     <string name="show_result_on_tv">نمایش نتایج در تلویزیون</string>
     <string name="small_window">کوچک‌سازی پنجره</string>
@@ -465,6 +519,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="thursday_short">پنج‌شنبه</string>
     <string name="thursday_shortest">پنج‌شنبه</string>
     <string name="tile_label">بازتاباندن</string>
+    <string name="tile_label_v2">خدمات هم‌اتصالی</string>
     <string name="time_picker_dialog_title">تنظیم زمان</string>
     <string name="time_picker_label_hour">ساعت</string>
     <string name="time_picker_label_minute">دقیقه</string>
@@ -482,7 +537,7 @@ Connect both your mobile device and the external monitor (e.g. your TV) to the s
     <string name="today">امروز</string>
     <string name="tomorrow">فردا</string>
     <string name="trust_device_desc">هنگامی‌که این دستگاه‌ها در نزدیکی باشند ابتدا در اینجا نمایان خواهند شد</string>
-    <string name="trust_device_dialog_desc">&lt;Data> چنانچه هنگام نزدیک بودن آن را به عنوان مورد اعتماد علامت زده باشید، ابتدا %s بین دستگاه‌های موجود نمایان خواهد شد.&lt;br>&lt;br>شما می‌توانید در نتظیمات &lt;a href=milink://com.milink.service/trust> دستگاه‌های مورد اعتماد را مدیریت کنید&lt;/a>.&lt;/Data></string>
+    <string name="trust_device_dialog_desc"><Data> چنانچه هنگام نزدیک بودن آن را به عنوان مورد اعتماد علامت زده باشید، ابتدا %s بین دستگاه‌های موجود نمایان خواهد شد.&lt;br>&lt;br>شما می‌توانید در نتظیمات &lt;a href=milink://com.milink.service/trust> دستگاه‌های مورد اعتماد را مدیریت کنید&lt;/a>.</Data></string>
     <string name="trust_device_dialog_pos">اعتماد</string>
     <string name="trust_device_dialog_title">اعتماد کردن به این دستگاه؟</string>
     <string name="trust_device_manager">مدیریت دستگاه‌های مورد اعتماد</string>
