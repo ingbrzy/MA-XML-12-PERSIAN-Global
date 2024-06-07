@@ -545,8 +545,6 @@ mm"</string>
     <string name="status_bar_clock_date_format_12">E، d MMM</string>
     <string name="status_bar_clock_date_time_format">E، d MMM H:mm</string>
     <string name="status_bar_clock_date_time_format_12">E، d MMM h:mm a</string>
-    <string name="status_bar_clock_date_weekday_format_12_brief">@string/status_bar_clock_date_format_12</string>
-    <string name="status_bar_clock_date_weekday_format_brief">@string/status_bar_clock_date_format</string>
     <string name="strong_toast_charging">در حال شارژ</string>
     <string name="strong_toast_quick_charging">در حال شارز فوری</string>
     <string name="sunday">یک‌شنبه</string>

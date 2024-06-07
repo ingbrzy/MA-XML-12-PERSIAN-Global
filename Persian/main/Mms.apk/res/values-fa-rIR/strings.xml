@@ -315,7 +315,6 @@
     <string name="file_size">اندازه:</string>
     <string name="file_title">نام:</string>
     <string name="file_width_height">اندازه:</string>
-    <string name="flatshow_page_no">%1$d</string>
     <string name="flight">پرواز</string>
     <string name="fmt_chinese_date">N月e</string>
     <string name="fmt_date">D</string>
@@ -1140,7 +1139,6 @@
     <string name="send_signature_confirm_dialog_title">ارسال پیام</string>
     <string name="send_sms">ارسال پیام</string>
     <string name="send_to">به:</string>
-    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">ارسال شده در: %1s</string>
     <string name="sent_label">"ارسال شده: "</string>
     <string name="service_abandon_alert">توجه</string>

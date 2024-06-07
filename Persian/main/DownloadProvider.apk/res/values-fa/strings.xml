@@ -9,7 +9,6 @@
     <string name="download_queued">در صف</string>
     <string name="download_remaining">%s باقیمانده</string>
     <string name="download_running">در حال انجام</string>
-    <string name="download_running_percent">در حال انجام، %s</string>
     <string name="download_unknown_title">‏&lt;بدون عنوان></string>
     <string name="notification_download_complete">بارگیری کامل شد.</string>
     <string name="notification_download_failed">بارگیری ناموفق بود.</string>
