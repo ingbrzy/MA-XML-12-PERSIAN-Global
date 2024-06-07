@@ -128,13 +128,13 @@
     </string-array>
     <string-array name="settings_search_relay_app">
         <item>دست به دست کردن برنامه</item>
-        <item>هم‌اتصالی/دست به دست کردن برنامه</item>
+        <item>هم‌اتصالی/برنامه‌ها</item>
         <item>انتقال برنامه‌ها، دست به دست کردن، انتقال</item>
     </string-array>
     <string-array name="settings_search_relay_call">
-        <item>تماس‌ها</item>
-        <item>هم‌اتصالی/تماس‌ها</item>
-        <item>تماس‌ها</item>
+        <item>Call sync</item>
+        <item>Interconnectivity/Call sync</item>
+        <item>Call sync, cross-device calls, call handoff, calls</item>
     </string-array>
     <string-array name="settings_search_relay_network">
         <item>دستیار شبکه</item>

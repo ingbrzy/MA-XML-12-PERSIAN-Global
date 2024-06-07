@@ -59,6 +59,7 @@
     <string name="fast_connect_device_battery">باتری</string>
     <string name="fast_connect_device_box">قوطی</string>
     <string name="fast_connect_device_box_name">قوطی %1$s</string>
+    <string name="fast_connect_device_button_audio_share_fail">متوجه‌ام</string>
     <string name="fast_connect_device_connect_cancel">لغو</string>
     <string name="fast_connect_device_connect_ok">اتصال</string>
     <string name="fast_connect_device_connect_retry">تلاش دوباره</string>
@@ -67,6 +68,12 @@
     <string name="fast_connect_device_headset_l">چپ</string>
     <string name="fast_connect_device_headset_r">راست</string>
     <string name="fast_connect_device_headset_reset">دکمه روی قوطی را فشرده و نگه دارید</string>
+    <string name="fast_connect_device_message_audio_share">صدای این دستگاه را با این جفت ایرفون به اشتراک بگذارید</string>
+    <string name="fast_connect_device_replace_current_device">تعویض دستگاه</string>
+    <string name="fast_connect_device_start_audio_share">اشتراک‌گذاری</string>
+    <string name="fast_connect_device_title_audio_share">همراه با %1$s گوش دهید</string>
+    <string name="fast_connect_device_title_audio_share_fail">به %1$s وصل نشد. دوباره تلاش کنید.</string>
+    <string name="fast_connect_device_title_audio_share_success">در حال گوش دادن با %1$s</string>
     <string name="fast_connect_device_title_connect_fail">به %1$s متصل نشد</string>
     <string name="fast_connect_device_title_connecting">درحال اتصال…</string>
     <string name="fast_connect_device_title_find_headset">یافتن %1$s</string>

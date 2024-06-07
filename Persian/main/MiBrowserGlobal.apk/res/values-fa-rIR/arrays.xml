@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_user_gender_name">
-        <item>آقا</item>
-        <item>خانم</item>
-    </string-array>
     <string-array name="alphabet_sub_table_with_starred">
         <item>!</item>
         <item>ا</item>
@@ -133,6 +129,10 @@
         <item>تبلیغات نرم</item>
         <item>آن را نمی‌پسندم</item>
     </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>مرد</item>
+        <item>زن</item>
+    </string-array>
     <string-array name="pref_fling_on_border_gesture_entries">
         <item>رفتن به عقب/جلو</item>
         <item>تعویض زبانه‌ها</item>
@@ -180,10 +180,6 @@
     <string-array name="pref_web_permissions_sub_two">
         <item>محدود کردن</item>
         <item>اجازه دادن</item>
-    </string-array>
-    <string-array name="setting_swipe_up_target">
-        <item>جستجو</item>
-        <item>اخبار</item>
     </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>حذف</item>

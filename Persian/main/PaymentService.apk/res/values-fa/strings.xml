@@ -28,4 +28,5 @@
     <string name="abc_shareactionprovider_share_with_application">هم‌رسانی با %s</string>
     <string name="abc_toolbar_collapse_description">کوچک کردن</string>
     <string name="search_menu_title">جستجو</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
 </resources>

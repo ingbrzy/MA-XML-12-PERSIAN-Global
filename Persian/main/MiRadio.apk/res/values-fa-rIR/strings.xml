@@ -57,6 +57,9 @@
     <string name="station_check_favorite">افزودن به موارد از پیش تعیین شده</string>
     <string name="stations_list">فهرست ایستگاه</string>
     <string name="stations_list_empty">بدون موارد از پیش تعیین شده</string>
+    <string name="talkback_back">بازگشت</string>
+    <string name="talkback_close">بستن</string>
+    <string name="talkback_speed">سرعت</string>
     <string name="toast_added_to_list">به فهرست افزوده شد</string>
     <string name="toast_added_to_presets">به موارد از پیش تعیین شده افزوده شد</string>
     <string name="toast_fm_error_startfailed">خطای ضبط. ممکن است برنامه دیگری در حال استفاده از این عملکرد باشد.</string>
@@ -69,7 +72,6 @@
     <string name="toast_sleep_mode">رادیو تا %s دیگر پخش را متوقف خواهد کرد</string>
     <string name="toast_sleep_mode_exit">زمان‌سنج خواب لغو شد</string>
     <string name="turn_off_fm">خاموش کردن FM</string>
-    <string name="txt_divider">" | "</string>
     <string name="txt_sleep_mode">حالت خواب</string>
     <string name="using_recorder_cancel">رد کردن</string>
     <string name="using_recorder_confirm">اجازه دادن</string>

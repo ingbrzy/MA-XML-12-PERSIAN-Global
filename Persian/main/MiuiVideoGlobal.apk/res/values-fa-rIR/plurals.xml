@@ -44,10 +44,6 @@
         <item quantity="other">%s ستاره انتخاب شدند</item>
         <item quantity="one">%s ستاره انتخاب شد</item>
     </plurals>
-    <plurals name="feed_back_home">
-        <item quantity="other">درحال بازگشت به صفحه اصلی تا %1$d ثانیه دیگر…</item>
-        <item quantity="one">درحال بازگشت به صفحه اصلی تا %1$d ثانیه دیگر…</item>
-    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">نیم ساعت پیش</item>
         <item quantity="one">نیم ساعت پیش</item>

@@ -2571,6 +2571,7 @@
     <string name="legal_information">اطلاعات حقوقی</string>
     <string name="license_title">مجوز</string>
     <string name="lift_to_wake_title">بیدار شدن با بالا بردن</string>
+    <string name="link_speed">%1$d مگابیت در ثانیه</string>
     <string name="live_caption_summary">رسانه زیرنویس خودکار</string>
     <string name="live_caption_title">زیرنویس زنده</string>
     <string name="loading_injected_setting_summary">بارگیری…</string>
@@ -2997,6 +2998,7 @@
     <string name="memory_usage">استفاده از حافظه</string>
     <string name="memory_usage_apps">حافظه مورداستفاده برنامه‌ها</string>
     <string name="memory_usage_apps_summary">{count,plural, =1{یک برنامه ظرف {time} گذشته از حافظه استفاده کرده است}one{‏‎# برنامه ظرف {time} گذشته از حافظه استفاده کرده است}other{‏‎# برنامه ظرف {time} گذشته از حافظه استفاده کرده‌اند}}</string>
+    <string name="memory_use_running_format">%1$s /‏ %2$s</string>
     <string name="memory_use_summary">%1$s متوسط حافظه استفاده شده در ۳ ساعت گذشته</string>
     <string name="memtag_footer">برای روشن یا خاموش کردن «محافظت از حافظه پیشرفته» باید دستگاه را بازراه‌اندازی کنید. وقتی روشن باشد، ممکن است متوجه کُندتر شدن عملکرد دستگاه شوید.</string>
     <string name="memtag_force_off">فعلاً برای دستگاه شما دردسترس نیست</string>
@@ -3218,6 +3220,7 @@
     <string name="nfc_main_switch_title">‏استفاده از NFC</string>
     <string name="nfc_more_details">بیشتر بدانید</string>
     <string name="nfc_more_title">بیشتر…</string>
+    <string name="nfc_payment_app_and_desc">%1$s -‏ %2$s</string>
     <string name="nfc_payment_btn_text_set_deault">تنظیم پیش‌فرض</string>
     <string name="nfc_payment_btn_text_update">به‌روزرسانی</string>
     <string name="nfc_payment_default">پیش‌فرض پرداخت</string>
@@ -3531,6 +3534,7 @@
     <string name="power_camera">دوربین</string>
     <string name="power_cell">شبکه تلفن همراه</string>
     <string name="power_charge_remaining">%1$s مانده تا شارژ کامل</string>
+    <string name="power_charging">%1$s - ‏%2$s</string>
     <string name="power_charging_duration">%1$s - %2$s تا شارژ کامل باقی مانده است</string>
     <string name="power_charging_future_paused">%1$s - شارژ بهینه شده است</string>
     <string name="power_charging_limited">%1$s - شارژ بهینه شده است</string>
@@ -3569,6 +3573,7 @@
     <string name="power_remaining_less_than_duration_only">کمتر از %1$s شارژ باقی مانده است</string>
     <string name="power_remaining_more_than_subtext">بیش از %1$s شارژ باقی مانده است (%2$s)</string>
     <string name="power_remaining_only_more_than_subtext">بیش از %1$s شارژ باقی مانده است</string>
+    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_screen">صفحه‌نمایش</string>
     <string name="power_suggestion_battery_run_out">ممکن است باتری %1$s تمام شود</string>
     <string name="power_usage_level_and_status">%1$s - %2$s</string>
@@ -3688,6 +3693,7 @@
     <string name="privileged_action_disable_sub_dialog_title">%1$s خاموش شود؟</string>
     <string name="privileged_action_disable_sub_dialog_title_without_carrier">سیم‌کارت خاموش شود؟</string>
     <string name="process_dex2oat_label">بهینه‌سازی برنامه</string>
+    <string name="process_kernel_label">‏سیستم‌عامل Android</string>
     <string name="process_mediaserver_label">سرور رسانه</string>
     <string name="process_network_tethering">اشتراک‌گذاری اینترنت</string>
     <string name="process_provider_in_use_description">ارائه دهنده %1$s در حال استفاده است.</string>
@@ -4533,6 +4539,7 @@
 
 اطلاعات اعتباری مطمئن نصب‌شده در دستگاهتان این کار را شدنی می‌کند."</string>
     <string name="standby_bucket_summary">وضعیت حالت آماده به‌کار برنامه: %s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_bt_address">آدرس بلوتوث</string>
     <string name="status_data_network_type">نوع شبکه داده تلفن همراه</string>
     <string name="status_data_state">وضعیت شبکهٔ تلفن همراه</string>
@@ -4708,6 +4715,7 @@
     <string name="suggestions_available">پیشنهادهای زیر</string>
     <string name="summary_collapsed_preference_list">%1$s، %2$s</string>
     <string name="summary_divider_text">"، "</string>
+    <string name="summary_range_symbol_combination">%1$s ‏- %2$s</string>
     <string name="sunday_first_day_of_week">یکشنبه</string>
     <string name="support_summary">مقاله‌های راهنما، تلفن و گپ</string>
     <string name="swipe_direction_ltr">برای رد کردن تند به‌چپ بکشید و برای نمایش منو تند به‌راست بکشید</string>
@@ -5970,9 +5978,11 @@
     <string name="zen_suggestion_summary">توقف موقت اعلان‌ها برای متمرکز ماندن</string>
     <string name="zen_suggestion_title">به‌روزرسانی «مزاحم نشوید»</string>
     <string name="zone_auto_title">تنظیم خودکار منطقه زمانی</string>
+    <string name="zone_info_exemplar_location_and_offset">%1$s (%2$s)</string>
     <string name="zone_info_footer_first_sentence">از %1$s استفاده می‌کند. %2$s</string>
     <string name="zone_info_footer_no_dst">از %1$s استفاده می‌کند. بدون ساعت تابستانی.</string>
     <string name="zone_info_footer_second_sentence">%1$s در %2$s شروع می‌شود.</string>
+    <string name="zone_info_offset_and_name">%2$s (%1$s)</string>
     <string name="zone_menu_by_offset">‏انتخاب براساس اختلاف با UTC</string>
     <string name="zone_menu_by_region">انتخاب براساس منطقه</string>
     <string name="zone_time_type_dst">ساعت تابستانی</string>

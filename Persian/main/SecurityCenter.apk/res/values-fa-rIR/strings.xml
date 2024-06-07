@@ -316,6 +316,9 @@
     <string name="app_manager_copy_pkg_to_clip">به حافظه موقت کپی شد</string>
     <string name="app_manager_data_size">داده‌های کاربر</string>
     <string name="app_manager_default_cleared">پاک‌سازی شد</string>
+    <string name="app_manager_default_close_summary">هیچ پیش‌فرضی تنظیم نشده است.</string>
+    <string name="app_manager_default_open_summary">شما انتخاب کرده‌اید که این برنامه را به صورت پیش‌فرض برای برخی اقدامات اجرا کنید.</string>
+    <string name="app_manager_default_open_title">پاک‌سازی پیش‌فرض‌ها</string>
     <string name="app_manager_defaults_setting">برنامه‌های پیش‌فرض</string>
     <string name="app_manager_details_electric_title">باتری</string>
     <string name="app_manager_details_storage_title">حافظه</string>
@@ -940,6 +943,7 @@
     <string name="card_main_private_space_summary">استفاده از فضای دوم مانند داشتن ۲ دستگاه است</string>
     <string name="card_main_private_space_title">فضای دوم</string>
     <string name="card_main_sectool_title">ابزار</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_video_manage_title">مدیریت ویدئوها</string>
     <string name="card_main_whatsappclean_title">پاک‌سازی کننده واتساپ</string>
     <string name="card_main_xspace_action">ایجاد</string>
@@ -1287,6 +1291,7 @@
     <string name="dynamic_performance_optimization_title">کارایی پویا</string>
     <string name="early_morning">صبح</string>
     <string name="edit_phone_num">ویرایش شماره تلفن سیم‌کارت</string>
+    <string name="ellipsis">…</string>
     <string name="email">ایمیل</string>
     <string name="empty" />
     <string name="empty_app">بدون برنامه</string>
@@ -1498,6 +1503,7 @@
     <string name="fod_finger_notice_title">انگشت خود را روی نمایشگر بگذارید</string>
     <string name="fod_finger_windows_tips">اثر انگشت خود را تأیید کنید</string>
     <string name="fod_tips_split_screen_more_than_half">گذرواژه را وارد کنید</string>
+    <string name="fold_application_mode_name">طرح‌های برنامه</string>
     <string name="forbid_autobright_summary">روشنایی خودکار هنگام بازی کردن خاموش شده و پس از پایان به حالت پیشین باز خواهد گشت</string>
     <string name="forbid_autobright_title">ثابت کردن روشنایی نمایشگر</string>
     <string name="foreground_traffic">پیش‌زمینه %s</string>
@@ -2019,7 +2025,7 @@ Record sequences and use them anytime!"</string>
     <string name="group_clipboard">حافظه موقت</string>
     <string name="group_connect_device">هم‌اتصالی</string>
     <string name="group_file">فایل‌ها و اسناد</string>
-    <string name="group_file_less_t">Access files and media</string>
+    <string name="group_file_less_t">دسترسی به فایل‌ها و رسانه‌ها</string>
     <string name="group_head_data_ai_clipboard">محافظت از حافظه موقت</string>
     <string name="group_head_data_camera_desc">خاموش کرده تا دسترسی به دوربین برای همه برنامه‌ها محدود شود</string>
     <string name="group_head_data_clipboard_desc">خاموش کرده تا دسترسی به حافظه موقت برای همه برنامه‌ها محدود شود</string>
@@ -2482,6 +2488,7 @@ to join our egg hunt!"</string>
     <string name="menu_text_license_manager">مجوزها</string>
     <string name="menu_text_networkassistants">مصرف اینترنت همراه</string>
     <string name="menu_text_networkassistants_danger">%s فراتر</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_remain">%s باقی‌مانده</string>
     <string name="menu_text_networkassistants_unit_b">بیت</string>
     <string name="menu_text_networkassistants_unit_gb">گیگابایت</string>
@@ -2490,6 +2497,7 @@ to join our egg hunt!"</string>
     <string name="menu_text_optimize_manage">افزایش سرعت</string>
     <string name="menu_text_optimize_manage_1">افزایش سرعت</string>
     <string name="menu_text_power_manager">باتری</string>
+    <string name="menu_text_power_percent_title">%s</string>
     <string name="menu_wh_remove">حذف از موارد استثنا</string>
     <string name="menu_white">افزودن به استثناها</string>
     <string name="mi_ime_not_used">استفاده از صفحه کلید مجاز شده توسط Xiaomi</string>
@@ -3096,7 +3104,7 @@ to join our egg hunt!"</string>
     <string name="pc_wireless_charging_special_stand_summary2">برای داشتن بهترین کارایی، دستگاه خود را بر روی پایه‌ای که به همراه شارژر بی‌سیم آمده است نصب کنید</string>
     <string name="pc_wireless_charging_special_stand_title">از پایه شارژ ارائه شده استفاده کنید</string>
     <string name="pc_wireless_handle_connected">دستگاه متصل شد</string>
-    <string name="pc_wireless_handle_title">گریپ دوربین بی‌سیم</string>
+    <string name="pc_wireless_handle_title">گریپ دوربین</string>
     <string name="pc_work_in_save_mode">بهینه‌ساز باتری</string>
     <string name="pc_work_in_super_save_mode">بهینه‌ساز فوق‌العاده باتری</string>
     <string name="pc_xiaoai_create_auto_task">کار جدید از Mi AI</string>
@@ -3157,7 +3165,7 @@ to join our egg hunt!"</string>
     <string name="permission_group_camera">این مجوز به برنامه‌ها امکان استفاده از دوربین برای گرفتن عکس‌ها و ضبط ویدئوها را می‌دهد.</string>
     <string name="permission_group_contact">این مجوز به برنامه‌ها امکان دسترسی یا ویرایش مخاطبین و همچنین نمایش مخاطبین برنامه ایجاد شده در این دستگاه را می‌دهد.</string>
     <string name="permission_group_file">این مجوز به برنامه‌ها امکان دسترسی به همه فایل‌های ذخیره شده در این دستگاه را می‌دهد.</string>
-    <string name="permission_group_file_less_t">This permission allows apps to access photos, videos, audio, and other files stored on this device.</string>
+    <string name="permission_group_file_less_t">این مجوز به برنامه‌ها امکان دسترسی به عکس‌ها، ویدئوها، صداها و سایر فایل‌های ذخیره شده در این دستگاه را می‌دهد.</string>
     <string name="permission_group_image_video">این مجوز به برنامه‌ها امکان دسترسی به عکس‌ها و ویدئوهای ذخیره شده در این دستگاه را می‌دهد.</string>
     <string name="permission_group_location">این مجوز به برنامه‌ها امکان می‌دهد از طریق شبکه یا ماهواره به اطلاعات مکانی دسترسی داشته باشند.</string>
     <string name="permission_group_microphone">این مجوز به برنامه‌ها امکان استفاده از میکروفن برای ضبط صدا را می‌دهد.</string>
@@ -3276,7 +3284,7 @@ to join our egg hunt!"</string>
     <string name="pm_remember_choice">انتخاب مرا به یاد داشته باش</string>
     <string name="pm_root_success_notification_infomation">مطمئن شوید که خطرات مرتبط با دسترسی روت را فهمیده‌اید</string>
     <string name="pm_root_success_notification_title">اجازه دسترسی روت داده شد</string>
-    <string name="popular_action_anti_spam_title_global">مسدود کردن تماس‌ها و پیام‌ها</string>
+    <string name="popular_action_anti_spam_title_global">مسدود کردن تماس‌های ناخواسته</string>
     <string name="popular_action_app_lock_title_global">با قفل برنامه از برنامه‌ها محافظت کنید</string>
     <string name="popular_action_card_title">ویژگی‌های پرطرفدار</string>
     <string name="popular_action_first_aid_title_global">برای کاربران جدید</string>
@@ -3332,6 +3340,11 @@ to join our egg hunt!"</string>
     <string name="power_center_dialog_msg_top">هنگام روشن بودن بهینه‌ساز باتری، بهینه‌سازی‌های زیر انجام خواهند شد:</string>
     <string name="power_center_hints_scan_danger_result">حالا می‌توانید اشکالات باتری را برطرف کنید</string>
     <string name="power_center_list_item_auto_brightness">تنظیم خودکار روشنایی نمایشگر</string>
+    <string name="power_center_list_item_battery_health_model_temperature">%d ℃</string>
+    <string name="power_center_list_item_battery_health_model_voltage">%s ولت</string>
+    <string name="power_center_list_item_battery_health_model_volume">%s میلی‌آمپر</string>
+    <string name="power_center_list_item_battery_status_capacity">میلی‌آمپر</string>
+    <string name="power_center_list_item_battery_status_temperature">℃</string>
     <string name="power_center_list_item_battery_status_time">ساعت</string>
     <string name="power_center_list_item_close_bluetooth">خاموش کردن بلوتوث</string>
     <string name="power_center_list_item_deep_save_title">تنظیمات پیشرفته</string>
@@ -3644,6 +3657,7 @@ to join our egg hunt!"</string>
     <string name="pref_normal_traffic_limit">وقتی که طرح اینترنت همراه مصرف شد</string>
     <string name="pref_open_adjust_traffic">به‌روزرسانی روزانه مصرف اینترنت همراه با استفاده از آمار شرکت مخابراتی شما</string>
     <string name="pref_operator_not_set">شرکت مخابرات تنظیم نیست</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_over_traffic_limit">هنگامی که از طرح اینترنت همراه خود فراتر می‌روید</string>
     <string name="pref_package_traffic_settings">طرح اینترنت همراه</string>
     <string name="pref_pkg_begin_date">تاریخ بازنشانی مصرف</string>
@@ -3943,6 +3957,7 @@ to join our egg hunt!"</string>
     <string name="privacy_using_record">درحال ضبط صدا</string>
     <string name="privacyapp_number_masked_text">محتوای اعلان‌ها پنهان است</string>
     <string name="privacyapp_number_unmasked_text">محتوای اعلان‌ها می‌توانند پنهان شوند</string>
+    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">سرور رسانه</string>
     <string name="process_vpnsdkmanager_label">افزاینده سرعت بازی</string>
     <string name="promotion">تبلیغ</string>
@@ -5173,7 +5188,7 @@ Rolled over extra data"</string>
     <string name="vb_video_effects_spatial_summary_new">هنگام استفاده از هدفون، حس بهتر فضا و جهت را برای صدای پشتیبانی شده تجربه کنید</string>
     <string name="vb_video_effects_srs_premium_sound">صدا</string>
     <string name="vb_video_super_division">افزایش وضوح</string>
-    <string name="vb_video_super_division_desc">"افزایش وضوح به صورت خودکار هنگامی که ≤720p باشد.
+    <string name="vb_video_super_division_desc">"افزایش وضوح به صورت خودکار هنگامی که ≤720P باشد.
 
 استفاده از این ویژگی مصرف برق را افزایش می‌دهد.
 
@@ -5223,6 +5238,7 @@ Rolled over extra data"</string>
     <string name="virus_update_tips_title">هشدار</string>
     <string name="virus_wait_network_dialog_message">گوشی شما اکنون به Wi-Fi وصل نیست. از اینترنت همراه استفاده شود؟</string>
     <string name="vtb_ai_subtitle">زیرنویس</string>
+    <string name="vtb_ai_subtitle_intl">زیرنویس‌های AI</string>
     <string name="vtb_func_desc">درباره این ویژگی</string>
     <string name="vtb_func_display_style_desc0">AI‏ می‌تواند افراد، حیوانات، گیاهان، آسمان، ساختمان‌ها و سایر اشیاء موجود در ویدئوها را شناسایی کرده و به صورت پویا آن‌ها را بهبود بخشد.</string>
     <string name="vtb_func_display_style_desc1">جلوه‌های انتخاب شده در دستگاه‌های انتخاب شده روی ویدئوهای HDR به‌کار برده نخواهند شد.</string>

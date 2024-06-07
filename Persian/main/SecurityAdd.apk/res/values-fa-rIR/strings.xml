@@ -29,6 +29,7 @@
     <string name="dual_app_title">برنامه‌های همزاد</string>
     <string name="dual_app_words">هر حسابی سزاوار برنامه‌های خودش است</string>
     <string name="early_morning">صبح</string>
+    <string name="empty">" "</string>
     <string name="eras_ad">میلادی</string>
     <string name="eras_bc">پیش از میلاد</string>
     <string name="evening">بعد از ظهر</string>

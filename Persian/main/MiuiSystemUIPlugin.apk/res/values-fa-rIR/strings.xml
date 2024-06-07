@@ -159,7 +159,7 @@
     <string name="kddi_miui_toast_zen_standard_to_off">حالت بی‌صدا اکنون خاموش است. تماس‌ها و اعلان‌ها بی‌صدا نخواهند شد.</string>
     <string name="kddi_miui_toast_zen_to_standard">به حالت بی‌صدا تعویض شد. تماس‌ها و اعلان‌ها اکنون بی‌صدا خواهند شد.</string>
     <string name="loading">وضعیت ناشناخته</string>
-    <string name="mi_smart_hub_entry_title">Mi Smart Hub</string>
+    <string name="mi_smart_hub_entry_title">Xiaomi Smart Hub</string>
     <string name="midnight">شب</string>
     <string name="miplay_accessibility_cast">انتخاب دستگاه</string>
     <string name="miplay_accessibility_cover">جلد</string>
@@ -172,6 +172,8 @@
     <string name="miplay_bluetooth_share_des_text">"کاربران ایربادهای شیائومی: قاب شارژر را باز کنید و دکمه قاب را %d ثانیه فشار داده و نگه دارید
 کاربران ایربادهای غیرشیائومی: ایربادهای خود را در تنظیمات بلوتوث بازنشانی کنید و سپس وصل شوید"</string>
     <string name="miplay_bluetooth_share_headphone_pairing">برای اشتراک‌گذاری صدا، ایرفون‌اضافه کنید</string>
+    <string name="miplay_bluetooth_share_music_cancel_btn_content_des">اشتراک گذاری صدا پایان یافت</string>
+    <string name="miplay_bluetooth_share_music_together_btn_content_des">برای اشتراک گذاری صدا، ایرفون بیافزایید</string>
     <string name="miplay_bluetooth_share_subTitle_text">اشتراک‌گذاری صدای دستگاه با شخص دیگر</string>
     <string name="miplay_bluetooth_share_title_text">تقسیم صدا</string>
     <string name="miplay_detail_divider_title">بلندگوها</string>

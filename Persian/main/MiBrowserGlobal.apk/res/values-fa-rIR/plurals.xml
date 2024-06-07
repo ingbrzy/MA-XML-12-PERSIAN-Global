@@ -48,10 +48,6 @@
         <item quantity="other">تا کنون %d تبلیغ مسدود شده است</item>
         <item quantity="one">تا کنون %d تبلیغ مسدود شده است</item>
     </plurals>
-    <plurals name="antivirus_desc_not_scanned_virus_in_days">
-        <item quantity="other">%d روز است که اسکن نشده است</item>
-        <item quantity="one">%d روز است که اسکن نشده است</item>
-    </plurals>
     <plurals name="articles_updated_amount">
         <item quantity="other">%1$d مقاله جدید را ببینید</item>
         <item quantity="one">%1$d مقاله جدید را ببینید</item>
@@ -59,18 +55,6 @@
     <plurals name="auto_play_next_tips">
         <item quantity="other">تا %d ثانیه دیگر ویدئوی بعدی پخش خواهد شد</item>
         <item quantity="one">تا %d ثانیه دیگر ویدئوی بعدی پخش خواهد شد</item>
-    </plurals>
-    <plurals name="back_dialog_antivirus_content_des">
-        <item quantity="other">%d روز است که دستگاه خود را اسکن نکرده‌اید. اکنون اسکن شود؟</item>
-        <item quantity="one">%d روز است که دستگاه خود را اسکن نکرده‌اید. اکنون اسکن شود؟</item>
-    </plurals>
-    <plurals name="back_dialog_day">
-        <item quantity="other">روز</item>
-        <item quantity="one">روز</item>
-    </plurals>
-    <plurals name="back_dialog_health_check_content_des">
-        <item quantity="other">%d روز است که دستگاه خود را بهینه‌سازی نکرده‌اید. اکنون بهینه‌سازی شود؟</item>
-        <item quantity="one">%d روز است که دستگاه خود را بهینه‌سازی نکرده‌اید. اکنون بهینه‌سازی شود؟</item>
     </plurals>
     <plurals name="count_likes">
         <item quantity="other">%s نفر پسندیدند</item>
@@ -108,10 +92,6 @@
         <item quantity="other">%d دنبال‌کننده</item>
         <item quantity="one">%d دنبال‌کننده</item>
     </plurals>
-    <plurals name="hour">
-        <item quantity="other">%d ساعت</item>
-        <item quantity="one">%d ساعت</item>
-    </plurals>
     <plurals name="hours_ago">
         <item quantity="other">%1$d ساعت پیش</item>
         <item quantity="one">%1$d ساعت پیش</item>
@@ -140,6 +120,10 @@
         <item quantity="other">‏%d بار محافظت شد</item>
         <item quantity="one">‏%d بار محافظت شد</item>
     </plurals>
+    <plurals name="kindred_coupons_hint">
+        <item quantity="other">شما %d کوپن دارید</item>
+        <item quantity="one">شما %d کوپن دارید</item>
+    </plurals>
     <plurals name="le_notification_download_completed">
         <item quantity="other">%1$s مورد با موفقیت دانلود شدند</item>
         <item quantity="one">%1$s مورد با موفقیت دانلود شد</item>
@@ -151,10 +135,6 @@
     <plurals name="mins_ago">
         <item quantity="other">%1$d دقیقه پیش</item>
         <item quantity="one">%1$d دقیقه پیش</item>
-    </plurals>
-    <plurals name="minute">
-        <item quantity="other">%d دقیقه</item>
-        <item quantity="one">%d دقیقه</item>
     </plurals>
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d مورد انتخاب شد</item>

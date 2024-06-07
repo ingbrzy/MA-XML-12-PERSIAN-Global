@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="account_user_gender_name">
-        <item>آقا</item>
-        <item>خانم</item>
-    </string-array>
     <string-array name="activities_title">
         <item>روز خاص</item>
         <item>روزی برای به یاد ماندن</item>
@@ -171,6 +167,14 @@
         <item>Into the wild</item>
         <item>Wild and free</item>
     </string-array>
+    <string-array name="global_backup_display_title">
+        <item>@string/backup_google_name</item>
+        <item>@string/backup_onedrive_single_name</item>
+    </string-array>
+    <string-array name="global_backup_display_value">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="group_people_title">
         <item>Our get-togethers</item>
         <item>In the company of friends</item>
@@ -225,6 +229,11 @@
         <item>دوستان جدید و رفقای قدیمی</item>
         <item>دورهمی‌های پارسال</item>
     </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>انتقال</item>
+        <item>کپی</item>
+        <item>@string/cancel</item>
+    </string-array>
     <string-array name="month">
         <item>ژانویه</item>
         <item>فوریه</item>
@@ -264,6 +273,10 @@
         <item>با هم</item>
         <item>زمان‌های خوب</item>
         <item>در اتحاد</item>
+    </string-array>
+    <string-array name="passport_account_user_gender_name">
+        <item>مرد</item>
+        <item>زن</item>
     </string-array>
     <string-array name="people_travel_title">
         <item>Where the road takes us</item>

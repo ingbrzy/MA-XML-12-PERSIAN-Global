@@ -317,6 +317,7 @@
     <string name="gadget_search_label">جستجو</string>
     <string name="gadget_weather_title">آب و هوا</string>
     <string name="global_search">جستجو</string>
+    <string name="global_shelf">اپلیکیشن یاب</string>
     <string name="got_it_botton">فهمیدم</string>
     <string name="guide_install_app_msg">این برنامه بر روی دستگاه شما نصب نشده است. هم‌اکنون پیدا کردن و نصب برنامه انجام شود؟</string>
     <string name="guide_install_app_title">پیدا کردن و نصب برنامه انجام شود؟</string>
@@ -324,6 +325,7 @@
     <string name="guide_privacy_dialog_title">شرایط استفاده از خدمات</string>
     <string name="home_gesture_content_center">مرکز محتوا</string>
     <string name="home_gesture_global_search">جستجو</string>
+    <string name="home_gesture_global_shelf">اپلیکیشن یاب</string>
     <string name="home_gesture_no_action">خالی</string>
     <string name="home_gesture_notification_and_control_center">کرکره اعلان و مرکز کنترل</string>
     <string name="home_gesture_notification_bar">اعلان‌ها</string>
@@ -341,7 +343,7 @@
     <string name="international_home_pull_down_sub_content">به جای آن می‌توانید در تنظیمات >صفحه اصلی > پایین کشیدن صفحه اصلی این اشاره را برای باز کردن مرکز کنترل استفاده کنید.</string>
     <string name="international_home_pull_down_up_btn_get">متوجه‌ام</string>
     <string name="international_home_pull_up_content">کشیدن بالای صفحه اصلی برای باز کردن مرکز محتوا.</string>
-    <string name="international_home_pull_up_sub_content">برای باز کردن جستجو، وسط صفحه اصلی خود را به پایین بکشید.</string>
+    <string name="international_home_pull_up_sub_content">برای پیدا کردن برنامه‌ها و پیشنهادهای برنامه، انگشت خود را از مرکز صفحه اصلی به پایین بکشید.</string>
     <string name="jeejen_description">"عناصر رابط کاربری بزرگ‌تر.
 تماس دسترسی‌پذیر بیشتر.
 امنیت بهبود یافت."</string>
@@ -393,7 +395,7 @@
     <string name="mi_wallpaper">تم‌های MIUI</string>
     <string name="midnight">شب</string>
     <string name="minus_one_screen">قفسه برنامه</string>
-    <string name="miui_screen_config_title">تنظیمات صفحه اصلی</string>
+    <string name="miui_screen_config_title">چیدمان صفحه اصلی</string>
     <string name="miui_setting_config_title">تنظیمات صفحه اصلی</string>
     <string name="miui_widget_menu_replace_text">جایگزینی</string>
     <string name="miui_widget_toast_for_not_support_by_pa">قفسه برنامه از ابزارکی با این اندازه پشتیبانی نمی‌کند</string>
@@ -563,8 +565,9 @@
     <string name="recent_menu_item_info">اطلاعات</string>
     <string name="recent_menu_item_lock">قفل</string>
     <string name="recent_menu_item_unlock">باز کردن قفل</string>
-    <string name="recent_menu_item_worldcirculate">应用流转</string>
-    <string name="recent_menu_item_worldcirculate_disable">应用无法流转</string>
+    <string name="recent_menu_item_worldcirculate">انتقال کارهای برنامه</string>
+    <string name="recent_menu_item_worldcirculate_disable">کارهای برنامه بین دستگاه‌های متصل منتقل نمی‌شوند</string>
+    <string name="recent_pin_text">ویژه</string>
     <string name="recents_app_info_button_label">اطلاعات برنامه</string>
     <string name="recents_config_title">موارد تازه</string>
     <string name="recents_dimiss_task">پاک‌سازی</string>
@@ -661,8 +664,10 @@
     <string name="switch_personal_assistant_app_vault">قفسه برنامه</string>
     <string name="switch_personal_assistant_google">Google Discover</string>
     <string name="switch_personal_assistant_none">هیچ کدام</string>
+    <string name="switch_personal_assistant_summary">برای باز کردن Google Discover صفحه اصلی را به سمت راست بکشید</string>
     <string name="switch_screen_button_order">معکوس کردن دکمه‌ها</string>
     <string name="switch_screen_button_order_desc">جابجایی دکمه‌های بازگشت و منو</string>
+    <string name="system_sdk_disabled_toast">SDK سیستم غیرفعال شده است. ابتدا آن را فعال کنید.</string>
     <string name="system_shortcuts_edit">ویرایش</string>
     <string name="system_shortcuts_icon_remove">برداشتن</string>
     <string name="system_shortcuts_more_operation">اطلاعات برنامه</string>

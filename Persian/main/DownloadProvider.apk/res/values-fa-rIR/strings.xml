@@ -10,6 +10,7 @@
     <string name="download_queued">به صف افزوده شد</string>
     <string name="download_remaining">%s مورد مانده</string>
     <string name="download_running">در حال دانلود</string>
+    <string name="download_running_percent">درحال دانلود %s</string>
     <string name="download_unknown_title">&lt;بدون نام></string>
     <string name="notif_title_file_size">%1$d کل</string>
     <string name="notif_title_single_downloading">درحال دانلود %1$s</string>

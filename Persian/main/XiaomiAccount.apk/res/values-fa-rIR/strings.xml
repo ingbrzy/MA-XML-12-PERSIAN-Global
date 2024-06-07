@@ -215,7 +215,7 @@
     <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">h a</string>
+    <string name="fmt_time_12hour_pm">ah</string>
     <string name="fmt_time_24hour">"H 'o''clock'"</string>
     <string name="fmt_time_24hour_minute">H:mm</string>
     <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
@@ -301,6 +301,7 @@
     <string name="miuix_appcompat_delete_description">حذف</string>
     <string name="miuix_appcompat_deselect_all">لغو انتخاب همه</string>
     <string name="miuix_appcompat_deselect_all_description">لغو انتخاب همه</string>
+    <string name="miuix_appcompat_edit">ویرایش</string>
     <string name="miuix_appcompat_search_action_mode_cancel">لغو</string>
     <string name="miuix_appcompat_search_input_description">جستجو</string>
     <string name="miuix_appcompat_select_all">انتخاب همه</string>
@@ -838,7 +839,7 @@
 %2$d. در صورتی که گذرواژه خود را نمی‌توانید دوباره تنظیم کنید و یا کسی دستگاه شما را قفل کرده است، به i.mi.com رفته تا قفل آن را باز کنید.
 %3$d. شماره باز کردن قفل شما: %4$s"</string>
     <string name="update_apk_version_later">اکنون نه</string>
-    <string name="update_apk_version_now">به‌روزرسانی</string>
+    <string name="update_apk_version_now">نصب</string>
     <string name="update_email_address_dialog_message">پیش از آنکه بتوانید ایمیل خود را به‌روزرسانی کنید لازم است هویت خود را تأیید کنید.</string>
     <string name="update_email_address_dialog_title">به‌روزرسانی ایمیل</string>
     <string name="update_phone_notice">تغییر تنظیمات امنیت</string>
@@ -850,7 +851,6 @@
     <string name="user_agreement_read_phone_permission_desc">برای ورود با استفاده از شماره تلفن</string>
     <string name="user_agreement_read_phone_permission_title">خواندن شماره تلفن‌ها</string>
     <string name="user_agreement_use_account_msg">حساب Xiaomi به شما امکان دسترسی به همه خدمات ارائه شده توسط Xiaomi را می‌دهد.</string>
-    <string name="user_agreement_wifi_permission_title">روشن و خاموش کردن Wi-Fi</string>
     <string name="user_agreement_wlan_permission_desc">برای بررسی محیط ورود به حساب برای اشکالات امنیتی</string>
     <string name="user_agreement_wlan_permission_title_china">روشن و خاموش کردن WLAN</string>
     <string name="user_avatar_update_title">تغییر عکس نمایه</string>
